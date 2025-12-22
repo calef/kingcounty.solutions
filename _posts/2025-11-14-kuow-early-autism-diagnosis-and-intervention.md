@@ -123,7 +123,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   IHDD</a>.</p>"
 image_ids:
 - bf974eb65d293fcbef512f4dbee6bf9c2d7838807a8c043d1dcc7f22fbd3b811
-locations:
+location_titles:
 - King County
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/14/kuow-early-autism-diagnosis-and-intervention/

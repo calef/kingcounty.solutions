@@ -7,7 +7,7 @@ feed_content: |-
   <span><span><span>Sr. Administrative Assistant</span></span></span></p>
   <p><span><span><strong><span>Notice:</span></strong></span></span></p></div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/bc-utilityboard/page/notice-cancelation-utility-board-meeting-november-11-december-9

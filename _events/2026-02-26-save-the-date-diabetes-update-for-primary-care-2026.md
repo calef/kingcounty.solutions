@@ -352,7 +352,7 @@ feed_content: '<div id="main-wrapper"> <div id="mainContentDiv" class="container
   </tbody></table></div> </div> </div> </div> </div> </div> </div> </div>'
 image_ids: []
 location: University Of Washington Tower Building O (UWTO)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

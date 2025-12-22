@@ -1094,7 +1094,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 336b3a897116260715d2347030d5fca1f057bb31
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p>Researching veteran discounts often means dodging outdated information, misleading sites, or even malware—some require paid memberships, too. We’ve created a reliable list: no fees, and fully vetted, we’ve got your six.</p>

@@ -14,7 +14,7 @@ feed_content: '<div> <div> <section> <div> <p> <a> « All Events</a> </p> <div> 
 feed_content_checksum: b0f2166b4d6b1fdc009e386b77bdc7ff90237c00
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Federal Way Senior Center
 published: false

@@ -43,7 +43,7 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   brown, about 5-8 minutes.</p><p class="">- Remove from oil onto paper towels to
   drain and sprinkle with salt, zest, and pepper. </p>'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/chickpea-bisque

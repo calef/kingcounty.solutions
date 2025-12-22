@@ -8,7 +8,7 @@ feed_content: Community Corner highlights the work of Seattle Human Services’ 
   Jordan Neto...
 feed_content_checksum: b66722ad5fd7d12247a061156d56c8348879bba1
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Community Corner highlights the work of Seattle Human Services’
   community partners in their own words. Our goal is to gather stories and photos

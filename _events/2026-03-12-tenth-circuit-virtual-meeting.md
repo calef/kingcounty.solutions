@@ -7613,7 +7613,7 @@ feed_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <link>
 feed_content_checksum: a084a9233b2d3ac9a4cfab62f2ddb3988f6cdef8
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: NOSSCR Referral Service
 published: false
 source_url: https://nosscr.org/event/tenth-circuit-virtual-meeting/

@@ -41,7 +41,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
 feed_content_checksum: a43e2b2a00cd501ca895fd90679ed386d07715c3
 image_ids: []
 location: CISC, 16305 NE 87th St, Suite 123, Redmond, WA, 98052, United States
-locations:
+location_titles:
 - King County
 organization_title: Together Center
 source_url: https://togethercenter.org/event/cisc-medical-insurance-consulting-service-cantonese-and-mandarin/2025-12-23/

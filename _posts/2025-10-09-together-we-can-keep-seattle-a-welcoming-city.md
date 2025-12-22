@@ -139,7 +139,7 @@ feed_content: |-
 image_ids:
 - '07934d6346971be3d69900292d1cc9b96ab0820c7ec74a1e86516d1626a0c9d0'
 - c1f2d2bc9bd291fe36e4b8f0c16b41052d8886e60b552d8d9abb12e6a12a4c19
-locations:
+location_titles:
 - King County
 source: Refugee Women's Alliance
 source_url: https://www.rewa.org/together-we-can-keep-seattle-a-welcoming-city/?utm_source=rss&utm_medium=rss&utm_campaign=together-we-can-keep-seattle-a-welcoming-city

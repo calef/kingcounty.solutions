@@ -19,7 +19,7 @@ feed_content: |-
   <p>The post <a>Meals on Wheels: Deliver Meals and a Smile in Bellevue!</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: 8ec31b743acaa8d74ee6220f368fa1d94d80815e
 image_ids: []
-locations:
+location_titles:
 - Bellevue
 source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-deliver-meals-and-a-smile-in-bellevue-2/

@@ -4,7 +4,7 @@ feed_content: We&#8217;re so grateful for the excellent work done by Hanson&#821
   Chimney (Hanson’s Chimney) on our recent chimney repair at the Federal Way Senior
   Center. Dan Hanson, in particular, was fantastic [&#8230;]
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/hansons-chimney/?utm_source=rss&utm_medium=rss&utm_campaign=hansons-chimney

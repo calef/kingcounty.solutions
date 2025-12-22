@@ -8,7 +8,7 @@ feed_content: 'The turning of the fall leaves welcomes a new tradition for the r
   Oct. 11.    &#160;“Vashon Island was the first water taxi route for King County,
   and residents&#8230;'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/09/17/all-aboard-king-county-adds-saturday-sailings-for-vashon-water-taxi/

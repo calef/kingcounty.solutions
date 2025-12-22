@@ -17,7 +17,7 @@ feed_content: |-
 
   The post [Sunshine Garden Activity Schedule – September](https://cisc-seattle.org/sunshine-garden-activity-schedule-september/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/sunshine-garden-activity-schedule-september/?utm_source=rss&utm_medium=rss&utm_campaign=sunshine-garden-activity-schedule-september

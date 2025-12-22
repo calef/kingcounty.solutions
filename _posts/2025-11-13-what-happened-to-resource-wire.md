@@ -8,7 +8,7 @@ feed_content: |-
   <p><b><i><span data-contrast="none">Questions</span></i></b><b><i><span data-contrast="none">? Have a resource you think other people should know about? Email us at </span></i></b><a href="mailto:resourcewire@solid-ground.org"><b><i><span data-contrast="none">resourcewire@solid-ground.org</span></i></b></a><b><i><span data-contrast="none">.</span></i></b></p>
   <p><span data-ccp-props="{}"> </span></p>The post <a href="https://www.solid-ground.org/what-happened-to-resource-wire/">What happened to Resource Wire? </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Solid Ground
 source_url: https://www.solid-ground.org/what-happened-to-resource-wire/

@@ -8,7 +8,7 @@ feed_content: |-
   <p><em>~posted by Genesee. Descriptions provided by publishers.</em></p>
 feed_content_checksum: c652df3b80e2a81679f04abadd2ad50343848464
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/08/2025-horror-fiction-picks/

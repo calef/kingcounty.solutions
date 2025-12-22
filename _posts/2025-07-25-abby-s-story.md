@@ -41,7 +41,7 @@ feed_content: "<p><strong>From a To-Do List to a Lifeline: Abby’s Journey with
   <a href=\"mailto:victrinia@harmonyhill.org\" target=\"_blank\" rel=\"noreferrer
   noopener\">Contact Our Communications Team</a></p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/abbys-story/

@@ -26,7 +26,7 @@ feed_content: |-
   <p></p>
   <p>The post <a href="https://www.seedseattle.org/meet-the-artist-tommy-gregory/">Meet the artist: Tommy Gregory</a> appeared first on <a href="https://www.seedseattle.org">SouthEast Effective Development</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: SouthEast Effective Development
 source_url: https://www.seedseattle.org/meet-the-artist-tommy-gregory/

@@ -8,7 +8,7 @@ feed_content: Boze Elementary Students work together through a math worksheet. I
   pedagogy is the practice of teaching, and the methodology used to influence children’s
   learning and development.   How this applies [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Technology Access Foundation
 source_url: https://techaccess.org/why-pedagogy-matters-when-making-education-equitable/

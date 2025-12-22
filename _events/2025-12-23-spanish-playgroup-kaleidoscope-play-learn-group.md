@@ -209,7 +209,7 @@ feed_content: '<a class="skip-link screen-reader-text" href="#content">Skip to c
   </span> </a> </div> </div> </div> </div> </div> </div> </section> </div>'
 image_ids: []
 location: Family Resource Center, 1005 NE 67th St, Seattle, WA, 98115, United States
-locations:
+location_titles:
 - King County
 organization_title: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/event/spanish-playgroup-kaleidoscope-play-learn-group-3/2025-12-23/

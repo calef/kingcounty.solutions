@@ -73,7 +73,7 @@ feed_content: |-
 
   <p></p><p>The post <a href="https://angelflightwest.org/news/south-coast-area-pilot-helps-patients-reach-lifesaving-care-and-earns-national-recognition/"> South Coast-Area Pilot Helps Patients Reach Lifesaving Care and Earns National Recognition</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/south-coast-area-pilot-helps-patients-reach-lifesaving-care-and-earns-national-recognition/

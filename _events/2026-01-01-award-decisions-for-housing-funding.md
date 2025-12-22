@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Department of Commerce
 source_url: https://www.commerce.wa.gov/commerce-receives-112-applications-to-recent-funding-opportunities/

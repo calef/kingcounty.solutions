@@ -5,7 +5,7 @@ feed_content: 'Translated materails: Spanish; Amharic; Somali; Vietnamese Great 
   be available for sports teams and community groups to reserve. This pilot program
   offers free field...'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/05/get-ready-to-play-south-park-playfield-opens-for-community-use/

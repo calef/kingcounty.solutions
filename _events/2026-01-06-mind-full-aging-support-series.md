@@ -3,7 +3,7 @@ end_date: '2026-02-24T14:00:00-08:00'
 generated_from_post: true
 image_ids: []
 location: Shoreline Lake Forest Park Senior Activity Center
-locations:
+location_titles:
 - King County
 organization_title: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/mindfull-aging/

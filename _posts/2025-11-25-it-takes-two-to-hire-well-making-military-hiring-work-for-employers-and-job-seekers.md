@@ -75,7 +75,7 @@ feed_content: "<p>The sharing of non-VA information does not constitute an endor
   employer’s life easier, we will make the Veteran’s life better.</p>"
 image_ids:
 - 34263867dafbcdd68d71913952f47fe379ce7eb02c6e5d44309fef573ffa8585
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143607/map-military-experience-to-civilian-jobs/

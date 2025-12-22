@@ -69,7 +69,7 @@ feed_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <heade
   et_bloom_1_field et_bloom_bottom_stacked"> <h2 class="et_bloom_success_message">You
   have Successfully Subscribed!</h2> </div> </div> </div> </div>'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/call-for-bids-annual-newspaper-2/

@@ -8,7 +8,7 @@ feed_content: The upcoming webinars focus on preventing substance use and addres
   with strategies for prevention and education, fostering collaboration among various
   stakeholders to improve adolescent health outcomes.
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/22/upcoming-sbha-training/

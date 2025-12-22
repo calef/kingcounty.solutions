@@ -8,7 +8,7 @@ feed_content: Residents of Auburn at Pike Street NE and Pike Place NE off the Gr
   WALK OR DRIVE through moving water or on flooded roadways. […]
 feed_content_checksum: 786a25844814ad5d58f6444f1c36f8532e168f1a
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://kcemergency.com/2025/12/13/auburn-set-message-12-13-25/
 source: King County Emergency Management

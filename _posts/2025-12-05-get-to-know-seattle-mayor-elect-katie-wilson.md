@@ -7,7 +7,7 @@ feed_content: On January 1, 2026, Mayor-elect Katie Wilson will be sworn into of
   prepare for this shift in leadership, we want to give the community an opportunity
   to learn more abou...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/04/get-to-know-seattle-mayor-elect-katie-wilson/

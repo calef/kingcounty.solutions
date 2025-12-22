@@ -126,7 +126,7 @@ feed_content: '<a href="#main-content" class="element-invisible element-focusabl
   </div> </div> </div> </div>'
 image_ids: []
 location: Meany Hall (MNY)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

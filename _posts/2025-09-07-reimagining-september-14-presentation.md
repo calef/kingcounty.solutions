@@ -76,7 +76,7 @@ feed_content: "<section class=\"elementor-section elementor-top-section elemento
   post [Reimagining September 14 Presentation](https://redmondumc.org/reimaginingseptember-14-presentation/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Redmond United Methodist Church - Social Ministries
 source_url: https://redmondumc.org/reimaginingseptember-14-presentation/

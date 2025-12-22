@@ -94,7 +94,7 @@ feed_content: |-
   <p>“Thank you,” he said. “Every little bit helps whenever we are trying to get to a good stable place after leaving the military. We have been fortunate to get where we are, where we’ve reached contentment, and that’s in part due to organizations and donors like yours who helped along with the way.”&nbsp;</p>
   <p>The post <a href="https://operationhomefront.org/holiday-meals-events-deliver-more-than-food/">Holiday Meals Events Deliver More Than Food </a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/holiday-meals-events-deliver-more-than-food/

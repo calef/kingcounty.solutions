@@ -5,7 +5,7 @@ feed_content: "<div>\n  \n      \n    <span>01/06/2026 - 6:00pm</span>\n      </
   \     </div>"
 feed_content_checksum: 59ae2598b4262ed6d807510b5248816a7c2b9c19
 image_ids: []
-locations:
+location_titles:
 - Black Diamond
 original_source_html: "<div>\n  \n      \n    <span>01/06/2026 - 6:00pm</span>\n      </div>\n\n<div>\n
   \ \n      \n    <p>For Planning Commission Meeting Agendas please <a>CLICK HERE.</a></p>\n

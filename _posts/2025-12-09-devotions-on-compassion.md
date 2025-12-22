@@ -38,7 +38,7 @@ feed_content_checksum: 1597cca8145775a0ae80b2062d48aa6ee6935d7d
 image_ids:
 - 416fdc2586bd16667fd2804f432c536df5037b35f82ec14bdeb889ba1dd1e1a4
 - c787eae2756633f95c699796e5fdfed49f65171f1a89a2917632c9fb6f977437
-locations:
+location_titles:
 - King County
 source: Samaritan Center of Puget Sound
 source_url: https://samaritanps.org/devotions-on-compassion/

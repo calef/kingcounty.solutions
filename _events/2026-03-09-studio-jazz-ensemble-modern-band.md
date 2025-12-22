@@ -18,7 +18,7 @@ feed_content: "<div> <div> <p> </p> <p>The Studio Jazz Ensemble (Jacob Zimmerma
 feed_content_checksum: c3945259497a89b888b2b268d13280f4143184a5
 image_ids: []
 location: Meany Hall (MNY)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

@@ -5,7 +5,7 @@ feed_content: We are thrilled to announce the launch of Eproval, a new online Sp
   This shift to a software-based application and permitting system modernizes and
   streamlines all aspe...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/21/streamlining-special-events-permitting-introducing-eproval-for-faster-easier-applications/

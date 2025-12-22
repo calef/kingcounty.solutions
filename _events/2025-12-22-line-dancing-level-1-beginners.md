@@ -46,7 +46,7 @@ feed_content_checksum: b1c61b5429f1fda01c2c8615e929e8822d4d407b
 image_ids: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
-locations:
+location_titles:
 - King County
 organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/line-dancing-level-1-beginners-2-2/2025-12-22/

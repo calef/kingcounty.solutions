@@ -30,7 +30,7 @@ feed_content: <article id="post-61726" class="post-61726 page type-page status-p
   <p>This lecture will NOT be streamed live.</p> </div> </article>
 image_ids: []
 location: Gates Center (CSE2), G20 | Amazon Auditorium
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

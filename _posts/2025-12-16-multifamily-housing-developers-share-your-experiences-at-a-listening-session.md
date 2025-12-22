@@ -84,7 +84,7 @@ feed_content: |-
   <p>For questions or to request to speak with someone over the phone, email <a>HTFCapacityBuilding@commerce.wa.gov</a>.</p>
 feed_content_checksum: 585958c473d3c57653dbff1d139b0aa483d34af4
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p><strong>Commerce will host listening sessions on Dec. 18 and 19 on Teams</strong></p>

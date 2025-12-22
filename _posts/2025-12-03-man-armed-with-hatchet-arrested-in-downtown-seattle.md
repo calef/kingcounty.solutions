@@ -5,7 +5,7 @@ feed_content: Seattle police officers arrested a 33-year-old man, armed with a k
   On Dec. 2, at about 6:20 p.m., officers proactively patrolling an alleyway behind
   the Smith Tower ne...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/03/man-armed-with-hatchet-arrested-in-downtown-seattle/

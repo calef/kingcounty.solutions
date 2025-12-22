@@ -5,7 +5,7 @@ feed_content: The Seattle Fire Department is conducting live-fire training exerc
   and 25 at 3502 Meridian Ave. N. Live-fire training is an opportunity for recruits
   to work with vete...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://fireline.seattle.gov/2025/11/23/live-fire-training-nov-24-25-in-the-wallingford-neighborhood/

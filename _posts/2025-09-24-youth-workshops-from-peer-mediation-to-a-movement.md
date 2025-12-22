@@ -29,7 +29,7 @@ feed_content: |-
   <p>This article was originally featured in our newsletter, <a href="https://kcdrc.us9.list-manage.com/subscribe?u=fb0fb52947c2067c3fe6ee9c9&amp;id=5cf275bc88">sign up here</a>.</p>
   <p>The post <a href="https://kcdrc.org/youth-workshops-from-peer-mediation-to-a-movement/">Youth Workshops: From Peer Mediation to a Movement</a> appeared first on <a href="https://kcdrc.org">Dispute Resolution Center of King County</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/youth-workshops-from-peer-mediation-to-a-movement/

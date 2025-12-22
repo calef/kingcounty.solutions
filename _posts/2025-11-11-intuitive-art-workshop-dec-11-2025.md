@@ -6,7 +6,7 @@ feed_content: "<p>Join Karina to experience an unconventional, intuitive approac
   Prepare to play and create using text, abstract shapes, and building upon layers
   as you tap into a deeper level of creativity and expression. RSVPs required, free!</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/intuitive-art-workshop-dec-11-2025/

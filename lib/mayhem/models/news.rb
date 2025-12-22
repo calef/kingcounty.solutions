@@ -49,8 +49,8 @@ module Mayhem
         self['image_ids'] || []
       end
 
-      def locations
-        self['locations'] || []
+      def location_titles
+        self['location_titles'] || []
       end
 
       def locked

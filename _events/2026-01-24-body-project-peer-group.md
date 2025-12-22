@@ -43,7 +43,7 @@ feed_content: "<article> <div> <h1>The Body Project</h1> <div> <div> <h2>What is
 feed_content_checksum: 4adb69c072e9da744d9351b09f04408dba139c89
 image_ids: []
 location: 1218 NE Campus Parkway (ELM-HALL)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 source_url: https://wellbeing.uw.edu/livewell/health-ed/body/

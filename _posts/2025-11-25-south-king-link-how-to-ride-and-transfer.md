@@ -10,7 +10,7 @@ feed_content: <p data-start="308" data-end="376">The countdown is on — <a href
   here’s how to pay, how to transfer, and how to make your ride smooth from start
   to finish.</p>
 image_ids: []
-locations:
+location_titles:
 - South King County
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/south-king-link-how-to-ride-transfer

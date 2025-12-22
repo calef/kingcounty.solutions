@@ -69,7 +69,7 @@ feed_content: "<p class=\"\">Thousands of King County residents struggle to affo
   \         \n        \n          \n        \n\n        \n      \n        </figure>"
 image_ids:
 - fdeef3207d36ffb4c16b09e078eba32db9a771f854d378087f13733f283346b4
-locations:
+location_titles:
 - King County
 source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/budget

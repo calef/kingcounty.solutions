@@ -32,7 +32,7 @@ feed_content: <p class="">Jane and her family know what it means to work hard an
   and her daughter are safe, stable, and settling into their new life. They’ve come
   so far—and they’re finally home.&nbsp;</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/from-hospital-halls-to-a-home-of-their-own

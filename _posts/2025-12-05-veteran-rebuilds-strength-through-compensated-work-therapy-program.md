@@ -89,7 +89,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a href="https://www.va.gov/salt-lake-city-health-care/stories/compensated-work-therapy-a-steppingstone-to-stability-for-veterans-facing-chronic-unemployment/" rel="noopener">VA Salt Lake City Health Care site</a> and has been edited for style and clarity.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143187/rebuilds-strength-compensated-work-therapy/

@@ -63,7 +63,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   1 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - bac2132fad8b97a7cff2984bd9e67e54815ee9bc0e93fce0b1d1e9cbbc3d11ba
-locations:
+location_titles:
 - Bellevue
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/budget-survey-25

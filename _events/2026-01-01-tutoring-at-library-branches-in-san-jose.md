@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: San Jose, two library branches
-locations: []
+location_titles: []
 organization_title: Reading Partners Seattle
 published: false
 source_url: https://readingpartners.org/blog/programming-updates-co-and-sv/

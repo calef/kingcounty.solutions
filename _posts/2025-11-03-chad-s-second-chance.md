@@ -16,7 +16,7 @@ feed_content: |-
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/chads-second-chance/">Chad&#8217;s second chance</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/chads-second-chance/

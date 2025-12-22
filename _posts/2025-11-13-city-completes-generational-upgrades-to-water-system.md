@@ -7,7 +7,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   projects, has greatly improved resilience and reliability, ensuring high quality
   water service for Island residents and businesses.</span></span></span></p></div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/publicworks/page/city-completes-generational-upgrades-water-system

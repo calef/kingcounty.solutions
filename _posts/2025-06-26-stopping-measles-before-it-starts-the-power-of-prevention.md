@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: The U.S. experienced many changes and challenges due to the COVID-19
   pandemic that shook the globe, but one unanticipated consequence was...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/stopping-measles-before-it-starts-the-power-of-prevention

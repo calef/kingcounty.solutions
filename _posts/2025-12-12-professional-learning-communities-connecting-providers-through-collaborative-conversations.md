@@ -70,7 +70,7 @@ feed_content: |-
 feed_content_checksum: 75a681422c332603b3eed2e91dc747ef4d5cb053
 image_ids:
 - 9c5915193a25b015fd82635824a5189a2f8fa0e7b4e35e044590ab2167215a6c
-locations:
+location_titles:
 - King County
 rss_guid: https://www.brightspark.org/?p=9928
 source: BrightSpark

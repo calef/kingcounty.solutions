@@ -5,7 +5,7 @@ feed_content: 'The Basics Division: Office of the General Manager How long have 
   things for the office of our General Manager &#038; CEO Dawn Lindell! This includes
   the basics like sche...'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://powerlines.seattle.gov/2025/11/24/seattle-city-spotlight-brittney-garcia-stubbs-executive-assistant-to-the-general-manager-ceo/

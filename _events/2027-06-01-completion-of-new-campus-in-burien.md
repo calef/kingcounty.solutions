@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Burien, WA
-locations:
+location_titles:
 - Burien
 organization_title: Mary's Place
 published: false

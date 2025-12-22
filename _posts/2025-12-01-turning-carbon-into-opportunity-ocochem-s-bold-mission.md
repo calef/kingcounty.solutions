@@ -97,7 +97,7 @@ feed_content: |-
 
   <p>Visit the <a href="https://ocochem.com/">OCOchem website</a> to learn more about the company and its mission.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/turning-carbon-into-opportunity-ocochems-bold-mission/

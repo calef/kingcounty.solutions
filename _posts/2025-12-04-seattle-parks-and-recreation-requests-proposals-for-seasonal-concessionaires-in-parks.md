@@ -5,7 +5,7 @@ feed_content: Seattle Parks and Recreation (SPR) is seeking individuals and busi
   to award concessions permits will open to proposals December 4, 2025.    SPR is
   seeking prop...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/04/seattle-parks-and-recreation-requests-proposals-for-seasonal-concessionaires-in-parks-4/

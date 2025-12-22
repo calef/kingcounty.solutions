@@ -8,7 +8,7 @@ feed_content: 'Public Hearing: Setting Normandy Park’s Property Tax Levy The C
   the amount of revenue to be collected to support essential city services. The proposed
   rate will not exceed $1.60 per $1,000 of assessed value.'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-november-7-2025/

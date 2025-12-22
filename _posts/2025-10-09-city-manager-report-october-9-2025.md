@@ -6,7 +6,7 @@ feed_content: 'Fall Checklist: Prevent Flooding and Protect Our Environment. As 
   flooding and protecting our local waterways. Here are a few simple steps to get
   your property ready for the season:'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-9-2025/

@@ -1065,7 +1065,7 @@ image_ids:
 - 397ccba15781ee6e09492fe73b4ef952798bf09b3347feca4e4f17c2eb71fc18
 - 1c672d364ba75c9fb95e7fcd4388bebc995212b56f7a87fa7b04c0eca784b0d9
 - f494d29d26ef5505cfe00d0ab2ab1102d965be66afde09315a5406b433738178
-locations:
+location_titles:
 - King County
 source: Solid Ground
 source_url: https://www.solid-ground.org/with-rakes-wheelbarrows-and-buckets-solid-ground-volunteers-build-community-and-connections/

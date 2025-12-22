@@ -4,7 +4,7 @@ feed_content: SKYKOMISH – Emergency work to remove debris on US 2 east of Skyk
   will begin Saturday, Dec. 20.
 feed_content_checksum: 428d2250748cc116fdf41f91043eddec44eeb3bb
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"

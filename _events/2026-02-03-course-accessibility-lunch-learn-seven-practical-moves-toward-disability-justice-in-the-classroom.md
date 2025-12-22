@@ -24,7 +24,7 @@ feed_content: '<div id="skiptocontent"> <a aria-label="Skip to main content" hre
   &amp; Legal Policies</a> </p> </div> </div> </div> </div>'
 image_ids: []
 location: Zoom, registration required.
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 source_url: https://washington.zoom.us/meeting/register/mkZQ3FtJTGaHuhGv4uLUAQ

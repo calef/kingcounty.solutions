@@ -105,7 +105,7 @@ feed_content: |-
   <p>Learn how to <a href="https://www.va.gov/HOMELESS/featuredarticles/so-you-wanna-house-homeless-Veterans.asp" rel="noopener">get involved with housing homeless Veterans</a>.</p>
 image_ids:
 - 22319f93a0fcf7df5976044ad21815d1b2c225578ab134330a260032e0a6815f
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143240/safest-place-homeless-veterans-va-housing/

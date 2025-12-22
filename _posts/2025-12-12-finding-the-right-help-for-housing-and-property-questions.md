@@ -34,7 +34,7 @@ feed_content: "<span>Finding the right help for housing and property questions <
   1 2025</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: 7ae193c96d7be4a586a6e84f715164d72f89d238
 image_ids: []
-locations:
+location_titles:
 - Bellevue
 rss_guid: 215541 at https://bellevuewa.gov
 source: City of Bellevue

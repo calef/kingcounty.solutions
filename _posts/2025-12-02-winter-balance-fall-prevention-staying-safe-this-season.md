@@ -57,7 +57,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"18976\" 
   Balance &amp; Fall Prevention: Staying Safe This Season</a> appeared first on <a
   href=\"https://snoqualmievalleyhealth.org\">Snoqualmie Valley Hospital</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - South King County
 - Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)

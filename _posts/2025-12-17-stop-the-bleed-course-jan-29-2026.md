@@ -8,7 +8,7 @@ feed_content: |-
   <p>Stop the Bleed training courses are led by the American College of Surgeons, and train the public to save lives and stop life-threatening bleeding. Attend this course to learn how to recognize bleeding emergencies and become empowered to act quickly and effectively to make a life-or-death difference. FREE, RSVPs required.</p>
 feed_content_checksum: 1498348d35bfb3b732018f6be9d3183915d9c3c2
 image_ids: []
-locations: []
+location_titles: []
 original_source_html: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2025/12/Stop-the-Bleed-Course-791x1024.png"></figure>
 

@@ -41,7 +41,7 @@ feed_content: <section id="tribe-events-pg-template" class="tribe-events-pg-temp
   </ul> </div> </div> </section>
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Bike Works
 published: false

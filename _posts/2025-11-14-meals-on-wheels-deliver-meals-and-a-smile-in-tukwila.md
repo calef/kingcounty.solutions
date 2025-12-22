@@ -20,7 +20,7 @@ feed_content: "<p><strong>Position: </strong>Delivery Driver             
   on Wheels: Deliver Meals and a Smile in Tukwila!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-tukwila-help-make-a-difference/

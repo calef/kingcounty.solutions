@@ -33,7 +33,7 @@ feed_content: "<article> <header> <h1>IACUC Meeting Schedule and Agenda</h1> </h
 feed_content_checksum: 97d9cd76013cc2380d078cb1209eb8d83d44a1cc
 image_ids: []
 location: 3939 15th Ave NE Seattle, WA 98105
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: "<!doctype html>\n<html lang=\"en-US\" class=\"no-js\">\n<head>\n\t<meta

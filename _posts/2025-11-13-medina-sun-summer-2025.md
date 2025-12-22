@@ -4,7 +4,7 @@ feed_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Medina Residents! Be sure to catch the latest in what's happening in your community! The summer edition of the Medina Sun newsletter is out now.</p>
   </div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Medina
 source_url: https://www.medina-wa.gov/community/page/medina-sun-summer-2025-0

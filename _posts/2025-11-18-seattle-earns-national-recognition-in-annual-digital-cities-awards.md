@@ -7,7 +7,7 @@ feed_content: The Center for Digital Government (CDG) awarded the City of Seattl
   the cities of (#1) San Jose, CA; (#2) Los Angeles, CA; and (#3) San Diego, CA, and
   tying with Charlotte...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://techtalk.seattle.gov/2025/11/18/seattle-earns-national-recognition-in-annual-digital-cities-awards/

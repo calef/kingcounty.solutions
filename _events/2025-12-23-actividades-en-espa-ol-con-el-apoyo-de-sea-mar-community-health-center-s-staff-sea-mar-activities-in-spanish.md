@@ -51,7 +51,7 @@ feed_content_checksum: 7d6d1d62a6de49c4eea9a2b998adf3e7a78fde64
 image_ids: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
-locations:
+location_titles:
 - King County
 organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/sea-mar-activities-in-spanish/2025-12-23/

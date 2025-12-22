@@ -33,7 +33,7 @@ feed_content: <div class="container"> <section id="tribe-events-pg-template" cla
   </div> </div> </div> </div> </section> </div>
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: Disabled American Veterans
 published: false
 source_url: https://www.dav.org/events-calendar/fort-bliss-job-fair-january-29-2026/

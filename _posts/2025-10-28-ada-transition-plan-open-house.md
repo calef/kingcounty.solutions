@@ -6,7 +6,7 @@ feed_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Im
   the City of Burien's Public Works team to discuss pedestrian mobility and share
   what is most important to you."
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=20801695

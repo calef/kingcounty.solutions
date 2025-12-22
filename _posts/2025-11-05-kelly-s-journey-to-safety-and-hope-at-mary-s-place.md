@@ -30,7 +30,7 @@ feed_content: "<p class=\"\">When Kelly arrived at&nbsp;Mary’s Place&nbsp;with
   data-sqsp-button target=\"_blank\"\n  >\n    Make a gift to support families like
   kelly's\n  </a>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/from-crisis-to-stability-kellys-journey-to-safety-and-hope-at-marys-place

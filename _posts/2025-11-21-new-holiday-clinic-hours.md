@@ -24,7 +24,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   </p><p class=\"\"><strong>Happy Holidays!</strong></p><p data-rte-preserve-empty=\"true\"
   class=\"\"></p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/adjustedholidayhours

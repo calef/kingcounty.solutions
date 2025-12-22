@@ -118,7 +118,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   \   <div class=\"field__label\">News Author</div>\n              <div class=\"field__item\">Washington
   State Department of Health</div>\n          </div>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/west-coast-health-alliance-wa-doh-and-leading-national-medical-organizations-continue-recommend

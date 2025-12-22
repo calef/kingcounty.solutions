@@ -18,7 +18,7 @@ feed_content: |-
   <p>The post <a href="https://soundgenerations.org/november-is-national-caregivers-month/">November is National Caregivers Month</a> appeared first on <a href="https://soundgenerations.org">Sound Generations</a>.</p>
 image_ids:
 - ad51460a4eb6b48fcb0ab1d97bf996d1cf869d18c6aa41c67c178d49574a876e
-locations:
+location_titles:
 - King County
 source: Sound Generations
 source_url: https://soundgenerations.org/november-is-national-caregivers-month/

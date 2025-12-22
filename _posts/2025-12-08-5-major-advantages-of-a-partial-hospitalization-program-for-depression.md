@@ -31,7 +31,7 @@ feed_content: |-
   <p>Finding the right intensive depression treatment option for you is a crucial step in the healing process. THIRA Health’s helpful intake professionals take the guesswork out of the process for you, helping you decide which treatment program will work best for you. By offering comprehensive, holistic, DBT-based depression treatment at their residential, PHP, and IOP programs, THIRA Health ensures that you get the right care, wherever you are in your mental health journey.<a><span> Contact our intake team today</span></a> to schedule a free consultation, so you can get started on mental healthcare that will bring you lasting relief from depression.</p>
 feed_content_checksum: 56e06fca5bf288f14a392894005589fef8fd77f2
 image_ids: []
-locations:
+location_titles:
 - King County
 source: THIRA Health
 source_url: https://thirahealth.com/2025/12/08/5-major-advantages-of-a-partial-hospitalization-program-for-depression/

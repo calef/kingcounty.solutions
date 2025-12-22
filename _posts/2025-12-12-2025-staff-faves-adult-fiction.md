@@ -18,7 +18,7 @@ feed_content: |-
   <p><em>~ posted by Eric G.</em></p>
 feed_content_checksum: 9adf025264cac1f9566ab564f266b84d19ccc840
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://blog.spl.org/?p=93469

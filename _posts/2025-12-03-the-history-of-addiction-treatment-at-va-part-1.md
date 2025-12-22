@@ -59,7 +59,7 @@ feed_content: |-
 image_ids:
 - f7d0c44e1f8b3518a0367cf84df29798ee6cfb68d21c90ec917df4a078002572
 - 562b21e405c8a4167903ff4cd0e799dfa5abdff54c3f528e64694c30666376af
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143286/part-1-wwi-wounds-opioids-addiction-treatment/

@@ -7,7 +7,7 @@ feed_content: Mayor Harrell’s directive provided three weeks of emergency food
   government shutdown  Seattle—Yesterday, Mayor Bruce Harrell proclaimed the end of
   the City’s Li...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/11/22/mayor-harrell-issues-proclamation-ending-limited-civil-emergency-after-snap-benefits-fully-restored/

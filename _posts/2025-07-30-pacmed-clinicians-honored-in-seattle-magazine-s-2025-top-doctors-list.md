@@ -108,7 +108,7 @@ feed_content: |-
   </ul>
   <p>The post <a href="https://www.pacificmedicalcenters.org/news/pacmed-clinicians-honored-in-seattle-magazines-2025-top-doctors-list/">PacMed Clinicians Honored in Seattle Magazine&#8217;s 2025 Top Doctors List</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Pacific Medical Centers
 source_url: https://www.pacificmedicalcenters.org/news/pacmed-clinicians-honored-in-seattle-magazines-2025-top-doctors-list/

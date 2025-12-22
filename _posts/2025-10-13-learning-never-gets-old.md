@@ -7,7 +7,7 @@ feed_content: <a href="https://wscenter.org/learning-never-gets-old/"><p>Do you 
   were done sitting in class, writing book reports and preparing assignments! But
   what &hellip;</p></a>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: The Center for Active Living
 source_url: https://wscenter.org/learning-never-gets-old/

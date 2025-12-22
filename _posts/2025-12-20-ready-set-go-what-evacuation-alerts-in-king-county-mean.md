@@ -7,7 +7,7 @@ feed_content: 'Evacuation alerts can be overwhelming to receive. This is why Kin
   […]'
 feed_content_checksum: 72dede4ac444533e14eae4a8d85e9c08d4d4d2e2
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: 'Evacuation alerts can be overwhelming to receive. This is why
   King County uses the Ready, Set, Go framework in order to make our alerts clear.

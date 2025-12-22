@@ -7,7 +7,7 @@ feed_content: |-
   <p class="read-more-container"><a title="Honoring the Black gay community’s great connector &#124; Seattle Pride 50" class="read-more button" href="https://nhwa.org/2025/10/03/honoring-the-black-gay-communitys-great-connector-seattle-pride-50/#more-25292" aria-label="Read more about Honoring the Black gay community’s great connector &#124; Seattle Pride 50">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/10/03/honoring-the-black-gay-communitys-great-connector-seattle-pride-50/">Honoring the Black gay community’s great connector | Seattle Pride 50</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Neighborhood House
 source_url: https://nhwa.org/2025/10/03/honoring-the-black-gay-communitys-great-connector-seattle-pride-50/

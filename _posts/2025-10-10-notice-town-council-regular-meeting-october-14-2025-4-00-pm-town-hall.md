@@ -44,7 +44,7 @@ feed_content: |-
 
   Thank you.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/10/notice-town-council-regular-meeting-october-14-2025-400-pm-town-hall/

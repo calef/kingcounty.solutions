@@ -94,7 +94,7 @@ feed_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li
 feed_content_checksum: 7bbd24defb8189905b0b6a19ff10ed7699ca8243
 image_ids: []
 location: Virtual Events @ Antioch University
-locations: []
+location_titles: []
 organization_title: Antioch University
 published: false
 source_url: https://www.antioch.edu/event/masters-in-clinical-psychology-macp-info-session-ausb-1-15-26/

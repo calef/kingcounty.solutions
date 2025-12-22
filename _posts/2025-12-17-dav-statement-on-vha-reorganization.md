@@ -14,7 +14,7 @@ feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/u
 feed_content_checksum: 480b612e827534a32af30722a5b7cd9705caf107
 image_ids:
 - db94e72c4837a19cae513d61ded92a68f2f4398f61c148a290f153f1250849af
-locations:
+location_titles:
 - King County
 original_source_html: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/uploads/Coleman_Nee_WashingtonPost_Statement.jpg\">DAV
   believes that America’s veterans have earned the right to high-quality, veteran-centric,

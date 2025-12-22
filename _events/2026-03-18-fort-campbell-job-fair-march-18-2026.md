@@ -10,7 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Cam
 feed_content_checksum: 117d0fc267ed7535bf07ed9db61675441fe50410
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: Disabled American Veterans
 original_source_html: "\n\n\n<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta
   charset=\"UTF-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1,

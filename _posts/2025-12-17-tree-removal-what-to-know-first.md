@@ -26,7 +26,7 @@ feed_content: "<span>Tree removal: What to know first</span>\n<span><span>ARich<
   1 2025</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: cd58cb1b7d94b3e71798303f47115ac886951a39
 image_ids: []
-locations:
+location_titles:
 - Bellevue
 original_source_html: "<span>Tree removal: What to know first</span>\n<span><span>ARich</span></span>\n<span><time>Wed,
   12/17/2025 - 14:55</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>Thinking

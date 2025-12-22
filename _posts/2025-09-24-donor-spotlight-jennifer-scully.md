@@ -25,7 +25,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>The post <a href="https://www.youtheastsideservices.org/donor-spotlight-jennifer-scully/">Donor Spotlight: Jennifer Scully</a> appeared first on <a href="https://www.youtheastsideservices.org">Youth Eastside Services</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/donor-spotlight-jennifer-scully/?utm_source=rss&utm_medium=rss&utm_campaign=donor-spotlight-jennifer-scully

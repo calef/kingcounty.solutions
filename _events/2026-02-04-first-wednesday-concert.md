@@ -8,7 +8,7 @@ feed_content: 'Event interval: Single day event Campus location: Allen Library (
 feed_content_checksum: 7fae06707cbf5773ccbf6b791ab6035015b8abd1
 image_ids: []
 location: Allen Library (ALB)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

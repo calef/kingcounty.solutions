@@ -3,7 +3,7 @@ end_date: '2026-01-04T23:59:59-08:00'
 generated_from_post: true
 image_ids: []
 location: ''
-locations:
+location_titles:
 - Snoqualmie Valley
 organization_title: Sno-Valley Senior Center
 published: false

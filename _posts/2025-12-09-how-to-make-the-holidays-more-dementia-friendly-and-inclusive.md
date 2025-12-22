@@ -7,7 +7,7 @@ feed_content: |-
   <p>The post <a>How to make the holidays more dementia-friendly and -inclusive</a> appeared first on <a>Aging Wisdom</a>.</p>
 feed_content_checksum: b3d46bfff4435e66a5b606d77f2b3f99dca98cfa
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Aging Wisdom
 source_url: https://agingwisdom.com/how-to-make-the-holidays-more-dementia-friendly-and-inclusive/

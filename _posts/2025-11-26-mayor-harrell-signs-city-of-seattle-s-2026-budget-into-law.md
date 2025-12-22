@@ -7,7 +7,7 @@ feed_content: Seattle – This week, Mayor Bruce Harrell signed the City of Seat
   toward General Fund priorities.&#160; Passed unanimously by the City Council last
   week, the fin...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/11/26/mayor-harrell-signs-city-of-seattles-2026-budget-into-law/

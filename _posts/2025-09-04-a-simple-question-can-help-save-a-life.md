@@ -21,7 +21,7 @@ feed_content: |-
   <p><span style="font-weight: 400;">Thank you for joining us in making September a month of connection and care. Let’s keep checking in all year long. Together, our stories and our questions can help build a more connected and caring world.</span></p>
   <p>The post <a href="https://www.vibrant.org/a-simple-question-can-help-save-a-life/">A Simple Question Can Help Save a Life</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/a-simple-question-can-help-save-a-life/

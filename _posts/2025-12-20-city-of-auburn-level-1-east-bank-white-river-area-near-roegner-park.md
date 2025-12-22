@@ -6,7 +6,7 @@ feed_content: POSTED December 19, 2025 – 6 p.m. A Level 1 (GET READY) evacuati
   second (cfs), the City of Auburn has identified areas along HESCO and sandbag […]
 feed_content_checksum: c4b0808ad926080edf96181734d39b4e34d70c64
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: POSTED December 19, 2025 – 6 p.m. A Level 1 (GET READY) evacuation
   notice for areas along the east and south bank of the White River near Roegner Park.

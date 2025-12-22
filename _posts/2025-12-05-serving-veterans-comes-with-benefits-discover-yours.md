@@ -55,7 +55,7 @@ feed_content: |-
 
   <p></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143620/serving-veterans-benefits-discover-yours/

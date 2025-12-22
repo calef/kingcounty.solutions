@@ -9,7 +9,7 @@ feed_content: The Washington Department of Health announces the launch of the fi
   resistance, and improve patient trust. Additional modules are forthcoming.
 feed_content_checksum: 9988b96174f4534f0cdd66ff102692efd01d078f
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: The Washington Department of Health announces the launch of
   the first module in the Trusted Messenger Program Training Series, titled “Maximizing

@@ -10,7 +10,7 @@ feed_content: This year, our community came together in an extraordinary way to 
   celebrated. Your generosity did more than fulfill wish lists —it reminded our youth,...
 feed_content_checksum: 6e6c6af5c400412393a2d8ece9db9c88a4a493e4
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: This year, our community came together in an extraordinary way
   to support the Friends of Youth Giving Tree—and because of you,  more than  300

@@ -28,7 +28,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   up <a href=\"https://donate.bloodworksnw.org/donor/schedules/drive_schedule/99950\"
   target=\"_blank\">HERE</a></p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/carepoint-blood-drive-ttpgs-rfzs9-tfhm3-w3nx9

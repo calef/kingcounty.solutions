@@ -69,7 +69,7 @@ feed_content: |-
   <p>The post <a href="https://operationhomefront.org/marine-veteran-grateful-to-donors/">Marine Veteran Grateful to Donors </a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
 image_ids:
 - 1256c3561529e03fcecf0cb3046e1753072f31a5f2e50516008e97d81855e153
-locations:
+location_titles:
 - King County
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/marine-veteran-grateful-to-donors/

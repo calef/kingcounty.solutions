@@ -85,7 +85,7 @@ feed_content: |-
   </ul>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/08/seattle-magazine-top-doctors-2025/" data-wpel-link="internal">More than 60 MultiCare physicians named ‘Top Doctors’ by Seattle Magazine</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/08/seattle-magazine-top-doctors-2025/

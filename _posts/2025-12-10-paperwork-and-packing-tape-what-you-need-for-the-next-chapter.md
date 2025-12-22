@@ -11,7 +11,7 @@ feed_content: |-
   <p>The post <a>Paperwork and Packing Tape: What You Need for the Next Chapter</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: 15bf11a49d69252df07389ee7e0aaaca00f307a2
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10602
 source: Shoreline Lake Forest Park Senior Activity Center

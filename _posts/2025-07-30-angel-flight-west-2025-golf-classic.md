@@ -49,7 +49,7 @@ feed_content: |-
 
   <p><br><strong>Media Contact:</strong> <br>Jessica Hayes <br>Sr. Communications Manager <br>(323) 332-1610 <br><a href="mailto:jessicah@angelflightwest.org" target="_blank" rel="noreferrer noopener">jessicah@angelflightwest.org</a>  <br>angelflightwest.org  </p><p>The post <a href="https://angelflightwest.org/news/angel-flight-west-2025-golf-classic/">Angel Flight West 2025 Golf Classic</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/angel-flight-west-2025-golf-classic/

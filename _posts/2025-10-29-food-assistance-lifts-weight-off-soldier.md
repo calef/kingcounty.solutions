@@ -117,7 +117,7 @@ feed_content: |-
   <p>The post <a href="https://operationhomefront.org/food-assistance-lifts-weight-off-soldier/">Food Assistance Lifts Weight Off Soldier</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
 image_ids:
 - fa6f7d0f4e20db02b4a1cc1b1a0955b7810bd216730ae7a41bf3078e6c8a4c97
-locations:
+location_titles:
 - King County
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/food-assistance-lifts-weight-off-soldier/

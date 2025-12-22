@@ -67,7 +67,7 @@ feed_content: |-
 image_ids:
 - d5e430c0b3417345e39052679b14c414c0c9fb83582a816959143f98a1766566
 - f86b1e9ff00330e4fecfe5946117c7a0f04c05d871fab386b85c0d7093c4a440
-locations:
+location_titles:
 - King County
 source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/tutoring-helps-seattle-students-thrive/?utm_source=rss&utm_medium=rss&utm_campaign=tutoring-helps-seattle-students-thrive

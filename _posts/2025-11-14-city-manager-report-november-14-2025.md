@@ -12,7 +12,7 @@ feed_content: City Council Meeting Roundup on Wednesday, November 12th, the Norm
   the approved increases, this agreement is still the most affordable option available
   to us for our short-term commitments.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-november-14-2025/

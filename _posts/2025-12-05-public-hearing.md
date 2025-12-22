@@ -8,7 +8,7 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   Master Planned Development (MPD) - Major Amendment to the MPD Permit and Development
   Agreement.  Public Hearing will be held on December 8, 2025, at 6 p.m.</p>\n      </div>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27046

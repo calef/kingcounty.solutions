@@ -84,7 +84,7 @@ feed_content: |-
   <p>We look forward to seeing everyone at the program! For more information on our programming, calendar, and lunch menu, please follow the links to the right of the page.</p>
   <p>The post <a href="https://lakecityseniors.org/september-2025-update/">September 2025 Update</a> appeared first on <a href="https://lakecityseniors.org">Lake City Seniors</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Lake City Seniors
 source_url: https://lakecityseniors.org/september-2025-update/

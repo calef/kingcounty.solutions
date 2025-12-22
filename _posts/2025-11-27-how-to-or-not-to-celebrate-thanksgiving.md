@@ -96,7 +96,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >
   to (or not to) celebrate Thanksgiving</a> appeared first on <a href=\"https://hungerintervention.org\">Hunger
   Intervention Program</a>.</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Hunger Intervention Program
 source_url: https://hungerintervention.org/2025/11/27/how-to-or-not-to-celebrate-thanksgiving/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-or-not-to-celebrate-thanksgiving

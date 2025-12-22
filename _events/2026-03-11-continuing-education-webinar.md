@@ -7613,7 +7613,7 @@ feed_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <link>
 feed_content_checksum: 5a74974d1701386df40f8c03f30e8ed14402ac12
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: NOSSCR Referral Service
 published: false
 source_url: https://nosscr.org/event/continuing-education-webinar-8/

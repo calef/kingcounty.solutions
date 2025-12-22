@@ -5,7 +5,7 @@ feed_content: |-
   <p>Location: Pinellas Park, Florida</p>
 feed_content_checksum: 399ac4b91296d76795deb210d9567f21f4f5830a
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: NOSSCR Referral Service
 source_url: https://nosscr.org/david-carlton/

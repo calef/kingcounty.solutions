@@ -11,7 +11,7 @@ feed_content: |-
 
   <p></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/holiday-afternoon-tea-dec-9-2025/

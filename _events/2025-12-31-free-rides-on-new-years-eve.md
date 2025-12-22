@@ -6,7 +6,7 @@ feed_content_checksum: f5f10bc2ec29eac0b5f543cdac6ba724860332ce
 generated_from_post: true
 image_ids: []
 location: King County, Washington
-locations:
+location_titles:
 - King County
 organization_title: King County Metro Transit
 original_source_html: King County Metro and regional transit agencies will offer free

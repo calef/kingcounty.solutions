@@ -46,7 +46,7 @@ feed_content: <p class="">We’re thrilled to share that we have raised $16 mill
   We grow to meet our neighbors’ needs. But now our growth is more important than
   ever.”</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/find-your-place-in-abundance-with-room-for-all-campaign

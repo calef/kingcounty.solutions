@@ -65,7 +65,7 @@ feed_content: "<p class=\"\">In their paper “Access to Dignity: Policy and Adv
   MPA</p><p class=\"\">Saleena Salango, MPA</p><p class=\"\">Matt Stoia, MSW, MPA</p>"
 image_ids:
 - 1877427c1fd462797be3d3e4b835a99e3d72254f9f4a072265d1f32e860c27d5
-locations:
+location_titles:
 - King County
 source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/accesstodignity

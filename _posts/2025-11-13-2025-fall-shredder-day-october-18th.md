@@ -5,7 +5,7 @@ feed_content: |-
   Make plans to attend this semi-annual community event sponsored by the Medina Police Department...</p>
   </div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Medina
 source_url: https://www.medina-wa.gov/police/page/2025-fall-shredder-day-october-18th

@@ -5,7 +5,7 @@ feed_content: Odessa Brown Children's Clinic is inviting high schoolers and youn
   can find more information and submit their applications by scanning the provided
   QR code. Please share this opportunity widely.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/04/odessa-brown-youth-leadership-council-open-for-applications/

@@ -32,7 +32,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
 feed_content_checksum: 7fd150dc4fe50eb3cefed9c2c8b919df43c8de02
 image_ids: []
 location: 'Bloodworks Donation Center, 660 SW 39TH ST #100, Renton'
-locations:
+location_titles:
 - King County
 organization_title: City of Tukwila
 published: false

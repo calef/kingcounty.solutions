@@ -69,7 +69,7 @@ feed_content: |-
   <div class="video-shortcode"><iframe title="#LiveWholeHealth: A season of gratitude" width="1400" height="788" src="https://www.youtube.com/embed/o7DhHcj1jE4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div></figure>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143664/live-whole-health-294-blessings-whole-health/

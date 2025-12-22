@@ -90,7 +90,7 @@ feed_content: '<h3>Executive Braddock announces her 2026–2027 budget proposal,
 image_ids:
 - f881516c601c5df1d89935bbfbf19902c550037ebaaedc5d9a80c8a17bb64ace
 - 8b9947e6ed2a9707245563558cde800315bf02af12d3d11e89804bfddd6dfa06
-locations:
+location_titles:
 - King County
 source: King County
 source_url: https://medium.com/@kcexec/executive-braddock-announces-her-2026-2027-budget-proposal-preventing-devastating-cuts-while-3aa2bf07bbde?source=rss-cc0752750177------2

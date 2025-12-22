@@ -14,7 +14,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   year’s theme, “Celebrating Value and Talent,” underscores that inclusive access
   to meaningful work strengthens the entire [&#8230;]'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/10/27/city-lights-supported-employees-mark-national-disability-employment-awareness-month/

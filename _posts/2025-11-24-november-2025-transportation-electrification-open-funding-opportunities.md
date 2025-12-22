@@ -71,7 +71,7 @@ feed_content: |-
 
   <p>For a list of previous and future funding opportunities please refer to the <a href="https://deptofcommerce.app.box.com/s/vz1hswfpvgp814de8q85vs2jpaxk1kjg">EV Council Program Catalog.</a></p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/november-2025-transportation-electrification-open-funding-opportunities/

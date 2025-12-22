@@ -6,7 +6,7 @@ feed_content: |-
   <p>Ever wondered what it&#8217;s like serving on FamilyWorks&#8217; Board of Directors? We asked Board President Shanda Boyett to share a bit about herself and her experiences at FamilyWorks! Read the [&#8230;]</p>
   <p>The post <a href="https://www.familyworksseattle.org/get-to-know-our-board-president-shanda-boyett/">Get to Know Our Board President, Shanda Boyett!</a> appeared first on <a href="https://www.familyworksseattle.org">FamilyWorks Seattle</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/get-to-know-our-board-president-shanda-boyett/

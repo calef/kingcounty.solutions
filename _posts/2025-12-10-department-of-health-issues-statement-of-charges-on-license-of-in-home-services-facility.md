@@ -43,7 +43,7 @@ feed_content: "<span>Department of Health issues statement of charges on license
   Department of Health</div>\n          </div>"
 feed_content_checksum: 01f58586b175a8cbfa3a69d2a396326e8d21578d
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: 39900 at https://doh.wa.gov
 source: Department of Health

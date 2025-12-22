@@ -26,7 +26,7 @@ feed_content: |-
   <p class="">DONATE <a href="https://donorbox.org/support-westside-neighbors-shelter">HERE!</a></p>
   <p>The post <a href="https://westsideneighborsshelter.org/giving-tuesday-is-december-2-2025/">Giving Tuesday is December 2, 2025!</a> appeared first on <a href="https://westsideneighborsshelter.org">Westside Neighbors Shelter</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/giving-tuesday-is-december-2-2025/?utm_source=rss&utm_medium=rss&utm_campaign=giving-tuesday-is-december-2-2025

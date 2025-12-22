@@ -8,7 +8,7 @@ feed_content: The City of Seattle Human Services Department announced today the 
   safety.&#160; Selected providers will offer services to reduce gun violence, stabilize
   individuals and families, and strengthen neighborhoods. The funding [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/23/human-services-issues-rfp-to-invest-in-community-safety/

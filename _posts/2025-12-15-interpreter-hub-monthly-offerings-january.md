@@ -45,7 +45,7 @@ feed_content: |-
   <p><strong>Questions?</strong> Contact Melissa Klindtworth at melissa.klindtworth@cdhy.wa.gov</p>
 feed_content_checksum: 793e32d99399fcfe36af04216b4ee81420bc72af
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p><img src="https://www.cdhy.wa.gov/wp-content/uploads/2025/12/January-Offerings-from-CDHY-Interpreter-Hub-791x1024.png"></p>

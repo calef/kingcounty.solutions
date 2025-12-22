@@ -6,7 +6,7 @@ feed_content: |-
   <p>The Board of CAMFED Canada, the Campaign for Female Education, is thrilled to announce the appointment of Maxime Michel as Executive Director of CAMFED Canada effective Monday, September 29th, 2025. Maxime brings deep experience in Canada&rsquo;s international development sector, and a leadership approach that chimes strongly with CAMFED&rsquo;s mission, with a focus on aligning systems and teams in service&#8230;</p>
   <p><a href="https://camfed.org/maxime-michel-executive-director-camfed-canada/" rel="nofollow">Source</a></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/maxime-michel-executive-director-camfed-canada/

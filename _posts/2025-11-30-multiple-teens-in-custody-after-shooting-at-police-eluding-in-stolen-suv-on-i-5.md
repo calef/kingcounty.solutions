@@ -5,7 +5,7 @@ feed_content: Multiple teens, 15-17 years old, are in custody after shooting at 
   night. On Nov. 29 at about 9:00 p.m., Community Response Group (CRG) officers, conducting
   proactive patr...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/30/multiple-teens-in-custody-after-shooting-at-police-eluding-in-stolen-suv-on-i-5/

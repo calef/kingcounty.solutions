@@ -7,7 +7,7 @@ feed_content: Seattle Parks and Recreation (SPR) is excited to share our Cycle 2
   Cycle 2 financial plan in 2022, SPR made a variety of capital project commitments
   for the ...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/21/explore-seattle-parks-and-recreations-completed-capital-projects-map/

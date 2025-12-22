@@ -8,7 +8,7 @@ feed_content: The Washington State Department of Health seeks participation in t
   financial sustainability. The online survey is available until January 31, 2026,
   with a chance to win a $250 e-gift card.
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/24/2025-doh-sbhc-billing-survey/

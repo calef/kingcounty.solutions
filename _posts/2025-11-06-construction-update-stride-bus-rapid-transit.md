@@ -7,7 +7,7 @@ feed_content: <div><p paraid="2007034544" paraeid="{a76cc197-beed-4494-9d9e-013d
   across the region, but a new high-capacity transit mode will also join the family
   as part of our voter-approved ST3 expansion.</p></div>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/construction-update-stride-bus-rapid-transit

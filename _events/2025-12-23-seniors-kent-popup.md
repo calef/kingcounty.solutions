@@ -51,7 +51,7 @@ feed_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-tr
   tribe-venue"> Kent, WA, USA </li> </ul> </div> </div> </div> </div> </section> </div>
 image_ids: []
 location: Kent, WA, USA
-locations:
+location_titles:
 - King County
 organization_title: Indian American Community Services
 source_url: https://iacswa.org/event/seniors-kent-popup-47/

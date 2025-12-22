@@ -7604,7 +7604,7 @@ feed_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <link>
 feed_content_checksum: e41977733008b525e69c1769ffcbaf21b8bebb21
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: NOSSCR Referral Service
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top\"
   lang=\"en-US\" prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#\" prefix=\"og:

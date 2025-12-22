@@ -5,7 +5,7 @@ feed_content: <div> {"js_file":"/files/ver20251219094759/js/worker.js","requeste
 feed_content_checksum: db8b3674d507e3c643a46f56cc9fa33078cc16a4
 image_ids: []
 location: Online via Zoom
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: <div> {"js_file":"/files/ver20251219094759/js/worker.js","requested_app":"253KJ-6K95","key":"2WSB-TGY2T_K9KH-5PTF_32a6c79ce437","o":"2WSB-TGY2T","css_file":"/files/ver20251010102854/css/worker.css","login_page":"8ZK9-CS1HF","page_mode":"home","ui":"dynamic","window_id":"w450e34a3","original_url":"/uwbg?key=2WSB-TGY2T_K9KH-5PTF_32a6c79ce437","account":"WGHV-4MQL8"}

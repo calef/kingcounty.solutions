@@ -62,7 +62,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   <a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"793e85b5-17aa-40fb-8ac5-3d5b44f34363\"
   href=\"/about-us/contact-us/social-media\">social media</a>.</p>\n\n<p class=\"text-align-center\">###</p></div>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/infant-formula-recalled-because-possible-link-infant-botulism-cases

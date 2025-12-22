@@ -39,7 +39,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   <a>Snoqualmie Valley Hospital</a>.</p>"
 feed_content_checksum: 4457ee43f8b347620f3cacd006c19a4cbffe543a
 image_ids: []
-locations:
+location_titles:
 - Snoqualmie Valley
 rss_guid: https://snoqualmievalleyhealth.org/?p=19019
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)

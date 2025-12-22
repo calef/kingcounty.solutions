@@ -30,7 +30,7 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   amount of the cranberry filling onto one side of the bottom half of a cookie. Place
   the top half of the cookie on top of the cranberry filled side. </p>'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/cranberry-linzer-cookies

@@ -54,7 +54,7 @@ feed_content: |-
   <p><strong>Media Inquiries:</strong><br><strong>Erin Burgy, Senior Director, Integrated Public Relations</strong><br><a href="mailto:Erin.Burgy@OperationHomefront.org">Erin.Burgy@OperationHomefront.org <br></a>(469) 934-7131</p>
   <p>The post <a href="https://operationhomefront.org/steven-j-lepper-joins-national-board-of-directors/">Steven J. Lepper Joins National Board of Directors</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/steven-j-lepper-joins-national-board-of-directors/

@@ -14,7 +14,7 @@ feed_content: City Council Meeting Roundup. On Tuesday, December 9th, the Norman
   option compared to other available jail contracts.
 feed_content_checksum: 3740c24dec92ef5141ef37c284d8f4f7ae50174c
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://normandyparkwa.gov/?p=52603

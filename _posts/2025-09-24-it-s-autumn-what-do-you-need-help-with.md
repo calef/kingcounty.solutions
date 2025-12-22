@@ -6,7 +6,7 @@ feed_content: |-
   <p>For many, autumn (or fall) brings the satisfying feeling of cooler temperatures, the scrumptious tastes of comfort foods like apple pie and pumpkin spice lattes, and the picturesque foliage sights. For some, however, it is another period of challenges: Having enough resources to put food on the table, pay the rent, and keep the lights on doesn&rsquo;t take a break when the seasons change.</p>
   <p><a href="https://www.uwkc.org/access-to-resources/its-autumn-what-do-you-need-help-with/" rel="nofollow">Source</a></p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: United Way of King County
 source_url: https://www.uwkc.org/access-to-resources/its-autumn-what-do-you-need-help-with/

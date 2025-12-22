@@ -7,7 +7,7 @@ feed_content: The Puget Sound region is bracing for intense rain this week, form
   National […]
 feed_content_checksum: 86353944758004daa67dfe4b89a643f918db8b73
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://kcemergency.com/?p=6634

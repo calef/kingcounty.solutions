@@ -12,7 +12,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p>Acclaimed pi
   </div> </div>
 image_ids: []
 location: Meany Hall (MNY)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

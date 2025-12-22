@@ -9,7 +9,7 @@ feed_content: "(844) 965-1386 If you need assistance with damage from the Washin
   due to the […]"
 feed_content_checksum: 2a0b2fa9f5a2c71cca7a2471a8e35d9f30581513
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "(844) 965-1386 If you need assistance with damage from the
   Washington Floods, call the number above to ask for help. Crisis Cleanup will connect

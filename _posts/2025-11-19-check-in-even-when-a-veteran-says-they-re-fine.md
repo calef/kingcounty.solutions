@@ -115,7 +115,7 @@ feed_content: |-
 
   <p>When you do, listen with care. Make them feel seen and heard. Let them know you’ll keep showing up for them. And do it.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143349/check-in-even-when-a-veteran-says-theyre-fine/

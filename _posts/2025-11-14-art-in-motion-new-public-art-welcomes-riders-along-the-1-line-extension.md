@@ -8,7 +8,7 @@ feed_content: <div><p paraid="1973814904" paraeid="{cd3fb4e6-7e4b-446c-acce-d66d
   not just by new stations — but by vibrant, community-inspired public art that celebrates
   the spirit, history, and diversity of South King County.&nbsp;</p></div>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/art-motion-new-public-art-welcomes-riders-along-1-line-extension

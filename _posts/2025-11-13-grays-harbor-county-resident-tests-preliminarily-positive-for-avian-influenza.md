@@ -52,7 +52,7 @@ feed_content: |-
 
   <p class="text-align-center">###</p></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/grays-harbor-county-resident-tests-preliminarily-positive-avian-influenza

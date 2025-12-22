@@ -22,7 +22,7 @@ feed_content: |-
   <p style="text-align: center;">If you would like to support other childhood cancer survivors in reaching their educational goals through the Beyond the Cure Ambassador Scholarship Program, <a href="https://nc.thenccs.org/donate-scholarship">click here</a>.</p>
   <p>The post <a href="https://thenccs.org/meet-montana/">Meet Montana!</a> appeared first on <a href="https://thenccs.org">The NCCS</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: The National Children's Cancer Society - Financial Assistance
 source_url: https://thenccs.org/meet-montana/

@@ -73,7 +73,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_2 blog-post-type et_sect
   expands behavioral health services with Gresham office</a> appeared first on <a
   href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/11/lcsnw-hits-milestone-with-launch-of-additional-office-in-portland-vancouver-metro-area/

@@ -59,12 +59,12 @@ class EventSummarizerTest < Minitest::Test
   end
 
   class FakeLocationClassifier
-    def initialize(locations:)
-      @locations = locations
+    def initialize(location_titles:)
+      @location_titles = location_titles
     end
 
     def classify(*)
-      @locations
+      @location_titles
     end
   end
 
@@ -98,11 +98,11 @@ class EventSummarizerTest < Minitest::Test
     path
   end
 
-  def build_summarizer(client_response:, topics: [], locations: ['Seattle'], http_body: '<html><body><article>Story</article></body></html>')
+  def build_summarizer(client_response:, topics: [], location_titles: ['Seattle'], http_body: '<html><body><article>Story</article></body></html>')
     client = FakeChatClient.new(response: client_response)
     http = FakeHttpClient.new(response: { body: http_body, content_type: 'text/html' })
     topic_classifier = FakeTopicClassifier.new(topics: topics)
-    location_classifier = FakeLocationClassifier.new(locations: locations)
+    location_classifier = FakeLocationClassifier.new(location_titles: location_titles)
     Mayhem::Events::EventSummarizer.new(
       events_dir: @tmp_events,
       client: client,
@@ -130,7 +130,7 @@ class EventSummarizerTest < Minitest::Test
     summarizer = build_summarizer(
       client_response: { 'choices' => [{ 'message' => { 'content' => 'Refined summary.' } }] },
       topics: [],
-      locations: []
+      location_titles: []
     )
 
     stats = summarizer.run
@@ -144,7 +144,7 @@ class EventSummarizerTest < Minitest::Test
     assert_equal 'Refined summary.', document.body.strip
     refute document.front_matter['published']
     assert_empty Array(document.front_matter['topics'])
-    assert_empty Array(document.front_matter['locations'])
+    assert_empty Array(document.front_matter['location_titles'])
     post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'), logger: @logger)
 
     assert_empty Array(post_doc.front_matter['events'])
@@ -164,7 +164,7 @@ class EventSummarizerTest < Minitest::Test
     summarizer = build_summarizer(
       client_response: { 'choices' => [{ 'message' => { 'content' => 'Summary text' } }] },
       topics: ['Neighborhood'],
-      locations: ['Seattle']
+      location_titles: ['Seattle']
     )
 
     stats = summarizer.run
@@ -232,7 +232,7 @@ class EventSummarizerTest < Minitest::Test
     assert_match(/generated from post but has no body/, @logger.warns.last)
   end
 
-  def test_run_backfills_locations_for_already_summarized_event
+  def test_run_backfills_location_titles_for_already_summarized_event
     slug = 'event-backfill'
     write_event(slug, {
                   'title' => 'Already Summarized',
@@ -244,7 +244,7 @@ class EventSummarizerTest < Minitest::Test
     summarizer = build_summarizer(
       client_response: {},
       topics: ['Community'],
-      locations: %w[Seattle Bellevue]
+      location_titles: %w[Seattle Bellevue]
     )
 
     stats = summarizer.run
@@ -253,11 +253,11 @@ class EventSummarizerTest < Minitest::Test
     assert_equal 0, stats[:updated]
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
 
-    assert_equal %w[Seattle Bellevue], document.front_matter['locations']
+    assert_equal %w[Seattle Bellevue], document.front_matter['location_titles']
     assert_nil document.front_matter['published']
   end
 
-  def test_run_marks_unpublished_when_backfilled_locations_empty
+  def test_run_marks_unpublished_when_backfilled_location_titles_empty
     slug = 'event-no-locations'
     write_event(slug, {
                   'title' => 'Already Summarized No Locations',
@@ -270,7 +270,7 @@ class EventSummarizerTest < Minitest::Test
     summarizer = build_summarizer(
       client_response: {},
       topics: ['Technology'],
-      locations: []
+      location_titles: []
     )
 
     stats = summarizer.run
@@ -278,12 +278,12 @@ class EventSummarizerTest < Minitest::Test
     assert_equal 1, stats[:locations_backfilled]
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
 
-    assert_empty document.front_matter['locations']
+    assert_empty document.front_matter['location_titles']
     assert_empty document.front_matter['image_ids']
     refute document.front_matter['published']
   end
 
-  def test_run_skips_classification_when_topics_and_locations_explicitly_empty
+  def test_run_skips_classification_when_topics_and_location_titles_explicitly_empty
     slug = 'event-already-classified'
     write_event(slug, {
                   'title' => 'Already Classified',
@@ -291,7 +291,7 @@ class EventSummarizerTest < Minitest::Test
                   'location' => 'Hall',
                   'summarized' => true,
                   'topics' => [],
-                  'locations' => []
+                  'location_titles' => []
                 }, 'Existing summary')
 
     topic_classifier = Object.new
@@ -301,7 +301,7 @@ class EventSummarizerTest < Minitest::Test
 
     location_classifier = Object.new
     def location_classifier.classify(*)
-      raise 'should not be invoked when locations already exist'
+      raise 'should not be invoked when location_titles already exist'
     end
 
     summarizer = Mayhem::Events::EventSummarizer.new(

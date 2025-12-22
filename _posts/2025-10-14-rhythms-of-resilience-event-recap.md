@@ -7,7 +7,7 @@ feed_content: "<p>A heartwarming thank you for making Rhythms of Resilience an u
   of Resilience Event Recap</a> appeared first on <a href=\"https://casa-latina.org\">Casa
   Latina</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Casa Latina
 source_url: https://casa-latina.org/rhythms-of-resilience-event-recap/

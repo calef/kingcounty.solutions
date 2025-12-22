@@ -11,7 +11,7 @@ feed_content: Dear Friend of LIHI, We wish you and your family Happy Holidays! W
   people a...
 feed_content_checksum: cbe31aa5c8a900b732918f09ac37f745f03e4215
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Dear Friend of LIHI, We wish you and your family Happy Holidays!
   We are so grateful to you for helping low-income and homeless women, men and children

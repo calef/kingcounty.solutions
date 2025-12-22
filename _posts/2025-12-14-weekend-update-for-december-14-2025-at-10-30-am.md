@@ -11,7 +11,7 @@ feed_content: |-
   <p>The Snoqualmie River is currently at Phase 0. There are projections showing that could change to Phase 3 at 34000cfs around Wednesday December 17, 2025.</p>
 feed_content_checksum: c0c14b74673169b306c71fc2e1ea961c7e37d5a7
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p>Cedar River and White River Still at Phase 4 and Green River at Phase 3 with Evacuations taking place in various locations along those rivers.</p>

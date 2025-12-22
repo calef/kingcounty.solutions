@@ -22,7 +22,7 @@ feed_content: |-
   <p>Designed by Santos Prescott + Associates and built by Suffolk Construction and Guzman Construction Group, 600 Seventh stands as proof that when public agencies, nonprofit developers, private funders, and community voices unite to invest in affordable housing, we can build a city where everyone has a place to call home.</p>
   <p>The post <a href="https://www.mercyhousing.org/2025/12/600-seventh-street-opens-in-san-francisco/">600 Seventh Street Opens in San Francisco</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/12/600-seventh-street-opens-in-san-francisco/

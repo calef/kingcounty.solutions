@@ -66,7 +66,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA North Florida/South Georgia Health care System site </a> and has been edited for style and clarity.  </p>
 feed_content_checksum: 92919ece6acf4449fabee2295a9fb0c84ce54fce
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <h2>Find a new lease on life</h2>

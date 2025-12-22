@@ -12,7 +12,7 @@ feed_content: MESSAGE TO NORMANDY PARK RESIDENTIAL CUSTOMERS. Recently, the City
   be up to two feet in diameter by four feet in length and no more than fifty-five
   (55) pounds.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/public-works/storm-debris-pickup/

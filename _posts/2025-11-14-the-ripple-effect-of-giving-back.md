@@ -23,7 +23,7 @@ feed_content: |-
   </div>
   <p>The post <a href="https://www.vibrant.org/the-ripple-effect-of-giving-back/">The Ripple Effect of Giving Back</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/the-ripple-effect-of-giving-back/

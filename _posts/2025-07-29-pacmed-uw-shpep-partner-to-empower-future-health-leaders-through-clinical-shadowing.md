@@ -12,7 +12,7 @@ feed_content: |-
   <p>By opening its clinics to SHPEP scholars, PacMed is helping bridge the gap between classroom learning and real-world clinical experience. This partnership not only supports students’ academic and professional journeys but also strengthens the pipeline of diverse talent entering the health professions. It is a powerful example of how mentorship and community investment can shape the future of medicine—one student at a time.</p>
   <p>The post <a href="https://www.pacificmedicalcenters.org/news/pacmed-uw-shpep-partner-to-empower-future-health-leaders-through-clinical-shadowing/">PacMed &#038; UW SHPEP Partner to Empower Future Health Leaders Through Clinical Shadowing</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Pacific Medical Centers
 source_url: https://www.pacificmedicalcenters.org/news/pacmed-uw-shpep-partner-to-empower-future-health-leaders-through-clinical-shadowing/

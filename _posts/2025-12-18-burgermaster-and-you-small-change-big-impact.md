@@ -11,7 +11,7 @@ feed_content: November is National Youth Homelessness Awareness Month, and this 
   and...
 feed_content_checksum: c0d9f1cacb0e9cc08d2b87f39e877d7321127296
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: November is National Youth Homelessness Awareness Month, and
   this past November, we were proud to partner once again with Burgermaster  and YouthCare  for

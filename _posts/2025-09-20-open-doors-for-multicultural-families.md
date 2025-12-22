@@ -15,7 +15,7 @@ feed_content: |-
 
   The post [Open Doors for Multicultural Families](https://togethercenter.org/2025/09/20/open-doors-for-multicultural-families/) appeared first on [Together Center](https://togethercenter.org).
 image_ids: []
-locations:
+location_titles:
 - South King County
 source: Together Center
 source_url: https://togethercenter.org/2025/09/20/open-doors-for-multicultural-families/

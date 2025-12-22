@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: DESC is almost ready to have clients move into Steven's Place and we
   need your help to make our 109 incoming residents feel at home.
 image_ids: []
-locations:
+location_titles:
 - King County
 source: DESC
 source_url: https://www.desc.org/stevensplaceapartments/

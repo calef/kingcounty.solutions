@@ -7,7 +7,7 @@ feed_content: 'For Immediate Release Contact: Cynthia Santana/Communications Man
   employer and alleged violations of the Wage Theft Ordinance. OLS investigated […]'
 feed_content_checksum: 30099dfc00b2c0a93ec3db7b13cf67c314708dea
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://news.seattle.gov/2025/12/10/seattle-office-of-labor-standards-settles-investigation-of-alleged-wage-theft-violations-against-care-provider/

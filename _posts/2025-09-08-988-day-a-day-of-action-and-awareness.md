@@ -12,7 +12,7 @@ feed_content: |-
   <p>The post <a href="https://www.vibrant.org/988-day-a-day-of-action-and-awareness/">988 Day: A Day of Action and Awareness</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids:
 - 64ae3cc118b1ec324f64155cb84dca8c84620cfda91e1af264b0c8d9f682b93c
-locations:
+location_titles:
 - King County
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/988-day-a-day-of-action-and-awareness/

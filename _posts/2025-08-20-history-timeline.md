@@ -11,7 +11,7 @@ feed_content: |-
 image_ids:
 - 88d157c90fec4762266d22ae8325a5bf491254cec3f3d16b60784dee447d2f12
 - f7783642a368850036bb493cc001bfd98ff56830d601beb33c5e3ab518648575
-locations:
+location_titles:
 - King County
 source: Washington 211
 source_url: https://wa211.org/history-timeline/

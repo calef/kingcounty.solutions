@@ -72,7 +72,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_6 blog-post-type et_sect
   post <a href=\"https://lcsnw.org/2025/08/back-to-school-bash/\">Back to School Bash
   offers relief and resources for Tri-Cities families</a> appeared first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/08/back-to-school-bash/

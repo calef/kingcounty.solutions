@@ -12,7 +12,7 @@ feed_content: '<figure class="wp-block-image size-large"><img fetchpriority="hig
   1187w, https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu.png
   1275w" sizes="(max-width: 791px) 100vw, 791px" /></figure>'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/december-2025-lunch-menu/

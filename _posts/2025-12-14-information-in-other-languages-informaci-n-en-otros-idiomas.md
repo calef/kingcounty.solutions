@@ -8,7 +8,7 @@ feed_content: This information in available in other languages. Select your desi
   desplegable en la esquina superior derecha de este sitio web.
 feed_content_checksum: abe1754c6e58fd67fdcf6fa694a2b07bf1bdd7de
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://kcemergency.com/?p=6905
 source: King County Emergency Management

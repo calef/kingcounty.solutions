@@ -8,7 +8,7 @@ feed_content: Adult fares are changing Sept. 1, 2025, on King County Metro buses
   for Senior, Disabled, Youth, and ORCA LIFT riders will remain unchanged everywhere
   else. The new adult&#8230;
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/28/king-county-metro-water-taxi-and-seattle-streetcar-adult-fares-change-sept-1-2025/

@@ -7,7 +7,7 @@ feed_content: Community Corner highlights the work of Seattle Human Services’ 
   their amazing work on behalf of the people of Seattle. This post was provided by
   Kathleen Wi...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://humaninterests.seattle.gov/2025/11/25/community-corner-african-american-reach-and-teach-health-ministry-aarth/

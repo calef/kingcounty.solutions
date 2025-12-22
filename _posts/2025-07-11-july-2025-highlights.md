@@ -17,7 +17,7 @@ feed_content: |-
 
   <p></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/july-2025-highlights/

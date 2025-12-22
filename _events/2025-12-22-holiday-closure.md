@@ -38,7 +38,7 @@ feed_content: <section id="tribe-events-pg-template" class="tribe-events-pg-temp
   </div> </div> </section>
 image_ids: []
 location: WA
-locations:
+location_titles:
 - King County
 organization_title: KidVantage
 source_url: https://kidvantagenw.org/event/holiday-closure/

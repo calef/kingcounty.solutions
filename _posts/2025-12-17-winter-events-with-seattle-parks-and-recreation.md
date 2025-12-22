@@ -8,7 +8,7 @@ feed_content: Check out the exciting winter events and teen programs happening a
   Miller CC Raven...
 feed_content_checksum: 152474509c1be438a114cc06eb82e231a9879a9b
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Check out the exciting winter events and teen programs happening
   at your local community centers this season. There’s something fun for everyone!

@@ -35,7 +35,7 @@ feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.25
 feed_content_checksum: 2a19b5143e0f455157210a32a4c3f2fa0cd12132
 image_ids: []
 location: "[ONLINE] EvergreenHealth"
-locations:
+location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/vital-moves-mondays-sponsored-by-evergreenhealth-12/2025-12-22/

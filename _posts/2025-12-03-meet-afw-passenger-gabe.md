@@ -65,7 +65,7 @@ feed_content: |-
 
   <figure class="wp-block-video"><video controls src="https://angelflightwest.org/wp-content/uploads/2025/12/Video.mov"></video></figure><p>The post <a href="https://angelflightwest.org/news/meet-afw-passenger-gabe/">Meet AFW Passenger Gabe</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/meet-afw-passenger-gabe/

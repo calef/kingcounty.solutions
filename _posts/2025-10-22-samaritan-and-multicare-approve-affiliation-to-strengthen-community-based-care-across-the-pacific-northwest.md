@@ -13,7 +13,7 @@ feed_content: |-
   <p>To learn more about this affiliation, visit <a href="https://samhealth.org/Affiliation" data-wpel-link="external" rel="external noopener noreferrer" class="wpel-icon-right">samhealth.org/affiliation<span class="wpel-icon wpel-image wpel-icon-6"></span></a>.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/10/samaritan-and-multicare-approve-affiliation-to-strengthen-community-based-care-across-the-pacific-northwest/" data-wpel-link="internal">Samaritan and MultiCare approve affiliation to strengthen community-based care across the Pacific Northwest</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/10/samaritan-and-multicare-approve-affiliation-to-strengthen-community-based-care-across-the-pacific-northwest/

@@ -43,7 +43,7 @@ feed_content: |-
 feed_content_checksum: cd43995b57b9f699c97af327f7303daf61401de2
 image_ids:
 - 4f745237430fcafda7497b574643c6652e91b3ebbc2e0dd5ee05b0ede6601868
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p>A new multifamily property located in Seattle’s Interbay neighborhood will provide 109 studio units and five respite units for those recovering from inpatient medical care.</p>

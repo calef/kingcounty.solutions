@@ -102,7 +102,7 @@ feed_content: |-
   <p>The post <a>YouthCare Update: Progress and Stability</a> appeared first on <a>YouthCare</a>.</p>
 feed_content_checksum: 2a4c2c51b2c6b11360bff077972c7ef6fb3005fd
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p>Two months ago, we shared our strategic direction to bring sharper focus to the heart of our work: providing direct service and critical support ensuring unhoused young people are connected to the services and support they need. Today, we want to update you on the progress we’re making and the stability we’re building for the young people we serve.</p>

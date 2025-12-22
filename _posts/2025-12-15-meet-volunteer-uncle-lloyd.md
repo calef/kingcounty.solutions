@@ -5,7 +5,7 @@ feed_content: "<a><p>There are so many reasons to love spending time at The Cent
   great stories …</p></a>"
 feed_content_checksum: f74d5a5cc6dad320b341b8f95b3e4d611fa21ae8
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<a><p>There are so many reasons to love spending time at The
   Center—but one of the best is the people you meet and the stories they share. Someone

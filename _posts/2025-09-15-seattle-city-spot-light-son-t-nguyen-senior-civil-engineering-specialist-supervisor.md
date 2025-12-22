@@ -14,7 +14,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   work and grow in the Technical Resources Unit. In my current role, I manage a talented
   and skilled team of Computer-Aided Design [&#8230;]'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/09/15/seattle-city-spotlight-son-t-nguyen-senior-civil-engineering-specialist-supervisor/

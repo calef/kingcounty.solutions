@@ -5,7 +5,7 @@ feed_content: Growing up in Alaska, Hawai’i and the Northwest, Dan Krehbiel ha
   in Juneau, Alaska, he thought he could “make a living on the water.” After decades
   of piloting tour boats and fast ferries from Trinidad and the Caribbean&#8230;
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/23/first-mariner-dan-krehbiel-is-leaving-the-helm/

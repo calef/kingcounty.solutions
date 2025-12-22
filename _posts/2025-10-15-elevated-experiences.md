@@ -7,7 +7,7 @@ feed_content: |-
 
   In 2026, we will continue to prioritize improving patron services and experiences, shaped by community input. We will be testing new charging lockers so patrons can charge their personal electronic devices while using the library. With broad staff input, we’re developing a new customer service model strongly focused on working with communities, removing barriers to access, and ensuring that all patrons get the help they need and feel welcome in our libraries.&nbsp;&nbsp; We’re also exploring an “innovation portal” that empowers staff to brainstorm and pilot new ideas, pursue grant funding, and help scale successful projects systemwide.&nbsp;
 image_ids: []
-locations:
+location_titles:
 - Mercer Island
 - Sammamish
 - Vashon

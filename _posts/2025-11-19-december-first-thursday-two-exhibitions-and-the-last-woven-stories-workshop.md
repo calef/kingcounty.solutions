@@ -5,7 +5,7 @@ feed_content: 'Join us at ARTS at King Street Station on December 4 for Pioneer 
   Loving Under the Carceral State, and getting another look at Welcome to Paradise:
   ¡Viva Puerto Rico...'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/11/18/december-first-thursday-two-exhibitions-and-the-last-woven-stories-workshop/

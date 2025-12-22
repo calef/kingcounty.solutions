@@ -526,7 +526,7 @@ feed_content: '<div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:WYd;G
   tabindex="0">Report abuse</div></div> </div> </div> </div> </div></div> </div> </div></div>'
 image_ids: []
 location: Denny Hall (DEN)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

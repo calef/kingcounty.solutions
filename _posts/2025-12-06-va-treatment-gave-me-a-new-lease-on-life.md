@@ -131,7 +131,7 @@ feed_content: |-
 image_ids:
 - 7a6efde449c1aa8ddf79fbb495add927063ca55d2d34e84c130f348d4e20f22e
 - c3b1c5d7f9cccb076aa7ee8603667eb7d6ba02b27afa9f0848e1f9a1d93585b4
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143148/va-treatment-gave-me-a-new-lease-on-life/

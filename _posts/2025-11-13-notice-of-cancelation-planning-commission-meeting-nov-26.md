@@ -8,7 +8,7 @@ feed_content: |-
   <p><span><span><span><span>Deborah Estrada, MMC, Deputy City Clerk</span></span></span></span></p>
   <p class="MsoNoSpacing"><span><span><strong><span><span>Notice:</span></span></strong></span></span></p></div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/bc-pc/page/notice-cancelation-planning-commission-meeting-nov-26

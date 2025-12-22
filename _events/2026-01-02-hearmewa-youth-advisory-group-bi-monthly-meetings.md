@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Zoom
-locations:
+location_titles:
 - King County
 organization_title: King County School Health
 published: false

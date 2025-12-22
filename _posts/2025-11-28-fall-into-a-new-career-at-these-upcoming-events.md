@@ -67,7 +67,7 @@ feed_content: |-
 
   <p>Join our recruiters at these upcoming events and jumpstart a meaningful VA career. Learn more and apply on <a href="https://vacareers.va.gov/job-news-advice/fall-into-a-new-career-at-these-upcoming-events/" target="_blank" rel="noreferrer noopener">VA Careers</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143562/fall-new-career-upcoming-events/

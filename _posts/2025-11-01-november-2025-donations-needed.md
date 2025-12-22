@@ -31,7 +31,7 @@ feed_content: |-
 feed_content_checksum: 136524f5e9b1d3fb7b3b74c0b0adad2d6623a519
 image_ids:
 - 99a5da044852b4e0faa6afe7d2e20a4e55a552ae48db66ff4424cdb061fce152
-locations:
+location_titles:
 - South King County
 original_source_html: |-
   <p></p>

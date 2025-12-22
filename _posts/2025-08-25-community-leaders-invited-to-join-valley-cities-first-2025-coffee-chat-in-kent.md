@@ -23,7 +23,7 @@ feed_content: |-
   <p><em>If you or someone you know is currently struggling with mental health and/or addiction, contact the Valley Cities team by phone at 253-833-7444 or in person at your local Valley Cities location. You can also call the 24 hour crisis line at 206-461-3222 or toll free at 866-427-4747.</em></p>
   <span class="et_bloom_bottom_trigger"></span><p>The post <a href="https://valleycities.org/community-leaders-invited-to-join-valley-cities-first-2025-coffee-chat-in-kent/">Community leaders invited to join Valley Cities’ first 2025 Coffee Chat in Kent</a> appeared first on <a href="https://valleycities.org">Valley Cities Behavioral Health Care</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/community-leaders-invited-to-join-valley-cities-first-2025-coffee-chat-in-kent/

@@ -9,7 +9,7 @@ feed_content: |-
   </form>
   <p>The post <a href="https://www.crisisconnections.org/2025-crisis-connections-impact-report/">Protected: 2025 Crisis Connections Q1-Q3 Impact Report</a> appeared first on <a href="https://www.crisisconnections.org">Crisis Connections</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Crisis Connections
 source_url: https://www.crisisconnections.org/2025-crisis-connections-impact-report/

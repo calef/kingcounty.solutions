@@ -4,7 +4,7 @@ feed_content_checksum: ecf9615fed38f49b48824c6073a2d100232c42a5
 generated_from_post: true
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: The Seattle Public Library
 original_source_html: Various craft events leading up to New Year’s celebrations.

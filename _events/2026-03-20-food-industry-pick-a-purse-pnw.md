@@ -96,7 +96,7 @@ feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path
 feed_content_checksum: ec52cc8f00178fa542b70255d9049e39e18630d7
 image_ids: []
 location: Hilton Downtown Portland, 921 SW 6th Ave, Portland, OR, 97204, United States
-locations: []
+location_titles: []
 organization_title: Olive Crest
 published: false
 source_url: https://give.olivecrest.org/event/food-industry-washington-pick-a-purse-2026/e732437

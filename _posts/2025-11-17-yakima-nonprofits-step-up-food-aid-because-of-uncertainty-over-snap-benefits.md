@@ -7,7 +7,7 @@ feed_content: |-
   <p>The post <a>Yakima nonprofits step up food aid because of uncertainty over SNAP benefits</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: '093ca3b3994c41035a1c1eaf1f63a518be501101'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/yakima-nonprofits-step-up-food-aid-because-of-uncertainty-over-snap-benefits/

@@ -16,7 +16,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
 feed_content_checksum: 6da4352b2661d3d404f8d880b35e9470fb4b2acb
 image_ids: []
 location: Crossroads, Bellevue, WA, United States
-locations:
+location_titles:
 - King County
 organization_title: Indian American Community Services
 published: false

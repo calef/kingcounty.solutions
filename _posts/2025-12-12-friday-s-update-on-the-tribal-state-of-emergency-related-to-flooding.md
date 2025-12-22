@@ -18,7 +18,7 @@ feed_content: |-
   <p>If you’re experiencing a flood emergency, please call 911.</p>
 feed_content_checksum: 999a4d059380414fd4c8a460e1cc55b572008639
 image_ids: []
-locations:
+location_titles:
 - Snoqualmie Valley
 rss_guid: https://snoqualmietribe.us/?p=6904
 source: Snoqualmie Indian Tribe

@@ -9,7 +9,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   efforts and mitigate the impact of recent federal reductions to the Supplemental
   Nutrition Assistance Program (SNAP).</span></span></span></p></div></div></div>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/yfs/page/city-mercer-island-receives-30000-donation-miyfs-foundation-support-food-security

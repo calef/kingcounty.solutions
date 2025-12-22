@@ -7,7 +7,7 @@ feed_content: |-
 
   <p>Consider becoming a Lifetime member of The Center! You’ll start off the New Year never needing to renew again, &hellip;</p></a>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/become-a-lifetime-member-2/

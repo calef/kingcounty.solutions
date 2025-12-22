@@ -15,7 +15,7 @@ feed_content: |-
   <p><span data-contrast="auto">With opportunities like this, Vibrant continues to open doors helping young people access the spaces, skills, and confidence they need to thrive as their fullest selves. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279}"> </span></p>
   <p>The post <a href="https://www.vibrant.org/opening-doors-empowering-youth-at-out-in-tech/">Opening Doors: Empowering Youth at Out-in-Tech</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/opening-doors-empowering-youth-at-out-in-tech/

@@ -30,7 +30,7 @@ feed_content: |-
   <p>The post <a href="https://www.pacificmedicalcenters.org/news/meet-dr-jody-rhoades-primary-care-that-comes-to-you/">Meet Dr. Jody Rhoades: Primary Care that Comes to You!</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
 image_ids:
 - da795fb72933fa9fccff8682259895746ad58d120aa7698e113f3fcf36ed3528
-locations:
+location_titles:
 - King County
 source: Pacific Medical Centers
 source_url: https://www.pacificmedicalcenters.org/news/meet-dr-jody-rhoades-primary-care-that-comes-to-you/

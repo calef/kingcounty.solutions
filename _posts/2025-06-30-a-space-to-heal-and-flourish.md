@@ -440,7 +440,7 @@ image_ids:
 - 04f1be4fa26dc0686eed29e59c74a1d075fe7648f44ef817769a750773a4dc78
 - 9de747312803d9ac29b298c780395792dc73364560482134e5a86ae577d7eab4
 - 2fd7214c50fe7b174faad76e0d3264cca092195ee5bcc1e1c878bb63fcacdd8c
-locations:
+location_titles:
 - King County
 source: Solid Ground
 source_url: https://www.solid-ground.org/a-space-to-heal-and-flourish/

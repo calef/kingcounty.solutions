@@ -5,7 +5,7 @@ feed_content: |-
   <p><a>Source</a></p>
 feed_content_checksum: b0e63b3a45ee2888861a1b02afea6bd1ac9703e0
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: United Way of King County
 source_url: https://www.uwkc.org/access-to-resources/why-i-turned-to-united-way/

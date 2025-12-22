@@ -35,7 +35,7 @@ feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.25
 feed_content_checksum: c546560a1f7698d9c9382964e40a57df7e2db58f
 image_ids: []
 location: "[ONLINE] Virginia Mason Franciscan Health"
-locations:
+location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\" class=\"cmsmasters_html\">\r\n<head>\r\n<meta

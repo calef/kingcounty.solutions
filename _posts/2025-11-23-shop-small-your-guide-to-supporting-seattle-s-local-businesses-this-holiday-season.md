@@ -5,7 +5,7 @@ feed_content: Support small businesses this Small Business Saturday Small busine
   culture, and entrepreneurial drive that makes our city one of a kind. Small Business
   Saturday, and...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/23/shop-small-your-guide-to-supporting-seattles-local-businesses-this-holiday-season/

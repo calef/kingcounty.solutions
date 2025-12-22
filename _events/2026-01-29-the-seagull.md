@@ -92,7 +92,7 @@ feed_content: <div class="max-bound"> <div class="hero-image--large"> <div class
   </div> </div> </article> </div> </div> </div> </div> </div> </div> </div>
 image_ids: []
 location: Floyd and Delores Jones Playhouse Theater (PHT)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

@@ -5,7 +5,7 @@ feed_content: |-
   <p>The post <a>Councilmember Rivera responds to social media post following approval of new police contract</a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: fa0fb920ed32af50ae6f413a61156545b455870f
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://council.seattle.gov/?p=21504

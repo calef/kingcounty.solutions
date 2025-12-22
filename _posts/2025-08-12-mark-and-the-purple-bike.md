@@ -78,7 +78,7 @@ feed_content: |-
   <p>The post <a href="https://bikeworks.org/mark-and-the-purple-bike/">Mark and the purple bike</a> appeared first on <a href="https://bikeworks.org">Bike Works</a>.</p>
 image_ids:
 - ad87ac70308ef8061067946ed8c46011cfead35c5bc67485080c0f292691a7be
-locations:
+location_titles:
 - King County
 source: Bike Works
 source_url: https://bikeworks.org/mark-and-the-purple-bike/?utm_source=rss&utm_medium=rss&utm_campaign=mark-and-the-purple-bike

@@ -9,7 +9,7 @@ feed_content: |-
 
   [Washington DSHS FAQ on SNAP Benefits During Federal Government Shutdown (PDF)](https://snoqualmietribe.us/wp-content/uploads/2025/10/FINAL_Client_FAQ_Federal_Shutdown_SNAP-Gov.pdf)
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/snap-benefits-potentially-impacted-by-federal-government-shutdown/

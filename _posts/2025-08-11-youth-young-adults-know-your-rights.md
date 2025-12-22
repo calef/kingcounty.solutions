@@ -20,7 +20,7 @@ feed_content: |-
 
   The post [Youth & young adults: Know your rights](https://elap.org/youth-young-adults-know-your-rights/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Eastside Legal Assistance Program
 source_url: https://elap.org/youth-young-adults-know-your-rights/?utm_source=rss&utm_medium=rss&utm_campaign=youth-young-adults-know-your-rights

@@ -36,7 +36,7 @@ feed_content: |-
   <p>The post <a href="https://positiveplace.org/boys-and-girls-club-gala/">Boys &#038; Girls Club Gala: A Roaring Night of Glamour &#038; Giving</a> appeared first on <a href="https://positiveplace.org">Boys &amp; Girls Clubs</a>.</p>
 image_ids:
 - 5ec12c2717daf9a8842ad4f14ec5440dae4153b8f78ec28e8c8c8f1eb6c763fc
-locations:
+location_titles:
 - King County
 source: Boys & Girls Clubs of King County
 source_url: https://positiveplace.org/boys-and-girls-club-gala/

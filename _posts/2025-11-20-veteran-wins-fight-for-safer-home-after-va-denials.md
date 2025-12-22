@@ -82,7 +82,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachm
   wins fight for safer home after VA denials</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_ids:
 - df0b7c9eaff2db9ab28cf72f8324841917027fd87e12c2960baf5ab82e47cece
-locations:
+location_titles:
 - King County
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/veteran-wins-fight-for-safer-home-after-va-denials/

@@ -61,7 +61,7 @@ feed_content: '<div class="row"> <div class="main col-md-12" id="ktmain" role="m
 image_ids: []
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
-locations:
+location_titles:
 - King County
 organization_title: South Park Senior Citizens
 source_url: https://www.spseniors.org/calendar/enhancefitness-with-cindy-house-2/2025-12-22/

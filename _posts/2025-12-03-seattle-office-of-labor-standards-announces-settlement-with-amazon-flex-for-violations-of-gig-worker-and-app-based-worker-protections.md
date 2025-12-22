@@ -7,7 +7,7 @@ feed_content: 'For Immediate Release Contact: Cynthia SantanaCommunications Mana
   (OLS) investigated Amazon Logistics, Inc. (dba Amazon Flex) for alleged violations
   of [&#8230;]'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://news.seattle.gov/2025/12/03/seattle-office-of-labor-standards-announces-settlement-with-amazon-flex-for-violations-of-gig-worker-and-app-based-worker-protections/

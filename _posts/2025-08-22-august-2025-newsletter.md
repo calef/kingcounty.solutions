@@ -23,7 +23,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   is  <a href=\"https://carepointclinic.dm.networkforgood.com/emails/4144827?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t\"
   target=\"_blank\">HERE!</a></p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-k9c5t

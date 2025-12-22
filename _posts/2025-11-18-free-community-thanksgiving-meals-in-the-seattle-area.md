@@ -72,7 +72,7 @@ feed_content: '<p class="">The holidays are just around the corner! Explore thes
   class="">Contact: 206-783-2244&nbsp;</p></li><li><p class=""><a href="https://www.phinneycenter.org/event/thanksgiving-potluck-at-phinney-center-2/2025-11-27/"
   target="_blank">More Information&gt;&gt;</a> </p></li></ul>'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/free-thanksgiving-meals-in-the-seattle-area

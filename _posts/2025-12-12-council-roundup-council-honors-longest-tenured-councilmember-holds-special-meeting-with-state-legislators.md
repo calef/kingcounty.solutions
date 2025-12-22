@@ -46,7 +46,7 @@ feed_content: "<span>Council Roundup: Council honors longest-tenured councilmemb
   \           <div>\n<time>December 12 2025</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: f15a6fac8eba63ed0eed49bdb4b1147c81ace03a
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: 215531 at https://bellevuewa.gov

@@ -142,7 +142,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   Student Researcher Named 2026 Rhodes Scholar</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/02/ihdd-student-researcher-named-2026-rhodes-scholar/

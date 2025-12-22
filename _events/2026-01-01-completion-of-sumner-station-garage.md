@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Sumner Station
-locations: []
+location_titles: []
 organization_title: Sound Transit
 published: false
 source_url: https://www.soundtransit.org/blog/platform/construction-update-new-parking-garages-more-sumner-auburn-kent

@@ -70,7 +70,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_9 et_section_regular\" >
   time watching shows on YouTube, playing video games, and shopping for clothes that
   match my style.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Inatai Foundation
 source_url: https://inatai.org/news/meet-alieu-samateh/

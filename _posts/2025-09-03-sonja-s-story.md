@@ -26,7 +26,7 @@ feed_content: |-
   <p>Sonja’s story is one of courage, persistence, and openness. In saying yes—to treatment, to support, and to community—she has found her own light shining through uncertainty.<strong> </strong>And in sharing her journey, she reminds us all: listen to your body, pursue regular screenings, and never stop seeking the care and connection you deserve.</p>
   <p>Would you like to share your Cancer Lifeline or Harmony Retreats story with us? <a href="mailto:victrinia@harmonyhill.org" target="_blank" rel="noreferrer noopener">Contact Our Communications Team</a></p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/sonja_blomdahl/

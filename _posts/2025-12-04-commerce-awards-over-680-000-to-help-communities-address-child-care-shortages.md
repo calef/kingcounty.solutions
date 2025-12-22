@@ -53,7 +53,7 @@ feed_content: |-
 
   <p>Visit the Commerce website to learn more about <a href="https://www.commerce.wa.gov/about-us/boards-and-commissions/child-care-collaborative-task-force/child-care-partnership-grants/">Child Care Partnership Grants</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - South King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/commerce-awards-over-680000-to-help-communities-address-child-care-shortages/

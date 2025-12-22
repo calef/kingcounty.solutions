@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: 'Link to full article:  A housing project that''s showing the island''s
   true colors, one way or the other | Opinion piece in Kitsap Sun...'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/a-community-that-wants-affordable-housing-just-not-here-article-regarding-lihi-s-proposed-dev

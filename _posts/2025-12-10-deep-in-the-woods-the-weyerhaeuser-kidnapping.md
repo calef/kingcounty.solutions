@@ -9,7 +9,7 @@ feed_content: |-
   <p>The post <a>Deep in the Woods: The Weyerhaeuser Kidnapping</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: e9a55bf6462e604ef70cd039d11500a577676f11
 image_ids: []
-locations: []
+location_titles: []
 published: false
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10604
 source: Shoreline Lake Forest Park Senior Activity Center

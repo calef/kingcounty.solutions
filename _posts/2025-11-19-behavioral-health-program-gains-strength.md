@@ -11,7 +11,7 @@ feed_content: |-
   <p><strong>Thank you, Bank of America, for investing in our shared vision of housing as the foundation for a thriving life.</strong></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/behavioral-health-program-gains-strength/">Behavioral Health Program Gains Strength</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/behavioral-health-program-gains-strength/

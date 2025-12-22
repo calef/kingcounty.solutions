@@ -91,7 +91,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   field--label-hidden field__item\"><time datetime=\"2025-10-17T12:00:00Z\" class=\"datetime\">October
   17 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-10-14-25

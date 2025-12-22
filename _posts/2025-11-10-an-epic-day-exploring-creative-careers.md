@@ -7,7 +7,7 @@ feed_content: Over 500 attendees flooded into McCaw Hall at Seattle Center on Tu
   program hosted by The Seattle Office of Arts &#038; Culture and the Office of Economic
   De...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/11/10/an-epic-day-exploring-creative-careers/

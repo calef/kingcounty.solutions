@@ -4,7 +4,7 @@ feed_content: SOCR's team of hardworking staff, whose commitment to equity and s
   makes makes our work possible.
 feed_content_checksum: 0c78ab3984ccaac1e3379bd0051b81b4a544a02a
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: SOCR's team of hardworking staff, whose commitment to equity
   and service makes makes our work possible.

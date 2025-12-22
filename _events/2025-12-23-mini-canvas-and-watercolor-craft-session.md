@@ -4,7 +4,7 @@ feed_content_checksum: e7f768c23d3e8422c7e0de2848f18061801bcdaa
 generated_from_post: true
 image_ids: []
 location: Lake City Branch
-locations:
+location_titles:
 - King County
 organization_title: The Seattle Public Library
 original_source_html: A craft session using mini canvases and watercolors.

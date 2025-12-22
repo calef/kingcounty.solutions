@@ -16,7 +16,7 @@ feed_content: |-
   Librarian and horror afficionado Spratford assembles an anthology of essays from popular contemporary horror writers, a love letter to the genre and an examination of horror’s appeal to diverse audiences. In their starred review, booklist said “the results are illuminating, moving, and inspiring.”</p>
   <p><em>~ posted by Andrea G.</em></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/04/staff-faves-2025-adult-nonfiction/

@@ -33,7 +33,7 @@ feed_content: '<div id="skiptocontent"> <a aria-label="Skip to main content" hre
   style="cursor: pointer">Cookie Preferences</a> </p> </div> </div> </div> </div>'
 image_ids: []
 location: Online (Zoom)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

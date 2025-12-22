@@ -29,7 +29,7 @@ feed_content: |-
   <p>The post <a>FOR IMMEDIATE RELEASE: Washington’s Emergency Food System Mobilizes Amid SNAP Disruption and Record Demand</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: 63977241537ad60bf46748114246f08107fb7778
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/wa-emergency-food-system-mobilizes-amid-snap-disruption-record-demand/

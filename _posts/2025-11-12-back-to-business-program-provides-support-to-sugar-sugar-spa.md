@@ -7,7 +7,7 @@ feed_content: For Claudia McGinnis, her career in skincare started as a job, but
   clinic. She says that was where she fell in love with the industry. “What I love
   the most i...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/12/back-to-business-program-provides-support-to-sugar-sugar-spa/

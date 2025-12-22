@@ -10,7 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Virtual 
 feed_content_checksum: d8f6e699c8449d5400bc8149c419d5a422dfd160
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Disabled American Veterans
 original_source_html: "\n\n\n<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta

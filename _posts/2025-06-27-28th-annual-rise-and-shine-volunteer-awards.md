@@ -191,7 +191,7 @@ feed_content: |-
 
   _ **Thank you all for your incredible volunteer work!** _
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/28th-annual-rise-and-shine-volunteer-awards/

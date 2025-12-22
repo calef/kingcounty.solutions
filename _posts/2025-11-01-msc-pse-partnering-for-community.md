@@ -8,7 +8,7 @@ feed_content: Multi-Service Center and Puget Sound Energy’s partnership begin 
   in the form of credits on electricity and gas bills through MSC. Since PSE introduced
   their Bill  [...]
 image_ids: []
-locations:
+location_titles:
 - South King County
 source: Multi-Service Center
 source_url: https://mschelps.org/msc-pse-partnering-for-community/

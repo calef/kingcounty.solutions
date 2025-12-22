@@ -49,7 +49,7 @@ feed_content: |-
 
   <p></p><p>The post <a href="https://www.bellevuelifespring.org/impact/fresh-start/">Hope, stability, and a fresh start for Raul and Katy’s family</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/impact/fresh-start/">Hope, stability, and a fresh start for Raul and Katy’s family</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/impact/fresh-start/?utm_source=rss&utm_medium=rss&utm_campaign=fresh-start

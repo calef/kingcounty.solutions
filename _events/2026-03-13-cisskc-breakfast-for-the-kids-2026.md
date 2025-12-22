@@ -20,7 +20,7 @@ feed_content_checksum: c5951a2d6e724f59f4675e4b6ac59e00b63d1ae5
 image_ids: []
 location: Kent-Meridian High School, 10020 SE 256th St., Kent, Washington, 98030,
   United States
-locations:
+location_titles:
 - King County
 organization_title: Communities In Schools of South King County
 source_url: https://skc.ciswa.org/event/cisskc-breakfast-for-the-kids-2026/

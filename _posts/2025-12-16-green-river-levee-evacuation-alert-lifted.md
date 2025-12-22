@@ -6,7 +6,7 @@ feed_content: As of Monday evening, December 15 at 7:30 p.m., the evacuation ale
   canceled. It is safe to return to this area. However, please continue to stay […]
 feed_content_checksum: a816ab2177141201360953396ac023648b277f59
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: As of Monday evening, December 15 at 7:30 p.m., the evacuation
   alert has been lifted for the residents and businesses east of the Green River in

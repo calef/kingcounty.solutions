@@ -195,7 +195,7 @@ feed_content: |-
   <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://carenetps.org/make-appointment/">Make an Appointment Today</a></div>
   </div><p>The post <a href="https://carenetps.org/im-pregnant-now-what/">I’m Pregnant…Now What?</a> first appeared on <a href="https://carenetps.org">Care Net of Puget Sound</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Care Net of Puget Sound
 source_url: https://carenetps.org/im-pregnant-now-what/?utm_source=rss&utm_medium=rss&utm_campaign=im-pregnant-now-what

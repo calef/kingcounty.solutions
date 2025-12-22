@@ -14,7 +14,7 @@ feed_content: |-
 
   <p></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Homework Help
 source_url: https://blog.spl.org/2025/11/18/the-years-best-of-for-both-the-dilettante-and-the-obsessive/

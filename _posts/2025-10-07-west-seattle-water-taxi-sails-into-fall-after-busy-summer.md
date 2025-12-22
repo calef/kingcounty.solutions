@@ -6,7 +6,7 @@ feed_content: The West Seattle Water Taxi is preparing to transition into the fa
   people taking advantage of the extended weekend service as well as the special sailings
   throughout the&#8230;
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/10/07/west-seattle-water-taxi-sails-into-fall-after-busy-summer/

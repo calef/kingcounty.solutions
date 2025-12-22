@@ -24,7 +24,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>World Me
 feed_content_checksum: a929941ab538b1533a52daea4724bea9e14165d3
 image_ids: []
 location: Together Conference Center, 16305 NE 87th St, Redmond, 98052, United States
-locations:
+location_titles:
 - King County
 organization_title: Together Center
 published: false

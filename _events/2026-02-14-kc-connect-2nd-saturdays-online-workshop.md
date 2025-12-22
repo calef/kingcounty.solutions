@@ -154,7 +154,7 @@ feed_content: '<div id="simple-banner" class="simple-banner"><div class="simple-
   </ul></aside>'
 image_ids: []
 location: WA
-locations:
+location_titles:
 - King County
 organization_title: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/kc-connect-online-workshop/2026-02-14/
