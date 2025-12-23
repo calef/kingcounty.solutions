@@ -1,10 +1,13 @@
 # frozen_string_literal: true
 
-require_relative 'abstract_organization_jekyll_collection'
+require_relative 'abstract_jekyll_collection'
+require_relative 'concerns/sourced'
 
 module Mayhem
   module Models
-    class Image < AbstractOrganizationJekyllCollection
+    class Image < AbstractJekyllCollection
+      include Mayhem::Models::Concerns::Sourced
+
       repository_role :images
       scope glob: '_images/**/*.{md,markdown}'
       naming do |front_matter:, **|
@@ -22,10 +25,6 @@ module Mayhem
 
       def image_url
         self['image_url']
-      end
-
-      def source_url
-        self['source_url']
       end
     end
   end

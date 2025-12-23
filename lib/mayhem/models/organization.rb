@@ -2,10 +2,13 @@
 
 require 'fmrepo'
 require_relative 'abstract_jekyll_collection'
+require_relative 'concerns/topical'
 
 module Mayhem
   module Models
     class Organization < AbstractJekyllCollection
+      include Mayhem::Models::Concerns::Topical
+
       repository_role :organizations
       scope glob: '_organizations/**/*.{md,markdown}'
       naming do |front_matter:, **|
@@ -50,10 +53,6 @@ module Mayhem
 
       def phone
         self['phone']
-      end
-
-      def topic_titles
-        self['topic_titles'] || []
       end
 
       def type

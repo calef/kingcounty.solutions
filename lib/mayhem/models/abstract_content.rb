@@ -1,10 +1,17 @@
 # frozen_string_literal: true
 
-require_relative 'abstract_organization_jekyll_collection'
+require_relative 'abstract_jekyll_collection'
+require_relative 'concerns/located'
+require_relative 'concerns/sourced'
+require_relative 'concerns/topical'
 
 module Mayhem
   module Models
-    class AbstractContent < AbstractOrganizationJekyllCollection
+    class AbstractContent < AbstractJekyllCollection
+      include Mayhem::Models::Concerns::Located
+      include Mayhem::Models::Concerns::Sourced
+      include Mayhem::Models::Concerns::Topical
+
       def feed_content
         self['feed_content']
       end
@@ -15,10 +22,6 @@ module Mayhem
 
       def image_ids
         self['image_ids'] || []
-      end
-
-      def location_titles
-        self['location_titles'] || []
       end
 
       def locked
@@ -33,20 +36,12 @@ module Mayhem
         self['original_source_html']
       end
 
-      def source_url
-        self['source_url']
-      end
-
       def summarized
         self['summarized']
       end
 
       def summarized?
         self['summarized'] == true
-      end
-
-      def topic_titles
-        self['topic_titles'] || []
       end
     end
   end
