@@ -10,7 +10,7 @@ feed_content: There have been recent claims about the work DESC is doing at Bloo
 image_ids: []
 location_titles:
 - King County
-source: DESC
+organization_title: DESC
 source_url: https://www.desc.org/statement-on-recent-commentary-about-descs-bloomside/
 summarized: true
 title: Statement on Recent Commentary About DESC’s Bloomside 

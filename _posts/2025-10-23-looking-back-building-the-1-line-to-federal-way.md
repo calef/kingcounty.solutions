@@ -10,7 +10,7 @@ feed_content: <div><p paraid="1754074966" paraeid="{727f9510-5ab4-4246-a6fb-aaf9
 image_ids: []
 location_titles:
 - King County
-source: Sound Transit
+organization_title: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/looking-back-building-1-line-to-federal-way
 summarized: true
 title: 'Looking back: Building the 1 Line to Federal Way'

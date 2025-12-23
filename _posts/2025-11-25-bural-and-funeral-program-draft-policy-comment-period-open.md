@@ -16,8 +16,8 @@ feed_content: |-
   <p>Note: A physical copy of this memo will be mailed to all Tribal Members in early December.</p>
 image_ids: []
 location_titles: []
+organization_title: Snoqualmie Indian Tribe
 published: false
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/bural-and-funeral-program-draft-policy-comment-period-open/
 summarized: true
 title: Bural and Funeral Program – Draft Policy Comment Period Open

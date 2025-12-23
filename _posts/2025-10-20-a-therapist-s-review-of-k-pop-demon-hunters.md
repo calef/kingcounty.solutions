@@ -115,7 +115,7 @@ image_ids:
 - 929fcf43b4f7030575df87192a4f085af2dc33ac308626b53cfac33425c6b178
 location_titles:
 - King County
-source: Samaritan Center of Puget Sound
+organization_title: Samaritan Center of Puget Sound
 source_url: https://samaritanps.org/a-therapists-review-of-k-pop-demon-hunters/?utm_source=rss&utm_medium=rss&utm_campaign=a-therapists-review-of-k-pop-demon-hunters
 summarized: true
 title: A Therapist’s Review of K-Pop Demon Hunters

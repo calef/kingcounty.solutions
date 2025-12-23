@@ -11,13 +11,13 @@ feed_content_checksum: 9988b96174f4534f0cdd66ff102692efd01d078f
 image_ids: []
 location_titles:
 - King County
+organization_title: King County School Health
 original_source_html: The Washington Department of Health announces the launch of
   the first module in the Trusted Messenger Program Training Series, titled “Maximizing
   Trust &amp; Reducing Resistance.” This 1-hour course offers continuing education
   credits and equips healthcare providers with strategies to enhance communication,
   manage resistance, and improve patient trust. Additional modules are forthcoming.
 rss_guid: http://kingcountyschoolhealthdotcom.wordpress.com/?p=6926
-source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/16/vaccine-trusted-messenger-program-training-series/
 summarized: true
 title: Vaccine Trusted Messenger Program Training Series

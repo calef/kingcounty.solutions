@@ -11,7 +11,7 @@ feed_content: LIHI staff and volunteers are busily at work setting up two new vi
 image_ids: []
 location_titles:
 - King County
-source: Low Income Housing Institute
+organization_title: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/two-new-villages-to-open
 summarized: true
 title: 'Two New Villages to Open! '

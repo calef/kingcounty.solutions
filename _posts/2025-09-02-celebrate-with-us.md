@@ -8,8 +8,8 @@ feed_content: 'Registration is now open for Lighthouse''s 9th Annual Celebrate 
   with us and learn how Lighthouse is breaking the cycle of abuse in our'
 image_ids: []
 location_titles: []
+organization_title: Lighthouse NW
 published: false
-source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/celebrate-with-us
 summarized: true
 title: Celebrate With Us!

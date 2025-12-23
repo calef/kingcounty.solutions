@@ -49,7 +49,7 @@ image_ids:
 - 728a3df36a3c6a91c1e001740b25d8dec75ad163d64ca990bd97fbb0d7c32777
 location_titles:
 - King County
-source: Compass Housing Alliance
+organization_title: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/11/mission-advancement-officer-anne-jannetti-expresses-her-thankfulness-to-two-of-our-long-time-supporters-alysun-deckert-and-mike-bailey/
 summarized: true
 title: Mission Advancement Officer Anne Jannetti expresses her thankfulness to two

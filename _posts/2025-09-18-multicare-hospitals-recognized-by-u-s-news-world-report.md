@@ -16,7 +16,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: MultiCare
+organization_title: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/09/multicare-hospitals-recognized-by-us-news-world-report-2025/
 summarized: true
 title: MultiCare hospitals recognized by U.S. News & World Report

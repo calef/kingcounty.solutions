@@ -52,8 +52,8 @@ feed_content: |-
   <p>For more Office of Research and Development updates, visit&nbsp;<a href="https://www.research.va.gov/" rel="noopener">ORD online</a>&nbsp;or go to https://www.research.va.gov/news_briefs/.</p>
 image_ids: []
 location_titles: []
+organization_title: Veterans Affairs Pension Program
 published: false
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143284/va-research-prevention-blast-exposure-cancer/
 summarized: true
 title: 'VA Research Wrap Up: New findings on suicide prevention, blast exposure, and

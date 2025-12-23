@@ -60,6 +60,7 @@ feed_content_checksum: 7e1d478a4954e105647db8583b77145f674cd7df
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>Using bicycle to bridge gap with Veterans</h2>
 
@@ -115,7 +116,6 @@ original_source_html: |-
 
   <p>“He’s become a bridge,” said Stefanie Mohl, social worker, “turning his past into a powerful source of hope for others.” If you or someone you know needs assistance, please visit the <a>VA Homeless Program</a> for more information.</p>
 rss_guid: https://news.va.gov/?p=143890
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143890/once-homeless-veteran-stability/
 summarized: true
 title: Once homeless, Veteran now steers others toward stability.

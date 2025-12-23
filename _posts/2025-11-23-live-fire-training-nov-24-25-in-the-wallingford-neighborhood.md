@@ -6,8 +6,8 @@ feed_content: The Seattle Fire Department is conducting live-fire training exerc
   to work with vete...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://fireline.seattle.gov/2025/11/23/live-fire-training-nov-24-25-in-the-wallingford-neighborhood/
 summarized: true
 title: Live-fire training Nov. 24-25 in the Wallingford neighborhood

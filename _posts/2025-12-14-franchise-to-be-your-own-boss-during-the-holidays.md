@@ -64,8 +64,8 @@ feed_content_checksum: b086a48a7459746877ddae2468b972bf7b3f89d0
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 rss_guid: https://news.va.gov/?p=143990
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143990/be-my-own-boss-franchise/
 summarized: true
 title: Franchise to be your own boss during the holidays

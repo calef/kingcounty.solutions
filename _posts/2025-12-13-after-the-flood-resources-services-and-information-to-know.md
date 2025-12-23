@@ -9,8 +9,8 @@ feed_content_checksum: e14d6f2baecdfe18f8c2321db09ce73e001ff725
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 rss_guid: https://kcemergency.com/?p=6834
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/13/after-the-flood-resources-services-and-information-to-know/
 summarized: true
 title: After the flood – resources, services, and information to know 

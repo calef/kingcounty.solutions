@@ -99,6 +99,7 @@ feed_content_checksum: 1628a4f6468871ddf03fdd29e564ff69b55e1ea0
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>Recognizing the different ways Veteran homelessness presents and how VA services offer pathways to stability</h2>
 
@@ -193,7 +194,6 @@ original_source_html: |-
 
   <p></p>
 rss_guid: https://news.va.gov/?p=144072
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144072/veteran-homelessness-isnt-always-visible/
 summarized: true
 title: Veteran homelessness isn’t always visible

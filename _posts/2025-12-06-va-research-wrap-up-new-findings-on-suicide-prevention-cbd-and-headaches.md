@@ -47,7 +47,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143566/va-research-wrap-up-suicide-cbd-headaches/
 summarized: true
 title: 'VA Research Wrap Up: New findings on suicide prevention, CBD and headaches'

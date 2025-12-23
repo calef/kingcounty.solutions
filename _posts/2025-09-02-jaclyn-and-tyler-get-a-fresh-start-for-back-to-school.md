@@ -55,7 +55,7 @@ image_ids:
 - cfa117e2a26e7244cead9d863a59f13fa09efb5b50663ee56df7de0e0a60ed21
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/vn6buflo7xrt3qsqzpbu3idvdsbi8x
 summarized: true
 title: Jaclyn and Tyler get a fresh start for back-to-school

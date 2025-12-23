@@ -64,8 +64,8 @@ feed_content_checksum: 53b376b695b7d572f34d06e7875b544d85d303e6
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 rss_guid: https://news.va.gov/?p=143768
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143768/navigating-a-challenging-road-after-stroke/
 summarized: true
 title: Navigating a challenging road after stroke

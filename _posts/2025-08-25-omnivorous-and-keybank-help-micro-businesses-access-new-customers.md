@@ -18,7 +18,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Community Roots Housing
+organization_title: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/08/omnivorous-keybank-help-micro-businesses/
 summarized: true
 title: Omnivorous and KeyBank help micro-businesses access new customers

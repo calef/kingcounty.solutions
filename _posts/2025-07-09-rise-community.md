@@ -12,7 +12,7 @@ feed_content: June 2025Domestic abuse thrives in secrecy. It isolates, separates
 image_ids: []
 location_titles:
 - King County
-source: Lighthouse NW
+organization_title: Lighthouse NW
 source_url: https://lighthousenw.org/blog/rise-community
 summarized: true
 title: Rise Community

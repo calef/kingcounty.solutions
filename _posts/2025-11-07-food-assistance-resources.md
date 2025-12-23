@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Seattle Indian Health Board
+organization_title: Seattle Indian Health Board
 source_url: https://www.sihb.org/2025/11/food-assistance-resources/
 summarized: true
 title: Food Assistance Resources

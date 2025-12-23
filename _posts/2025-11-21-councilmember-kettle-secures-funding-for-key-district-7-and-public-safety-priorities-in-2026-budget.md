@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://council.seattle.gov/2025/11/21/councilmember-kettle-secures-funding-for-key-district-7-and-public-safety-priorities-in-2026-budget/
 summarized: true
 title: Councilmember Kettle secures funding for key District 7 and public safety priorities

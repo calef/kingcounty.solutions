@@ -260,7 +260,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"47762\" 
 image_ids: []
 location_titles:
 - King County
-source: 'Opal: Food + Body Wisdom'
+organization_title: 'Opal: Food + Body Wisdom'
 source_url: https://opalfoodandbody.com/the-appetite-137/
 summarized: true
 title: 'The Appetite 137:  Self Inquiry Series: Crop Top Bravery and Back into Dating'

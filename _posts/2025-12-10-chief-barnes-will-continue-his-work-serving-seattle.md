@@ -7,9 +7,9 @@ feed_content: I’m extremely honored and grateful to continue in my role as Chi
 feed_content_checksum: f2cde36a69656da98836ce8e4aa070a4c5ab3f19
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44660
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/10/chief-barnes-will-continue-his-work-serving-seattle/
 summarized: true
 title: Chief Barnes Will Continue His Work Serving Seattle

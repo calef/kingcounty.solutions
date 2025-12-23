@@ -73,6 +73,7 @@ image_ids:
 - 60c499346ca3bfd2e4d70e96adec5840b7dd5de3ecd0a91124ce09bc096298f3
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>How an Army Veteran rated for Individual Unemployability took control of his life and now holds the title Doctor</h2>
 
@@ -140,7 +141,6 @@ original_source_html: |-
 
   <p></p>
 rss_guid: https://news.va.gov/?p=143994
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143994/from-unemployable-to-ph-d/
 summarized: true
 title: From unemployable to Ph.D.

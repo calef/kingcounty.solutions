@@ -10,7 +10,7 @@ feed_content: September is Healthy Aging Month, an opportunity to raise awarenes
 image_ids: []
 location_titles:
 - King County
-source: Seattle Human Services Department
+organization_title: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/24/this-healthy-aging-month-get-connected-to-community-resources-and-support/
 summarized: true
 title: This Healthy Aging Month, get connected to community resources and support

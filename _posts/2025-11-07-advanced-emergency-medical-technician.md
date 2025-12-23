@@ -1008,7 +1008,7 @@ image_ids:
 - 3a4f948feedf53330995dda66aa05beb2902c5e65d2ffe01cbc9f59aec5edb26
 location_titles:
 - King County
-source: Pima Medical Institute Seattle Community Dental Clinic
+organization_title: Pima Medical Institute Seattle Community Dental Clinic
 source_url: https://pmi.edu/on-campus-programs/certificate/advanced-emergency-medical-technician/
 summarized: true
 title: Advanced Emergency Medical Technician

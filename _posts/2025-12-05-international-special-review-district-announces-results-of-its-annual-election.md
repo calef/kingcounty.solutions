@@ -6,8 +6,8 @@ feed_content: " The annual election for the International Special Review Distri
   Three positions were up ..."
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/05/international-special-review-district-announces-results-of-its-annual-election/
 summarized: true
 title: International Special Review District announces results of its annual election

@@ -31,8 +31,8 @@ feed_content_checksum: a27d5ba170615460fc7f8e69a38addff43b2dbc1
 image_ids: []
 location_titles:
 - King County
+organization_title: Boyer Children's Clinic
 rss_guid: https://www.boyercc.org/?p=11256
-source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/family-stories/ben/
 summarized: true
 title: Ben’s Story

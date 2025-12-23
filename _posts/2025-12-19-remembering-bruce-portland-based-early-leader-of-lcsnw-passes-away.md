@@ -50,6 +50,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
 feed_content_checksum: 6bf3d7deb7b36eaa179febf08b03a859845117a4
 image_ids: []
 location_titles: []
+organization_title: Lutheran Community Services Northwest
 original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\t<h1>Remembering
   Bruce: Portland-based early leader of LCSNW passes away</h1>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p><em>Photo:
   Bruce Strade (right) and Salah Ansary at LCSNW’s 2024 Faith Leaders breakfast in
@@ -99,7 +100,6 @@ original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n
   appeared first on <a>LCSNW</a>.</p>"
 published: false
 rss_guid: https://lcsnw.org/?p=49657
-source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/12/lcsnw-founder-in-portland-dies/
 summarized: true
 title: 'Remembering Bruce: Portland-based early leader of LCSNW passes away'

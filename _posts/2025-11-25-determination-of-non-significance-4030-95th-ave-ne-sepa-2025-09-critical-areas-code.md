@@ -11,8 +11,8 @@ feed_content: '<p><img decoding="async" class="alignnone size-full wp-image-8126
   1583w" sizes="(max-width: 1700px) 100vw, 1700px" /></p>'
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/determination-of-non-significance-4030-95th-ave-ne-critical-areas-code/
 summarized: true
 title: 'DETERMINATION OF NON-SIGNIFICANCE: 4030 95th Ave NE. SEPA-2025-09 Critical

@@ -119,7 +119,7 @@ image_ids:
 - fa6f7d0f4e20db02b4a1cc1b1a0955b7810bd216730ae7a41bf3078e6c8a4c97
 location_titles:
 - King County
-source: Operation Homefront - Critical Financial Assistance Program
+organization_title: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/food-assistance-lifts-weight-off-soldier/
 summarized: true
 title: Food Assistance Lifts Weight Off Soldier

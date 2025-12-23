@@ -72,7 +72,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Hospital District No. 1 (Valley Medical Center)
+organization_title: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/10/01/understanding-medicare-whats-changing-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-medicare-whats-changing-in-2026
 summarized: true
 title: 'Understanding Medicare: What’s Changing in 2026'

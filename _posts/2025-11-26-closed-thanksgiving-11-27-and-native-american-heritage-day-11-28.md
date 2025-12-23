@@ -5,8 +5,8 @@ feed_content: |-
   <p><a href="https://wellbeing.uw.edu/closed-thanksgiving-11-27-and-native-american-heritage-day-11-28/" rel="nofollow">Source</a></p>
 image_ids: []
 location_titles: []
+organization_title: Husky Health Center
 published: false
-source: Husky Health Center
 source_url: https://wellbeing.uw.edu/closed-thanksgiving-11-27-and-native-american-heritage-day-11-28/
 summarized: true
 title: Closed Thanksgiving (11/27) and Native American Heritage Day (11/28)

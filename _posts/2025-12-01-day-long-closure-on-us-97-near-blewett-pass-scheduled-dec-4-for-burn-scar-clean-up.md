@@ -6,8 +6,8 @@ feed_content: WENATCHEE – The Washington State Department of Transportation wi
   Fire burn scar area.
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/day-long-closure-us-97-near-blewett-pass-scheduled-dec-4-burn-scar-clean
 summarized: true
 title: Day-long closure on US 97 near Blewett Pass scheduled Dec. 4 for burn scar

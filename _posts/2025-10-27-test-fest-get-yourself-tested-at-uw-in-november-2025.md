@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Husky Health Center
+organization_title: Husky Health Center
 source_url: https://wellbeing.uw.edu/test-fest-nov-2025/
 summarized: true
 title: 'Test Fest: Get Yourself Tested at UW in November, 2025'

@@ -11,8 +11,8 @@ feed_content: |-
   <p>The post <a href="https://www.multicare.org/newsroom/2025/09/multicare-hosts-bridge-to-brunch-5k-2025/" data-wpel-link="internal">MultiCare hosts Bridge to Brunch 5K</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: MultiCare
 published: false
-source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/09/multicare-hosts-bridge-to-brunch-5k-2025/
 summarized: true
 title: MultiCare hosts Bridge to Brunch 5K

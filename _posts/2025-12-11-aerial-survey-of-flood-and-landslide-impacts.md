@@ -9,9 +9,9 @@ feed_content_checksum: b9c10c58466f3056cf13bbe06e1845e6f382b3df
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 published: false
 rss_guid: https://kcemergency.com/?p=6746
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/11/aerial-survey-of-flood-and-landslide-impacts/
 summarized: true
 title: Aerial Survey of Flood and Landslide Impacts

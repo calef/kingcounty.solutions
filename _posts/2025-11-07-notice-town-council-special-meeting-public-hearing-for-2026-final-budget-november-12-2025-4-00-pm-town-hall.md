@@ -36,8 +36,8 @@ feed_content: |-
   Thank you.
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/notice-town-council-special-meeting-public-hearing-for-2026-final-budget-november-12-2025-400-pm-town-hall/
 summarized: true
 title: 'NOTICE: Town Council Special Meeting & Public Hearing for 2026 Final Budget

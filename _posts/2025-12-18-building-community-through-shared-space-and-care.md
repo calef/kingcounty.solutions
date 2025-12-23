@@ -13,6 +13,7 @@ feed_content_checksum: 859637e4ebfad448a22842b3ade4bff5a846337d
 image_ids: []
 location_titles:
 - King County
+organization_title: Friends of Youth
 original_source_html: At Friends of Youth, we believe community grows stronger when
   people have space to gather, connect, and care for one another. Recently, we were
   honored to open our Kirkland Youth Services Center (KYSC) administration office's
@@ -21,7 +22,6 @@ original_source_html: At Friends of Youth, we believe community grows stronger w
   Pathways  for their recent gathering event that brought together regional leaders
   and partners focused on...
 rss_guid: 69444424f98824434c165214
-source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/building-community-through-shared-space-and-care
 summarized: true
 title: building community through shared space and care

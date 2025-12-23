@@ -7,8 +7,8 @@ feed_content: |-
   </form>
 image_ids: []
 location_titles: []
+organization_title: NOSSCR Referral Service
 published: false
-source: NOSSCR Referral Service
 source_url: https://nosscr.org/nosscr-megareg-session/
 summarized: true
 title: 'Protected: NOSSCR MegaReg Session'

@@ -34,7 +34,7 @@ feed_content_checksum: 5a717346a8e8976122e304376f88628f94b3e978
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143584/insurance-accelerated-benefit/
 summarized: true
 title: VA Insurance and the Accelerated Benefit Option

@@ -40,7 +40,7 @@ image_ids:
 - 54b2194cee32cf79de9f69c90e4cd73bda2ca4953238e2c9d467f54ca8adda82
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/lake-to-lake-10-25
 summarized: true
 title: Grand Connection is focus of October Lake to Lake

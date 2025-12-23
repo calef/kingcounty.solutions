@@ -77,7 +77,7 @@ image_ids:
 - 35caafa0d9c6ef59ea19bf090b490032759d43c406bbd145bcc420e9e9c1ddea
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143811/navigating-the-holidays/
 summarized: true
 title: Navigating the holidays

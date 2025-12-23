@@ -32,7 +32,7 @@ location_titles:
 - Bryn Mawr-Skyway
 - Lake Forest Park
 - Kenmore
-source: Eastside Legal Assistance Program
+organization_title: Eastside Legal Assistance Program
 source_url: https://elap.org/podcast-legal-leaders-talk-about-the-program-that-taught-them-you-belong/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-legal-leaders-talk-about-the-program-that-taught-them-you-belong
 summarized: true
 title: 'Podcast: Legal leaders talk about the program that taught them “you belong”'

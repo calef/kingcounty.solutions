@@ -17,8 +17,8 @@ feed_content: |-
   <p><em>~ posted by Andrea G.</em></p>
 image_ids: []
 location_titles: []
+organization_title: The Seattle Public Library
 published: false
-source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/04/staff-faves-2025-adult-nonfiction/
 summarized: true
 title: '2025 Staff Faves: Adult Nonfiction'

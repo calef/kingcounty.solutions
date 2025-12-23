@@ -130,6 +130,7 @@ feed_content_checksum: 8e849746fc8384481abd07ad07ae16814e972ca6
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>Empowering Veterans with knowledge for prostate health decisions</h2>
 
@@ -255,7 +256,6 @@ original_source_html: |-
 
   <p>To learn more about prostate cancer, visit <a>VA’s National Oncology Program website</a>. You can also find a <a>helpful infographic</a> about whether prostate cancer screening is right for you, and an <a>interactive Decision Aid Tool</a> for prostate cancer screening in the <a>Veterans Health Library</a>.</p>
 rss_guid: https://news.va.gov/?p=143920
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143920/know-if-prostate-cancer-screening-right-for-me/
 summarized: true
 title: How do I know if prostate cancer screening is right for me?

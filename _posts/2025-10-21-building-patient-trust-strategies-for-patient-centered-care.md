@@ -75,8 +75,8 @@ feed_content: |-
   <p>The post <a href="https://arcorafoundation.org/building-patient-trust-strategies-for-patient-centered-care/">Building Patient Trust: Strategies for Patient Centered Care</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Arcora Foundation
 published: false
-source: Arcora Foundation
 source_url: https://arcorafoundation.org/building-patient-trust-strategies-for-patient-centered-care/
 summarized: true
 title: 'Building Patient Trust: Strategies for Patient Centered Care'

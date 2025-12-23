@@ -62,7 +62,7 @@ image_ids:
 - 63abec4f311eac921476eaec9c04865ea20ed4acc3ba5e50c3dd0b42d1da9f49
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/belred-arts-developers
 summarized: true
 title: Bellevue selects developers for transit-oriented projects in BelRed Arts District

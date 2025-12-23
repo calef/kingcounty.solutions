@@ -61,7 +61,7 @@ image_ids:
 - 6525220e0e2dd7742262d399ae154a8a3f3eb049101dbbd30cb4fa761cd7b799
 location_titles:
 - King County
-source: Department of Commerce
+organization_title: Department of Commerce
 source_url: https://www.commerce.wa.gov/the-jamestown-sklallam-tribe-commerce-sign-memorandum-of-understanding/
 summarized: true
 title: The Jamestown S’Klallam Tribe, Commerce sign memorandum of understanding

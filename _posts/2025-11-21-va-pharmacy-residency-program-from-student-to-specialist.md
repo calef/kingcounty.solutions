@@ -47,7 +47,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143482/pharmacy-residency-program-student-specialist/
 summarized: true
 title: 'VA Pharmacy Residency Program: From student to specialist'

@@ -576,7 +576,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"47792\" 
 image_ids: []
 location_titles:
 - South King County
-source: 'Opal: Food + Body Wisdom'
+organization_title: 'Opal: Food + Body Wisdom'
 source_url: https://opalfoodandbody.com/the-appetite-140-parenting-teen-athletes/
 summarized: true
 title: 'The Appetite 140: Parenting the Competitive Athlete: A Mother-Daughter Conversation'

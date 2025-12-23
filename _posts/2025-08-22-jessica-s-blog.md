@@ -7,7 +7,7 @@ feed_content: <p>The post <a href="https://www.kcsarc.org/en/jessicas-blog/">Jes
 image_ids: []
 location_titles:
 - King County
-source: King County Sexual Assault Resource Center
+organization_title: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/jessicas-blog/
 summarized: true
 title: Jessica’s Blog

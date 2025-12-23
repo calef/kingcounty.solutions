@@ -7,8 +7,8 @@ feed_content: |-
   <p>The post <a href="https://lakecityseniors.org/lake-city-seniors-will-reopen-on-monday-july-14th/">Lake City Seniors will reopen on Monday, July 14th</a> appeared first on <a href="https://lakecityseniors.org">Lake City Seniors</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Lake City Seniors
 published: false
-source: Lake City Seniors
 source_url: https://lakecityseniors.org/lake-city-seniors-will-reopen-on-monday-july-14th/
 summarized: true
 title: Lake City Seniors will reopen on Monday, July 14th

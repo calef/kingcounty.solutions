@@ -9,8 +9,8 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   HERE</a></p>\n      </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Black Diamond
 published: false
-source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/26971
 summarized: true
 title: Planning Commission Meeting - Cancelled

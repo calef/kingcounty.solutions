@@ -9,7 +9,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Neighborhood House
+organization_title: Neighborhood House
 source_url: https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/
 summarized: true
 title: 'Honoring Shirley and Louis Wilcox: A Legacy That Lives On '

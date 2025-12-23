@@ -137,7 +137,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143600/live-whole-health-293-thanksgiving-in-a-bite/
 summarized: true
 title: 'Live Whole Health #293: Thanksgiving in a bite'

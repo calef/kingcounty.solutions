@@ -4,8 +4,8 @@ feed_content: SEATTLE – Work includes Revive I-5 lane reductions, an eastbound
   520 closure to Montlake and I-405/SR 522 ramp closures
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/prepare-busy-travel-weekend-greater-seattle-area
 summarized: true
 title: 'Prepare: Busy travel weekend in greater Seattle area'

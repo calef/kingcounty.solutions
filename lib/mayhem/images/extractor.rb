@@ -206,7 +206,6 @@ module Mayhem
         title = 'Image' if title.empty?
         frontmatter_data['title'] = title
         organization_title = frontmatter['organization_title']
-        organization_title = frontmatter['source'] if organization_title.to_s.strip.empty?
         frontmatter_data['organization_title'] = organization_title unless organization_title.to_s.strip.empty?
         frontmatter_data['date'] = frontmatter['date'] if frontmatter['date']
 

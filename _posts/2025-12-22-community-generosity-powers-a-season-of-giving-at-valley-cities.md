@@ -47,6 +47,7 @@ feed_content_checksum: 0c9da4a4ae0a048b9dfb493ecf6212c7fef3df4e
 image_ids: []
 location_titles:
 - King County
+organization_title: Valley Cities Behavioral Health Care
 original_source_html: |-
   <p>As seen in the Federal Way Mirror</p>
   <h2>Drop boxes and year-end gifts help sustain mental health and recovery services across King County</h2>
@@ -89,7 +90,6 @@ original_source_html: |-
   <div></div>
   <span></span><p>The post <a>Community generosity powers a season of giving at Valley Cities</a> appeared first on <a>Valley Cities Behavioral Health Care</a>.</p>
 rss_guid: https://valleycities.org/?p=6105
-source: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/community-generosity-powers-a-season-of-giving-at-valley-cities/
 summarized: true
 title: Community generosity powers a season of giving at Valley Cities

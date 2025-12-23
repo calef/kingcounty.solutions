@@ -57,6 +57,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
 feed_content_checksum: bfe652e1ec918c662b0d4ee22d25785009d15722
 image_ids: []
 location_titles: []
+organization_title: Inatai Foundation
 original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span><img
   src=\"https://inatai.org/wp-content/uploads/2025/12/Raul-Martinez_1200x628.jpg\"></span>\n\t\t\t</div>\n<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div><p><em>Community
   Engagement Manager Raúl Martínez spends a sunny day on the green at the Yakima Country
@@ -113,7 +114,6 @@ original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n
   balance of movement, creativity, and connection.</p>\n</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 published: false
 rss_guid: https://inatai.org/?p=14775
-source: Inatai Foundation
 source_url: https://inatai.org/news/meet-raul-martinez/
 summarized: true
 title: Meet Raúl Martínez

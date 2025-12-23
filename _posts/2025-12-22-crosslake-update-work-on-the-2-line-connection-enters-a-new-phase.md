@@ -11,13 +11,13 @@ feed_content_checksum: ab0a322b32cfbac91fdc828bc9ff965f255bdb39
 image_ids: []
 location_titles:
 - King County
+organization_title: Sound Transit
 original_source_html: |-
   <div>
   <p>The holiday season is in full swing, and how better to celebrate than with a regional transit milestone?</p>
   <p>Look no further than the 2 Line’s Crosslake Connection, where a new phase is officially underway: pre-revenue operations. </p>
   </div>
 rss_guid: https://www.soundtransit.org/blog/platform/crosslake-update-work-2-line-connection-enters-new-phase
-source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/crosslake-update-work-2-line-connection-enters-new-phase
 summarized: true
 title: 'Crosslake Update: Work on the 2 Line connection enters a new phase'

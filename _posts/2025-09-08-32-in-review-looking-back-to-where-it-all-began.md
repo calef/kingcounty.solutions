@@ -36,7 +36,7 @@ feed_content: "<h2 data-start=\"924\" data-end=\"1111\">32 in Review:  Looking 
 image_ids: []
 location_titles:
 - Eastside
-source: PorchLight
+organization_title: PorchLight
 source_url: https://porchlightcares.org/2025/09/32-in-review-looking-back-to-where-it-all-began/
 summarized: true
 title: '32 in Review: Looking Back to Where it All Began'

@@ -7,12 +7,12 @@ feed_content_checksum: 62d89fd304ffd438cb562ba35548ffc080cb3809
 image_ids: []
 location_titles:
 - King County
+organization_title: St. Luke Episcopal Church
 original_source_html: |-
   <p>Christmas Eve Service with a Pop-Up Pageant for All Ages at 4 pm Christmas Eve Candlelight Service in the Chapel at 8 pm Christmas Day Service with Stories and Carols … <a>Read More</a></p>
   <p>The post <a>Celebrate Christmas at St Luke’s</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 published: false
 rss_guid: https://stlukesseattle.org/?p=42840
-source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/12/16/celebrate-christmas-at-st-lukes/
 summarized: true
 title: Celebrate Christmas at St Luke’s

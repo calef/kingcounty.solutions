@@ -76,7 +76,7 @@ image_ids:
 - 3b7d6693c7847bf7455a782888fb9bb2e49e15b061241e60d198baa3e972526b
 location_titles:
 - King County
-source: Essentials First
+organization_title: Essentials First
 source_url: https://www.essentialsfirst.org/blog/x6fbag35a54h6xwsgd7ssjuh90fb18
 summarized: true
 title: 'Recap: Hygiene Champions Summer Program'

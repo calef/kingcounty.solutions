@@ -71,7 +71,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
 image_ids: []
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-11-12-25
 summarized: true
 title: 'Council Roundup: Council draws $600,000 from its contingency to support urgent

@@ -28,7 +28,7 @@ image_ids:
 - b9e18bd01c9e1a375f9b745e9927f053c0d8d0d05b3f974d18d8e2120ad76f91
 location_titles:
 - King County
-source: CarePoint Clinic
+organization_title: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz
 summarized: true
 title: July 2025 Newsletter

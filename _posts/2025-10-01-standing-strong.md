@@ -30,7 +30,7 @@ image_ids:
 - 938c390db8974ab1918e231beee88f0ad14149398b20896bfbf236d4def0e076
 location_titles:
 - King County
-source: Refugee Women's Alliance
+organization_title: Refugee Women's Alliance
 source_url: https://www.rewa.org/standing-strong/?utm_source=rss&utm_medium=rss&utm_campaign=standing-strong
 summarized: true
 title: Standing Strong

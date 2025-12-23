@@ -52,7 +52,7 @@ image_ids:
 - 53f1d8f6219b06261156dab116b0a7e36a3d2ed8981b2fe0ac16e12ebfd3bf07
 location_titles:
 - King County
-source: Disabled American Veterans
+organization_title: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/nuclear-past-haunts-airmen-veterans-fight-for-toxic-exposure-recognition/
 summarized: true
 title: 'Nuclear past haunts airmen: Veterans fight for toxic exposure recognition'

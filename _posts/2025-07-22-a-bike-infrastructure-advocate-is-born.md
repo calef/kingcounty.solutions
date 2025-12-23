@@ -76,7 +76,7 @@ image_ids:
 - 25a2cb4c8580d938afa9ed3686b00c11bca9e67c23f8982f5cd40b5636b3ac67
 location_titles:
 - King County
-source: Bike Works
+organization_title: Bike Works
 source_url: https://bikeworks.org/a-bike-infrastructure-advocate-is-born/?utm_source=rss&utm_medium=rss&utm_campaign=a-bike-infrastructure-advocate-is-born
 summarized: true
 title: A bike infrastructure advocate is born

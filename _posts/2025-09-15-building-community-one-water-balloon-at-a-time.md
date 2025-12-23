@@ -65,7 +65,7 @@ image_ids:
 - 78452c620499bef2349b2eceb5488e1589ddf2dfa7e8ee134d5f51817b1894ae
 location_titles:
 - King County
-source: Solid Ground
+organization_title: Solid Ground
 source_url: https://www.solid-ground.org/building-community-one-water-balloon-at-a-time/
 summarized: true
 title: Building community, one water balloon at a time 

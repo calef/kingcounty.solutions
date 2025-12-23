@@ -45,6 +45,7 @@ feed_content_checksum: b8d030f94853a2677688a36d505ccd14d2428e56
 image_ids: []
 location_titles:
 - King County
+organization_title: Operation Homefront - Critical Financial Assistance Program
 original_source_html: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>s</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 
@@ -85,7 +86,6 @@ original_source_html: |-
   <p><strong>Media Inquiries:</strong><br><strong>Susan Ziesman, Vice President, Integrated Public Relations</strong><br><a>Susan.Ziesman@OperationHomefront.org <br></a>(210) 392-6878</p>
   <p>The post <a>Operation Homefront Receives $7.5 Million Grant</a> appeared first on <a>Operation Homefront</a>.</p>
 rss_guid: https://operationhomefront.org/?p=60276
-source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/operation-homefront-receives-7-5-million-grant/
 summarized: true
 title: Operation Homefront Receives $7.5 Million Grant

@@ -13,8 +13,8 @@ feed_content: MESSAGE TO NORMANDY PARK RESIDENTIAL CUSTOMERS. Recently, the City
   (55) pounds.
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/public-works/storm-debris-pickup/
 summarized: true
 title: Storm Debris Yard Waste Pickup

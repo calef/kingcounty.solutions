@@ -71,8 +71,8 @@ feed_content: |-
   <p>The post <a href="https://operationhomefront.org/family-makes-memories-at-holiday-meals-event/">Family Makes Memories at Holiday Meals Event</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Operation Homefront - Critical Financial Assistance Program
 published: false
-source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/family-makes-memories-at-holiday-meals-event/
 summarized: true
 title: Family Makes Memories at Holiday Meals Event

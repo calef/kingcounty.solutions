@@ -49,7 +49,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
 image_ids: []
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/block-grant-26-hearing
 summarized: true
 title: Public hearing regarding human services needs in Bellevue

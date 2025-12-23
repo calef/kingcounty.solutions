@@ -18,7 +18,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Mercy Housing
+organization_title: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/chads-second-chance/
 summarized: true
 title: Chad’s second chance

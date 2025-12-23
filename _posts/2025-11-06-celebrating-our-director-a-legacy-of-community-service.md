@@ -8,7 +8,7 @@ feed_content: 'We are thrilled to share a wonderful feature article from the Fed
 image_ids: []
 location_titles:
 - King County
-source: Federal Way Senior Center
+organization_title: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/celebrating-our-director-a-legacy-of-community-service/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-our-director-a-legacy-of-community-service
 summarized: true
 title: 'Celebrating Our Director: A Legacy of Community Service'

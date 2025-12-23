@@ -3,8 +3,8 @@ date: '2025-10-06T15:09:38+00:00'
 feed_content: "![](https://yarrowpointwa.gov/wp-content/uploads/2025/10/Halloween-recycling-tips-scaled.jpg)"
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/10/republic-services-sustainability-tip-october/
 summarized: true
 title: Republic Services Sustainability Tip – October

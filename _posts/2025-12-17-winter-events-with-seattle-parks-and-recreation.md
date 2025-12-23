@@ -10,12 +10,12 @@ feed_content_checksum: 152474509c1be438a114cc06eb82e231a9879a9b
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: Check out the exciting winter events and teen programs happening
   at your local community centers this season. There’s something fun for everyone!
   Creative &amp; Cultural Gatherings Family &amp; Kid-Friendly Fun Teen Programs Garfield
   CC Miller CC Raven...
 rss_guid: https://parkways.seattle.gov/?p=17059
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/17/winter-events-with-seattle-parks-and-recreation/
 summarized: true
 title: Winter Events with Seattle Parks and Recreation!

@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Aging Wisdom
+organization_title: Aging Wisdom
 source_url: https://agingwisdom.com/falls-prevention-prioritize-exercise-vision-and-honest-conversations/?utm_source=rss&utm_medium=rss&utm_campaign=falls-prevention-prioritize-exercise-vision-and-honest-conversations
 summarized: true
 title: 'Falls Prevention: Prioritize exercise, vision, and honest conversations'

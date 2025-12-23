@@ -45,7 +45,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - Snoqualmie Valley
-source: Empower Youth Network
+organization_title: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/henry-erhnmans-scholarship-story/
 summarized: true
 title: Henry Ehrnman’s Volunteer Story

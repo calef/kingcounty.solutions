@@ -69,8 +69,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"datetime\">October 16 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/speed-camera-locations
 summarized: true
 title: City identifies 37 potential locations for speed safety cameras

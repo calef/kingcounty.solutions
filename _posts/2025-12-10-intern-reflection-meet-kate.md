@@ -25,8 +25,8 @@ feed_content: |-
 feed_content_checksum: 78b6dc3e7750ba9dd9edba650d5709b322d2a62c
 image_ids: []
 location_titles: []
+organization_title: Angel Flight West
 published: false
-source: Angel Flight West
 source_url: https://angelflightwest.org/news/intern-reflection-meet-kate/
 summarized: true
 title: 'Intern Reflection: Meet Kate'

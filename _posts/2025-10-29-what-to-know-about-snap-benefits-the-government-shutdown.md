@@ -53,7 +53,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Hopelink
+organization_title: Hopelink
 source_url: https://www.hopelink.org/blog/what-to-know-about-snap-benefits-and-the-government-shutdown/
 summarized: true
 title: What to Know About SNAP Benefits & the Government Shutdown

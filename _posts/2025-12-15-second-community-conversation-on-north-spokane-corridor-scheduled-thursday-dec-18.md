@@ -8,6 +8,7 @@ feed_content: SPOKANE – Public and active transportation users are invited to 
 feed_content_checksum: 9a2d33515efee2f09a10d7d50d4036621d186b38
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"
   content=\"SPOKANE – Public and active transportation users are invited to take part
@@ -184,7 +185,6 @@ original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"
   class=\"region region-content-super-bottom\">\n    <section id=\"bloc"
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/second-community-conversation-north-spokane-corridor-scheduled-thursday-dec-18
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/second-community-conversation-north-spokane-corridor-scheduled-thursday-dec-18
 summarized: true
 title: Second community conversation on North Spokane Corridor scheduled Thursday,

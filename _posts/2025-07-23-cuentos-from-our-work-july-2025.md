@@ -639,7 +639,7 @@ image_ids:
 - 0246e9a1c354afaba6b82a5de856af8cf724c9b7e1cdaf8dceff6611270cbfe3
 location_titles:
 - King County
-source: El Centro de la Raza
+organization_title: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cuentos-from-our-work-july-2025
 summarized: true
 title: 'Cuentos from Our Work: July 2025'

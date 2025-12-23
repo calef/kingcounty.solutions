@@ -6,8 +6,8 @@ feed_content: On July 23rd, Tacoma and Pierce County shelter and housing agencie
   and supporters gathered to celebrate the grand opening of Kingfisher...
 image_ids: []
 location_titles: []
+organization_title: Low Income Housing Institute
 published: false
-source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/community-celebrates-kingfisher-village-grand-opening
 summarized: true
 title: Community Celebrates Kingfisher Village Grand Opening

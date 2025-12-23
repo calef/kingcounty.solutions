@@ -61,8 +61,8 @@ feed_content: "The City Council is seeking applications for Councilmember pro te
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 image_ids: []
 location_titles: []
+organization_title: City of Tukwila
 published: false
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/2025councilprotem/
 summarized: true
 title: Seeking Applicants for City Councilmember Pro Tem

@@ -10,8 +10,8 @@ feed_content_checksum: eaffef01d6bf13107877d98423615ed11e3bbe4c
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 rss_guid: https://parkways.seattle.gov/?p=17036
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/11/register-for-winter-break-camp-for-ages-5-12/
 summarized: true
 title: Register for Winter Break Camp for Ages 5-12!

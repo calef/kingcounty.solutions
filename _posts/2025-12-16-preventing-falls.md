@@ -174,6 +174,7 @@ feed_content_checksum: fb90c43400a18d0a11edb8cd1237f002b4efa84c
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>An unexpected fall can lead to a lot of challenges  </h2>
 
@@ -343,7 +344,6 @@ original_source_html: |-
 
   <p>This article was originally published on the <a>VA Milwaukee Health care System site </a>and has been edited for style and clarity.  </p>
 rss_guid: https://news.va.gov/?p=143907
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143907/preventing-falls/
 summarized: true
 title: Preventing falls

@@ -7,7 +7,7 @@ feed_content: My name is Hormedys, and I'm from Venezuela. Venezuela is a great 
 image_ids: []
 location_titles:
 - King County
-source: Diocese of Olympia Refugee Resettlement Office
+organization_title: Diocese of Olympia Refugee Resettlement Office
 source_url: https://www.dioceserroseattle.org/post/job-search-success-story-1
 summarized: true
 title: Job Search Success Story

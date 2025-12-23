@@ -5,9 +5,9 @@ feed_content: NACHES – A section of US 12 at the east entrance of Naches is cl
 feed_content_checksum: a940d7241ab85651af9804d34010b1d95761534a
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/us-12-closed-naches-due-washout-repair-plan-underway
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/us-12-closed-naches-due-washout-repair-plan-underway
 summarized: true
 title: US 12 closed at Naches due to a washout; a repair plan is underway

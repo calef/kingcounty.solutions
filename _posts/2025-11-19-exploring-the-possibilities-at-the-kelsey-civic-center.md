@@ -14,8 +14,8 @@ feed_content: |-
   <p>The post <a href="https://www.mercyhousing.org/2025/11/exploring-the-possibilities-at-the-kelsey-civic-center/">Exploring the possibilities at The Kelsey Civic Center</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Mercy Housing
 published: false
-source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/exploring-the-possibilities-at-the-kelsey-civic-center/
 summarized: true
 title: Exploring the possibilities at The Kelsey Civic Center

@@ -13,7 +13,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Together Center
+organization_title: Together Center
 source_url: https://togethercenter.org/2025/09/20/together-center/
 summarized: true
 title: Together Center

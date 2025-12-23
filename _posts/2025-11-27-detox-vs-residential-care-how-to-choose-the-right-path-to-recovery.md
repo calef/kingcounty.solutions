@@ -135,7 +135,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
 image_ids: []
 location_titles:
 - King County
-source: Lakeside-Milam Recovery Centers
+organization_title: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/detox-vs-residential-care-how-to-choose-the-right-path-to-recovery/
 summarized: true
 title: 'Detox vs. Residential Care: How to Choose the Right Path to Recovery'

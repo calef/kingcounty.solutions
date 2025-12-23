@@ -30,7 +30,7 @@ feed_content_checksum: 8a5b29f6f5a1e6bd9067e51e30e2fa23dfb2c777
 image_ids: []
 location_titles:
 - King County
-source: Westside Neighbors Shelter
+organization_title: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/medical-team-to-visit-westside-neighbors-shelter/
 summarized: true
 title: Medical team to visit Westside Neighbors Shelter

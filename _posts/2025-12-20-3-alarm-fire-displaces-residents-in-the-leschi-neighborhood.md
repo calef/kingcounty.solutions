@@ -10,13 +10,13 @@ feed_content_checksum: 73d968357bc4f893f8a8597d146fd90cc5e3a59b
 image_ids: []
 location_titles:
 - Seattle
+organization_title: City of Seattle
 original_source_html: Seattle — At 7:38 p.m., the Seattle Fire Department’s Fire Alarm
   Center received 911 calls reporting an exterior fire on the back deck of a two-story
   house in the 500 block of 34th Ave. in the Leschi neighborhood. Engine 6 arrived
   first on scene ...
 published: false
 rss_guid: https://fireline.seattle.gov/?p=8872
-source: City of Seattle
 source_url: https://fireline.seattle.gov/2025/12/20/3-alarm-fire-displaces-residents-in-the-leschi-neighborhood/
 summarized: true
 title: 3-alarm fire displaces residents in the Leschi neighborhood

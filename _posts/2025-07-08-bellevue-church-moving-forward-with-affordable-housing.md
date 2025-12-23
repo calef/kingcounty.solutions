@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Imagine Housing
+organization_title: Imagine Housing
 source_url: https://imaginehousing.org/bellevue-church-moving-forward-with-affordable-housing/
 summarized: true
 title: Bellevue Church Moving Forward with Affordable Housing

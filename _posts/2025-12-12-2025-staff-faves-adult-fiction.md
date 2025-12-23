@@ -20,9 +20,9 @@ feed_content_checksum: 9adf025264cac1f9566ab564f266b84d19ccc840
 image_ids: []
 location_titles:
 - King County
+organization_title: The Seattle Public Library
 published: false
 rss_guid: https://blog.spl.org/?p=93469
-source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/12/2025-staff-faves-adult-fiction/
 summarized: true
 title: '2025 Staff Faves: Adult Fiction'

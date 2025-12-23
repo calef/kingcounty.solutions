@@ -5,8 +5,8 @@ feed_content: |-
   <p>The post <a href="https://primarysources.seattle.gov/2025/12/05/on-this-day-20-years-ago/">20 Years Ago: Goats at Work</a> appeared first on <a href="https://primarysources.seattle.gov/">Primary Sources</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://primarysources.seattle.gov/2025/12/05/on-this-day-20-years-ago/
 summarized: true
 title: '20 Years Ago: Goats at Work'

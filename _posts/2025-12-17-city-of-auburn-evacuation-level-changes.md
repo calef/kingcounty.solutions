@@ -9,6 +9,7 @@ feed_content_checksum: 66b195f6f533bbd028bd3f3cd32338d2a595a903
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 original_source_html: 'UPDATED: December 17, 2025 – 5 p.m. Water levels have continued
   to decrease in parts of Auburn, allowing evacuation levels to be downgraded in some
   areas. However, some locations still remain under a Level 3 (GO NOW) evacuation
@@ -16,7 +17,6 @@ original_source_html: 'UPDATED: December 17, 2025 – 5 p.m. Water levels have c
   Auburn Way […]'
 published: false
 rss_guid: https://kcemergency.com/2025/12/16/city-of-auburn-evacuation-level-changes/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/16/city-of-auburn-evacuation-level-changes/
 summarized: true
 title: City of Auburn Evacuation Level Changes

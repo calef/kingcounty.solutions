@@ -36,7 +36,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Department of Health
+organization_title: Department of Health
 source_url: https://doh.wa.gov/newsroom/washington-state-department-health-statement-vaccine-safety-and-autism-claims
 summarized: true
 title: Washington State Department of Health statement on vaccine safety and autism

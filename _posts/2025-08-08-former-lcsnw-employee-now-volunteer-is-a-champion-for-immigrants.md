@@ -89,7 +89,7 @@ image_ids:
 - aee9befd6ba48493a1a03904e7fce1a3a13d45ab28e36dc9afde24c88b9f2bc0
 location_titles:
 - King County
-source: Lutheran Community Services Northwest
+organization_title: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/
 summarized: true
 title: Former LCSNW employee, now volunteer, is a champion for immigrants

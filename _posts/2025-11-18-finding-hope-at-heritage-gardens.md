@@ -19,7 +19,7 @@ image_ids:
 - aac57f02114eca29a417f9a6266f6d0a9ca61c3d44f171c82457f00702828f1b
 location_titles:
 - King County
-source: Mercy Housing
+organization_title: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/finding-hope-at-heritage-gardens/
 summarized: true
 title: Finding Hope at Heritage Gardens

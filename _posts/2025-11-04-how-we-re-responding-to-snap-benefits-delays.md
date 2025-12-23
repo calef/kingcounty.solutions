@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: FamilyWorks Seattle
+organization_title: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/how-were-responding-to-snap-benefits-delays/
 summarized: true
 title: How We’re Responding to SNAP Benefits Delays

@@ -120,7 +120,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: BrightSpark
+organization_title: BrightSpark
 source_url: https://www.brightspark.org/2025/11/committed-to-quality-care-chelons-story/
 summarized: true
 title: 'Committed to Quality Care: Chelon’s Story'

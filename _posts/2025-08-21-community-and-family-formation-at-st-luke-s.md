@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: St. Luke Episcopal Church
+organization_title: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/08/21/community-and-family-formation-at-st-lukes/
 summarized: true
 title: Community and Family Formation at St Luke’s

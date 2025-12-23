@@ -146,7 +146,7 @@ image_ids:
 - ba0e3c7e53985f41e6c45aa0ae98430365d9e7d95c68105f7037a11c27a54d94
 location_titles:
 - King County
-source: Institute on Human Development and Disability
+organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/04/early-mobility-innovation-for-young-children-with-idd/
 summarized: true
 title: Early Mobility Innovation for Young Children with IDD

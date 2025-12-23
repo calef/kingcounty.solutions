@@ -206,6 +206,7 @@ image_ids:
 - da904001824af6df4d589401a632a50f00eb678b4e75ca49a486b65ee81db0de
 location_titles:
 - King County
+organization_title: El Centro de la Raza
 original_source_html: |-
   <div>
   <div>
@@ -372,7 +373,6 @@ original_source_html: |-
   </div></div></div></div>
   <p>The post <a>Cuentos from Our Work: DECEMBER 2025</a> appeared first on <a>El Centro de la Raza</a>.</p>
 rss_guid: https://www.elcentrodelaraza.org/?p=22411
-source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/cuentos-from-our-work-december-2025-2/
 summarized: true
 title: 'Cuentos from Our Work: DECEMBER 2025'

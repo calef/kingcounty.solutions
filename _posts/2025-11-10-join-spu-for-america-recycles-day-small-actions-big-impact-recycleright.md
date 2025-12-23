@@ -6,8 +6,8 @@ feed_content: Happy America Recycles Day! While it’s always important to recyc
   help you recycle righ...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/10/join-spu-for-america-recycles-day-small-actions-big-impact-recycleright/
 summarized: true
 title: 'Join SPU for America Recycles Day — Small Actions, Big Impact, #RecycleRight'

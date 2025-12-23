@@ -9,7 +9,7 @@ feed_content: OLYMPIA – An annual compilation of prioritized transportation im
 image_ids: []
 location_titles:
 - King County
-source: Washington State Department of Transportation
+organization_title: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/draft-2026-29-statewide-transportation-improvement-program-list-projects-available-public-comment
 summarized: true
 title: Draft 2026-29 Statewide Transportation Improvement Program list of projects

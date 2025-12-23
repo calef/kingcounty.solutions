@@ -11,13 +11,13 @@ feed_content_checksum: 9d64b69ed68c3bfd86fa9c7314d1b2f7c7feae72
 image_ids: []
 location_titles:
 - King County
+organization_title: Multi-Service Center
 original_source_html: Sound Transit recently issued a Notice of Intent to Award to
   MSC and our housing development partner, Shelter Resources Inc., to develop approximately
   230 units of affordable housing on surplus property adjacent to their Federal Way
   Downtown Station.    "MSC is honored to be chosen for this project as we continue
   to advance our mission  [...]
 rss_guid: https://mschelps.org/?p=76519
-source: Multi-Service Center
 source_url: https://mschelps.org/msc-selected-for-sound-transit-affordable-housing-development-project/
 summarized: true
 title: MSC selected for Sound Transit affordable housing development project

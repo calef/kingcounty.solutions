@@ -7,7 +7,7 @@ feed_content: Rosie's Tiny House Village Grand Opening On July 2nd, a community 
 image_ids: []
 location_titles:
 - King County
-source: Low Income Housing Institute
+organization_title: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/lihi-celebrates-rosie-s-tiny-house-village-grand-opening-and-seattle-pride
 summarized: true
 title: LIHI Celebrates Rosie's Tiny House Village Grand Opening and Seattle Pride!

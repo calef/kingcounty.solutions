@@ -6,8 +6,8 @@ feed_content: The Argosy Christmas Ships are an annual Seattle tradition. As
   lead ship hosts an ...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/04/christmas-ships-and-bonfires-at-the-parks-2025-schedule/
 summarized: true
 title: Christmas Ships and Bonfires at the Parks – 2025 Schedule 

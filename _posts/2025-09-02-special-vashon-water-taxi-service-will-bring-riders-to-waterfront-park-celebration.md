@@ -9,7 +9,7 @@ feed_content: There’s going to be a celebration on the Seattle Waterfront on S
 image_ids: []
 location_titles:
 - Vashon
-source: King County Ferry District
+organization_title: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/09/02/special-vashon-water-taxi-service-will-bring-riders-to-waterfront-park-celebration/
 summarized: true
 title: Special Vashon Water Taxi service will bring riders to Waterfront Park celebration

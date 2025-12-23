@@ -16,7 +16,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Westside Neighbors Shelter
+organization_title: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/shelter-church-seattle-hosts-community-dinners-at-wsns/?utm_source=rss&utm_medium=rss&utm_campaign=shelter-church-seattle-hosts-community-dinners-at-wsns
 summarized: true
 title: Shelter Church Seattle hosts community dinners at WSNS

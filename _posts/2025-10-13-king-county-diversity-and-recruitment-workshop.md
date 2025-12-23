@@ -11,7 +11,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Valley Regional Fire Authority
+organization_title: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/10/king-county-diversity-and-recruitment-workshop/
 summarized: true
 title: King County Diversity and Recruitment Workshop

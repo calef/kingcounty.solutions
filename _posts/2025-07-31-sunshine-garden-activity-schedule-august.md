@@ -17,7 +17,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Chinese Information & Service Center
+organization_title: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/sunshine-garden-activity-schedule-august/?utm_source=rss&utm_medium=rss&utm_campaign=sunshine-garden-activity-schedule-august
 summarized: true
 title: Sunshine Garden Activity Schedule – August

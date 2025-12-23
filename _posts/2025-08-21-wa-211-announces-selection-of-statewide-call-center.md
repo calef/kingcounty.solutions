@@ -13,7 +13,7 @@ image_ids:
 - a5f463d96abdcaba965b7b1bdb7737796c3a4c044f8c9685733a14a3bbcc8583
 location_titles:
 - King County
-source: Washington 211
+organization_title: Washington 211
 source_url: https://wa211.org/wa-211-announces-selection-of-statewide-call-center/
 summarized: true
 title: WA 211 Announces Selection of Statewide Call Center

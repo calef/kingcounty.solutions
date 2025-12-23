@@ -9,7 +9,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Neighborhood House
+organization_title: Neighborhood House
 source_url: https://nhwa.org/2025/06/30/celebrating-disability-pride-month/
 summarized: true
 title: Celebrating Disability Pride Month

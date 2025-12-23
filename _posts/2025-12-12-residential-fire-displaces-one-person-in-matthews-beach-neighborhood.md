@@ -8,9 +8,9 @@ feed_content_checksum: f1a53726fbcb2d8e4c0ce635c4623efdc9abfcfd
 image_ids: []
 location_titles:
 - Seattle
+organization_title: City of Seattle
 published: false
 rss_guid: https://fireline.seattle.gov/?p=8859
-source: City of Seattle
 source_url: https://fireline.seattle.gov/2025/12/11/residential-fire-displaces-one-person-in-matthews-beach-neighborhood/
 summarized: true
 title: Residential fire displaces one person in Matthews Beach neighborhood

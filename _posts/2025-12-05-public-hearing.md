@@ -9,8 +9,8 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   Agreement.  Public Hearing will be held on December 8, 2025, at 6 p.m.</p>\n      </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Black Diamond
 published: false
-source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27046
 summarized: true
 title: Public Hearing

@@ -6,8 +6,8 @@ feed_content: The Seattle police SWAT team arrested a 51-year-old man for homici
   84th Street. There, po...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/08/man-arrested-for-homicide-after-swat-standoff-in-north-seattle/
 summarized: true
 title: Man Arrested for Homicide After SWAT Standoff in North Seattle

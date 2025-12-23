@@ -41,7 +41,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Department of Health
+organization_title: Department of Health
 source_url: https://doh.wa.gov/newsroom/department-health-issues-notice-intent-deny-license-application-behavioral-health-agency
 summarized: true
 title: Department of Health issues notice of intent to deny license application of

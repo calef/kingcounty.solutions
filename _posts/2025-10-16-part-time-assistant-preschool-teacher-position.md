@@ -5,8 +5,8 @@ feed_content: The City of Normandy Park is looking for an experienced early chil
   presenting...
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/human-resources/pre-k-preschool-teacher-part-time/
 summarized: true
 title: Part-Time Assistant Preschool Teacher Position

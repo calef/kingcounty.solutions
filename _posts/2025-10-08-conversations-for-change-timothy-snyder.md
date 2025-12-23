@@ -5,8 +5,8 @@ feed_content: |-
   <p><a href="https://www.uwkc.org/advocacy/conversations-for-change-timothy-snyder/" rel="nofollow">Source</a></p>
 image_ids: []
 location_titles: []
+organization_title: United Way of King County
 published: false
-source: United Way of King County
 source_url: https://www.uwkc.org/advocacy/conversations-for-change-timothy-snyder/
 summarized: true
 title: 'Conversations for Change: Timothy Snyder'

@@ -7,7 +7,7 @@ feed_content: 'November 2025: Olympic View students learn the power of their voi
 image_ids: []
 location_titles:
 - King County
-source: Technology Access Foundation
+organization_title: Technology Access Foundation
 source_url: https://techaccess.org/student-voice-and-choice-from-ideas-to-impact/
 summarized: true
 title: 'Student Voice and Choice: From Ideas to Impact'

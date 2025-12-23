@@ -10,8 +10,8 @@ feed_content_checksum: 1746e0c26f43724b304ecea28ed0135e9f7e69be
 image_ids: []
 location_titles:
 - South King County
+organization_title: Hospitality House
 rss_guid: https://hospitalityhousesouthking.org/?p=3951
-source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/q4-2025-hospitality-house-highlights/
 summarized: true
 title: Q4 2025 – Hospitality House Highlights

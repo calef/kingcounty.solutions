@@ -35,8 +35,8 @@ feed_content: |-
   <p>The post <a href="https://www.residencexii.org/subscribe.html">Subscribe to our Email Newsletter and Updates</a> appeared first on <a href="https://www.residencexii.org">Residence XII</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Residence XII
 published: false
-source: Residence XII
 source_url: https://www.residencexii.org/subscribe.html
 summarized: true
 title: Subscribe to our Email Newsletter and Updates

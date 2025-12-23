@@ -9,7 +9,7 @@ feed_content_checksum: 6b674175c8fd0a985be17d308953f8c6cb121ece
 image_ids: []
 location_titles:
 - King County
-source: Federal Way Senior Center
+organization_title: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/federal-way-senior-center-food-bank-spreads-joy-at-the-annual-santa-parade-canned-food-drive/
 summarized: true
 title: Federal Way Senior Center Food Bank Spreads Joy at the Annual Santa Parade

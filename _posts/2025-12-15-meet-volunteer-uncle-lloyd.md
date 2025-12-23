@@ -7,12 +7,12 @@ feed_content_checksum: f74d5a5cc6dad320b341b8f95b3e4d611fa21ae8
 image_ids: []
 location_titles:
 - King County
+organization_title: The Center for Active Living
 original_source_html: "<a><p>There are so many reasons to love spending time at The
   Center—but one of the best is the people you meet and the stories they share. Someone
   with great stories …</p></a>"
 published: false
 rss_guid: https://wscenter.org/?p=24784
-source: The Center for Active Living
 source_url: https://wscenter.org/meet-volunteer-uncle-lloyd/
 summarized: true
 title: 'Meet Volunteer: Uncle Lloyd'

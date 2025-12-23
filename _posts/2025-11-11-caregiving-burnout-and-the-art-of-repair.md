@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Aging Wisdom
+organization_title: Aging Wisdom
 source_url: https://agingwisdom.com/caregiving-burnout-and-the-art-of-repair/?utm_source=rss&utm_medium=rss&utm_campaign=caregiving-burnout-and-the-art-of-repair
 summarized: true
 title: Caregiving, Burnout, and the Art of Repair

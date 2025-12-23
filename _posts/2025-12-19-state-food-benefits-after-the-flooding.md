@@ -11,13 +11,13 @@ feed_content_checksum: d820f35467a5024c05e55db258e522846fb50fa7
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 original_source_html: Disaster Cash Assistance is available Dec. 17, 2025, to Jan.
   15, 2026, for eligible households affected by flooding in specific counties. Those
   counties include Benton, Chelan, Cowlitz, Grays Harbor, King, Kittitas, Lewis, Pacific,
   Pierce, Skagit, Snohomish, Thurston, Yakima and Whatcom. Read more in the full news
   release. To apply, call the Washington Department Social and Health […]
 rss_guid: https://kcemergency.com/?p=7188
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/18/state-food-benefits-after-the-flooding/
 summarized: true
 title: State food benefits after the flooding

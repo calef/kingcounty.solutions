@@ -11,8 +11,8 @@ feed_content: |-
   <p>The post <a href="https://shorelinelfpseniorcenter.org/accessibility-features-on-mobile-devices/">Accessibility Features on Mobile Devices</a> appeared first on <a href="https://shorelinelfpseniorcenter.org">Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Shoreline Lake Forest Park Senior Activity Center
 published: false
-source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/accessibility-features-on-mobile-devices/
 summarized: true
 title: Accessibility Features on Mobile Devices

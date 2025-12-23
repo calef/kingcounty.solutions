@@ -24,8 +24,8 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   target=\"_blank\">HERE!</a></p>"
 image_ids: []
 location_titles: []
+organization_title: CarePoint Clinic
 published: false
-source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-k9c5t-jz292-yg2ex-cz466
 summarized: true
 title: November 2025 Newsletter

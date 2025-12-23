@@ -72,8 +72,8 @@ image_ids:
 - 9c5915193a25b015fd82635824a5189a2f8fa0e7b4e35e044590ab2167215a6c
 location_titles:
 - King County
+organization_title: BrightSpark
 rss_guid: https://www.brightspark.org/?p=9928
-source: BrightSpark
 source_url: https://www.brightspark.org/2025/12/professional-learning-communities-connecting-providers-through-collaborative-conversations/
 summarized: true
 title: 'Professional Learning Communities: Connecting Providers through Collaborative

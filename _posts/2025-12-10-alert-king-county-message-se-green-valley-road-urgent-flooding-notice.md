@@ -8,9 +8,9 @@ feed_content_checksum: 46d0fe6a32b1ae2671d1c91bf4f52cc4ceda40ba
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 published: false
 rss_guid: https://kcemergency.com/2025/12/09/se-green-valley-urgent-flooding-notice/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/09/se-green-valley-urgent-flooding-notice/
 summarized: true
 title: ALERT King County Message – SE Green Valley Road Urgent Flooding Notice

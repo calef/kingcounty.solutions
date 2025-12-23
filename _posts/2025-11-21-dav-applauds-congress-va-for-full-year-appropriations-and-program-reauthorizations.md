@@ -29,7 +29,7 @@ image_ids:
 - db94e72c4837a19cae513d61ded92a68f2f4398f61c148a290f153f1250849af
 location_titles:
 - King County
-source: Disabled American Veterans
+organization_title: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/dav-applauds-congress-va-for-full-year-appropriations-and-program-reauthorizations/
 summarized: true
 title: DAV applauds Congress & VA for full year appropriations and program reauthorizations

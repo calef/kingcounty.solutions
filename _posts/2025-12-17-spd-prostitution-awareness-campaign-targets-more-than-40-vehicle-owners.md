@@ -8,13 +8,13 @@ feed_content_checksum: 56e7bd84a5b3c6920a7535dbecb41c1434acc8b3
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: The Seattle Police Department is proud to highlight the great
   work of our officers who are working along the Aurora Avenue North corridor to deter
   people from sexual exploitation. Since October, SPD has had officers photographing
   the license plates of ...
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44681
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/17/spd-prostitution-awareness-campaign-targets-more-than-40-vehicle-owners/
 summarized: true
 title: SPD Prostitution Awareness Campaign Targets More Than 40 Vehicle Owners

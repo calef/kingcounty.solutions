@@ -12,7 +12,7 @@ feed_content: LIHI's Virtual Auction  is our big annual public fundraiser for Ti
 image_ids: []
 location_titles:
 - King County
-source: Low Income Housing Institute
+organization_title: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/coming-soon-lihi-virtual-auction-nov-19-dec-3-register-for-free-preview-items-now
 summarized: true
 title: Coming soon! LIHI Virtual Auction! Nov 19 - Dec 3 Register for free &#38; preview

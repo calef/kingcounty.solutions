@@ -94,8 +94,8 @@ feed_content: "<figure class=\"wp-block-image size-large\"><img data-recalc-dims
   Works</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Bike Works
 published: false
-source: Bike Works
 source_url: https://bikeworks.org/steves-manifesto/?utm_source=rss&utm_medium=rss&utm_campaign=steves-manifesto
 summarized: true
 title: stewards at the trailhead of the bicycle ecosystem

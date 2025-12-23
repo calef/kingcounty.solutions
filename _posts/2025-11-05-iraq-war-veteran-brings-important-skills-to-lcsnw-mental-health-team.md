@@ -71,8 +71,8 @@ feed_content: "<div class=\"et_pb_section et_pb_section_3 blog-post-type et_sect
   on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Lutheran Community Services Northwest
 published: false
-source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/11/iraq-veteran-mental-health-counselor/
 summarized: true
 title: Iraq War veteran brings important skills to LCSNW Mental Health team

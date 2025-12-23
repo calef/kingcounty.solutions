@@ -8,13 +8,13 @@ feed_content_checksum: 622f13a3e7ce3d4007376112545e5981f87d3340
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: Artists at the Center is a multi-year collaboration between
   Seattle Office of Arts &amp; Culture and Seattle Center, with support from Uptown
   Arts &amp; Culture Coalition and the communities adjacent to Seattle Center campus.
   The project is made possib...
 published: false
 rss_guid: https://artbeat.seattle.gov/?p=12971
-source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/18/106000-awarded-for-artists-at-the-center/
 summarized: true
 title: "$106,000 Awarded for Artists at the Center"

@@ -16,9 +16,9 @@ feed_content_checksum: 3740c24dec92ef5141ef37c284d8f4f7ae50174c
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Normandy Park
 published: false
 rss_guid: https://normandyparkwa.gov/?p=52603
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-december-12-2025/
 summarized: true
 title: City Manager Report – December 12, 2025

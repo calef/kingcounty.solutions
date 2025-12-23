@@ -7,8 +7,8 @@ feed_content: 'Note: Links below will open new windows. New Year’s Eve at the 
 feed_content_checksum: 5337767a3169d94068e5cb9b5a080f64f8dbdcc3
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://centerspotlight.seattle.gov/2025/12/10/new-years-eve-at-the-center-dec-31/
 summarized: true
 title: New Year’s Eve at Seattle Center | Dec 31

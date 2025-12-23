@@ -8,8 +8,8 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   target=\"_blank\">Notice</a></p>\n      </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Black Diamond
 published: false
-source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/26946
 summarized: true
 title: Civil Service Commission Meeting - Cancelled

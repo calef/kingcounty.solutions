@@ -9,8 +9,8 @@ feed_content: |-
   <p>The post <a href="https://www.multicare.org/newsroom/2025/09/deaconess-valley-hospitals-center-of-excellence/" data-wpel-link="internal">MultiCare Deaconess &#038; Valley hospitals receive national acclaim</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: MultiCare
 published: false
-source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/09/deaconess-valley-hospitals-center-of-excellence/
 summarized: true
 title: MultiCare Deaconess & Valley hospitals receive national acclaim

@@ -9,7 +9,7 @@ feed_content: <p>The post <a href="https://readingpartners.org/blog/programming-
 image_ids: []
 location_titles:
 - King County
-source: Reading Partners Seattle
+organization_title: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/programming-updates-co-and-sv/
 summarized: true
 title: Programming updates in Colorado and Silicon Valley

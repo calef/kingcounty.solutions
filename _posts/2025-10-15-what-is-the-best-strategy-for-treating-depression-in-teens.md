@@ -32,7 +32,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: THIRA Health
+organization_title: THIRA Health
 source_url: https://thirahealth.com/2025/10/15/what-is-the-best-strategy-for-treating-depression-in-teens/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-best-strategy-for-treating-depression-in-teens
 summarized: true
 title: What is the Best Strategy for Treating Depression in Teens?

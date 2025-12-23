@@ -20,7 +20,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - Snoqualmie Valley
-source: Sno-Valley Senior Center
+organization_title: Sno-Valley Senior Center
 source_url: https://snovalleysenior.org/august-2025-directors-letter/
 summarized: true
 title: August 2025 Director’s Letter

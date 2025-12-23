@@ -48,7 +48,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Operation Homefront - Critical Financial Assistance Program
+organization_title: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/this-veterans-day-stand-with-our-military-families/
 summarized: true
 title: This Veterans Day, Stand with Our Military Families

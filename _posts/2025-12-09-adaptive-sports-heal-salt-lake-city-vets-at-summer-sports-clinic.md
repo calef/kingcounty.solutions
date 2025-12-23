@@ -117,8 +117,8 @@ feed_content: |-
 feed_content_checksum: 5deee28d9a6446d8ce761cc062ef045f121f1da0
 image_ids: []
 location_titles: []
+organization_title: Veterans Affairs Pension Program
 published: false
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143344/adaptive-sports-heal-vets-summer-sports-clinic/
 summarized: true
 title: Adaptive sports heal Salt Lake City Vets at Summer Sports Clinic

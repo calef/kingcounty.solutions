@@ -9,7 +9,7 @@ feed_content: <a href="https://wscenter.org/learning-never-gets-old/"><p>Do you 
 image_ids: []
 location_titles:
 - King County
-source: The Center for Active Living
+organization_title: The Center for Active Living
 source_url: https://wscenter.org/learning-never-gets-old/
 summarized: true
 title: Learning never gets old

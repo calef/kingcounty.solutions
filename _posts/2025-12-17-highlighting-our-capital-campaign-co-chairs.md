@@ -60,6 +60,7 @@ image_ids:
 - e57ed7c75d8c74811ff1795939bebfab7f561867719bfe0b6f371050baa62f45
 location_titles:
 - King County
+organization_title: Rainier Valley Food Bank
 original_source_html: "<p>As our <a>Room for All capital campaign</a> that brought
   about our new Community Food Hub comes closer to completion, we’re reflecting on
   all of the folks who have helped bring our new facility to fruition. It’s taken
@@ -113,7 +114,6 @@ original_source_html: "<p>As our <a>Room for All capital campaign</a> that broug
   \               \n                <img src=\"https://images.squarespace-cdn.com/content/v1/61c3b06eab6b64568d0ec740/99c49ea0-96d6-4315-9e6d-5aeb02adfe0a/5-+IMG_9293.jpg?format=1000w\">\n\n
   \           \n          \n        \n          \n        \n\n        \n      \n        </figure>"
 rss_guid: 61c3b06eab6b64568d0ec740:61c3c1574aef7f5d3015f1b5:69403ce3edccf30c0effd0d9
-source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/highlighting-our-capital-campaign-co-chairs
 summarized: true
 title: Highlighting Our Capital Campaign Co-Chairs

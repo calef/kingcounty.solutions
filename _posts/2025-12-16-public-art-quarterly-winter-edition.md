@@ -8,13 +8,13 @@ feed_content_checksum: a246edef9f9ed88cc21ef509dacb5c7502ae78ca
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: Most of us take time in December to reflect and look back at
   the last year and seek some form of closure. The Public Art Division may look back
   and reflect on how our year went, but our projects don’t follow a fiscal year or
   Gregorian calendar. They mo...
 published: false
 rss_guid: https://artbeat.seattle.gov/?p=12920
-source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/16/public-art-quarterly-winter-edition/
 summarized: true
 title: 'Public Art Quarterly: Winter Edition'

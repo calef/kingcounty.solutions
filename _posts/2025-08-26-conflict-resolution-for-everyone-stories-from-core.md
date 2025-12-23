@@ -30,7 +30,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Dispute Resolution Center of King County
+organization_title: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/conflict-resolution-for-everyone-stories-from-core/
 summarized: true
 title: 'Conflict Resolution for Everyone: Stories from CoRE™'

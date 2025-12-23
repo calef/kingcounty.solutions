@@ -160,7 +160,7 @@ image_ids:
 - 9b94f1b278d7a91a6e0ba84e2fe6c64d86cb3232c51e03b5b8441762ec6f8b43
 location_titles:
 - King County
-source: El Centro de la Raza
+organization_title: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/college-ganas-program/?utm_source=rss&utm_medium=rss&utm_campaign=college-ganas-program
 summarized: true
 title: College GANAS Program

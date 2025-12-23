@@ -9,7 +9,7 @@ feed_content_checksum: 8937cc18847beed2a0e7ec50f623a66a4564e202
 image_ids: []
 location_titles:
 - King County
-source: Communities In Schools of South King County
+organization_title: Communities In Schools of South King County
 source_url: https://skc.ciswa.org/news/thomas-jefferson-high-school-staff-kailey-harem-shared-about-site-coordinator-danielle-wrights-support/
 summarized: true
 title: Thomas Jefferson High School Staff (Kailey Harem) shared about Site Coordinator

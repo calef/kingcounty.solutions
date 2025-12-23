@@ -47,7 +47,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Bellevue LifeSpring
+organization_title: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/back-to-school-with-clothes-4-kids/?utm_source=rss&utm_medium=rss&utm_campaign=back-to-school-with-clothes-4-kids
 summarized: true
 title: Back to school with Clothes-4-Kids

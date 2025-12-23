@@ -7,8 +7,8 @@ feed_content: Everyone is invited to join The Seattle Public Library’s Douglas
 feed_content_checksum: 239f8c518a947e4e5ba172fcc8f7864e88ec47a7
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/10/douglass-truth-50th-anniversary-renaming-celebration/
 summarized: true
 title: Douglass-Truth 50th Anniversary Renaming Celebration

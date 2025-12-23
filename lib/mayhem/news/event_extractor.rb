@@ -77,7 +77,7 @@ module Mayhem
         post_content = document.body || ''
         post_title = front_matter['title'] || ''
         post_date = front_matter['date']
-        organization_title = front_matter['source']
+        organization_title = front_matter['organization_title']
         source_url = front_matter['source_url']
         reference_time = reference_time_from(post_date)
 

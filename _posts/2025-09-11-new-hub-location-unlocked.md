@@ -82,7 +82,7 @@ image_ids:
 - ebc13de5e557bd1847cb0fdee4515dbb72b17cb4f14d34e92bbd694384137d5d
 location_titles:
 - King County
-source: Bellevue LifeSpring
+organization_title: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/new-hub-location/?utm_source=rss&utm_medium=rss&utm_campaign=new-hub-location
 summarized: true
 title: New Hub Location Unlocked

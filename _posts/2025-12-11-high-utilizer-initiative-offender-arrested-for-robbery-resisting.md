@@ -8,9 +8,9 @@ feed_content_checksum: 82728e71afe5faaf006fc9b14c29944391a962b2
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44662
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/11/high-utilizer-initiative-offender-arrested-for-robbery-resisting/
 summarized: true
 title: High Utilizer Initiative Offender Arrested for Robbery, Resisting

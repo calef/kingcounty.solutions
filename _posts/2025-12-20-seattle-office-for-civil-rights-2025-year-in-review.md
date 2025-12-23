@@ -6,11 +6,11 @@ feed_content_checksum: 0c78ab3984ccaac1e3379bd0051b81b4a544a02a
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: SOCR's team of hardworking staff, whose commitment to equity
   and service makes makes our work possible.
 published: false
 rss_guid: https://ocr.seattle.gov/?p=791
-source: City of Seattle
 source_url: https://ocr.seattle.gov/seattle-office-for-civil-rights-2025-year-in-review/
 summarized: true
 title: Seattle Office for Civil Rights’ 2025 Year in Review 

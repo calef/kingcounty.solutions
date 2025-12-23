@@ -26,15 +26,15 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% include ap-date.html value=page.date %}
       </time>
-      {%- assign source_text = page.source | default: page.source_url -%}
+      {%- assign source_text = page.organization_title | default: page.source_url -%}
       {%- if source_text -%}
         {%- assign matching_org = nil -%}
-        {%- if page.source -%}
-          {%- assign matching_org = site.organizations | where: "title", page.source | first -%}
+        {%- if page.organization_title -%}
+          {%- assign matching_org = site.organizations | where: "title", page.organization_title | first -%}
         {%- endif -%}
         • <span>
           {%- if matching_org -%}
-            <a href="{{ matching_org.url | relative_url }}">{{ page.source }}</a>
+            <a href="{{ matching_org.url | relative_url }}">{{ page.organization_title }}</a>
           {%- elsif page.source_url -%}
             <a href="{{ page.source_url }}" rel="noopener noreferrer">{{ source_text }}</a>
           {%- else -%}

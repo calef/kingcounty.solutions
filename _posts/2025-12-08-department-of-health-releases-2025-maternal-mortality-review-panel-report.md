@@ -75,7 +75,7 @@ feed_content_checksum: d07aae10643bc3b1423d61c3d33d516a0eff5ef0
 image_ids: []
 location_titles:
 - King County
-source: Department of Health
+organization_title: Department of Health
 source_url: https://doh.wa.gov/newsroom/department-health-releases-2025-maternal-mortality-review-panel-report
 summarized: true
 title: Department of Health Releases 2025 Maternal Mortality Review Panel Report

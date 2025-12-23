@@ -13,8 +13,8 @@ feed_content: |-
   <p>&nbsp;</p>
 image_ids: []
 location_titles: []
+organization_title: Homework Help
 published: false
-source: Homework Help
 source_url: https://blog.spl.org/2025/11/21/mossbacks-northwest-early-roots-of-seattles-libraries/
 summarized: true
 title: 'Mossback’s Northwest: Early Roots of Seattle’s Libraries'

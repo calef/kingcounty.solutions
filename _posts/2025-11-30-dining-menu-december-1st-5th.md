@@ -35,8 +35,8 @@ feed_content: |-
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-december-1st-5th/">Dining Menu December 1st &#8211; 5th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Ballard Northwest Senior Center
 published: false
-source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-1st-5th/
 summarized: true
 title: Dining Menu December 1st – 5th

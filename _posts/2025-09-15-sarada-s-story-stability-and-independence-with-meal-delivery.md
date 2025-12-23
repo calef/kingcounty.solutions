@@ -103,7 +103,7 @@ image_ids:
 - a7b66aded8d7ae566ec714030120d89f446be8adfcefe0a5ac21337cae92e874
 location_titles:
 - King County
-source: Catholic Community Services of Western Washington
+organization_title: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/saradas-story-stability-and-independence-with-meal-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=saradas-story-stability-and-independence-with-meal-delivery
 summarized: true
 title: 'Sarada’s Story: Stability and Independence with Meal Delivery '

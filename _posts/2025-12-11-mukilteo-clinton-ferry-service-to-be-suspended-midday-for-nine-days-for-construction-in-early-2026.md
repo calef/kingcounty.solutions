@@ -7,9 +7,9 @@ feed_content: MUKILTEO – Washington State Ferries will begin in-water work at 
 feed_content_checksum: 6c430e3e9b9d318b1acf9823e0cd162ffb8a6b2f
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/mukilteo-clinton-ferry-service-be-suspended-midday-nine-days-construction-early-2026
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/mukilteo-clinton-ferry-service-be-suspended-midday-nine-days-construction-early-2026
 summarized: true
 title: Mukilteo/Clinton ferry service to be suspended midday for nine days for construction

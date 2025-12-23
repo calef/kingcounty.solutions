@@ -4,8 +4,8 @@ feed_content: Our annual Foundation Event happened on Friday, June 20, 2025, at 
   Woodmark Hotel and Still Spa. Thank you to everyone who joined us ...
 image_ids: []
 location_titles: []
+organization_title: Friends of Youth
 published: false
-source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/thank-you-foundation-legacy-event-attendees-and-congratulations-to-our-legacy-award-winners
 summarized: true
 title: thank you foundation legacy event attendees and congratulations to our legacy

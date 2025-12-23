@@ -7,8 +7,8 @@ feed_content: Today, Mayor Bruce Harrell announced $27.8 million in awards to 33
 feed_content_checksum: 07ce495423044d11a63e703a4b1587358ace42ca
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://dailyplanit.seattle.gov/mayor-harrell-announces-27-8-million-to-community-organizations-through-the-equitable-development-initiative/
 summarized: true
 title: Mayor Harrell Announces $27.8 Million to Community Organizations Through the

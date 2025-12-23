@@ -31,7 +31,7 @@ feed_content_checksum: 63977241537ad60bf46748114246f08107fb7778
 image_ids: []
 location_titles:
 - King County
-source: Northwest Harvest
+organization_title: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/wa-emergency-food-system-mobilizes-amid-snap-disruption-record-demand/
 summarized: true
 title: 'FOR IMMEDIATE RELEASE: Washington’s Emergency Food System Mobilizes Amid SNAP

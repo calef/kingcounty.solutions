@@ -150,7 +150,7 @@ image_ids:
 - e67c7b8075f94ebd6915a3df724c8257227e71271078307215548603203f68fd
 location_titles:
 - King County
-source: Institute on Human Development and Disability
+organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/18/honoring-the-life-of-alice-wong/
 summarized: true
 title: Honoring the Life of Alice Wong

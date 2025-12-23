@@ -180,7 +180,7 @@ feed_content_checksum: ae6176146f2c5f9f5255e5ebd81f9323f47a02f4
 image_ids: []
 location_titles:
 - King County
-source: Lakeside-Milam Recovery Centers
+organization_title: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/lakeside-milam-named-one-of-americas-best-addiction-treatment-centers-by-newsweek/
 summarized: true
 title: Lakeside-Milam Named One of America’s Best Addiction Treatment Centers by Newsweek

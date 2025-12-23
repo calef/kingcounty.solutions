@@ -52,8 +52,8 @@ feed_content: "<section class=\"elementor-section elementor-top-section elemento
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
 image_ids: []
 location_titles: []
+organization_title: Redmond United Methodist Church - Social Ministries
 published: false
-source: Redmond United Methodist Church - Social Ministries
 source_url: https://redmondumc.org/reimagining-committee-second-listening-session/
 summarized: true
 title: Reimagining Committee – Second Listening Session

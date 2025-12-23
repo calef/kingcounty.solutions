@@ -145,11 +145,11 @@ class OrganizationsPrunerTest < Minitest::Test
     path
   end
 
-  def write_post(filename, source, image_ids: [], events: [])
+  def write_post(filename, organization_title, image_ids: [], events: [])
     front_matter = {
       'title' => 'Test Post',
       'date' => Time.now.utc.iso8601,
-      'source' => source,
+      'organization_title' => organization_title,
       'source_url' => 'https://example.com',
       'image_ids' => image_ids,
       'events' => events,

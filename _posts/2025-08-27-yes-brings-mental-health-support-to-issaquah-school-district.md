@@ -42,7 +42,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Youth Eastside Services
+organization_title: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/issaquah-school-district/?utm_source=rss&utm_medium=rss&utm_campaign=issaquah-school-district
 summarized: true
 title: YES Brings Mental Health Support to Issaquah School District

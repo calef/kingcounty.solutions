@@ -56,7 +56,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Hospital District No. 1 (Valley Medical Center)
+organization_title: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/11/06/how-lifestyle-medicine-supports-your-surgical-journey/?utm_source=rss&utm_medium=rss&utm_campaign=how-lifestyle-medicine-supports-your-surgical-journey
 summarized: true
 title: How Lifestyle Medicine Can Enhance Your Surgical Journey

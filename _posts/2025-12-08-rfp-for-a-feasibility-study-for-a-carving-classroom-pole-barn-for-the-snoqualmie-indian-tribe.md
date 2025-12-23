@@ -19,8 +19,8 @@ feed_content: |-
 feed_content_checksum: 612ee4c899a0b8a1821069641413aab483f2e419
 image_ids: []
 location_titles: []
+organization_title: Snoqualmie Indian Tribe
 published: false
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/rfp-for-a-feasibility-study-for-a-carving-classroom-pole-barn-for-the-snoqualmie-indian-tribe/
 summarized: true
 title: RFP for a Feasibility Study for a Carving Classroom & Pole Barn for the Snoqualmie

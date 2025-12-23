@@ -5,11 +5,11 @@ feed_content_checksum: 76c592d5cc62c451946deef9ab030585b537ae82
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Black Diamond
 original_source_html: "<div>\n  \n      \n    <span>02/05/2026 - 11:00am</span>\n
   \     </div>"
 published: false
 rss_guid: 27171 at https://www.blackdiamondwa.gov
-source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27171
 summarized: true
 title: Civil Service Commission Meeting

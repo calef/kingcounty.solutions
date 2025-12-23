@@ -86,7 +86,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Lake City Seniors
+organization_title: Lake City Seniors
 source_url: https://lakecityseniors.org/september-2025-update/
 summarized: true
 title: September 2025 Update

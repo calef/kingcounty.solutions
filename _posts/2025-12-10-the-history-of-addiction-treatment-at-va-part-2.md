@@ -109,7 +109,7 @@ image_ids:
 - de628e05e33f1fd6d4e3767e898753e892eb60627a91d07cfa78cf45f71d0c5f
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143287/part-2-crisis-morphinism-national-homes/
 summarized: true
 title: The history of addiction treatment at VA, Part 2

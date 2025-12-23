@@ -30,7 +30,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: THIRA Health
+organization_title: THIRA Health
 source_url: https://thirahealth.com/2025/06/27/anxiety-and-depression-how-can-dbt-help/?utm_source=rss&utm_medium=rss&utm_campaign=anxiety-and-depression-how-can-dbt-help
 summarized: true
 title: 'Anxiety and Depression: How Can DBT Help?'

@@ -204,8 +204,8 @@ feed_content: |-
   <p>The post <a href="https://www.residencexii.org/high-voltage-premium-detox-drink/">An In-Depth Review of High Voltage Premium Detox Drink: Revitalize Your Body</a> appeared first on <a href="https://www.residencexii.org">Residence XII</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Residence XII
 published: false
-source: Residence XII
 source_url: https://www.residencexii.org/high-voltage-premium-detox-drink/
 summarized: true
 title: 'An In-Depth Review of High Voltage Premium Detox Drink: Revitalize Your Body'

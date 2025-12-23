@@ -20,8 +20,8 @@ feed_content: |-
   <p>The post <a href="https://www.mercyhousing.org/2025/11/grand-opening-170-affordable-apartments/">Celebrating the Grand Opening of 170 New Affordable Apartment Homes as Part of San Francisco’s Largest Public Housing Transformation</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Mercy Housing
 published: false
-source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/grand-opening-170-affordable-apartments/
 summarized: true
 title: Celebrating the Grand Opening of 170 New Affordable Apartment Homes as Part

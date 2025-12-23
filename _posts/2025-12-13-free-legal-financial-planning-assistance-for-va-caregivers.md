@@ -90,8 +90,8 @@ feed_content_checksum: bfbbed734419f6ba4e70ea08337d61136f220925
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 rss_guid: https://news.va.gov/?p=143881
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143881/legal-financial-planning-assistance-caregivers/
 summarized: true
 title: Free legal & financial planning assistance for VA caregivers

@@ -34,6 +34,7 @@ feed_content_checksum: 6ba298fe944e0e65162fb56e9d0ad722d93b9a8c
 image_ids: []
 location_titles:
 - King County
+organization_title: University of Washington
 original_source_html: |-
   <p><iframe></iframe></p>
   <p><span>Once the domain of buttons and knobs, car dashboards are increasingly home to large touch screens. While that makes following a mapping app easier, it also means drivers can’t feel their way to a control; they have to look. But how does that visual component affect driving?</span></p>
@@ -66,7 +67,6 @@ original_source_html: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 published: false
 rss_guid: https://www.washington.edu/news/?p=90099
-source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/16/video-drivers-struggle-to-multitask-when-using-dashboard-touch-screens-study-finds/
 summarized: true
 title: 'Video: Drivers struggle to multitask when using dashboard touch screens, study

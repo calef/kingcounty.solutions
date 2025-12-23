@@ -75,9 +75,11 @@ module Mayhem
         self['published'] != false
       end
 
-      def source
-        self['source']
+      def organization_title
+        self['organization_title']
       end
+
+      alias source organization_title
 
       def source_url
         self['source_url']

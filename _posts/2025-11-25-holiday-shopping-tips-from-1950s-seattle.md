@@ -6,8 +6,8 @@ feed_content: As the holidays approach at a blistering pace we decided to slow d
   November 31st, 195...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/25/holiday-shopping-tips-from-1950s-seattle/
 summarized: true
 title: Holiday Shopping Tips From 1950s Seattle

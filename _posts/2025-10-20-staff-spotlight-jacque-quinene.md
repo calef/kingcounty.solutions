@@ -7,8 +7,8 @@ feed_content: |-
   <p>The post <a href="https://agingwisdom.com/staff-spotlight-jacque-quinene/">Staff Spotlight: Jacque Quinene</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Aging Wisdom
 published: false
-source: Aging Wisdom
 source_url: https://agingwisdom.com/staff-spotlight-jacque-quinene/?utm_source=rss&utm_medium=rss&utm_campaign=staff-spotlight-jacque-quinene
 summarized: true
 title: 'Staff Spotlight: Jacque Quinene'

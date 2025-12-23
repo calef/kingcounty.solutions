@@ -49,6 +49,7 @@ image_ids:
 - c8825f9bbb695e9eb239d61a290aae76a5ba5154eb9646e95eb0a9c4009bf18a
 location_titles:
 - King County
+organization_title: Essentials First
 original_source_html: "<p>Yesterday’s annual Share Your Blessings event brought our
   community together for a shared meal and time well spent Thank you to everyone who
   joined us.</p><p>A special thank you to our Essentials First team + volunteers who
@@ -82,7 +83,6 @@ original_source_html: "<p>Yesterday’s annual Share Your Blessings event brough
   \           \n          \n        \n\n        \n\n        \n          \n        \n
   \     \n        \n          \n            \n              <img src=\"https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/1766088977872-FYP9H6GX61IG7Z6PDOT0/589569358_18085161796997225_1852421533956026609_n.jpg?format=1000w\"><br>"
 rss_guid: 6244ce6a3e335a451b9540a9:624caee16c60887eca0ad917:69445f6a1721395a8ba90c51
-source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/hv0jm0iv9vflwm3gmvl1genffi2pl2
 summarized: true
 title: Thank you for joining us at Share Your Blessings!

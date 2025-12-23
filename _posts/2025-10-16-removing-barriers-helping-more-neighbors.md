@@ -9,7 +9,7 @@ feed_content: MSC’s mission is to increase equitable access to advocacy, oppor
 image_ids: []
 location_titles:
 - King County
-source: Multi-Service Center
+organization_title: Multi-Service Center
 source_url: https://mschelps.org/removing-barriers-helping-more-neighbors/
 summarized: true
 title: Removing barriers, helping more neighbors

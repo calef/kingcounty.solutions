@@ -74,7 +74,7 @@ image_ids:
 - 8ec8f910d37b3924bd2212ce66bb6445ab455c7390f5234aef987c7515b1ca71
 location_titles:
 - King County
-source: Refugee Women's Alliance
+organization_title: Refugee Women's Alliance
 source_url: https://www.rewa.org/celebrating-the-remarkable-leadership-of-mahnaz-eshetu/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-the-remarkable-leadership-of-mahnaz-eshetu
 summarized: true
 title: Celebrating the Remarkable Leadership of Mahnaz Eshetu

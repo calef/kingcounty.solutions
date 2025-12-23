@@ -10,7 +10,7 @@ feed_content: November is often the time of year when we reflect on what we can 
 image_ids: []
 location_titles:
 - King County
-source: Multi-Service Center
+organization_title: Multi-Service Center
 source_url: https://mschelps.org/thank-you-for-stepping-up-for-your-neighbors/
 summarized: true
 title: Thank you for stepping up for your neighbors

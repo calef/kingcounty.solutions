@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Husky Health Center
+organization_title: Husky Health Center
 source_url: https://wellbeing.uw.edu/husky-health-center-joins-uw-medicine-financial-assistance-policy/
 summarized: true
 title: Husky Health Center Joins UW Medicine Financial Assistance Policy

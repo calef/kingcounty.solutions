@@ -6,8 +6,8 @@ feed_content: Check out King County’s article about how the Environmental Heal
   Permit Cente...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/king-countys-environmental-health-services-divisions-permitting-services-will-be-temporarily-closed-from-11-26-to-12-9/
 summarized: true
 title: King County’s Environmental Health Services Division’s permitting services

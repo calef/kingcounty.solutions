@@ -36,7 +36,7 @@ image_ids: []
 location_titles:
 - Eastside
 - Lake Forest Park
-source: Eastside Legal Assistance Program
+organization_title: Eastside Legal Assistance Program
 source_url: https://elap.org/meet-evan-molineux-elap-dv-staff-attorney-and-perkins-coie-racial-justice-fellow/?utm_source=rss&utm_medium=rss&utm_campaign=meet-evan-molineux-elap-dv-staff-attorney-and-perkins-coie-racial-justice-fellow
 summarized: true
 title: 'Meet Evan Molineux: ELAP DV staff attorney and Perkins Coie Racial Justice

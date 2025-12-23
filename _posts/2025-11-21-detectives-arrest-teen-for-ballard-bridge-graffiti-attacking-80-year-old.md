@@ -9,7 +9,7 @@ feed_content: Seattle police detectives have arrested a 17-year-old boy for atta
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/21/detectives-arrest-teen-for-ballard-bridge-graffiti-attacking-80-year-old/
 summarized: true
 title: Detectives Arrest Teen for Ballard Bridge Graffiti, Attacking 80 Year Old

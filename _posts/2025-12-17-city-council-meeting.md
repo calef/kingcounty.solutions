@@ -7,12 +7,12 @@ feed_content_checksum: 664b0a50b220322423da0a307f318640fc8c70d3
 image_ids: []
 location_titles:
 - Black Diamond
+organization_title: City of Black Diamond
 original_source_html: "<div>\n  \n      \n    <span>02/05/2026 - 7:00pm</span>\n      </div>\n\n<div>\n
   \ \n      \n    <p>For City Council Meeting Agendas <a>PLEASE CLICK HERE</a></p>\n
   \     </div>"
 published: false
 rss_guid: 27351 at https://www.blackdiamondwa.gov
-source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27351
 summarized: true
 title: City Council Meeting

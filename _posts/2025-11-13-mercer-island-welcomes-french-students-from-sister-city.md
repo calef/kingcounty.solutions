@@ -10,8 +10,8 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   cities’ relationship. </span></span></span></p></div></div></div>
 image_ids: []
 location_titles: []
+organization_title: City of Mercer Island
 published: false
-source: City of Mercer Island
 source_url: https://www.mercerisland.gov/sistercity/page/mercer-island-welcomes-french-students-sister-city
 summarized: true
 title: Mercer Island Welcomes French Students from Sister City

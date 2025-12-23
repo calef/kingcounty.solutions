@@ -30,7 +30,7 @@ image_ids:
 - f55c4aeb9c4bc72fe180a9edf7b7ae2ae9a21baed592a41042329223973105fd
 location_titles:
 - King County
-source: Essentials First
+organization_title: Essentials First
 source_url: https://www.essentialsfirst.org/blog/coming-up-614-ef-outreach-drive
 summarized: true
 title: "*5 SPOTS LEFT* 7/12 EF Outreach Drive"

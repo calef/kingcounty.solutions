@@ -94,7 +94,7 @@ image_ids:
 - 293e5241ba196d292e63998ea579bf30fb464dfb6f8c9dea48fb54d6e8bfcfd0
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/making-a-home-the-power-of-community-furniture-and-fresh-starts
 summarized: true
 title: the power of community, furniture, and fresh starts

@@ -6,6 +6,7 @@ feed_content_checksum: 343be6d8a01fa8a69600d9c9d2e075264c5f0bec
 image_ids: []
 location_titles:
 - King County
+organization_title: Washington State Department of Transportation
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"
   content=\"ENUMCLAW – Emergency work to repair the roadway on State Route 410 in
@@ -182,7 +183,6 @@ original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"
   conditions could mean chains are required on your route. Practic"
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/emergency-repairs-set-begin-sr-410-enumclaw
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/emergency-repairs-set-begin-sr-410-enumclaw
 summarized: true
 title: Emergency repairs set to begin on SR 410 in Enumclaw

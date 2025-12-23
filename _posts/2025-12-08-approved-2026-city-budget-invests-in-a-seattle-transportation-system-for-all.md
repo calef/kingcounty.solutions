@@ -10,7 +10,7 @@ feed_content_checksum: a988edfc473dab1d82858cdfc04decdc259f2bd8
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/08/approved-2026-city-budget-invests-in-seattle-transportation-system-for-all/
 summarized: true
 title: Approved 2026 City budget invests in a Seattle transportation system for all

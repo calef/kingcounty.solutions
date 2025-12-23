@@ -9,7 +9,7 @@ feed_content_checksum: f0b729c1c38a2c0d40be33be029f4f78ee3ce6fa
 image_ids: []
 location_titles:
 - King County
-source: Northwest Harvest
+organization_title: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/caritas-food-bank-sees-16-new-clients-daily-amid-snap-benefit-delays/
 summarized: true
 title: Caritas Food Bank sees 16 new clients daily amid SNAP benefit delays

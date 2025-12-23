@@ -52,8 +52,8 @@ feed_content_checksum: 2dd0da32f7e556fa9c2c9a7c0a21f245501d0be0
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 rss_guid: https://news.va.gov/?p=143850
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143850/va-research-wrap-uptelemedicine-parkinsons-gwi/
 summarized: true
 title: 'VA Research Wrap Up: New findings on telemedicine, Parkinson’s disease and

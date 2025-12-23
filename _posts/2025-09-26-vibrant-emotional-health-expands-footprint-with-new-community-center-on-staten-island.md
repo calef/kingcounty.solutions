@@ -29,8 +29,8 @@ feed_content: |-
   <p>The post <a href="https://www.vibrant.org/vibrant-emotional-health-expands-footprint-with-new-community-center-on-staten-island/">Vibrant Emotional Health Expands Footprint with New Community Center on Staten Island</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Vibrant Emotional Health
 published: false
-source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/vibrant-emotional-health-expands-footprint-with-new-community-center-on-staten-island/
 summarized: true
 title: Vibrant Emotional Health Expands Footprint with New Community Center on Staten

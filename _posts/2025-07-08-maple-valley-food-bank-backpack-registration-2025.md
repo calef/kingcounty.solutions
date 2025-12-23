@@ -150,7 +150,7 @@ image_ids:
 location_titles:
 - Issaquah
 - South King County
-source: Maple Valley Food Bank
+organization_title: Maple Valley Food Bank
 source_url: https://www.maplevalleyfoodbank.org/maple-valley-food-bank-backpack-registration-2025/
 summarized: true
 title: MAPLE VALLEY FOOD BANK – BACKPACK REGISTRATION 2025

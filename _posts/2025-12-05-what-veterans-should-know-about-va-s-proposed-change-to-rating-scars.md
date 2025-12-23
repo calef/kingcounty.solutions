@@ -41,7 +41,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>Veterans are guid
 image_ids: []
 location_titles:
 - King County
-source: Disabled American Veterans
+organization_title: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/what-veterans-should-know-about-vas-proposed-change-to-rating-scars/
 summarized: true
 title: What veterans should know about VA’s proposed change to rating scars

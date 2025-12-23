@@ -44,8 +44,8 @@ feed_content: |-
   <p><a href="https://runsignup.com/Race/IN/VirtualEvent/GWOT100?rsus=500-400-fb9ee638-7e4e-4598-bfe4-f0353f9c835e" rel="noopener">View online</a> to learn more and register.</p>
 image_ids: []
 location_titles: []
+organization_title: Veterans Affairs Pension Program
 published: false
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143748/gwot-100-1-mission-1-month-100-miles/
 summarized: true
 title: 'GWOT 100: 1 mission. 1 month. 100 miles.'

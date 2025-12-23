@@ -79,7 +79,7 @@ image_ids:
 - 706525b1263105b058792f574ef8764b4a4fd31faf8979b6c19cb08b32305c83
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143271/vacation-at-va-womans-mindset-master-blindness/
 summarized: true
 title: 'Vacation at VA: One woman’s mindset to master blindness'

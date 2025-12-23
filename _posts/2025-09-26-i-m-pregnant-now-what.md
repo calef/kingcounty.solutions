@@ -197,7 +197,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Care Net of Puget Sound
+organization_title: Care Net of Puget Sound
 source_url: https://carenetps.org/im-pregnant-now-what/?utm_source=rss&utm_medium=rss&utm_campaign=im-pregnant-now-what
 summarized: true
 title: I’m Pregnant…Now What?

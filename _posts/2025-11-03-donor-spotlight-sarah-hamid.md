@@ -29,7 +29,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Youth Eastside Services
+organization_title: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/donor-spotlight-sarah-hamid/?utm_source=rss&utm_medium=rss&utm_campaign=donor-spotlight-sarah-hamid
 summarized: true
 title: 'Donor Spotlight: Sarah Hamid'

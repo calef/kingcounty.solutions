@@ -28,7 +28,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
 image_ids: []
 location_titles:
 - Bellevue
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/noa-25
 summarized: true
 title: Openings on Bellevue Network on Aging

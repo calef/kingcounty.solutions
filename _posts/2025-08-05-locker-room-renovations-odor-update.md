@@ -44,8 +44,8 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"16442\" 
   Way Community Center</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Federal Way Community Center
 published: false
-source: Federal Way Community Center
 source_url: https://itallhappenshere.org/locker-room-renovations-odor-update/?utm_source=rss&utm_medium=rss&utm_campaign=locker-room-renovations-odor-update
 summarized: true
 title: Locker Room Renovations & Odor Update

@@ -5,8 +5,8 @@ feed_content: We&#8217;re so grateful for the excellent work done by Hanson&#821
   Center. Dan Hanson, in particular, was fantastic [&#8230;]
 image_ids: []
 location_titles: []
+organization_title: Federal Way Senior Center
 published: false
-source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/hansons-chimney/?utm_source=rss&utm_medium=rss&utm_campaign=hansons-chimney
 summarized: true
 title: Hanson’s Chimney

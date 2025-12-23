@@ -19,6 +19,7 @@ feed_content: |-
 feed_content_checksum: b186bc7463de4b11f6711cda90153db57c9690af
 image_ids: []
 location_titles: []
+organization_title: Department of Commerce
 original_source_html: |-
   <p>The Public Works Board’s next meeting is on January 9, 2025, from 8:30 a.m. – 9:30 a.m. This is a hybrid meeting with online Zoom and in-person participation options.</p>
 
@@ -37,7 +38,6 @@ original_source_html: |-
   <p></p>
 published: false
 rss_guid: https://www.commerce.wa.gov/?p=273051
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/pwb-meeting-date-january-9-2026/
 summarized: true
 title: PWB Meeting Date – January 9, 2026

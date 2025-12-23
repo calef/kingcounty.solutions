@@ -16,7 +16,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Westside Neighbors Shelter
+organization_title: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/summers-going-strong-and-so-is-the-shelter/?utm_source=rss&utm_medium=rss&utm_campaign=summers-going-strong-and-so-is-the-shelter
 summarized: true
 title: Summer’s going strong, and so is the shelter!

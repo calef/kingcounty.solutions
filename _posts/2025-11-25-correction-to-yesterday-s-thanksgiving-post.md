@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Westside Neighbors Shelter
+organization_title: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/correction-to-yesterdays-thanksgiving-post/?utm_source=rss&utm_medium=rss&utm_campaign=correction-to-yesterdays-thanksgiving-post
 summarized: true
 title: Correction to yesterday’s Thanksgiving post

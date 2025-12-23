@@ -47,7 +47,7 @@ image_ids:
 - 6bf5bf4a66ae093fa9072a5acdbd0b81cea4bece903b5c449bcfc9077b53f4bd
 location_titles:
 - King County
-source: Catholic Community Services of Western Washington
+organization_title: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/boeing-grant-helps-ccs-hen-program-deliver-essential-supplies/?utm_source=rss&utm_medium=rss&utm_campaign=boeing-grant-helps-ccs-hen-program-deliver-essential-supplies
 summarized: true
 title: Boeing Grant Helps CCS HEN Program Deliver Essential Supplies

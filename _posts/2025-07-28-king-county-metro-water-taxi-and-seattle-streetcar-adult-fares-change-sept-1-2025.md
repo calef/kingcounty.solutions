@@ -10,7 +10,7 @@ feed_content: Adult fares are changing Sept. 1, 2025, on King County Metro buses
 image_ids: []
 location_titles:
 - King County
-source: King County Ferry District
+organization_title: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/28/king-county-metro-water-taxi-and-seattle-streetcar-adult-fares-change-sept-1-2025/
 summarized: true
 title: King County Metro, Water Taxi and Seattle Streetcar adult fares change Sept.

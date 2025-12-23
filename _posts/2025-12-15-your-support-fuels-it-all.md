@@ -12,6 +12,7 @@ feed_content_checksum: 73300ad391a8150f63c78b63b5edca77f5b8558f
 image_ids: []
 location_titles:
 - King County
+organization_title: The Center for Active Living
 original_source_html: |-
   <a><p>Consider a year-end gift to support The Center for Active Living!</p>
 
@@ -19,7 +20,6 @@ original_source_html: |-
 
   <p>From nutritious meals and counseling to dancing, art and social activities, your donation makes it possible for our community …</p></a>
 rss_guid: https://wscenter.org/?p=24904
-source: The Center for Active Living
 source_url: https://wscenter.org/your-support-fuels-it-all/
 summarized: true
 title: Your support fuels it all

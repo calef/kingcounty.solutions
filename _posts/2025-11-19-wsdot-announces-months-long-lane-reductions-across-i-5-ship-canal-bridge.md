@@ -6,8 +6,8 @@ feed_content: SEATTLE – Work will return to the northbound lanes of Interstate
   possible.
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/wsdot-announces-months-long-lane-reductions-across-i-5-ship-canal-bridge
 summarized: true
 title: WSDOT announces months-long lane reductions across I-5 Ship Canal Bridge

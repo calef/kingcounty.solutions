@@ -75,8 +75,8 @@ feed_content: |-
   <p>The post <a href="https://operationhomefront.org/holiday-meal-event-provides-comfort/">Holiday Meal Event Provides Comfort</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Operation Homefront - Critical Financial Assistance Program
 published: false
-source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/holiday-meal-event-provides-comfort/
 summarized: true
 title: Holiday Meal Event Provides Comfort

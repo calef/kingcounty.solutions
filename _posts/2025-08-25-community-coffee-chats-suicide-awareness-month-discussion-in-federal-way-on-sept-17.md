@@ -25,7 +25,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Valley Cities Behavioral Health Care
+organization_title: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/community-coffee-chats-suicide-awareness-month-discussion-in-federal-way-on-sept-17/
 summarized: true
 title: 'Community Coffee Chats: Suicide Awareness Month discussion in Federal Way

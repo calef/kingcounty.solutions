@@ -13,6 +13,7 @@ feed_content_checksum: 39f2eddd3e27c546a441d94de2ca1150871b6fc9
 image_ids: []
 location_titles:
 - King County
+organization_title: Friends of Youth
 original_source_html: The DBT team at Friends of Youth is excited to share that our
   next Dialectical Behavior Therapy (DBT) Skills Class will begin in early January
   2026, and enrollment is now open! This structured, evidence-based program is designed
@@ -21,7 +22,6 @@ original_source_html: The DBT team at Friends of Youth is excited to share that 
   trauma-informed way that helps build resilience, improve communication, and support
   healthier...
 rss_guid: 6943beae9a41d93da04db1df
-source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/now-enrolling-dbt-skills-class-for-teens-starting-january-2026
 summarized: true
 title: 'now enrolling: dbt skills class for teens starting january 2026'

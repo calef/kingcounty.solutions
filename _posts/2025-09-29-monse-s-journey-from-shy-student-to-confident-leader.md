@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Juma Ventures
+organization_title: Juma Ventures
 source_url: https://www.juma.org/2025/09/29/monses-journey-from-shy-student-to-confident-leader/
 summarized: true
 title: Monse’s Journey from Shy Student to Confident Leader

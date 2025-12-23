@@ -6,6 +6,7 @@ feed_content_checksum: 76c1e140be188522ab30c34f252aa91c8003bf3d
 image_ids: []
 location_titles:
 - King County
+organization_title: Washington State Department of Transportation
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"
   content=\"STEVENS PASS – Emergency work to repair several miles of washouts and
@@ -176,7 +177,6 @@ original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"
   clearfix\">\n "
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/emergency-repairs-begin-us-2-stevens-pass
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/emergency-repairs-begin-us-2-stevens-pass
 summarized: true
 title: Emergency repairs begin on US 2 at Stevens Pass

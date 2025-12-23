@@ -26,7 +26,7 @@ image_ids:
 - 2596a0cdd657fa61b9ac156ddfc185f011c7deac3f5e8dc3b87f3160d1377ef2
 location_titles:
 - King County
-source: The National Children's Cancer Society - Financial Assistance
+organization_title: The National Children's Cancer Society - Financial Assistance
 source_url: https://thenccs.org/meet-allison/
 summarized: true
 title: Meet Allison!

@@ -39,6 +39,7 @@ image_ids:
 - eac2fd0b3f7e2c02947091ccab8876062e5c2f6eab5afabb5fc36bc6f62a44dc
 location_titles:
 - King County
+organization_title: Lutheran Community Services Northwest
 original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\t<h1>Christmas
   spirit can be found wherever Santa for Seniors team goes</h1>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p>By
   Teri McKeown</p>\n<p>The LCSNW Santa for Seniors team is wrapping up the holiday
@@ -72,7 +73,6 @@ original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n
   post <a>Christmas spirit can be found wherever Santa for Seniors team goes</a> appeared
   first on <a>LCSNW</a>.</p>"
 rss_guid: https://lcsnw.org/?p=49650
-source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/12/santa-for-seniors-christmas-spirit/
 summarized: true
 title: Christmas spirit can be found wherever Santa for Seniors team goes

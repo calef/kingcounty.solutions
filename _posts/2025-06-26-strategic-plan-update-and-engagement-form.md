@@ -7,7 +7,7 @@ feed_content: Weâ€™re thrilled to share that the results are in from our recentâ
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/strategic-plan-update-and-engagement-form
 summarized: true
 title: strategic plan update and engagement form

@@ -5,8 +5,8 @@ feed_content: SEATTLE – This Thanksgiving, there’s a lot to be thankful for 
   weekend with more than 10% additional daily departures than in recent years.
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/more-room-table-washington-state-ferries-dishing-out-more-sailings-thanksgiving
 summarized: true
 title: 'More room at the table: Washington State Ferries dishing out more sailings

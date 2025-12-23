@@ -6,8 +6,8 @@ feed_content: We maintain a database of more than 1100 unreinforced masonry (URM
   or are a design pro...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/76-unreinforced-masonry-buildings-officially-recognized-as-retrofitted/
 summarized: true
 title: 76 Unreinforced Masonry Buildings Officially Recognized as Retrofitted

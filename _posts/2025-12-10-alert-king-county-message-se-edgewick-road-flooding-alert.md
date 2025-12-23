@@ -8,9 +8,9 @@ feed_content_checksum: b88c1843148a3a7f7868625f00575a17b3476684
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 published: false
 rss_guid: https://kcemergency.com/2025/12/09/edgewick-flooding-alert/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/09/edgewick-flooding-alert/
 summarized: true
 title: ALERT King County Message – SE Edgewick Road Flooding Alert

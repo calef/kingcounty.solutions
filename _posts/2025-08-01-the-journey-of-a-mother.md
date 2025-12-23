@@ -9,7 +9,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Indian American Community Services
+organization_title: Indian American Community Services
 source_url: https://iacswa.org/journey-of-a-mother/
 summarized: true
 title: The Journey of a Mother

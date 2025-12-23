@@ -19,8 +19,8 @@ feed_content_checksum: ac481559cdc050605bc3af02a8edb931260f0491
 image_ids: []
 location_titles:
 - Snoqualmie Valley
+organization_title: Snoqualmie Indian Tribe
 rss_guid: https://snoqualmietribe.us/?p=6886
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/snoqualmie-tribal-council-passes-motion-to-approve-resolution-345-2025-declaring-a-tribal-state-of-emergency-related-to-flooding/
 summarized: true
 title: 'Snoqualmie Tribal Council Passes Motion to Approve Resolution #345-2025 Declaring

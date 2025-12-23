@@ -74,8 +74,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   \     \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/parks-perfect-154
 summarized: true
 title: Parks & Community Services Department earns perfect score with reaccreditation

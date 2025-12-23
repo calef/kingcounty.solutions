@@ -91,7 +91,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: The Deaf Hotline
+organization_title: The Deaf Hotline
 source_url: https://www.thedeafhotline.org/blog/how-dv-and-sa-impacts-mental-health/
 summarized: true
 title: How DV and SA Impacts Mental Health

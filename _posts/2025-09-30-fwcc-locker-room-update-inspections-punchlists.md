@@ -92,8 +92,8 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"16794\" 
   Way Community Center</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Federal Way Community Center
 published: false
-source: Federal Way Community Center
 source_url: https://itallhappenshere.org/fwcc-locker-room-update-inspections-punchlists/?utm_source=rss&utm_medium=rss&utm_campaign=fwcc-locker-room-update-inspections-punchlists
 summarized: true
 title: 'FWCC Locker Room Update: Inspections & Punchlists'

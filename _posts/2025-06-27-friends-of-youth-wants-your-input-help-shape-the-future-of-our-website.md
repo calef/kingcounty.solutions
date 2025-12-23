@@ -4,8 +4,8 @@ feed_content: We’re working on improving our website, and your voice matters m
   As a valued member of our community, your experience helps guide our...
 image_ids: []
 location_titles: []
+organization_title: Friends of Youth
 published: false
-source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/friends-of-youth-wants-your-input-help-shape-the-future-of-our-website
 summarized: true
 title: friends of youth wants your input! help shape the future of our website

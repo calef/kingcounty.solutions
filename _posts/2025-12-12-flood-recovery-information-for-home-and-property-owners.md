@@ -11,8 +11,8 @@ feed_content_checksum: dcd4ca6437a16627320fd8c146b38271fc394998
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 rss_guid: https://kcemergency.com/?p=6762
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/11/flood-recovery-information-for-home-and-property-owners/
 summarized: true
 title: Flood Recovery Information for Home and Property Owners 

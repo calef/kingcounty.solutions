@@ -23,7 +23,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Youth Eastside Services
+organization_title: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/gus-story-parent-child-interaction-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=gus-story-parent-child-interaction-therapy
 summarized: true
 title: How Gus and His Parents Rebuilt Peace at Home

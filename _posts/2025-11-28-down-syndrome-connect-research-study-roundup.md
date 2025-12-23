@@ -90,7 +90,7 @@ image_ids:
 - b73ff815e0a050929795534b66e6120f68bfe7791ca144d03651002d465a38ea
 location_titles:
 - King County
-source: Institute on Human Development and Disability
+organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/28/down-syndrome-connect-research-study-roundup/
 summarized: true
 title: Down Syndrome-Connect Research Study Roundup

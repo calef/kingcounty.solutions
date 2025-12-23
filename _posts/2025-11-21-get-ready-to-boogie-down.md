@@ -8,8 +8,8 @@ feed_content: |-
   <p>Dust off your go-go boots and join us for a groovy night with live DJ music and dancing.<br /><br />Beer, &hellip;</p></a>
 image_ids: []
 location_titles: []
+organization_title: The Center for Active Living
 published: false
-source: The Center for Active Living
 source_url: https://wscenter.org/get-ready-to-boogie-down/
 summarized: true
 title: Get ready to boogie down

@@ -67,7 +67,7 @@ image_ids:
 - 1877427c1fd462797be3d3e4b835a99e3d72254f9f4a072265d1f32e860c27d5
 location_titles:
 - King County
-source: Essentials First
+organization_title: Essentials First
 source_url: https://www.essentialsfirst.org/blog/accesstodignity
 summarized: true
 title: New research highlights urgency of hygiene poverty in our communities

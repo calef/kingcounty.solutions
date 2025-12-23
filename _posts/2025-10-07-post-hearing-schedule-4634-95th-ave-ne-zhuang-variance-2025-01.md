@@ -30,8 +30,8 @@ feed_content: |-
   &nbsp;
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/10/post-hearing-schedule-4634-95th-ave-ne-zhuang-variance-2025-01/
 summarized: true
 title: 'Post Hearing Schedule: 4634 95th Ave NE. Zhuang VARIANCE-2025-01'

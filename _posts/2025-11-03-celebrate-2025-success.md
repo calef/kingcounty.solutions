@@ -11,7 +11,7 @@ feed_content: Thank You for Making Celebrate 2025 a Huge Success!Celebrate 2025
 image_ids: []
 location_titles:
 - King County
-source: Lighthouse NW
+organization_title: Lighthouse NW
 source_url: https://lighthousenw.org/blog/celebrate-2025-success
 summarized: true
 title: Celebrate 2025 Success!

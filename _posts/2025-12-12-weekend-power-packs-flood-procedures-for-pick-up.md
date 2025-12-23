@@ -45,8 +45,8 @@ image_ids:
 - df90f6bfc8c467f31c3a1ff92f564137d97ff868ab7aac93b64681f319282e64
 location_titles:
 - King County
+organization_title: Empower Youth Network
 rss_guid: https://empoweryouthnetwork.org/?p=7708
-source: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/weekend-power-packs-flood-procedures-for-pick-up/
 summarized: true
 title: Weekend Power Packs – Flood Procedures for Pick Up

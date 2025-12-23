@@ -9,7 +9,7 @@ feed_content: Seattle – This week, Mayor Bruce Harrell signed the City of Seat
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://harrell.seattle.gov/2025/11/26/mayor-harrell-signs-city-of-seattles-2026-budget-into-law/
 summarized: true
 title: Mayor Harrell Signs City of Seattle’s 2026 Budget into Law 

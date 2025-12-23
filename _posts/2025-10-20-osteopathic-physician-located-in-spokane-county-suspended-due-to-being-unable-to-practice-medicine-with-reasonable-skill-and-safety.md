@@ -35,8 +35,8 @@ feed_content: |-
   <p class="text-align-center">###</p></div>
 image_ids: []
 location_titles: []
+organization_title: Department of Health
 published: false
-source: Department of Health
 source_url: https://doh.wa.gov/newsroom/osteopathic-physician-located-spokane-county-suspended-due-being-unable-practice-medicine-reasonable
 summarized: true
 title: Osteopathic physician located in Spokane County suspended due to being unable

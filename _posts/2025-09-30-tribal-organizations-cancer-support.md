@@ -40,7 +40,7 @@ feed_content: "<p>On a cool September morning along the southern waters of Hood 
 image_ids: []
 location_titles:
 - King County
-source: Cancer Lifeline Financial Assistance for Cancer Patients
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/cancer-lifeline-partners-with-tribal-organization-for-cancer-support/
 summarized: true
 title: Tribal Organizations & Cancer Support

@@ -55,7 +55,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - South King County
-source: Department of Commerce
+organization_title: Department of Commerce
 source_url: https://www.commerce.wa.gov/commerce-awards-over-680000-to-help-communities-address-child-care-shortages/
 summarized: true
 title: Commerce awards over $680,000 to help communities address child care shortages

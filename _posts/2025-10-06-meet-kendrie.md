@@ -25,7 +25,7 @@ image_ids:
 - e787e0eb278b04808b153ba0d41a999ffc624af6784500e5a8262647c7bbfc25
 location_titles:
 - King County
-source: The National Children's Cancer Society - Financial Assistance
+organization_title: The National Children's Cancer Society - Financial Assistance
 source_url: https://thenccs.org/meet-kendrie/
 summarized: true
 title: Meet Kendrie!

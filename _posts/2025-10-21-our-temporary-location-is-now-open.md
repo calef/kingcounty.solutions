@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: FamilyWorks Seattle
+organization_title: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/food-bank-temp-location-announcement/
 summarized: true
 title: Our Temporary Location is Now Open!

@@ -106,7 +106,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: BrightSpark
+organization_title: BrightSpark
 source_url: https://www.brightspark.org/2025/10/capitol-courier-join-us-for-a-community-conversation-about-prop-1-and-the-fepp-levy/
 summarized: true
 title: 'Capitol Courier: Join us for a Community Conversation about Prop 1 and the

@@ -80,7 +80,7 @@ image_ids:
 - ad87ac70308ef8061067946ed8c46011cfead35c5bc67485080c0f292691a7be
 location_titles:
 - King County
-source: Bike Works
+organization_title: Bike Works
 source_url: https://bikeworks.org/mark-and-the-purple-bike/?utm_source=rss&utm_medium=rss&utm_campaign=mark-and-the-purple-bike
 summarized: true
 title: Mark and the purple bike

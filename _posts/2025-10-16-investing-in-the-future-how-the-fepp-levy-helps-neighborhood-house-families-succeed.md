@@ -9,7 +9,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Neighborhood House
+organization_title: Neighborhood House
 source_url: https://nhwa.org/2025/10/16/fepp-levy-prop1/
 summarized: true
 title: 'Investing in the Future: How the FEPP Levy Helps Neighborhood House Families

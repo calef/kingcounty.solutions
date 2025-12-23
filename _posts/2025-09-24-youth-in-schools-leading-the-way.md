@@ -50,7 +50,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - Eastside
-source: Youth Eastside Services
+organization_title: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/youth-in-schools-leading-the-way/?utm_source=rss&utm_medium=rss&utm_campaign=youth-in-schools-leading-the-way
 summarized: true
 title: Youth in Schools Leading the Way

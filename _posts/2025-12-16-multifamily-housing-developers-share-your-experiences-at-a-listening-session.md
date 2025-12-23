@@ -86,6 +86,7 @@ feed_content_checksum: 585958c473d3c57653dbff1d139b0aa483d34af4
 image_ids: []
 location_titles:
 - King County
+organization_title: Department of Commerce
 original_source_html: |-
   <p><strong>Commerce will host listening sessions on Dec. 18 and 19 on Teams</strong></p>
 
@@ -167,7 +168,6 @@ original_source_html: |-
 
   <p>For questions or to request to speak with someone over the phone, email <a>HTFCapacityBuilding@commerce.wa.gov</a>.</p>
 rss_guid: https://www.commerce.wa.gov/?p=272774
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/multifamily-housing-developers-share-your-experiences-at-a-listening-session/
 summarized: true
 title: 'Multifamily housing developers: Share your experiences at a listening session'

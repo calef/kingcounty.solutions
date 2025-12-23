@@ -7,7 +7,7 @@ feed_content: Youth and young adults are heading back to school this month, and 
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/champion-student-success-join-our-back-to-school-supply-drive
 summarized: true
 title: 'champion student success: join our back-to-school supply drive'

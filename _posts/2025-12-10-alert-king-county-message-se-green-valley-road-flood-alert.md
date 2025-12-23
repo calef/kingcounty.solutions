@@ -9,9 +9,9 @@ feed_content_checksum: 6c58f0ef5bddc5c8b1c29b8f93e5b0fbfe89634a
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 published: false
 rss_guid: https://kcemergency.com/2025/12/09/se-green-valley-road-flood-alert/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/09/se-green-valley-road-flood-alert/
 summarized: true
 title: ALERT King County Message – SE Green Valley Road – Flood Alert

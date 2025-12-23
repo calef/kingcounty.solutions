@@ -106,9 +106,9 @@ feed_content_checksum: c4fd53b3a9040bf9088d932a86e5de8c98b41abe
 image_ids: []
 location_titles:
 - King County
+organization_title: Department of Commerce
 published: false
 rss_guid: https://www.commerce.wa.gov/?p=272847
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/cetcap-helps-king-county-pursue-millions-in-federal-tax-credits-to-fund-climate-work/
 summarized: true
 title: CETCAP helps King County pursue millions in federal tax credits to fund climate

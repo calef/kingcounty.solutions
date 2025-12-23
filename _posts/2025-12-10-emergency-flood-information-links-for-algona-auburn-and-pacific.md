@@ -11,8 +11,8 @@ feed_content: |-
 feed_content_checksum: 43ec4fec1a9cbc51fe5ac45d12cf99fc50a8fb81
 image_ids: []
 location_titles: []
+organization_title: Valley Regional Fire Authority
 published: false
-source: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/12/emergency-flood-information-links-for-algona-auburn-and-pacific/
 summarized: true
 title: Emergency Flood Information Links for Algona, Auburn and Pacific

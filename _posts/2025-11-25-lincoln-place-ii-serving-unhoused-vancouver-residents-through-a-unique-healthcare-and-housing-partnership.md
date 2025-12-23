@@ -72,8 +72,8 @@ feed_content: |-
   <p>Learn more about Lincoln Place II and other impactful properties on the <a href="https://vhausa.org/">Vancouver Housing Authority website</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Department of Commerce
 published: false
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/lincoln-place-ii-serving-unhoused-vancouver-residents-through-a-unique-healthcare-and-housing-partnership/
 summarized: true
 title: 'Lincoln Place II: Serving unhoused Vancouver residents through a unique healthcare

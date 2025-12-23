@@ -49,7 +49,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143062/whole-health-putting-veterans-at-center-of-care/
 summarized: true
 title: 'Whole Health: Putting Veterans at the center of their care'

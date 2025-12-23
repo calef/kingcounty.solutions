@@ -46,8 +46,8 @@ feed_content: "<div class=\"et_pb_section et_pb_section_7 et_section_regular\" >
   team members on the “<a href=\"https://inatai.org/our-team/\">Our team</a>” page.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 image_ids: []
 location_titles: []
+organization_title: Inatai Foundation
 published: false
-source: Inatai Foundation
 source_url: https://inatai.org/news/welcome-new-team-alieu-michelle/
 summarized: true
 title: Inatai Foundation welcomes two new team members to strengthen operations statewide

@@ -20,7 +20,7 @@ image_ids:
 - 5482324fdb3ffcb64a3d53dd907a1874756a7b22a867ddf1a91f6db771190f22
 location_titles:
 - King County
-source: Shoreline Community College
+organization_title: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/10/13/alumni-spotlight-from-shoreline-to-japan-and-back-again-a-life-shaped-by-teaching-travel-and-community/
 summarized: true
 title: 'Alumni Spotlight: From Shoreline to Japan and Back Again: A Life Shaped by

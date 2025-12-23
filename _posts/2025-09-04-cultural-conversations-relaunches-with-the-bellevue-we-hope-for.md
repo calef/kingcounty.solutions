@@ -54,7 +54,7 @@ image_ids:
 - 1d0d92155208edc5507e79288c59af45c591279397cd5c0921997a581848e66c
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/cultural-conversations-relaunch
 summarized: true
 title: Cultural Conversations relaunches with ‘The Bellevue We Hope For’

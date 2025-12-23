@@ -10,9 +10,9 @@ feed_content: |-
 feed_content_checksum: e9a55bf6462e604ef70cd039d11500a577676f11
 image_ids: []
 location_titles: []
+organization_title: Shoreline Lake Forest Park Senior Activity Center
 published: false
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10604
-source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/deep-in-the-woods-the-weyerhaeuser-kidnapping/
 summarized: true
 title: 'Deep in the Woods: The Weyerhaeuser Kidnapping'

@@ -25,7 +25,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Asian Counseling and Referral Service
+organization_title: Asian Counseling and Referral Service
 source_url: https://acrs.org/supporter-spotlight-justine-ing-walk-for-rice-champion/
 summarized: true
 title: 'One Person Can Make A Difference:  Justine Ing’s Walk for Rice Journey'

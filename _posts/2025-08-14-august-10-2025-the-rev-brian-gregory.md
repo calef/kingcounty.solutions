@@ -5,8 +5,8 @@ feed_content: |-
   <p>The post <a href="https://stlukesseattle.org/2025/08/14/august-10-2025-the-rev-brian-gregory/">August 10, 2025 &#8212; The Rev Brian Gregory</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: St. Luke Episcopal Church
 published: false
-source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/08/14/august-10-2025-the-rev-brian-gregory/
 summarized: true
 title: August 10, 2025 — The Rev Brian Gregory

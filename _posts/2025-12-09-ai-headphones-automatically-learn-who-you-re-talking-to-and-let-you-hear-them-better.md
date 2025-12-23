@@ -37,8 +37,8 @@ feed_content: |-
 feed_content_checksum: 14770966ac71d13a7d0e1d7782c0c5a4ad310bc6
 image_ids: []
 location_titles: []
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/09/ai-headphones-smart-noise-cancellation-proactive-listening/
 summarized: true
 title: AI headphones automatically learn who you’re talking to — and let you hear

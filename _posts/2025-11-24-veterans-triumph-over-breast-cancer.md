@@ -55,7 +55,7 @@ image_ids:
 - 40d3c1102db2bbe4ad8d996bce359492e7fe522ddafd322a98946f552230dbe7
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143215/veterans-triumph-over-breast-cancer/
 summarized: true
 title: Veterans Triumph Over Breast Cancer

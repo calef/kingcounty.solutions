@@ -18,7 +18,7 @@ image_ids:
 - d1e4e905960b1bf87b62d308bea7a0697ecd62c7cc0c7135fb0115f0c5daad92
 location_titles:
 - King County
-source: Treehouse
+organization_title: Treehouse
 source_url: https://www.treehouseforkids.org/support-treehouse-during-make-a-will-month/
 summarized: true
 title: Support Treehouse during Make-a-Will Month

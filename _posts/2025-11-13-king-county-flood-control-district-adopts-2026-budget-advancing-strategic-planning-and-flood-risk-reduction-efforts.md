@@ -95,8 +95,8 @@ feed_content: |-
   <p>Residents are encouraged to learn more about the KCFCDs ongoing projects and preparedness resources at <a href="https://kingcountyfloodcontrol.org/"><strong>kingcountyfloodcontrol.org</strong></a>.</p><p>The post <a href="https://kingcountyfloodcontrol.org/king-county-flood-control-district-adopts-2026-budget-advancing-strategic-planning-and-flood-risk-reduction-efforts/">King County Flood Control District Adopts 2026 Budget, Advancing Strategic Planning and Flood Risk Reduction Efforts</a> appeared first on <a href="https://kingcountyfloodcontrol.org">King County Flood Control District</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: King County Flood Control District
 published: false
-source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/king-county-flood-control-district-adopts-2026-budget-advancing-strategic-planning-and-flood-risk-reduction-efforts/?utm_source=rss&utm_medium=rss&utm_campaign=king-county-flood-control-district-adopts-2026-budget-advancing-strategic-planning-and-flood-risk-reduction-efforts
 summarized: true
 title: King County Flood Control District Adopts 2026 Budget, Advancing Strategic

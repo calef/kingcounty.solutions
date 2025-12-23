@@ -5,8 +5,8 @@ feed_content: <p>The post <a href="https://readingpartners.org/blog/national-fam
   on <a href="https://readingpartners.org">Reading Partners</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Reading Partners Seattle
 published: false
-source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/national-family-literacy-month/
 summarized: true
 title: Ways to celebrate National Family Literacy Month with Reading Partners

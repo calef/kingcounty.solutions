@@ -112,8 +112,8 @@ feed_content: "<section class=\"elementor-section elementor-top-section elemento
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
 image_ids: []
 location_titles: []
+organization_title: Redmond United Methodist Church - Social Ministries
 published: false
-source: Redmond United Methodist Church - Social Ministries
 source_url: https://redmondumc.org/reimagining-october-5-presentation/
 summarized: true
 title: Reimagining October 5 Presentation

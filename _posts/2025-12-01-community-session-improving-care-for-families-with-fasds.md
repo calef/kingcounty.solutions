@@ -149,7 +149,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
 image_ids: []
 location_titles:
 - King County
-source: Institute on Human Development and Disability
+organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/01/community-session-improving-care-for-families-with-fasds/
 summarized: true
 title: 'Community Session: Improving Care for Families with FASDs'

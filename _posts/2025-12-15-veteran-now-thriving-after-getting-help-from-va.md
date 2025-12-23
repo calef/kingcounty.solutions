@@ -68,6 +68,7 @@ feed_content_checksum: ac349e901903ae2d3feafc3b7d223d0e57a138eb
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>Recovery, help and new purpose</h2>
 
@@ -131,7 +132,6 @@ original_source_html: |-
 
   <p>If you or someone you know is in need, please reach out to the <a>Veterans Crisis Line</a>, <a>Dial 988 then Press 1</a>, <a>chat online</a> at VeteransCrisisLine.net/Chat, or text <a>838255</a>. </p>
 rss_guid: https://news.va.gov/?p=143894
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143894/veteran-thriving-after-getting-help-from-va/
 summarized: true
 title: Veteran now thriving after getting help from VA

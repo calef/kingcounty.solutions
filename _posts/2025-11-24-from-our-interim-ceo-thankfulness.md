@@ -5,8 +5,8 @@ feed_content: |-
   <p><a href="https://www.uwkc.org/breaking-the-cycle-of-poverty-news/from-our-interim-ceo-thankfulness/" rel="nofollow">Source</a></p>
 image_ids: []
 location_titles: []
+organization_title: United Way of King County
 published: false
-source: United Way of King County
 source_url: https://www.uwkc.org/breaking-the-cycle-of-poverty-news/from-our-interim-ceo-thankfulness/
 summarized: true
 title: 'From Our Interim CEO: Thankfulness'

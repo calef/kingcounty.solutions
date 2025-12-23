@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Westside Neighbors Shelter
+organization_title: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/latest-news-sewer-line-has-been-fixed/?utm_source=rss&utm_medium=rss&utm_campaign=latest-news-sewer-line-has-been-fixed
 summarized: true
 title: 'LATEST NEWS: Sewer line has been fixed'

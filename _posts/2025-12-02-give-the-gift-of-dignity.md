@@ -63,6 +63,7 @@ image_ids:
 - f55c4aeb9c4bc72fe180a9edf7b7ae2ae9a21baed592a41042329223973105fd
 location_titles:
 - King County
+organization_title: Essentials First
 original_source_html: "<p><a><strong>Your gift today</strong></a><strong> makes a
   direct, life-changing impact for the 28% of Washingtonians who cannot afford basic
   hygiene supplies.</strong></p><p><br></p><p>When families lack essentials like soap,
@@ -119,7 +120,6 @@ original_source_html: "<p><a><strong>Your gift today</strong></a><strong> makes 
   you choose to give, thank you for taking the time to learn about the urgent and
   often invisible work being done to ensure <strong>hygiene access for all</strong>.</p>"
 rss_guid: 6244ce6a3e335a451b9540a9:624caee16c60887eca0ad917:6944658d76815461e3e5654f
-source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/s83f5lpwk72dl4tlzlpucim3iotan1
 summarized: true
 title: Give the gift of dignity

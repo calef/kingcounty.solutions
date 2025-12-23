@@ -5,8 +5,8 @@ feed_content: |-
   <p><a href="https://wellbeing.uw.edu/closed-veterans-day/" rel="nofollow">Source</a></p>
 image_ids: []
 location_titles: []
+organization_title: Husky Health Center
 published: false
-source: Husky Health Center
 source_url: https://wellbeing.uw.edu/closed-veterans-day/
 summarized: true
 title: Closed Veterans Day

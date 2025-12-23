@@ -9,7 +9,7 @@ feed_content_checksum: 904ee0f8b7aa7cd56a026cc15608a8e5a16ca6e0
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/09/comfort-dog-ryan-is-still-a-good-boy/
 summarized: true
 title: Comfort Dog Ryan is Still a Good Boy 

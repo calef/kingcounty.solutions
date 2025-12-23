@@ -11,7 +11,7 @@ feed_content: <div><p paraid="896395732" paraeid="{6a4ef9ca-33ba-45e7-81b2-c3559
 image_ids: []
 location_titles:
 - South King County
-source: Sound Transit
+organization_title: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/construction-update-new-parking-garages-more-sumner-auburn-kent
 summarized: true
 title: 'Construction update: New parking garages and more in Sumner, Auburn, and Kent'

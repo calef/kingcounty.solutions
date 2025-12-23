@@ -8,7 +8,7 @@ feed_content: 'Photo: Artist Fulgencio Lazo with his painting “Mercado de Bici
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/10/22/celebrating-the-completion-of-bus-shelter-photomural-project-recognizing-king-countys-latino-community/
 summarized: true
 title: Celebrating the completion of bus shelter photomural project  recognizing King

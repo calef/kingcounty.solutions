@@ -6,8 +6,8 @@ feed_content: Funding will support World Cup celebrations in every district and 
   celebrate ...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/02/seattle-invests-nearly-1-3m-to-activate-public-spaces-and-bring-communities-together-ahead-of-world-cup/
 summarized: true
 title: Seattle Invests Nearly $1.3M to Activate Public Spaces and Bring Communities

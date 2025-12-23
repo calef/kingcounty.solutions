@@ -6,11 +6,11 @@ feed_content_checksum: 074cb8a8ede0e26fd783b5d67141882178a4b346
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Tukwila
 original_source_html: "<p>The post <a>Get the latest information on the Desimone Levee
   Breach</a> appeared first on <a>City of Tukwila</a>.</p>"
 published: false
 rss_guid: https://www.tukwilawa.gov/?p=48372
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/get-the-latest-information-on-the-desimone-levee-breach/
 summarized: true
 title: Get the latest information on the Desimone Levee Breach

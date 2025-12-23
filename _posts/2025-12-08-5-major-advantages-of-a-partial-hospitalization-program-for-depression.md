@@ -33,7 +33,7 @@ feed_content_checksum: 56e06fca5bf288f14a392894005589fef8fd77f2
 image_ids: []
 location_titles:
 - King County
-source: THIRA Health
+organization_title: THIRA Health
 source_url: https://thirahealth.com/2025/12/08/5-major-advantages-of-a-partial-hospitalization-program-for-depression/
 summarized: true
 title: 5 Major Advantages of a Partial Hospitalization Program for Depression

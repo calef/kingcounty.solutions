@@ -8,8 +8,8 @@ feed_content_checksum: f77a335236c59d92707ffcb3cedf5831faf17802
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 rss_guid: https://kcemergency.com/?p=6698
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/10/shelters-available/
 summarized: true
 title: Shelters available

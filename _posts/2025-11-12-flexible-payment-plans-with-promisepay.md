@@ -9,7 +9,7 @@ feed_content: Paying your utility bill just got easier.&#160;&#160; Seattle Publ
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/12/flexible-payment-plans-with-promisepay/
 summarized: true
 title: Flexible Payment Plans with PromisePay 

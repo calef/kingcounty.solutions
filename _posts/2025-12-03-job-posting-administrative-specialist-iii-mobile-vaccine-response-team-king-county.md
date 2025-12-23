@@ -8,7 +8,7 @@ feed_content: 'The Public Health&#8211;Seattle &#38; King County Immunizations p
 image_ids: []
 location_titles:
 - King County
-source: King County School Health
+organization_title: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/03/job-posting-administrative-specialist-iii-mobile-vaccine-response-team-king-county/
 summarized: true
 title: 'Job Posting: Administrative Specialist III, Mobile Vaccine Response Team (King

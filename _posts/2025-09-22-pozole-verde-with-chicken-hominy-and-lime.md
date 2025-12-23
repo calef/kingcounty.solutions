@@ -22,8 +22,8 @@ feed_content: '<p class="">Recipe adapted from Ana Sainz</p><p class="">Recipe s
   as desired and enjoy. </p>'
 image_ids: []
 location_titles: []
+organization_title: Rainier Valley Food Bank
 published: false
-source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/pozole-verde-with-chicken-hominy-and-lime
 summarized: true
 title: Pozole Verde with Chicken, Hominy and Lime

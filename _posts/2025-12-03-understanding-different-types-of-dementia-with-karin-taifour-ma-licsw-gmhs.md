@@ -85,7 +85,7 @@ image_ids:
 - b678951db69a4cbeab464b508b223108c348665568bf62471ffc1ac42cb832f6
 location_titles:
 - King County
-source: Sound Generations
+organization_title: Sound Generations
 source_url: https://soundgenerations.org/understanding-different-types-of-dementia-with-karin-taifour-ma-licsw-gmhs/
 summarized: true
 title: Understanding Different Types of Dementia with Karin Taifour, MA, LICSW, GMHS

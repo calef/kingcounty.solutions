@@ -52,7 +52,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Transforming Age
+organization_title: Transforming Age
 source_url: https://transformingage.org/blog/mission-matters-thanksgiving-2025/
 summarized: true
 title: 'Mission Matters: Thanksgiving 2025'

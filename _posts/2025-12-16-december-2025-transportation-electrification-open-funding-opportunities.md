@@ -109,6 +109,7 @@ feed_content_checksum: d14e766620aedc18384b4b1522834dd8856b5f47
 image_ids: []
 location_titles:
 - King County
+organization_title: Department of Commerce
 original_source_html: |-
   <p><a>U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program</a></p>
 
@@ -216,7 +217,6 @@ original_source_html: |-
   <p>For a list of previous and future funding opportunities please refer to the <a>EV Council Program Catalog</a>.</p>
 published: false
 rss_guid: https://www.commerce.wa.gov/?p=273069
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/december-2025-transportation-electrification-open-funding-opportunities/
 summarized: true
 title: December 2025 transportation electrification open funding opportunities

@@ -10,12 +10,12 @@ feed_content_checksum: 37969fb524146af11f432eb923fbd1115be8320b
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: 'Blog stats: 1,000 words | 5-minute read 2025 was another major
   year for the Seattle Department of Transportation (SDOT) as we served your everyday
   travel needs while working to maintain and modernize our city streets, sidewalks,
   bridges, and more....'
 rss_guid: https://sdotblog.seattle.gov/?p=37997
-source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/18/sdot-best-of-the-year-2025-highlights/
 summarized: true
 title: Best of the Year | SDOT’s 2025 Highlights!

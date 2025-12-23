@@ -7,12 +7,12 @@ feed_content_checksum: 7e48fec0cdff40101f14ef359d1387ee2cf97bdf
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: A communally-minded, season-inspired Solstice party Seattle,
   WA – Enter a waking dream as King Street Station is transformed in celebration of
   the winter solstice, Dec. 21, the LONGEST NIGHT of 2025. Curated by Vee Hua 華婷婷&amp;#16...
 published: false
 rss_guid: https://artbeat.seattle.gov/?p=12921
-source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/16/surround-yourself-with-community-on-the-longest-night-of-the-year/
 summarized: true
 title: Surround Yourself with Community on the Longest Night of the Year

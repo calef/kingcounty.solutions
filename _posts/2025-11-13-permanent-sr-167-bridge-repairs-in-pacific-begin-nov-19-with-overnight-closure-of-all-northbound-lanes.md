@@ -7,8 +7,8 @@ feed_content: PACIFIC – Permanent repairs are set to begin on the northbound S
   When traffic reopens the next morning, there will be just one northbound lane.
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/permanent-sr-167-bridge-repairs-pacific-begin-nov-19-overnight-closure-all-northbound-lanes
 summarized: true
 title: Permanent SR 167 bridge repairs in Pacific begin Nov. 19 with overnight closure

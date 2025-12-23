@@ -11,7 +11,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: MultiCare
+organization_title: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/11/multicare-named-to-newsweeks-americas-greatest-workplaces-in-health-care-2025/
 summarized: true
 title: MultiCare named to Newsweek’s ‘America’s Greatest Workplaces in Health Care’

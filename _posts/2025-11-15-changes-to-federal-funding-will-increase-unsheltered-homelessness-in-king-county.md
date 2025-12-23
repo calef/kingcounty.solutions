@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: King County Regional Homelessness Authority
+organization_title: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-changes-to-federal-funding-will-increase-unsheltered-homelessness-in-king-county/
 summarized: true
 title: Changes to Federal Funding will Increase Unsheltered Homelessness in King County

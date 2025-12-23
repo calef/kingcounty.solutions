@@ -99,7 +99,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143257/whole-health-team-transforms-veterans-outlook/
 summarized: true
 title: Whole Health care team transforms Veteran’s outlook

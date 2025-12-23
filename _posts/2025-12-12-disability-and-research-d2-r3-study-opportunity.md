@@ -44,8 +44,8 @@ image_ids:
 - 947e79c0d682c0668f2668125c99a0c216ae89bafaa38ab02e207bd35e0ba30a
 location_titles:
 - King County
+organization_title: Institute on Human Development and Disability
 rss_guid: https://ihdd.org/?p=17014
-source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/12/disability-and-research-d2-r3-study-opportunity/
 summarized: true
 title: Disability and Research (D2/R3) Study Opportunity

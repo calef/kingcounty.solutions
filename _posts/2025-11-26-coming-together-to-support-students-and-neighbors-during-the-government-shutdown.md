@@ -9,7 +9,7 @@ feed_content: Over 8,800 food boxes distributed to families at 98 Seattle Public
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://greenspace.seattle.gov/2025/11/coming-together-to-support-students-and-neighbors-during-the-government-shutdown/
 summarized: true
 title: Coming Together to Support Students and Neighbors During the Government Shutdown

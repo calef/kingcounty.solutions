@@ -10,7 +10,7 @@ feed_content: Paola Fernandez joined the Human Services Department&#8217;s Aging
 image_ids: []
 location_titles:
 - King County
-source: Seattle Human Services Department
+organization_title: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/25/hsd-employee-spotlight-paola-fernandez/
 summarized: true
 title: HSD Employee Spotlight—Paola Fernandez

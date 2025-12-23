@@ -73,6 +73,7 @@ feed_content: |-
 feed_content_checksum: 0672a1a71233b72addec92818c9d1b0664583928
 image_ids: []
 location_titles: []
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <p>VA knows that excellence in nursing is critical to the delivery of high-quality health care to our Veterans, so it’s unsurprising that we should find Cardiology Care Coordinator Ingra Wesbey, RN, elevating the standard of care each day at the Milwaukee VA Medical Center (VAMC). A recipient of the <a>DAISY Award</a> this past summer, Nurse Wesbey was nominated due to her continuous compassion, clinical excellence, and dedication to her patients. Read on to learn about Nurse Wesbey’s nursing journey and how you can join her in having a positive impact on the lives of those who served. </p>
 
@@ -145,7 +146,6 @@ original_source_html: |-
   <p>If you’re All About Veterans like Nurse Wesbey, consider a rewarding career at VA. Read more of Nurse Wesbey’s interview on <a>VA Careers</a>.  </p>
 published: false
 rss_guid: https://news.va.gov/?p=143981
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143981/cardiology-care-with-heart-meet-a-va-nurse/
 summarized: true
 title: 'Cardiology care with heart: Meet a VA nurse'

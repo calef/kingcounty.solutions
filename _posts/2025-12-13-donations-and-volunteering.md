@@ -11,8 +11,8 @@ feed_content_checksum: e7a094549f6033da025e99e4d20da975ceff7897
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 rss_guid: https://kcemergency.com/?p=6848
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/12/donations-and-volunteering/
 summarized: true
 title: Donations and Volunteering

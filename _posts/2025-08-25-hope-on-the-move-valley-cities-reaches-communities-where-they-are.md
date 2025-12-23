@@ -21,7 +21,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Valley Cities Behavioral Health Care
+organization_title: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/hope-on-the-move-valley-cities-reaches-communities-where-they-are/
 summarized: true
 title: 'Hope on the move: Valley Cities reaches communities where they are'

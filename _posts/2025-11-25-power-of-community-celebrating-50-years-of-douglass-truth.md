@@ -128,8 +128,8 @@ feed_content: |-
   <p></p>
 image_ids: []
 location_titles: []
+organization_title: Homework Help
 published: false
-source: Homework Help
 source_url: https://blog.spl.org/2025/11/25/power-of-community-celebrating-50-years-of-douglass-truth/
 summarized: true
 title: 'Power of Community: Celebrating 50 Years of “Douglass-Truth”'

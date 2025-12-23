@@ -48,7 +48,7 @@ class ImageExtractorUnitTest < Minitest::Test
   end
 
   def test_ensure_image_doc_creates_front_matter
-    frontmatter = { 'title' => 'Post', 'source' => 'Test', 'date' => '2025-01-01' }
+    frontmatter = { 'title' => 'Post', 'organization_title' => 'Test', 'date' => '2025-01-01' }
     checksum = 'deadbeef'
     filename = 'deadbeef.webp'
     original_url = 'https://example.com/img.png'
@@ -60,7 +60,7 @@ class ImageExtractorUnitTest < Minitest::Test
     assert_match(%r{/#{Regexp.escape(filename)}\z}, doc.front_matter['image_url'])
     assert_equal original_url, doc.front_matter['source_url']
     assert_equal 'Alt', doc.front_matter['title']
-    assert_equal frontmatter['source'], doc.front_matter['organization_title']
+    assert_equal frontmatter['organization_title'], doc.front_matter['organization_title']
   end
 
   def test_run_skips_unsummarized_posts
@@ -68,7 +68,7 @@ class ImageExtractorUnitTest < Minitest::Test
       ---
       title: Unsummarized Post
       date: 2025-01-01
-      source: Test
+      organization_title: Test
       source_url: https://example.com/unsummarized
       original_source_html: '![](https://example.com/image.jpg)'
       summarized: false

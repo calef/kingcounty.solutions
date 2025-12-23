@@ -71,7 +71,7 @@ image_ids:
 - fdeef3207d36ffb4c16b09e078eba32db9a771f854d378087f13733f283346b4
 location_titles:
 - King County
-source: Essentials First
+organization_title: Essentials First
 source_url: https://www.essentialsfirst.org/blog/budget
 summarized: true
 title: 'ACTION ALERT: Tell King County to Fund Hygiene Access for All!'

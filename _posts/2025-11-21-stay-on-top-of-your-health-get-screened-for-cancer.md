@@ -67,7 +67,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143364/stay-on-top-of-health-get-screened-for-cancer/
 summarized: true
 title: 'Stay on top of your health: Get screened for cancer'

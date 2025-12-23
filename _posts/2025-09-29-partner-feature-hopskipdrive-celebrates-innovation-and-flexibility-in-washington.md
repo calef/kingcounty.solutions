@@ -7,7 +7,7 @@ feed_content: Washington state recently passed  SB 5009 , a new law that moderni
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/partner-feature-hopskipdrive-celebrates-innovation-and-flexibility-in-washington
 summarized: true
 title: 'partner feature: hopskipdrive celebrates innovation and flexibility in washington'

@@ -23,7 +23,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Vibrant Emotional Health
+organization_title: Vibrant Emotional Health
 source_url: https://www.vibrant.org/a-simple-question-can-help-save-a-life/
 summarized: true
 title: A Simple Question Can Help Save a Life

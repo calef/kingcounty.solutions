@@ -8,13 +8,13 @@ feed_content_checksum: 5841d81e7e0785e569e12e6ca2e997dab30fb655
 image_ids: []
 location_titles:
 - King County
+organization_title: Multi-Service Center
 original_source_html: 2025 has been a year full of opportunities for our organization
   to show up for our community in ways we could never imagine. Multi-Service Center,
   even despite the barriers, twists, and turns continues to show up in service to
   others. It was a year for MSC to continue our strategies toward shifting into what  [...]
 published: false
 rss_guid: https://mschelps.org/?p=77055
-source: Multi-Service Center
 source_url: https://mschelps.org/thank-you-for-an-incredible-year/
 summarized: true
 title: Thank you for an incredible year

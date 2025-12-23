@@ -11,8 +11,8 @@ feed_content: |-
   </div></div></div>
 image_ids: []
 location_titles: []
+organization_title: City of Medina
 published: false
-source: City of Medina
 source_url: https://www.medina-wa.gov/developmentservices/page/critical-areas-ordinance-update-0
 summarized: true
 title: Critical Areas Ordinance Update

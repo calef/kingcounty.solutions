@@ -35,8 +35,8 @@ feed_content: |-
   | Thomas Zackuse | Heart Sun • Nov 23, 2025 • 07:00 PM |
 image_ids: []
 location_titles: []
+organization_title: Snoqualmie Indian Tribe
 published: false
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/supplemental-ticket-distribution-for-q4-climate-pledge-arena-concert-events/
 summarized: true
 title: Supplemental Ticket Distribution for Q4 Climate Pledge Arena Concert/Events

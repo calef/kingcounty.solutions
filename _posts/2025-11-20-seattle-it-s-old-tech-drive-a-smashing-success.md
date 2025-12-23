@@ -8,8 +8,8 @@ feed_content: Seattle IT’s Old Tech Drive, held in partnership with PCs for Pe
   donate it to...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://techtalk.seattle.gov/2025/11/20/seattle-its-old-tech-drive-a-smashing-success/
 summarized: true
 title: 'Seattle IT’s “Old Tech” Drive: A Smashing Success'

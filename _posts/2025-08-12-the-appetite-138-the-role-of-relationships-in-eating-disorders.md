@@ -609,7 +609,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"47778\" 
 image_ids: []
 location_titles:
 - King County
-source: 'Opal: Food + Body Wisdom'
+organization_title: 'Opal: Food + Body Wisdom'
 source_url: https://opalfoodandbody.com/the-appetite-138-relationships/
 summarized: true
 title: 'The Appetite 138: The Role of Relationships in Eating Disorders'

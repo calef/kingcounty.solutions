@@ -12,7 +12,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: King County Library System
+organization_title: King County Library System
 source_url: https://kcls.org/blogs/post/reimagine-library-spaces/
 summarized: true
 title: Reimagined Library Spaces

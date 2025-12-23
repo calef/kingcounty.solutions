@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: United Way of King County
+organization_title: United Way of King County
 source_url: https://www.uwkc.org/news/why-we-partner-with-united-way/
 summarized: true
 title: Why [We Partner With] United Way?

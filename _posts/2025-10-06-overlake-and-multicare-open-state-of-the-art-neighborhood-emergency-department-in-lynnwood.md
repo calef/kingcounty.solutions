@@ -15,7 +15,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: MultiCare
+organization_title: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/10/overlake-and-multicare-open-state-of-the-art-neighborhood-emergency-department-in-lynnwood/
 summarized: true
 title: Overlake and MultiCare open state-of-the-art neighborhood emergency department

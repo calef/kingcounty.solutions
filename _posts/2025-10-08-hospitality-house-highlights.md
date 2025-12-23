@@ -22,7 +22,7 @@ image_ids:
 - 8b70f3c293019e432bdf1ed6ad4bad87c9141df70cce37b8762701b324f6482a
 location_titles:
 - King County
-source: Hospitality House
+organization_title: Hospitality House
 source_url: https://hospitalityhousesouthking.org/hospitality-house-highlights/
 summarized: true
 title: Hospitality House Highlights

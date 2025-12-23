@@ -135,8 +135,8 @@ feed_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <heade
   have Successfully Subscribed!</h2> </div> </div> </div> </div>'
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-16-2025/
 summarized: true
 title: City Manager Report – October 16, 2025

@@ -9,7 +9,7 @@ feed_content: This annual tradition returns to Green Lake on Saturday, December 
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/26/seattle-shines-with-the-annual-2025-pathway-of-lights-at-green-lake-park/
 summarized: true
 title: Seattle Shines with the Annual 2025 Pathway of Lights at Green Lake Park 

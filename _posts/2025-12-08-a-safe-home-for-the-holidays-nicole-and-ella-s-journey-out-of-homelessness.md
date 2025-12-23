@@ -35,7 +35,7 @@ feed_content_checksum: 815fbfb1566a69c1fd71a1e0e28a6cd621849ff8
 image_ids: []
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/a-safe-home-for-the-holidays-nicole-and-ellas-journey-out-of-homelessness
 summarized: true
 title: 'a safe home for the holidays: nicole and ella’s journey out of homelessness'

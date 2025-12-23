@@ -71,7 +71,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143246/adaptive-sports-healing-in-motion/
 summarized: true
 title: 'Adaptive sports: Healing in motion'

@@ -44,7 +44,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Refugee Women's Alliance
+organization_title: Refugee Women's Alliance
 source_url: https://www.rewa.org/snap-cuts/?utm_source=rss&utm_medium=rss&utm_campaign=snap-cuts
 summarized: true
 title: How SNAP Cuts Will Harm Refugee and Immigrant Communities Across Washington

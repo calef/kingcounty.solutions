@@ -24,7 +24,7 @@ feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Locati
 image_ids: []
 location_titles:
 - Vashon
-source: Sound Generations
+organization_title: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-help-make-a-difference-in-vashon/
 summarized: true
 title: 'Meals on Wheels: Pack and Deliver Meals in Vashon!'

@@ -77,7 +77,7 @@ image_ids:
 - 34a9ecd566e623cf6581f456034d1a644326745b861352243937b7b1792c7823
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-6-24-25
 summarized: true
 title: 'Council Roundup: Council approves middle housing regulations'

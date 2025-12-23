@@ -283,8 +283,8 @@ feed_content: |-
   <p>The post <a href="https://www.residencexii.org/how-pass-drug-test/">How to Pass a Drug Test?</a> appeared first on <a href="https://www.residencexii.org">Residence XII</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Residence XII
 published: false
-source: Residence XII
 source_url: https://www.residencexii.org/how-pass-drug-test/
 summarized: true
 title: How to Pass a Drug Test?

@@ -88,7 +88,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: YouthCare
+organization_title: YouthCare
 source_url: https://youthcare.org/blog/connections-october-2025/
 summarized: true
 title: CONNECTIONS – October, 2025

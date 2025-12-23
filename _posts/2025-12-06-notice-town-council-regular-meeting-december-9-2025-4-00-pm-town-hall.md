@@ -20,8 +20,8 @@ feed_content: |-
   <p>Mayor Katy Kinney Harris</p>
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/12/notice-town-council-regular-meeting-december-9-2025-400-pm-town-hall/
 summarized: true
 title: 'NOTICE: Town Council Regular Meeting – December 9, 2025: 4:00 PM/ Town Hall'

@@ -48,7 +48,7 @@ feed_content: '<p class="">Housing justice advocate, Bill Block, was a force for
 image_ids: []
 location_titles:
 - King County
-source: Rainier Valley Food Bank
+organization_title: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/honoring-the-legacy-of-bill-block
 summarized: true
 title: Honoring the Legacy of Bill Block&nbsp;

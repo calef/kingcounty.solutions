@@ -9,9 +9,9 @@ feed_content_checksum: '00281e6b47fa3233c076347cc2a42df10c252840'
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 published: false
 rss_guid: https://kcemergency.com/2025/12/13/cedar-river-water-and-sewer-district-boil-water-advisory-lifted/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/13/cedar-river-water-and-sewer-district-boil-water-advisory-lifted/
 summarized: true
 title: ALERT King County Message – Cedar River Water and Sewer District lifts boil

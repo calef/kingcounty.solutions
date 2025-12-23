@@ -211,7 +211,7 @@ feed_content: "<div id=\"preheader\" style=\"color: transparent; display: none; 
 image_ids: []
 location_titles:
 - King County
-source: Jubilee Women's Center
+organization_title: Jubilee Women's Center
 source_url: https://myemail.constantcontact.com/Three-Ways-to-Share-Holiday-Warmth.html?soid=1116358109063&aid=0ZF8Ets-8gM#new_tab
 summarized: true
 title: Ways to Help this Holiday Season

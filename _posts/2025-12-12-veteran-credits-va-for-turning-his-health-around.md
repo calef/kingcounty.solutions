@@ -96,8 +96,8 @@ feed_content_checksum: 7b00ad7045162c03009b3e7960cd6321037715a7
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 rss_guid: https://news.va.gov/?p=143771
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143771/veteran-credits-va-turning-his-health-around/
 summarized: true
 title: Veteran credits VA for turning his health around

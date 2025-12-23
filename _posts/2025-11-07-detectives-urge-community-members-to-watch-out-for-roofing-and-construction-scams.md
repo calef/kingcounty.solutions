@@ -9,7 +9,7 @@ feed_content: Seattle police detectives urge community members to be wary of fra
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/07/detectives-urge-community-members-to-watch-out-for-roofing-and-construction-scams/
 summarized: true
 title: Detectives Urge Community Members to Watch Out for Roofing and Construction

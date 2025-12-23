@@ -8,9 +8,9 @@ feed_content_checksum: b132bd5a607160496aaee386ce945f6ef7756bbf
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44669
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/14/detectives-investigate-fatal-hit-and-run-in-beacon-hill/
 summarized: true
 title: Detectives Investigate Fatal Hit-and-Run in Beacon Hill

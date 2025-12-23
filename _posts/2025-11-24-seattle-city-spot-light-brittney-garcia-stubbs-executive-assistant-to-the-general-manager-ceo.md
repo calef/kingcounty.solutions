@@ -6,8 +6,8 @@ feed_content: 'The Basics Division: Office of the General Manager How long have 
   the basics like sche...'
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://powerlines.seattle.gov/2025/11/24/seattle-city-spotlight-brittney-garcia-stubbs-executive-assistant-to-the-general-manager-ceo/
 summarized: true
 title: 'Seattle City (spot)Light: Brittney Garcia Stubbs, Executive Assistant to the

@@ -6,8 +6,8 @@ feed_content: |-
   The post [Notice- Meeting Date Change](https://www.vrfa.org/2025/11/notice-meeting-date-change/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
 image_ids: []
 location_titles: []
+organization_title: Valley Regional Fire Authority
 published: false
-source: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/11/notice-meeting-date-change/
 summarized: true
 title: Notice- Meeting Date Change

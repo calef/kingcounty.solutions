@@ -187,8 +187,8 @@ feed_content: "<p>Surreal stories, character studies, family sagas and more awai
   soul. (fantasy) </p>\r\n\r\n\r\n\r\n<p><em>~ posted by Andrea G.</em></p>"
 image_ids: []
 location_titles: []
+organization_title: Homework Help
 published: false
-source: Homework Help
 source_url: https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/
 summarized: true
 title: New Fiction Roundup, November 2025

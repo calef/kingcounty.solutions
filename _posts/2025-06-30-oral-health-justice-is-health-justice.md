@@ -9,7 +9,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Neighborhood House
+organization_title: Neighborhood House
 source_url: https://nhwa.org/2025/06/30/oral-health-justice-is-health-justice/
 summarized: true
 title: Oral Health Justice is Health Justice

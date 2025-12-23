@@ -15,7 +15,7 @@ feed_content: "It’s been a big month for our team at ELAP.\n\nWe recently rece
 image_ids: []
 location_titles:
 - King County
-source: Eastside Legal Assistance Program
+organization_title: Eastside Legal Assistance Program
 source_url: https://elap.org/award-winning-work/?utm_source=rss&utm_medium=rss&utm_campaign=award-winning-work
 summarized: true
 title: Award-winning work

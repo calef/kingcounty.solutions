@@ -9,6 +9,7 @@ feed_content_checksum: 72dede4ac444533e14eae4a8d85e9c08d4d4d2e2
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 original_source_html: 'Evacuation alerts can be overwhelming to receive. This is why
   King County uses the Ready, Set, Go framework in order to make our alerts clear.
   Level 1 READY: Possible evacuation in your area Level 1 alerts are sent to make
@@ -16,7 +17,6 @@ original_source_html: 'Evacuation alerts can be overwhelming to receive. This is
   preparing […]'
 published: false
 rss_guid: https://kcemergency.com/?p=7265
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/20/ready-set-go-what-evacuation-alerts-in-king-county-mean/
 summarized: true
 title: Ready, Set, Go – What evacuation alerts in King County mean

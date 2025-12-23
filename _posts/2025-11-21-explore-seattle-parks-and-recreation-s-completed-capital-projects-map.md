@@ -9,7 +9,7 @@ feed_content: Seattle Parks and Recreation (SPR) is excited to share our Cycle 2
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/21/explore-seattle-parks-and-recreations-completed-capital-projects-map/
 summarized: true
 title: Explore Seattle Parks and Recreation’s Completed Capital Projects Map 

@@ -7,12 +7,12 @@ feed_content_checksum: 59ae2598b4262ed6d807510b5248816a7c2b9c19
 image_ids: []
 location_titles:
 - Black Diamond
+organization_title: City of Black Diamond
 original_source_html: "<div>\n  \n      \n    <span>01/06/2026 - 6:00pm</span>\n      </div>\n\n<div>\n
   \ \n      \n    <p>For Planning Commission Meeting Agendas please <a>CLICK HERE.</a></p>\n
   \     </div>"
 published: false
 rss_guid: 27541 at https://www.blackdiamondwa.gov
-source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27541
 summarized: true
 title: Planning Commission Meeting

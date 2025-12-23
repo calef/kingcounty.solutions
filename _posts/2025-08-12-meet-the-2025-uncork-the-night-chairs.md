@@ -125,7 +125,7 @@ image_ids:
 - 119c087614e953e9a28a965bd4dc6d9f4fae9abda6926df4c0a7729ceb999af6
 location_titles:
 - King County
-source: Bellevue LifeSpring
+organization_title: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/?utm_source=rss&utm_medium=rss&utm_campaign=2025-uncork-the-night-chairs
 summarized: true
 title: Meet the 2025 Uncork the Night Chairs

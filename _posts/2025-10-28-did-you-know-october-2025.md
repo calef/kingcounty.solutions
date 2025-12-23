@@ -60,7 +60,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: El Centro de la Raza
+organization_title: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/did-you-know-october-2025/?utm_source=rss&utm_medium=rss&utm_campaign=did-you-know-october-2025
 summarized: true
 title: DID YOU KNOW? OCTOBER 2025

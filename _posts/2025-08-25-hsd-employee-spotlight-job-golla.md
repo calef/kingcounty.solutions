@@ -10,7 +10,7 @@ feed_content: Job Golla (he/him/his) is an intern in the Human Services Departme
 image_ids: []
 location_titles:
 - King County
-source: Seattle Human Services Department
+organization_title: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/08/25/hsd-employee-spotlight-job-golla/
 summarized: true
 title: HSD Employee Spotlight—Job Golla

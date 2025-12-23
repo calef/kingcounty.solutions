@@ -16,8 +16,8 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/06/seattles-ne
   not just on recycling, [&#8230;]'
 image_ids: []
 location_titles: []
+organization_title: Seattle Public Utilities
 published: false
-source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/06/seattles-new-waste-metrics-measuring-what-matters-most/
 summarized: true
 title: 'Seattle’s New Waste Metrics: Measuring What Matters Most'

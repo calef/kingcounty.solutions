@@ -7,6 +7,7 @@ feed_content_checksum: 7c7649364d5ff3562366a3c1a07c2773d1723609
 image_ids: []
 location_titles:
 - King County
+organization_title: Washington State Department of Transportation
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"
   content=\"SEATTLE – It’s better than a one-horse open sleigh, so there will be a
@@ -183,7 +184,6 @@ original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"
   or online using the&nbsp;<a href="
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/projected-700000-sailing-through-winter-waterland-aboard-state-ferries-during-final-13-days-year
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/projected-700000-sailing-through-winter-waterland-aboard-state-ferries-during-final-13-days-year
 summarized: true
 title: Projected 700,000 sailing through a winter waterland aboard state ferries during

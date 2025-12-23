@@ -12,8 +12,8 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   a team of four in developing and implementing strategies and [&#8230;]'
 image_ids: []
 location_titles: []
+organization_title: City Light Bill Assistance Programs
 published: false
-source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/09/29/seattle-city-spotlight-kristina-pham-enterprise-organizational-change-manager/
 summarized: true
 title: 'Seattle City (spot)Light: Kristina Pham, Enterprise Organizational Change

@@ -9,7 +9,7 @@ feed_content: The Center for Digital Government (CDG) awarded the City of Seattl
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://techtalk.seattle.gov/2025/11/18/seattle-earns-national-recognition-in-annual-digital-cities-awards/
 summarized: true
 title: Seattle Earns National Recognition in Annual Digital Cities Awards 

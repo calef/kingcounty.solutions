@@ -143,8 +143,8 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   IHDD</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Institute on Human Development and Disability
 published: false
-source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/02/ihdd-student-researcher-named-2026-rhodes-scholar/
 summarized: true
 title: IHDD Student Researcher Named 2026 Rhodes Scholar

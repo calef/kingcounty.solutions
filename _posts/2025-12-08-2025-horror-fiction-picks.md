@@ -9,8 +9,8 @@ feed_content: |-
 feed_content_checksum: c652df3b80e2a81679f04abadd2ad50343848464
 image_ids: []
 location_titles: []
+organization_title: The Seattle Public Library
 published: false
-source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/08/2025-horror-fiction-picks/
 summarized: true
 title: 2025 Horror Fiction Picks

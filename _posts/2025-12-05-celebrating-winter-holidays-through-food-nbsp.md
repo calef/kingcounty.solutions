@@ -96,7 +96,7 @@ feed_content: '<p class="">We believe that food brings people together across cu
 image_ids: []
 location_titles:
 - King County
-source: Rainier Valley Food Bank
+organization_title: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/celebrating-winter-holidays-through-food
 summarized: true
 title: Celebrating Winter Holidays through Food&nbsp;

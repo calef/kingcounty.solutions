@@ -8,13 +8,13 @@ feed_content_checksum: ab7d3ed0ef6c0acacf26d9ebae3ee0ecd44fd278
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: The Neighborhood Matching Fund (NMF) is currently seeking 7-9
   dedicated individuals to join our Community Review Panel for the 2026 grant cycle.
   As a community reviewer, you will play a crucial role in making funding recommendations
   that directly impac...
 published: false
 rss_guid: https://frontporch.seattle.gov/?p=10695
-source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/16/join-the-2026-neighborhood-matching-fund-community-review-panel/
 summarized: true
 title: Join the 2026 Neighborhood Matching Fund Community Review Panel

@@ -20,8 +20,8 @@ feed_content: |-
   <p>We welcome Whatcom County locals, Chuckanut Drive day-trippers, and art enthusiasts alike to come view the Francis Place mural.</p>The post <a href="https://ccsww.org/francis-place-mural-celebrates-hope-community-and-legacy/">Francis Place Mural Celebrates Hope, Community, and Legacy </a> first appeared on <a href="https://ccsww.org">Catholic Community Services of Western Washington</a>.
 image_ids: []
 location_titles: []
+organization_title: Catholic Community Services of Western Washington
 published: false
-source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/francis-place-mural-celebrates-hope-community-and-legacy/?utm_source=rss&utm_medium=rss&utm_campaign=francis-place-mural-celebrates-hope-community-and-legacy
 summarized: true
 title: Francis Place Mural Celebrates Hope, Community, and Legacy 

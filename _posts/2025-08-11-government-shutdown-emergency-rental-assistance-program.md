@@ -10,7 +10,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Community Roots Housing
+organization_title: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/08/emergency-rental-assistance/
 summarized: true
 title: Government Shutdown Emergency Rental Assistance program

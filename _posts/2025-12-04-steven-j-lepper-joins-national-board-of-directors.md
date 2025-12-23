@@ -56,7 +56,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Operation Homefront - Critical Financial Assistance Program
+organization_title: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/steven-j-lepper-joins-national-board-of-directors/
 summarized: true
 title: Steven J. Lepper Joins National Board of Directors

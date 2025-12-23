@@ -9,7 +9,7 @@ feed_content: 'Blog stats: 250 words &#124; 2-minute read Seattle, get ready! So
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/03/federal-way-link-extension/
 summarized: true
 title: 3 new light rail stations will connect you to Seattle starting this weekend!

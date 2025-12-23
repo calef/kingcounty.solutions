@@ -61,8 +61,8 @@ feed_content_checksum: 729898376a8e86dc5f39a588f64da9d1a84c6d10
 image_ids: []
 location_titles:
 - King County
+organization_title: Eastside Legal Assistance Program
 rss_guid: https://elap.org/?p=16648
-source: Eastside Legal Assistance Program
 source_url: https://elap.org/meet-our-winners/
 summarized: true
 title: Meet our winners

@@ -32,7 +32,7 @@ feed_content: "<p class=\"\">When Kelly arrived at&nbsp;Mary’s Place&nbsp;with
 image_ids: []
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/from-crisis-to-stability-kellys-journey-to-safety-and-hope-at-marys-place
 summarized: true
 title: kelly’s journey to safety and hope at mary’s place

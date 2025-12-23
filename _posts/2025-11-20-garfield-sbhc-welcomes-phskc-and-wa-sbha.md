@@ -11,7 +11,7 @@ feed_content: On November 20, the Garfield School-Based Health Center (SBHC) tea
 image_ids: []
 location_titles:
 - King County
-source: King County School Health
+organization_title: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/11/20/garfield-sbhc-welcomes-phskc-and-wa-sbha/
 summarized: true
 title: Garfield SBHC Welcomes PHSKC and WA SBHA

@@ -7,8 +7,8 @@ feed_content: |-
   <p><a href="https://camfed.org/2025-highlights-girls-education-africa/" rel="nofollow">Source</a></p>
 image_ids: []
 location_titles: []
+organization_title: CAMFED - Campaign for Female Education
 published: false
-source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/2025-highlights-girls-education-africa/
 summarized: true
 title: CAMFED 2025 Highlights

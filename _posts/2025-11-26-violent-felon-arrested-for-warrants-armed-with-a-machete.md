@@ -9,8 +9,8 @@ feed_content: Seattle police officers arrested a 30-year-old violent felon armed
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/26/violent-felon-arrested-for-warrants-armed-with-a-machete/
 summarized: true
 title: Violent Felon Arrested for Warrants, Armed With a Machete

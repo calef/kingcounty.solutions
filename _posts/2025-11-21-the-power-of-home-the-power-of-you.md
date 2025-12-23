@@ -14,8 +14,8 @@ feed_content: |-
   <p>The post <a href="https://www.mercyhousing.org/2025/11/the-power-of-home-the-power-of-you/">The Power of Home. The Power of You.</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Mercy Housing
 published: false
-source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/the-power-of-home-the-power-of-you/
 summarized: true
 title: The Power of Home. The Power of You.

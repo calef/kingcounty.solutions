@@ -10,7 +10,7 @@ feed_content: Increased Need for Food Support During the Government Shutdown The
 image_ids: []
 location_titles:
 - King County
-source: Rainier Foothills Wellness Foundation
+organization_title: Rainier Foothills Wellness Foundation
 source_url: https://rfwellnessfoundation.org/blog/community-in-crisis/
 summarized: true
 title: Community in Crisis

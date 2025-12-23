@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Juma Ventures
+organization_title: Juma Ventures
 source_url: https://www.juma.org/2025/11/19/a-path-to-leadership-hayleys-juma-journey/
 summarized: true
 title: 'A Path to Leadership: Hayley’s Juma Journey'

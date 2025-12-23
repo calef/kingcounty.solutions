@@ -8,7 +8,7 @@ feed_content: Sue Thacker is Federal Way Mirror&#8217;s Hometown Hero for Septem
 image_ids: []
 location_titles:
 - King County
-source: Federal Way Senior Center
+organization_title: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/sue-thacker-is-the-mirrors-hometown-hero-for-september/?utm_source=rss&utm_medium=rss&utm_campaign=sue-thacker-is-the-mirrors-hometown-hero-for-september
 summarized: true
 title: Sue Thacker is the Mirror’s Hometown Hero for September

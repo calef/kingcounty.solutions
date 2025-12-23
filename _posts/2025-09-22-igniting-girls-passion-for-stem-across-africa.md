@@ -7,8 +7,8 @@ feed_content: |-
   <p><a href="https://camfed.org/stem-camps/" rel="nofollow">Source</a></p>
 image_ids: []
 location_titles: []
+organization_title: CAMFED - Campaign for Female Education
 published: false
-source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/stem-camps/
 summarized: true
 title: Igniting girls’ passion for STEM across Africa

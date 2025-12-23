@@ -5,8 +5,8 @@ feed_content: TACOMA - From 8 a.m. to 7 p.m. Saturday, Dec. 13, Washington State
   the bridge for pothole repiars.
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/tacoma-narrows-bridge-repair-requires-daytime-westbound-lane-closures-saturday-dec-13
 summarized: true
 title: Tacoma Narrows Bridge repair requires daytime westbound lane closures Saturday,

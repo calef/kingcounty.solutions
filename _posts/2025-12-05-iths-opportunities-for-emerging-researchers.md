@@ -108,8 +108,8 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   IHDD</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Institute on Human Development and Disability
 published: false
-source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/05/iths-opportunities-for-emerging-researchers/
 summarized: true
 title: ITHS Opportunities for Emerging Researchers

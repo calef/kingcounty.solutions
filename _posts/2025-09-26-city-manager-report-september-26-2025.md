@@ -11,8 +11,8 @@ feed_content: 'Normandy Park’s Annual Property Tax Levy: What It Means for You
   small piece of that total bill — usually about 10–12% of what you pay each year.'
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-september-26-2025/
 summarized: true
 title: City Manager Report – September 26, 2025

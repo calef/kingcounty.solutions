@@ -9,7 +9,7 @@ feed_content_checksum: c2825c4b7a9b3e6f51ad27a0827f30df00240f7c
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://education.seattle.gov/deel-awards-1-49m-in-community-grants-focused-on-expanding-perinatal-health-programming/
 summarized: true
 title: DEEL Awards $1.49M in Community Grants Focused on Expanding Perinatal Health

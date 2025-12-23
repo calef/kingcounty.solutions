@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: United Way of King County
+organization_title: United Way of King County
 source_url: https://www.uwkc.org/access-to-resources/impending-loss-of-snap-benefits-adds-to-a-distressing-2025/
 summarized: true
 title: Impending Loss of SNAP Benefits Adds to a Distressing 2025

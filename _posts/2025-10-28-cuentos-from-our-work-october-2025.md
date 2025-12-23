@@ -853,7 +853,7 @@ image_ids:
 - c478684c9223cbb2f3e635fee6df4a86c3ec9926f56c460a9ecb5e29103a5839
 location_titles:
 - King County
-source: El Centro de la Raza
+organization_title: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cuentos-from-our-work-october-2025
 summarized: true
 title: 'Cuentos from Our Work: OCTOBER 2025'

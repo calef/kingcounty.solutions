@@ -34,7 +34,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - Eastside
-source: Youth Eastside Services
+organization_title: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/helping-middle-schoolers-find-their-vibe/?utm_source=rss&utm_medium=rss&utm_campaign=helping-middle-schoolers-find-their-vibe
 summarized: true
 title: Helping Middle Schoolers Find Their Vibe

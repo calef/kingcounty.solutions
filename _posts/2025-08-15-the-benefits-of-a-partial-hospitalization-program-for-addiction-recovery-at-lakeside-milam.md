@@ -147,7 +147,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
 image_ids: []
 location_titles:
 - King County
-source: Lakeside-Milam Recovery Centers
+organization_title: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/the-benefits-of-a-partial-hospitalization-program-for-addiction-recovery-at-lakeside-milam/
 summarized: true
 title: The Benefits of a Partial Hospitalization Program for Addiction Recovery at

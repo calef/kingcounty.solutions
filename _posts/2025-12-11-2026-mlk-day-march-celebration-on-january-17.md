@@ -8,9 +8,9 @@ feed_content_checksum: a2519006105ae56f5e9e7bdc1c9ee80fb35f87f0
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 published: false
 rss_guid: https://parkways.seattle.gov/?p=17034
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/11/2026-mlk-day-march-celebration-on-january-17/
 summarized: true
 title: 2026 MLK Day March & Celebration on January 17

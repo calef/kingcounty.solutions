@@ -9,7 +9,7 @@ feed_content: 'Seattle Fire is excited to help support the U.S. Marine Corps’ 
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://fireline.seattle.gov/2025/11/19/seattle-fire-collecting-toys-for-toys-for-tots-on-dec-6/
 summarized: true
 title: Seattle Fire hosting toy collection events on Dec. 6

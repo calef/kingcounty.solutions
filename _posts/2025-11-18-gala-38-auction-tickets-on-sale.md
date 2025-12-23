@@ -12,7 +12,7 @@ feed_content: 'It''s Auction Season! Bid on gifts for the holidays &#38; support
 image_ids: []
 location_titles:
 - King County
-source: Low Income Housing Institute
+organization_title: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/gala-auction-tickets-on-sale
 summarized: true
 title: Gala &#38;  Auction Tickets on Sale!

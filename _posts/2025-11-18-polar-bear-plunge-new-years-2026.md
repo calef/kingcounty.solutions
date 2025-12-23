@@ -6,8 +6,8 @@ feed_content: Jump into the new year with both feet! Every January 1st at 12 noo
   at this FREE ...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/18/polar-bear-plunge-new-years-2026/
 summarized: true
 title: Polar Bear Plunge – New Years 2026!

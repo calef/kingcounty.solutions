@@ -66,7 +66,7 @@ image_ids:
 - 2871eaf1bcd716e13b2482eea47b235182c784b25efee16336eb40fcb14ea712
 location_titles:
 - King County
-source: Refugee Women's Alliance
+organization_title: Refugee Women's Alliance
 source_url: https://www.rewa.org/amazon-support-steam/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-support-steam
 summarized: true
 title: Amazon Supports STEAM

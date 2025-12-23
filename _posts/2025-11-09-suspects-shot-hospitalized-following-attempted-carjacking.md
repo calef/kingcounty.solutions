@@ -6,8 +6,8 @@ feed_content: Following an attempted armed carjacking, Seattle police detectives
   block of 1st Avenue....
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/09/suspects-shot-hospitalized-following-attempted-carjacking/
 summarized: true
 title: Suspects Shot, Hospitalized Following Attempted Carjacking

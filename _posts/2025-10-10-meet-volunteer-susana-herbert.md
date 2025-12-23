@@ -10,8 +10,8 @@ feed_content: |-
   <p>Originally from &hellip;</p></a>
 image_ids: []
 location_titles: []
+organization_title: The Center for Active Living
 published: false
-source: The Center for Active Living
 source_url: https://wscenter.org/meet-volunteer-susana-herbert/
 summarized: true
 title: 'Meet Volunteer: Susana Herbert'

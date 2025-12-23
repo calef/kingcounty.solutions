@@ -59,8 +59,8 @@ image_ids:
 - 64299428cb436295b96d8eb4f2a03634def062fbb96b9dc196cd190181e921c2
 location_titles:
 - King County
+organization_title: Crisis Connections
 rss_guid: https://www.crisisconnections.org/?p=91111
-source: Crisis Connections
 source_url: https://www.crisisconnections.org/washington-211-partners-with-airbnb-org-to-support-displaced-residents-with-free-temporary-housing/
 summarized: true
 title: Washington 211 Partners with Airbnb.org to Support Displaced Residents with

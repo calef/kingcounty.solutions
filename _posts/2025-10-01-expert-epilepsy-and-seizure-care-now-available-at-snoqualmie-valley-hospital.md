@@ -31,7 +31,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - Snoqualmie Valley
-source: Hospital District No. 4 (Snoqualmie Valley Hospital)
+organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/expert-epilepsy-and-seizure-care-now-available-at-snoqualmie-valley-hospital/
 summarized: true
 title: Expert Epilepsy and Seizure Care Now Available at Snoqualmie Valley Hospital

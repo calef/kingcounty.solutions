@@ -5,8 +5,8 @@ feed_content: |-
   <p>The post <a href="https://primarysources.seattle.gov/2025/12/01/december-find-of-the-month-letters-to-lt-stetson/">December Find of the Month: Letters to Lt. Stetson</a> appeared first on <a href="https://primarysources.seattle.gov/">Primary Sources</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://primarysources.seattle.gov/2025/12/01/december-find-of-the-month-letters-to-lt-stetson/
 summarized: true
 title: 'December Find of the Month: Letters to Lt. Stetson'

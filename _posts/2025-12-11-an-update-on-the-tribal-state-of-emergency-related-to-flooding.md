@@ -26,8 +26,8 @@ feed_content_checksum: b0d56b03612b70e3d276d03f6ec5ab1255bd033d
 image_ids: []
 location_titles:
 - King County
+organization_title: Snoqualmie Indian Tribe
 rss_guid: https://snoqualmietribe.us/?p=6891
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/an-update-on-the-tribal-state-of-emergency-related-to-flooding/
 summarized: true
 title: An Update on the Tribal State of Emergency Related to Flooding

@@ -56,8 +56,8 @@ feed_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  at
   Children&#039;s Clinic</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Boyer Children's Clinic
 published: false
-source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/events/golf-tournament-2026/
 summarized: true
 title: "“Swing Fore the Kids”"

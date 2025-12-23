@@ -69,7 +69,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143562/fall-new-career-upcoming-events/
 summarized: true
 title: Fall into a new career at these upcoming events 

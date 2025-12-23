@@ -106,7 +106,7 @@ feed_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm in t
 image_ids: []
 location_titles:
 - King County
-source: Hopelink
+organization_title: Hopelink
 source_url: https://www.hopelink.org/blog/a-heat-pump-keeps-your-home-cool-in-the-summer-and-warm-in-the-winter/
 summarized: true
 title: A Heat Pump Keeps Your Home Cool in the Summer and Warm in the Winter 

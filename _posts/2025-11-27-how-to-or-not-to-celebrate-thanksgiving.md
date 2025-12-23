@@ -97,8 +97,8 @@ feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >
   Intervention Program</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Hunger Intervention Program
 published: false
-source: Hunger Intervention Program
 source_url: https://hungerintervention.org/2025/11/27/how-to-or-not-to-celebrate-thanksgiving/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-or-not-to-celebrate-thanksgiving
 summarized: true
 title: How to (or not to) celebrate Thanksgiving

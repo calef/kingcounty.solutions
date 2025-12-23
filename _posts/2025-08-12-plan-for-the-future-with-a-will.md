@@ -21,7 +21,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Eastside Legal Assistance Program
+organization_title: Eastside Legal Assistance Program
 source_url: https://elap.org/plan-for-the-future-with-a-will/?utm_source=rss&utm_medium=rss&utm_campaign=plan-for-the-future-with-a-will
 summarized: true
 title: Plan for the future with a will

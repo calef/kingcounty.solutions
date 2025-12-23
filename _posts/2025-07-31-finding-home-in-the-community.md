@@ -9,7 +9,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Indian American Community Services
+organization_title: Indian American Community Services
 source_url: https://iacswa.org/finding-home-in-the-community/
 summarized: true
 title: Finding Home in the Community

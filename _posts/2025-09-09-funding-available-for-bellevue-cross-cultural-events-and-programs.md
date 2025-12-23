@@ -46,7 +46,7 @@ image_ids:
 - 64d7a628db61d440e1f1ca0b442a944182ef2ced068c02562dbc317a3c638e1b
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/cross-cultural-rfp-25
 summarized: true
 title: Funding available for Bellevue cross-cultural events and programs

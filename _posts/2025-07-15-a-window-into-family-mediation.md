@@ -34,7 +34,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Dispute Resolution Center of King County
+organization_title: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/family-mediation/
 summarized: true
 title: A Window into Family Mediation

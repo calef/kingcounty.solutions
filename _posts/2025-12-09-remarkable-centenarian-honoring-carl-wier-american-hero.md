@@ -39,8 +39,8 @@ feed_content: |-
 feed_content_checksum: 8c75f5858226f2f6b533ff1a586ee96a5fce0bd5
 image_ids: []
 location_titles: []
+organization_title: Veterans Affairs Pension Program
 published: false
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143715/remarkable-centenarian-honoring-carl-wier/
 summarized: true
 title: 'Remarkable centenarian: Honoring Carl Wier, American hero'

@@ -8,13 +8,13 @@ feed_content_checksum: e71f62f11db5effd0bc9c9de3711d3bba2c8ecc1
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: By Todd Burley  Seattle recently embarked on a renewed effort
   to reduce our carbon emissions and prepare for our changing climate through the
   updated Climate Action Plan. As the third largest City department and manager of
   the majority of public g...
 published: false
 rss_guid: https://parkways.seattle.gov/?p=17054
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/17/driving-into-a-cleaner-future/
 summarized: true
 title: Driving into a Cleaner Future 

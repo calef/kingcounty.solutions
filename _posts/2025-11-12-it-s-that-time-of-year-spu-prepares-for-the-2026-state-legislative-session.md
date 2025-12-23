@@ -6,8 +6,8 @@ feed_content: After a landmark 2025 session, Seattle Public Utilities (SPU) is p
   Beginning...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/12/its-that-time-of-year-spu-prepares-for-the-2026-state-legislative-session/
 summarized: true
 title: 'It’s That Time of Year: SPU Prepares for the 2026 State Legislative Session'

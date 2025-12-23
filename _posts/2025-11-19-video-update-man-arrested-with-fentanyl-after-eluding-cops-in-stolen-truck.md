@@ -6,8 +6,8 @@ feed_content: Seattle police officers arrested a 31-year-old felon for eluding p
   License Plate...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/20/video-update-man-arrested-with-fentanyl-after-eluding-cops-in-stolen-truck/
 summarized: true
 title: 'Video Update: Man Arrested With Fentanyl After Eluding Cops in Stolen Truck'

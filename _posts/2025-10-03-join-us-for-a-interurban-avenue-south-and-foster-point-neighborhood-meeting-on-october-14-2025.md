@@ -12,8 +12,8 @@ feed_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Print_Neighborho
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 image_ids: []
 location_titles: []
+organization_title: City of Tukwila
 published: false
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/join-us-for-a-interurban-avenue-south-and-foster-point-neighborhood-meeting-on-october-14-2205/
 summarized: true
 title: Join us for a Interurban Avenue South and Foster Point neighborhood meeting

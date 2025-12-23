@@ -6,8 +6,8 @@ feed_content: 'Link to full article:  A housing project that''s showing the isla
   true colors, one way or the other | Opinion piece in Kitsap Sun...'
 image_ids: []
 location_titles: []
+organization_title: Low Income Housing Institute
 published: false
-source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/a-community-that-wants-affordable-housing-just-not-here-article-regarding-lihi-s-proposed-dev
 summarized: true
 title: NIMBYism on Bainbridge "A community that wants affordable housing... just not

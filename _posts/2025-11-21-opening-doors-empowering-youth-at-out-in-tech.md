@@ -16,8 +16,8 @@ feed_content: |-
   <p>The post <a href="https://www.vibrant.org/opening-doors-empowering-youth-at-out-in-tech/">Opening Doors: Empowering Youth at Out-in-Tech</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Vibrant Emotional Health
 published: false
-source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/opening-doors-empowering-youth-at-out-in-tech/
 summarized: true
 title: 'Opening Doors: Empowering Youth at Out-in-Tech'

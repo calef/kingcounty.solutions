@@ -34,7 +34,7 @@ image_ids:
 - dbf6eb1c6e20a4db839dfd9be3a5447df7d81f5afc0527d4fda6cbe658f5e104
 location_titles:
 - King County
-source: Hospitality House
+organization_title: Hospitality House
 source_url: https://hospitalityhousesouthking.org/october-2025-donations-needed/
 summarized: true
 title: October 2025 Donations Needed

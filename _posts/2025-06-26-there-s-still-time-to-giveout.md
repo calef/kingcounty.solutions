@@ -7,7 +7,7 @@ feed_content: We were proud to attend Bothell Pride at Moonlight on Main as well
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/there-s-still-time-to-giveout
 summarized: true
 title: 'there''s still time to #GiveOUT'

@@ -12,8 +12,8 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/04/use-water-w
   our drinking water (thanks, atmospheric river!). After a dry summer, we are [&#8230;]'
 image_ids: []
 location_titles: []
+organization_title: Seattle Public Utilities
 published: false
-source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/04/use-water-wisely-this-fall/
 summarized: true
 title: Use Water Wisely This Fall

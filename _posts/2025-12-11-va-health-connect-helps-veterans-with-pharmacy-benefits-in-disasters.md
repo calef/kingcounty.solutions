@@ -72,9 +72,9 @@ feed_content_checksum: 7065a468eb9a8ffbfcc1b6f40ab1214fff8d99b2
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 published: false
 rss_guid: https://news.va.gov/?p=143757
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143757/va-health-connect-pharmacy-benefits-disasters/
 summarized: true
 title: VA Health Connect helps Veterans with pharmacy benefits in disasters

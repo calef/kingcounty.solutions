@@ -63,7 +63,7 @@ image_ids:
 - 4dbd7232d4fb7cf720034a51d9cf7a97f83c9f19ad46182e62257e7fed963d52
 location_titles:
 - King County
-source: Bellevue LifeSpring
+organization_title: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/blooms-bubbles-bling/?utm_source=rss&utm_medium=rss&utm_campaign=blooms-bubbles-bling
 summarized: true
 title: Blooms, bubbles, bling, and giving back!

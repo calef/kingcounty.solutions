@@ -8,13 +8,13 @@ feed_content_checksum: 54a1727512ed3e40ceb5240831254070631f9074
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: The holidays are over, but your Christmas tree doesn’t have
   to end up in the landfill! Seattle Public Utilities customers can compost their
   trees and other holiday greens for free through January 31. Composting your Christmas
   tree is an easy way ...
 published: false
 rss_guid: https://atyourservice.seattle.gov/?p=10001
-source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/12/15/give-your-christmas-tree-a-second-life-compost-it-for-free-this-january/
 summarized: true
 title: 'Give Your Christmas Tree a Second Life: Compost It for Free This January'

@@ -184,8 +184,8 @@ feed_content: |-
   <p><span data-contrast="auto">Art isn’t just what we hang on walls. It’s how communities remember. It’s how people stay alive. It’s how we imagine the world we’re trying to build. May we continue to learn from and support the Indigenous artists who show us how to do that work with courage, beauty, and love.</span><span data-ccp-props="{}"> </span></p>The post <a href="https://www.solid-ground.org/indigenous-art-as-resistance-survival/">Indigenous art as resistance, survival </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
 image_ids: []
 location_titles: []
+organization_title: Solid Ground
 published: false
-source: Solid Ground
 source_url: https://www.solid-ground.org/indigenous-art-as-resistance-survival/
 summarized: true
 title: Indigenous art as resistance, survival 

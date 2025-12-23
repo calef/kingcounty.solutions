@@ -9,7 +9,7 @@ feed_content: Seattle Department of Neighborhoods (DON) is excited to announce a
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/07/seattle-department-of-neighborhoods-partners-with-seattle-it-to-support-technology-matching-fund/
 summarized: true
 title: Seattle Department of Neighborhoods Partners with Seattle IT to support Technology

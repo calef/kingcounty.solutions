@@ -8,9 +8,9 @@ feed_content: |-
 feed_content_checksum: 56c634c684fab44b4d7b39f2f4916ad8cf27ac36
 image_ids: []
 location_titles: []
+organization_title: Snoqualmie Indian Tribe
 published: false
 rss_guid: https://snoqualmietribe.us/?p=6884
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/celebrating-highlights-from-the-fall-of-2025/
 summarized: true
 title: Celebrating Highlights from the Fall of 2025

@@ -69,6 +69,7 @@ image_ids:
 - f41a1dd64b5c718238574757187cab00c0039c9fc3ccda2fb2c7330ab4b6e022
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>A bond forged in service</h2>
 
@@ -132,7 +133,6 @@ original_source_html: |-
 
   <p>It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to <a>get started</a>.</p>
 rss_guid: https://news.va.gov/?p=144049
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144049/veteran-and-wounded-dog-found-healing-together/
 summarized: true
 title: Veteran and wounded dog found healing together

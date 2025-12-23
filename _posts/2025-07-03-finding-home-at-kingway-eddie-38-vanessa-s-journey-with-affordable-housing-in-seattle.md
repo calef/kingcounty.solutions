@@ -7,7 +7,7 @@ feed_content: Building a Life at Kingway Eddie and Vanessa have called Kingway A
 image_ids: []
 location_titles:
 - King County
-source: Bellwether Housing
+organization_title: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/finding-home-at-kingway-eddie-vanessa-s-journey-with-affordable-housing-in-seattle
 summarized: true
 title: 'Finding Home at Kingway: Eddie &#38; Vanessa’s Journey with Affordable Housing

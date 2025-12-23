@@ -10,7 +10,7 @@ feed_content: "<p>Want a safe, reliable way to move around the region? Try takin
 image_ids: []
 location_titles:
 - King County
-source: Sound Transit
+organization_title: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/take-transit-to-game
 summarized: true
 title: 'Take transit to the game! '

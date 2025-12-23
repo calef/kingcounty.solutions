@@ -333,7 +333,7 @@ feed_content: "<div class=\"shell\" lang=\"en-US\" dir=\"ltr\" style=\"backgroun
 image_ids: []
 location_titles:
 - King County
-source: Jubilee Women's Center
+organization_title: Jubilee Women's Center
 source_url: https://conta.cc/42T8NtK#new_tab
 summarized: true
 title: Fall 2025 Newsletter

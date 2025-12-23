@@ -7,7 +7,7 @@ feed_content: '<p>The post <a href="https://www.kcsarc.org/en/sarahs-blog-the-la
 image_ids: []
 location_titles:
 - King County
-source: King County Sexual Assault Resource Center
+organization_title: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/sarahs-blog-the-language-of-being-believed/
 summarized: true
 title: 'Sarah’s Blog: The Language of Being Believed'

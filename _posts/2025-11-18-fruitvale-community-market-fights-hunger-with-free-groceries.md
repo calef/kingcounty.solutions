@@ -9,7 +9,7 @@ feed_content_checksum: db2a265c434fa3eadfbd7b7ae548efcbb62af4ce
 image_ids: []
 location_titles:
 - King County
-source: Northwest Harvest
+organization_title: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/fruitvale-community-market-fights-hunger-with-free-groceries/
 summarized: true
 title: Fruitvale Community Market fights hunger with free groceries

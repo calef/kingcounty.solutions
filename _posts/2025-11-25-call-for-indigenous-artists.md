@@ -6,8 +6,8 @@ feed_content: |-
   <p>&nbsp;</p>
 image_ids: []
 location_titles: []
+organization_title: Snoqualmie Indian Tribe
 published: false
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/call-for-indigenous-artists/
 summarized: true
 title: Call For Indigenous Artists

@@ -93,8 +93,8 @@ image_ids:
 - b97e554f56e493697fc9a4432f728b0fa02bf13fcc8da6b79b75fe3ecb586d24
 location_titles:
 - Bellevue
+organization_title: Bellevue LifeSpring
 rss_guid: https://www.bellevuelifespring.org/?p=5573
-source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/emergency-assistance/hunger-in-bellevue-what-every-neighbor-should-know/
 summarized: true
 title: 'Childhood Hunger in Bellevue: What Every Neighbor Should Know'

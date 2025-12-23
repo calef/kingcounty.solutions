@@ -8,9 +8,9 @@ feed_content_checksum: 22622a56817d1e0e29efb1ff628a7732507737f1
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 published: false
 rss_guid: https://harrell.seattle.gov/?p=1614
-source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/12/11/mayor-harrell-signs-new-police-contact-to-permanently-expand-care-department-strengthen-accountability-and-improve-recruitment/
 summarized: true
 title: Mayor Harrell Signs New Police Contact to Permanently Expand CARE Department,

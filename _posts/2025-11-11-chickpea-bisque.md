@@ -44,8 +44,8 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   drain and sprinkle with salt, zest, and pepper. </p>'
 image_ids: []
 location_titles: []
+organization_title: Rainier Valley Food Bank
 published: false
-source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/chickpea-bisque
 summarized: true
 title: Chickpea Bisque

@@ -10,12 +10,12 @@ feed_content_checksum: 4cad79740ab2bf5d7fcab9395684f15e4cf44d6a
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: 'Loyal Heights Community Center still has space in several winter
   classes and programs! Don’t miss your chance—check out the available options and
   sign up today. For Kids and Families Pre-Ballet (Ages 6–8)Barcode: #84785Mondays,
   1/5–2/9, 4–4:45pmCost: $...'
 rss_guid: https://parkways.seattle.gov/?p=17071
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/22/beat-the-winter-blues-open-spots-at-loyal-heights/
 summarized: true
 title: 'Beat the Winter Blues: Open Spots at Loyal Heights!'

@@ -6,8 +6,8 @@ feed_content: Seattle police detectives are investigating a homicide this mornin
   South. There, police...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/01/detectives-investigating-homicide-at-hookah-lounge/
 summarized: true
 title: Detectives Investigating Homicide at Hookah Lounge

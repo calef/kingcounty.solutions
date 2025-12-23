@@ -8,8 +8,8 @@ feed_content: |-
   <p><span><span><strong><span>Notice:</span></strong></span></span></p></div></div></div>
 image_ids: []
 location_titles: []
+organization_title: City of Mercer Island
 published: false
-source: City of Mercer Island
 source_url: https://www.mercerisland.gov/bc-utilityboard/page/notice-cancelation-utility-board-meeting-november-11-december-9
 summarized: true
 title: Notice of Cancelation - Utility Board Meeting - November 11 & December 9

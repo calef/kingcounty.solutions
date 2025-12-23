@@ -6,8 +6,8 @@ feed_content: Multiple teens, 15-17 years old, are in custody after shooting at 
   proactive patr...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/30/multiple-teens-in-custody-after-shooting-at-police-eluding-in-stolen-suv-on-i-5/
 summarized: true
 title: Multiple Teens in Custody After Shooting at Police, Eluding in Stolen SUV on

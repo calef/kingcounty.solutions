@@ -9,7 +9,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Neighborhood House
+organization_title: Neighborhood House
 source_url: https://nhwa.org/2025/10/29/housing-washington-2025/
 summarized: true
 title: 'From Inspiration to Action: My Takeaways from HousingWA2005'

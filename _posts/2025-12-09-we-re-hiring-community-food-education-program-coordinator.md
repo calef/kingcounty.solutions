@@ -107,7 +107,7 @@ feed_content_checksum: f71105d20c60244740aac553cf3a6334c70a7a22
 image_ids: []
 location_titles:
 - King County
-source: Hunger Intervention Program
+organization_title: Hunger Intervention Program
 source_url: https://hungerintervention.org/2025/12/09/were-hiring-community-food-education-program-coordinator/
 summarized: true
 title: 'We’re Hiring: Community Food Education Program Coordinator'

@@ -29,7 +29,7 @@ image_ids:
 - 93f23e35ccdcb57d6139b74afe4098c13e93864fbc319c2347f490978fa46105
 location_titles:
 - King County
-source: Compass Housing Alliance
+organization_title: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/08/compass-housing-alliance-receives-a-major-gift-to-invest-in-early-career-staff/
 summarized: true
 title: Compass Housing Alliance receives a major gift to invest in early career staff

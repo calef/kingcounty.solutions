@@ -28,9 +28,9 @@ location_titles:
 - Fairwood
 - Lake Morton-Berrydale
 - Ravensdale
+organization_title: King County Emergency Management
 published: false
 rss_guid: https://kcemergency.com/?p=6752
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/11/precautionary-boil-water-advisory-for-portions-of-the-cedar-river-water-and-sewer-district/
 summarized: true
 title: Precautionary Boil Water Advisory for portions of the Cedar River Water and

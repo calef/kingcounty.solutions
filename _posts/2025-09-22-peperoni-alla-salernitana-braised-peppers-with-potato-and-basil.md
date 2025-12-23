@@ -26,8 +26,8 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   to taste with salt. Continue to cook until the potatoes have warmed through. </p>'
 image_ids: []
 location_titles: []
+organization_title: Rainier Valley Food Bank
 published: false
-source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/peperoni-alla-salernitana-braised-peppers-with-potato-and-basil
 summarized: true
 title: Peperoni Alla Salernitana (Braised Peppers with Potato and Basil)

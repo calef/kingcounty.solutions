@@ -105,7 +105,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143191/women-veterans-belong-at-va/
 summarized: true
 title: Women Veterans belong at VA

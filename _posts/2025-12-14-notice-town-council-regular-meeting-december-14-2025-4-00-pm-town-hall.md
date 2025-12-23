@@ -43,6 +43,7 @@ feed_content_checksum: 00545b0cedff127bd626bb61f7f105f7ee501ff8
 image_ids: []
 location_titles:
 - Eastside
+organization_title: Town of Yarrow Point
 original_source_html: |-
   <p><a>AGENDA</a></p>
   <p><strong>Join on computer, mobile app, or phone</strong></p>
@@ -84,7 +85,6 @@ original_source_html: |-
   <p> </p>
 published: false
 rss_guid: https://yarrowpointwa.gov/?p=8159
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/12/notice-town-council-regular-meeting-december-14-2025-400-pm-town-hall/
 summarized: true
 title: 'NOTICE: Town Council Regular Meeting – December 14, 2025: 4:00 PM/ Town Hall'

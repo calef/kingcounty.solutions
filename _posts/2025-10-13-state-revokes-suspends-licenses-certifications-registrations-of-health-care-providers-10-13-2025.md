@@ -51,7 +51,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Department of Health
+organization_title: Department of Health
 source_url: https://doh.wa.gov/newsroom/state-revokes-suspends-licenses-certifications-registrations-health-care-providers-10-13-2025
 summarized: true
 title: State revokes, suspends licenses, certifications, registrations of health care

@@ -15,8 +15,8 @@ feed_content: 'Improving Cell Service in Normandy Park: City Council and Plannin
   barriers.'
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-24-2025/
 summarized: true
 title: City Manager Report – October 24, 2025

@@ -6,8 +6,8 @@ feed_content: OYLMPIA – The road to Grandma’s house is about to get a lot bu
   wherever pumpkin pies and stuffing may lead you.
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/dont-let-thanksgiving-travel-gobble-you
 summarized: true
 title: Don’t let Thanksgiving travel gobble you up

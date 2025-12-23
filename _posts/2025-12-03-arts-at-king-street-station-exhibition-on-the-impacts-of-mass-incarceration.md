@@ -6,8 +6,8 @@ feed_content: Conversation encouraged to overcome stigma Seattle, WA &#8211; Liv
   on their loved ones...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/03/arts-at-king-street-station-exhibition-on-the-impacts-of-mass-incarceration/
 summarized: true
 title: ARTS at King Street Station Exhibition on the Impacts of Mass Incarceration

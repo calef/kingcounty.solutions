@@ -6,8 +6,8 @@ feed_content: When the call came that Seattle Restored had an opening in its new
   of possibil...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/12/04/seattle-restored-in-lake-city-helps-mama-rows-caramels-turn-pain-into-purpose/
 summarized: true
 title: Seattle Restored in Lake City helps Mama Row’s Caramel turn pain into purpose

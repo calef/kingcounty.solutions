@@ -47,7 +47,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Encompass
+organization_title: Encompass
 source_url: https://encompassnw.org/nurturing-the-helpers-how-reflective-consultation-transforms-early-childhood-care/
 summarized: true
 title: 'Nurturing the Helpers: How Reflective Consultation Transforms Early Childhood

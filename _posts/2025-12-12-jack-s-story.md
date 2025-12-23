@@ -22,8 +22,8 @@ feed_content_checksum: b1736c1a6113591805b8d0a30b48d47fc99f3ccb
 image_ids: []
 location_titles:
 - King County
+organization_title: Boyer Children's Clinic
 rss_guid: https://www.boyercc.org/?p=11260
-source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/family-stories/jack/
 summarized: true
 title: Jack’s Story

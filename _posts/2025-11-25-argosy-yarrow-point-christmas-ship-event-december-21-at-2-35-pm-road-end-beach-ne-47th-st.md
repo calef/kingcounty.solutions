@@ -10,8 +10,8 @@ feed_content: '<p><img fetchpriority="high" decoding="async" class="alignnone si
   1187w" sizes="(max-width: 1275px) 100vw, 1275px" /></p>'
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/argosy-yarrow-point-christmas-ship-event-december-21-at-235-pm-road-end-beach-ne-47th-st/
 summarized: true
 title: Argosy Yarrow Point Christmas Ship Event – December 21 at 2:35 pm/ Road End

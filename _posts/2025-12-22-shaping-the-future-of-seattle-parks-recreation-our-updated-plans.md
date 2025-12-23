@@ -8,13 +8,13 @@ feed_content_checksum: 9bb82101fb5fdbac1b1f8bf5f52e61a0df8cf58d
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: Today we are pleased to release an Updated 2020-2032 Strategic
   Plan—our vision for a healthy, thriving, and vibrant park and recreation system—as
   well as a new 2025-2028 Action Plan. Check them out here.  Updated 2020-2032 Strategic
   Plan  Our...
 published: false
 rss_guid: https://parkways.seattle.gov/?p=17066
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/22/shaping-the-future-of-seattle-parks-recreation-our-updated-plans/
 summarized: true
 title: 'Shaping the Future of Seattle Parks & Recreation: Our Updated Plans '

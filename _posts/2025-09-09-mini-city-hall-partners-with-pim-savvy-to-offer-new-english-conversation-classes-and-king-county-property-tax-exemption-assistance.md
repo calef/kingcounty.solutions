@@ -32,7 +32,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: PIM Savvy
+organization_title: PIM Savvy
 source_url: https://pimsavvy.com/mini-city-hall-partners-with-pim-savvy/
 summarized: true
 title: Mini City Hall partners with PIM Savvy to offer new English Conversation Classes

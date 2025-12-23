@@ -9,8 +9,8 @@ feed_content: |-
   <p class="MsoNoSpacing"><span><span><strong><span><span>Notice:</span></span></strong></span></span></p></div></div></div>
 image_ids: []
 location_titles: []
+organization_title: City of Mercer Island
 published: false
-source: City of Mercer Island
 source_url: https://www.mercerisland.gov/bc-pc/page/notice-cancelation-planning-commission-meeting-nov-26
 summarized: true
 title: Notice of Cancelation - Planning Commission Meeting - Nov 26

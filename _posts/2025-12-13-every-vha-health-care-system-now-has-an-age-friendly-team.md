@@ -48,8 +48,8 @@ feed_content_checksum: f534921eb0134eb5585fb3000a1948b18b00bcde
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 rss_guid: https://news.va.gov/?p=143884
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143884/vha-health-care-system-has-age-friendly-team/
 summarized: true
 title: Every VHA Health Care System now has an age-friendly team

@@ -6,8 +6,8 @@ feed_content: 'Join us at ARTS at King Street Station on December 4 for Pioneer 
   ¡Viva Puerto Rico...'
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/11/18/december-first-thursday-two-exhibitions-and-the-last-woven-stories-workshop/
 summarized: true
 title: 'December First Thursday: Two exhibitions and the last Woven Stories workshop!'

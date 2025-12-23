@@ -4,8 +4,8 @@ feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_114705
   />
 image_ids: []
 location_titles: []
+organization_title: City of Auburn
 published: false
-source: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=15896242
 summarized: true
 title: Use the Auburn App to report your concerns

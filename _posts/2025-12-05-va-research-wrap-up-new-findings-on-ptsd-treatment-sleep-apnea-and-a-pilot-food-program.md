@@ -51,7 +51,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143430/va-research-wrap-up-ptsd-sleep-apnea-food/
 summarized: true
 title: 'VA Research Wrap Up: New findings on PTSD treatment, sleep apnea, and a pilot

@@ -50,7 +50,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img decoding=\"a
 image_ids: []
 location_titles:
 - King County
-source: Disabled American Veterans
+organization_title: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/dav-backs-bill-to-modernize-transportation-equipment-for-disabled-veterans/
 summarized: true
 title: DAV backs bill to modernize transportation equipment for disabled veterans

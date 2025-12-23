@@ -57,7 +57,7 @@ feed_content_checksum: 5577118bccc266500eeecdad8c11429464830f70
 image_ids: []
 location_titles:
 - King County
-source: Operation Homefront - Critical Financial Assistance Program
+organization_title: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/robert-w-burrage-joins-national-board-of-directors/
 summarized: true
 title: Robert W. Burrage Joins National Board of Directors

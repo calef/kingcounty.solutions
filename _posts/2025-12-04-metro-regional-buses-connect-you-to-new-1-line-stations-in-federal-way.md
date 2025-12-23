@@ -8,7 +8,7 @@ feed_content: Link light rail has arrived in Federal Way! On Dec. 6, you can joi
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/04/metro-regional-buses-connect-you-to-new-1-line-stations-in-federal-way/
 summarized: true
 title: Metro, regional buses connect you to new 1 Line stations in Federal Way

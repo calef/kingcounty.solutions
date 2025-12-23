@@ -25,7 +25,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Youth Eastside Services
+organization_title: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/nadine-story/?utm_source=rss&utm_medium=rss&utm_campaign=nadine-story
 summarized: true
 title: Finding Strength, Community, and Six Years of Sobriety

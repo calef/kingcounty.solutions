@@ -9,8 +9,8 @@ feed_content: |-
   <p>On behalf of our staff, clients, and board of directors, we extend our heartfelt thanks to Verdant Health Commission for standing with us in this rebuilding journey. Your support ensures that the families we serve continue to have access to the compassionate care they deserve.</p>
 image_ids: []
 location_titles: []
+organization_title: Center for Human Services
 published: false
-source: Center for Human Services
 source_url: https://www.chs-nw.org/2025/10/23/thank-you-verdant-health-commission/
 summarized: true
 title: Thank You, Verdant Health Commission!

@@ -8,8 +8,8 @@ feed_content: |-
   <p>Wednesday, December 24: The &hellip;</p></a>
 image_ids: []
 location_titles: []
+organization_title: The Center for Active Living
 published: false
-source: The Center for Active Living
 source_url: https://wscenter.org/holiday-closure/
 summarized: true
 title: Holiday closure

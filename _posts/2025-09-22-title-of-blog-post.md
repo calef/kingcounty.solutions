@@ -6,8 +6,8 @@ feed_content: |-
   [Read More... from Title of Blog Post](https://iacswa.org/blog-template/)
 image_ids: []
 location_titles: []
+organization_title: Indian American Community Services
 published: false
-source: Indian American Community Services
 source_url: https://iacswa.org/blog-template/
 summarized: true
 title: Title of Blog Post

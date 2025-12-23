@@ -17,7 +17,7 @@ feed_content: "[The Housing Accountability Act](https://lawfilesext.leg.wa.gov/b
 image_ids: []
 location_titles:
 - King County
-source: Department of Commerce
+organization_title: Department of Commerce
 source_url: https://www.commerce.wa.gov/housing-accountability-act-commerce-shares-draft-selected-review-procedures/
 summarized: true
 title: 'Housing Accountability Act: Commerce shares draft selected review procedures'

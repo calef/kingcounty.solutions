@@ -7,9 +7,9 @@ feed_content_checksum: fa0fb920ed32af50ae6f413a61156545b455870f
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 published: false
 rss_guid: https://council.seattle.gov/?p=21504
-source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/12/councilmember-rivera-responds-to-social-media-post-following-approval-of-new-police-contract/
 summarized: true
 title: Councilmember Rivera responds to social media post following approval of new

@@ -45,8 +45,8 @@ feed_content: "The Tribe seeks to retain the services of an experienced law firm
   Format)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Snoqualmie-Legal-Services-RFP.pdf)"
 image_ids: []
 location_titles: []
+organization_title: Snoqualmie Indian Tribe
 published: false
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/request-for-proposal-rfp-for-legal-services-for-the-snoqualmie-indian-tribe/
 summarized: true
 title: Request for Proposal (RFP) for Legal Services For the Snoqualmie Indian Tribe

@@ -5,8 +5,8 @@ feed_content: PORT ORCHARD - An online open house is now available for people wh
 feed_content_checksum: 1c00d6f184f14840757f84fafa44e02ed296a0b9
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/get-preview-planned-fish-barrier-removal-work-gorst-port-orchard
 summarized: true
 title: Get a preview of planned fish barrier removal work in Gorst, Port Orchard

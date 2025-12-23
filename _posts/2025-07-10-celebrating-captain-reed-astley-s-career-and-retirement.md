@@ -15,7 +15,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - South King County
-source: Valley Regional Fire Authority
+organization_title: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/07/celebrating-captain-reed-astleys-career-and-retirement/
 summarized: true
 title: Celebrating Captain Reed Astley’s Career and Retirement

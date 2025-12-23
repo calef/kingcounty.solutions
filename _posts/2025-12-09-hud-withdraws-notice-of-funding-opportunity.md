@@ -9,7 +9,7 @@ feed_content_checksum: 2273b95504ba16926fa174e0f4b2b9c2bab985ae
 image_ids: []
 location_titles:
 - King County
-source: King County Regional Homelessness Authority
+organization_title: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-hud-withdraws-notice-of-funding-opportunity/
 summarized: true
 title: HUD withdraws Notice of Funding Opportunity

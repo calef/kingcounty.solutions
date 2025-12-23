@@ -7,8 +7,8 @@ feed_content: |-
   If a price seems too good to be true, it probably is. Stick to trusted retailers, avoid clicking on ads from unknown sources, and double-check that websites are secure before entering any payment information.
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-december-5th-2025/
 summarized: true
 title: City Manager Report – December 5th, 2025

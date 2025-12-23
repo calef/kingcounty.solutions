@@ -6,8 +6,8 @@ feed_content: Landslide season is here, so the City of Seattle is urging residen
   and March? The th...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/reminder-its-landslide-season-are-you-prepared-3/
 summarized: true
 title: 'Reminder: It’s Landslide Season! Are You Prepared?'

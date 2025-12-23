@@ -22,7 +22,7 @@ image_ids:
 - 719f0076e5bc7cbcf4c82a40f751f8292f140dec447a0874804e626a4891bdfb
 location_titles:
 - King County
-source: The National Children's Cancer Society - Financial Assistance
+organization_title: The National Children's Cancer Society - Financial Assistance
 source_url: https://thenccs.org/meet-benjamin/
 summarized: true
 title: Meet Benjamin!

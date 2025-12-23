@@ -47,7 +47,7 @@ image_ids:
 - 68ee3e88914cd2fbe6d75610b050fd085e233bbfb83d44796138d4ada80d85cc
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/holding-on-to-stability-keishas-story
 summarized: true
 title: 'holding on to stability: Keisha’s story'

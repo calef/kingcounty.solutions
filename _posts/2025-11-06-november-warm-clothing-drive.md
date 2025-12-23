@@ -7,8 +7,8 @@ feed_content: |-
   <p>The post <a href="https://stlukesseattle.org/2025/11/06/november-warm-clothing-drive/">November Warm Clothing Drive</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: St. Luke Episcopal Church
 published: false
-source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/11/06/november-warm-clothing-drive/
 summarized: true
 title: November Warm Clothing Drive

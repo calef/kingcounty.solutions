@@ -110,7 +110,7 @@ image_ids:
 - 3860b62fcf07ff8878ab648ea82ae1c3569406aec417cb982afddcb983107dc4
 location_titles:
 - King County
-source: Essentials First
+organization_title: Essentials First
 source_url: https://www.essentialsfirst.org/blog/lbriylw3bfuf4j306j4w5bgxvs3iwn
 summarized: true
 title: THANK YOU for $75k donated!

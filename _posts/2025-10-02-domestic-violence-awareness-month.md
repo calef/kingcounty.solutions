@@ -12,7 +12,7 @@ feed_content: Dear Friends,We are grateful for your ongoing partnership in break
 image_ids: []
 location_titles:
 - King County
-source: Lighthouse NW
+organization_title: Lighthouse NW
 source_url: https://lighthousenw.org/blog/domestic-violence-awareness-month
 summarized: true
 title: Domestic Violence Awareness Month

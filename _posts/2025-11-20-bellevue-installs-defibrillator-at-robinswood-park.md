@@ -40,8 +40,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   20 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/robinswood-defibrillator
 summarized: true
 title: Bellevue installs defibrillator at Robinswood Park

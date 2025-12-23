@@ -6,8 +6,8 @@ feed_content: Seattle Parks and Recreation’s Winter 2026 program brochures are
   to enroll in ...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/03/winter-2026-recreation-brochure/
 summarized: true
 title: Winter 2026 Recreation Brochure

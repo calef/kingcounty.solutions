@@ -86,8 +86,8 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>One of DAV’s gr
   appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Disabled American Veterans
 published: false
-source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/columbia-trust-funding-success-begins-with-the-afr-tips-for-departments-and-chapters/
 summarized: true
 title: 'Columbia Trust funding success begins with the AFR: Tips for departments and

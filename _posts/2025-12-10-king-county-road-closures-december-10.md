@@ -9,9 +9,9 @@ feed_content_checksum: 845f429a294f3c977fae22ce7fbc73c2acdc51d6
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 published: false
 rss_guid: https://kcemergency.com/2025/12/10/king-county-road-closures/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/10/king-county-road-closures/
 summarized: true
 title: King County Road Closures – December 10

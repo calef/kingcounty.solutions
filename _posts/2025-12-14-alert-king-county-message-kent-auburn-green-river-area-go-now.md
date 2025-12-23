@@ -10,8 +10,8 @@ feed_content_checksum: 3ab01795248b450cedb5e209f96a6d9de0995b01
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 rss_guid: https://kcemergency.com/2025/12/13/kent-auburn-green-river-area-go-now/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/13/kent-auburn-green-river-area-go-now/
 summarized: true
 title: ALERT King County message – Kent/Auburn Green River area – GO NOW

@@ -14,7 +14,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/03/a-new-voice
 image_ids: []
 location_titles:
 - King County
-source: Seattle Public Utilities
+organization_title: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/03/a-new-voice-for-you/
 summarized: true
 title: A New Voice for You

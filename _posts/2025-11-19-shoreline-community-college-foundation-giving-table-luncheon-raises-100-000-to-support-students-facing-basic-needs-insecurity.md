@@ -26,7 +26,7 @@ image_ids:
 - b0e997764bd3bd8c5c5616c633329a4980ea252a94a50a24acf4e3b589e77f8f
 location_titles:
 - King County
-source: Shoreline Community College
+organization_title: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/11/19/shoreline-community-college-foundation-giving-table-luncheon-raises-100000-to-support-students-facing-basic-needs-insecurity/
 summarized: true
 title: Shoreline Community College Foundation Giving Table Luncheon Raises $100,000

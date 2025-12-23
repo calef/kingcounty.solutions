@@ -34,7 +34,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Department of Health
+organization_title: Department of Health
 source_url: https://doh.wa.gov/newsroom/west-coast-health-alliance-stands-scientific-evidence-vaccines-are-not-linked-autism
 summarized: true
 title: 'The West Coast Health Alliance Stands with Scientific Evidence: Vaccines Are

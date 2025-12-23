@@ -53,7 +53,7 @@ image_ids:
 - 84a209de96a1eeef9202aed66d9f94c173d33930526ca07c8230cc1de4c25fdc
 location_titles:
 - King County
-source: YouthCare
+organization_title: YouthCare
 source_url: https://youthcare.org/blog/together-we-rise/
 summarized: true
 title: Together We Rise

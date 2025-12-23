@@ -21,8 +21,8 @@ feed_content_checksum: 957a41e66da0cef8eddce86110a77e141e261077
 image_ids: []
 location_titles:
 - King County
+organization_title: Shoreline Lake Forest Park Senior Activity Center
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10600
-source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/is-cohousing-right-for-you/
 summarized: true
 title: Is CoHousing Right for You?

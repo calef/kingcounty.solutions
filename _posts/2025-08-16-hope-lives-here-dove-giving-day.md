@@ -7,7 +7,7 @@ feed_content: We’re making history on Vashon Island. On Tuesday, August 19 (Wo
 image_ids: []
 location_titles:
 - Vashon
-source: The Vashon DOVE Project
+organization_title: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/hope-live-here-dove-giving-day
 summarized: true
 title: Hope Lives Here - DOVE Giving Day

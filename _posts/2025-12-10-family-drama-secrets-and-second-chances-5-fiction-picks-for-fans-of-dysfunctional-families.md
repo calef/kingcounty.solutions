@@ -13,8 +13,8 @@ feed_content: |-
 feed_content_checksum: 2b44189bd9011f6f88918fe68b8239890cd6636c
 image_ids: []
 location_titles: []
+organization_title: The Seattle Public Library
 published: false
-source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/10/family-drama-secrets-and-second-chances-5-fiction-picks-for-fans-of-dysfunctional-families/
 summarized: true
 title: 'Family Drama, Secrets, and Second Chances: 5 Fiction Picks for Fans of Dysfunctional

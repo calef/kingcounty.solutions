@@ -18,6 +18,7 @@ feed_content: |-
 feed_content_checksum: ed77d98b483d8ed84dd974710c8dbf85b195ea43
 image_ids: []
 location_titles: []
+organization_title: Ballard Northwest Senior Center
 original_source_html: |-
   <p><strong>Monday ~</strong> Chicken Philly Sandwich, Soup, Salad &amp; Fruit</p>
 
@@ -35,7 +36,6 @@ original_source_html: |-
   <p>The post <a>Dining Menu December 22nd &amp; 23rd</a> appeared first on <a>Ballard Senior Center</a>.</p>
 published: false
 rss_guid: https://ballardseniorcenter.org/?p=7568
-source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-22nd-23rd/
 summarized: true
 title: Dining Menu December 22nd & 23rd

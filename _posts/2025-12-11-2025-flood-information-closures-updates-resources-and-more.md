@@ -104,8 +104,8 @@ feed_content_checksum: 6fab44758247ed09913040e33f7d760f3ab320b6
 image_ids: []
 location_titles:
 - King County
+organization_title: Empower Youth Network
 rss_guid: https://empoweryouthnetwork.org/?p=7697
-source: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/2025-flood-information-closures-updates-resources-and-more/
 summarized: true
 title: 2025 Flood Information – Closures, Updates, Resources, and More

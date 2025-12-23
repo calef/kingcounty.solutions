@@ -38,7 +38,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>For more than a c
 image_ids: []
 location_titles:
 - King County
-source: Disabled American Veterans
+organization_title: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/warriors-club/
 summarized: true
 title: Warriors Club

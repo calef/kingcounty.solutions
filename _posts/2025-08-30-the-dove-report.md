@@ -4,8 +4,8 @@ feed_content: Check out DOVE's quarterly newsletter for the latest news and happ
   at DOVE. Newsletter Link
 image_ids: []
 location_titles: []
+organization_title: The Vashon DOVE Project
 published: false
-source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/the-dove-report
 summarized: true
 title: The DOVE Report

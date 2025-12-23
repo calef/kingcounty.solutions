@@ -87,7 +87,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Hospital District No. 4 (Snoqualmie Valley Hospital)
+organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/holiday-ergonomics-and-stress-relief/
 summarized: true
 title: Holiday Ergonomics and Stress Relief

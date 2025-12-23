@@ -9,7 +9,7 @@ feed_content: <div><p paraid="1659914425" paraeid="{781cccb4-72a0-4096-9871-b66e
 image_ids: []
 location_titles:
 - King County
-source: Sound Transit
+organization_title: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/empowering-next-generation-transit-leaders
 summarized: true
 title: 'Empowering the next generation of transit leaders '

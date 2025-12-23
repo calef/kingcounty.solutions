@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Juma Ventures
+organization_title: Juma Ventures
 source_url: https://www.juma.org/2025/09/29/leading-with-our-values-how-the-youth-voice-is-shaping-juma/
 summarized: true
 title: 'Leading with Our Values: How the Youth Voice is Shaping Juma'

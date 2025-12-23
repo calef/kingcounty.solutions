@@ -8,7 +8,7 @@ feed_content: By Ernest Kandilige, Metro Deputy General Manager As Veterans Day
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/10/recognizing-the-service-of-metro-veterans/
 summarized: true
 title: Recognizing the service of Metro veterans

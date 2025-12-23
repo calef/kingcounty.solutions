@@ -20,8 +20,8 @@ feed_content: |-
   <p>The post <a href="https://www.vibrant.org/a-hub-of-hope-in-staten-island/">A Hub of Hope in Staten Island</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Vibrant Emotional Health
 published: false
-source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/a-hub-of-hope-in-staten-island/
 summarized: true
 title: A Hub of Hope in Staten Island

@@ -83,7 +83,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143159/unbreakable-link-veteran-peer-support-lifeline/
 summarized: true
 title: 'The unbreakable link: Veteran peer support as a lifeline'

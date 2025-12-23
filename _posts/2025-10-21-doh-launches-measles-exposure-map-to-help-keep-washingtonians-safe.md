@@ -61,7 +61,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
 image_ids: []
 location_titles:
 - King County
-source: Department of Health
+organization_title: Department of Health
 source_url: https://doh.wa.gov/newsroom/doh-launches-measles-exposure-map-help-keep-washingtonians-safe
 summarized: true
 title: DOH Launches Measles Exposure Map to Help Keep Washingtonians Safe

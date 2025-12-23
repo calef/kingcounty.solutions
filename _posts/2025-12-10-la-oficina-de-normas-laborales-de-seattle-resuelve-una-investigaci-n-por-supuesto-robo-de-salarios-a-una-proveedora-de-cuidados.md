@@ -8,8 +8,8 @@ feed_content: 'Para publicación inmediata Contacto: Cynthia Santana, gerenta de
 feed_content_checksum: 50b3b638967eed91e91bcf18ed41018011443b34
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://news.seattle.gov/2025/12/10/la-oficina-de-normas-laborales-de-seattle-resuelve-una-investigacion-por-supuesto-robo-de-salarios-a-una-proveedora-de-cuidados/
 summarized: true
 title: La Oficina de Normas Laborales de Seattle resuelve una investigación por supuesto

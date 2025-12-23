@@ -72,6 +72,7 @@ feed_content_checksum: 6ba592990ea1f203586d9e05d6c1394ce3532858
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>From pain to purpose through digital health tools</h2>
 
@@ -139,7 +140,6 @@ original_source_html: |-
 
   <p>To reach the <a>Veterans Crisis Line</a>, <a>Dial 988 then Press 1</a>, <a>chat online</a> at VeteransCrisisLine.net/Chat, or text <a>838255</a>. </p>
 rss_guid: https://news.va.gov/?p=143915
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143915/how-vas-mindfulness-coach-app-healing-find-joy/
 summarized: true
 title: How VA’s Mindfulness Coach app helped a Veteran healing and find joy

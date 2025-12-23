@@ -7,7 +7,7 @@ feed_content: DESC is almost ready to have clients move into Steven's Place and 
 image_ids: []
 location_titles:
 - King County
-source: DESC
+organization_title: DESC
 source_url: https://www.desc.org/stevensplaceapartments/
 summarized: true
 title: Equip an apartment at Steven’s Place!

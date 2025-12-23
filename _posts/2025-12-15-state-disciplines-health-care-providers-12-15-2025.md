@@ -138,6 +138,7 @@ feed_content_checksum: 787c154918991b734f4f061c3682545fe5088bde
 image_ids: []
 location_titles:
 - King County
+organization_title: Department of Health
 original_source_html: "<span>State disciplines health care providers (12-15-2025)</span>\n\n
   \           <div>\n<time>December 15, 2025 - 3:23pm</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>December
   15, 2025 - 3:28pm</time>\n</span>\n\n  <div>\n    <div>News Category</div>\n          <div>\n
@@ -271,7 +272,6 @@ original_source_html: "<span>State disciplines health care providers (12-15-2025
   \   <div>News Author</div>\n              <div>Washington State Department of Health</div>\n
   \         </div>"
 rss_guid: 39942 at https://doh.wa.gov
-source: Department of Health
 source_url: https://doh.wa.gov/newsroom/state-disciplines-health-care-providers-12-15-2025
 summarized: true
 title: State disciplines health care providers (12-15-2025)

@@ -11,7 +11,7 @@ feed_content: "New Hope West Building - Rendering by Weber Thompson Seattle, WA 
 image_ids: []
 location_titles:
 - King County
-source: Low Income Housing Institute
+organization_title: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/new-hope-family-housing-starts-construction
 summarized: true
 title: New Hope Family Housing starts construction!

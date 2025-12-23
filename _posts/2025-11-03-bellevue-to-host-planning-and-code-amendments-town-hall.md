@@ -33,7 +33,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
 image_ids: []
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/bellevue-host-planning-code-amendments-town-hall
 summarized: true
 title: Bellevue to host planning and code amendments town hall

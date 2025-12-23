@@ -13,8 +13,8 @@ feed_content: City Council Meeting Roundup on Wednesday, November 12th, the Norm
   to us for our short-term commitments.
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-november-14-2025/
 summarized: true
 title: City Manager Report – November 14, 2025

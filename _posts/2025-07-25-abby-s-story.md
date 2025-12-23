@@ -43,7 +43,7 @@ feed_content: "<p><strong>From a To-Do List to a Lifeline: Abby’s Journey with
 image_ids: []
 location_titles:
 - King County
-source: Cancer Lifeline Financial Assistance for Cancer Patients
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/abbys-story/
 summarized: true
 title: Abby’s Story

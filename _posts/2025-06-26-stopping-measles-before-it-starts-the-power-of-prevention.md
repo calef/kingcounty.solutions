@@ -7,7 +7,7 @@ feed_content: The U.S. experienced many changes and challenges due to the COVID-
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/stopping-measles-before-it-starts-the-power-of-prevention
 summarized: true
 title: 'stopping measles before it starts: the power of prevention '

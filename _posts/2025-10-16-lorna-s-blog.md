@@ -7,7 +7,7 @@ feed_content: <p>The post <a href="https://www.kcsarc.org/en/lornas-blog-2/">Lor
 image_ids: []
 location_titles:
 - King County
-source: King County Sexual Assault Resource Center
+organization_title: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/lornas-blog-2/
 summarized: true
 title: Lorna’s Blog

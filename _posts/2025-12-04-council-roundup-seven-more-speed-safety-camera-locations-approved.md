@@ -82,7 +82,7 @@ image_ids:
 - 68407eadeeb9a22e88f3e779a3262c887ba954a9017f6384e2bc1c45c50a5b3c
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-12-4-25
 summarized: true
 title: 'Council Roundup: Seven more speed safety camera locations approved'

@@ -95,6 +95,7 @@ feed_content: |-
 feed_content_checksum: e6be1290f4d0abf7365da0383c15eef3046982ff
 image_ids: []
 location_titles: []
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>Veterans and trainees’ approach ‘growth journey as a family’</h2>
 
@@ -189,7 +190,6 @@ original_source_html: |-
   <p>VA partners with more than 1,450 academic institutions throughout the nation, making VA’s health professions education program the largest in the United States. These programs, overseen by the <a>Office of Academic Affiliations</a>, are shaping the next generation of health care professionals for VA and the nation.</p>
 published: false
 rss_guid: https://news.va.gov/?p=143065
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143065/spotlight-on-trainees-at-minneapolis-va/
 summarized: true
 title: Spotlight on trainees at Minneapolis VA

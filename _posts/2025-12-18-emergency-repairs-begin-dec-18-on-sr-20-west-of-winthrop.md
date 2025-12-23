@@ -5,6 +5,7 @@ feed_content: WINTHROP – Emergency work to repair the washout and mudslides th
 feed_content_checksum: '080269fcbc52259ee48ba9119e9e31c726d3f50d'
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"
   content=\"WINTHROP – Emergency work to repair the washout and mudslides that closed
@@ -174,7 +175,6 @@ original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"
   \ </section>\n\n<section id=\"block-performancehighlight1\" class=\""
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/emergency-repairs-begin-dec-18-sr-20-west-winthrop
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/emergency-repairs-begin-dec-18-sr-20-west-winthrop
 summarized: true
 title: Emergency repairs begin Dec. 18 on SR 20 west of Winthrop

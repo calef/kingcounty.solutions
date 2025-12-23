@@ -146,7 +146,7 @@ image_ids:
 - 52075be881f89e2f03b4191e3be6556a1057d6601ef8392faecdae406dcf9004
 location_titles:
 - King County
-source: Disabled American Veterans
+organization_title: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/adaptive-golf-for-veterans-the-role-of-golf-buddies-in-recovery/
 summarized: true
 title: 'Adaptive golf for veterans: The role of golf buddies in recovery'

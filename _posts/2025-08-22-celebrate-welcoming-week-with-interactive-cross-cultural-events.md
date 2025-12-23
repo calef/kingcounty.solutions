@@ -47,7 +47,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
 image_ids: []
 location_titles:
 - Eastside
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/welcoming-week-25
 summarized: true
 title: Celebrate Welcoming Week with interactive, cross-cultural events

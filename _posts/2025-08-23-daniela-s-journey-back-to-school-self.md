@@ -32,7 +32,7 @@ image_ids:
 - ce5f6f66e1ac01d11fe5de77d31d285ae30aae04012f1c4e2e57a3036828b785
 location_titles:
 - King County
-source: Treehouse
+organization_title: Treehouse
 source_url: https://www.treehouseforkids.org/danielas-journey-back-to-school-self/
 summarized: true
 title: Daniela’s Journey Back to School & Self

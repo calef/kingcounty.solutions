@@ -76,8 +76,8 @@ feed_content: |-
   </figure><p>The post <a href="https://angelflightwest.org/news/meet-kaprice-flying-to-camp-since-2021/">Meet Kaprice: Flying to Camp Since 2021</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Angel Flight West
 published: false
-source: Angel Flight West
 source_url: https://angelflightwest.org/news/meet-kaprice-flying-to-camp-since-2021/
 summarized: true
 title: 'Meet Kaprice: Flying to Camp Since 2021'

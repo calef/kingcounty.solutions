@@ -13,6 +13,7 @@ feed_content_checksum: c0c14b74673169b306c71fc2e1ea961c7e37d5a7
 image_ids: []
 location_titles:
 - King County
+organization_title: Snoqualmie Indian Tribe
 original_source_html: |-
   <p>Cedar River and White River Still at Phase 4 and Green River at Phase 3 with Evacuations taking place in various locations along those rivers.</p>
   <p>Weather reports show wind gusts that could reach up to 45mph for Sunday night into Monday. Reports of additional rainfall throughout the week with a Special Weather Statement from the National Weather Services stating:</p>
@@ -24,7 +25,6 @@ original_source_html: |-
   <p>The Snoqualmie River is currently at Phase 0. There are projections showing that could change to Phase 3 at 34000cfs around Wednesday December 17, 2025.</p>
 published: false
 rss_guid: https://snoqualmietribe.us/?p=6909
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/weekend-update-for-december-14-2025-at-1030-am/
 summarized: true
 title: Weekend Update for December 14, 2025 at 10:30 AM

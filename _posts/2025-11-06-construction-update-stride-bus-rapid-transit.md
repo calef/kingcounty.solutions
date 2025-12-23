@@ -9,7 +9,7 @@ feed_content: <div><p paraid="2007034544" paraeid="{a76cc197-beed-4494-9d9e-013d
 image_ids: []
 location_titles:
 - King County
-source: Sound Transit
+organization_title: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/construction-update-stride-bus-rapid-transit
 summarized: true
 title: 'Construction update: Stride bus rapid transit'

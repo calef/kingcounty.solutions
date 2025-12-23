@@ -17,8 +17,8 @@ feed_content: |-
   <p>The post <a href="https://snovalleysenior.org/november-2025-directors-letter/">November 2025 Director&#8217;s Letter</a> appeared first on <a href="https://snovalleysenior.org">Sno-Valley Senior Center</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Sno-Valley Senior Center
 published: false
-source: Sno-Valley Senior Center
 source_url: https://snovalleysenior.org/november-2025-directors-letter/
 summarized: true
 title: November 2025 Director’s Letter

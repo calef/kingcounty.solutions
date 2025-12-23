@@ -25,6 +25,7 @@ image_ids:
 - 3b9fb7bf657513e774c66703f5c2f1f24593ecc7c7e8768f715726e608ed1b3c
 location_titles:
 - King County
+organization_title: University of Washington
 original_source_html: |-
   <div>
   <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/12/12141711/shopping-2613984_1280-750x432.jpg">
@@ -44,7 +45,6 @@ original_source_html: |-
   <p><a><i><span>Christopher Anderson</span></i></a><i><span> of the University of Tennessee and PHFE WIC is the corresponding author. This study was funded by </span></i><a><i><span>The Research Innovation and Development Grants in Economics (RIDGE) Partnership</span></i></a><i><span>.</span></i></p>
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 rss_guid: https://www.washington.edu/news/?p=90089
-source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/15/households-using-more-of-the-most-popular-wic-food-benefits-stay-in-the-program-longer-uw-study-finds/
 summarized: true
 title: Households using more of the most popular WIC food benefits stay in the program

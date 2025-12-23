@@ -33,8 +33,8 @@ feed_content: "[U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Pro
   January 8, 2026"
 image_ids: []
 location_titles: []
+organization_title: Department of Commerce
 published: false
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/october-2025-transportation-electrification-open-funding-opportunities/
 summarized: true
 title: October 2025 transportation electrification open funding opportunities

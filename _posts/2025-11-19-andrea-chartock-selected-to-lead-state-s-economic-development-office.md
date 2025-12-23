@@ -47,7 +47,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Department of Commerce
+organization_title: Department of Commerce
 source_url: https://www.commerce.wa.gov/andrea-chartock-selected-to-lead-states-economic-development-office/
 summarized: true
 title: Andrea Chartock selected to lead state’s economic development office

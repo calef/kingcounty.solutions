@@ -20,8 +20,8 @@ feed_content_checksum: 999a4d059380414fd4c8a460e1cc55b572008639
 image_ids: []
 location_titles:
 - Snoqualmie Valley
+organization_title: Snoqualmie Indian Tribe
 rss_guid: https://snoqualmietribe.us/?p=6904
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/fridays-update-on-the-tribal-state-of-emergency-related-to-flooding/
 summarized: true
 title: Friday’s Update on the Tribal State of Emergency Related to Flooding
