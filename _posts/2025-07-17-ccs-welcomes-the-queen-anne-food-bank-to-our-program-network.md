@@ -53,7 +53,7 @@ source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/ccs-welcomes-the-queen-anne-food-bank-to-our-program-network/?utm_source=rss&utm_medium=rss&utm_campaign=ccs-welcomes-the-queen-anne-food-bank-to-our-program-network
 summarized: true
 title: CCS Welcomes the Queen Anne Food Bank to Our Program Network 
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

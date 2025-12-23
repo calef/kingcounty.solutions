@@ -17,7 +17,7 @@ source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/11/brandon-mencini-named-president-of-multicare-auburn-and-covington-medical-centers/
 summarized: true
 title: Brandon Mencini named president of MultiCare Auburn and Covington medical centers
-topics:
+topic_titles:
 - Health Care
 ---
 

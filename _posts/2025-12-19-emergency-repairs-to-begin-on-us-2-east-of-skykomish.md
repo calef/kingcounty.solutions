@@ -186,7 +186,7 @@ source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/emergency-repairs-begin-us-2-east-skykomish
 summarized: true
 title: Emergency repairs to begin on US 2 east of Skykomish
-topics: []
+topic_titles: []
 ---
 
 Emergency repairs on US 2 east of Skykomish will start Saturday, Dec. 20, to address debris removal and streambed repairs along a 2-mile stretch between mileposts 52 and 54. The Washington State Department of Transportation hired Granite Construction for this emergency contract, which is expected to take about 30 days with crews working around the clock. The highway was closed on Dec. 10 due to multiple washouts and mudslides between Index and Coles Corner, affecting mileposts 35-85. The closure was later extended to include Tumwater Canyon on the east side of the pass (milepost 99). Although crews cleared the roadway to Skykomish (milepost 50) on Dec. 12, the section between Skykomish and Leavenworth (mileposts 50-99) remains closed with no estimated reopening time. Additional emergency repairs for US 2 over Stevens Pass are also underway between mileposts 58 and 70, which began on Dec. 18.

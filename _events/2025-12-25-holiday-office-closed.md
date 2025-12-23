@@ -227,7 +227,7 @@ source_url: https://worksourceskc.org/event/holiday-office-closed-1572/
 start_date: '2025-12-25T08:15:00-08:00'
 summarized: true
 title: holiday - office closed
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

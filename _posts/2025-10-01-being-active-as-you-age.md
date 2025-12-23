@@ -12,7 +12,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/being-active-as-you-age/?utm_source=rss&utm_medium=rss&utm_campaign=being-active-as-you-age
 summarized: true
 title: Being active as you age
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 ---

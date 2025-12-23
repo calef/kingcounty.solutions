@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/15/detectives-investigating-death-in-downtown-seattle/
 summarized: true
 title: Detectives Investigating Death in Downtown Seattle
-topics: []
+topic_titles: []
 ---
 
 Seattle police detectives are investigating the death of a 44-year-old man found with head trauma in downtown Seattle on Nov. 15, 2025. Officers responded to reports of a man down at approximately 6:23 p.m. and performed CPR until the Seattle Fire Department arrived. Despite their efforts, the man was pronounced dead at the scene. The area has been cordoned off for a homicide investigation, and the King County Medical Examiner will identify the man and determine the cause of death. Authorities are seeking information from the public regarding the incident.

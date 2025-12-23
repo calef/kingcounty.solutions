@@ -59,7 +59,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143162/finding-a-new-path-with-move/
 summarized: true
 title: Finding a new path With MOVE!
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

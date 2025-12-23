@@ -51,7 +51,7 @@ source_url: https://sites.uw.edu/uwisc/current-seminars/
 start_date: '2026-01-30T13:30:00-08:00'
 summarized: true
 title: "“Debating Regularization: Media Frames of Immigration Policy in Spain”"
-topics: []
+topic_titles: []
 ---
 
 Join us on Jan. 30, 2026, from 1:30 to 3 p.m. at Gowen Hall for a thought-provoking seminar titled “Debating Regularization: Media Frames of Immigration Policy in Spain.” Led by Candela Arias Perez, a PhD student at the University of Washington, this event will explore the role of media in shaping public discourse around immigration policy. Attendees can expect an engaging discussion that delves into the complexities of immigration narratives and their implications for policy-making. This seminar is part of the UW International Security Colloquium series, offering a platform for critical dialogue on pressing global issues. Don’t miss this opportunity to enhance your understanding of immigration policy through the lens of media framing.

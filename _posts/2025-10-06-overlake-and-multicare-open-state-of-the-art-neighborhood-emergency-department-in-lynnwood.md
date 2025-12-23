@@ -20,7 +20,7 @@ source_url: https://www.multicare.org/newsroom/2025/10/overlake-and-multicare-op
 summarized: true
 title: Overlake and MultiCare open state-of-the-art neighborhood emergency department
   in Lynnwood
-topics:
+topic_titles:
 - Health Care
 ---
 

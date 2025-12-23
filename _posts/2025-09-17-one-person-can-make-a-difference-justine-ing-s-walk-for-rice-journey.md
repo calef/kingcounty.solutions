@@ -29,7 +29,7 @@ source: Asian Counseling and Referral Service
 source_url: https://acrs.org/supporter-spotlight-justine-ing-walk-for-rice-champion/
 summarized: true
 title: 'One Person Can Make A Difference:  Justine Ing’s Walk for Rice Journey'
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

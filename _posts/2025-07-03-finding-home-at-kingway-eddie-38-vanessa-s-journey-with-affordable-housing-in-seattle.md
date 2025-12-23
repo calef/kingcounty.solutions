@@ -12,7 +12,7 @@ source_url: https://www.bellwetherhousing.org/post/finding-home-at-kingway-eddie
 summarized: true
 title: 'Finding Home at Kingway: Eddie &#38; Vanessa’s Journey with Affordable Housing
   in Seattle'
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

@@ -14,7 +14,7 @@ source: City of Seattle
 source_url: https://ocr.seattle.gov/seattle-office-for-civil-rights-2025-year-in-review/
 summarized: true
 title: Seattle Office for Civil Rights’ 2025 Year in Review 
-topics: []
+topic_titles: []
 ---
 
 The Seattle Office for Civil Rights (SOCR) highlights the dedication of its team in its 2025 Year in Review. The staff's commitment to equity and service is emphasized as a key factor in the agency's efforts to promote civil rights and address discrimination in the community. Their work encompasses various initiatives aimed at improving inclusivity and fairness for all residents. The review showcases the achievements and ongoing projects that demonstrate the team's impact on the community. Through this commitment, SOCR continues to strive for a more equitable society.

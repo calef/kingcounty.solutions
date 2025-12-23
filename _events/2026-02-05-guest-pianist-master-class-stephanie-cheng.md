@@ -39,7 +39,7 @@ source_url: https://music.washington.edu/events/2026-02-05/guest-pianist-master-
 start_date: '2026-02-05T15:30:00-08:00'
 summarized: true
 title: 'Guest Pianist Master Class: Stephanie Cheng'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -13,7 +13,7 @@ source_url: https://ischool.uw.edu/programs/mlis/law-librarianship
 start_date: '2026-02-13T16:00:00-08:00'
 summarized: true
 title: MLIS Law Librarianship Information Session
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 - Legal Aid

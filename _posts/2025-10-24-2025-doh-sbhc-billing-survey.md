@@ -14,7 +14,7 @@ source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/24/2025-doh-sbhc-billing-survey/
 summarized: true
 title: 2025 DOH SBHC Billing Survey
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

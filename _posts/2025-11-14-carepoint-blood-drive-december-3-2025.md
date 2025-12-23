@@ -34,7 +34,7 @@ source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/carepoint-blood-drive-ttpgs-rfzs9-tfhm3-w3nx9
 summarized: true
 title: CarePoint Blood Drive - December 3, 2025
-topics: []
+topic_titles: []
 ---
 
 Join CarePoint for a blood drive on Dec. 3, 2025, in partnership with BloodWorks NW. This event aims to address the critically low regional blood supply, and organizers encourage community members to sign up and fill all available donation slots. The blood drive will take place at the SVA Family Life Center Gym from 9 a.m. to 3 p.m. This initiative is intended to become a regular occurrence, emphasizing the importance of community support in replenishing the blood supply.

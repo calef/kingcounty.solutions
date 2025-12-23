@@ -7708,7 +7708,7 @@ source_url: https://nosscr.org/event/nextgen-virtual-coffee-break-february-2026/
 start_date: '2026-02-03T12:00:00-05:00'
 summarized: true
 title: NextGen Virtual Coffee Break - February 2026
-topics: []
+topic_titles: []
 ---
 
 Join us for the NextGen Virtual Coffee Break on Feb. 3, 2026, at noon EST. This online gathering offers a relaxed environment for networking and sharing ideas with fellow community members. Attendees can engage in meaningful conversations, exchange insights, and build connections while enjoying their favorite beverage from the comfort of home. Whether you're looking to collaborate on projects or simply catch up with friends, this event is designed to foster a sense of community and support among participants. Don't miss this opportunity to connect and inspire one another virtually!

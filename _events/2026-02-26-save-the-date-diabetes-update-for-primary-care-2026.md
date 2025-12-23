@@ -360,7 +360,7 @@ source_url: https://uw.Cloud-CME.com/course/courseoverview?P=5&EID=16608
 start_date: '2026-02-26T07:30:00-08:00'
 summarized: true
 title: 'SAVE THE DATE:  Diabetes Update for Primary Care 2026'
-topics:
+topic_titles:
 - Health Care
 ---
 

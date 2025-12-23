@@ -14,7 +14,7 @@ source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/08/2025-horror-fiction-picks/
 summarized: true
 title: 2025 Horror Fiction Picks
-topics: []
+topic_titles: []
 ---
 
 Explore a diverse selection of horror fiction recommended by librarians, showcasing a variety of subgenres. These titles, previously recognized as Peak Picks, now join regular collections. The list includes Virginia Feito's **Victorian Psycho**, which tells the story of a vengeful governess, and Christina Li's **The Manor of Dreams**, revealing secrets within a crumbling mansion linked to two Chinese American families. Silvia Moreno-Garcia's **The Bewitching** follows three women across different eras confronting danger and witchcraft. Wendy N. Wagner’s **Girl in the Creek** presents an eco-horror narrative set in the Pacific Northwest, reflecting on climate change. Dan Chaon's **One of Us** features orphaned twins escaping a murderous uncle and finding refuge in a strange carnival. Daniel H. Wilson's **Hole in the Sky** combines sci-fi and Native American themes in a gripping first contact story. Lastly, Quan Barry’s **The Unveiling** is a genre-bending horror novel set in Antarctica, exploring themes of abandonment and America's racial legacy. For those new to horror, **Hole in the Sky** is recommended for thriller and sci-fi fans, while **The Bewitching** suits readers of historical fiction and mysteries. Explore more in the Horror Collection on the 3rd floor of the Central Library.

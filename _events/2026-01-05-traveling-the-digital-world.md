@@ -231,7 +231,7 @@ source_url: https://wscenter.org/event/digital-discussions-2-2-2-2/2026-01-05/
 start_date: '2026-01-05T15:00:00-08:00'
 summarized: true
 title: Traveling the Digital World
-topics:
+topic_titles:
 - Education & Learning
 - Senior Services
 ---

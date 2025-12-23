@@ -25,7 +25,7 @@ source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/healthcare-access-team-open-enrollment-season-november-outreach-calendar/?utm_source=rss&utm_medium=rss&utm_campaign=healthcare-access-team-open-enrollment-season-november-outreach-calendar
 summarized: true
 title: Healthcare Access Team Open enrollment season – November outreach calendar
-topics:
+topic_titles:
 - Health Care
 ---
 

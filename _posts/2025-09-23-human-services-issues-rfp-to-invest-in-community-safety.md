@@ -14,7 +14,7 @@ source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/23/human-services-issues-rfp-to-invest-in-community-safety/
 summarized: true
 title: Human Services issues RFP to invest in community safety
-topics:
+topic_titles:
 - Domestic Violence
 - Education & Learning
 - Employment & Job Support

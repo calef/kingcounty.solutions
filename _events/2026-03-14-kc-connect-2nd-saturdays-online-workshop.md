@@ -59,7 +59,7 @@ source_url: https://kcdrc.org/event/kc-connect-online-workshop/2026-03-14/
 start_date: '2026-03-14T11:00:00-07:00'
 summarized: true
 title: 'KC CONNECT: 2nd Saturdays Online Workshop'
-topics: []
+topic_titles: []
 ---
 
 Join the KC CONNECT: 2nd Saturdays Online Workshop on March 14, 2026, from 11 a.m. to 1 p.m. This free, youth-centered session welcomes young people and their families from across King County to engage in discussions about conflict, communication, and justice in a supportive virtual environment. Each month features a different topic, and March's focus will be on restorative responses to harm. Attendees can expect to participate actively—no preparation is needed, just bring your voice and an open mind. The workshops occur online on the second Saturday of every month, providing valuable skills and insights for navigating real-life situations.

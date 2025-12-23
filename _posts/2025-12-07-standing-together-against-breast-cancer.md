@@ -90,7 +90,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143332/standing-together-against-breast-cancer/
 summarized: true
 title: Standing together against breast cancer
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

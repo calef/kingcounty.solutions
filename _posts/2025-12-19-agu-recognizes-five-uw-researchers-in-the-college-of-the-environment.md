@@ -48,7 +48,7 @@ source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/19/agu-recognizes-five-uw-researchers-in-the-college-of-the-environment/
 summarized: true
 title: AGU recognizes five UW researchers in the College of the Environment
-topics: []
+topic_titles: []
 ---
 
 Five researchers from the University of Washington were honored at the American Geophysical Union conference in New Orleans for their significant contributions to Earth and space sciences. The annual meeting featured thousands of scientists and educators discussing emerging research and networking. This year's theme was "Where Science Connects Us."

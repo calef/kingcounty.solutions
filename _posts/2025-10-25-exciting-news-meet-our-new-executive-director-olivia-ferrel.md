@@ -22,7 +22,7 @@ source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/exciting-news-meet-our-new-executive-director-olivia-ferrel/
 summarized: true
 title: 'Exciting News: Meet Our New Executive Director, Olivia Ferrel!'
-topics:
+topic_titles:
 - Domestic Violence
 - Shelter & Housing
 ---

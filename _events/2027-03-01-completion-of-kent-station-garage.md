@@ -10,7 +10,7 @@ source_url: https://www.soundtransit.org/blog/platform/construction-update-new-p
 start_date: '2027-03-01T00:00:00-08:00'
 summarized: true
 title: Completion of Kent Station Garage
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

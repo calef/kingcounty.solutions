@@ -13,7 +13,7 @@ source: Multi-Service Center
 source_url: https://mschelps.org/removing-barriers-helping-more-neighbors/
 summarized: true
 title: Removing barriers, helping more neighbors
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

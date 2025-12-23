@@ -64,7 +64,7 @@ source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/november-2025-donations-needed/
 summarized: true
 title: November 2025 Donations Needed
-topics:
+topic_titles:
 - Personal & Household Needs
 - Food & Nutrition
 ---

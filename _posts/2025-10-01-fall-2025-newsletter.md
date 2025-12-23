@@ -337,7 +337,7 @@ source: Jubilee Women's Center
 source_url: https://conta.cc/42T8NtK#new_tab
 summarized: true
 title: Fall 2025 Newsletter
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 - Shelter & Housing

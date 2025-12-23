@@ -97,7 +97,7 @@ source: YouthCare
 source_url: https://youthcare.org/blog/meet-youthcares-six-member-transition-team/
 summarized: true
 title: Meet YouthCare’s Six-Member Transition Team
-topics:
+topic_titles:
 - Shelter & Housing
 - Employment & Job Support
 ---

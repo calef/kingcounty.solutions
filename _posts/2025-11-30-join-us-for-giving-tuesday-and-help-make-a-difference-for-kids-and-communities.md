@@ -114,7 +114,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/join-us-for-giving-tuesday-and-help-make-a-difference-for-kids-and-communities/
 summarized: true
 title: Join us for Giving Tuesday and help make a difference for kids and communities!
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 ---

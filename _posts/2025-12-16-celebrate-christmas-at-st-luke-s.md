@@ -16,7 +16,7 @@ source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/12/16/celebrate-christmas-at-st-lukes/
 summarized: true
 title: Celebrate Christmas at St Luke’s
-topics: []
+topic_titles: []
 ---
 
 St. Luke's Episcopal Church invites the community to celebrate Christmas with a series of festive services. On Christmas Eve, there will be a Pop-Up Pageant for all ages starting at 4 p.m., followed by a Candlelight Service in the Chapel at 8 p.m. The church will also hold a Christmas Day service featuring stories and carols. Everyone is welcome to join these celebrations.

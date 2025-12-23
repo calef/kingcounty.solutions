@@ -76,7 +76,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/family-makes-memories-at-holiday-meals-event/
 summarized: true
 title: Family Makes Memories at Holiday Meals Event
-topics:
+topic_titles:
 - Disabilities
 - Employment & Job Support
 - Food & Nutrition

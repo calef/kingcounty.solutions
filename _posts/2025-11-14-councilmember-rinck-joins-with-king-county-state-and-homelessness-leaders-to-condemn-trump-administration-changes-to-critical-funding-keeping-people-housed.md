@@ -13,7 +13,7 @@ source_url: https://council.seattle.gov/2025/11/14/councilmember-rinck-joins-wit
 summarized: true
 title: Councilmember Rinck joins with King County, State and homelessness leaders
   to condemn Trump Administration changes to critical funding keeping people housed
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

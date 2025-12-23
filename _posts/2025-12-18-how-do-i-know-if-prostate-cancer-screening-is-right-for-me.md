@@ -259,7 +259,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143920/know-if-prostate-cancer-screening-right-for-me/
 summarized: true
 title: How do I know if prostate cancer screening is right for me?
-topics:
+topic_titles:
 - Health Care
 ---
 

@@ -61,7 +61,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143709/future-veteran-health-dr-vassy-genomic-medicine/
 summarized: true
 title: 'The future of Veteran health: Dr. Jason Vassy on genomic medicine'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

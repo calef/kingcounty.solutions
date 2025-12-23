@@ -58,7 +58,7 @@ source: City of Normandy Park
 source_url: https://normandyparkwa.gov/public-notices/public-hearing-notice-metropolitan-parks-district-2026-levy/
 summarized: true
 title: Public Hearing Notice – Metropolitan Parks District 2026 Levy
-topics: []
+topic_titles: []
 ---
 
 A public hearing is scheduled for the Metropolitan Parks District's 2026 levy proposal. The hearing will take place on Nov. 13, 2023, at 7 p.m. during the regular City Council meeting. The location for the meeting is Normandy Park City Hall. This hearing provides an opportunity for community members to express their opinions regarding the proposed levy, which is intended to fund parks and recreation services within the district. Residents are encouraged to participate and share their views on the potential impact of the levy on local parks and recreational programs. Those unable to attend the meeting can submit their comments in writing, which will also be considered during the hearing.

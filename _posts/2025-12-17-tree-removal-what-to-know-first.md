@@ -58,7 +58,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/tree-removal-what-know-first
 summarized: true
 title: 'Tree removal: What to know first'
-topics: []
+topic_titles: []
 ---
 
 Thinking about removing a tree from your property? Before proceeding, it’s essential to follow the proper steps outlined by the city. Review the updated tree removal and retention information on the city’s website. An initial inspection by a city inspector is required before any tree removal begins. The inspector will confirm which trees are approved for removal under your permit, ensuring clarity and providing an opportunity to meet the inspector in person. After completing the tree work, schedule a final inspection to close out your permit, which verifies that the work was done according to approved plans. Following these procedures is crucial for safe and responsible tree removal, helping to protect the environment, neighboring properties, and the community’s tree canopy. Neglecting these steps can result in delays, confusion, and penalties, as well as potential harm to Bellevue’s urban forest. For those holding a Tree Removal Only permit or interested in applying for one, additional details are available on the city's development services page. It’s important to adhere to the permitting and inspection process to safeguard both your investment and the environment. For further assistance, contact the Land Use department or schedule a meeting with the Virtual Permit Center.

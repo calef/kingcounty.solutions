@@ -414,7 +414,7 @@ start_date: '2026-01-08T12:30:00-08:00'
 summarized: true
 title: Info Session | Foster Undergraduate Study Abroad 101 - Week of Welcome (WoW)
   Event
-topics:
+topic_titles:
 - Education & Learning
 ---
 

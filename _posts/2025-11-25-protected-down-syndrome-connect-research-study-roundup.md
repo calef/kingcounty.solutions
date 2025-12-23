@@ -13,7 +13,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/25/down-syndrome-connect-research-study-roundup/
 summarized: true
 title: 'Protected: Down Syndrome-Connect Research Study Roundup'
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 ---

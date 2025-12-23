@@ -21,7 +21,7 @@ source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/more-than-an-address-sister-lillian-murphy-community-is-home/
 summarized: true
 title: More than an address – Sister Lillian Murphy Community is home
-topics:
+topic_titles:
 - Shelter & Housing
 - Childcare
 ---

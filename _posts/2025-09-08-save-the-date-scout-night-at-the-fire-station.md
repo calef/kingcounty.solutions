@@ -17,7 +17,7 @@ source: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/09/save-the-date-scout-night-at-the-fire-station-2/
 summarized: true
 title: Save the Date! Scout Night at the Fire Station
-topics: []
+topic_titles: []
 ---
 
 The Valley Regional Fire Authority (VRFA) is hosting a Scout Night at the Fire Station on Oct. 29 from 5:30 to 8:30 p.m. at Station 33 in Lakeland Hills, Auburn, Washington. The event is open to all scouting and adventure groups and offers activities to assist in meeting badge requirements, including first aid, CPR/AED awareness, knot tying, disaster preparedness, home fire escape planning, and forensics. Activities range from 10 to 15 minutes, with a few lasting up to 20 minutes. Registration can be completed by emailing group details to public.info@vrfa.org. Another similar event is being held by Puget Sound Fire Authority on Sept. 29 at their Station 35 in Kent.

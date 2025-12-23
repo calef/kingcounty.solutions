@@ -15,7 +15,7 @@ source_url: https://sdotblog.seattle.gov/2025/12/11/building-more-sidewalks-walk
 summarized: true
 title: We’re Building More Sidewalks Across Seattle, in Partnership with Local Communities
   | LEVY DOLLARS AT WORK
-topics: []
+topic_titles: []
 ---
 
 Seattle is taking steps to improve its sidewalks and walkways through community engagement. The city has hosted "walkshops" where residents collaborate to create plans for better pedestrian infrastructure. These events focus on listening to the community's needs and preferences regarding where new sidewalks and walkways should be placed. Feedback from these workshops will help shape the future of Seattle's walking paths, making them safer and more accessible. The initiative aims to enhance walkability throughout the city, ensuring that all neighborhoods have the necessary infrastructure for pedestrians. By involving residents in the planning process, Seattle seeks to create a more inclusive and user-friendly environment for walking.

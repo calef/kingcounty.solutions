@@ -150,7 +150,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/04/early-mobility-innovation-for-young-children-with-idd/
 summarized: true
 title: Early Mobility Innovation for Young Children with IDD
-topics:
+topic_titles:
 - Disabilities
 - Childcare
 ---

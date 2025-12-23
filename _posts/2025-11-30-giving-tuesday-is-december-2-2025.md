@@ -32,7 +32,7 @@ source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/giving-tuesday-is-december-2-2025/?utm_source=rss&utm_medium=rss&utm_campaign=giving-tuesday-is-december-2-2025
 summarized: true
 title: Giving Tuesday is December 2, 2025!
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 - Financial Assistance

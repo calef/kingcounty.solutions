@@ -23,7 +23,7 @@ source: The Center for Active Living
 source_url: https://wscenter.org/your-support-fuels-it-all/
 summarized: true
 title: Your support fuels it all
-topics:
+topic_titles:
 - Food & Nutrition
 - Mental Health & Counseling
 - Senior Services

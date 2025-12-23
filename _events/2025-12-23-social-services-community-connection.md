@@ -74,7 +74,7 @@ source_url: https://www.spseniors.org/calendar/social-services-community-connect
 start_date: '2025-12-23T08:30:00-08:00'
 summarized: true
 title: Social Services Community Connection
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Health Care

@@ -83,7 +83,7 @@ source_url: https://www.washington.edu/lectures/events/philosophical-nonviolence
 start_date: '2026-01-14T18:30:00-08:00'
 summarized: true
 title: Philosophical Nonviolence and the Democratic Ideal with John Wood Jr.
-topics: []
+topic_titles: []
 ---
 
 Join us for an engaging evening with John Wood Jr. on Jan. 14, 2026, at 6:30 p.m. at Town Hall Seattle. This event will explore the concept of philosophical nonviolence and its relevance to the democratic ideal. Attendees can expect thought-provoking discussions, insights into nonviolent strategies for social change, and opportunities to engage with like-minded individuals. Whether you are a student of philosophy, a community activist, or simply curious about the intersection of nonviolence and democracy, this event promises to inspire and challenge your perspectives. Don't miss this chance to deepen your understanding of these crucial topics and participate in meaningful dialogue.

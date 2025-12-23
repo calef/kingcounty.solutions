@@ -32,7 +32,7 @@ start_date: '2026-01-06T12:00:00-08:00'
 summarized: true
 title: 'Course Accessibility Lunch & Learn: Ask Us! Accessibility Resources at the
   UW Libraries'
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

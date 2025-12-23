@@ -81,7 +81,7 @@ source_url: https://www.elcentrodelaraza.org/event/community-pet-vaccine-clinic/
 start_date: '2025-12-26T10:00:00-08:00'
 summarized: true
 title: Community Pet Vaccine Clinic
-topics: []
+topic_titles: []
 ---
 
 Join us for the Community Pet Vaccine Clinic on Dec. 26, 2025, from 10 a.m. to 2 p.m. at El Centro de la Raza, located at 2524 16th Ave. S, Seattle, WA. This event offers pet owners a chance to provide essential vaccinations for their furry friends at no cost. Attendees can expect a friendly environment with knowledgeable staff ready to assist with vaccination schedules and pet care information. This clinic is a great opportunity to ensure your pets are healthy and protected while connecting with fellow pet owners in the community. Don’t miss out on this valuable resource for your beloved companions!

@@ -16,7 +16,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/12/safety-tips-as-you-clean-your-home-or-business/
 summarized: true
 title: Safety tips as you clean your home or business
-topics:
+topic_titles:
 - Health Care
 - Shelter & Housing
 ---

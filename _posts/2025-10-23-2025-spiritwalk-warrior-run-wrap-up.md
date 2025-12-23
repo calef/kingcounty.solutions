@@ -12,7 +12,7 @@ source: Seattle Indian Health Board
 source_url: https://www.sihb.org/2025/10/2025-spiritwalk-warrior-run-wrap-up/
 summarized: true
 title: 2025 SpiritWalk & Warrior Run wrap-up
-topics:
+topic_titles:
 - Health Care
 ---
 

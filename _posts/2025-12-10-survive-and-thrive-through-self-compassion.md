@@ -103,7 +103,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143694/survive-and-thrive-through-self-compassion/
 summarized: true
 title: Survive and thrive through self-compassion
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Senior Services
 - Disabilities

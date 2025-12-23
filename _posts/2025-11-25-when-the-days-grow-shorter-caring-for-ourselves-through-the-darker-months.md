@@ -16,7 +16,7 @@ source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/when-the-days-grow-shorter-caring-for-ourselves-through-the-darker-months
 summarized: true
 title: 'When the Days Grow Shorter: Caring for Ourselves Through the Darker Months'
-topics:
+topic_titles:
 - Senior Services
 - Mental Health & Counseling
 ---

@@ -34,7 +34,7 @@ source_url: https://www.tukwilawa.gov/event/tukwila-community-center-maintenance
 start_date: '2025-12-22T08:00:00-08:00'
 summarized: true
 title: Tukwila Community Center Maintenance Closure - Dec 22 - Jan 4
-topics: []
+topic_titles: []
 ---
 
 The Tukwila Community Center will be closed for maintenance from December 22, 2025, to January 4, 2026. During this period, the facility will undergo necessary repairs and upgrades, ensuring a better experience for future visitors. The center, located at 12424 42nd Avenue South in Tukwila, WA, will reopen on January 5, 2026, at 8 a.m. Residents are encouraged to plan their visits accordingly, as no activities or services will be available during the closure. For more information, call 206-768-2822.

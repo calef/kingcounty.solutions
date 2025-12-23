@@ -189,7 +189,7 @@ source_url: https://wsdot.wa.gov/about/news/2025/second-community-conversation-n
 summarized: true
 title: Second community conversation on North Spokane Corridor scheduled Thursday,
   Dec. 18
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

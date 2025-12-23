@@ -93,7 +93,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143698/extending-vas-reach-preventing-veteran-suicide/
 summarized: true
 title: Extending VA’s reach in preventing veteran suicide
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

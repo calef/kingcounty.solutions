@@ -14,7 +14,7 @@ source_url: https://news.seattle.gov/2025/12/03/seattle-office-of-labor-standard
 summarized: true
 title: Seattle Office of Labor Standards Announces Settlement with Amazon Flex for
   Violations of Gig Worker and App-Based Worker Protections
-topics:
+topic_titles:
 - Employment & Job Support
 - Legal Aid
 ---

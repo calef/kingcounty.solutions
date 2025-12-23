@@ -38,7 +38,7 @@ source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-15th-19th/
 summarized: true
 title: Dining Menu December 15th – 19th
-topics:
+topic_titles:
 - Senior Services
 - Food & Nutrition
 ---

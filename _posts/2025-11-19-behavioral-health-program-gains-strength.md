@@ -17,7 +17,7 @@ source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/behavioral-health-program-gains-strength/
 summarized: true
 title: Behavioral Health Program Gains Strength
-topics:
+topic_titles:
 - Senior Services
 - Mental Health & Counseling
 - Financial Assistance

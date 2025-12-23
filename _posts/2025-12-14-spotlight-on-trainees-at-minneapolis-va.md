@@ -193,7 +193,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143065/spotlight-on-trainees-at-minneapolis-va/
 summarized: true
 title: Spotlight on trainees at Minneapolis VA
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

@@ -14,7 +14,7 @@ source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/09/deaconess-valley-hospitals-center-of-excellence/
 summarized: true
 title: MultiCare Deaconess & Valley hospitals receive national acclaim
-topics:
+topic_titles:
 - Health Care
 ---
 

@@ -14,7 +14,7 @@ source_url: https://news.seattle.gov/2025/12/10/la-oficina-de-normas-laborales-d
 summarized: true
 title: La Oficina de Normas Laborales de Seattle resuelve una investigación por supuesto
   robo de salarios a una proveedora de cuidados
-topics:
+topic_titles:
 - Employment & Job Support
 - Legal Aid
 ---

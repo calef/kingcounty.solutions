@@ -14,18 +14,18 @@ class SummarizerHelpersTest < Minitest::Test
   end
 
   def test_needs_classification_when_key_missing
-    assert @summarizer.send(:needs_classification?, {}, 'topics')
+    assert @summarizer.send(:needs_classification?, {}, 'topic_titles')
   end
 
   def test_needs_classification_when_value_nil
-    assert @summarizer.send(:needs_classification?, { 'topics' => nil }, 'topics')
+    assert @summarizer.send(:needs_classification?, { 'topic_titles' => nil }, 'topic_titles')
   end
 
   def test_skips_classification_for_empty_array
-    refute @summarizer.send(:needs_classification?, { 'topics' => [] }, 'topics')
+    refute @summarizer.send(:needs_classification?, { 'topic_titles' => [] }, 'topic_titles')
   end
 
   def test_skips_classification_when_value_present
-    refute @summarizer.send(:needs_classification?, { 'topics' => ['Health'] }, 'topics')
+    refute @summarizer.send(:needs_classification?, { 'topic_titles' => ['Health'] }, 'topic_titles')
   end
 end

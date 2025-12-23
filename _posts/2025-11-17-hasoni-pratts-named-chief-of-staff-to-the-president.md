@@ -23,7 +23,7 @@ source: University of Washington
 source_url: https://www.washington.edu/news/2025/11/17/hasoni-pratts-named-chief-of-staff-to-the-president/
 summarized: true
 title: Hasoni Pratts named chief of staff to the president
-topics: []
+topic_titles: []
 ---
 
 Hasoni Pratts has been appointed chief of staff to University of Washington President Robert J. Jones. In this key leadership position, she will act as a senior advisor and is tasked with advancing the university's strategic priorities and institutional goals. Pratts has extensive experience in higher education governance and national policy advocacy, currently serving on the New York State Board of Regents and as senior advisor to the CEO of the National Urban League. Her expertise includes public policy, education equity, and workforce development.

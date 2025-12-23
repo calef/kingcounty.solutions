@@ -7709,7 +7709,7 @@ source_url: https://nosscr.org/event/sixth-circuit-virtual-meeting/
 start_date: '2026-02-12T14:30:00-05:00'
 summarized: true
 title: Sixth Circuit Virtual Meeting
-topics:
+topic_titles:
 - Legal Aid
 ---
 

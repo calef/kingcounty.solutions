@@ -11,7 +11,7 @@ source: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16499115
 summarized: true
 title: Additional Free At-Home COVID-19 Tests Kits Available
-topics:
+topic_titles:
 - Health Care
 ---
 

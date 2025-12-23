@@ -231,7 +231,7 @@ source_url: https://wscenter.org/event/party-bridge/2025-12-24/
 start_date: '2025-12-24T10:00:00-08:00'
 summarized: true
 title: Party Bridge
-topics: []
+topic_titles: []
 ---
 
 Join fellow card enthusiasts for Party Bridge at The Center for Active Living on Dec. 24, 2025, starting at 10 a.m. This engaging event invites players of all skill levels to enjoy a friendly atmosphere while playing bridge. Attendees can expect to socialize, make new friends, and sharpen their card-playing skills. The center is located at 4217 SW Oregon St. in Seattle. Don't miss this opportunity to have fun and connect with the community over a classic game.

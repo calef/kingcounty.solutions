@@ -16,7 +16,7 @@ source_url: https://ischool.uw.edu/programs/informatics
 start_date: '2026-02-06T15:00:00-08:00'
 summarized: true
 title: Informatics Program Overview for Transfer Students
-topics:
+topic_titles:
 - Education & Learning
 ---
 

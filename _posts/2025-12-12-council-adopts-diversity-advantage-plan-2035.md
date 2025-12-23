@@ -46,7 +46,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-adopts-diversity-advantage-plan-2035
 summarized: true
 title: Council adopts Diversity Advantage Plan 2035
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 - Employment & Job Support

@@ -103,7 +103,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144170/livewholehealth-297-reflections-and-intentions-for-2026/
 summarized: true
 title: 'LiveWholeHealth #297: Reflections and intentions for 2026'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

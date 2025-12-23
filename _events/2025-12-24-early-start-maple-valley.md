@@ -64,7 +64,7 @@ source_url: https://iacswa.org/event/early-start-maple-valley-101/
 start_date: '2025-12-24T10:00:00-08:00'
 summarized: true
 title: EARLY START Maple Valley
-topics: []
+topic_titles: []
 ---
 
 Join us for the Early Start event in Maple Valley on Dec. 24 from 10 to 11 a.m. This community gathering offers a wonderful opportunity for attendees to connect, engage in meaningful conversations, and enjoy festive activities as we celebrate the holiday season together. Whether you're looking to meet new friends or simply enjoy the spirit of the season, this event is perfect for all ages. Come and be part of the joy in Maple Valley, Washington!

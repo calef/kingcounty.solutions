@@ -16,7 +16,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/groundbreaking-new-hope-family-housing
 summarized: true
 title: 'Groundbreaking: New Hope Family Housing!'
-topics:
+topic_titles:
 - Shelter & Housing
 - Childcare
 - Employment & Job Support

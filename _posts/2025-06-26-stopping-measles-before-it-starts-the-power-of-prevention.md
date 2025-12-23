@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/stopping-measles-before-it-starts-the-power-of-prevention
 summarized: true
 title: 'stopping measles before it starts: the power of prevention '
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

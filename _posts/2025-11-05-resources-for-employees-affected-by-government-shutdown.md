@@ -69,7 +69,7 @@ source: City of Des Moines
 source_url: https://www.desmoineswa.gov/news/what_s_new/resources_for_employees_affected_by_gov_t_shutdown/
 summarized: true
 title: Resources for Employees Affected by Government Shutdown
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Employment & Job Support

@@ -17,7 +17,7 @@ source: Washington 211
 source_url: https://wa211.org/history-timeline/
 summarized: true
 title: History Timeline
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition

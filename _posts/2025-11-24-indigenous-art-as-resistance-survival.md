@@ -189,7 +189,7 @@ source: Solid Ground
 source_url: https://www.solid-ground.org/indigenous-art-as-resistance-survival/
 summarized: true
 title: Indigenous art as resistance, survival 
-topics: []
+topic_titles: []
 ---
 
 Indigenous art serves as a vital means of survival and cultural preservation for Indigenous communities across the U.S. and beyond, acting as a tool for resistance against erasure and colonial narratives. Featured artists like Cannupa Hanska Luger, Tania Willard, Dyani White Hawk, and Jordan Ann Craig exemplify this role through their innovative works.

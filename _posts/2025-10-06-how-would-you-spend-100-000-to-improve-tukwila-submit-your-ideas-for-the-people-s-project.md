@@ -24,7 +24,7 @@ source_url: https://www.tukwilawa.gov/how-would-you-spend-100000-to-improve-tukw
 summarized: true
 title: How would you spend $100,000 to improve Tukwila? Submit your ideas for the
   People’s Project
-topics: []
+topic_titles: []
 ---
 
 Tukwila is inviting its residents to participate in the People’s Project, a new initiative that allows community members to decide how to invest $100,000 in funds for small, visible improvements in the city. From Oct. 1 to Nov. 15, residents can submit their ideas via an Idea Submission Form available in multiple languages. The steering committee overseeing this initiative comprises residents from diverse backgrounds and neighborhoods, ensuring a fair and inclusive process. The initiative is part of Tukwila's participatory budgeting strategy.

@@ -44,7 +44,7 @@ source: University of Washington
 source_url: https://www.washington.edu/news/2025/11/25/in-a-new-documentary-uw-researchers-investigate-when-greenland-was-ice-free/
 summarized: true
 title: In a new documentary, UW researchers investigate when Greenland was ice-free
-topics: []
+topic_titles: []
 ---
 
 In a new documentary titled "The Memory of Darkness, Light and Ice," researchers from the University of Washington explore Greenland's climate history, particularly when parts of the region were ice-free approximately 400,000 years ago. The documentary highlights findings from sediment and ice samples collected during the 1960s at Camp Century, a U.S. military base in Greenland. These samples were rediscovered in 2019, leading to collaborative research aimed at understanding climate change over extended periods.

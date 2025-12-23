@@ -235,7 +235,7 @@ source_url: https://wscenter.org/event/balance-strength-2-2-2-2/2026-01-07/
 start_date: '2026-01-07T10:00:00-08:00'
 summarized: true
 title: Balance & Strength
-topics: []
+topic_titles: []
 ---
 
 Join us for the Balance & Strength event at The Center for Active Living in Seattle on Jan. 7, 2026, starting at 10 a.m. This engaging session focuses on improving stability and enhancing physical strength through guided exercises. Participants can expect a supportive environment, expert instruction, and the opportunity to connect with others interested in fitness and wellness. Whether you're a beginner or looking to refine your skills, this event is designed to help you build confidence in your physical abilities. Don't miss this chance to invest in your health and well-being.

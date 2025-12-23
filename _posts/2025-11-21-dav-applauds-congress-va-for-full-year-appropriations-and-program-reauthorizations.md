@@ -33,7 +33,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/dav-applauds-congress-va-for-full-year-appropriations-and-program-reauthorizations/
 summarized: true
 title: DAV applauds Congress & VA for full year appropriations and program reauthorizations
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Employment & Job Support

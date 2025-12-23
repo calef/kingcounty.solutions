@@ -34,7 +34,7 @@ source: Refugee Women's Alliance
 source_url: https://www.rewa.org/standing-strong/?utm_source=rss&utm_medium=rss&utm_campaign=standing-strong
 summarized: true
 title: Standing Strong
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 - Domestic Violence

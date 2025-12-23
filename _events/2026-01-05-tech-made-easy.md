@@ -234,7 +234,7 @@ source_url: https://wscenter.org/event/digital-discussions-2-2-2-2-2/2026-01-05/
 start_date: '2026-01-05T15:00:00-08:00'
 summarized: true
 title: Tech Made Easy
-topics: []
+topic_titles: []
 ---
 
 Join us for "Tech Made Easy" on Jan. 5, 2026, at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This event is designed to help attendees navigate the complexities of technology in a friendly and supportive environment. Participants can expect hands-on demonstrations, personalized assistance, and practical tips to enhance their tech skills. Whether you're a beginner or looking to sharpen your existing knowledge, this event offers valuable resources to make technology more accessible. Don’t miss this opportunity to empower yourself with the tools and confidence to use technology effectively.

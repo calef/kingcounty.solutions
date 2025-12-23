@@ -18,7 +18,7 @@ source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/12/19/recycle-your-holidays-reduce-waste-and-recycle-right/
 summarized: true
 title: 'Recycle Your Holidays: Reduce Waste and Recycle Right!'
-topics: []
+topic_titles: []
 ---
 
 The holidays often lead to increased waste from gift wrap, packaging, and food. Seattle Public Utilities encourages residents to make small, mindful choices to reduce waste during this festive season. To recycle effectively, it is important to know what materials can be recycled and how to prepare them properly. For example, only clean and dry paper materials should be placed in recycling bins, while items like plastic gift wrap and foam packaging are not recyclable.

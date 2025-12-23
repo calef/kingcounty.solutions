@@ -534,7 +534,7 @@ source_url: https://sites.google.com/uw.edu/schoolofenvironmentalandforest/home
 start_date: '2026-02-04T12:00:00-08:00'
 summarized: true
 title: Pine Trees Tour
-topics: []
+topic_titles: []
 ---
 
 Join the Pine Trees Tour at the University of Washington on Feb. 4 from noon to 1 p.m. at Denny Hall. This guided tour offers attendees an opportunity to explore and appreciate the diverse species of pine trees on campus. Participants will enjoy a scenic outdoor experience while learning about the ecological significance and unique characteristics of these trees. The tour lasts about one hour, and attendees are encouraged to dress appropriately for the weather. This event is free and open to the public, making it a perfect outing for nature lovers and families alike. Don’t miss this chance to connect with the natural beauty of the UW campus!

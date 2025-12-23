@@ -21,7 +21,7 @@ source_url: https://events.uw.edu/event/42b08237-3c74-4264-a573-7a6f8b086836/
 start_date: '2026-01-20T13:00:00-08:00'
 summarized: true
 title: 'Don''t Break the Bank: Exploring Lower-Cost Living Options in Retirement'
-topics:
+topic_titles:
 - Financial Assistance
 - Senior Services
 ---

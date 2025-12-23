@@ -89,7 +89,7 @@ source_url: https://www.tukwilawa.gov/event/transportation-infrastructure-servic
 start_date: '2025-12-22T17:30:00-08:00'
 summarized: true
 title: Transportation & Infrastructure Services Committee - Cancelled
-topics: []
+topic_titles: []
 ---
 
 The Transportation & Infrastructure Services Committee meeting scheduled for December 22 at 5:30 p.m. has been cancelled. This committee typically provides policy recommendations on various legislative matters, including transportation, traffic, water, and public transit. Meetings are usually open to the public and conducted in a hybrid format, allowing participation both onsite and virtually. The Duwamish Conference Room, located in the 6300 Building at 6300 Southcenter Boulevard, serves as the usual venue. Attendees can expect discussions on key infrastructure issues affecting the community. For updates on future meetings or to access agendas, residents are encouraged to contact the city council office.

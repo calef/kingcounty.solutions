@@ -179,7 +179,7 @@ source_url: https://togethercenter.org/event/northwest-share-free-weekly-food-tr
 start_date: '2025-12-25T18:30:00-08:00'
 summarized: true
 title: NorthWest Share Free Weekly Food Truck
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

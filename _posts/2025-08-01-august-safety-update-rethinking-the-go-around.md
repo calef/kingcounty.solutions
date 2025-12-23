@@ -133,7 +133,7 @@ source: Angel Flight West
 source_url: https://angelflightwest.org/news/august-safety-update-rethinking-the-go-around/
 summarized: true
 title: 'August Safety Update: Rethinking the Go-Around'
-topics: []
+topic_titles: []
 ---
 
 This month's safety update from Angel Flight West focuses on the critical decision-making process surrounding go-arounds during landing. Go-arounds may be necessary due to unstable approaches, runway obstructions, loss of visual reference, mechanical issues, wind shear, or air traffic control instructions. Early recognition of potential landing issues, preferably by 500 feet above ground level, is emphasized to ensure safety. A proper briefing and consistent practice of go-around procedures are crucial, as they help mitigate the startle effect that can occur during unexpected situations.

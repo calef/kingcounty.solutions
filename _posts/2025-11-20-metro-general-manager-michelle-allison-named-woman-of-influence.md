@@ -12,7 +12,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/20/metro-general-manager-michelle-allison-named-woman-of-influence/
 summarized: true
 title: Metro General Manager Michelle Allison named Woman of Influence
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

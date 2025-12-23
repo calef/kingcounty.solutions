@@ -12,7 +12,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_fcd880cec
 start_date: '2026-01-27T09:00:00-08:00'
 summarized: true
 title: 'Scratching the Surface: Soil Formation, Structure, and Chemistry (online)'
-topics: []
+topic_titles: []
 ---
 
 Join us online for "Scratching the Surface: Soil Formation, Structure, and Chemistry" on Jan. 27, 2026, at 9 a.m. PST. This engaging Zoom event will explore the fundamental aspects of soil, including how it forms, its structural properties, and its chemical composition. Attendees can expect to gain valuable insights into the vital role of soil in our ecosystems and its importance for agriculture and environmental sustainability. Whether you're a student, educator, or simply interested in the science of soil, this event offers a unique opportunity to deepen your understanding and ask questions. Don’t miss out on this informative session!

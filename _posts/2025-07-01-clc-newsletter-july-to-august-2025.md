@@ -17,7 +17,7 @@ source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/clc-newsletter-july-to-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=clc-newsletter-july-to-august-2025
 summarized: true
 title: CLC Newsletter – July to August 2025
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 ---

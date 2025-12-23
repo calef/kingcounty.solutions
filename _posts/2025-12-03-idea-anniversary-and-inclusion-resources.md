@@ -133,7 +133,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/03/idea-anniversary-and-inclusion-resources/
 summarized: true
 title: IDEA Anniversary and Inclusion Resources
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

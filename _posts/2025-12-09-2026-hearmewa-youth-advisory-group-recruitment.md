@@ -14,7 +14,7 @@ source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/09/2026-hearmewa-youth-advisory-group-recruitment/
 summarized: true
 title: 2026 HearMeWA Youth Advisory Group recruitment
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

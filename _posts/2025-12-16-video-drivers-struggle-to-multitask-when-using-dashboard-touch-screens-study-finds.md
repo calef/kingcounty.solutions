@@ -71,7 +71,7 @@ source_url: https://www.washington.edu/news/2025/12/16/video-drivers-struggle-to
 summarized: true
 title: 'Video: Drivers struggle to multitask when using dashboard touch screens, study
   finds'
-topics: []
+topic_titles: []
 ---
 
 A study from the University of Washington and Toyota Research Institute reveals that drivers struggle with multitasking when using touch screens in vehicles. Participants drove a simulator while interacting with a touch screen and completing memory tests that simulated distractions. The research found that multitasking negatively impacted both driving and touch screen performance. Specifically, lane drifting increased by 42% when drivers used the touch screen, with accuracy and speed declining by 58% and an additional 17% under cognitive load. Drivers also spent less time looking at the screen when under mental strain.

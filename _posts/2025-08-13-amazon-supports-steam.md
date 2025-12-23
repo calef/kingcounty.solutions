@@ -70,7 +70,7 @@ source: Refugee Women's Alliance
 source_url: https://www.rewa.org/amazon-support-steam/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-support-steam
 summarized: true
 title: Amazon Supports STEAM
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -141,7 +141,7 @@ source_url: https://give.olivecrest.org/event/power-of-one-or-desert-communities
 start_date: '2026-02-19T18:00:00-08:00'
 summarized: true
 title: Power of One 2026 | Desert Communities
-topics: []
+topic_titles: []
 ---
 
 Join us for the **Power of One 2026** event on Feb. 19, 2026, starting at 6 p.m. at the Tommy Bahama Miramonte Resort and Spa in Indian Wells, California. This inspiring event, hosted by Olive Crest, will focus on the impact of individual contributions in supporting local communities. Attendees can expect an engaging evening filled with uplifting stories, networking opportunities, and insights into how collective efforts can lead to significant change. Whether you're looking to connect with like-minded individuals or learn more about community initiatives, this event promises to be both informative and motivating. Don't miss the chance to be part of something meaningful!

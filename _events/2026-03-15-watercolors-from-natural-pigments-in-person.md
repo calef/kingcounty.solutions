@@ -15,7 +15,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_ef942c982
 start_date: '2026-03-15T10:00:00-07:00'
 summarized: true
 title: Watercolors from Natural Pigments (in-person)
-topics: []
+topic_titles: []
 ---
 
 Join the Center for Urban Horticulture Complex for "Watercolors from Natural Pigments," an in-person event on March 15, 2026, starting at 10 a.m. Attendees will have the opportunity to explore the beauty of natural pigments and learn techniques to create vibrant watercolor artworks. This hands-on workshop is perfect for all skill levels, providing a unique chance to connect with nature through art. Don't miss this creative experience at the CUH, where you can immerse yourself in the world of color and creativity.

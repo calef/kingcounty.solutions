@@ -11,7 +11,7 @@ layout: default
 
   {{ content }}
 
-  {% assign topic_news = site.posts | where_exp: "post", "post.topics and post.topics contains page.title" %}
+  {% assign topic_news = site.posts | where_exp: "post", "post.topic_titles and post.topic_titles contains page.title" %}
   {% assign topic_news_total = 0 %}
   {% if topic_news and topic_news.size > 0 %}
     {% assign topic_news = topic_news | sort: "date" | reverse %}
@@ -19,7 +19,7 @@ layout: default
     {% assign topic_news = topic_news | slice: 0, 20 %}
   {% endif %}
 
-  {% assign topic_events = site.events | where_exp: "event", "event.topics and event.topics contains page.title" %}
+  {% assign topic_events = site.events | where_exp: "event", "event.topic_titles and event.topic_titles contains page.title" %}
   {% if topic_events and topic_events.size > 0 %}
     {% assign topic_events_upcoming = topic_events | sort: 'start_date' %}
   {% endif %}

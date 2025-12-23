@@ -245,7 +245,7 @@ source_url: https://worksourceskc.org/event/applications-that-get-interviews-vir
 start_date: '2025-12-22T11:00:00-08:00'
 summarized: true
 title: Applications That Get Interviews - Virtual and In Person
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

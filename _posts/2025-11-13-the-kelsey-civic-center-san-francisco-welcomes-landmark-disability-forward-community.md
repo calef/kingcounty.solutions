@@ -23,7 +23,7 @@ source_url: https://www.mercyhousing.org/2025/11/the-kelsey-civic-center-san-fra
 summarized: true
 title: 'The Kelsey Civic Center: San Francisco Welcomes Landmark Disability-Forward
   Community'
-topics:
+topic_titles:
 - Disabilities
 - Shelter & Housing
 ---

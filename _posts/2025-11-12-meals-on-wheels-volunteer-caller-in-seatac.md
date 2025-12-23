@@ -27,7 +27,7 @@ source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-volunteer-caller-in-seatac/
 summarized: true
 title: 'Meals on Wheels: Volunteer Caller in SeaTac!'
-topics:
+topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 ---

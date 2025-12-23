@@ -16,7 +16,7 @@ source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/15/councilmember-riveras-statement-on-this-weekends-tragic-events/
 summarized: true
 title: Councilmember Rivera’s statement on this weekend’s tragic events
-topics: []
+topic_titles: []
 ---
 
 Councilmember Maritza Rivera from District 4 expressed her deep concern following recent incidents at Brown University in Rhode Island and Bondi Beach in Australia. She stated that these events have caused feelings of shock, upset, and unease, highlighting the issues of ongoing antisemitism and gun violence affecting youth. Rivera's statement reflects a broader worry about the safety and well-being of young people in light of these tragedies.

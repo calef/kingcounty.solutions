@@ -36,7 +36,7 @@ source_url: https://www.vibrant.org/vibrant-emotional-health-and-united-suicide-
 summarized: true
 title: Vibrant Emotional Health and United Suicide Survivors International Launch
   Workplace Suicide Prevention Month Toolkit
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Employment & Job Support
 ---

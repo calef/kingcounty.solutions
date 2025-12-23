@@ -16,7 +16,7 @@ source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/seeing-what-is-through-a-gratitude-lens
 summarized: true
 title: Seeing 'What Is' Through a Gratitude Lens
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

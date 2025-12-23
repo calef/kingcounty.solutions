@@ -68,7 +68,7 @@ source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/podcast-ktub/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-ktub
 summarized: true
 title: "“This Week in Kirkland” Podcast: Connecting Youth at KTUB"
-topics:
+topic_titles:
 - Education & Learning
 - Mental Health & Counseling
 ---

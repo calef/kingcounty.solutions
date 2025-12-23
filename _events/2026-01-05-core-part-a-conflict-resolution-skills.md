@@ -155,7 +155,7 @@ source_url: https://kcdrc.org/event/core-part-a-conflict-resolution-skills/
 start_date: '2026-01-05T09:00:00-08:00'
 summarized: true
 title: 'CoRE™ Part A: Conflict Resolution Skills'
-topics: []
+topic_titles: []
 ---
 
 Join us for CoRE™ Part A: Conflict Resolution Skills on Jan. 5-6, 2026, at the Medical Dental Building, located at 509 Olive Way, Seattle, WA. This in-person training offers an engaging experience focused on essential conflict resolution skills. Attendees will learn through activities that include careful observation, reflective practice, giving and receiving feedback, intentional listening, and understanding conflict styles. The two-day workshop runs from 9 a.m. to 6 p.m. each day, with a one-hour lunch break and shorter breaks throughout. Participants are responsible for their own lunch and transportation. Enhance your ability to navigate conflicts effectively and gain practical tools to apply in various situations. Don't miss this opportunity to develop valuable skills in a supportive environment.

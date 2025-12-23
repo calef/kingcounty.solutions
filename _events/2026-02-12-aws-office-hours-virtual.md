@@ -59,7 +59,7 @@ source_url: https://washington.zoom.us/j/97016995663
 start_date: '2026-02-12T14:00:00-08:00'
 summarized: true
 title: AWS Office Hours - Virtual
-topics: []
+topic_titles: []
 ---
 
 Join us for AWS Office Hours, a virtual event designed to help you enhance your cloud computing skills. This is a great opportunity to connect with AWS experts who will provide insights, answer your questions, and offer guidance on best practices. Whether you're a beginner or an experienced user, you'll find valuable information to help you navigate AWS services effectively.

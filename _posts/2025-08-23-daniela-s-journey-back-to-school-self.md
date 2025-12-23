@@ -36,7 +36,7 @@ source: Treehouse
 source_url: https://www.treehouseforkids.org/danielas-journey-back-to-school-self/
 summarized: true
 title: Daniela’s Journey Back to School & Self
-topics:
+topic_titles:
 - Education & Learning
 ---
 

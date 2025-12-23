@@ -41,7 +41,7 @@ source: THIRA Health
 source_url: https://thirahealth.com/2025/11/13/dbt-skill-spotlight-cope-ahead-for-anxiety-and-depression/?utm_source=rss&utm_medium=rss&utm_campaign=dbt-skill-spotlight-cope-ahead-for-anxiety-and-depression
 summarized: true
 title: 'DBT Skill Spotlight: Cope Ahead for Anxiety and Depression'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

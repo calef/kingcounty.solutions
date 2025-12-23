@@ -233,7 +233,7 @@ source_url: https://wscenter.org/event/tai-chi-3-3-2/2026-01-08/
 start_date: '2026-01-08T10:00:00-08:00'
 summarized: true
 title: Tai Chi Level 3 Advanced
-topics: []
+topic_titles: []
 ---
 
 Join the Tai Chi Level 3 Advanced class at The Center for Active Living in Seattle, starting January 8, 2026, at 10 a.m. This session is designed for experienced practitioners looking to deepen their understanding and practice of Tai Chi. Attendees can expect to refine their techniques, enhance their balance, and improve their overall wellness through advanced movements and forms. This class provides a supportive environment for participants to connect with others while focusing on their personal growth in this ancient art. The Center is located at 4217 SW Oregon St., Seattle, WA, 98116.

@@ -62,7 +62,7 @@ source: Encompass
 source_url: https://encompassnw.org/telehealth-helping-your-child-thrive-from-home/
 summarized: true
 title: 'Telehealth: Helping Your Child Thrive—From Home!'
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 - Mental Health & Counseling

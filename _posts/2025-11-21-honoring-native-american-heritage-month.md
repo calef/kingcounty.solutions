@@ -12,7 +12,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/21/honoring-native-american-heritage-month/
 summarized: true
 title: Honoring Native American Heritage Month
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -12,7 +12,7 @@ source: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-kcrha-not-impacted-by-government-shutdown/
 summarized: true
 title: KCRHA Not Impacted by Government Shutdown
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

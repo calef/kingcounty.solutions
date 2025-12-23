@@ -96,7 +96,7 @@ source: Washington Center for Deaf and Hard of Hearing Youth
 source_url: https://www.cdhy.wa.gov/interpreter-hub-monthly-offerings-jan/
 summarized: true
 title: 'Interpreter Hub Monthly Offerings: January'
-topics: []
+topic_titles: []
 ---
 
 CDHY Interpreter Hub's January 2026 offerings focus on the theme "Becoming," which emphasizes growth and transformation for interpreters. The hub provides various opportunities for skill enhancement, including 3-month growth programs, one-on-one sessions with Deaf and interpreter mentors, mock interpreting practice, classroom observations, book club kits, workshops, and an open house.

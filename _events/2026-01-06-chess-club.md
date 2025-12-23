@@ -231,7 +231,7 @@ source_url: https://wscenter.org/event/chess-club/2026-01-06/
 start_date: '2026-01-06T13:30:00-08:00'
 summarized: true
 title: Chess Club
-topics: []
+topic_titles: []
 ---
 
 Join the Chess Club at The Center for Active Living in Seattle on Jan. 6, 2026, at 1:30 p.m. This event welcomes chess enthusiasts of all skill levels, from beginners to advanced players. Attendees can enjoy friendly matches, improve their strategies, and connect with fellow chess lovers in a supportive environment. Whether you want to learn the basics or challenge yourself with more experienced opponents, this club offers a great opportunity to engage with the game. The Center for Active Living is located at 4217 SW Oregon St., Seattle, WA, 98116. Come sharpen your skills and have fun!

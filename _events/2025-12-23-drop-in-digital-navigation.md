@@ -51,7 +51,7 @@ source_url: https://wscenter.org/event/drop-in-digital-navigation-2-2-2-2/2025-1
 start_date: '2025-12-23T11:30:00-08:00'
 summarized: true
 title: Drop-in Digital Navigation
-topics:
+topic_titles:
 - Education & Learning
 - Senior Services
 ---

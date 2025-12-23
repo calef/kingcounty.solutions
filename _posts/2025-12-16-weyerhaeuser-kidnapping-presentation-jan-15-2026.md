@@ -30,7 +30,7 @@ source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/weyerhaeuser-kidnapping-presentation-jan-15-2026/
 summarized: true
 title: Weyerhaeuser Kidnapping Presentation, Jan. 15, 2026
-topics: []
+topic_titles: []
 ---
 
 In 1935, 9-year-old George Weyerhaeuser, heir to a wealthy family, was kidnapped near his home. He was kept in harsh conditions, including being manacled in a pit and locked in a closet, which triggered the largest manhunt in Northwest history. The case unfolded with many surprising twists and turns, resembling a Hollywood thriller. The conclusion of the kidnapping is particularly remarkable, adding to the extraordinary nature of the event.

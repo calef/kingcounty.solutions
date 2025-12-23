@@ -40,7 +40,7 @@ source: PorchLight
 source_url: https://porchlightcares.org/2025/09/32-in-review-looking-back-to-where-it-all-began/
 summarized: true
 title: '32 in Review: Looking Back to Where it All Began'
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

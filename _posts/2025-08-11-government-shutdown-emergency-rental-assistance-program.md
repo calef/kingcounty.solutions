@@ -14,7 +14,7 @@ source: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/08/emergency-rental-assistance/
 summarized: true
 title: Government Shutdown Emergency Rental Assistance program
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---

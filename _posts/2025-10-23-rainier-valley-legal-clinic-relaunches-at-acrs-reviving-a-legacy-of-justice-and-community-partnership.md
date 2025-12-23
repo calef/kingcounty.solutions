@@ -43,7 +43,7 @@ source_url: https://acrs.org/rainier-valley-legal-clinic-relaunches-at-acrs-revi
 summarized: true
 title: Rainier Valley Legal Clinic Relaunches at ACRS, Reviving a Legacy of Justice
   and Community Partnership
-topics:
+topic_titles:
 - Domestic Violence
 - Education & Learning
 - Employment & Job Support

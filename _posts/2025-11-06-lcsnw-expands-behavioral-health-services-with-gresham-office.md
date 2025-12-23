@@ -79,7 +79,7 @@ source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/11/lcsnw-hits-milestone-with-launch-of-additional-office-in-portland-vancouver-metro-area/
 summarized: true
 title: LCSNW expands behavioral health services with Gresham office
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

@@ -49,7 +49,7 @@ source: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/henry-erhnmans-scholarship-story/
 summarized: true
 title: Henry Ehrnman’s Volunteer Story
-topics:
+topic_titles:
 - Education & Learning
 ---
 

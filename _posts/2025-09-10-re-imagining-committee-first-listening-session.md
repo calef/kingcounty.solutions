@@ -57,7 +57,7 @@ source: Redmond United Methodist Church - Social Ministries
 source_url: https://redmondumc.org/re-imagining-committee-first-listening-session/
 summarized: true
 title: Re-Imagining Committee – First Listening Session
-topics: []
+topic_titles: []
 ---
 
 The Redmond United Methodist Church (UMC) held its first listening session conducted by the Re-Imagining Committee on Sept. 10, 2025. The session aimed to gather insights and ideas to reimagine the church building. More sessions, including the second listening session, are scheduled to facilitate further discussions. The committee also presented its reimagining ideas on Sept. 14 and Oct. 5.

@@ -98,7 +98,7 @@ source_url: https://wscenter.org/event/aging-well-group-2-3/2026-01-12/
 start_date: '2026-01-12T13:00:00-08:00'
 summarized: true
 title: 'Aging Well - Group #1'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Senior Services
 ---

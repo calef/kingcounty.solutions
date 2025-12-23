@@ -79,7 +79,7 @@ source: PorchLight
 source_url: https://porchlightcares.org/2025/10/turning-the-page-together-light-the-way-2025-recap/
 summarized: true
 title: 'Turning the Page Together: Light the Way 2025 Recap'
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 ---

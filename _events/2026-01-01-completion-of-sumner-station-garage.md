@@ -9,7 +9,7 @@ source_url: https://www.soundtransit.org/blog/platform/construction-update-new-p
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: Completion of Sumner Station Garage
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

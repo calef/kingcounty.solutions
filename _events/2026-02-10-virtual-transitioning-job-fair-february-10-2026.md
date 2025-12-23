@@ -40,7 +40,7 @@ source_url: https://www.dav.org/events-calendar/virtual-transitioning-job-fair-f
 start_date: '2026-02-10T00:00:00-08:00'
 summarized: true
 title: Virtual (Transitioning) Job Fair, February 10, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

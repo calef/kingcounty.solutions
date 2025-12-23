@@ -167,7 +167,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/walking-through-fire-gulf-war-veteran-fights-for-early-detection/
 summarized: true
 title: 'Walking through fire: Gulf War veteran fights for early detection'
-topics:
+topic_titles:
 - Health Care
 - Disabilities
 ---

@@ -38,7 +38,7 @@ source: University of Washington
 source_url: https://www.washington.edu/news/2025/11/10/people-mirror-ai-systems-hiring-biases-study-finds/
 summarized: true
 title: People mirror AI systems’ hiring biases, study finds
-topics: []
+topic_titles: []
 ---
 
 A study by the University of Washington found that human hiring decisions closely mirror the biases present in artificial intelligence (AI) systems. Involving 528 participants who evaluated candidates for various jobs, the research simulated different levels of racial bias in AI recommendations. When participants made hiring decisions without AI assistance or with neutral AI, their choices showed little bias. However, when using a moderately biased AI, participants adopted the AI's preferences, favoring nonwhite candidates if the AI did, and vice versa. In cases of severe bias, participants' decisions aligned nearly 90% with the AI's recommendations.

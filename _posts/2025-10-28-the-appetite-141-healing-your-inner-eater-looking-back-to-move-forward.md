@@ -652,7 +652,7 @@ source: 'Opal: Food + Body Wisdom'
 source_url: https://opalfoodandbody.com/the-appetite-141-healing-your-inner-eater/
 summarized: true
 title: 'The Appetite 141: Healing Your Inner Eater – Looking Back to Move Forward'
-topics:
+topic_titles:
 - Food & Nutrition
 - Mental Health & Counseling
 - Education & Learning

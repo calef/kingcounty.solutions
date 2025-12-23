@@ -138,7 +138,7 @@ class PostSummarizerTest < Minitest::Test
                  'source_url' => 'http://ok3',
                  'summarized' => true,
                  'published' => false,
-                 'topics' => [],
+                 'topic_titles' => [],
                  'image_ids' => ['https://example.com/image.jpg']
                }, 'Summarized post without locations')
 
@@ -167,17 +167,17 @@ class PostSummarizerTest < Minitest::Test
     assert_empty document.front_matter['image_ids']
   end
 
-  def test_run_skips_classification_when_topics_and_location_titles_explicitly_empty
+  def test_run_skips_classification_when_topic_titles_and_location_titles_explicitly_empty
     write_post('2025-01-05-test.md', {
                  'source_url' => 'http://ok',
                  'summarized' => true,
-                 'topics' => [],
+                 'topic_titles' => [],
                  'location_titles' => []
                }, 'body')
 
     topic_classifier = Object.new
     def topic_classifier.classify(*)
-      raise 'should not be invoked when topics already exist'
+      raise 'should not be invoked when topic_titles already exist'
     end
 
     location_classifier = Object.new

@@ -245,7 +245,7 @@ source_url: https://wscenter.org/event/terrys-the-greatest-movies-youve-never-he
 start_date: '2026-01-05T12:30:00-08:00'
 summarized: true
 title: Terry’s The Greatest Movies You’ve Never Heard Of
-topics: []
+topic_titles: []
 ---
 
 Join us for "Terry’s The Greatest Movies You’ve Never Heard Of" at The Center for Active Living in Seattle. Starting on January 5, 2026, at 12:30 p.m., this engaging event invites film enthusiasts to discover hidden cinematic gems that may have flown under the radar. Attendees can expect lively discussions, insightful commentary, and a chance to explore unique films that are often overlooked. The event takes place at 4217 SW Oregon St., providing a welcoming atmosphere for all movie lovers. Don’t miss this opportunity to expand your film knowledge and enjoy a community gathering centered around the art of cinema.

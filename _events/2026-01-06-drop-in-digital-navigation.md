@@ -233,7 +233,7 @@ source_url: https://wscenter.org/event/drop-in-digital-navigation-2-2-2-2/2026-0
 start_date: '2026-01-06T11:30:00-08:00'
 summarized: true
 title: Drop-in Digital Navigation
-topics: []
+topic_titles: []
 ---
 
 Join us for Drop-in Digital Navigation at The Center for Active Living on Jan. 6, 2026, starting at 11:30 a.m. This event offers attendees the opportunity to receive personalized assistance with digital devices and online resources. Whether you're looking to improve your tech skills or need help navigating websites and applications, friendly staff will be available to guide you. Located at 4217 SW Oregon St. in Seattle, this is a perfect chance to enhance your digital literacy in a supportive environment.

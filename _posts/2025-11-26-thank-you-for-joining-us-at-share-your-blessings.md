@@ -86,7 +86,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/hv0jm0iv9vflwm3gmvl1genffi2pl2
 summarized: true
 title: Thank you for joining us at Share Your Blessings!
-topics:
+topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 ---

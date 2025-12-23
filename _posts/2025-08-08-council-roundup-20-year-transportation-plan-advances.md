@@ -70,7 +70,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-8-4-25
 summarized: true
 title: 'Council Roundup: 20-year transportation plan advances'
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

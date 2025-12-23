@@ -71,7 +71,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/accesstodignity
 summarized: true
 title: New research highlights urgency of hygiene poverty in our communities
-topics:
+topic_titles:
 - Personal & Household Needs
 - Financial Assistance
 ---

@@ -20,7 +20,7 @@ source_url: https://www.multicare.org/newsroom/2025/10/samaritan-and-multicare-a
 summarized: true
 title: Samaritan and MultiCare approve affiliation to strengthen community-based care
   across the Pacific Northwest
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

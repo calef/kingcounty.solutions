@@ -94,7 +94,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/28/down-syndrome-connect-research-study-roundup/
 summarized: true
 title: Down Syndrome-Connect Research Study Roundup
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 - Health Care

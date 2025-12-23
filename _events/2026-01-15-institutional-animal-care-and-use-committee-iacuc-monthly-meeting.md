@@ -220,7 +220,7 @@ source_url: https://sites.uw.edu/oawrss/iacuc/iacuc-meeting-schedule-and-agenda/
 start_date: '2026-01-15T14:30:00-08:00'
 summarized: true
 title: Institutional Animal Care and Use Committee (IACUC) Monthly Meeting
-topics: []
+topic_titles: []
 ---
 
 The Institutional Animal Care and Use Committee (IACUC) will hold its monthly meeting on Jan. 15, 2026, at 2:30 p.m. at 3939 15th Ave NE, Seattle, WA 98105. Attendees can expect discussions on animal welfare policies, research protocols, and compliance with federal regulations. This meeting is an opportunity for members and interested parties to engage in important conversations about the ethical treatment of animals in research. Participants will have the chance to ask questions and provide input on agenda items.

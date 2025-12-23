@@ -16,7 +16,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/accessibility-features-on-mobile-devices/
 summarized: true
 title: Accessibility Features on Mobile Devices
-topics:
+topic_titles:
 - Disabilities
 ---
 

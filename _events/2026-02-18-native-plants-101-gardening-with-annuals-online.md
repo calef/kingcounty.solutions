@@ -15,7 +15,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_92a4c4946
 start_date: '2026-02-18T19:00:00-08:00'
 summarized: true
 title: 'Native Plants 101: Gardening with Annuals (Online)'
-topics: []
+topic_titles: []
 ---
 
 Join the online workshop "Native Plants 101: Gardening with Annuals" on Feb. 18, 2026, at 7 p.m. PST via Zoom. This engaging session will explore the benefits of incorporating native annuals into your garden, helping you create a vibrant and sustainable landscape. Attendees can expect to learn about various native plant species, their care requirements, and how to effectively integrate them into existing garden designs. Whether you're a seasoned gardener or just starting, this event offers valuable insights for everyone interested in enhancing their gardening skills with native plants. Don't miss this opportunity to connect with fellow gardening enthusiasts and expand your knowledge!

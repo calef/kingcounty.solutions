@@ -66,7 +66,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/belred-arts-developers
 summarized: true
 title: Bellevue selects developers for transit-oriented projects in BelRed Arts District
-topics:
+topic_titles:
 - Shelter & Housing
 - Employment & Job Support
 - Food & Nutrition

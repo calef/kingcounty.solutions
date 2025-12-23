@@ -16,7 +16,7 @@ source_url: https://ischool.uw.edu/programs/msim
 start_date: '2026-01-20T16:30:00-08:00'
 summarized: true
 title: MSIM Information Session with Student Panel
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

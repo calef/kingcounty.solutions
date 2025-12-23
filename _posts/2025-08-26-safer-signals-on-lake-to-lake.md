@@ -34,7 +34,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/lake-to-lake-8-25
 summarized: true
 title: Safer Signals on Lake to Lake
-topics: []
+topic_titles: []
 ---
 
 Safer Signals is a pilot program in Bellevue utilizing LIDAR technology to enhance pedestrian safety at selected intersections. This technology tracks vehicles and individuals biking or walking, adjusting walk signal durations in real time for slower pedestrians. The initiative aims to improve safety and accessibility for all road users.

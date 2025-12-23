@@ -14,7 +14,7 @@ source: City of Seattle
 source_url: https://fireline.seattle.gov/2025/12/11/residential-fire-displaces-one-person-in-matthews-beach-neighborhood/
 summarized: true
 title: Residential fire displaces one person in Matthews Beach neighborhood
-topics: []
+topic_titles: []
 ---
 
 A residential fire in the Matthews Beach neighborhood of Seattle displaced one person on Dec. 11. The Seattle Fire Department received 911 calls just after 6 p.m. about the blaze in the 11000 block of Bartlett Avenue NE. Firefighters arrived to find flames and smoke coming from the front porch and roof of the home. Crews quickly extinguished the fire, which was under control within 30 minutes. The cause of the fire is still under investigation. No injuries were reported, but the displaced resident is receiving assistance from the Red Cross.

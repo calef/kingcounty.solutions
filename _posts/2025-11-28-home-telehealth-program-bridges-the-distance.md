@@ -87,7 +87,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143236/bridging-distances-home-telehealth-program/
 summarized: true
 title: Home Telehealth Program bridges the distance
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

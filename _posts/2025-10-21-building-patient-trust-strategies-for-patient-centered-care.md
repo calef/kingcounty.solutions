@@ -80,7 +80,7 @@ source: Arcora Foundation
 source_url: https://arcorafoundation.org/building-patient-trust-strategies-for-patient-centered-care/
 summarized: true
 title: 'Building Patient Trust: Strategies for Patient Centered Care'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

@@ -232,7 +232,7 @@ source_url: https://wscenter.org/event/burke-dykes-computer-lab-2/2026-01-05/
 start_date: '2026-01-05T08:30:00-08:00'
 summarized: true
 title: Burke Dykes Computer Lab
-topics:
+topic_titles:
 - Education & Learning
 - Senior Services
 ---

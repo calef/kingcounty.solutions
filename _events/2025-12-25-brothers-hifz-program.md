@@ -210,7 +210,7 @@ source_url: https://mapsredmond.org/event/brothers-hifz-program/2025-12-25/
 start_date: '2025-12-25T17:00:00-08:00'
 summarized: true
 title: Brothers Hifz Program
-topics: []
+topic_titles: []
 ---
 
 Join the Brothers Hifz Program at the Muslim Association of Puget Sound (MAPS) starting on December 25, 2025, at 5 p.m. This program is designed for individuals looking to enhance their memorization of the Quran in a supportive and structured environment. Attendees will engage in group sessions, receive guidance from experienced instructors, and participate in activities that promote spiritual growth and community bonding. Whether you are a beginner or looking to refine your skills, this program offers a welcoming space for all. Don’t miss this opportunity to deepen your connection with the Quran and meet fellow participants.

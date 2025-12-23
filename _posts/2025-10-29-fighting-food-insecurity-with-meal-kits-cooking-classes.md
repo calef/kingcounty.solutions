@@ -19,7 +19,7 @@ source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/10/fighting-food-insecurity/
 summarized: true
 title: Fighting food insecurity with meal kits & cooking classes
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

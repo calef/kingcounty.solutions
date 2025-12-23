@@ -40,7 +40,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/community-invited-share-input-nov-12-bellevues-water-plans
 summarized: true
 title: Community invited to share input by Nov. 12 on Bellevue’s water plans
-topics: []
+topic_titles: []
 ---
 
 Bellevue Utilities is updating three key plans that manage the city's storm and surface water, drinking water, and wastewater systems. These updates aim to ensure reliable services, environmental protection, and community well-being. Utilities Director Lucy Liu emphasized the importance of resident input, stating, “No one likes flooded streets, polluted waterways, or declining plant and animal habitats.”

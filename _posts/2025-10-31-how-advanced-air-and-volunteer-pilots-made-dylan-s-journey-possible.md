@@ -65,7 +65,7 @@ source: Angel Flight West
 source_url: https://angelflightwest.org/news/how-advanced-air-and-volunteer-pilots-made-dylans-journey-possible/
 summarized: true
 title: How Advanced Air and Volunteer Pilots Made Dylan’s Journey Possible
-topics:
+topic_titles:
 - Health Care
 - Financial Assistance
 ---

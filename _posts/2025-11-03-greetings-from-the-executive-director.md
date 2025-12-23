@@ -12,7 +12,7 @@ source: The Center for Active Living
 source_url: https://wscenter.org/greetings-from-the-executive-director-3/
 summarized: true
 title: Greetings From the Executive Director
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 ---

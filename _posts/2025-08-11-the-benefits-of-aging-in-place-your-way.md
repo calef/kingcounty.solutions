@@ -81,7 +81,7 @@ source: Sound Generations
 source_url: https://soundgenerations.org/the-benefits-of-aging-in-place-your-way/
 summarized: true
 title: The Benefits of Aging in place Your Way
-topics:
+topic_titles:
 - Senior Services
 ---
 

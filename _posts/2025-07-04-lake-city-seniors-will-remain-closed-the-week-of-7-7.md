@@ -16,7 +16,7 @@ source: Lake City Seniors
 source_url: https://lakecityseniors.org/lake-city-seniors-will-remain-closed-the-week-of-7-7/
 summarized: true
 title: Lake City Seniors will remain closed the week of 7/7
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

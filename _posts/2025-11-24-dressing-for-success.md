@@ -12,7 +12,7 @@ source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/dressing-for-success/
 summarized: true
 title: Dressing for Success
-topics:
+topic_titles:
 - Employment & Job Support
 - Personal & Household Needs
 ---

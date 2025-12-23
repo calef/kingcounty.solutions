@@ -14,7 +14,7 @@ source: City of Tukwila
 source_url: https://www.tukwilawa.gov/get-the-latest-information-on-the-desimone-levee-breach/
 summarized: true
 title: Get the latest information on the Desimone Levee Breach
-topics: []
+topic_titles: []
 ---
 
 Residents can find updates on the Desimone Levee breach from the City of Tukwila. The city is monitoring the situation closely and working with emergency management teams to ensure safety. Information is being shared through various channels, including social media and the city’s website. Local authorities are assessing the impact of the breach and taking necessary actions to mitigate any risks. Residents are encouraged to stay informed through official updates and to report any concerns related to the levee. Community meetings may be held to discuss the situation further and provide residents with an opportunity to ask questions. The city remains committed to keeping the public informed as the situation develops.

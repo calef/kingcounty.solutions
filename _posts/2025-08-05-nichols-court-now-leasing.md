@@ -11,7 +11,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/nichols-court-now-leasing
 summarized: true
 title: Nichols Court now leasing!
-topics:
+topic_titles:
 - Shelter & Housing
 - Education & Learning
 ---

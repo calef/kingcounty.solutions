@@ -48,7 +48,7 @@ source_url: https://bikeworks.org/event/volunteer-repair-party-2/2026-01-15/
 start_date: '2026-01-15T18:00:00-08:00'
 summarized: true
 title: Volunteer Repair Party
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

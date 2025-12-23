@@ -48,7 +48,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/another-leap-forward-dav-expands-training-platform-to-volunteers/
 summarized: true
 title: 'Another leap forward: DAV expands training platform to volunteers'
-topics:
+topic_titles:
 - Disabilities
 - Employment & Job Support
 - Legal Aid

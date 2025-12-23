@@ -27,7 +27,7 @@ source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/family-stories/jack/
 summarized: true
 title: Jack’s Story
-topics:
+topic_titles:
 - Childcare
 - Disabilities
 ---

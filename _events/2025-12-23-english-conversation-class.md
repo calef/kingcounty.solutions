@@ -51,7 +51,7 @@ source_url: https://wscenter.org/event/english-as-a-second-language-esl-class-2/
 start_date: '2025-12-23T09:30:00-08:00'
 summarized: true
 title: English Conversation Class
-topics:
+topic_titles:
 - Education & Learning
 ---
 

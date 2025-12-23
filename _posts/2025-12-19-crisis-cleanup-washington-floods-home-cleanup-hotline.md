@@ -21,7 +21,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/19/crisis-cleanup-washington-floods-home-cleanup-hotline/
 summarized: true
 title: 'Crisis Cleanup: Washington Floods Home Cleanup Hotline'
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 - Transportation & Mobility

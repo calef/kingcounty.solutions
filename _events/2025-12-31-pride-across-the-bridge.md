@@ -173,7 +173,7 @@ source_url: https://togethercenter.org/event/pride-across-the-bridge-2/2025-12-3
 start_date: '2025-12-31T16:00:00-08:00'
 summarized: true
 title: Pride Across the Bridge
-topics: []
+topic_titles: []
 ---
 
 Join the community for Pride Across the Bridge on Dec. 31, 2025, at the Together Center, located at 16305 NE 87th St. in Redmond, Washington. This vibrant celebration will feature a variety of activities, including live performances, art displays, and opportunities to connect with local LGBTQ+ organizations. Attendees can enjoy food, music, and workshops aimed at fostering inclusivity and understanding. This event promises to be a joyful gathering that highlights the importance of diversity and acceptance in the community. Don't miss this chance to celebrate pride and unity as the new year approaches.

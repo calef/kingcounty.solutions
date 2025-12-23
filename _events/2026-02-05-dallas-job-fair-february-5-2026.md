@@ -40,7 +40,7 @@ source_url: https://www.dav.org/events-calendar/dallas-job-fair-february-5-2026/
 start_date: '2026-02-05T00:00:00-08:00'
 summarized: true
 title: Dallas Job Fair, February 5, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

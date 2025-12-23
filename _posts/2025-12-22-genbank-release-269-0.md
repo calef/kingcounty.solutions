@@ -21,7 +21,7 @@ source: National Center for Biotechnology Information
 source_url: https://ncbiinsights.ncbi.nlm.nih.gov/2025/12/22/genbank-release-269-0/
 summarized: true
 title: GenBank Release 269.0
-topics: []
+topic_titles: []
 ---
 
 GenBank release 269.0, available as of December 16, 2025, features 49.73 trillion bases and 6.03 billion records. The latest update includes 259,677,058 traditional records, which contain over 6.65 trillion base pairs of sequence data. Additionally, there are 4,540,323,299 Whole Genome Shotgun (WGS) records, comprising approximately 42.13 trillion base pairs. The release also includes 1,033,885,396 bulk-oriented Transcriptome Shotgun Assembly (TSA) records, totaling around 878.73 billion base pairs of sequence data. This extensive release enhances the vast collection of genomic information available for researchers and the scientific community.

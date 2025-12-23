@@ -234,7 +234,7 @@ source_url: https://wscenter.org/event/exploring-art-class-2/2026-01-06/
 start_date: '2026-01-06T10:30:00-08:00'
 summarized: true
 title: Exploring Art Class
-topics: []
+topic_titles: []
 ---
 
 Join the Exploring Art Class at The Center for Active Living in Seattle, starting Jan. 6, 2026, at 10:30 a.m. This engaging class invites participants to unleash their creativity through various art techniques and mediums. Attendees will have the opportunity to explore painting, drawing, and mixed media while developing their artistic skills in a supportive environment. Whether you are a beginner or an experienced artist, this class offers a chance to express yourself and connect with others in the community. The Center for Active Living is located at 4217 SW Oregon St., Seattle, WA 98116. Don’t miss this opportunity to discover the joy of art!

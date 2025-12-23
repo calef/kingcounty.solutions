@@ -63,7 +63,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/safe-routes-to-school
 summarized: true
 title: Bellevue launches Safe Routes to School program
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 - Transportation & Mobility

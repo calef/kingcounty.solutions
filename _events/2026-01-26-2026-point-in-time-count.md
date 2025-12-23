@@ -9,7 +9,7 @@ source_url: https://kcrha.org/news-volunteer-for-the-2026-point-in-time-count/
 start_date: '2026-01-26T00:00:00-08:00'
 summarized: true
 title: 2026 Point-in-Time Count
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

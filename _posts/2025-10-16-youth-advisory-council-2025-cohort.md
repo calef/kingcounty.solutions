@@ -11,7 +11,7 @@ source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/youth-advisory-council-2025-cohort/
 summarized: true
 title: Youth Advisory Council 2025 Cohort
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Domestic Violence
 - Education & Learning

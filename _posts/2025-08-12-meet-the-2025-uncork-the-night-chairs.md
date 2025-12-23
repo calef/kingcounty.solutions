@@ -129,7 +129,7 @@ source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/?utm_source=rss&utm_medium=rss&utm_campaign=2025-uncork-the-night-chairs
 summarized: true
 title: Meet the 2025 Uncork the Night Chairs
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

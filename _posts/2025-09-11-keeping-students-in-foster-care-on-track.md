@@ -48,7 +48,7 @@ source: Treehouse
 source_url: https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/
 summarized: true
 title: Keeping Students in Foster Care on Track
-topics:
+topic_titles:
 - Education & Learning
 ---
 

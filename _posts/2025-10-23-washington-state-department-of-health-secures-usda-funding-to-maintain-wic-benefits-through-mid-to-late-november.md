@@ -37,7 +37,7 @@ source_url: https://doh.wa.gov/newsroom/washington-state-department-health-secur
 summarized: true
 title: Washington State Department of Health secures USDA funding to maintain WIC
   benefits through mid-to-late November
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

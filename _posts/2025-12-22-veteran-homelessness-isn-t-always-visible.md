@@ -197,7 +197,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144072/veteran-homelessness-isnt-always-visible/
 summarized: true
 title: Veteran homelessness isn’t always visible
-topics:
+topic_titles:
 - Shelter & Housing
 - Health Care
 - Domestic Violence

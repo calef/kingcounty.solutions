@@ -75,7 +75,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/marine-veteran-grateful-to-donors/
 summarized: true
 title: Marine Veteran Grateful to Donors 
-topics:
+topic_titles:
 - Financial Assistance
 - Employment & Job Support
 - Mental Health & Counseling

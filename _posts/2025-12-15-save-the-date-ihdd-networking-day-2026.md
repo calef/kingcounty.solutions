@@ -109,7 +109,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/15/save-the-date-ihdd-networking-day-2026/
 summarized: true
 title: 'Save the Date: IHDD Networking Day 2026'
-topics:
+topic_titles:
 - Disabilities
 ---
 

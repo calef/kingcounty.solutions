@@ -13,7 +13,7 @@ source_url: https://news.shoreline.edu/2025/10/09/becu-and-coastal-community-ban
 summarized: true
 title: BECU and Coastal Community Bank Invest in Shoreline College Foundation’s Basic
   Needs Support Program
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 - Education & Learning

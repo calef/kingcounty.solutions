@@ -75,7 +75,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/tis-the-season-for-holiday-meals-for-military/
 summarized: true
 title: "‘Tis the Season for Holiday Meals for Military®  "
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

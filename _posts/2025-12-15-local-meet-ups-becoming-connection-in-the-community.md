@@ -60,7 +60,7 @@ source: Washington Center for Deaf and Hard of Hearing Youth
 source_url: https://www.cdhy.wa.gov/local-meet-ups-becoming-connection-in-the-community-2/
 summarized: true
 title: 'Local Meet-Ups – Becoming: Connection in the Community'
-topics:
+topic_titles:
 - Disabilities
 ---
 

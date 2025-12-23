@@ -102,7 +102,7 @@ source_url: https://www.marysplaceseattle.org/blog/when-shelters-are-full-how-co
 summarized: true
 title: 'when shelters are full: how mobile outreach fills critical gaps in family
   services'
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 - Personal & Household Needs

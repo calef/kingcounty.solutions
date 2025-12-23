@@ -198,7 +198,7 @@ source_url: https://www.elcentrodelaraza.org/event/kaleidoscope-play-and-learn-e
 start_date: '2025-12-24T10:30:00-08:00'
 summarized: true
 title: Kaleidoscope Play and Learn (Evento en Español)
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 ---

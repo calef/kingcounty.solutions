@@ -52,7 +52,7 @@ source_url: https://sessc.org/event/soul-line-dance-with-anna-ponder-2/2025-12-2
 start_date: '2025-12-22T13:00:00-08:00'
 summarized: true
 title: Soul Line Dance with Anna Ponder
-topics: []
+topic_titles: []
 ---
 
 Join Anna Ponder for a lively Soul Line Dance class on December 22 from 1 to 2 p.m. in the Chamberlain Room. This fun and engaging event welcomes participants of all ages, making it a great opportunity to learn new dance moves while getting some exercise. The cost is $3 for members and $5 for non-members. Whether you're a beginner or experienced dancer, come enjoy the rhythm and community spirit of soul line dancing.

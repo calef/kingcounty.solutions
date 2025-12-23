@@ -103,7 +103,7 @@ source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/12/lcsnw-founder-in-portland-dies/
 summarized: true
 title: 'Remembering Bruce: Portland-based early leader of LCSNW passes away'
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Education & Learning

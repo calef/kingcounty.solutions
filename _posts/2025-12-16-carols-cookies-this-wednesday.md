@@ -16,7 +16,7 @@ source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/12/16/carols-cookies-this-wednesday/
 summarized: true
 title: Carols & Cookies this Wednesday
-topics: []
+topic_titles: []
 ---
 
 Join a holiday sing-along on December 17 at 7 p.m. at St. Luke Episcopal Church. Participants are invited to gather around the piano to sing festive carols, creating a joyful atmosphere for the season. This event will feature cookies, adding to the festive spirit. Everyone is welcome to come and enjoy this community celebration.

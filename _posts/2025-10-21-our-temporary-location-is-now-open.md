@@ -12,7 +12,7 @@ source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/food-bank-temp-location-announcement/
 summarized: true
 title: Our Temporary Location is Now Open!
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

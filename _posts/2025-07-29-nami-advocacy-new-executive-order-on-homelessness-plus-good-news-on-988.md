@@ -86,7 +86,7 @@ source: National Alliance on Mental Illness Eastside
 source_url: https://nami-eastside.org/nami-advocacy-new-executive-order-on-homelessness-plus-good-news-on-988/
 summarized: true
 title: 'NAMI Advocacy: New Executive Order on Homelessness, Plus Good News on 988'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Disabilities
 ---

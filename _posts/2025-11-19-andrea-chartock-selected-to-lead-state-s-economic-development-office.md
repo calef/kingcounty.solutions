@@ -51,7 +51,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/andrea-chartock-selected-to-lead-states-economic-development-office/
 summarized: true
 title: Andrea Chartock selected to lead state’s economic development office
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

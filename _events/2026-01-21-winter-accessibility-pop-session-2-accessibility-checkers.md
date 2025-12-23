@@ -31,7 +31,7 @@ source_url: https://washington.zoom.us/meeting/register/F7wP7cPOQu6P-UiCU-I3JQ
 start_date: '2026-01-21T15:00:00-08:00'
 summarized: true
 title: 'Winter Accessibility POP Session 2: Accessibility Checkers'
-topics:
+topic_titles:
 - Disabilities
 ---
 

@@ -130,7 +130,7 @@ source: YouthCare
 source_url: https://youthcare.org/blog/connections-november-25/
 summarized: true
 title: CONNECTIONS – November 25
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 - Mental Health & Counseling

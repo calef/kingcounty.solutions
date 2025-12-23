@@ -10,7 +10,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/our-annual-holiday-gift-guide/?utm_source=rss&utm_medium=rss&utm_campaign=our-annual-holiday-gift-guide
 summarized: true
 title: Our Annual Holiday Gift Guide
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 - Mental Health & Counseling

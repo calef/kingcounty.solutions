@@ -105,7 +105,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/19/iddrc-special-issue-highlights-uw-research/
 summarized: true
 title: IDDRC Special Issue Highlights UW Research
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

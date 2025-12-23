@@ -240,7 +240,7 @@ start_date: '2026-01-06T09:00:00-08:00'
 summarized: true
 title: Actividades En Español Con El Apoyo De Sea Mar Community Health Center’s Staff
   / Sea Mar Activities In Spanish
-topics:
+topic_titles:
 - Health Care
 ---
 

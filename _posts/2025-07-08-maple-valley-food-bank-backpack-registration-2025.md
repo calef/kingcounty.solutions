@@ -154,7 +154,7 @@ source: Maple Valley Food Bank
 source_url: https://www.maplevalleyfoodbank.org/maple-valley-food-bank-backpack-registration-2025/
 summarized: true
 title: MAPLE VALLEY FOOD BANK – BACKPACK REGISTRATION 2025
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

@@ -81,7 +81,7 @@ source: Angel Flight West
 source_url: https://angelflightwest.org/news/meet-kaprice-flying-to-camp-since-2021/
 summarized: true
 title: 'Meet Kaprice: Flying to Camp Since 2021'
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 - Mental Health & Counseling

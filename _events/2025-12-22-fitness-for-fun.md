@@ -50,7 +50,7 @@ source_url: https://wscenter.org/event/fitness-for-fun/2025-12-22/
 start_date: '2025-12-22T09:00:00-08:00'
 summarized: true
 title: Fitness For Fun
-topics:
+topic_titles:
 - Senior Services
 ---
 

@@ -180,7 +180,7 @@ source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/emergency-repairs-begin-us-2-stevens-pass
 summarized: true
 title: Emergency repairs begin on US 2 at Stevens Pass
-topics: []
+topic_titles: []
 ---
 
 Emergency repairs on US 2 Stevens Pass began on Dec. 18 to address significant washouts and mudslides. The Washington State Department of Transportation closed the highway on Dec. 10 between Index and Coles Corner, affecting mileposts 35-85. The closure was later extended to Tumwater Canyon on Dec. 11. While crews cleared to Skykomish (milepost 50) by Dec. 12, the route remains shut between Skykomish and Leavenworth (mileposts 50-99).

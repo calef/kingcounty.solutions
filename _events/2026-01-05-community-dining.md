@@ -230,7 +230,7 @@ source_url: https://wscenter.org/event/community-dining-hot-lunches-2/2026-01-05
 start_date: '2026-01-05T11:45:00-08:00'
 summarized: true
 title: Community Dining
-topics:
+topic_titles:
 - Food & Nutrition
 - Senior Services
 ---

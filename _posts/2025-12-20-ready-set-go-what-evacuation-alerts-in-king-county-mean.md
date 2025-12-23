@@ -20,7 +20,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/20/ready-set-go-what-evacuation-alerts-in-king-county-mean/
 summarized: true
 title: Ready, Set, Go – What evacuation alerts in King County mean
-topics: []
+topic_titles: []
 ---
 
 King County uses a three-level evacuation alert system called Ready, Set, Go to help residents understand the urgency of evacuation situations.

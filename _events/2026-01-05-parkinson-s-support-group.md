@@ -234,7 +234,7 @@ source_url: https://wscenter.org/event/parkinsons-support-group/2026-01-05/
 start_date: '2026-01-05T14:00:00-08:00'
 summarized: true
 title: Parkinson’s Support Group
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 - Senior Services

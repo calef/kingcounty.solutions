@@ -12,7 +12,7 @@ source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/day-of-the-girl-2025/
 summarized: true
 title: 'Day of the Girl 2025: Hear from future leaders'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

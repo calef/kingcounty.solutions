@@ -55,7 +55,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143233/mental-health-matters/
 summarized: true
 title: Mental health matters
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

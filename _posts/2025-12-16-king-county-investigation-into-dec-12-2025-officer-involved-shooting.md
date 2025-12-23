@@ -38,7 +38,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/king-county-investigation-dec-12-2025-officer-involved-shooting
 summarized: true
 title: King County Investigation into Dec. 12, 2025 officer-involved shooting
-topics: []
+topic_titles: []
 ---
 
 On December 12, 2025, at approximately 12:24 p.m., Bellevue Police responded to a call at the Bellevue Transit Center. During this response, an on-duty officer was involved in a shooting incident. Both the officer and the suspect were injured and taken to a local hospital. Following state law and a partnership with the King County Independent Force Investigation Team (KC-IFIT), the investigation has been handed over to KC-IFIT. This team will conduct an independent investigation into the shooting. Future updates regarding the investigation will be provided by KC-IFIT.

@@ -11,7 +11,7 @@ source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/jessicas-blog/
 summarized: true
 title: Jessica’s Blog
-topics:
+topic_titles:
 - Domestic Violence
 - Mental Health & Counseling
 ---

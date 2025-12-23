@@ -24,7 +24,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/cornbread-crumble
 summarized: true
 title: Cornbread Crumble
-topics: []
+topic_titles: []
 ---
 
 This article presents a recipe for cornbread crumble, adapted from Laura Pyles and shared by Brynne Irish in partnership with the Pantry. The recipe yields about 4 cups and includes the following ingredients: 6 ounces of all-purpose flour, 6 ounces of cornmeal, 1 tablespoon of baking powder, 1¼ teaspoons of kosher salt, 3 ounces of sugar, 3 eggs, ¾ cup of vegetable oil, ½ cup of whole milk, and ½ cup of buttermilk.

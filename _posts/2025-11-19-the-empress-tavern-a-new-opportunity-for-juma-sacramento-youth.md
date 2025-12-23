@@ -12,7 +12,7 @@ source: Juma Ventures
 source_url: https://www.juma.org/2025/11/19/the-empress-tavern-a-new-opportunity-for-juma-sacramento-youth/
 summarized: true
 title: 'The Empress Tavern: A New Opportunity for Juma Sacramento Youth'
-topics:
+topic_titles:
 - Employment & Job Support
 - Food & Nutrition
 ---

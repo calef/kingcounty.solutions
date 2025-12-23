@@ -12,7 +12,7 @@ source: Juma Ventures
 source_url: https://www.juma.org/2025/06/30/thank-you-to-our-recent-funders-12/
 summarized: true
 title: Thank You to our Recent Funders
-topics:
+topic_titles:
 - Employment & Job Support
 - Education & Learning
 - Financial Assistance

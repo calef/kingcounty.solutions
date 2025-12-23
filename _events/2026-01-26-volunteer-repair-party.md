@@ -49,7 +49,7 @@ source_url: https://bikeworks.org/event/volunteer-repair-party/2026-01-26/
 start_date: '2026-01-26T18:00:00-08:00'
 summarized: true
 title: Volunteer Repair Party
-topics: []
+topic_titles: []
 ---
 
 Join us for a Volunteer Repair Party at Bike Works Warehouse on Jan. 26, 2026, from 6 to 9 p.m. This event is designed for adults 18 and older, offering an opportunity to learn about bike repair while contributing to the community. No prior mechanical skills are required, making it a perfect starting point for those interested in volunteering with Bike Works. Participants must complete an application and orientation process before attending. Come meet fellow bike enthusiasts, gain hands-on experience, and help repair bikes for those in need. Don't miss this chance to make a difference while having fun!

@@ -12,7 +12,7 @@ source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=21059577
 summarized: true
 title: City Chat with Economic Development and Human Services
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

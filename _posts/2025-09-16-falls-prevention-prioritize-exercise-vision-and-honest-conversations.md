@@ -12,7 +12,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/falls-prevention-prioritize-exercise-vision-and-honest-conversations/?utm_source=rss&utm_medium=rss&utm_campaign=falls-prevention-prioritize-exercise-vision-and-honest-conversations
 summarized: true
 title: 'Falls Prevention: Prioritize exercise, vision, and honest conversations'
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 ---

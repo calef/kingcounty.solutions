@@ -19,7 +19,7 @@ source: Encompass
 source_url: https://encompassnw.org/building-bravery-and-belonging-at-confidence-camp-halloween-edition/
 summarized: true
 title: 'Building Bravery and Belonging at Confidence Camp: Halloween Edition'
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 - Education & Learning

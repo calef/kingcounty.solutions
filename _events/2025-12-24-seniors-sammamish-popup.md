@@ -63,7 +63,7 @@ source_url: https://iacswa.org/event/seniors-sammamish-popup-303/
 start_date: '2025-12-24T10:30:00-08:00'
 summarized: true
 title: SENIORS Sammamish Popup
-topics:
+topic_titles:
 - Senior Services
 ---
 

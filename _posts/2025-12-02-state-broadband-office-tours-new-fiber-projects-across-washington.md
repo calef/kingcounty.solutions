@@ -462,7 +462,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/state-broadband-office-tours-new-fiber-projects-across-washington/
 summarized: true
 title: State Broadband Office tours new fiber projects across Washington
-topics: []
+topic_titles: []
 ---
 
 The State Broadband Office recently toured several new fiber projects throughout Washington. This initiative aims to enhance internet access in underserved areas, improving connectivity for residents and businesses. During the tours, officials assessed the progress of various projects, which are part of a broader effort to expand high-speed internet across the state. The initiative is essential for supporting economic development and ensuring that all Washingtonians have access to reliable internet services. The tours highlight the commitment of the State Broadband Office to bridge the digital divide and promote equitable access to technology. Local communities are expected to benefit significantly from these fiber projects, as they enhance communication, education, and overall quality of life. The state's investment in broadband infrastructure reflects an ongoing priority to improve digital access across Washington, fostering growth and innovation in the region.

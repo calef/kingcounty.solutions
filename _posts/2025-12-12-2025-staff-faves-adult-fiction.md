@@ -26,7 +26,7 @@ source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/12/2025-staff-faves-adult-fiction/
 summarized: true
 title: '2025 Staff Faves: Adult Fiction'
-topics: []
+topic_titles: []
 ---
 
 Library staff have shared their favorite adult fiction books published in 2025. Notable titles include "Malinalli" by Veronica Chapa, which reimagines the life of a historical figure known for aiding conquistadors in Mexico, praised for its magical realism. "Crawl" by Max Delsohn features a humorous short story collection reflecting the transmasculine experience in 2010s Seattle, receiving acclaim for its engaging narrative.

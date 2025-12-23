@@ -173,7 +173,7 @@ source_url: https://togethercenter.org/event/cisc-medical-insurance-consulting-s
 start_date: '2025-12-30T09:00:00-08:00'
 summarized: true
 title: CISC - Medical Insurance Consulting Service - Cantonese and Mandarin
-topics:
+topic_titles:
 - Health Care
 ---
 

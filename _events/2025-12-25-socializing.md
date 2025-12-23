@@ -70,7 +70,7 @@ source_url: https://federalwayseniorcenter.org/event/socializing-2-2-2-2/2025-12
 start_date: '2025-12-25T10:00:00-08:00'
 summarized: true
 title: Socializing
-topics: []
+topic_titles: []
 ---
 
 Join us for a lively socializing event on Dec. 25 from 10 a.m. to noon. This gathering is an excellent opportunity to meet new people, engage in fun conversations, and build connections within the community. Whether you're looking to make friends or simply enjoy a relaxed atmosphere, this event promises a welcoming environment for everyone. Don't miss out on the chance to socialize and share some holiday cheer! The event will take place at the designated location, so mark your calendars and come ready to connect!

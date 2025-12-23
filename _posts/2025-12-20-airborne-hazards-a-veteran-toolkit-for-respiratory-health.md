@@ -220,7 +220,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144038/airborne-hazards-toolkit-for-respiratory-health/
 summarized: true
 title: 'Airborne hazards: A Veteran toolkit for respiratory health'
-topics:
+topic_titles:
 - Health Care
 - Disabilities
 ---

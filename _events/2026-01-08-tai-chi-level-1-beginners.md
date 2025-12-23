@@ -232,7 +232,7 @@ source_url: https://wscenter.org/event/tai-chi-level-1-beginners/2026-01-08/
 start_date: '2026-01-08T09:00:00-08:00'
 summarized: true
 title: Tai Chi Level 1 Beginners
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 - Mental Health & Counseling

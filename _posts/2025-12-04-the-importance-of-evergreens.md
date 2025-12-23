@@ -12,7 +12,7 @@ source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=21077834
 summarized: true
 title: The Importance of Evergreens
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

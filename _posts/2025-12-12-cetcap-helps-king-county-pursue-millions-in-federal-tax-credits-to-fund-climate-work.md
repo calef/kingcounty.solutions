@@ -113,7 +113,7 @@ source_url: https://www.commerce.wa.gov/cetcap-helps-king-county-pursue-millions
 summarized: true
 title: CETCAP helps King County pursue millions in federal tax credits to fund climate
   work
-topics: []
+topic_titles: []
 ---
 
 King County is seeking $6.5 million in federal energy tax credits to fund clean energy projects, supported by the Washington Clean Energy Tax Credit Assistance Program (CETCAP). The proposed funding includes $4.6 million for a battery storage system at the West Point Treatment Plant, which aims to reduce pollution in Puget Sound, $1.5 million for 200 electric vehicles, $285,000 for three solar projects at wastewater treatment and solid waste facilities, and $88,000 for nine charging ports at a King County Metro bus base.

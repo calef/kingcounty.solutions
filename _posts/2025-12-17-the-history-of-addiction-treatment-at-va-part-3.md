@@ -166,7 +166,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143288/history-va-addiction-treatment-part-3/
 summarized: true
 title: 'The history of addiction treatment at VA: Part 3'
-topics: []
+topic_titles: []
 ---
 
 In the post-Vietnam era, the Department of Veterans Affairs (VA) expanded its addiction treatment programs for Veterans, introducing specialized units and self-help initiatives in response to rising drug use among service members. During the Vietnam War, the prevalence of substances like heroin and amphetamines surged, with 43% of soldiers reporting heroin use. A 1973 Department of Defense study revealed alarming addiction rates, prompting the White House to launch Operation Golden Flow to enforce drug testing.

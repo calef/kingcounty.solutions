@@ -25,7 +25,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/celebrating-hope-and-healing-bridge-pointe-ribbon-cutting
 summarized: true
 title: 'celebrating hope and healing: bridge pointe ribbon cutting'
-topics:
+topic_titles:
 - Shelter & Housing
 - Mental Health & Counseling
 - Disabilities

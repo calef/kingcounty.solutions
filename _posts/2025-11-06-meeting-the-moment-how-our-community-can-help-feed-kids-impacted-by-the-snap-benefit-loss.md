@@ -59,7 +59,7 @@ source_url: https://positiveplace.org/meeting-the-moment-how-our-community-can-h
 summarized: true
 title: 'Meeting the Moment: How Our Community Can Help Feed Kids Impacted by the SNAP
   Benefit Loss'
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

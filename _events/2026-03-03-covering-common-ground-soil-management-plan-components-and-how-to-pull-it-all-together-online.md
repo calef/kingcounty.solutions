@@ -13,7 +13,7 @@ start_date: '2026-03-03T09:00:00-08:00'
 summarized: true
 title: 'Covering Common Ground: Soil Management Plan Components and How to Pull it
   All Together (online)'
-topics: []
+topic_titles: []
 ---
 
 Join us online for "Covering Common Ground: Soil Management Plan Components and How to Pull It All Together" on March 3, 2026, at 9 a.m. PST. This interactive Zoom event will provide valuable insights into effective soil management practices. Attendees can expect to learn about essential components of a soil management plan and how to integrate them for optimal results. Whether you are a beginner or have some experience, this session will equip you with the knowledge to enhance your soil management strategies. Don't miss this opportunity to deepen your understanding and improve your agricultural practices from the comfort of your home.

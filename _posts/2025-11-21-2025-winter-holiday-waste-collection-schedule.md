@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/21/2025-winter-holiday-waste-collection-schedule/
 summarized: true
 title: 2025 Winter Holiday Waste Collection Schedule
-topics: []
+topic_titles: []
 ---
 
 As the holiday season approaches, Seattle Public Utilities announces changes to waste collection schedules. There will be no collections on Thanksgiving Day (Nov. 27, 2025), Christmas Day (Dec. 25, 2025), and New Year’s Day (Jan. 1, 2026). If your regular collection day falls on these holidays, service will be delayed by one day: Thursday collections will occur on Friday, and Friday collections will shift to Saturday. Collections for Monday through Wednesday will remain unchanged.

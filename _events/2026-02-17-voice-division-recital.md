@@ -13,7 +13,7 @@ source_url: https://music.washington.edu/events/2026-02-17/voice-division-recita
 start_date: '2026-02-17T16:00:00-08:00'
 summarized: true
 title: Voice Division Recital
-topics: []
+topic_titles: []
 ---
 
 Join us for the Voice Division Recital on Feb. 17, 2026, at 4 p.m. in the Music Building (MUS). This event showcases talented vocal students as they perform a diverse selection of pieces, offering a delightful afternoon of music. Attendees can expect to experience a range of vocal styles and genres, highlighting the hard work and dedication of the performers. It's a wonderful opportunity to support emerging artists and enjoy an engaging musical experience. Don't miss this chance to witness the artistry of our voice students!

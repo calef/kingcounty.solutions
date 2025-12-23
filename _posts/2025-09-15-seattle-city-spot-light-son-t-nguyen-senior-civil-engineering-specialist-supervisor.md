@@ -21,7 +21,7 @@ source_url: https://powerlines.seattle.gov/2025/09/15/seattle-city-spotlight-son
 summarized: true
 title: 'Seattle City (spot)Light: Son T. Nguyen, Senior Civil Engineering Specialist
   Supervisor'
-topics: []
+topic_titles: []
 ---
 
 Son T. Nguyen, a senior civil engineering specialist supervisor at Seattle City Light, has dedicated 22 years to the organization. He manages a talented team in the Technical Resources Unit, providing design and engineering support to the Generation and Substation Engineering team. Their work includes creating detailed visual representations of engineering designs and facilitating efficient project workflows from planning to construction. Nguyen's projects range from relocating transmission towers to fabricating communication towers and installing bridges. They utilize advanced technologies like 3D laser scanning to enhance design accuracy and efficiency, aiming to create digital twins of physical assets for real-time data tracking.

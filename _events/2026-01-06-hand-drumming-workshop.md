@@ -232,7 +232,7 @@ source_url: https://wscenter.org/event/hand-drumming-workshop/2026-01-06/
 start_date: '2026-01-06T14:30:00-08:00'
 summarized: true
 title: Hand Drumming Workshop
-topics: []
+topic_titles: []
 ---
 
 Join the Hand Drumming Workshop on Jan. 6, 2026, at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This engaging event invites participants of all skill levels to explore the rhythms and techniques of hand drumming. Attendees can expect to learn from experienced instructors, connect with fellow music enthusiasts, and unleash their creativity through various drumming styles. Whether you're a beginner or have some experience, this workshop offers a supportive environment to enhance your skills and enjoy the art of drumming. Don't miss this opportunity to experience the joy of making music together.

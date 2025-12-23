@@ -148,7 +148,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/02/ihdd-student-researcher-named-2026-rhodes-scholar/
 summarized: true
 title: IHDD Student Researcher Named 2026 Rhodes Scholar
-topics: []
+topic_titles: []
 ---
 
 IHDD student researcher has been awarded the prestigious 2026 Rhodes Scholarship, a significant honor that recognizes exceptional academic achievement and leadership potential. This scholarship provides access to study at the University of Oxford, offering an unparalleled opportunity for personal and professional growth. The recipient has demonstrated a commitment to research and community engagement, showcasing their dedication to making a positive impact. As a Rhodes Scholar, they will join a distinguished network of scholars from around the world, furthering their studies and contributing to global conversations on pressing issues.

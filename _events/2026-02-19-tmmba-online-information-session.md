@@ -198,7 +198,7 @@ source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1
 start_date: '2026-02-19T11:00:00-08:00'
 summarized: true
 title: TMMBA Online Information Session
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

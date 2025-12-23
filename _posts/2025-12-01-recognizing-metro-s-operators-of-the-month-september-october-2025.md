@@ -12,7 +12,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/01/recognizing-metros-operators-of-the-month-september-october-2025/
 summarized: true
 title: Recognizing Metro’s Operators of the Month (September-October 2025)
-topics:
+topic_titles:
 - Transportation & Mobility
 - Disabilities
 ---

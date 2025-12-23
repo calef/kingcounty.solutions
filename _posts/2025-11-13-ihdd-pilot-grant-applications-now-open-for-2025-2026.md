@@ -133,7 +133,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/13/ihdd-pilot-grant-applications-now-open-for-2025-2026/
 summarized: true
 title: IHDD Pilot Grant Applications Now Open for 2025–2026
-topics:
+topic_titles:
 - Disabilities
 ---
 

@@ -38,7 +38,7 @@ source: Solid Ground
 source_url: https://www.solid-ground.org/what-were-doing-locally-to-limit-the-harm-of-federal-budget-cuts/
 summarized: true
 title: What we’re doing locally to limit the harm of federal budget cuts 
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 - Financial Assistance

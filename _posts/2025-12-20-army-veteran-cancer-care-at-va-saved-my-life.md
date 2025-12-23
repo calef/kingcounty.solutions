@@ -160,7 +160,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144042/army-veteran-cancer-care-va-saved-my-life/
 summarized: true
 title: 'Army Veteran: Cancer care at VA saved my life'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

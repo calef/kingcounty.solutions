@@ -18,7 +18,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/16/man-arrested-for-punching-bus-driver-video-captured-by-real-time-crime-center/
 summarized: true
 title: Man Arrested for Punching Bus Driver; Video Captured by Real Time Crime Center
-topics: []
+topic_titles: []
 ---
 
 Seattle police have arrested a 25-year-old man for assaulting a bus driver in Downtown Seattle. The incident occurred around 10:50 p.m. when officers responded to reports of the attack near 3rd Avenue and Stewart Street. Video footage captured by the Real-Time Crime Center showed the man punching the bus driver multiple times before fleeing the scene. Officers located the suspect nearby and took him into custody. The bus driver sustained minor injuries and did not require medical attention. The suspect faces charges of assault and is held in custody pending further investigation.

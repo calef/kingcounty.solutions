@@ -21,7 +21,7 @@ source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/16/vaccine-trusted-messenger-program-training-series/
 summarized: true
 title: Vaccine Trusted Messenger Program Training Series
-topics:
+topic_titles:
 - Health Care
 ---
 

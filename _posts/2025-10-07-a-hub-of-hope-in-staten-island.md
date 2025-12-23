@@ -25,7 +25,7 @@ source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/a-hub-of-hope-in-staten-island/
 summarized: true
 title: A Hub of Hope in Staten Island
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 - Mental Health & Counseling

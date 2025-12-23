@@ -69,7 +69,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-repeated-thefts-could-mean-least-month-jail
 summarized: true
 title: 'Council Roundup: Repeated thefts could mean at least a month in jail'
-topics:
+topic_titles:
 - Domestic Violence
 - Shelter & Housing
 - Disabilities

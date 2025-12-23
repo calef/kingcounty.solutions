@@ -64,7 +64,7 @@ source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/16/winter-break-2025-activities-at-the-seattle-public-library/
 summarized: true
 title: Winter Break 2025 Activities at The Seattle Public Library
-topics:
+topic_titles:
 - Education & Learning
 - Childcare
 ---

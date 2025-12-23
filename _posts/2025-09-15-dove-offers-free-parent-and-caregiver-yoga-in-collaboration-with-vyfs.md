@@ -137,7 +137,7 @@ source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/dove-offers-free-parent-and-caregiver-yoga-in-collaboration-with-vyfs
 summarized: true
 title: DOVE offers FREE Parent and Caregiver Yoga in collaboration with VYFS
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

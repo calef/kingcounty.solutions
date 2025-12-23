@@ -27,7 +27,7 @@ source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/impact/special-message/?utm_source=rss&utm_medium=rss&utm_campaign=special-message
 summarized: true
 title: A special message from Executive Director Jennifer Fischer
-topics:
+topic_titles:
 - Food & Nutrition
 - Employment & Job Support
 ---

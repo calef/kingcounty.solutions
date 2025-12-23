@@ -58,7 +58,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/bellevue-engages-community-refine-communication-methods-messages
 summarized: true
 title: Bellevue engages community to refine communication methods, messages
-topics: []
+topic_titles: []
 ---
 
 The city of Bellevue is engaging the community to enhance its communication methods and messages. Residents are invited to participate in a community listening session titled "Exploring Bellevue’s Identity Together," scheduled for Sept. 25 from 6 to 7:30 p.m. at City Hall. This session aims to gather feedback on community perceptions, values, and communication preferences, which will influence future city communications and engagement strategies.

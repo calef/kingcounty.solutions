@@ -19,7 +19,7 @@ source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/exploring-the-possibilities-at-the-kelsey-civic-center/
 summarized: true
 title: Exploring the possibilities at The Kelsey Civic Center
-topics:
+topic_titles:
 - Disabilities
 - Senior Services
 - Shelter & Housing

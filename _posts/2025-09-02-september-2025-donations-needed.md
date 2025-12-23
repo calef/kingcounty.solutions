@@ -51,7 +51,7 @@ source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/september-2025-donations-needed/
 summarized: true
 title: September 2025 Donations Needed
-topics:
+topic_titles:
 - Personal & Household Needs
 - Shelter & Housing
 ---

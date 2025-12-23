@@ -46,9 +46,9 @@ layout: default
         • <span class="p-author h-card" itemprop="author">{{ page.author }}</span>
       {%- endif -%}
     </p>
-    {% if page.topics and page.topics.size > 0 %}
+    {% if page.topic_titles and page.topic_titles.size > 0 %}
       <div class="topic-tags">
-        {% assign sorted_topics = page.topics | sort %}
+        {% assign sorted_topics = page.topic_titles | sort %}
         {% for t in sorted_topics %}
           {% assign topic_doc = site.topics | where: "title", t | first %}
           {% if topic_doc %}

@@ -41,7 +41,7 @@ source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/snoqualmie-indian-tribe-donates-over-1-million-in-charitable-donations-in-2025/
 summarized: true
 title: Snoqualmie Tribe Expands Support for Families Impacted by Federal SNAP Suspension
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

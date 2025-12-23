@@ -14,7 +14,7 @@ source: DESC
 source_url: https://www.desc.org/descs-gimme-shelter-is-october-24/
 summarized: true
 title: DESC’s Gimme Shelter is October 24!
-topics:
+topic_titles:
 - Shelter & Housing
 - Health Care
 - Mental Health & Counseling

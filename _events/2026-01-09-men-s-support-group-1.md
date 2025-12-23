@@ -233,7 +233,7 @@ source_url: https://wscenter.org/event/mens-support-group-1/2026-01-09/
 start_date: '2026-01-09T11:00:00-08:00'
 summarized: true
 title: 'Men''s Support Group #1'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

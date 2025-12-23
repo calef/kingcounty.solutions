@@ -74,7 +74,7 @@ source: Encompass
 source_url: https://encompassnw.org/confidence-camp-back-to-school-edition/
 summarized: true
 title: 'Confidence Camp: Back-to-School Edition'
-topics:
+topic_titles:
 - Education & Learning
 - Mental Health & Counseling
 ---

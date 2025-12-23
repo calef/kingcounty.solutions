@@ -24,7 +24,7 @@ source: Transforming Age
 source_url: https://transformingage.org/blog/technology-for-all-33/
 summarized: true
 title: Technology for all.
-topics:
+topic_titles:
 - Senior Services
 ---
 

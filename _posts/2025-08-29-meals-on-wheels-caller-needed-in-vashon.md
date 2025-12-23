@@ -27,7 +27,7 @@ source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-caller-needed-in-vashon/
 summarized: true
 title: 'Meals on Wheels: Caller needed in Vashon!'
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

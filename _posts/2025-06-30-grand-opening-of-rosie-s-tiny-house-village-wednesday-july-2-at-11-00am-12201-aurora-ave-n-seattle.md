@@ -12,7 +12,7 @@ source_url: https://www.lihihousing.org/post/grand-opening-of-rosie-s-tiny-house
 summarized: true
 title: Grand Opening of Rosie's Tiny House Village, Wednesday, July 2 at 11:00am,
   12201 Aurora Ave N, Seattle
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

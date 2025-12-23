@@ -129,7 +129,7 @@ source_url: https://meanycenter.org/tickets/2026-01/production/leif-ove-andsnes
 start_date: '2026-01-23T19:30:00-08:00'
 summarized: true
 title: Leif Ove Andsnes
-topics: []
+topic_titles: []
 ---
 
 Join us for an enchanting evening with renowned pianist Leif Ove Andsnes on Jan. 23, 2026, at Meany Hall. Attendees can expect a captivating performance featuring a selection of classical masterpieces that showcase Andsnes' exceptional artistry and emotional depth. This event promises to be a highlight for music lovers and a wonderful opportunity to experience the magic of live classical music in an intimate setting. Don't miss this chance to witness a true virtuoso at work!

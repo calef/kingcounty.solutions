@@ -12,7 +12,7 @@ source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/snap-and-wic-among-vital-food-assistance-programs-threatened/
 summarized: true
 title: SNAP and WIC Among Vital Food Assistance Programs Threatened
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

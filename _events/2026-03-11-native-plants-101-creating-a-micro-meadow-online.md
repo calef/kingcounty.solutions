@@ -15,7 +15,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_32e88390e
 start_date: '2026-03-11T18:00:00-07:00'
 summarized: true
 title: 'Native Plants 101: Creating a Micro-Meadow (Online)'
-topics: []
+topic_titles: []
 ---
 
 Join the "Native Plants 101: Creating a Micro-Meadow" online workshop on March 11, 2026, at 6 p.m. via Zoom. This engaging event will guide participants through the process of designing and establishing a micro-meadow using native plants. Attendees can expect to learn about the benefits of native flora, including biodiversity and sustainability, as well as practical tips for planting and maintaining their own micro-meadows. Whether you're a gardening novice or an experienced horticulturist, this workshop offers valuable insights to enhance your gardening skills while supporting local ecosystems. Don't miss this opportunity to connect with fellow nature enthusiasts from the comfort of your home.

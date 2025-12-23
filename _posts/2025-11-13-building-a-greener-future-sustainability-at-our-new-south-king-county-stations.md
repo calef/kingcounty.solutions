@@ -12,7 +12,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/building-greener-future-sustainability-our-new-south-king-county-stations
 summarized: true
 title: 'Building a greener future: Sustainability at our new South King County stations '
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

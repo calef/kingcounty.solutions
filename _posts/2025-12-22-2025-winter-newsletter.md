@@ -14,7 +14,7 @@ source: City of Seattle
 source_url: https://ocr.seattle.gov/2025-winter-newsletter/
 summarized: true
 title: 2025 Winter Newsletter
-topics: []
+topic_titles: []
 ---
 
 The Seattle Office for Civil Rights (SOCR) has released its winter newsletter, showcasing its efforts throughout the year. The newsletter emphasizes the importance of civil rights and shares valuable resources for businesses to help promote equality and fairness. It aims to inform the community about SOCR's initiatives and provide support to organizations looking to enhance their civil rights practices. The newsletter serves as a tool for raising awareness and encouraging businesses to engage with civil rights issues actively.

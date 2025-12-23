@@ -92,7 +92,7 @@ source_url: https://www.dav.org/learn-more/news/2025/columbia-trust-funding-succ
 summarized: true
 title: 'Columbia Trust funding success begins with the AFR: Tips for departments and
   chapters '
-topics: []
+topic_titles: []
 ---
 
 Columbia Trust funding success is closely linked to the Annual Fund Report (AFR), which serves as a crucial tool for departments and chapters. Departments are encouraged to personalize their AFR submissions to highlight their unique contributions and successes, showcasing how funding has positively impacted their programs. This personalization allows for a compelling narrative that resonates with potential donors.

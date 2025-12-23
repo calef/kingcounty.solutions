@@ -19,7 +19,7 @@ source_url: https://kingcountymetro.blog/2025/12/22/king-county-metro-and-region
 summarized: true
 title: 'Ringing in the New Year: King County Metro and regional transit agencies celebrate
   New Year’s Eve with free fares'
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

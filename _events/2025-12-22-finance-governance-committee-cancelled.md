@@ -83,7 +83,7 @@ source_url: https://www.tukwilawa.gov/event/finance-governance-committee-6-3/202
 start_date: '2025-12-22T17:30:00-08:00'
 summarized: true
 title: Finance & Governance Committee - Cancelled
-topics: []
+topic_titles: []
 ---
 
 The Finance & Governance Committee meeting scheduled for December 22 at 5:30 p.m. has been cancelled. This committee typically provides policy recommendations on legislative matters concerning financial management, administrative services, and other city operations. Meetings are usually open to the public and conducted in a hybrid format, allowing participation both onsite at the Hazelnut Conference Room in City Hall and virtually via MS Teams. Attendees can expect discussions on important city governance topics when meetings are held. For future meetings, details on how to access them will be available on the agenda. For more information, contact Laurel Humphrey at 206-433-8993 or via email at citycouncil@tukwilawa.gov.

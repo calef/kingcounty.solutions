@@ -13,7 +13,7 @@ source: The Center for Active Living
 source_url: https://wscenter.org/thank-you-members/
 summarized: true
 title: Thank you, members!
-topics:
+topic_titles:
 - Senior Services
 ---
 

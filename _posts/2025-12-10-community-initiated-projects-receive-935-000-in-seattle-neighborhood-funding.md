@@ -12,7 +12,7 @@ source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/09/community-initiated-projects-receive-935000-in-seattle-neighborhood-funding/
 summarized: true
 title: Community-Initiated Projects Receive $935,000 in Seattle Neighborhood Funding
-topics: []
+topic_titles: []
 ---
 
 The City of Seattle has allocated $935,448 to 23 community-initiated projects via the Neighborhood Matching Fund Community Partnership Fund. The funding, which averages about $40,672 per project, aims to enhance local neighborhoods and support community-driven initiatives. Projects include improvements to parks, public art installations, and efforts to increase neighborhood engagement. The awards reflect the city's commitment to fostering community involvement and empowering residents to address local needs. Recipients of the funding include diverse organizations that focus on various aspects of community development and cohesion. This investment is part of the city's ongoing efforts to strengthen neighborhoods and promote collaboration among residents.

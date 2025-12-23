@@ -19,7 +19,7 @@ source: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/07/canopy-apartments-white-center-hub/
 summarized: true
 title: Canopy Apartments and White Center HUB take shape
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

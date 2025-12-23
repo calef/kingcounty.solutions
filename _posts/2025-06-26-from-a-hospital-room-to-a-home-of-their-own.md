@@ -38,7 +38,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/from-hospital-halls-to-a-home-of-their-own
 summarized: true
 title: from a hospital room to a home of their own
-topics:
+topic_titles:
 - Domestic Violence
 - Employment & Job Support
 - Financial Assistance

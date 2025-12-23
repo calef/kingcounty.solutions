@@ -88,7 +88,7 @@ source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/12/notice-town-council-regular-meeting-december-14-2025-400-pm-town-hall/
 summarized: true
 title: 'NOTICE: Town Council Regular Meeting – December 14, 2025: 4:00 PM/ Town Hall'
-topics: []
+topic_titles: []
 ---
 
 The Yarrow Point Town Council will hold a special meeting on December 14, 2025, at 4:00 p.m. at Town Hall. Public participation is allowed via computer, mobile app, or by phone, though there will be no opportunity for public comment. Attendees can listen to the meeting virtually or in person. Mayor Katy Kinney Harris will preside over the meeting, which includes councilmembers Steve Bush, Stephan Lagerholm, Chuck Porter, Kathy Smith, and Laurie Bugbee. The agenda includes adopting an edited Appendix 1 of the 2026 Budget Ordinance, approving payments to Clyde Hill for third and fourth quarter CHPD invoices, and approving a KC Roads invoice for 94th Ave UGC, which is already included in the 2025 budget, totaling $365,268.76. An executive session lasting 60 minutes will follow to discuss legal matters related to town enforcement actions and potential litigation. The meeting will conclude with an adjournment, and the next regular Town Council meeting is scheduled for January 13, 2025, at 4:00 p.m.

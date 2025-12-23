@@ -16,7 +16,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/gala-auction-tickets-on-sale
 summarized: true
 title: Gala &#38;  Auction Tickets on Sale!
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

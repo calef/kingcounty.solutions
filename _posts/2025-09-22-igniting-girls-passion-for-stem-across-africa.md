@@ -12,7 +12,7 @@ source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/stem-camps/
 summarized: true
 title: Igniting girls’ passion for STEM across Africa
-topics:
+topic_titles:
 - Education & Learning
 ---
 

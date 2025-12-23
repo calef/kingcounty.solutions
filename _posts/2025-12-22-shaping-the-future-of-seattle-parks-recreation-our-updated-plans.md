@@ -18,7 +18,7 @@ source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/22/shaping-the-future-of-seattle-parks-recreation-our-updated-plans/
 summarized: true
 title: 'Shaping the Future of Seattle Parks & Recreation: Our Updated Plans '
-topics: []
+topic_titles: []
 ---
 
 Seattle Parks and Recreation has released an Updated 2020-2032 Strategic Plan and a new 2025-2028 Action Plan aimed at enhancing the city's park and recreation system. The updated strategic plan outlines a vision for a healthy, thriving, and vibrant community. It emphasizes the importance of accessibility, sustainability, and community engagement in shaping the future of parks and recreation in Seattle.

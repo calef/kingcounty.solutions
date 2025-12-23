@@ -7710,7 +7710,7 @@ source_url: https://nosscr.org/event/second-circuit-virtual-meeting/
 start_date: '2026-01-15T14:30:00-05:00'
 summarized: true
 title: Second Circuit Virtual Meeting
-topics: []
+topic_titles: []
 ---
 
 Join us for the Second Circuit Virtual Meeting on Jan. 15, 2026, starting at 2:30 p.m. EST. This event offers a unique opportunity for attendees to engage in discussions about important legal topics, network with peers, and gain insights from expert speakers in the field. Participants can expect to contribute to meaningful conversations and collaborate on various initiatives. Don't miss this chance to connect and share ideas with fellow professionals from the comfort of your own home.

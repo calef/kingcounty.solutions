@@ -12,7 +12,7 @@ source: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-executive-order-regarding-homelessness/
 summarized: true
 title: Executive Order Regarding Homelessness
-topics:
+topic_titles:
 - Shelter & Housing
 - Health Care
 - Mental Health & Counseling

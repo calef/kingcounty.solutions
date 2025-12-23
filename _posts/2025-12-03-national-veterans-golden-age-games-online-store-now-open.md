@@ -31,7 +31,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143767/national-veterans-golden-age-games-online-store-now-open/
 summarized: true
 title: National Veterans Golden Age Games online store now open
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 ---

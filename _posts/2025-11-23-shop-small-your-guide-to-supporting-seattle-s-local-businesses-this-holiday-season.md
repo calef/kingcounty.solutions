@@ -12,7 +12,7 @@ source_url: https://bottomline.seattle.gov/2025/11/23/shop-small-your-guide-to-s
 summarized: true
 title: 'Shop small: Your guide to supporting Seattle’s local businesses this holiday
   season'
-topics: []
+topic_titles: []
 ---
 
 Support Seattle's small businesses this holiday season by participating in Small Business Saturday on Nov. 29. Established in 2010, this day encourages shoppers to visit local shops and restaurants, celebrating the unique contributions of small businesses to the community and economy. For every $100 spent at a local business, an estimated $48 is reinvested in the community, generating significant local wealth.

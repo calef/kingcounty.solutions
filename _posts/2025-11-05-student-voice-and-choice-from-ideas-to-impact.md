@@ -11,7 +11,7 @@ source: Technology Access Foundation
 source_url: https://techaccess.org/student-voice-and-choice-from-ideas-to-impact/
 summarized: true
 title: 'Student Voice and Choice: From Ideas to Impact'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

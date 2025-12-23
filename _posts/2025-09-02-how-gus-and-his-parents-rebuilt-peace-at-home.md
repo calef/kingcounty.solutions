@@ -27,7 +27,7 @@ source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/gus-story-parent-child-interaction-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=gus-story-parent-child-interaction-therapy
 summarized: true
 title: How Gus and His Parents Rebuilt Peace at Home
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

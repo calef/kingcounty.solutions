@@ -98,7 +98,7 @@ source: Federal Way Community Center
 source_url: https://itallhappenshere.org/locker-rooms-now-open/?utm_source=rss&utm_medium=rss&utm_campaign=locker-rooms-now-open
 summarized: true
 title: Locker Rooms NOW OPEN!
-topics:
+topic_titles:
 - Disabilities
 ---
 

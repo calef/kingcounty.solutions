@@ -12,7 +12,7 @@ source_url: https://powerlines.seattle.gov/2025/11/24/seattle-city-spotlight-bri
 summarized: true
 title: 'Seattle City (spot)Light: Brittney Garcia Stubbs, Executive Assistant to the
   General Manager & CEO'
-topics: []
+topic_titles: []
 ---
 
 Brittney Garcia Stubbs serves as the executive assistant to the general manager and CEO of Seattle City Light, a role she has held since August 2024. Her responsibilities encompass a wide range of tasks, including scheduling, travel arrangements, and document management, while also facilitating collaboration with the executive and leadership teams to address significant challenges and develop forward-thinking solutions. She coordinates efforts with various Seattle City Light business units, the mayor’s office, City Council, and other city departments, reflecting the dynamic nature of her role.

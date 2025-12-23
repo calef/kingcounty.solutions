@@ -19,7 +19,7 @@ source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/sunshine-garden-activity-schedule-july/?utm_source=rss&utm_medium=rss&utm_campaign=sunshine-garden-activity-schedule-july
 summarized: true
 title: Sunshine Garden Activity Schedule – July
-topics:
+topic_titles:
 - Food & Nutrition
 - Health Care
 - Education & Learning

@@ -14,7 +14,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/13/after-the-flood-resources-services-and-information-to-know/
 summarized: true
 title: After the flood – resources, services, and information to know 
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Health Care

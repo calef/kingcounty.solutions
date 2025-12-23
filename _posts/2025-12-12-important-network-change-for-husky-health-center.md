@@ -15,7 +15,7 @@ source: Husky Health Center
 source_url: https://wellbeing.uw.edu/important-network-change-for-husky-health-center/
 summarized: true
 title: Important Network Change for Husky Health Center
-topics:
+topic_titles:
 - Health Care
 ---
 

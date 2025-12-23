@@ -59,7 +59,7 @@ source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/la-coperacha-december-2025/
 summarized: true
 title: 'La Coperacha: DECEMBER 2025'
-topics:
+topic_titles:
 - Childcare
 - Food & Nutrition
 - Personal & Household Needs

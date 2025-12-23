@@ -31,7 +31,7 @@ source_url: https://washington.zoom.us/meeting/register/4_YNLcaER9qHIqf9qOkKTw
 start_date: '2026-02-04T15:00:00-08:00'
 summarized: true
 title: 'Winter Accessibility POP Session 3: Canvas Accessibility Tips'
-topics:
+topic_titles:
 - Education & Learning
 - Disabilities
 ---

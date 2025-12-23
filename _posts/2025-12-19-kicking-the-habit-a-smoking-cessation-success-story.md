@@ -87,7 +87,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144030/kicking-habit-smoking-cessation-success-story/
 summarized: true
 title: 'Kicking the habit: A smoking cessation success story'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Employment & Job Support

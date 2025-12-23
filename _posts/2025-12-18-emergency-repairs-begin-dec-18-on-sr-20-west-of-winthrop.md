@@ -178,7 +178,7 @@ source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/emergency-repairs-begin-dec-18-sr-20-west-winthrop
 summarized: true
 title: Emergency repairs begin Dec. 18 on SR 20 west of Winthrop
-topics: []
+topic_titles: []
 ---
 
 Emergency repairs began on December 18 to address a washout and mudslides that closed State Route 20 west of Winthrop. The Washington State Department of Transportation (WSDOT) shut down the road between mileposts 171 and 184 on December 10 due to multiple mudslides and a significant washout along Little Boulder Creek at milepost 181. Flooding caused the creek to overflow, impacting the highway and nearby properties. Selland Construction is tasked with the repairs, which include redirecting the creek to its original channel, clearing debris, and fixing roadway surfaces and drainage features. Some repair work falls within the seasonal closure area of the North Cascades Highway, necessitating a temporary closure for recreational use. WSDOT urges the public to avoid entering the area west of milepost 184 until repairs are finished. The project is expected to take about 30 working days to complete. For updated travel information, the public can use the WSDOT mobile app or visit the WSDOT website for current weather and highway conditions.

@@ -66,7 +66,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/commerce-receives-112-applications-to-recent-funding-opportunities/
 summarized: true
 title: Commerce receives 112 applications to recent funding opportunities
-topics:
+topic_titles:
 - Shelter & Housing
 - Disabilities
 ---

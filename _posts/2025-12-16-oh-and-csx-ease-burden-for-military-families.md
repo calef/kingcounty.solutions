@@ -153,7 +153,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/oh-and-csx-ease-burden-for-military-families/
 summarized: true
 title: OH and CSX Ease Burden for Military Families
-topics:
+topic_titles:
 - Financial Assistance
 - Employment & Job Support
 ---

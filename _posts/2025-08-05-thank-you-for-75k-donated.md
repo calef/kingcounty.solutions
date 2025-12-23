@@ -114,7 +114,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/lbriylw3bfuf4j306j4w5bgxvs3iwn
 summarized: true
 title: THANK YOU for $75k donated!
-topics:
+topic_titles:
 - Personal & Household Needs
 ---
 

@@ -44,7 +44,7 @@ source_url: https://www.tukwilawa.gov/event/free-apprenticeship-class-training-a
 start_date: '2025-12-27T08:00:00-08:00'
 summarized: true
 title: Free Apprenticeship Class Training - Apply Now!
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

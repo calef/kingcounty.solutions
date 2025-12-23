@@ -14,7 +14,7 @@ source_url: https://harrell.seattle.gov/2025/11/22/mayor-harrell-issues-proclama
 summarized: true
 title: Mayor Harrell Issues Proclamation Ending Limited Civil Emergency After SNAP
   Benefits Fully Restored 
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

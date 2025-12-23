@@ -40,7 +40,7 @@ source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/what-steps-to-take-if-your-home-has-flooded-and-it-is-safe-to-return/
 summarized: true
 title: What steps to take if your home has flooded and it is SAFE to RETURN!
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

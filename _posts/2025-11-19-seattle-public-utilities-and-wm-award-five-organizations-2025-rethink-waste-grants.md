@@ -14,7 +14,7 @@ source_url: https://atyourservice.seattle.gov/2025/11/19/seattle-public-utilitie
 summarized: true
 title: Seattle Public Utilities and WM Award Five Organizations 2025 ReThink Waste
   Grants
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

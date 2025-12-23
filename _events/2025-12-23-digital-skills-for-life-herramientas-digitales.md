@@ -206,7 +206,7 @@ source_url: https://www.elcentrodelaraza.org/event/digital-skills-for-life-herra
 start_date: '2025-12-23T17:30:00-08:00'
 summarized: true
 title: Digital Skills for Life/ Herramientas Digitales
-topics:
+topic_titles:
 - Education & Learning
 ---
 

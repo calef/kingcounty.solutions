@@ -38,7 +38,7 @@ source: Everyone for Veterans
 source_url: https://www.everyoneforveterans.org/blog/patient-centered-care-in-dentistry-treating-the-person-not-just-the-tooth
 summarized: true
 title: 'Patient-Centered Care in Dentistry: Treating the Person, Not Just the Tooth'
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

@@ -66,7 +66,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/a-new-beginning-melodys-journey-to-stability
 summarized: true
 title: 'a new beginning: Melody’s journey to housing and stability'
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 - Employment & Job Support

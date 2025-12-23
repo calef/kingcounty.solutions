@@ -13,7 +13,7 @@ source_url: https://akinfamily.org/seattle-times-snap-crisis-is-proof-our-social
 summarized: true
 title: Seattle Times Op-Ed | SNAP crisis is proof our social-service sector needs
   a reset
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

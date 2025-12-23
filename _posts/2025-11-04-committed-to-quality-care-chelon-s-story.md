@@ -124,7 +124,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/committed-to-quality-care-chelons-story/
 summarized: true
 title: 'Committed to Quality Care: Chelon’s Story'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

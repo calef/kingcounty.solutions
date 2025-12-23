@@ -10,7 +10,7 @@ source_url: https://nhwa.org/2025/10/29/housing-washington-2025/
 start_date: '2026-10-20T00:00:00-07:00'
 summarized: true
 title: Housing Washington 2026 Conference
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

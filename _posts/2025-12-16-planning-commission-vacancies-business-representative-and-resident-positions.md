@@ -18,7 +18,7 @@ source: City of Tukwila
 source_url: https://www.tukwilawa.gov/planning-commission-vacancies-business-representative-and-resident-positions/
 summarized: true
 title: Planning Commission Vacancies – Business Representative and Resident Positions
-topics: []
+topic_titles: []
 ---
 
 The Tukwila Planning Commission is seeking candidates for two vacant positions: one Business Representative and one Resident. Both roles are for unexpired four-year terms set to end on March 31, 2028. The Planning Commission is responsible for reviewing and making recommendations on comprehensive planning and zoning matters. Interested individuals can obtain more information by contacting Nora Gierloff at (206) 431-3686 or via email at Nora.Gierloff@TukwilaWA.gov. To apply, candidates must complete the City of Tukwila Boards, Commissions, and Committee Application and submit it to the Mayor’s Office. The first review of applications will occur on January 5, 2026.

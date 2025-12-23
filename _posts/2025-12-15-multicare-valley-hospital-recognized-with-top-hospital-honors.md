@@ -23,7 +23,7 @@ source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/12/valley-hospital-leapfrog-top-hospital-honors-2025/
 summarized: true
 title: MultiCare Valley Hospital recognized with Top Hospital honors
-topics:
+topic_titles:
 - Health Care
 ---
 

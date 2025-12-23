@@ -123,7 +123,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/food-assistance-lifts-weight-off-soldier/
 summarized: true
 title: Food Assistance Lifts Weight Off Soldier
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 ---

@@ -166,7 +166,7 @@ source_url: https://www.commerce.wa.gov/underserved-communities-get-more-access-
 summarized: true
 title: Underserved communities get more access to credit thanks to Commerce’s Equitable
   Access to Credit Program
-topics:
+topic_titles:
 - Financial Assistance
 ---
 

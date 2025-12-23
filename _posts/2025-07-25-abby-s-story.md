@@ -47,7 +47,7 @@ source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/abbys-story/
 summarized: true
 title: Abby’s Story
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

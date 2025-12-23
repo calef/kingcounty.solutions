@@ -12,7 +12,7 @@ source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/celebrating-our-director-a-legacy-of-community-service/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-our-director-a-legacy-of-community-service
 summarized: true
 title: 'Celebrating Our Director: A Legacy of Community Service'
-topics:
+topic_titles:
 - Food & Nutrition
 - Education & Learning
 ---

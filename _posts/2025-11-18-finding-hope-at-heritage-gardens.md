@@ -23,7 +23,7 @@ source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/finding-hope-at-heritage-gardens/
 summarized: true
 title: Finding Hope at Heritage Gardens
-topics:
+topic_titles:
 - Shelter & Housing
 - Senior Services
 ---

@@ -42,7 +42,7 @@ source_url: https://music.washington.edu/events/2026-02-04/guest-pianist-recital
 start_date: '2026-02-04T19:30:00-08:00'
 summarized: true
 title: 'Guest Pianist Recital: Stephanie Cheng'
-topics: []
+topic_titles: []
 ---
 
 Join us for a captivating evening at the Guest Pianist Recital featuring the talented Stephanie Cheng on Feb. 4, 2026, at 7:30 p.m. Held in the Music Building, this event promises to showcase Cheng's exceptional skills and artistry, offering attendees a chance to experience a diverse repertoire that highlights her unique interpretations. Whether you're a music enthusiast or simply looking for an enriching cultural experience, this recital is sure to inspire and entertain. Don't miss the opportunity to enjoy an unforgettable night of live piano music!

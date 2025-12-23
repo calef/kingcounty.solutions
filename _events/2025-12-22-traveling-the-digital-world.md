@@ -51,7 +51,7 @@ source_url: https://wscenter.org/event/digital-discussions-2-2-2-2/2025-12-22/
 start_date: '2025-12-22T15:00:00-08:00'
 summarized: true
 title: Traveling the Digital World
-topics: []
+topic_titles: []
 ---
 
 Join us at The Center for Active Living in Seattle on December 22, 2025, from 3 p.m. to 4 p.m. for "Traveling the Digital World." This engaging event will explore various technologies that impact daily life, covering topics such as scam awareness, email management, and cell phone settings. Attendees can stop by the computer lab to pick up a printed description and schedule of future topics. Whether you're looking to enhance your tech skills or learn about new digital tools, this event promises valuable insights and practical knowledge. Don't miss this opportunity to embark on a digital adventure!

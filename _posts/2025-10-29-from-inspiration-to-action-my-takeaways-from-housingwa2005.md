@@ -13,7 +13,7 @@ source: Neighborhood House
 source_url: https://nhwa.org/2025/10/29/housing-washington-2025/
 summarized: true
 title: 'From Inspiration to Action: My Takeaways from HousingWA2005'
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

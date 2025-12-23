@@ -15,7 +15,7 @@ source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/11/register-for-winter-break-camp-for-ages-5-12/
 summarized: true
 title: Register for Winter Break Camp for Ages 5-12!
-topics:
+topic_titles:
 - Childcare
 ---
 

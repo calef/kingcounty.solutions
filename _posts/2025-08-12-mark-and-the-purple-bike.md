@@ -84,7 +84,7 @@ source: Bike Works
 source_url: https://bikeworks.org/mark-and-the-purple-bike/?utm_source=rss&utm_medium=rss&utm_campaign=mark-and-the-purple-bike
 summarized: true
 title: Mark and the purple bike
-topics:
+topic_titles:
 - Education & Learning
 ---
 

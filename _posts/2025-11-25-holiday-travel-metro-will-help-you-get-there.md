@@ -15,7 +15,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/25/holiday-travel-metro-will-help-you-get-there/
 summarized: true
 title: Holiday travel? Metro will help you get there
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

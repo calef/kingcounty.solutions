@@ -404,7 +404,7 @@ source_url: https://sustainability.uw.edu/action/students/hues
 start_date: '2026-01-13T18:00:00-08:00'
 summarized: true
 title: Huskies for Equitable Sustainability (HuES) student meeting
-topics: []
+topic_titles: []
 ---
 
 Join the Huskies for Equitable Sustainability (HuES) student meeting on Jan. 13, 2026, from 6 to 7 p.m. at the Student Union Building (HUB 337). This event invites all University of Washington students interested in sustainability and equity to engage in impactful projects and community building. Attendees can expect to learn about various sustainability initiatives, volunteer opportunities, and how to contribute to UW’s Sustainability Action Plan. No prior experience is necessary—just a willingness to collaborate and explore new ideas. The meeting will foster informal conversations and connections among peers, making it a great opportunity to meet like-minded individuals. HuES meets biweekly, so this is a perfect chance to get involved and help shape sustainability efforts on campus. Come discover how you can make a difference while gaining valuable skills and experiences!

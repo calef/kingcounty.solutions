@@ -13,7 +13,7 @@ source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/holiday-party-and-cookie-exchange-dec-23-2025/
 summarized: true
 title: Holiday Party and Cookie Exchange, Dec. 23, 2025
-topics: []
+topic_titles: []
 ---
 
 Join the holiday party and cookie exchange on Dec. 23, 2025. Participants can drop off homemade cookies by 3:45 p.m. and then choose from a selection of cookies between 4 and 5 p.m. The event includes cookie decorating and hot chocolate, providing a festive atmosphere to celebrate the season.

@@ -9,7 +9,7 @@ source_url: https://sdotblog.seattle.gov/2025/12/11/connecting-lake-city-transit
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: Launch of Route 77
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

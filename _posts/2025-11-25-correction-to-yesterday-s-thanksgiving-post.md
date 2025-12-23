@@ -12,7 +12,7 @@ source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/correction-to-yesterdays-thanksgiving-post/?utm_source=rss&utm_medium=rss&utm_campaign=correction-to-yesterdays-thanksgiving-post
 summarized: true
 title: Correction to yesterday’s Thanksgiving post
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 ---

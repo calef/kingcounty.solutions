@@ -78,7 +78,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/governor-ferguson-awards-350k-to-portal-space-systems-for-bothell-expansion/
 summarized: true
 title: Governor Ferguson awards $350K to Portal Space Systems for Bothell expansion
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 ---

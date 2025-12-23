@@ -132,7 +132,7 @@ source: Refugee Women's Alliance
 source_url: https://www.rewa.org/food-bank-resources/?utm_source=rss&utm_medium=rss&utm_campaign=food-bank-resources
 summarized: true
 title: Food Bank Resources
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

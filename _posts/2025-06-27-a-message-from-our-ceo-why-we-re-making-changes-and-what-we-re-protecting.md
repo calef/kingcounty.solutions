@@ -187,7 +187,7 @@ source: YouthCare
 source_url: https://youthcare.org/blog/a-message-from-our-ceo-why-were-making-changes-and-what-were-protecting/
 summarized: true
 title: 'A Message from our CEO: Why We’re Making Changes – and What We’re Protecting'
-topics:
+topic_titles:
 - Shelter & Housing
 - Education & Learning
 - Employment & Job Support

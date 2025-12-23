@@ -9,7 +9,7 @@ source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/the-dove-report
 summarized: true
 title: The DOVE Report
-topics: []
+topic_titles: []
 ---
 
 DOVE's quarterly newsletter provides updates on the latest news and activities within the organization. It highlights significant achievements, upcoming events, and initiatives aimed at community engagement and support. The newsletter serves as a resource for stakeholders and the public, offering insights into DOVE's mission and ongoing efforts. Readers are encouraged to stay informed and connected through regular updates provided in the newsletter.

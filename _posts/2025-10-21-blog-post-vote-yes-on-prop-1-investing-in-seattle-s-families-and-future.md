@@ -12,7 +12,7 @@ source: United Way of King County
 source_url: https://www.uwkc.org/breaking-the-cycle-of-poverty-news/blog-post-vote-yes-on-prop-1-investing-in-seattles-families-and-future/
 summarized: true
 title: 'Blog Post: Vote Yes on Prop 1: Investing in Seattle’s Families and Future'
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 - Employment & Job Support

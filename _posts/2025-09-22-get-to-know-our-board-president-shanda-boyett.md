@@ -12,7 +12,7 @@ source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/get-to-know-our-board-president-shanda-boyett/
 summarized: true
 title: Get to Know Our Board President, Shanda Boyett!
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

@@ -216,7 +216,7 @@ start_date: '2026-01-08T15:30:00-08:00'
 summarized: true
 title: 'Distinguished Lecture Series: Scott Aaronson - Computational Complexity and
   Explanations in Physics'
-topics: []
+topic_titles: []
 ---
 
 Join the Paul G. Allen School of Computer Science & Engineering for the Distinguished Lecture Series featuring Scott Aaronson on Jan. 8, 2026, at 3:30 p.m. in the Amazon Auditorium at the Gates Center (CSE2), Room G20.

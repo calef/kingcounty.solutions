@@ -100,7 +100,7 @@ source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/holiday-giving-program-2025-highlights/
 summarized: true
 title: 'Spreading Joy: Highlights from the ‘Tis the Season Holiday Giving Program'
-topics:
+topic_titles:
 - Childcare
 - Food & Nutrition
 - Personal & Household Needs

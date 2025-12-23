@@ -14,7 +14,7 @@ summarized: true
 title: La Oficina de Normas Laborales de Seattle llega a un acuerdo con la plataforma
   en línea Handy Technologies por presuntas violaciones de la Ordenanza de Trabajadores
   del Hogar
-topics:
+topic_titles:
 - Domestic Violence
 - Employment & Job Support
 ---

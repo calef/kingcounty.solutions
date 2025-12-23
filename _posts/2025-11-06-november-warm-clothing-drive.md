@@ -12,7 +12,7 @@ source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/11/06/november-warm-clothing-drive/
 summarized: true
 title: November Warm Clothing Drive
-topics:
+topic_titles:
 - Personal & Household Needs
 - Shelter & Housing
 ---

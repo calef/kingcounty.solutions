@@ -9,7 +9,7 @@ source_url: https://snovalleysenior.org/december-2025-directors-letter/
 start_date: '2026-01-05T00:00:00-08:00'
 summarized: true
 title: Reopening After Holiday Closure
-topics:
+topic_titles:
 - Senior Services
 ---
 

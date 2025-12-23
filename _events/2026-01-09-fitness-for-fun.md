@@ -230,7 +230,7 @@ source_url: https://wscenter.org/event/fitness-for-fun/2026-01-09/
 start_date: '2026-01-09T09:00:00-08:00'
 summarized: true
 title: Fitness For Fun
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 ---

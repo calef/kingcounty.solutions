@@ -9,7 +9,7 @@ source_url: https://wellbeing.uw.edu/important-network-change-for-husky-health-c
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: Network Change at Husky Health Center
-topics:
+topic_titles:
 - Health Care
 ---
 

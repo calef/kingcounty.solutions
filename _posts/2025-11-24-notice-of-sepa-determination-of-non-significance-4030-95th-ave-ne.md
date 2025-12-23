@@ -16,7 +16,7 @@ source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/notice-of-sepa-determination-of-non-significance-4030-95th-ave-ne/
 summarized: true
 title: 'NOTICE OF SEPA DETERMINATION OF NON-SIGNIFICANCE: 4030 95th Ave NE.'
-topics: []
+topic_titles: []
 ---
 
 A SEPA determination of non-significance has been issued for the property located at 4030 95th Ave. NE. This determination indicates that the proposed project is not expected to have a significant adverse impact on the environment. In addition to this notice, the town has announced a series of meetings: a Town Council special meeting on Nov. 20, 2025, at 4 p.m. at Town Hall; a Town Park Commission special meeting on Nov. 19, 2025, at 7 p.m. at Town Hall; and the cancellation of the Town Planning Commission regular meeting originally scheduled for Nov. 18, 2025.

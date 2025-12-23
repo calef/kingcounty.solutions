@@ -14,7 +14,7 @@ source_url: https://humaninterests.seattle.gov/2025/11/26/more-than-1-million-in
 summarized: true
 title: More than $1 million in food assistance reaches Seattle food banks, meal programs
   during SNAP disruption
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

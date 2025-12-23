@@ -54,7 +54,7 @@ source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/youth-in-schools-leading-the-way/?utm_source=rss&utm_medium=rss&utm_campaign=youth-in-schools-leading-the-way
 summarized: true
 title: Youth in Schools Leading the Way
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

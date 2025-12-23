@@ -163,7 +163,7 @@ source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/pwhl-seattle-u-basketball-games-ticket-distribution/
 summarized: true
 title: PWHL & Seattle U Basketball Games Ticket Distribution
-topics: []
+topic_titles: []
 ---
 
 The Snoqualmie Tribe has announced the distribution of tickets for the PWHL and Seattle U basketball games at Climate Pledge Arena. Tickets will be sent electronically to the email addresses on file and require a Ticketmaster account for access. Tribal members who are unable to attend their games are encouraged to notify the Tribe via email.

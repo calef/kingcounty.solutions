@@ -29,7 +29,7 @@ source: The National Children's Cancer Society - Financial Assistance
 source_url: https://thenccs.org/meet-kendrie/
 summarized: true
 title: Meet Kendrie!
-topics:
+topic_titles:
 - Education & Learning
 - Mental Health & Counseling
 - Employment & Job Support

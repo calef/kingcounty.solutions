@@ -16,7 +16,7 @@ source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/12/16/celebrate-christmas-at-st-lukes-4-pm/
 summarized: true
 title: Celebrate Christmas at St Luke’s 4 pm
-topics: []
+topic_titles: []
 ---
 
 Join St. Luke’s Episcopal Church for a Christmas Eve celebration featuring a pop-up pageant suitable for all ages at 4 p.m. The church will host two services on Christmas Eve, with the early evening service designed for families. This festive event aims to bring the community together in a joyful celebration of the holiday. Everyone is welcome to attend and experience the spirit of Christmas at St. Luke’s.

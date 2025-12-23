@@ -10,7 +10,7 @@ source_url: https://westsideneighborsshelter.org/medical-team-to-visit-westside-
 start_date: '2026-01-03T09:30:00-08:00'
 summarized: true
 title: Medical Care at American Legion Hall
-topics:
+topic_titles:
 - Health Care
 - Shelter & Housing
 ---

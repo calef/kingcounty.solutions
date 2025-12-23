@@ -12,7 +12,7 @@ source: City of Seattle
 source_url: https://centerspotlight.seattle.gov/2025/12/10/new-years-eve-at-the-center-dec-31/
 summarized: true
 title: New Year’s Eve at Seattle Center | Dec 31
-topics: []
+topic_titles: []
 ---
 
 Celebrate New Year's Eve at the Center on December 31, 2025, presented by Alaska Airlines. The event features a vibrant night filled with music, light displays, comedy performances, and a spectacular fireworks show.

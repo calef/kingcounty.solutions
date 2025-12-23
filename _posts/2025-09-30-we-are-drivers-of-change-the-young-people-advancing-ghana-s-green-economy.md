@@ -12,7 +12,7 @@ source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/young-people-advancing-ghanas-green-economy/
 summarized: true
 title: "“We are drivers of change!” The young people advancing Ghana’s green economy"
-topics:
+topic_titles:
 - Employment & Job Support
 - Food & Nutrition
 ---

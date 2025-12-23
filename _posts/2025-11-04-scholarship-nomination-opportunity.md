@@ -20,7 +20,7 @@ source: City of Carnation
 source_url: https://www.carnationwa.gov/scholarship-nomination-opportunity/
 summarized: true
 title: Scholarship Nomination Opportunity
-topics:
+topic_titles:
 - Education & Learning
 ---
 

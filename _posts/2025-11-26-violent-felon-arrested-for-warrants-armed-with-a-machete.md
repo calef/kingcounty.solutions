@@ -14,7 +14,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/26/violent-felon-arrested-for-warrants-armed-with-a-machete/
 summarized: true
 title: Violent Felon Arrested for Warrants, Armed With a Machete
-topics:
+topic_titles:
 - Domestic Violence
 ---
 

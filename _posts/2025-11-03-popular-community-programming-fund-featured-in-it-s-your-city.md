@@ -56,7 +56,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/iyc-11-25
 summarized: true
 title: Popular Community Programming Fund featured in It's Your City
-topics: []
+topic_titles: []
 ---
 
 Bellevue's Community Programming Fund (CPF) has successfully supported nearly 40 events this year, including a book giveaway at Downtown Park and a night market in BelRed. The CPF aims to foster community engagement in public spaces along the Grand Connection corridor, offering grants of up to $15,000. The program is expected to return next year with a focus on series-based activities and World Cup themes.

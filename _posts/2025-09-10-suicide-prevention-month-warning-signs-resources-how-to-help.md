@@ -54,7 +54,7 @@ source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/suicide-prevention-month-2/
 summarized: true
 title: 'Suicide Prevention Month: Warning Signs, Resources & How to Help'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

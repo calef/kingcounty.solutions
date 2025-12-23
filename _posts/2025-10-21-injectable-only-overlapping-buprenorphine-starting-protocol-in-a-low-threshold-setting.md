@@ -15,7 +15,7 @@ source_url: https://www.desc.org/injectable-only-overlapping-buprenorphine-start
 summarized: true
 title: Injectable-Only Overlapping Buprenorphine Starting Protocol in a Low-Threshold
   Setting
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Shelter & Housing

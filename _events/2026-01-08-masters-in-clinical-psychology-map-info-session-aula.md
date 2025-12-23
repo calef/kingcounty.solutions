@@ -100,7 +100,7 @@ source_url: https://www.antioch.edu/event/masters-in-clinical-psychology-map-inf
 start_date: '2026-01-08T17:00:00-08:00'
 summarized: true
 title: Masters in Clinical Psychology (MAP) Info Session | AULA
-topics:
+topic_titles:
 - Education & Learning
 - Mental Health & Counseling
 ---

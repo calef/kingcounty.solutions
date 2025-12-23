@@ -76,7 +76,7 @@ source: Inatai Foundation
 source_url: https://inatai.org/news/meet-alieu-samateh/
 summarized: true
 title: Meet Alieu Samateh
-topics: []
+topic_titles: []
 ---
 
 Alieu Samateh joins Inatai as an IT Service Desk associate, bringing a background in IT support and a passion for community engagement. He describes himself as authentic, approachable, and witty. Initially coming to Inatai as an IT contractor, Alieu built relationships and connected with the foundation’s mission, which motivated him to apply for a permanent role. He values the culture at Inatai that fosters a sense of belonging and community.

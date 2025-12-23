@@ -14,7 +14,7 @@ source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/05/job-postings-international-community-health-services-sbhcs/
 summarized: true
 title: 'Job Postings: International Community Health Services SBHCs'
-topics:
+topic_titles:
 - Health Care
 ---
 

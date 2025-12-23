@@ -111,7 +111,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143240/safest-place-homeless-veterans-va-housing/
 summarized: true
 title: The safest place for homeless Veterans? VA housing programs
-topics:
+topic_titles:
 - Shelter & Housing
 - Mental Health & Counseling
 - Senior Services

@@ -16,7 +16,7 @@ source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/11/multicare-awards-800000-to-53-nonprofits-advancing-community-health-in-washington/
 summarized: true
 title: MultiCare awards $800,000 to 53 nonprofits advancing community health in Washington
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Food & Nutrition

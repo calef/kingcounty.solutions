@@ -16,7 +16,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27351
 summarized: true
 title: City Council Meeting
-topics: []
+topic_titles: []
 ---
 
 The City Council meeting is scheduled for February 5, 2026, at 7:00 PM. Details regarding the meeting agendas are available through a designated link.

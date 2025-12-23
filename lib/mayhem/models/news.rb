@@ -100,8 +100,8 @@ module Mayhem
         self['title']
       end
 
-      def topics
-        self['topics'] || []
+      def topic_titles
+        self['topic_titles'] || []
       end
     end
   end

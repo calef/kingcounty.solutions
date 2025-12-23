@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/champion-student-success-join-our-back-to-school-supply-drive
 summarized: true
 title: 'champion student success: join our back-to-school supply drive'
-topics:
+topic_titles:
 - Education & Learning
 - Personal & Household Needs
 ---

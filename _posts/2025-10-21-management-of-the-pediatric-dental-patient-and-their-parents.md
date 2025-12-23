@@ -80,7 +80,7 @@ source: Arcora Foundation
 source_url: https://arcorafoundation.org/management-of-the-pediatric-dental-patient-and-their-parents/
 summarized: true
 title: Management of the Pediatric Dental Patient (and their parents)
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 ---

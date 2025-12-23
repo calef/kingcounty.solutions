@@ -9,7 +9,7 @@ source_url: https://bellevuewa.gov/city-news/council-roundup-updates-provided-af
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: Draft Strategy Presentation
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

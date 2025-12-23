@@ -207,7 +207,7 @@ source: YouthCare
 source_url: https://youthcare.org/blog/youthcare-update-progress-and-stability/
 summarized: true
 title: 'YouthCare Update: Progress and Stability'
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 ---

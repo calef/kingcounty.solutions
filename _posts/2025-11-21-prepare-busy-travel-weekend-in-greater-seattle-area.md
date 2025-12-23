@@ -9,7 +9,7 @@ source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/prepare-busy-travel-weekend-greater-seattle-area
 summarized: true
 title: 'Prepare: Busy travel weekend in greater Seattle area'
-topics: []
+topic_titles: []
 ---
 
 Travelers in the greater Seattle area should prepare for significant delays and road closures starting late Friday evening, Nov. 21, through early Monday, Nov. 24. Key construction activities include lane reductions on southbound Interstate 5 over the Ship Canal Bridge, ramp closures at the I-405/State Route 522 interchange, and the closure of eastbound SR 520 from I-5 to Montlake Boulevard.

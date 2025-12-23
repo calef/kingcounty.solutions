@@ -37,7 +37,7 @@ source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/snoqualmie-valley-health-new-north-bend-clinic-now-accepting-new-patients/
 summarized: true
 title: Snoqualmie Valley Health’s New North Bend Clinic Now Accepting New Patients
-topics:
+topic_titles:
 - Health Care
 ---
 

@@ -9,7 +9,7 @@ source_url: https://snovalleysenior.org/december-2025-directors-letter/
 start_date: '2026-01-28T18:00:00-08:00'
 summarized: true
 title: Annual Member Meeting
-topics:
+topic_titles:
 - Senior Services
 ---
 

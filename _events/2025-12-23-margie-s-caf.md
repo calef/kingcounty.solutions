@@ -50,7 +50,7 @@ source_url: https://wscenter.org/event/margies-cafe/2025-12-23/
 start_date: '2025-12-23T09:00:00-08:00'
 summarized: true
 title: Margie’s Café
-topics: []
+topic_titles: []
 ---
 
 Join Margie’s Café on December 23, 2025, from 9 a.m. to 1:30 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. Enjoy a cozy atmosphere while savoring a rotating menu of freshly prepared cookies, sandwiches, salads, and soups. The café offers a variety of à la carte options for coffee, lunch, and snacks, making it a perfect spot to relax and socialize with friends. Don't miss this opportunity to experience delicious food and community spirit.

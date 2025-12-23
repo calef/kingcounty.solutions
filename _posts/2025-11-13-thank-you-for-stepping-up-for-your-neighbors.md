@@ -14,7 +14,7 @@ source: Multi-Service Center
 source_url: https://mschelps.org/thank-you-for-stepping-up-for-your-neighbors/
 summarized: true
 title: Thank you for stepping up for your neighbors
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

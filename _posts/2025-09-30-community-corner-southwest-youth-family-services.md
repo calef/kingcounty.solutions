@@ -14,7 +14,7 @@ source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/30/community-corner-southwest-youth-family-services/
 summarized: true
 title: Community Corner—Southwest Youth & Family Services
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 - Mental Health & Counseling

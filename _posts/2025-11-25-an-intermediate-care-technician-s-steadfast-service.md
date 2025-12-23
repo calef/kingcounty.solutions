@@ -71,7 +71,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143558/intermediate-care-technicians-steadfast-service/
 summarized: true
 title: An Intermediate Care Technician’s steadfast service 
-topics:
+topic_titles:
 - Health Care
 - Disabilities
 ---

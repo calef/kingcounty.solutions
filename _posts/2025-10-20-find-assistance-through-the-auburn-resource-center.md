@@ -11,7 +11,7 @@ source: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=17824739
 summarized: true
 title: Find assistance through the Auburn Resource Center
-topics:
+topic_titles:
 - Food & Nutrition
 - Employment & Job Support
 - Financial Assistance

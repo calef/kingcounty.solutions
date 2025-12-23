@@ -11,7 +11,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/community-celebrates-nichols-court-grand-opening
 summarized: true
 title: Community Celebrates Nichols Court Grand Opening!
-topics:
+topic_titles:
 - Shelter & Housing
 - Education & Learning
 ---

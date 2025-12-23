@@ -18,7 +18,7 @@ source: Homework Help
 source_url: https://blog.spl.org/2025/11/21/mossbacks-northwest-early-roots-of-seattles-libraries/
 summarized: true
 title: 'Mossback’s Northwest: Early Roots of Seattle’s Libraries'
-topics: []
+topic_titles: []
 ---
 
 Mossback’s Northwest recently highlighted the early literary roots of Seattle in an episode hosted by Knute Berger. The program explores how the city evolved into a literary hub, tracing its origins back to its frontier days and its connection to Skid Road. A notable feature of the episode is an 1889 book ledger from the Central Library’s Seattle Room, showcasing some of the library's earliest volumes. The episode also reveals an intriguing link between Seattle and Jack London, the author of *Call of the Wild*.

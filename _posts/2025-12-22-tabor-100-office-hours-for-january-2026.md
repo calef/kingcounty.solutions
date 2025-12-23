@@ -18,7 +18,7 @@ source: City of Seattle
 source_url: https://consultants.seattle.gov/2025/12/21/tabor-100-office-hours-for-january-2026/
 summarized: true
 title: Tabor 100 Office Hours for JANUARY 2026
-topics: []
+topic_titles: []
 ---
 
 The City of Seattle is hosting Tabor 100 office hours in January 2026 for individuals interested in learning about business opportunities with the City. These sessions aim to provide information on how the City collaborates with women- and minority-owned businesses. Participants can ask questions about working with unions on City construction projects and other related topics. The office hours are designed to help new and existing business owners understand the processes involved in working with the City. This initiative reflects Seattle's commitment to supporting diverse businesses and ensuring equitable access to opportunities within the local economy.

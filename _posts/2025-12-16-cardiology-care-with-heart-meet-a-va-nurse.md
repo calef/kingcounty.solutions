@@ -149,7 +149,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143981/cardiology-care-with-heart-meet-a-va-nurse/
 summarized: true
 title: 'Cardiology care with heart: Meet a VA nurse'
-topics:
+topic_titles:
 - Health Care
 ---
 

@@ -14,7 +14,7 @@ source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/22/upcoming-sbha-training/
 summarized: true
 title: Upcoming SBHA Training
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 - Mental Health & Counseling

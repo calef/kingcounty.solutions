@@ -12,7 +12,7 @@ source: Juma Ventures
 source_url: https://www.juma.org/2025/11/19/words-that-welcome-all-inclusive-language-at-juma/
 summarized: true
 title: 'Words That Welcome All: Inclusive Language at Juma'
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

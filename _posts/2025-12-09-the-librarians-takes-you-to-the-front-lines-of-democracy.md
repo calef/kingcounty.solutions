@@ -26,7 +26,7 @@ source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/09/the-librarians-takes-you-to-the-front-lines-of-democracy/
 summarized: true
 title: "“The Librarians” Takes You to the Front Lines of Democracy"
-topics:
+topic_titles:
 - Education & Learning
 ---
 

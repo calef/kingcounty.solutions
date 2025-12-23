@@ -56,7 +56,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/tait-fire-chief
 summarized: true
 title: City manager names Dave Tait Bellevue fire chief
-topics: []
+topic_titles: []
 ---
 
 Dave Tait has been appointed as the new fire chief of Bellevue, Washington, following the retirement of former chief Jay Hagen. Tait, a 28-year veteran of the Bellevue Fire Department, has served in various roles, including firefighter, paramedic, and deputy chief, and has been the interim chief since April. City Manager Diane Carlson praised Tait for his vision, character, and competence, highlighting his deep connection to the community and commitment to excellence.

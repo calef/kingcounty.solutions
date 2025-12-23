@@ -27,7 +27,7 @@ source_url: https://bikeworks.org/event/warehouse-sale-4/2026-03-07/
 start_date: '2026-03-07T13:00:00-08:00'
 summarized: true
 title: Warehouse sale
-topics: []
+topic_titles: []
 ---
 
 Join Bike Works for a warehouse sale on March 7, 2026, from 1 p.m. to 4 p.m. at their location in Seattle. This event is a unique opportunity to browse and purchase a variety of bikes, parts, and other items as they make room for newly donated bikes. Expect to find perfectly functional bikes and contribute to the Seattle Bicycle Ecosystem by helping to keep these bikes on the road. Attendees are encouraged to bring a wagon and gloves for an enjoyable shopping experience. Don't miss this chance to support local cycling efforts and discover some great deals!

@@ -88,7 +88,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/why-shifali-volunteers-joy-connection-and-community
 summarized: true
 title: 'why Shifali volunteers: joy, connection, and community!'
-topics:
+topic_titles:
 - Childcare
 - Food & Nutrition
 - Shelter & Housing

@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://consultants.seattle.gov/2025/11/25/tabor-100-office-hours-for-december-2025/
 summarized: true
 title: Tabor 100 Office Hours for December 2025
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

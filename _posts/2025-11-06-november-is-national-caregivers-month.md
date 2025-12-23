@@ -24,7 +24,7 @@ source: Sound Generations
 source_url: https://soundgenerations.org/november-is-national-caregivers-month/
 summarized: true
 title: November is National Caregivers Month
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 ---

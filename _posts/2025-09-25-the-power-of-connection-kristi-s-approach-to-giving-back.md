@@ -85,7 +85,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/the-power-of-connection-kristis-approach-to-giving-back
 summarized: true
 title: 'the power of connection: Kristi’s approach to giving back'
-topics:
+topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 - Shelter & Housing

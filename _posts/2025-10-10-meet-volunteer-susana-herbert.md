@@ -15,7 +15,7 @@ source: The Center for Active Living
 source_url: https://wscenter.org/meet-volunteer-susana-herbert/
 summarized: true
 title: 'Meet Volunteer: Susana Herbert'
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

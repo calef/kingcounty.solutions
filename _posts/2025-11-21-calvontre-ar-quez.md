@@ -33,7 +33,7 @@ source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/family-stories/calvontre-arquez/
 summarized: true
 title: Calvontre & Ar’Quez
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 - Disabilities

@@ -15,7 +15,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/yfuwxutjn63rpyg7zoda55w5ql1kmf
 summarized: true
 title: EF Redmond new location opens
-topics:
+topic_titles:
 - Personal & Household Needs
 - Food & Nutrition
 - Transportation & Mobility

@@ -49,7 +49,7 @@ source_url: https://www.tukwilawa.gov/event/free-rave-winter-soccer-clinics-ages
 start_date: '2025-12-31T09:30:00-08:00'
 summarized: true
 title: Free Rave Winter Soccer Clinics (Ages 5-11)
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 ---

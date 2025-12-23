@@ -25,7 +25,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/burgermaster-and-you-small-change-big-impact
 summarized: true
 title: 'burgermaster and you: small change, big impact!'
-topics:
+topic_titles:
 - Shelter & Housing
 - Education & Learning
 - Mental Health & Counseling

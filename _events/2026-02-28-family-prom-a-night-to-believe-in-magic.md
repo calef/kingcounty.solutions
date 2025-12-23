@@ -83,7 +83,7 @@ source_url: https://itallhappenshere.org/event/family-prom-a-night-to-believe-in
 start_date: '2026-02-28T17:30:00-08:00'
 summarized: true
 title: 'Family Prom: A Night to Believe in Magic!'
-topics: []
+topic_titles: []
 ---
 
 Join us for Family Prom: A Night to Believe in Magic on Feb. 28, 2026, from 5:30 to 7 p.m. at the Federal Way Community Center, located at 876 S. 333rd St., Federal Way, WA. This enchanting evening invites children and their favorite grown-ups to dance, laugh, and create unforgettable memories together. Attendees can enjoy light refreshments and explore various concessions while celebrating their own fairytale moments. Dress in fairytale or semi-formal attire to fully embrace the magic of the night. Tickets are $17 per person. Don’t miss this wonderful opportunity to step into a storybook evening!

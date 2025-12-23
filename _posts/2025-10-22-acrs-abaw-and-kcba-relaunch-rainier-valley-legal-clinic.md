@@ -14,7 +14,7 @@ source: King County Bar Association
 source_url: http://www.kcba.org/?amp%3BblAction=showEntry&amp%3BblogEntry=133031&pg=news-and-announcements
 summarized: true
 title: ACRS, ABAW, and KCBA relaunch Rainier Valley Legal Clinic
-topics:
+topic_titles:
 - Legal Aid
 ---
 

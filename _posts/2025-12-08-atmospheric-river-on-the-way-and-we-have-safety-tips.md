@@ -14,7 +14,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/08/atmospheric-river-on-the-way-and-we-have-safety-tips/
 summarized: true
 title: " “Atmospheric River” On the Way and We Have Safety Tips"
-topics:
+topic_titles:
 - Transportation & Mobility
 - Food & Nutrition
 - Health Care

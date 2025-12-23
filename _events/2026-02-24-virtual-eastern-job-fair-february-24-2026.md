@@ -40,7 +40,7 @@ source_url: https://www.dav.org/events-calendar/virtual-eastern-job-fair-februar
 start_date: '2026-02-24T00:00:00-08:00'
 summarized: true
 title: Virtual (Eastern) Job Fair, February 24, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

@@ -18,7 +18,7 @@ source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/12/04/city-light-outlines-2026-rate-increases/
 summarized: true
 title: City Light outlines 2026 rate increases
-topics: []
+topic_titles: []
 ---
 
 Seattle City Light has announced plans for a rate increase in 2026, aimed at addressing rising operational costs and investments in infrastructure. The proposed changes include a two-phase increase, with the first phase set to take effect in January 2026 and the second phase in January 2027. The increase is expected to average 3.5% for residential customers and will vary for commercial and industrial customers based on usage. City Light emphasizes the need for these adjustments to maintain reliable service and support sustainability initiatives.

@@ -228,7 +228,7 @@ source_url: https://washington.zoom.us/meeting/register/tJMpce6vrz8sEtR5miKvhsQi
 start_date: '2026-01-07T14:00:00-08:00'
 summarized: true
 title: HPC Office Hours - Virtual
-topics: []
+topic_titles: []
 ---
 
 Join the HPC Office Hours - Virtual on Jan. 7, 2026, at 2 p.m. PST. This online event provides an opportunity for attendees to receive assistance and guidance on high-performance computing topics. Participants can ask questions, seek advice on projects, and connect with experts in the field. Whether you're a beginner or an experienced user, this session is designed to support your HPC needs. Don't miss the chance to enhance your knowledge and skills in a collaborative environment.

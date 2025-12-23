@@ -59,7 +59,7 @@ source_url: https://washington.zoom.us/j/95052911044
 start_date: '2026-01-20T11:00:00-08:00'
 summarized: true
 title: AWS Office Hours - Virtual
-topics: []
+topic_titles: []
 ---
 
 Join us for AWS Office Hours, a virtual event on Jan. 20, 2026, starting at 11 a.m. PST. This is an excellent opportunity for attendees to engage directly with AWS experts, ask questions, and gain insights into best practices for using Amazon Web Services. Whether you’re a beginner looking for guidance or an experienced user seeking advanced tips, this session will cater to all levels of expertise. Participants can expect a collaborative environment where they can share ideas and troubleshoot challenges with peers and professionals alike. Don’t miss this chance to enhance your AWS knowledge and skills from the comfort of your own home.

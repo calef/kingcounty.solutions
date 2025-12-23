@@ -19,7 +19,7 @@ source: Wellspring Family Services
 source_url: https://wellspringfs.org/super-kids-super-futures-celebrating-our-2025-elc-graduates/
 summarized: true
 title: 'Super Kids, Super Futures: Celebrating Our 2025 ELC Graduates'
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 - Financial Assistance

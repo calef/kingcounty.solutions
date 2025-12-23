@@ -86,7 +86,7 @@ source: Arcora Foundation
 source_url: https://arcorafoundation.org/practical-approaches-for-dental-fear-management/
 summarized: true
 title: Practical Approaches for Dental Fear Management
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

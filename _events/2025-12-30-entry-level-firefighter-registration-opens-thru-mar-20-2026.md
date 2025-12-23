@@ -47,7 +47,7 @@ source_url: https://www.tukwilawa.gov/event/entry-level-firefighter-registration
 start_date: '2025-12-30T23:00:00-08:00'
 summarized: true
 title: Entry-Level Firefighter Registration Opens thru Mar 20, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

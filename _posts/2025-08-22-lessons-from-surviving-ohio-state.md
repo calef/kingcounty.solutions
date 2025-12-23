@@ -11,7 +11,7 @@ source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/lessons-from-surviving-ohio-state/
 summarized: true
 title: Lessons from “Surviving Ohio State”
-topics:
+topic_titles:
 - Domestic Violence
 - Mental Health & Counseling
 ---

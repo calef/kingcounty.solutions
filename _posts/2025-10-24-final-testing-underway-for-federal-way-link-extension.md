@@ -15,7 +15,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/final-testing-underway-federal-way-link-extension
 summarized: true
 title: 'Final testing underway for Federal Way Link Extension '
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

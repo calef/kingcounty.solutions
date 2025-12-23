@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/seattle-home-fair-2025-learning-sessions-are-live-online/
 summarized: true
 title: Seattle Home Fair 2025 Learning Sessions are live Online!
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---

@@ -22,7 +22,7 @@ source: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/08/omnivorous-keybank-help-micro-businesses/
 summarized: true
 title: Omnivorous and KeyBank help micro-businesses access new customers
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

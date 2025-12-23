@@ -12,7 +12,7 @@ source: Juma Ventures
 source_url: https://www.juma.org/2025/11/19/a-path-to-leadership-hayleys-juma-journey/
 summarized: true
 title: 'A Path to Leadership: Hayley’s Juma Journey'
-topics:
+topic_titles:
 - Employment & Job Support
 - Education & Learning
 ---

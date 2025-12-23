@@ -84,7 +84,7 @@ source_url: https://www.commerce.wa.gov/generations-place-a-community-effort-to-
 summarized: true
 title: 'Generations Place: A community effort to house Langley workers for generations
   to come'
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

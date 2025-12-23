@@ -42,7 +42,7 @@ source: Boys & Girls Clubs of King County
 source_url: https://positiveplace.org/boys-and-girls-club-gala/
 summarized: true
 title: 'Boys & Girls Club Gala: A Roaring Night of Glamour & Giving'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

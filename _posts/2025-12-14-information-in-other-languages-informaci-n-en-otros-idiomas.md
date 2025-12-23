@@ -15,7 +15,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/14/information-in-other-languages-informacion-en-otros-idiomas/
 summarized: true
 title: Information in other languages / Información en otros idiomas
-topics:
+topic_titles:
 - Education & Learning
 - Mental Health & Counseling
 ---

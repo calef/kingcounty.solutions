@@ -7792,7 +7792,7 @@ source_url: https://nosscr.org/event/eleventh-circuit-virtual-meeting/
 start_date: '2026-03-19T14:30:00-04:00'
 summarized: true
 title: Eleventh Circuit Virtual Meeting
-topics:
+topic_titles:
 - Legal Aid
 ---
 

@@ -31,7 +31,7 @@ source_url: https://washington.zoom.us/meeting/register/02v0yOVmQp-wyQHgbQUqeA
 start_date: '2026-02-25T15:00:00-08:00'
 summarized: true
 title: 'Winter Accessibility POP Session 5: Accessible Slide Design'
-topics:
+topic_titles:
 - Disabilities
 ---
 

@@ -178,7 +178,7 @@ source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/07/nextgen/
 summarized: true
 title: 'Youth voices shape the future: Listening sessions reveal hopes and challenges'
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

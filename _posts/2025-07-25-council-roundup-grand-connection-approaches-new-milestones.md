@@ -94,7 +94,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-7-22-25
 summarized: true
 title: 'Council Roundup: Grand Connection approaches new milestones'
-topics: []
+topic_titles: []
 ---
 
 The Bellevue City Council provided updates on several initiatives during its recent meeting. Key developments include the Grand Connection program, aimed at enhancing the pedestrian experience in downtown Bellevue. The city has established the Office of the Grand Connection for better coordination and will seek state approval for the Grand Connection Crossing over Interstate 405, employing a construction management method to keep the project within scope and budget.

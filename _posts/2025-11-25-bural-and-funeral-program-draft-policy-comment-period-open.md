@@ -21,7 +21,7 @@ source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/bural-and-funeral-program-draft-policy-comment-period-open/
 summarized: true
 title: Bural and Funeral Program – Draft Policy Comment Period Open
-topics: []
+topic_titles: []
 ---
 
 The Snoqualmie Tribe has announced a 30-day comment period for the General Welfare Posthumous Internment and Headstone Benefit Policy. This draft policy was developed by the Tribal Council and the General Resources Department. Tribal members can request a copy of the draft policy by emailing RSVP@snoqualmietribe.us. The policy is not for public use and should not be shared on social media.

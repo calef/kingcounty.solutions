@@ -48,7 +48,7 @@ source_url: https://forms.office.com/pages/responsepage.aspx?id=W9229i_wGkSZoBYq
 start_date: '2026-01-08T09:30:00-08:00'
 summarized: true
 title: SafeCampus Violence Prevention and Response Training
-topics:
+topic_titles:
 - Domestic Violence
 ---
 

@@ -39,7 +39,7 @@ source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-22nd-23rd/
 summarized: true
 title: Dining Menu December 22nd & 23rd
-topics:
+topic_titles:
 - Senior Services
 - Food & Nutrition
 ---

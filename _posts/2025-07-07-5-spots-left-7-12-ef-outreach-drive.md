@@ -34,7 +34,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/coming-up-614-ef-outreach-drive
 summarized: true
 title: "*5 SPOTS LEFT* 7/12 EF Outreach Drive"
-topics:
+topic_titles:
 - Personal & Household Needs
 - Food & Nutrition
 - Shelter & Housing

@@ -221,7 +221,7 @@ source_url: https://www.washington.edu/students/reg/2526cal.html#Q2
 start_date: '2026-01-05T00:00:00-08:00'
 summarized: true
 title: Instruction Begins - Winter 2026
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -90,7 +90,7 @@ start_date: '2026-01-15T15:30:00-08:00'
 summarized: true
 title: 'Distinguished Lecture Series: David Baker - Design of new protein functions
   using deep learning'
-topics: []
+topic_titles: []
 ---
 
 Join the Paul G. Allen School of Computer Science & Engineering for the Distinguished Lecture Series featuring David Baker on Jan. 15, 2026, at 3:30 p.m. in the Gates Center (CSE2), G20 | Amazon Auditorium.

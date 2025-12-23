@@ -39,7 +39,7 @@ source_url: https://www.marysplaceseattle.org/blog/shining-a-light-this-diwali-h
 summarized: true
 title: 'shining a light this Diwali: how one family turned celebration into community
   impact'
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

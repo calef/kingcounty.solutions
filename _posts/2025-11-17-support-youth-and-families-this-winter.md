@@ -20,7 +20,7 @@ source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/support-youth-and-families-this-winter/
 summarized: true
 title: Support Youth and Families This Winter
-topics:
+topic_titles:
 - Childcare
 - Food & Nutrition
 - Personal & Household Needs

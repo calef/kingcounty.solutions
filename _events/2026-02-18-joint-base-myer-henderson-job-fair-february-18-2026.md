@@ -40,7 +40,7 @@ source_url: https://www.dav.org/events-calendar/joint-base-myer-henderson-job-fa
 start_date: '2026-02-18T00:00:00-08:00'
 summarized: true
 title: Joint Base Myer-Henderson Job Fair, February 18, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

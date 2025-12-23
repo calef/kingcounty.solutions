@@ -11,7 +11,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/26931
 summarized: true
 title: City Offices Closed for Native American Heritage Day
-topics: []
+topic_titles: []
 ---
 
 The event is scheduled for Friday, Nov. 28, 2025, and will take place all day.

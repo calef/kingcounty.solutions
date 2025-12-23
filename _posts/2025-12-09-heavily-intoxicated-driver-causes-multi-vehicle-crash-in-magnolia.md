@@ -12,7 +12,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/08/heavily-intoxicated-driver-causes-multi-vehicle-crash-in-magnolia/
 summarized: true
 title: "“Heavily Intoxicated” Driver Causes Multi-Vehicle Crash in Magnolia"
-topics: []
+topic_titles: []
 ---
 
 A 25-year-old man was arrested for Driving Under the Influence (DUI) and Reckless Driving after causing a multi-vehicle crash in Seattle's Magnolia neighborhood on the night of December 6. Police received reports of the crash around 11:40 p.m. and found that the driver had collided with two other vehicles. Witnesses indicated that the man was heavily intoxicated and driving erratically before the accident. Officers conducted field sobriety tests, which confirmed the driver's impairment. He was then taken into custody. No serious injuries were reported from the crash, but the incident caused significant damage to the vehicles involved. The man was booked into jail, where he faces charges related to his actions.

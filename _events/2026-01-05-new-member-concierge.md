@@ -233,7 +233,7 @@ source_url: https://wscenter.org/event/new-member-concierge/2026-01-05/
 start_date: '2026-01-05T11:00:00-08:00'
 summarized: true
 title: New Member Concierge
-topics:
+topic_titles:
 - Senior Services
 ---
 

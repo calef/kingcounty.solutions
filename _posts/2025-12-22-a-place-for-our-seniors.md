@@ -78,7 +78,7 @@ source: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/12/a-place-for-our-seniors/
 summarized: true
 title: A place for our Seniors
-topics:
+topic_titles:
 - Senior Services
 - Shelter & Housing
 ---

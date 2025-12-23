@@ -14,7 +14,7 @@ source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/08/approved-2026-city-budget-invests-in-seattle-transportation-system-for-all/
 summarized: true
 title: Approved 2026 City budget invests in a Seattle transportation system for all
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

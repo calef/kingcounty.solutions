@@ -11,7 +11,7 @@ source: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/our-whole-community-a-record-breaking-closer-to-home-fundraiser
 summarized: true
 title: 'Our Whole Community: A Record-Breaking Closer to Home Fundraiser'
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

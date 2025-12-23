@@ -446,7 +446,7 @@ source: Solid Ground
 source_url: https://www.solid-ground.org/a-space-to-heal-and-flourish/
 summarized: true
 title: A space to heal and flourish
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

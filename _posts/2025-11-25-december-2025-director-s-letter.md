@@ -27,7 +27,7 @@ source: Sno-Valley Senior Center
 source_url: https://snovalleysenior.org/december-2025-directors-letter/
 summarized: true
 title: December 2025 Director’s Letter
-topics:
+topic_titles:
 - Senior Services
 ---
 

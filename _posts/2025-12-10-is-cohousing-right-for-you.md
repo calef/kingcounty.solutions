@@ -26,7 +26,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/is-cohousing-right-for-you/
 summarized: true
 title: Is CoHousing Right for You?
-topics:
+topic_titles:
 - Senior Services
 - Shelter & Housing
 ---

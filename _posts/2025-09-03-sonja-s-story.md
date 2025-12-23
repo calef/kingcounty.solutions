@@ -32,7 +32,7 @@ source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/sonja_blomdahl/
 summarized: true
 title: Sonja’s Story
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Food & Nutrition

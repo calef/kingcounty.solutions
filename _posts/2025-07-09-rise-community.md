@@ -16,7 +16,7 @@ source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/rise-community
 summarized: true
 title: Rise Community
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

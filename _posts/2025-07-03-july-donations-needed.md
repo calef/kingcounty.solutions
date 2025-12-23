@@ -26,7 +26,7 @@ source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/july-donations-needed/
 summarized: true
 title: July Donations Needed
-topics:
+topic_titles:
 - Personal & Household Needs
 ---
 

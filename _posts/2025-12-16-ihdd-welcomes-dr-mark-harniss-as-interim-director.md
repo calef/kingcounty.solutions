@@ -103,7 +103,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/16/ihdd-welcomes-dr-mark-harniss-as-interim-director/
 summarized: true
 title: IHDD Welcomes Dr. Mark Harniss as Interim Director
-topics:
+topic_titles:
 - Disabilities
 ---
 

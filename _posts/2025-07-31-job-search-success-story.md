@@ -11,7 +11,7 @@ source: Diocese of Olympia Refugee Resettlement Office
 source_url: https://www.dioceserroseattle.org/post/job-search-success-story-1
 summarized: true
 title: Job Search Success Story
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

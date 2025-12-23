@@ -220,7 +220,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/december-2025-transportation-electrification-open-funding-opportunities/
 summarized: true
 title: December 2025 transportation electrification open funding opportunities
-topics: []
+topic_titles: []
 ---
 
 The U.S. Department of Energy is offering a $10 billion loan program for manufacturers of advanced technology vehicles that meet specific fuel economy standards. Eligible applicants include manufacturers of vehicles and related components located in the U.S. with a reasonable chance of repayment. Applications are accepted on a rolling basis.

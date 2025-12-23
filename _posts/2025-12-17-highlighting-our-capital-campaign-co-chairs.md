@@ -117,7 +117,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/highlighting-our-capital-campaign-co-chairs
 summarized: true
 title: Highlighting Our Capital Campaign Co-Chairs
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

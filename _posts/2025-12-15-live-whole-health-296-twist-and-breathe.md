@@ -75,7 +75,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144052/live-whole-health-296-twist-and-breathe/
 summarized: true
 title: 'Live Whole Health #296: Twist and breathe'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

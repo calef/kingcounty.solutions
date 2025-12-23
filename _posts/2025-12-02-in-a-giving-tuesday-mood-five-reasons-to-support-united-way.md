@@ -12,7 +12,7 @@ source: United Way of King County
 source_url: https://www.uwkc.org/access-to-resources/in-a-giving-tuesday-mood-five-reasons-to-support-united-way/
 summarized: true
 title: In a Giving [Tuesday] Mood? Five Reasons to Support United Way
-topics:
+topic_titles:
 - Education & Learning
 - Financial Assistance
 - Health Care

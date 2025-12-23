@@ -13,7 +13,7 @@ start_date: '2026-02-17T09:00:00-08:00'
 summarized: true
 title: 'Getting into the Weeds: Sorting out the details of soil conditions & management
   considerations (online)'
-topics: []
+topic_titles: []
 ---
 
 Join us online for "Getting into the Weeds: Sorting Out the Details of Soil Conditions and Management Considerations" on Feb. 17, 2026, at 9 a.m. PST. This informative session will delve into the intricacies of soil management, providing attendees with essential insights and practical strategies for optimizing soil health. Participants can expect to engage in discussions about various soil conditions and management practices that can enhance agricultural productivity. Whether you are a seasoned farmer or a gardening enthusiast, this event promises to equip you with valuable knowledge to improve your soil management techniques. Don't miss this opportunity to deepen your understanding of soil dynamics from the comfort of your home via Zoom.

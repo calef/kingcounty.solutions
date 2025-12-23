@@ -28,7 +28,7 @@ source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-help-make-a-difference-in-vashon/
 summarized: true
 title: 'Meals on Wheels: Pack and Deliver Meals in Vashon!'
-topics:
+topic_titles:
 - Food & Nutrition
 - Senior Services
 ---

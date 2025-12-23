@@ -53,7 +53,7 @@ source: Angel Flight West
 source_url: https://angelflightwest.org/news/celebrating-700-missions-command-pilot-chris-bennett/
 summarized: true
 title: 'Celebrating 700 Missions: Command Pilot Chris Bennett'
-topics:
+topic_titles:
 - Health Care
 - Transportation & Mobility
 ---

@@ -230,7 +230,7 @@ source_url: https://wscenter.org/event/beginner-spanish-class/2026-01-08/
 start_date: '2026-01-08T09:00:00-08:00'
 summarized: true
 title: Beginner Spanish Class
-topics:
+topic_titles:
 - Education & Learning
 ---
 

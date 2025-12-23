@@ -14,7 +14,7 @@ source: DESC
 source_url: https://www.desc.org/celebrating-30-years-of-comprehensive-care-with-descs-sage-team/
 summarized: true
 title: Celebrating 30 Years of Comprehensive Care with DESC’s SAGE Team
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Shelter & Housing
 ---

@@ -287,7 +287,7 @@ source: Care Net of Puget Sound
 source_url: https://carenetps.org/my-friend-is-unexpectedly-pregnant-how-can-i-be-there-for-her/
 summarized: true
 title: My friend is unexpectedly pregnant, how can I be there for her?
-topics:
+topic_titles:
 - Childcare
 - Mental Health & Counseling
 ---

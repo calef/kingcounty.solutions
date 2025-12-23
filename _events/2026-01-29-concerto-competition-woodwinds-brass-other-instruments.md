@@ -13,7 +13,7 @@ source_url: https://music.washington.edu/events/2026-01-29/concerto-competition-
 start_date: '2026-01-29T17:30:00-08:00'
 summarized: true
 title: 'Concerto Competition: Woodwinds, Brass, Other Instruments'
-topics: []
+topic_titles: []
 ---
 
 Join us for the Concerto Competition featuring talented musicians from the woodwinds, brass, and other instrumental categories. This exciting event will showcase a variety of performances, offering attendees a chance to experience the artistry and skill of emerging musicians.

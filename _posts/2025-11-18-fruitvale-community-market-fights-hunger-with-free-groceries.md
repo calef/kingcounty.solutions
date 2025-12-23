@@ -13,7 +13,7 @@ source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/fruitvale-community-market-fights-hunger-with-free-groceries/
 summarized: true
 title: Fruitvale Community Market fights hunger with free groceries
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

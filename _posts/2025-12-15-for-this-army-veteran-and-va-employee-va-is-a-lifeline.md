@@ -139,7 +139,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143956/va-is-a-lifeline/
 summarized: true
 title: For this Army Veteran and VA employee, VA is a lifeline
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 - Health Care

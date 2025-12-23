@@ -13,7 +13,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/empowering-next-generation-transit-leaders
 summarized: true
 title: 'Empowering the next generation of transit leaders '
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 - Transportation & Mobility

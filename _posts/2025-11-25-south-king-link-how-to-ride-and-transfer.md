@@ -16,7 +16,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/south-king-link-how-to-ride-transfer
 summarized: true
 title: 'South King Link: How to ride and transfer'
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

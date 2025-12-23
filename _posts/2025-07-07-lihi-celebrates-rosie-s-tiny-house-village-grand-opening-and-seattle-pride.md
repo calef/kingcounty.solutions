@@ -11,7 +11,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/lihi-celebrates-rosie-s-tiny-house-village-grand-opening-and-seattle-pride
 summarized: true
 title: LIHI Celebrates Rosie's Tiny House Village Grand Opening and Seattle Pride!
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

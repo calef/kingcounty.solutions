@@ -211,7 +211,7 @@ source_url: https://bikeworks.org/event/bike-works-is-closed/
 start_date: '2026-01-19T08:00:00-08:00'
 summarized: true
 title: Bike Works is CLOSED
-topics: []
+topic_titles: []
 ---
 
 Bike Works will be closed on Jan. 19, 2026, starting at 8 a.m. This closure means that the facility will not be open for bike repairs, rentals, or any related activities. Community members are encouraged to plan accordingly and seek alternative options for their biking needs on this date. Please note that regular hours will resume following the closure.

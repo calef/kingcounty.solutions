@@ -103,5 +103,5 @@ source_url: https://give.olivecrest.org/event/food-industry-washington-pick-a-pu
 start_date: '2026-03-20T11:00:00-07:00'
 summarized: true
 title: Food Industry Pick a Purse PNW
-topics: []
+topic_titles: []
 ---

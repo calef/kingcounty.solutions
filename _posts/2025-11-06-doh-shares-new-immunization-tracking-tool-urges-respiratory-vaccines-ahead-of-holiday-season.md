@@ -47,7 +47,7 @@ source_url: https://doh.wa.gov/newsroom/doh-shares-new-immunization-tracking-too
 summarized: true
 title: DOH shares new immunization tracking tool, urges respiratory vaccines ahead
   of holiday season
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

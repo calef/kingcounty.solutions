@@ -159,7 +159,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/invest-in-kids-invest-in-communities-and-its-working/
 summarized: true
 title: Invest in Kids, Invest in Communities — and It’s Working
-topics:
+topic_titles:
 - Education & Learning
 ---
 

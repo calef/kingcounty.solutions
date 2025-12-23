@@ -10,7 +10,7 @@ source_url: https://kingcountymetro.blog/2025/11/24/approved-king-county-metros-
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: Opening of the Tukwila bus base
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

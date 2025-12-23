@@ -104,7 +104,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/bridgette-gives-back-to-military-families/
 summarized: true
 title: Bridgette Gives Back to Military Families
-topics:
+topic_titles:
 - Childcare
 - Employment & Job Support
 - Financial Assistance

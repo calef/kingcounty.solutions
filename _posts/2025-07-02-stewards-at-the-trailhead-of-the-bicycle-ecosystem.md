@@ -99,7 +99,7 @@ source: Bike Works
 source_url: https://bikeworks.org/steves-manifesto/?utm_source=rss&utm_medium=rss&utm_campaign=steves-manifesto
 summarized: true
 title: stewards at the trailhead of the bicycle ecosystem
-topics: []
+topic_titles: []
 ---
 
 Preventing bicycles from entering the waste stream is viewed as common sense rather than merely environmentalism. The Recycle & Reuse department at Bike Works has been recognized with a Green Globe Award from King County Natural Resources and Parks for its efforts in this area, processing more than 5,000 bicycles in 2024. However, this effort is small compared to the global bicycle industry, which produces 55,000 bikes daily. Major bicycle companies prioritize minor enhancements in performance and weight, transforming bicycles from durable machines into disposable commodities. The article questions the longevity of modern bikes, especially e-bikes, and emphasizes the challenges in maintaining complex systems over time.

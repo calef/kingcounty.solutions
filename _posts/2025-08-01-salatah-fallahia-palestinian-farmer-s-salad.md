@@ -25,7 +25,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/salatah-fallahia-palestinian-farmers-salad
 summarized: true
 title: Salatah Fallahia (Palestinian Farmer’s Salad)
-topics: []
+topic_titles: []
 ---
 
 Salatah Fallahia, or Palestinian farmer's salad, is a refreshing dish that serves six. The salad includes finely chopped ingredients such as six Persian cucumbers (or one English cucumber), one medium onion, four scallions, four medium tomatoes, one jalapeño pepper, a bunch of parsley, and a quarter cup of fresh mint leaves.

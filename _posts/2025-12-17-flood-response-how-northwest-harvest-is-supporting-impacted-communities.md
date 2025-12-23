@@ -45,7 +45,7 @@ source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/flood-response-how-northwest-harvest-is-supporting-impacted-communities/
 summarized: true
 title: 'Flood Response: How Northwest Harvest Is Supporting Impacted Communities'
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

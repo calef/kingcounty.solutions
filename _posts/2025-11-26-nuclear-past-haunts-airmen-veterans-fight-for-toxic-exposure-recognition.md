@@ -56,7 +56,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/nuclear-past-haunts-airmen-veterans-fight-for-toxic-exposure-recognition/
 summarized: true
 title: 'Nuclear past haunts airmen: Veterans fight for toxic exposure recognition'
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 ---

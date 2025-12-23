@@ -50,7 +50,7 @@ source_url: https://wellbeing.uw.edu/livewell/health-ed/body/
 start_date: '2026-01-24T10:00:00-08:00'
 summarized: true
 title: Body Project Peer Group
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

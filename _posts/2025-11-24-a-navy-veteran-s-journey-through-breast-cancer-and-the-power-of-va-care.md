@@ -173,7 +173,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143194/journey-through-breast-cancer-power-of-va-care/
 summarized: true
 title: A Navy Veteran’s journey through breast cancer and the power of VA care
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

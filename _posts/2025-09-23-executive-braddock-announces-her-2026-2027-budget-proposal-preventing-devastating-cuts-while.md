@@ -97,7 +97,7 @@ source_url: https://medium.com/@kcexec/executive-braddock-announces-her-2026-202
 summarized: true
 title: Executive Braddock announces her 2026–2027 budget proposal, preventing devastating
   cuts while…
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 - Health Care

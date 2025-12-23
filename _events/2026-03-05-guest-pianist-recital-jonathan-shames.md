@@ -59,7 +59,7 @@ source_url: https://music.washington.edu/events/2026-03-05/guest-artist-concert-
 start_date: '2026-03-05T19:30:00-08:00'
 summarized: true
 title: 'Guest Pianist Recital: Jonathan Shames'
-topics: []
+topic_titles: []
 ---
 
 Join us for an evening of exceptional music at the Guest Pianist Recital featuring Jonathan Shames on March 5, 2026, at 7:30 p.m. in the Music Building. Attendees can look forward to an inspiring performance showcasing Shames' virtuosity and artistry on the piano. This recital promises to be a delightful experience for music lovers, offering a chance to enjoy classical pieces and contemporary works. Don't miss this opportunity to witness a talented pianist in an intimate setting.

@@ -43,7 +43,7 @@ source_url: https://www.washington.edu/news/2025/12/09/ai-headphones-smart-noise
 summarized: true
 title: AI headphones automatically learn who you’re talking to — and let you hear
   them better
-topics: []
+topic_titles: []
 ---
 
 Researchers at the University of Washington have created smart headphones designed to tackle the “cocktail party problem,” where users struggle to hear conversations in noisy environments. These headphones use artificial intelligence to isolate voices by detecting conversation patterns. The technology relies on two AI models: one analyzes who is speaking and when, while the other filters out unwanted noises. This system, dubbed "proactive hearing assistants," activates when the user speaks and can manage one to four conversation partners without lag.

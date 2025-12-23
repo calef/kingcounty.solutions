@@ -34,7 +34,7 @@ source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/finding-inner-strength-through-peer-support/
 summarized: true
 title: Finding Inner Strength Through Peer Support
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

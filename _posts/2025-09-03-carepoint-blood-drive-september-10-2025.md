@@ -34,7 +34,7 @@ source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/carepoint-blood-drive-ttpgs-rfzs9-tfhm3
 summarized: true
 title: CarePoint Blood Drive - September 10, 2025
-topics: []
+topic_titles: []
 ---
 
 Join CarePoint for a blood drive on Sept. 10, 2025, at the SVA Family Life Center Gym from 9 a.m. to 3 p.m. In partnership with BloodWorks NW, the event aims to address the critically low regional blood supply. Organizers encourage community members to sign up and fill all available appointment slots, with hopes of making blood drives a regular event. This initiative presents an opportunity for individuals to contribute to the local blood supply and support those in need.

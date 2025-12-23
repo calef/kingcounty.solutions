@@ -12,7 +12,7 @@ source: United Way of King County
 source_url: https://www.uwkc.org/advocacy/perspective/
 summarized: true
 title: Perspective
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition

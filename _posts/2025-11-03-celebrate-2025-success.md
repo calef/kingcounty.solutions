@@ -15,7 +15,7 @@ source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/celebrate-2025-success
 summarized: true
 title: Celebrate 2025 Success!
-topics:
+topic_titles:
 - Disabilities
 ---
 

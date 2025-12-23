@@ -41,7 +41,7 @@ source_url: https://elap.org/meet-evan-molineux-elap-dv-staff-attorney-and-perki
 summarized: true
 title: 'Meet Evan Molineux: ELAP DV staff attorney and Perkins Coie Racial Justice
   Fellow'
-topics:
+topic_titles:
 - Domestic Violence
 ---
 

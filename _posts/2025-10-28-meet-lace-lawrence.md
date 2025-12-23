@@ -81,7 +81,7 @@ source: Inatai Foundation
 source_url: https://inatai.org/news/meet-lace-lawrence/
 summarized: true
 title: Meet Lace Lawrence
-topics: []
+topic_titles: []
 ---
 
 Lace Lawrence has joined Inatai as a program officer on the grantmaking team. Raised in Kittitas County, she describes herself as tenacious, empathetic, and curious. After graduating from Washington State University during a recession, Lace transitioned into philanthropy, working in various roles from university fundraising to grassroots nonprofits. Her experiences with grant review panels and at a family foundation highlighted the complexities of traditional giving, leading her to Inatai's community-centered approach.

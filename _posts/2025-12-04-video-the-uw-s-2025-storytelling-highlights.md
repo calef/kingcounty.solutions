@@ -16,7 +16,7 @@ source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/03/video-the-uws-2025-storytelling-highlights/
 summarized: true
 title: 'Video: The UW’s 2025 storytelling highlights'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

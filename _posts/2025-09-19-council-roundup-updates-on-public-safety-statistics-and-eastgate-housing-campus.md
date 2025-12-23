@@ -81,7 +81,7 @@ source_url: https://bellevuewa.gov/city-news/council-roundup-updates-public-safe
 summarized: true
 title: 'Council Roundup: Updates on public safety statistics and Eastgate Housing
   Campus'
-topics:
+topic_titles:
 - Shelter & Housing
 - Mental Health & Counseling
 - Transportation & Mobility

@@ -850,7 +850,7 @@ source_url: https://opalfoodandbody.com/the-appetite-134-self-inquiry-4/
 summarized: true
 title: 'The Appetite 134:  Self-Inquiry Series: Nostalgia for My Eating Disorder and
   Feeling Embarrassed About Having Feelings'
-topics: []
+topic_titles: []
 ---
 
 Christine Yu's book "Up to Speed: The Groundbreaking Science of Women Athletes" emphasizes the remarkable achievements of women in sports, challenging traditional views on gender and athleticism. In a recent episode of "The Appetite," Kara Bazzi, co-founder of Opal Food and Body, discusses with Yu the importance of understanding gender differences in sports to better support all athletes. The conversation also touches on the role of information dissemination in bridging gaps in knowledge about female athletes' experiences.

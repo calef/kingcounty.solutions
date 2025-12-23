@@ -12,7 +12,7 @@ source: Imagine Housing
 source_url: https://imaginehousing.org/bellevue-church-moving-forward-with-affordable-housing/
 summarized: true
 title: Bellevue Church Moving Forward with Affordable Housing
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

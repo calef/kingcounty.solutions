@@ -32,7 +32,7 @@ source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz
 summarized: true
 title: July 2025 Newsletter
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

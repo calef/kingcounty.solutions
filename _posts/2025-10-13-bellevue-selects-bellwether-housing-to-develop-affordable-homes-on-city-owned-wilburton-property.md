@@ -77,7 +77,7 @@ source_url: https://bellevuewa.gov/city-news/bellwether-housing-selection
 summarized: true
 title: Bellevue selects Bellwether Housing to develop affordable homes on city-owned
   Wilburton property
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 - Childcare

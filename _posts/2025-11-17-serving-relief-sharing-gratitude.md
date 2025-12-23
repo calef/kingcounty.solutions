@@ -52,7 +52,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/serving-relief-sharing-gratitude/
 summarized: true
 title: Serving Relief, Sharing Gratitude
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

@@ -25,7 +25,7 @@ source_url: https://www.multicare.org/newsroom/2025/10/multicare-partners-with-t
 summarized: true
 title: MultiCare partners with Tellica Imaging to bring imaging services closer to
   home
-topics:
+topic_titles:
 - Health Care
 ---
 

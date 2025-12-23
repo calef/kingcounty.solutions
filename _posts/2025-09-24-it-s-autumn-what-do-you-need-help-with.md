@@ -12,7 +12,7 @@ source: United Way of King County
 source_url: https://www.uwkc.org/access-to-resources/its-autumn-what-do-you-need-help-with/
 summarized: true
 title: 'It’s Autumn: What Do You Need Help With?'
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 - Financial Assistance

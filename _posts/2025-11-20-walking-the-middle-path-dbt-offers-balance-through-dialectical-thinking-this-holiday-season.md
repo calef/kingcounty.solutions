@@ -57,7 +57,7 @@ source_url: https://thirahealth.com/2025/11/20/walking-the-middle-path-dbt-offer
 summarized: true
 title: 'Walking the Middle Path: DBT Offers Balance Through Dialectical Thinking this
   Holiday Season'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

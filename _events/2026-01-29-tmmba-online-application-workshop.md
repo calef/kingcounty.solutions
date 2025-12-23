@@ -198,7 +198,7 @@ source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1
 start_date: '2026-01-29T13:00:00-08:00'
 summarized: true
 title: TMMBA Online Application Workshop
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

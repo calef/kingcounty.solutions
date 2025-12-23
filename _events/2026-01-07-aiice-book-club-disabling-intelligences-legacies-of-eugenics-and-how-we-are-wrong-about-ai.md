@@ -160,7 +160,7 @@ start_date: '2026-01-07T10:00:00-08:00'
 summarized: true
 title: 'AiiCE book club! Disabling Intelligences: Legacies of Eugenics and How We
   are Wrong about AI'
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

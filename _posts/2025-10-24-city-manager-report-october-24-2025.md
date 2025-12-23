@@ -20,7 +20,7 @@ source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-24-2025/
 summarized: true
 title: City Manager Report – October 24, 2025
-topics: []
+topic_titles: []
 ---
 
 The Normandy Park City Council and Planning Commission will hold a joint study session to discuss modernizing the city's telecommunications regulations. This is an attempt to address residents' frustrations with poor cell service, largely due to the area's topography and dense tree canopy. The proposed changes aim to simplify permitting requirements, maintain aesthetic and safety standards, and create a more predictable process for companies to install equipment. This does not guarantee immediate improvement but may attract necessary infrastructure investments. The public can attend the study session but cannot comment at this stage. Feedback opportunities will be available in future meetings.

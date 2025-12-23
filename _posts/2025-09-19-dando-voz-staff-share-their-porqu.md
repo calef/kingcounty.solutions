@@ -11,7 +11,7 @@ source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/dando-voz-staff-share-their-porque/
 summarized: true
 title: Dando Voz staff share their “porqué”
-topics:
+topic_titles:
 - Domestic Violence
 - Mental Health & Counseling
 ---

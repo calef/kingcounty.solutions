@@ -79,7 +79,7 @@ source_url: https://bellevuewa.gov/city-news/council-roundup-updates-provided-af
 summarized: true
 title: 'Council Roundup: Updates provided on Affordable Housing progress and the Multifamily
   Tax Exemption Program'
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

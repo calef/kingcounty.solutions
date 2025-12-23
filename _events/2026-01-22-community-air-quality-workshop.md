@@ -100,7 +100,7 @@ source_url: https://www.elcentrodelaraza.org/event/community-air-quality-worksho
 start_date: '2026-01-22T18:00:00-08:00'
 summarized: true
 title: Community Air Quality Workshop
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

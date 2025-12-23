@@ -22,7 +22,7 @@ source_url: https://kcemergency.com/2025/12/16/alert-king-county-message-go-now-
 summarized: true
 title: 'ALERT King County message – GO NOW: Evacuate 3rd Ave SE and Spencer Court
   in Pacific Due to White River Flooding'
-topics:
+topic_titles:
 - Shelter & Housing
 - Transportation & Mobility
 ---

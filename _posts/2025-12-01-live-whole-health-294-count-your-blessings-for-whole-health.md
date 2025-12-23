@@ -75,7 +75,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143664/live-whole-health-294-blessings-whole-health/
 summarized: true
 title: 'Live Whole Health #294: Count your blessings for Whole Health!'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

@@ -36,7 +36,7 @@ source: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/seattle-lunch-and-learn-understanding-the-fentanyl-crisis-with-valley-cities/
 summarized: true
 title: 'Seattle Lunch and Learn: Understanding the fentanyl crisis with Valley Cities'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

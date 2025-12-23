@@ -16,7 +16,7 @@ source_url: https://www.multicare.org/newsroom/2025/11/multicare-named-to-newswe
 summarized: true
 title: MultiCare named to Newsweek’s ‘America’s Greatest Workplaces in Health Care’
   2025
-topics:
+topic_titles:
 - Health Care
 - Employment & Job Support
 ---

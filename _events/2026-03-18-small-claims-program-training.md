@@ -203,7 +203,7 @@ source_url: https://kcdrc.org/event/small-claims-program-training/
 start_date: '2026-03-18T09:00:00-07:00'
 summarized: true
 title: Small Claims Program Training
-topics:
+topic_titles:
 - Legal Aid
 ---
 

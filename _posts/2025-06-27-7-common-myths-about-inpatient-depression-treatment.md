@@ -38,7 +38,7 @@ source: THIRA Health
 source_url: https://thirahealth.com/2025/06/27/7-common-myths-about-inpatient-depression-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=7-common-myths-about-inpatient-depression-treatment
 summarized: true
 title: 7 Common Myths About Inpatient Depression Treatment
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

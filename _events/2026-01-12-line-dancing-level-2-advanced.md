@@ -96,7 +96,7 @@ source_url: https://wscenter.org/event/line-dancing-level-2-advanced-2-2/2026-01
 start_date: '2026-01-12T12:00:00-08:00'
 summarized: true
 title: Line Dancing Level 2 Advanced
-topics: []
+topic_titles: []
 ---
 
 Join the Line Dancing Level 2 Advanced class on Monday, Jan. 12, 2026, from noon to 1 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This class, led by experienced instructor Chris Banta, offers a chance to learn more complex line dances set to a variety of music genres, including traditional country, ballroom, Latin, and waltz. Participants can expect a fun and engaging atmosphere that promotes fitness and mental agility through dance. While Level 1 focuses on beginner dances, Level 2 is designed for those looking to challenge themselves with more intricate routines. All students are welcome to join.

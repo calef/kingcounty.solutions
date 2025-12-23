@@ -31,7 +31,7 @@ source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/donor-spotlight-jennifer-scully/?utm_source=rss&utm_medium=rss&utm_campaign=donor-spotlight-jennifer-scully
 summarized: true
 title: 'Donor Spotlight: Jennifer Scully'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

@@ -64,7 +64,7 @@ source_url: https://iacswa.org/event/seniors-bellevue-popup-102/
 start_date: '2025-12-25T10:00:00-08:00'
 summarized: true
 title: SENIORS Bellevue Popup
-topics:
+topic_titles:
 - Senior Services
 ---
 

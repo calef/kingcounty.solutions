@@ -68,7 +68,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/innovation-exchange
 summarized: true
 title: Bellevue Innovation Exchange to showcase civic technology advancements
-topics: []
+topic_titles: []
 ---
 
 The City of Bellevue will host an Innovation Exchange event on Oct. 16, aimed at showcasing civic technology advancements and promoting community collaboration. This free, daylong event will take place at Bellevue City Hall and will feature demonstrations, presentations, and interactive exhibits from educators, entrepreneurs, and municipal tech experts. The day session will run from 9 a.m. to 4:30 p.m., followed by an evening celebration with refreshments and music from 4:30 p.m. to 7 p.m.

@@ -232,7 +232,7 @@ source_url: https://wscenter.org/event/arts-crafts-meet-up-2/2026-01-08/
 start_date: '2026-01-08T12:00:00-08:00'
 summarized: true
 title: Arts & Crafts Meet-Up
-topics: []
+topic_titles: []
 ---
 
 Join fellow art enthusiasts for an Arts & Crafts Meet-Up on Jan. 8, 2026, at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This event invites participants to explore their creativity through various hands-on projects, including painting, knitting, and scrapbooking. Attendees can bring their own supplies or use materials provided at the center. It's a great opportunity to learn new techniques, share ideas, and connect with others who share a passion for arts and crafts. Whether you're a beginner or an experienced artist, all skill levels are welcome. Don't miss this chance to unleash your creativity in a supportive community environment.

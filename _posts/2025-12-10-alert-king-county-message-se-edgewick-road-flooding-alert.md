@@ -14,7 +14,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/09/edgewick-flooding-alert/
 summarized: true
 title: ALERT King County Message – SE Edgewick Road Flooding Alert
-topics: []
+topic_titles: []
 ---
 
 Severe weather has caused damage to roads in the area, leading to restrictions on SE Edgewick Road at 453rd Avenue SE. As of Dec. 9, the road is limited to one lane, and there is a possibility it could be closed entirely. Crews are scheduled to begin repair work on Dec. 10, which will result in intermittent closures. Authorities emphasize the importance of safety during this time. Drivers are advised to be cautious and stay updated on road conditions.

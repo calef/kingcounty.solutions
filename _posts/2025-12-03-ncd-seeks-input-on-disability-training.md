@@ -135,7 +135,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/03/ncd-seeks-input-on-disability-training/
 summarized: true
 title: NCD Seeks Input on Disability Training
-topics:
+topic_titles:
 - Disabilities
 ---
 

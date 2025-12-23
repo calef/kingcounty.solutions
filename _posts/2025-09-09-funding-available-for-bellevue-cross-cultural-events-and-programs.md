@@ -50,7 +50,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/cross-cultural-rfp-25
 summarized: true
 title: Funding available for Bellevue cross-cultural events and programs
-topics:
+topic_titles:
 - Education & Learning
 ---
 

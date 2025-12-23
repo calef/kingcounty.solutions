@@ -23,7 +23,7 @@ class EventModelTest < Minitest::Test
           'published' => true,
           'source_url' => 'https://example.com/event',
           'summarized' => false,
-          'topics' => ['Housing']
+          'topic_titles' => ['Housing']
         },
         body: 'A test community event.'
       )
@@ -48,7 +48,7 @@ class EventModelTest < Minitest::Test
       assert_equal 'https://example.com/event', record.source_url
       assert_equal false, record.summarized
       assert_equal false, record.summarized?
-      assert_equal ['Housing'], record.topics
+      assert_equal ['Housing'], record.topic_titles
       assert_equal 'A test community event.', record.body.strip
 
       loaded = Mayhem::Models::Event.find(record.id)

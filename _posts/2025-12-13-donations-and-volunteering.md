@@ -16,7 +16,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/12/donations-and-volunteering/
 summarized: true
 title: Donations and Volunteering
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Shelter & Housing

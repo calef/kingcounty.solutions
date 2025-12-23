@@ -55,7 +55,7 @@ source: Washington Center for Deaf and Hard of Hearing Youth
 source_url: https://www.cdhy.wa.gov/interpreter-hub-monthly-offerings-november/
 summarized: true
 title: 'Interpreter Hub Monthly Offerings: November'
-topics:
+topic_titles:
 - Education & Learning
 - Disabilities
 ---

@@ -14,7 +14,7 @@ source: DESC
 source_url: https://www.desc.org/statement-on-recent-commentary-about-descs-bloomside/
 summarized: true
 title: Statement on Recent Commentary About DESC’s Bloomside 
-topics:
+topic_titles:
 - Shelter & Housing
 - Health Care
 - Mental Health & Counseling

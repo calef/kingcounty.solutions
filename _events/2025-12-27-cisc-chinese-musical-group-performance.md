@@ -11,7 +11,7 @@ source_url: https://shorelinelfpseniorcenter.org/cisc-chinese-musical-group/
 start_date: '2025-12-27T09:00:00-08:00'
 summarized: true
 title: CISC Chinese Musical Group Performance
-topics: []
+topic_titles: []
 ---
 
 Join the CISC Chinese Musical Instrument Group for a captivating performance on Dec. 27, 2025, at the Shoreline Lake Forest Park Senior Activity Center. This free event will showcase a blend of traditional and contemporary Chinese music, offering attendees a unique cultural experience.

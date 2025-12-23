@@ -22,7 +22,7 @@ source: City of Carnation
 source_url: https://www.carnationwa.gov/free-countertop-compost-bins-at-carnation-city-hall/
 summarized: true
 title: Free Countertop Compost Bins at Carnation City Hall
-topics: []
+topic_titles: []
 ---
 
 Carnation City Hall is offering free countertop compost bins to residents. To use, keep the compost kitchen pail in a convenient location and use it to collect food scraps and food-soiled paper. These can be emptied into an outside green bin. Recology will haul away the green waste material and convert it into compost. To prevent odors, line the pail with newspaper or paper bags, empty it regularly, rinse with soap and water weekly, and freeze spoiled foods until collection day. City Hall is open Monday through Friday from 8:30 a.m. to 4:30 p.m., with a lunch break from noon to 1 p.m.

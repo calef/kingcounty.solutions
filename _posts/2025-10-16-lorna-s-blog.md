@@ -11,7 +11,7 @@ source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/lornas-blog-2/
 summarized: true
 title: Lorna’s Blog
-topics:
+topic_titles:
 - Domestic Violence
 - Mental Health & Counseling
 ---

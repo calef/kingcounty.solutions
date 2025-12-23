@@ -97,7 +97,7 @@ source: Atlantic Street Center
 source_url: https://atlanticstreetcenter.org/2025/07/25/local-legacy-continues/?utm_source=rss&utm_medium=rss&utm_campaign=local-legacy-continues
 summarized: true
 title: Local Legacy Continues
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

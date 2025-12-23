@@ -40,7 +40,7 @@ source: Sound Generations
 source_url: https://soundgenerations.org/delivering-more-than-meals/
 summarized: true
 title: Delivering More Than Meals This Holiday Season
-topics:
+topic_titles:
 - Food & Nutrition
 - Senior Services
 ---

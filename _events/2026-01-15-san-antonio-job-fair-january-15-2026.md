@@ -40,7 +40,7 @@ source_url: https://www.dav.org/events-calendar/san-antonio-job-fair-january-15-
 start_date: '2026-01-15T00:00:00-08:00'
 summarized: true
 title: San Antonio Job Fair, January 15, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

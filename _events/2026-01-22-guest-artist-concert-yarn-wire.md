@@ -20,7 +20,7 @@ source_url: https://music.washington.edu/events/2026-01-22/guest-artist-concert-
 start_date: '2026-01-22T19:30:00-08:00'
 summarized: true
 title: 'Guest Artist Concert: Yarn/Wire'
-topics: []
+topic_titles: []
 ---
 
 Join us for an exciting evening at the Guest Artist Concert featuring Yarn/Wire on Jan. 22, 2026, at 7:30 p.m. in Meany Hall. Attendees can look forward to a captivating performance by this innovative ensemble, renowned for its unique blend of contemporary classical music and experimental sound. Experience a dynamic atmosphere filled with creativity and artistic expression as Yarn/Wire presents its latest works. Don't miss this opportunity to immerse yourself in a memorable night of music and inspiration!

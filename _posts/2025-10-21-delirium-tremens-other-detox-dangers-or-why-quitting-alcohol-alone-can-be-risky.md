@@ -134,7 +134,7 @@ source_url: https://lakesidemilam.com/blog/delirium-tremens-other-detox-dangers-
 summarized: true
 title: Delirium Tremens & Other Detox Dangers … or Why Quitting Alcohol Alone Can
   Be Risky
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Health Care
 ---

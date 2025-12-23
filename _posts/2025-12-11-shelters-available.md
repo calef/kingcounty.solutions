@@ -13,7 +13,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/10/shelters-available/
 summarized: true
 title: Shelters available
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 - Health Care

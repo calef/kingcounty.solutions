@@ -88,7 +88,7 @@ source_url: https://wscenter.org/event/ukes-sing-along-2-2/2026-01-12/
 start_date: '2026-01-12T13:00:00-08:00'
 summarized: true
 title: Ukes Sing-along
-topics: []
+topic_titles: []
 ---
 
 Join the Ukes Sing-along on Monday, Jan. 12, 2026, from 1 to 2:30 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This lively weekly gathering invites participants to enjoy playing the ukulele and singing together. Whether you're a seasoned player or a beginner, everyone is welcome to join in the fun. The event is free for members and $5 for non-members. Don't miss this opportunity to connect with fellow music enthusiasts in a friendly and supportive environment.

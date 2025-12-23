@@ -17,7 +17,7 @@ source_url: https://www.lihihousing.org/post/time-to-advocate-ask-city-council-f
 summarized: true
 title: Time to advocate! Ask City Council for $10 million for rent assistance for
   at-risk tenants
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---

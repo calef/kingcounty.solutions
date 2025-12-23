@@ -150,7 +150,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/adaptive-golf-for-veterans-the-role-of-golf-buddies-in-recovery/
 summarized: true
 title: 'Adaptive golf for veterans: The role of golf buddies in recovery'
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 ---

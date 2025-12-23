@@ -141,7 +141,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144076/pelvic-health-pt-restores-quality-of-life/
 summarized: true
 title: Pelvic health physical therapy restores quality of life for Veterans
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

@@ -57,7 +57,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143675/community-support-brings-veterans-early-turkey/
 summarized: true
 title: Community support brings Veterans early turkey time
-topics: []
+topic_titles: []
 ---
 
 Veterans at the VA Medical Center in West Los Angeles received an early Thanksgiving celebration, thanks to community support. The event featured a traditional turkey meal served with all the trimmings and was organized by the local nonprofit organization Team Rubicon. Volunteers from Team Rubicon, many of whom are veterans themselves, worked to create a festive atmosphere complete with decorations and live music. The gathering provided veterans with an opportunity to connect with one another and enjoy a sense of camaraderie.

@@ -78,7 +78,7 @@ source_url: https://www.brightspark.org/2025/12/professional-learning-communitie
 summarized: true
 title: 'Professional Learning Communities: Connecting Providers through Collaborative
   Conversations'
-topics:
+topic_titles:
 - Childcare
 - Disabilities
 - Education & Learning

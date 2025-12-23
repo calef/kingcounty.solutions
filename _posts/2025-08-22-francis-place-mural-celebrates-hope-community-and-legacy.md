@@ -25,7 +25,7 @@ source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/francis-place-mural-celebrates-hope-community-and-legacy/?utm_source=rss&utm_medium=rss&utm_campaign=francis-place-mural-celebrates-hope-community-and-legacy
 summarized: true
 title: Francis Place Mural Celebrates Hope, Community, and Legacy 
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

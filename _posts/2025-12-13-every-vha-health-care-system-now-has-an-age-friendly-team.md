@@ -53,7 +53,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143884/vha-health-care-system-has-age-friendly-team/
 summarized: true
 title: Every VHA Health Care System now has an age-friendly team
-topics:
+topic_titles:
 - Health Care
 - Senior Services
 ---

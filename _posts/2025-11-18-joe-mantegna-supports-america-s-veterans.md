@@ -59,7 +59,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/joe-mantegna-supports-americas-veterans/
 summarized: true
 title: Joe Mantegna supports America’s veterans
-topics:
+topic_titles:
 - Disabilities
 - Employment & Job Support
 ---

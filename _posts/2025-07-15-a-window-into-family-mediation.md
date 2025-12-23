@@ -38,7 +38,7 @@ source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/family-mediation/
 summarized: true
 title: A Window into Family Mediation
-topics:
+topic_titles:
 - Childcare
 - Domestic Violence
 - Mental Health & Counseling

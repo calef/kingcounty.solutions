@@ -231,7 +231,7 @@ source_url: https://wscenter.org/event/meditation-class/2026-01-06/
 start_date: '2026-01-06T09:00:00-08:00'
 summarized: true
 title: Meditation Class
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Senior Services
 ---

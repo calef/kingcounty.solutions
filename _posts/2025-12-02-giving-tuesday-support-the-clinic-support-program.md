@@ -136,7 +136,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/02/giving-tuesday-support-the-clinic-support-program/
 summarized: true
 title: 'Giving Tuesday: Support the Clinic Support Program'
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 ---

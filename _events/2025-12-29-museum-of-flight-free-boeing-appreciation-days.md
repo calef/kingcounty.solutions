@@ -43,7 +43,7 @@ source_url: https://www.tukwilawa.gov/event/museum-of-flight-free-boeing-appreci
 start_date: '2025-12-29T10:00:00-08:00'
 summarized: true
 title: Museum of Flight - Free Boeing Appreciation Days
-topics: []
+topic_titles: []
 ---
 
 The Museum of Flight will host Free Boeing Appreciation Days on December 29 and 30, 2025, from 10 a.m. to 5 p.m. This special event offers free admission to all Boeing employees and contractors, along with up to five guests, when they present a valid Boeing ID or discount card at the entrance. Attendees can explore the museum's extensive exhibits and learn about the history and innovations of The Boeing Company. The event is exclusive to the Museum’s Main Campus located at 9404 East Marginal Way South in Seattle. Don’t miss this opportunity to celebrate aviation and enjoy a day of discovery with friends and family.

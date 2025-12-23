@@ -152,7 +152,7 @@ source_url: https://lakesidemilam.com/blog/the-benefits-of-a-partial-hospitaliza
 summarized: true
 title: The Benefits of a Partial Hospitalization Program for Addiction Recovery at
   Lakeside-Milam
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

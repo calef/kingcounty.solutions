@@ -49,7 +49,7 @@ source_url: https://www.washington.edu/news/2025/12/15/households-using-more-of-
 summarized: true
 title: Households using more of the most popular WIC food benefits stay in the program
   longer, UW study finds
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

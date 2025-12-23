@@ -12,7 +12,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_9a781a534
 start_date: '2026-02-07T10:00:00-08:00'
 summarized: true
 title: Arboretum Lichens
-topics: []
+topic_titles: []
 ---
 
 Join us at the Washington Park Arboretum on Feb. 7, 2026, for the "Arboretum Lichens" event. Attendees can expect an engaging exploration of the fascinating world of lichens, including their ecological importance and unique characteristics. This event offers a wonderful opportunity to learn from experts, participate in guided walks, and appreciate the beauty of these often-overlooked organisms in a natural setting. Don't miss this chance to deepen your understanding of lichen diversity and their role in our environment.

@@ -15,7 +15,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_1571b2ffd
 start_date: '2026-03-08T10:00:00-07:00'
 summarized: true
 title: Local Plants for Natural Dyes and Pigments (in-person)
-topics: []
+topic_titles: []
 ---
 
 Join the Center for Urban Horticulture Complex on March 8, 2026, for an engaging in-person workshop on local plants for natural dyes and pigments. Attendees will learn how to identify and use various native plants to create vibrant, eco-friendly dyes. This hands-on experience will cover the processes of extracting colors from plants and applying them in various artistic projects. Participants are encouraged to bring their creativity and curiosity as they explore the intersection of nature and art. Don’t miss this opportunity to connect with fellow enthusiasts and enhance your crafting skills.

@@ -242,7 +242,7 @@ source_url: https://depts.washington.edu/wisir/events/
 start_date: '2026-03-12T12:00:00-07:00'
 summarized: true
 title: WISIR and PT Colloqium Present Dr. Cristina Beltrán
-topics: []
+topic_titles: []
 ---
 
 Join the WISIR and Political Theory Colloquium on March 12, 2026, from noon to 1:30 p.m. at Gowen Hall for a distinguished lecture by Dr. Cristina Beltrán, an associate professor at New York University. Attendees can expect an engaging discussion on the intersection of Latino politics and identity, drawing from Dr. Beltrán's extensive research. This event offers a unique opportunity to deepen your understanding of contemporary political issues and engage with fellow community members. Light refreshments will be served. Don’t miss this chance to hear from a leading scholar in the field.

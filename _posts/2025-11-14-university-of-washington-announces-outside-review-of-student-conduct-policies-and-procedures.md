@@ -17,7 +17,7 @@ source_url: https://www.washington.edu/news/2025/11/14/university-of-washington-
 summarized: true
 title: University of Washington announces outside review of student conduct policies
   and procedures
-topics: []
+topic_titles: []
 ---
 
 The University of Washington has announced an external review of its student conduct policies and procedures, led by the firm Husch Blackwell. President Robert J. Jones emphasized the importance of transparency and fairness in the enforcement of the Student Conduct Code, highlighting the need for adaptability to contemporary challenges not addressed in the last update of the code in 2021.

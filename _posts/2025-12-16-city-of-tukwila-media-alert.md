@@ -83,7 +83,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/15/city-of-tukwila-media-alert/
 summarized: true
 title: City of Tukwila Media Alert
-topics:
+topic_titles:
 - Shelter & Housing
 - Transportation & Mobility
 ---

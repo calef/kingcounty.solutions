@@ -60,7 +60,7 @@ source_url: https://www.washington.edu/lectures/events/americas-character-and-th
 start_date: '2026-02-25T18:30:00-08:00'
 summarized: true
 title: America’s Character and the Rule of Law with George Conway III
-topics: []
+topic_titles: []
 ---
 
 Join us on Feb. 25, 2026, at 6:30 p.m. for an engaging discussion with George Conway III at Town Hall Seattle. This event will explore the themes of America's character and the vital role of the rule of law in our society. Attendees can expect a thought-provoking conversation that delves into current legal and political challenges, encouraging reflection on civic responsibility and the importance of maintaining democratic principles. Don't miss this opportunity to gain insights from a prominent figure in the legal community and participate in a dialogue that matters to us all.

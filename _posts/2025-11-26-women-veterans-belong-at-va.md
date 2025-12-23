@@ -109,7 +109,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143191/women-veterans-belong-at-va/
 summarized: true
 title: Women Veterans belong at VA
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Senior Services

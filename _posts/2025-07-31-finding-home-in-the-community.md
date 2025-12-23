@@ -13,7 +13,7 @@ source: Indian American Community Services
 source_url: https://iacswa.org/finding-home-in-the-community/
 summarized: true
 title: Finding Home in the Community
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

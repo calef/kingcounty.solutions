@@ -15,7 +15,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_7ebef8f6a
 start_date: '2026-02-21T10:00:00-08:00'
 summarized: true
 title: Forest Bathing (in-person)
-topics: []
+topic_titles: []
 ---
 
 Join us for a rejuvenating forest bathing experience on Feb. 21, 2026, at Washington Park Arboretum. This in-person event invites participants to immerse themselves in nature, promoting relaxation and mindfulness through guided activities. Attendees can expect to engage their senses and learn techniques to deepen their connection with the natural environment. Whether you're a beginner or experienced in nature therapy, this event offers a peaceful escape and a chance to unwind. Don't miss this opportunity to enhance your well-being amid the beauty of the arboretum.

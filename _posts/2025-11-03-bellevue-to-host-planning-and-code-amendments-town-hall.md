@@ -37,7 +37,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/bellevue-host-planning-code-amendments-town-hall
 summarized: true
 title: Bellevue to host planning and code amendments town hall
-topics:
+topic_titles:
 - Shelter & Housing
 - Transportation & Mobility
 ---

@@ -99,7 +99,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143261/veterans-journey-out-of-depression-through-art/
 summarized: true
 title: A Veteran’s journey out of depression through art
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

@@ -14,7 +14,7 @@ source_url: https://ischool.uw.edu/programs/mlis
 start_date: '2026-01-15T11:00:00-08:00'
 summarized: true
 title: 'MLIS Prospective Student Information Session: Culture and Connections'
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

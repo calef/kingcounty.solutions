@@ -49,7 +49,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/fiesta-latina-25
 summarized: true
 title: Bellevue Fiesta Latina Oct. 4 at Spring District Park
-topics: []
+topic_titles: []
 ---
 
 In celebration of National Hispanic Heritage Month, the City of Bellevue is hosting "Bellevue Fiesta Latina" on Saturday, Oct. 4, from 11 a.m. to 5 p.m. at Spring District Park. The event will feature a diverse musical experience, various Latin American cuisines from local vendors, and booths run by community organizations supporting the Latino community. A pop-up market will be available throughout the event, and the Lake Washington Symphony Orchestra will perform a concert titled “Celebrating Latin America” from 3 to 4:15 p.m.

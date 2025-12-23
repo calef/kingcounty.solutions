@@ -76,7 +76,7 @@ source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/12/santa-for-seniors-christmas-spirit/
 summarized: true
 title: Christmas spirit can be found wherever Santa for Seniors team goes
-topics:
+topic_titles:
 - Senior Services
 - Personal & Household Needs
 ---

@@ -20,7 +20,7 @@ source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/summers-going-strong-and-so-is-the-shelter/?utm_source=rss&utm_medium=rss&utm_campaign=summers-going-strong-and-so-is-the-shelter
 summarized: true
 title: Summer’s going strong, and so is the shelter!
-topics:
+topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 - Shelter & Housing

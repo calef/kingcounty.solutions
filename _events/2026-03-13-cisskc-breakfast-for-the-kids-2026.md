@@ -27,7 +27,7 @@ source_url: https://skc.ciswa.org/event/cisskc-breakfast-for-the-kids-2026/
 start_date: '2026-03-13T07:00:00-07:00'
 summarized: true
 title: CISSKC Breakfast for the Kids 2026
-topics:
+topic_titles:
 - Education & Learning
 ---
 

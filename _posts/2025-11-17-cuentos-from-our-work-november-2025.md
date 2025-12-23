@@ -82,7 +82,7 @@ source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/cuentos-from-our-work-november-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cuentos-from-our-work-november-2025
 summarized: true
 title: 'Cuentos from Our Work: NOVEMBER 2025'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

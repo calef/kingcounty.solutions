@@ -92,7 +92,7 @@ source: YouthCare
 source_url: https://youthcare.org/blog/connections-october-2025/
 summarized: true
 title: CONNECTIONS – October, 2025
-topics:
+topic_titles:
 - Employment & Job Support
 - Shelter & Housing
 ---

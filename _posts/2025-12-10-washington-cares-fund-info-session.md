@@ -18,7 +18,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/washington-cares-fund-info-session/
 summarized: true
 title: Washington Cares Fund Info Session
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 - Financial Assistance

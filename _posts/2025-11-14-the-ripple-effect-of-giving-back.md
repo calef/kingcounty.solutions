@@ -29,7 +29,7 @@ source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/the-ripple-effect-of-giving-back/
 summarized: true
 title: The Ripple Effect of Giving Back
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Employment & Job Support
 ---

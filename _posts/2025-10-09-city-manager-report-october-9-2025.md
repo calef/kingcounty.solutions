@@ -12,7 +12,7 @@ source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-9-2025/
 summarized: true
 title: City Manager Report – October 9, 2025
-topics: []
+topic_titles: []
 ---
 
 ## Normandy Park City Manager Reports - October/November 2025

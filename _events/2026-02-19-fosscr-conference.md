@@ -7711,7 +7711,7 @@ source_url: https://nosscr.org/event/fosscr-conference/
 start_date: '2026-02-19T00:00:00-08:00'
 summarized: true
 title: FOSSCR Conference
-topics: []
+topic_titles: []
 ---
 
 Join us for the FOSSCR Conference from Feb. 19 to Feb. 21, 2026, in an engaging venue that celebrates free and open-source software. Attendees can expect a dynamic lineup of keynote speakers, workshops, and networking opportunities that foster collaboration and innovation within the open-source community. Whether you're a developer, enthusiast, or newcomer, this conference offers valuable insights, hands-on sessions, and discussions on the latest trends and projects in the FOSS ecosystem. Don't miss the chance to connect with like-minded individuals and deepen your understanding of open-source technologies.

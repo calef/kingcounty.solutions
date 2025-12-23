@@ -33,7 +33,7 @@ source: Treehouse
 source_url: https://www.treehouseforkids.org/landon-is-taking-his-shot/
 summarized: true
 title: Landon Is Taking His Shot
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 - Mental Health & Counseling

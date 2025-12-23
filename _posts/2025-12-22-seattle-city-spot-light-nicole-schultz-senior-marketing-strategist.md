@@ -20,7 +20,7 @@ source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/12/22/seattle-city-spotlight-nicole-schultz-senior-marketing-strategist/
 summarized: true
 title: 'Seattle City (spot)Light: Nicole Schultz, Senior Marketing Strategist'
-topics: []
+topic_titles: []
 ---
 
 Nicole Schultz is a senior marketing strategist at Seattle City Light, having joined the organization on June 8, 2011. She has been with the City of Seattle since May 23, 2001. In her role, Schultz manages various marketing initiatives, leveraging her extensive experience in communications. Her work includes developing strategies to enhance public engagement and promote City Light's services. Schultz's long tenure in city government has allowed her to cultivate relationships and understand the community's needs better. Through her efforts, she aims to increase awareness of Seattle City Light's programs and foster a positive connection between the utility and its customers.

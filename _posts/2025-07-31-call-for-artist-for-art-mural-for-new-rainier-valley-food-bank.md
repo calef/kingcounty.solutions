@@ -104,7 +104,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/call-for-artist-for-art-mural-for-new-rainier-valley-food-bank
 summarized: true
 title: 'Call for Artist for Art Mural for New Rainier Valley Food Bank '
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

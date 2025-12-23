@@ -575,7 +575,7 @@ source: Solid Ground
 source_url: https://www.solid-ground.org/at-broadview-even-dirt-and-seeds-have-the-power-to-heal/
 summarized: true
 title: At Broadview, even dirt and seeds have the power to heal 
-topics:
+topic_titles:
 - Domestic Violence
 - Mental Health & Counseling
 ---

@@ -227,7 +227,7 @@ source_url: https://meanycenter.org/tickets/2026-03/production/augustin-hadelich
 start_date: '2026-03-19T19:30:00-07:00'
 summarized: true
 title: Augustin Hadelich, violin & Francesco Piemontesi, piano
-topics: []
+topic_titles: []
 ---
 
 Experience an enchanting evening of music as renowned violinist Augustin Hadelich performs alongside acclaimed pianist Francesco Piemontesi. Attendees can expect a captivating program featuring a blend of classical masterpieces and contemporary works, showcasing the exceptional talents of both artists. The concert will take place on March 19, 2026, at 7:30 p.m. in Meany Hall. Join fellow music lovers for this extraordinary event that promises to inspire and delight.

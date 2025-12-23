@@ -30,7 +30,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/dav-statement-on-vha-reorganization/
 summarized: true
 title: DAV statement on VHA reorganization
-topics:
+topic_titles:
 - Health Care
 - Disabilities
 ---

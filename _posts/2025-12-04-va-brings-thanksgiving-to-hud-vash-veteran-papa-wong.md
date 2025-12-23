@@ -123,7 +123,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143681/va-brings-thanksgiving-to-hud-vash-veteran/
 summarized: true
 title: VA Brings Thanksgiving to HUD-VASH Veteran Papa Wong
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 ---

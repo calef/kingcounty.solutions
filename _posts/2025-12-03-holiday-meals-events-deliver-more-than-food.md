@@ -100,7 +100,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/holiday-meals-events-deliver-more-than-food/
 summarized: true
 title: Holiday Meals Events Deliver More Than Food 
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

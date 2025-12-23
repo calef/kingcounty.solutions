@@ -219,7 +219,7 @@ source_url: https://www.antioch.edu/event/mfa-in-creative-writing-info-session-a
 start_date: '2026-01-10T10:00:00-08:00'
 summarized: true
 title: MFA in Creative Writing Info Session | AULA
-topics:
+topic_titles:
 - Education & Learning
 ---
 

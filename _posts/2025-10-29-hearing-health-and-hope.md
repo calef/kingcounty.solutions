@@ -21,7 +21,7 @@ source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/10/peggy-makes-time-for-self-care-at-miriam-housing-center/
 summarized: true
 title: Hearing, health and hope
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 - Financial Assistance

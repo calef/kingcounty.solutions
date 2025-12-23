@@ -54,7 +54,7 @@ source: Hopelink
 source_url: https://www.hopelink.org/blog/from-the-gridiron-to-the-farm/
 summarized: true
 title: From the Gridiron to the Farm
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

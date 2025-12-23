@@ -15,7 +15,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_841e5b453
 start_date: '2026-02-11T18:00:00-08:00'
 summarized: true
 title: 'Botanical Fiber Art Workshop: Winter Botanical Embroidery Basics (in-person)'
-topics: []
+topic_titles: []
 ---
 
 Join the Botanical Fiber Art Workshop: Winter Botanical Embroidery Basics on Feb. 11, 2026, at the Center for Urban Horticulture. This in-person workshop invites attendees to explore the art of embroidery while focusing on winter botanical themes. Participants will learn essential techniques and create beautiful embroidered pieces inspired by the season's flora. Whether you are a beginner or looking to refine your skills, this workshop offers a creative and relaxing environment to connect with nature and fellow craft enthusiasts. Don't miss this opportunity to enhance your artistic abilities and take home a unique piece of art.

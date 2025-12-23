@@ -58,7 +58,7 @@ source: Department of Health
 source_url: https://doh.wa.gov/newsroom/h5n5-avian-influenza-confirmed-grays-harbor-county-resident
 summarized: true
 title: 'H5N5 Avian influenza confirmed in Grays Harbor County resident  '
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

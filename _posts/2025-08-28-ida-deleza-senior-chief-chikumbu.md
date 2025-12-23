@@ -12,7 +12,7 @@ source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/senior-chief-chikumbu/
 summarized: true
 title: Ida Deleza, Senior Chief Chikumbu
-topics:
+topic_titles:
 - Education & Learning
 - Childcare
 ---

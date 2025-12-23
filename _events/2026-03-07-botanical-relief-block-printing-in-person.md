@@ -15,7 +15,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_696a0c79c
 start_date: '2026-03-07T10:00:00-08:00'
 summarized: true
 title: Botanical Relief Block Printing (in-person)
-topics: []
+topic_titles: []
 ---
 
 Join us for the Botanical Relief Block Printing workshop on March 7, 2026, at the Center for Urban Horticulture Complex. This in-person event invites participants to explore the art of block printing using botanical designs. Attendees will learn techniques to create unique prints inspired by nature, making it a perfect opportunity for both beginners and experienced artists. All materials will be provided, so come ready to unleash your creativity and take home your own printed artwork. Don't miss this chance to engage with fellow art enthusiasts in a beautiful setting.

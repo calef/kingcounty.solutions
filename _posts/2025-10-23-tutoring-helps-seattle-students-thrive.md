@@ -73,7 +73,7 @@ source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/tutoring-helps-seattle-students-thrive/?utm_source=rss&utm_medium=rss&utm_campaign=tutoring-helps-seattle-students-thrive
 summarized: true
 title: Tutoring Helps Seattle Students Thrive 
-topics:
+topic_titles:
 - Education & Learning
 ---
 

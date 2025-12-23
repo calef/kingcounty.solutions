@@ -51,7 +51,7 @@ source_url: https://wscenter.org/event/meditation-class/2025-12-23/
 start_date: '2025-12-23T09:00:00-08:00'
 summarized: true
 title: Meditation Class
-topics: []
+topic_titles: []
 ---
 
 Join the Meditation Class on Tuesday, Dec. 23, 2025, from 9 a.m. to 10 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This class offers participants a chance to explore various techniques to connect with their minds. Each session will include practical exercises, a review of previous lessons, and discussions about personal experiences. The focus is on developing skills to enhance presence and relaxation. Whether you're a beginner or have prior experience, this class aims to foster a supportive environment for all.

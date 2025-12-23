@@ -203,7 +203,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/finding-additional-food-resources-in-seattle
 summarized: true
 title: Finding Additional Food Resources in Seattle
-topics:
+topic_titles:
 - Food & Nutrition
 - Transportation & Mobility
 ---

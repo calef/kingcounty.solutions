@@ -17,7 +17,7 @@ source_url: https://yarrowpointwa.gov/2025/11/determination-of-non-significance-
 summarized: true
 title: 'DETERMINATION OF NON-SIGNIFICANCE: 4030 95th Ave NE. SEPA-2025-09 Critical
   Areas Code'
-topics: []
+topic_titles: []
 ---
 
 A determination of non-significance has been issued for the property located at 4030 95th Ave NE under SEPA-2025-09, in accordance with the Critical Areas Code. This notification is part of the State Environmental Policy Act (SEPA) process. The public is informed about this determination, which indicates that the proposed actions will not significantly impact the environment. Additional related announcements include a notice for a private property tree code update and a call for a planning commissioner. Furthermore, there will be a special Town Council meeting on Nov. 20, 2025, at 4 p.m. at Town Hall.

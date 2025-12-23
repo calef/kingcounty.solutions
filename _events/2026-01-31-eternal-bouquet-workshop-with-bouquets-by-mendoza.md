@@ -209,7 +209,7 @@ source_url: https://www.elcentrodelaraza.org/event/%f0%9f%8c%b8-eternal-bouquet-
 start_date: '2026-01-31T12:00:00-08:00'
 summarized: true
 title: "\U0001F338 Eternal Bouquet Workshop with Bouquets by Mendoza \U0001F338"
-topics: []
+topic_titles: []
 ---
 
 Join Bouquets by Mendoza for the Eternal Bouquet Workshop on Jan. 31, 2026, at El Centro de la Raza in Seattle. Participants will learn to create stunning, everlasting floral arrangements using a variety of materials. This hands-on workshop is perfect for both beginners and experienced floral enthusiasts looking to enhance their skills. Attendees can expect to leave with their own unique bouquet to take home. Don't miss this opportunity to express your creativity and enjoy a fun afternoon surrounded by fellow flower lovers.

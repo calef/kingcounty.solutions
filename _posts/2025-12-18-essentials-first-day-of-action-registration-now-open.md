@@ -43,7 +43,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/wk8z1r80w30dltn06u1dlq0fvpsuyu
 summarized: true
 title: Essentials First Day of Action Registration NOW OPEN
-topics:
+topic_titles:
 - Personal & Household Needs
 ---
 

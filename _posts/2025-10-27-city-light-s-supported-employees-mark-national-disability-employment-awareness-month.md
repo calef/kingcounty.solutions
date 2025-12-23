@@ -21,7 +21,7 @@ source_url: https://powerlines.seattle.gov/2025/10/27/city-lights-supported-empl
 summarized: true
 title: City Light’s Supported Employees mark National Disability Employment Awareness
   Month
-topics:
+topic_titles:
 - Disabilities
 - Employment & Job Support
 ---

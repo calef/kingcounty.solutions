@@ -17,7 +17,7 @@ source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/10/07/our-employees-share-what-powers-them-for-public-power-week/
 summarized: true
 title: Our Employees Share What Powers Them for Public Power Week
-topics: []
+topic_titles: []
 ---
 
 Seattle City Light celebrates Public Power Week by highlighting the contributions of its employees toward providing reliable and affordable power. Various team members shared their motivations and experiences within the utility.

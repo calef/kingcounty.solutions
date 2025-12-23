@@ -57,7 +57,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/essentials-for-all
 summarized: true
 title: Nourish neighbors by donating food and hygiene items
-topics:
+topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 ---

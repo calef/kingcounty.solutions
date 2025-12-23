@@ -25,7 +25,7 @@ source_url: https://news.shoreline.edu/2025/10/13/alumni-spotlight-from-shorelin
 summarized: true
 title: 'Alumni Spotlight: From Shoreline to Japan and Back Again: A Life Shaped by
   Teaching, Travel, and Community'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

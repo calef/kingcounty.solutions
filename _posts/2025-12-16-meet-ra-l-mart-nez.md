@@ -117,7 +117,7 @@ source: Inatai Foundation
 source_url: https://inatai.org/news/meet-raul-martinez/
 summarized: true
 title: Meet Raúl Martínez
-topics:
+topic_titles:
 - Childcare
 - Employment & Job Support
 - Education & Learning

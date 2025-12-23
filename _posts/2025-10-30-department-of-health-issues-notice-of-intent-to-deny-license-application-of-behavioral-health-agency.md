@@ -46,7 +46,7 @@ source_url: https://doh.wa.gov/newsroom/department-health-issues-notice-intent-d
 summarized: true
 title: Department of Health issues notice of intent to deny license application of
   Behavioral Health Agency
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

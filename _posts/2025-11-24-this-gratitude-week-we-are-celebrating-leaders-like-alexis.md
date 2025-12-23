@@ -162,7 +162,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/this-gratitude-week-we-are-celebrating-leaders-like-alexis/
 summarized: true
 title: This Gratitude Week We Are Celebrating Leaders Like Alexis!
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 ---

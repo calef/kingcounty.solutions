@@ -40,7 +40,7 @@ source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-november-10-14/
 summarized: true
 title: Dining Menu November 10th – 14th
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

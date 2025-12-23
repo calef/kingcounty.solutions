@@ -51,7 +51,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/welcoming-week-25
 summarized: true
 title: Celebrate Welcoming Week with interactive, cross-cultural events
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Education & Learning

@@ -36,7 +36,7 @@ source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-help-make-a-difference-in-federal-way/
 summarized: true
 title: 'Meals on Wheels: Help make a difference in Federal Way!'
-topics:
+topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 ---

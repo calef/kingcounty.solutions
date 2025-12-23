@@ -12,7 +12,7 @@ source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/enterprise-nexus/?utm_source=rss&utm_medium=rss&utm_campaign=enterprise-nexus
 summarized: true
 title: Enterprise Nexus
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

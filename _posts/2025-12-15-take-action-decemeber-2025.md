@@ -78,7 +78,7 @@ source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/take-action-decemeber-2025/
 summarized: true
 title: 'Take Action: Decemeber 2025'
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Personal & Household Needs

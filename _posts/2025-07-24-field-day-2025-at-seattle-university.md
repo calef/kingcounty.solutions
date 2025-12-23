@@ -50,7 +50,7 @@ source: Boys & Girls Clubs of King County
 source_url: https://positiveplace.org/field-day-2025-at-seattle-university/
 summarized: true
 title: Field Day 2025 at Seattle University
-topics:
+topic_titles:
 - Education & Learning
 ---
 

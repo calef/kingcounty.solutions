@@ -51,7 +51,7 @@ source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/boeing-grant-helps-ccs-hen-program-deliver-essential-supplies/?utm_source=rss&utm_medium=rss&utm_campaign=boeing-grant-helps-ccs-hen-program-deliver-essential-supplies
 summarized: true
 title: Boeing Grant Helps CCS HEN Program Deliver Essential Supplies
-topics:
+topic_titles:
 - Disabilities
 - Financial Assistance
 - Personal & Household Needs

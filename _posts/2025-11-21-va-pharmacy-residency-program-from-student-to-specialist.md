@@ -51,7 +51,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143482/pharmacy-residency-program-student-specialist/
 summarized: true
 title: 'VA Pharmacy Residency Program: From student to specialist'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Health Care
 ---

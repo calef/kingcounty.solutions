@@ -14,7 +14,7 @@ source_url: https://frontporch.seattle.gov/2025/12/04/help-prevent-displacement-
 summarized: true
 title: Help Prevent Displacement and Shape Affordable Housing in Seattle. Apply for
   the Seattle Social Housing Developer Board!  
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

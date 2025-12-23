@@ -42,7 +42,7 @@ source_url: https://kcdrc.org/event/core-orientation/
 start_date: '2026-02-04T13:00:00-08:00'
 summarized: true
 title: CoRE™ Orientation
-topics:
+topic_titles:
 - Education & Learning
 ---
 

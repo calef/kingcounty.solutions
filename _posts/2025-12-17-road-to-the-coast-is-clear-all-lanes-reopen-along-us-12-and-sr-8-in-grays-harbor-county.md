@@ -184,7 +184,7 @@ source_url: https://wsdot.wa.gov/about/news/2025/road-coast-clear-all-lanes-reop
 summarized: true
 title: 'Road to the coast is clear: All lanes reopen along US 12 and SR 8 in Grays
   Harbor County'
-topics: []
+topic_titles: []
 ---
 
 All lanes are now open on US 12 and State Route 8 in Grays Harbor County following the completion of a multi-site fish passage project. The Washington State Department of Transportation announced that contractor crews reopened lanes at two work zones near Elma on Dec. 17, after the highway had been reduced to one lane in each direction since summer 2023. Three other locations in McCleary and Montesano also reopened earlier this year.

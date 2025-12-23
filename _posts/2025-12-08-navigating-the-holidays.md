@@ -81,7 +81,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143811/navigating-the-holidays/
 summarized: true
 title: Navigating the holidays
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Childcare
 - Senior Services

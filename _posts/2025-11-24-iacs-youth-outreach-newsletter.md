@@ -11,7 +11,7 @@ source: Indian American Community Services
 source_url: https://iacswa.org/iacs-youth-outreach-newsletter/
 summarized: true
 title: IACS YOUTH OUTREACH NEWSLETTER
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 - Employment & Job Support

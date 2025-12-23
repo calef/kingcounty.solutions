@@ -250,7 +250,7 @@ source_url: https://worksourceskc.org/event/cancelled-your-next-employment-oppor
 start_date: '2025-12-26T14:00:00-08:00'
 summarized: true
 title: CANCELLED - Your Next Employment Opportunity - Job Club - Virtual
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

@@ -66,7 +66,7 @@ source: Atlantic Street Center
 source_url: https://atlanticstreetcenter.org/2025/11/13/neighborhood-store-steps-up/?utm_source=rss&utm_medium=rss&utm_campaign=neighborhood-store-steps-up
 summarized: true
 title: Neighborhood Store Steps Up
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

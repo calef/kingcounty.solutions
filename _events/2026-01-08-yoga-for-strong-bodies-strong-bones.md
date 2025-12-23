@@ -233,7 +233,7 @@ source_url: https://wscenter.org/event/yoga-for-strong-bodies-strong-bones-2/202
 start_date: '2026-01-08T14:30:00-08:00'
 summarized: true
 title: Yoga For Strong Bodies, Strong Bones
-topics: []
+topic_titles: []
 ---
 
 Join us for "Yoga For Strong Bodies, Strong Bones" at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. Starting on January 8, 2026, at 2:30 p.m., this event focuses on enhancing strength and bone health through yoga practices tailored for all levels. Participants can expect guided sessions that promote flexibility, balance, and overall well-being. This is a great opportunity to connect with others in the community while improving your physical health. Don't miss this chance to strengthen your body and bones in a supportive environment.

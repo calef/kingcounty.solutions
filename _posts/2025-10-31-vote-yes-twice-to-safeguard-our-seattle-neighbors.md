@@ -28,7 +28,7 @@ source: Solid Ground
 source_url: https://www.solid-ground.org/vote-yes-twice-to-safeguard-our-seattle-neighbors/
 summarized: true
 title: Vote YES – twice! – to safeguard our Seattle neighbors
-topics:
+topic_titles:
 - Education & Learning
 - Shelter & Housing
 - Financial Assistance

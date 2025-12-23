@@ -25,7 +25,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/building-community-through-shared-space-and-care
 summarized: true
 title: building community through shared space and care
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

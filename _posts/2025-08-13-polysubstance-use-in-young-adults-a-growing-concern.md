@@ -145,7 +145,7 @@ source: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/polysubstance-use-in-young-adults-a-growing-concern/
 summarized: true
 title: 'Polysubstance Use in Young Adults: A Growing Concern'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

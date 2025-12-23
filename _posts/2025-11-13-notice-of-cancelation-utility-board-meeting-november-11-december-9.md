@@ -13,7 +13,7 @@ source: City of Mercer Island
 source_url: https://www.mercerisland.gov/bc-utilityboard/page/notice-cancelation-utility-board-meeting-november-11-december-9
 summarized: true
 title: Notice of Cancelation - Utility Board Meeting - November 11 & December 9
-topics: []
+topic_titles: []
 ---
 
 Notice is given that the Utility Board regular meetings scheduled for Nov. 11 and Dec. 9, 2025, are canceled. The Utility Board typically meets on the second Tuesday of each month at 5 p.m. The next regular meeting is planned for Jan. 13, 2026.

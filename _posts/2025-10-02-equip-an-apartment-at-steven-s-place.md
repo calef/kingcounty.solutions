@@ -11,7 +11,7 @@ source: DESC
 source_url: https://www.desc.org/stevensplaceapartments/
 summarized: true
 title: Equip an apartment at Steven’s Place!
-topics:
+topic_titles:
 - Personal & Household Needs
 - Shelter & Housing
 ---

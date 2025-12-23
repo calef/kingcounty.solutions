@@ -14,7 +14,7 @@ source_url: https://sdotblog.seattle.gov/2025/11/19/extended-rainier-ave-s-bus-l
 summarized: true
 title: Extended Rainier Ave Bus Lane Offers a Seamless, More Reliable Trip for Thousands
   of Daily Riders | SEATTLE TRANSIT MEASURE
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

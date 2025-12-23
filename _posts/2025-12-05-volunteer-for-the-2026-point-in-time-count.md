@@ -13,7 +13,7 @@ source: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-volunteer-for-the-2026-point-in-time-count/
 summarized: true
 title: Volunteer for the 2026 Point-in-Time Count
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 - Transportation & Mobility

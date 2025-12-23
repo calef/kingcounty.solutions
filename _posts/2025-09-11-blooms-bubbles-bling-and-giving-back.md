@@ -67,7 +67,7 @@ source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/blooms-bubbles-bling/?utm_source=rss&utm_medium=rss&utm_campaign=blooms-bubbles-bling
 summarized: true
 title: Blooms, bubbles, bling, and giving back!
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

@@ -15,7 +15,7 @@ source_url: https://kingcountywatertaxiblog.com/2025/07/28/king-county-metro-wat
 summarized: true
 title: King County Metro, Water Taxi and Seattle Streetcar adult fares change Sept.
   1, 2025
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

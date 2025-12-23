@@ -118,7 +118,7 @@ source_url: https://cisc-seattle.org/event/sunshine-garden-basic-yoga-3/2026-01-
 start_date: '2026-01-07T10:30:00-08:00'
 summarized: true
 title: 'Sunshine Garden: Basic Yoga'
-topics: []
+topic_titles: []
 ---
 
 Join us for "Sunshine Garden: Basic Yoga" on Jan. 7, 2026, from 10:30 to 11:30 a.m. at Sunshine Garden, located at 611 S. Lane St., Seattle, WA. This event invites participants to learn and practice fundamental yoga techniques in a serene garden setting. Whether you're a beginner or looking to refresh your practice, you'll enjoy guided instruction and a supportive atmosphere. Come connect with nature and fellow yoga enthusiasts while enhancing your well-being. Don't miss this opportunity to unwind and rejuvenate!

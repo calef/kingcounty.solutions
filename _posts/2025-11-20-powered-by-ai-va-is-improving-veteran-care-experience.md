@@ -117,7 +117,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143486/powered-by-ai-improving-veteran-care-experience/
 summarized: true
 title: Powered by AI, VA is improving Veteran care experience
-topics:
+topic_titles:
 - Health Care
 ---
 

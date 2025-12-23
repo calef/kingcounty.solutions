@@ -11,7 +11,7 @@ source: City of Mercer Island
 source_url: https://www.mercerisland.gov/bc-pc/page/notice-application-public-hearing-planning-commission-mtg-nov-19
 summarized: true
 title: Notice of Application & Public Hearing - Planning Commission Mtg - Nov 19
-topics: []
+topic_titles: []
 ---
 
 The City of Mercer Island will hold a public hearing on Nov. 19, 2025, at 6 p.m. regarding an application for a reclassification of two city-owned properties from Commercial Office and Single-Family Residential to Public Institution. The properties, located at 9601 and 9611 SE 36th St., are intended for public services and will support the construction of a new public safety and maintenance facility. Written comments can be submitted via email or in person until the public hearing concludes. The hearing will be accessible both in person and via Zoom.

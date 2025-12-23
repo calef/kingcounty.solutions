@@ -231,7 +231,7 @@ source_url: https://wscenter.org/event/quilters-group/2026-01-05/
 start_date: '2026-01-05T18:30:00-08:00'
 summarized: true
 title: Quilters Group
-topics: []
+topic_titles: []
 ---
 
 Join the Quilters Group at The Center for Active Living in Seattle for an evening of creativity and camaraderie. Starting on January 5, 2026, at 6:30 p.m., this gathering offers quilters of all skill levels the opportunity to share techniques, work on projects, and connect with fellow enthusiasts. Bring your materials and enjoy a supportive environment while learning new tips and tricks. The Center for Active Living is located at 4217 SW Oregon St., Seattle, WA 98116. Whether you're a seasoned quilter or just starting out, this group welcomes everyone to explore the art of quilting together.

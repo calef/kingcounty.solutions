@@ -20,7 +20,7 @@ source: City of Seattle
 source_url: https://fireline.seattle.gov/2025/12/20/3-alarm-fire-displaces-residents-in-the-leschi-neighborhood/
 summarized: true
 title: 3-alarm fire displaces residents in the Leschi neighborhood
-topics: []
+topic_titles: []
 ---
 
 A three-alarm fire in Seattle's Leschi neighborhood displaced residents on December 20. The Seattle Fire Department received reports of an exterior fire on the back deck of a two-story house on 34th Avenue at 7:38 p.m. Engine 6 was the first to arrive and found flames spreading to the roof and interior.

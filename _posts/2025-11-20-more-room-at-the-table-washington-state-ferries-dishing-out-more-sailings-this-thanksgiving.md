@@ -11,7 +11,7 @@ source_url: https://wsdot.wa.gov/about/news/2025/more-room-table-washington-stat
 summarized: true
 title: 'More room at the table: Washington State Ferries dishing out more sailings
   this Thanksgiving'
-topics: []
+topic_titles: []
 ---
 
 Washington State Ferries (WSF) is increasing service for Thanksgiving 2025, offering over 420 daily sailings, a 10% increase compared to recent years. Approximately 300,000 riders are expected from Nov. 26 to Nov. 30. Although service has improved, travelers using vehicles should be prepared for potential long waits at terminals. WSF Deputy Secretary Steve Nevey expressed gratitude for the enhanced reliability and service, crediting the efforts of employees and support from state leadership.

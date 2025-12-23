@@ -199,7 +199,7 @@ source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1
 start_date: '2026-01-21T18:00:00-08:00'
 summarized: true
 title: 'TMMBA Class Visit: Entrepreneurship'
-topics: []
+topic_titles: []
 ---
 
 Join the TMMBA Class Visit focused on Entrepreneurship on Jan. 21, 2026, at the Eastside Executive Center, part of the Foster School of Business. This engaging event offers attendees the opportunity to explore innovative business ideas and entrepreneurial strategies. Participants will interact with faculty and current students, gaining insights into the TMMBA program and its emphasis on real-world applications. Whether you're considering a career in entrepreneurship or looking to enhance your business acumen, this event promises valuable networking and learning experiences. Don't miss this chance to connect with like-minded individuals and discover the entrepreneurial spirit at Foster.

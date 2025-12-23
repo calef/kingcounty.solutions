@@ -12,7 +12,7 @@ source: Husky Health Center
 source_url: https://wellbeing.uw.edu/husky-health-center-joins-uw-medicine-financial-assistance-policy/
 summarized: true
 title: Husky Health Center Joins UW Medicine Financial Assistance Policy
-topics:
+topic_titles:
 - Financial Assistance
 - Health Care
 ---

@@ -22,7 +22,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/cisc-chinese-musical-group/
 summarized: true
 title: CISC Chinese Musical Group
-topics:
+topic_titles:
 - Senior Services
 ---
 

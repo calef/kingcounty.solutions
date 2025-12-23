@@ -37,7 +37,7 @@ source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/donor-spotlight-lexi-nudelman/?utm_source=rss&utm_medium=rss&utm_campaign=donor-spotlight-lexi-nudelman
 summarized: true
 title: 'Donor Spotlight: Lexi Nudelman'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

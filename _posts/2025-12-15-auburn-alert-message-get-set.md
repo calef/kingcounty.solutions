@@ -18,7 +18,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/14/auburn-get-set-message/
 summarized: true
 title: Auburn alert message “Get Set”
-topics: []
+topic_titles: []
 ---
 
 The City of Auburn Emergency Management has issued a Level 2 (Get Set) notice for specific neighborhoods. This alert affects residents on the west side of the Green River, south of 24th Street NE, east of M Street NE, and north of 4th Street NE. Residents in these areas are advised to prepare for potential emergencies and stay informed about updates. The notice also extends to nearby neighborhoods. Authorities are urging everyone to have an emergency plan and supplies ready, as conditions may change.

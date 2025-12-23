@@ -167,7 +167,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/breaking-the-cycle-supporting-children-experiencing-homelessnessnbsp
 summarized: true
 title: 'breaking the cycle: supporting children experiencing homelessness'
-topics:
+topic_titles:
 - Childcare
 - Shelter & Housing
 - Education & Learning

@@ -118,7 +118,7 @@ source_url: https://nami-eastside.org/building_a_resilient_future/
 summarized: true
 title: 'Building a Resilient Future: Youth Mental Health and Suicide Prevention –
   By: Harkirat Kaur'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

@@ -90,7 +90,7 @@ source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/10/lcsnw-staff-embedded-in-seattle-schools/
 summarized: true
 title: LCSNW staff embedded in Seattle schools to support youth mental health
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

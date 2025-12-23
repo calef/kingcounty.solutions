@@ -79,7 +79,7 @@ source_url: https://normandyparkwa.gov/event/community-development-window-closed
 start_date: '2025-12-23T00:00:00-08:00'
 summarized: true
 title: Community Development window Closed - December 23rd
-topics: []
+topic_titles: []
 ---
 
 The Community Development window at City Hall will be closed on December 23 due to staffing shortages. Residents and businesses are advised that in-person assistance will only be available on Tuesdays and Thursdays until further notice. Expect longer response times for requests related to planning, zoning, and building permits. For inquiries, please call 206-248-8260 and leave a message, or email Permits@normandyparkwa.gov. Inspection requests can be submitted through the City of Normandy Park’s online permitting system or by calling the same number. Your understanding and patience are appreciated as the department works to serve the community effectively. City Hall is located at 801 SW 174th Street, Normandy Park, WA 98166.

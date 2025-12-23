@@ -81,7 +81,7 @@ source_url: https://inatai.org/news/five-years-with-kayla-davis/
 summarized: true
 title: 'Five years with Kayla Davis: Collective liberation is possible through shared
   courage and intention'
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Education & Learning

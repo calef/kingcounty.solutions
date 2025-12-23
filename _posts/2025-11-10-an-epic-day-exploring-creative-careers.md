@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/11/10/an-epic-day-exploring-creative-careers/
 summarized: true
 title: An Epic Day Exploring Creative Careers
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

@@ -14,7 +14,7 @@ source_url: https://skc.ciswa.org/news/thomas-jefferson-high-school-staff-kailey
 summarized: true
 title: Thomas Jefferson High School Staff (Kailey Harem) shared about Site Coordinator
   Danielle Wright’s support
-topics:
+topic_titles:
 - Childcare
 - Food & Nutrition
 - Education & Learning

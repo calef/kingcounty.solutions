@@ -14,7 +14,7 @@ source_url: https://bottomline.seattle.gov/2025/11/20/business-improvement-areas
 summarized: true
 title: Business Improvement Areas provide community-driven approach to support Seattle’s
   business districts
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

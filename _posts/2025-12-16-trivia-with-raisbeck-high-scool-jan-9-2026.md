@@ -21,7 +21,7 @@ source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/trivia-with-raisbeck-high-scool-jan-9-2026/
 summarized: true
 title: Trivia with Raisbeck High Scool, Jan. 9, 2026
-topics: []
+topic_titles: []
 ---
 
 Join students from Raisbeck High School for a fun trivia event on January 9, 2026. Participants can test their knowledge across various categories and enjoy an entertaining challenge. Odd facts and figures might come in handy, so it's a great opportunity to see how much you know. RSVPs are appreciated for this engaging community activity.

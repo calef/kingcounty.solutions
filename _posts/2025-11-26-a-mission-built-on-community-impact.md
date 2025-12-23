@@ -87,7 +87,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143222/a-mission-built-on-community-impact/
 summarized: true
 title: A mission built on community impact
-topics: []
+topic_titles: []
 ---
 
 The U.S. Department of Veterans Affairs (VA) emphasizes its commitment to community impact through various initiatives aimed at enhancing the lives of veterans. The VA's mission is rooted in collaboration with local organizations to address the unique needs of veterans and their families. Programs such as the Veterans Community Engagement Board facilitate open dialogue between the VA and communities, ensuring that veterans receive the support they deserve.

@@ -18,7 +18,7 @@ source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-december-19-2025/
 summarized: true
 title: City Manager Report – December 19, 2025
-topics: []
+topic_titles: []
 ---
 
 The last City Council meeting of 2025 took place on December 9. City officials noted that the year was successful, highlighting achievements that will positively impact residents as the city prepares for 2026.

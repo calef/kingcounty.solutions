@@ -101,7 +101,7 @@ source_url: https://www.antioch.edu/event/masters-in-clinical-psychology-macp-in
 start_date: '2026-01-15T16:00:00-08:00'
 summarized: true
 title: Masters in Clinical Psychology (MACP) Info Session | AUSB
-topics:
+topic_titles:
 - Education & Learning
 - Mental Health & Counseling
 ---

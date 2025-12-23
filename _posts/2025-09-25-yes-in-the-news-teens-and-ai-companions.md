@@ -21,7 +21,7 @@ source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/teens-and-ai-companions/?utm_source=rss&utm_medium=rss&utm_campaign=teens-and-ai-companions
 summarized: true
 title: 'YES in the News: Teens and AI Companions'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

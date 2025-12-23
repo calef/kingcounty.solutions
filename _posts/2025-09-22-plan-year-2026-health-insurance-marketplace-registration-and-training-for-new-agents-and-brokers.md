@@ -13,7 +13,7 @@ source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/pl
 summarized: true
 title: Plan Year 2026 Health Insurance Marketplace Registration and Training for New
   Agents and Brokers
-topics:
+topic_titles:
 - Health Care
 ---
 

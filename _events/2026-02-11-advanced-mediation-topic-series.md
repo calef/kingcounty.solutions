@@ -52,7 +52,7 @@ source_url: https://kcdrc.org/event/advanced-mediation-topic-series/
 start_date: '2026-02-11T09:00:00-08:00'
 summarized: true
 title: Advanced Mediation Topic Series
-topics: []
+topic_titles: []
 ---
 
 Join the Advanced Mediation Topic Series starting February 11, 2026, from 9 a.m. to 6 p.m. This virtual event, hosted on Zoom, is designed for individuals seeking to enhance their mediation skills and pursue certification. Participants will engage in a comprehensive three-day training that includes roleplays and discussions on advanced mediation topics such as managing emotions, co-mediation, and writing durable agreements.

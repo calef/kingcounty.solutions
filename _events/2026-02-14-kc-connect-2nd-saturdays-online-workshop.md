@@ -161,7 +161,7 @@ source_url: https://kcdrc.org/event/kc-connect-online-workshop/2026-02-14/
 start_date: '2026-02-14T11:00:00-08:00'
 summarized: true
 title: 'KC CONNECT: 2nd Saturdays Online Workshop'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

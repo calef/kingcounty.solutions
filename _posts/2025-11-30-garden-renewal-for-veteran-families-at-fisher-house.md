@@ -61,7 +61,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143253/garden-renewal-veteran-families-fisher-house/
 summarized: true
 title: Garden renewal for Veteran families at Fisher House
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Senior Services
 ---

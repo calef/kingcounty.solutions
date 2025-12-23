@@ -55,7 +55,7 @@ source: Angel Flight West
 source_url: https://angelflightwest.org/news/angel-flight-west-2025-golf-classic/
 summarized: true
 title: Angel Flight West 2025 Golf Classic
-topics:
+topic_titles:
 - Health Care
 - Transportation & Mobility
 ---

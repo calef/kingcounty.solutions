@@ -134,7 +134,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/13/disability-rights-washington-names-new-executive-director/
 summarized: true
 title: Disability Rights Washington Names New Executive Director
-topics:
+topic_titles:
 - Disabilities
 ---
 

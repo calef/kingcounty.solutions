@@ -277,7 +277,7 @@ Scrapes a single organization website (following same-host links) and asks OpenA
 
 #### Purpose
 
-Runs both news and event summarizers so `_posts/` and `_events/` files missing `summarized: true` gain a concise Markdown summary while keeping the original Markdown body in front matter. Both content types also receive automatic topic classification when the `topics` array is empty.
+Runs both news and event summarizers so `_posts/` and `_events/` files missing `summarized: true` gain a concise Markdown summary while keeping the original Markdown body in front matter. Both content types also receive automatic topic classification when the `topic_titles` array is empty.
 
 #### Usage
 
@@ -293,8 +293,8 @@ Runs both news and event summarizers so `_posts/` and `_events/` files missing `
 
 #### Behavior notes
 
-- Processes news posts first, preserving any existing body as `original_markdown_body`, fetching the source article (20k character cap) when available, generating a summary, and classifying topics if needed (marking `published: false` when no topics match).
-- Runs through `_events/` afterward, pulling article text either from the remote source or stored body, generating an event-focused summary, classifying topics when missing, and flagging the event as unpublished if no topics apply.
+- Processes news posts first, preserving any existing body as `original_markdown_body`, fetching the source article (20k character cap) when available, generating a summary, and classifying topics if needed (marking `published: false` when no topic titles match).
+- Runs through `_events/` afterward, pulling article text either from the remote source or stored body, generating an event-focused summary, classifying topics when missing, and flagging the event as unpublished if no topic titles apply.
 - Retries OpenAI calls up to three times on rate limits, logging WARN messages for API or fetch issues and summarizing the run totals at INFO level.
 - Leaves files untouched when `summarized: true` is already present, but you can force a re-run by deleting that flag (or the stored summary) before invoking the script.
 - Honors `locked: true` across posts and events, skipping both summary and topic updates for frozen entries.

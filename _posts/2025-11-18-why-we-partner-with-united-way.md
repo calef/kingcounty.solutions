@@ -12,7 +12,7 @@ source: United Way of King County
 source_url: https://www.uwkc.org/news/why-we-partner-with-united-way/
 summarized: true
 title: Why [We Partner With] United Way?
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

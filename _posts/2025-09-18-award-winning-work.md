@@ -19,7 +19,7 @@ source: Eastside Legal Assistance Program
 source_url: https://elap.org/award-winning-work/?utm_source=rss&utm_medium=rss&utm_campaign=award-winning-work
 summarized: true
 title: Award-winning work
-topics:
+topic_titles:
 - Disabilities
 ---
 

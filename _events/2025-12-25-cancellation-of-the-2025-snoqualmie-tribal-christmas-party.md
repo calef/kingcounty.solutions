@@ -10,7 +10,7 @@ source_url: https://snoqualmietribe.us/snoqualmie-tribal-council-passes-motion-t
 start_date: '2025-12-25T00:00:00-08:00'
 summarized: true
 title: Cancellation of the 2025 Snoqualmie Tribal Christmas Party
-topics: []
+topic_titles: []
 ---
 
 The 2025 Snoqualmie Tribal Christmas Party, originally scheduled for Dec. 25, 2025, has been canceled due to severe weather conditions.

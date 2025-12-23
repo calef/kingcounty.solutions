@@ -80,7 +80,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/x6fbag35a54h6xwsgd7ssjuh90fb18
 summarized: true
 title: 'Recap: Hygiene Champions Summer Program'
-topics:
+topic_titles:
 - Personal & Household Needs
 - Food & Nutrition
 ---

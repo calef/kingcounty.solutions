@@ -13,7 +13,7 @@ source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/21/school-based-mental-health-services-grant/
 summarized: true
 title: School-Based Mental Health Services Grant
-topics:
+topic_titles:
 - Education & Learning
 - Mental Health & Counseling
 ---

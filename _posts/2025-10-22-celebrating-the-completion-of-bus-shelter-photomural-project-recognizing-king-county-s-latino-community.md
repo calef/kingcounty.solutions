@@ -13,7 +13,7 @@ source_url: https://kingcountymetro.blog/2025/10/22/celebrating-the-completion-o
 summarized: true
 title: Celebrating the completion of bus shelter photomural project  recognizing King
   County’s Latino community
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

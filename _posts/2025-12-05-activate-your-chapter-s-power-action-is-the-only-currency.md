@@ -42,7 +42,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/activate-your-chapters-power-action-is-the-only-currency/
 summarized: true
 title: Activate your chapter’s power – action is the only currency
-topics: []
+topic_titles: []
 ---
 
 Activate your chapter's power: Action is the only currency. Chapters are encouraged to take initiative and engage in advocacy, emphasizing the importance of collective action to drive change. By mobilizing members and collaborating with community partners, chapters can amplify their impact on issues affecting veterans. The focus is on empowering local leaders to harness their networks and resources, fostering a culture of activism within the organization.

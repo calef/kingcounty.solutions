@@ -231,7 +231,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143174/navigating-care-in-the-community/
 summarized: true
 title: Navigating care in the community
-topics:
+topic_titles:
 - Health Care
 ---
 

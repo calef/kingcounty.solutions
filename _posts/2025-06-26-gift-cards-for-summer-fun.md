@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/gift-cards-for-summer-fun
 summarized: true
 title: gift cards for summer fun!
-topics:
+topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 ---

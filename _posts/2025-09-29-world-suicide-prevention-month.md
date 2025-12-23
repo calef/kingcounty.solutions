@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/world-suicide-prevention-month
 summarized: true
 title: world suicide prevention month
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

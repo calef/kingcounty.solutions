@@ -12,7 +12,7 @@ source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/maxime-michel-executive-director-camfed-canada/
 summarized: true
 title: Maxime Michel appointed Executive Director of CAMFED Canada
-topics:
+topic_titles:
 - Education & Learning
 ---
 

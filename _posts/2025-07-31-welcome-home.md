@@ -16,7 +16,7 @@ source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/welcome-home
 summarized: true
 title: Welcome Home
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

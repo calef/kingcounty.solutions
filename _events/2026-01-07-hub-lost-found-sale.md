@@ -150,7 +150,7 @@ source_url: http://hub.washington.edu/campus-services/hub-lost-found/
 start_date: '2026-01-07T09:00:00-08:00'
 summarized: true
 title: HUB Lost & Found Sale
-topics: []
+topic_titles: []
 ---
 
 Join us for the HUB Lost & Found Sale on Jan. 7, 2026, from 9 a.m. to 4:30 p.m. at the Student Union Building (HUB). This monthly event offers a unique opportunity to purchase a variety of items that have gone unclaimed, including small electronics, jewelry, jackets, sunglasses, books, and more, all at discounted prices. Items are sold as is, and all sales are final. The sale is a great way to find bargains while helping the HUB clear out its inventory. Remember, unclaimed items are sold or donated after a certain period, so this is your chance to snag some great deals! Don’t miss out on this opportunity to find something special while supporting the HUB community.

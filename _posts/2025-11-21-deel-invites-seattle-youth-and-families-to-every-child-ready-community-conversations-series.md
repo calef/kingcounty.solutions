@@ -16,7 +16,7 @@ source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/11/21/deel-i
 summarized: true
 title: DEEL Invites Seattle Youth and Families to Every Child Ready Community Conversations
   Series 
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 ---

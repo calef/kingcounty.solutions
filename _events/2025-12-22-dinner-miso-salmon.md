@@ -71,7 +71,7 @@ source_url: https://www.spseniors.org/calendar/dinner-miso-salmon/
 start_date: '2025-12-22T17:00:00-08:00'
 summarized: true
 title: 'Dinner: Miso Salmon'
-topics:
+topic_titles:
 - Food & Nutrition
 - Senior Services
 ---

@@ -215,7 +215,7 @@ source: Jubilee Women's Center
 source_url: https://myemail.constantcontact.com/Three-Ways-to-Share-Holiday-Warmth.html?soid=1116358109063&aid=0ZF8Ets-8gM#new_tab
 summarized: true
 title: Ways to Help this Holiday Season
-topics:
+topic_titles:
 - Domestic Violence
 - Personal & Household Needs
 ---

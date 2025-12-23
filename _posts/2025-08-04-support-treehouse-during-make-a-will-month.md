@@ -22,7 +22,7 @@ source: Treehouse
 source_url: https://www.treehouseforkids.org/support-treehouse-during-make-a-will-month/
 summarized: true
 title: Support Treehouse during Make-a-Will Month
-topics:
+topic_titles:
 - Education & Learning
 ---
 

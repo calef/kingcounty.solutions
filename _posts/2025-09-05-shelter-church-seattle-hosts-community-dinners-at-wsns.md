@@ -20,7 +20,7 @@ source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/shelter-church-seattle-hosts-community-dinners-at-wsns/?utm_source=rss&utm_medium=rss&utm_campaign=shelter-church-seattle-hosts-community-dinners-at-wsns
 summarized: true
 title: Shelter Church Seattle hosts community dinners at WSNS
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

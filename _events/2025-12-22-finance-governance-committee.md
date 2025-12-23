@@ -47,7 +47,7 @@ source_url: https://www.tukwilawa.gov/event/finance-governance-committee-6/2025-
 start_date: '2025-12-22T17:30:00-08:00'
 summarized: true
 title: Finance & Governance Committee
-topics: []
+topic_titles: []
 ---
 
 The Finance & Governance Committee will meet on December 22 from 5:30 p.m. to 6:45 p.m. This hybrid event will take place both onsite in the Hazelnut Conference Room at City Hall and virtually via MS Teams. Attendees can expect discussions on policy recommendations related to financial management, fiscal operations, administrative services, and more. The meeting is open to the public, and participants can join online or by phone. Information on accessing the meeting is available on the agenda. This is an opportunity for community members to engage with local governance and contribute to important financial discussions.

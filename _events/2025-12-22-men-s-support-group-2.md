@@ -52,7 +52,7 @@ source_url: https://wscenter.org/event/mens-support-group-2/2025-12-22/
 start_date: '2025-12-22T11:45:00-08:00'
 summarized: true
 title: 'Men''s Support Group #2'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Senior Services
 ---

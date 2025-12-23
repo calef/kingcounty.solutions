@@ -231,7 +231,7 @@ source_url: https://wscenter.org/event/american-mahjong/2025-12-24/
 start_date: '2025-12-24T12:30:00-08:00'
 summarized: true
 title: American Mahjong
-topics: []
+topic_titles: []
 ---
 
 Join fellow enthusiasts for an engaging afternoon of American Mahjong on Dec. 24, 2025, at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. This event welcomes players of all skill levels, providing a friendly atmosphere to learn and enjoy the game. Attendees can expect to socialize, strategize, and enhance their Mahjong skills while making new friends in the community. Whether you are a seasoned player or new to the game, this gathering promises fun and connection. Don’t miss out on this opportunity to immerse yourself in the world of American Mahjong.

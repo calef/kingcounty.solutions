@@ -16,7 +16,7 @@ source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/domestic-violence-awareness-month
 summarized: true
 title: Domestic Violence Awareness Month
-topics:
+topic_titles:
 - Domestic Violence
 ---
 

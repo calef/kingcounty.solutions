@@ -49,7 +49,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/community-facilitator-affordable-housing-strategy-update
 summarized: true
 title: Become community facilitator for Affordable Housing Strategy Update
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

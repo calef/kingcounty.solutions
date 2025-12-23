@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/from-celebration-of-youth-to-the-diamond-club-mariners-raffle-recap
 summarized: true
 title: 'from celebration of youth to the diamond club: mariners raffle recap'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -54,7 +54,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/jmdktpaqrir8bwhatpeb17ucwmyt8j
 summarized: true
 title: 'WANTED: New and gently used sewing machines'
-topics:
+topic_titles:
 - Education & Learning
 - Senior Services
 - Personal & Household Needs

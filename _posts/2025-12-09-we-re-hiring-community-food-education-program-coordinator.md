@@ -111,7 +111,7 @@ source: Hunger Intervention Program
 source_url: https://hungerintervention.org/2025/12/09/were-hiring-community-food-education-program-coordinator/
 summarized: true
 title: 'We’re Hiring: Community Food Education Program Coordinator'
-topics:
+topic_titles:
 - Food & Nutrition
 - Employment & Job Support
 ---

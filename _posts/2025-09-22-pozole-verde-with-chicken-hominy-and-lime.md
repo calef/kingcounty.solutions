@@ -27,7 +27,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/pozole-verde-with-chicken-hominy-and-lime
 summarized: true
 title: Pozole Verde with Chicken, Hominy and Lime
-topics: []
+topic_titles: []
 ---
 
 Pozole verde is a flavorful Mexican soup made with chicken, hominy, and salsa verde. This recipe yields six servings and requires the following ingredients: 3 1/2 quarts of chicken stock, a 25-ounce can of hominy, 1 1/2 cups of salsa verde, 1 pound of shredded chicken breast, 1 teaspoon of Mexican oregano, and kosher salt to taste. For garnishing, prepare a bunch of radishes, a head of romaine lettuce, 2 tablespoons of Mexican oregano, 1/4 cup of Mexican chile powder (Tajín), 5 ounces of cotija cheese, 1 cup of Mexican crema, 12 tostadas, and 3 limes.

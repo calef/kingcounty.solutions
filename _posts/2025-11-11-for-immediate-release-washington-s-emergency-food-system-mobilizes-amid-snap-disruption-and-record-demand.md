@@ -36,7 +36,7 @@ source_url: https://www.northwestharvest.org/news-insights/wa-emergency-food-sys
 summarized: true
 title: 'FOR IMMEDIATE RELEASE: Washington’s Emergency Food System Mobilizes Amid SNAP
   Disruption and Record Demand'
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

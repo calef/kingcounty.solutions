@@ -51,7 +51,7 @@ source_url: https://doh.wa.gov/newsroom/department-health-issues-statement-charg
 summarized: true
 title: Department of Health issues statement of charges on license of in-home services
   facility
-topics:
+topic_titles:
 - Health Care
 - Legal Aid
 ---

@@ -68,7 +68,7 @@ source_url: https://www.spseniors.org/calendar/enhancefitness-with-cindy-house-2
 start_date: '2025-12-22T15:00:00-08:00'
 summarized: true
 title: EnhanceFitness with Cindy House
-topics:
+topic_titles:
 - Senior Services
 ---
 

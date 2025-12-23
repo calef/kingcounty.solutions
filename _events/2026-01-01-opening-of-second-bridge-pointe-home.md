@@ -14,7 +14,7 @@ source_url: https://www.friendsofyouth.org/post/celebrating-hope-and-healing-bri
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: Opening of Second Bridge Pointe Home
-topics:
+topic_titles:
 - Shelter & Housing
 - Mental Health & Counseling
 - Disabilities

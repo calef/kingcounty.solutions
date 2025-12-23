@@ -11,7 +11,7 @@ source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/alexandra-jaynes-blog/
 summarized: true
 title: Alexandra Jayne’s Blog
-topics:
+topic_titles:
 - Domestic Violence
 - Mental Health & Counseling
 ---

@@ -129,7 +129,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/14/kuow-early-autism-diagnosis-and-intervention/
 summarized: true
 title: 'KUOW: Early Autism Diagnosis and Intervention'
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 - Mental Health & Counseling

@@ -67,7 +67,7 @@ source_url: https://www.spseniors.org/calendar/closed-end-of-year-2/
 start_date: '2025-12-31T00:00:00-08:00'
 summarized: true
 title: Closed End-of-Year
-topics:
+topic_titles:
 - Senior Services
 ---
 

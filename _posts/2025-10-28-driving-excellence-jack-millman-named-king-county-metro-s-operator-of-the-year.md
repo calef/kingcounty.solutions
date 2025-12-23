@@ -13,7 +13,7 @@ source_url: https://kingcountymetro.blog/2025/10/28/driving-excellence-jack-mill
 summarized: true
 title: 'Driving Excellence: Jack Millman Named King County Metro’s Operator of the
   Year'
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

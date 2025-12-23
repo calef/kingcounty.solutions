@@ -77,7 +77,7 @@ source_url: https://www.spseniors.org/calendar/cultural-dancing-shining-night-da
 start_date: '2025-12-22T18:00:00-08:00'
 summarized: true
 title: Cultural Dancing—Shining Night Dancing
-topics: []
+topic_titles: []
 ---
 
 Join us for "Cultural Dancing—Shining Night Dancing" on Dec. 22, 2025, from 6 to 8 p.m. at the South Park Neighborhood Center, located at 8201 10th Ave. S, Seattle, WA. This vibrant event celebrates the rich diversity of cultures represented in our community, featuring traditional dances from Cambodia, Latin America, and Vietnam. Attendees can enjoy an evening filled with music, movement, and cultural exchange, making it a perfect opportunity to connect with neighbors and experience the beauty of global traditions. Whether you're a dancer or simply a lover of culture, everyone is welcome to participate and enjoy the festivities. For those interested in being added to the ongoing guest list, please contact Andrew Pardini, engagement and programs manager.

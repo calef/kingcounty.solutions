@@ -40,7 +40,7 @@ source_url: https://hr.uw.edu/benefits/retirement-plans/nearing-retirement/works
 start_date: '2026-01-08T13:00:00-08:00'
 summarized: true
 title: 'Livestream- Retiring from the UWRP: An Overview'
-topics: []
+topic_titles: []
 ---
 
 Join the University of Washington for a livestream workshop, "Retiring from the UWRP: An Overview," on Jan. 8, 2026, at 1 p.m. PST. This online event will provide essential information for employees planning to retire from the University of Washington Retirement Plan (UWRP). Attendees will learn about the retirement process, including necessary applications and deadlines. The workshop will be conducted via Zoom, allowing participants to remain anonymous if desired. Spouses and partners are welcome to join. This session is particularly beneficial for those who have been active participants in the UWRP and plan to retire at age 62 or older with at least 10 years of service. Don’t miss this opportunity to prepare for your retirement effectively.

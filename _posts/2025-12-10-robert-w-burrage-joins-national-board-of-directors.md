@@ -61,7 +61,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/robert-w-burrage-joins-national-board-of-directors/
 summarized: true
 title: Robert W. Burrage Joins National Board of Directors
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---

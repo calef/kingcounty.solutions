@@ -131,7 +131,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/06/uwac-free-webinar-identifying-autism-in-infants-toddlers/
 summarized: true
 title: 'UWAC Free Webinar: Identifying Autism in Infants & Toddlers'
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

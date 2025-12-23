@@ -57,7 +57,7 @@ source_url: https://iacswa.org/event/early-start-kent-49/
 start_date: '2025-12-23T12:00:00-08:00'
 summarized: true
 title: EARLY START Kent
-topics: []
+topic_titles: []
 ---
 
 Join us for EARLY START Kent on Dec. 23 from noon to 1 p.m. This engaging event offers attendees a chance to connect with the community, share ideas, and participate in discussions that foster growth and collaboration. Whether you're looking to network, learn something new, or simply enjoy the company of others, this event is designed for you. Don’t miss this opportunity to be part of a vibrant community gathering in Kent!

@@ -69,7 +69,7 @@ source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/important-mail-update/
 summarized: true
 title: Important Mail Update!
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

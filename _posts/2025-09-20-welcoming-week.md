@@ -25,7 +25,7 @@ source: Together Center
 source_url: https://togethercenter.org/2025/09/20/welcoming-week/
 summarized: true
 title: Welcoming Week
-topics:
+topic_titles:
 - Education & Learning
 ---
 

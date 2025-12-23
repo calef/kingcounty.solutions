@@ -172,7 +172,7 @@ source_url: https://togethercenter.org/event/pride-across-the-bridge-2/2025-12-2
 start_date: '2025-12-24T16:00:00-08:00'
 summarized: true
 title: Pride Across the Bridge
-topics: []
+topic_titles: []
 ---
 
 Join the celebration at Pride Across the Bridge on Dec. 24, 2025, starting at 4 p.m. at the Together Center in Redmond, Washington. This vibrant event will feature a variety of activities, including live performances, art displays, and community workshops, all aimed at fostering inclusivity and celebrating diversity. Attendees can connect with local organizations, enjoy food and entertainment, and participate in discussions that promote understanding and acceptance. Don't miss this opportunity to come together and show support for the LGBTQ+ community in a festive and welcoming atmosphere.

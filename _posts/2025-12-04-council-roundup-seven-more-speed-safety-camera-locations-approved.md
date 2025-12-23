@@ -86,7 +86,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-12-4-25
 summarized: true
 title: 'Council Roundup: Seven more speed safety camera locations approved'
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

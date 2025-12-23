@@ -386,7 +386,7 @@ source_url: https://www.nwriscc.org/events/webinars
 start_date: '2026-01-27T12:30:00-08:00'
 summarized: true
 title: 'NEW DATE: Northwest Weed Biocontrol in Changing Environments'
-topics: []
+topic_titles: []
 ---
 
 Join the Northwest RISCC Network for an engaging online webinar titled "Northwest Weed Biocontrol in Changing Environments" on Jan. 27, 2026, at 12:30 p.m. PST. Attendees can expect to learn about innovative biocontrol strategies for managing invasive weeds in the face of environmental changes. This interactive session will feature expert speakers who will share their insights and research findings. Participants will have the opportunity to ask questions and discuss practical applications of biocontrol methods. Don't miss this chance to enhance your understanding of weed management in a changing climate.

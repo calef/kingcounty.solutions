@@ -11,7 +11,7 @@ source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/dont-let-thanksgiving-travel-gobble-you
 summarized: true
 title: Don’t let Thanksgiving travel gobble you up
-topics: []
+topic_titles: []
 ---
 
 The Washington State Department of Transportation (WSDOT) advises travelers to prepare for heavy traffic, delays, and potential winter weather this Thanksgiving weekend. Millions are expected to use highways, ferries, and trains, with significant congestion anticipated on routes like Interstate 90, U.S. 2, and I-5. Travelers are encouraged to consult WSDOT's holiday travel charts to identify the best travel times and avoid peak hours. Most construction will pause to ease congestion, though crashes and road repairs may still cause delays.

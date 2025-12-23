@@ -32,7 +32,7 @@ start_date: '2026-02-03T12:00:00-08:00'
 summarized: true
 title: 'Course Accessibility Lunch & Learn: Seven Practical Moves Toward Disability
   Justice in the Classroom'
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

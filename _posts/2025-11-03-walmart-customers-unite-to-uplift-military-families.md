@@ -60,7 +60,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/walmart-customers-unite-to-uplift-military-families/
 summarized: true
 title: Walmart Customers Unite to Uplift Military Families
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 - Education & Learning

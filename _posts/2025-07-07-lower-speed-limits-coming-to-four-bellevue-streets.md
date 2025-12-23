@@ -55,7 +55,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/lower-speed-limits-coming-four-bellevue-streets
 summarized: true
 title: Lower speed limits coming to four Bellevue streets
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

@@ -64,7 +64,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143800/army-veteran-expands-her-family/
 summarized: true
 title: Army Veteran expands her family
-topics:
+topic_titles:
 - Financial Assistance
 - Health Care
 ---

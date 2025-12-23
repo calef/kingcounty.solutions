@@ -199,7 +199,7 @@ source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1
 start_date: '2026-01-16T08:00:00-08:00'
 summarized: true
 title: Executive MBA Class Visit (Managerial Accounting)
-topics: []
+topic_titles: []
 ---
 
 Join the Executive MBA Class Visit focused on Managerial Accounting on Jan. 16, 2026, at 8 a.m. This event offers prospective students a unique opportunity to experience a session from the MBA program firsthand. Attendees will engage with faculty and current students, gaining insights into the curriculum and the dynamic learning environment. It's a chance to ask questions and explore how the program can enhance your career. The event will take place at Foster School of Business, providing a glimpse into the vibrant academic community. Don’t miss this opportunity to see what an Executive MBA can offer you.

@@ -34,7 +34,7 @@ source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/conflict-resolution-for-everyone-stories-from-core/
 summarized: true
 title: 'Conflict Resolution for Everyone: Stories from CoRE™'
-topics:
+topic_titles:
 - Education & Learning
 - Mental Health & Counseling
 ---

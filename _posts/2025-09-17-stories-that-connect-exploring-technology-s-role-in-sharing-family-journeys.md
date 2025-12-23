@@ -43,7 +43,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/stories-that-connect-exploring-technologys-role-in-sharing-family-journeys
 summarized: true
 title: 'stories that connect: exploring technology’s role in sharing family journeys'
-topics:
+topic_titles:
 - Shelter & Housing
 - Domestic Violence
 - Financial Assistance

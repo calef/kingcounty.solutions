@@ -14,7 +14,7 @@ source_url: https://nhwa.org/2025/09/30/jumpin-jambalaya/
 summarized: true
 title: 'From Dreams to Dishes: Jumpin Jambalaya Brings Cajun-Creole Flavor to the
   Community '
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition

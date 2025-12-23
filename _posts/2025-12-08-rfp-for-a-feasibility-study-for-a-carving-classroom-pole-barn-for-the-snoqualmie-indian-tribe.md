@@ -25,7 +25,7 @@ source_url: https://snoqualmietribe.us/rfp-for-a-feasibility-study-for-a-carving
 summarized: true
 title: RFP for a Feasibility Study for a Carving Classroom & Pole Barn for the Snoqualmie
   Indian Tribe
-topics: []
+topic_titles: []
 ---
 
 The Snoqualmie Indian Tribe is looking to hire a qualified consulting firm to conduct a feasibility study for land development on up to three parcels owned by the Tribe. This study is part of the pre-construction phase aimed at selecting the best site for a proposed carving classroom and pole barn. The feasibility study will cover several key areas, including site analysis, projected development costs, preliminary space allocation, and initial site and building design concepts.

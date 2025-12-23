@@ -70,7 +70,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-inside-look-diversity-advantage-plan-2035-0
 summarized: true
 title: 'Council Roundup: Inside look at Diversity Advantage Plan 2035'
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

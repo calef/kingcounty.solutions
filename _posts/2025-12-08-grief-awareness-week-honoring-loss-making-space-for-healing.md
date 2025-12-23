@@ -89,7 +89,7 @@ source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/grief-awareness-week-honoring-loss-making-space-for-healing/
 summarized: true
 title: 'Grief Awareness Week: Honoring Loss, Making Space for Healing'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

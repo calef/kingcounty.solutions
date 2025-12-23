@@ -15,7 +15,7 @@ source_url: https://news.va.gov/143919/how-mentorship-helps-veteran-founders-suc
 start_date: '2026-02-11T00:00:00-08:00'
 summarized: true
 title: DAV Patriot Boot Camp
-topics:
+topic_titles:
 - Employment & Job Support
 - Mental Health & Counseling
 ---

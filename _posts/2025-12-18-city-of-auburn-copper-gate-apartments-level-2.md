@@ -20,7 +20,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/17/evacuation-update-copper-gate-apartments-12-17-at-4pm/
 summarized: true
 title: City of Auburn – Copper Gate Apartments – Level 2
-topics: []
+topic_titles: []
 ---
 
 The Copper Gate Apartments, located at 4750 Auburn Way N., have been moved from a Level 3 (GO NOW) evacuation order to a Level 2 (GET SET) status as of December 17, 2025, at 4:30 p.m. Residents are allowed to return to their homes but must stay vigilant and be ready to evacuate again if necessary. Some nearby homes, businesses, and areas between B Street and Auburn Way remain under close observation due to ongoing concerns. Residents are encouraged to monitor updates closely and prepare for any changes in the situation.

@@ -10,7 +10,7 @@ source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/november-publication-updates/
 summarized: true
 title: November Publication Updates
-topics:
+topic_titles:
 - Disabilities
 - Transportation & Mobility
 ---

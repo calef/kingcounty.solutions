@@ -139,7 +139,7 @@ source: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/detox-vs-residential-care-how-to-choose-the-right-path-to-recovery/
 summarized: true
 title: 'Detox vs. Residential Care: How to Choose the Right Path to Recovery'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Health Care
 ---

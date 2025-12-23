@@ -58,7 +58,7 @@ source: Department of Health
 source_url: https://doh.wa.gov/newsroom/grays-harbor-county-resident-tests-preliminarily-positive-avian-influenza
 summarized: true
 title: Grays Harbor County resident tests preliminarily positive for avian influenza
-topics:
+topic_titles:
 - Health Care
 ---
 

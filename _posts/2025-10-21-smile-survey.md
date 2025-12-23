@@ -93,7 +93,7 @@ source: Arcora Foundation
 source_url: https://arcorafoundation.org/smile-survey/
 summarized: true
 title: Smile Survey
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

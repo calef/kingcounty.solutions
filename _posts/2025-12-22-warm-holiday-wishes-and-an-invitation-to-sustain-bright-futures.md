@@ -185,7 +185,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/12/warm-holiday-wishes-and-an-invitation-to-sustain-bright-futures/
 summarized: true
 title: Warm Holiday Wishes and an Invitation to Sustain Bright Futures!
-topics:
+topic_titles:
 - Childcare
 ---
 

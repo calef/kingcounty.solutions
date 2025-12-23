@@ -102,7 +102,7 @@ source: Arcora Foundation
 source_url: https://arcorafoundation.org/apple-health-medicaid-dental-101/
 summarized: true
 title: Apple Health (Medicaid) Dental 101
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

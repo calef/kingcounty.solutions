@@ -12,7 +12,7 @@ source_url: https://spdblotter.seattle.gov/2025/11/30/multiple-teens-in-custody-
 summarized: true
 title: Multiple Teens in Custody After Shooting at Police, Eluding in Stolen SUV on
   I-5
-topics: []
+topic_titles: []
 ---
 
 Multiple teenagers are in custody following a shooting incident that occurred during a police pursuit of a stolen SUV on Interstate 5. The incident began when officers attempted to stop a vehicle suspected of being stolen. The driver fled, leading police on a chase that ended when the SUV crashed. During the pursuit, shots were fired, but it is unclear who fired them. After the crash, several teens exited the vehicle and fled on foot. Law enforcement quickly apprehended the suspects with the assistance of a police dog. No injuries were reported among the officers or civilians. The investigation is ongoing as authorities piece together the events leading up to the shooting and the pursuit.

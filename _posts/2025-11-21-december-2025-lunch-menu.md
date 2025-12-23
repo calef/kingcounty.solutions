@@ -18,7 +18,7 @@ source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/december-2025-lunch-menu/
 summarized: true
 title: December 2025 Lunch Menu
-topics:
+topic_titles:
 - Food & Nutrition
 - Senior Services
 ---

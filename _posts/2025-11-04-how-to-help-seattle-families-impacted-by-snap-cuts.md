@@ -13,7 +13,7 @@ source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/how-to-help-seattle-families-impacted-by-snap-cuts/
 summarized: true
 title: How to help Seattle families impacted by SNAP cuts
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

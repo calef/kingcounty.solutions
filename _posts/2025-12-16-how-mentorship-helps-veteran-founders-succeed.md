@@ -140,7 +140,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143919/how-mentorship-helps-veteran-founders-succeed/
 summarized: true
 title: How mentorship helps Veteran founders succeed
-topics:
+topic_titles:
 - Employment & Job Support
 - Mental Health & Counseling
 ---

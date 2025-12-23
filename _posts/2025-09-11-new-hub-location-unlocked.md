@@ -86,7 +86,7 @@ source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/new-hub-location/?utm_source=rss&utm_medium=rss&utm_campaign=new-hub-location
 summarized: true
 title: New Hub Location Unlocked
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 - Education & Learning

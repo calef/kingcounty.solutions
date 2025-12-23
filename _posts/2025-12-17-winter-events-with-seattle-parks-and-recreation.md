@@ -19,7 +19,7 @@ source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/17/winter-events-with-seattle-parks-and-recreation/
 summarized: true
 title: Winter Events with Seattle Parks and Recreation!
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 ---

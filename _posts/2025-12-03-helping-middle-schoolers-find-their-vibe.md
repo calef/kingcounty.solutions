@@ -38,7 +38,7 @@ source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/helping-middle-schoolers-find-their-vibe/?utm_source=rss&utm_medium=rss&utm_campaign=helping-middle-schoolers-find-their-vibe
 summarized: true
 title: Helping Middle Schoolers Find Their Vibe
-topics:
+topic_titles:
 - Education & Learning
 - Mental Health & Counseling
 ---

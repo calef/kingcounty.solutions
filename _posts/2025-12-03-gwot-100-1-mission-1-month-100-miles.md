@@ -49,7 +49,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143748/gwot-100-1-mission-1-month-100-miles/
 summarized: true
 title: 'GWOT 100: 1 mission. 1 month. 100 miles.'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

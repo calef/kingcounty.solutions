@@ -41,7 +41,7 @@ source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/news/megan-beers/
 summarized: true
 title: Welcoming Boyer’s New CPO
-topics:
+topic_titles:
 - Education & Learning
 - Disabilities
 ---

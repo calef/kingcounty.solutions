@@ -44,7 +44,7 @@ source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/cancer-lifeline-partners-with-tribal-organization-for-cancer-support/
 summarized: true
 title: Tribal Organizations & Cancer Support
-topics:
+topic_titles:
 - Health Care
 - Financial Assistance
 ---

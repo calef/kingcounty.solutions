@@ -211,7 +211,7 @@ source_url: https://www.familyworksseattle.org/event/wallingford-food-bank-open-
 start_date: '2025-12-23T12:00:00-08:00'
 summarized: true
 title: Wallingford Food Bank Open
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

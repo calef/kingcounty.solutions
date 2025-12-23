@@ -11,7 +11,7 @@ source: NOSSCR Referral Service
 source_url: https://nosscr.org/david-carlton/
 summarized: true
 title: David Carlton
-topics: []
+topic_titles: []
 ---
 
 David Carlton is based in Pinellas Park, Florida. For inquiries or further information, he can be reached at his email address: davelcarlton@gmail.com.

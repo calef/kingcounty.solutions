@@ -104,7 +104,7 @@ source_url: https://www.antioch.edu/event/sex-education-sex-therapy-info-session
 start_date: '2026-01-29T17:45:00-08:00'
 summarized: true
 title: Sex Education & Sex Therapy Info Session | AUS
-topics: []
+topic_titles: []
 ---
 
 Join Antioch University for a virtual info session on the Sex Education and Sex Therapy certificates on January 29, 2026, from 5:45 PM to 6:45 PM PST. This session is designed for MA students, alumni, and community members interested in enhancing their clinical skills and receiving specialized training in sex therapy and education. Attendees will learn about the requirements and benefits of the clinical certificate, which meets AASECT certification standards, and the holistic approach to comprehensive sex education. This informative event will provide insights into how these programs can broaden educational competencies and promote sexual health. Registration is required, and Zoom login details will be shared after signing up.

@@ -95,7 +95,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143187/rebuilds-strength-compensated-work-therapy/
 summarized: true
 title: Veteran rebuilds strength through Compensated Work Therapy Program
-topics:
+topic_titles:
 - Employment & Job Support
 - Mental Health & Counseling
 - Disabilities

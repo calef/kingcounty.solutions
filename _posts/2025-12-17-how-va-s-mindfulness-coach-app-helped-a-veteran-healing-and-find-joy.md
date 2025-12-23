@@ -143,7 +143,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143915/how-vas-mindfulness-coach-app-healing-find-joy/
 summarized: true
 title: How VA’s Mindfulness Coach app helped a Veteran healing and find joy
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Disabilities
 ---

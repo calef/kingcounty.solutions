@@ -52,7 +52,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/this-veterans-day-stand-with-our-military-families/
 summarized: true
 title: This Veterans Day, Stand with Our Military Families
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 ---

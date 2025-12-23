@@ -14,7 +14,7 @@ source_url: https://nhwa.org/2025/10/01/groundbreaking-ui-navigators-program-rec
 summarized: true
 title: Groundbreaking UI Navigators program receives $1 million to continue helping
   underserved communities
-topics:
+topic_titles:
 - Employment & Job Support
 - Disabilities
 ---

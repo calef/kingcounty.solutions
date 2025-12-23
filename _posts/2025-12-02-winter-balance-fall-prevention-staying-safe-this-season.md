@@ -64,7 +64,7 @@ source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/winter-balance-and-fall-prevention-staying-safe-this-season/
 summarized: true
 title: 'Winter Balance & Fall Prevention: Staying Safe This Season'
-topics:
+topic_titles:
 - Health Care
 ---
 

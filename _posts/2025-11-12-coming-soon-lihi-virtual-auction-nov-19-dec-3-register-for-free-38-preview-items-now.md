@@ -17,7 +17,7 @@ source_url: https://www.lihihousing.org/post/coming-soon-lihi-virtual-auction-no
 summarized: true
 title: Coming soon! LIHI Virtual Auction! Nov 19 - Dec 3 Register for free &#38; preview
   items now!
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

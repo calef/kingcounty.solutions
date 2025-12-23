@@ -89,7 +89,7 @@ source_url: https://www.commerce.wa.gov/stevens-place-expanding-housing-opportun
 summarized: true
 title: 'Steven’s Place: Expanding housing opportunities for those with the greatest
   barriers in Seattle’s Interbay'
-topics:
+topic_titles:
 - Shelter & Housing
 - Health Care
 - Employment & Job Support

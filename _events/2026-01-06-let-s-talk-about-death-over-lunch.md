@@ -234,7 +234,7 @@ source_url: https://wscenter.org/event/lets-talk-about-death-over-lunch/2026-01-
 start_date: '2026-01-06T12:00:00-08:00'
 summarized: true
 title: Let's Talk About Death Over Lunch
-topics: []
+topic_titles: []
 ---
 
 Join the conversation at "Let's Talk About Death Over Lunch" on Jan. 6, 2026, from noon to 1:30 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This event provides a supportive environment for attendees to discuss the often-taboo topic of death while enjoying lunch. Participants can share their thoughts, experiences, and questions about end-of-life issues, fostering open dialogue and connection with others. Whether you're seeking to understand the process of grief, explore personal beliefs, or simply engage in meaningful discussions, this event is designed to create a safe space for all. Come ready to listen, share, and learn in a welcoming atmosphere.

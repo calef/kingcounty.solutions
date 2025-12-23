@@ -107,7 +107,7 @@ source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/saradas-story-stability-and-independence-with-meal-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=saradas-story-stability-and-independence-with-meal-delivery
 summarized: true
 title: 'Sarada’s Story: Stability and Independence with Meal Delivery '
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

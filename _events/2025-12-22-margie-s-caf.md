@@ -49,7 +49,7 @@ source_url: https://wscenter.org/event/margies-cafe/2025-12-22/
 start_date: '2025-12-22T09:00:00-08:00'
 summarized: true
 title: Margie’s Café
-topics:
+topic_titles:
 - Senior Services
 - Food & Nutrition
 ---

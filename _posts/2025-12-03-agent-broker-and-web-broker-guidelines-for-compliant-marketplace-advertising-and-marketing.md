@@ -11,7 +11,7 @@ source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/ag
 summarized: true
 title: Agent, Broker, and Web-broker Guidelines for Compliant Marketplace Advertising
   and Marketing
-topics:
+topic_titles:
 - Health Care
 - Disabilities
 ---

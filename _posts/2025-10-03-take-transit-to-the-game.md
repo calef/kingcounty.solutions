@@ -14,7 +14,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/take-transit-to-game
 summarized: true
 title: 'Take transit to the game! '
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

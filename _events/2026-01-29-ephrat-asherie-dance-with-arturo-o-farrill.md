@@ -130,7 +130,7 @@ source_url: https://meanycenter.org/tickets/2026-01/production/ephrat-asherie-da
 start_date: '2026-01-29T20:00:00-08:00'
 summarized: true
 title: Ephrat Asherie Dance with Arturo O’Farrill
-topics: []
+topic_titles: []
 ---
 
 Join us for an exhilarating evening of dance and music on Jan. 29, 2026, at Meany Hall. Ephrat Asherie Dance, known for its vibrant blend of styles, will take the stage alongside the acclaimed Arturo O’Farrill, bringing a unique fusion of contemporary dance and live jazz. Attendees can expect an engaging performance that celebrates the rhythms of urban culture and the expressive power of movement. This collaboration promises to be a captivating experience, perfect for art enthusiasts and anyone looking to enjoy a night of creativity and inspiration. Don’t miss this opportunity to witness a dynamic showcase that highlights the synergy between dance and music.

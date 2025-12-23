@@ -170,7 +170,7 @@ start_date: '2025-12-31T09:00:00-08:00'
 summarized: true
 title: East King County Family Resource Center - Information and Assistance Services
   - Cantonese and Mandarin Speaking
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 ---

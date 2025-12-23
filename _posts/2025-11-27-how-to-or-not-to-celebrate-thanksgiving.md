@@ -102,7 +102,7 @@ source: Hunger Intervention Program
 source_url: https://hungerintervention.org/2025/11/27/how-to-or-not-to-celebrate-thanksgiving/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-or-not-to-celebrate-thanksgiving
 summarized: true
 title: How to (or not to) celebrate Thanksgiving
-topics:
+topic_titles:
 - Food & Nutrition
 - Education & Learning
 ---

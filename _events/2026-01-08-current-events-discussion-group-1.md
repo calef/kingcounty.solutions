@@ -235,7 +235,7 @@ source_url: https://wscenter.org/event/current-events-discussion-group/2026-01-0
 start_date: '2026-01-08T13:00:00-08:00'
 summarized: true
 title: 'Current Events Discussion Group #1'
-topics: []
+topic_titles: []
 ---
 
 Join the Current Events Discussion Group on Jan. 8, 2026, at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This engaging gathering invites participants to share insights and perspectives on the latest news and trends affecting the community and beyond. Attendees can expect lively conversations, diverse viewpoints, and the opportunity to connect with fellow community members. Whether you're a news enthusiast or just looking to stay informed, this discussion group offers a welcoming space for all. Don't miss this chance to engage in meaningful dialogue and expand your understanding of current events.

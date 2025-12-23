@@ -16,7 +16,7 @@ source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/12/02/november-30-2025-the-rev-canon-britt-olson/
 summarized: true
 title: November 30, 2025 — The Rev Canon Britt Olson
-topics: []
+topic_titles: []
 ---
 
 Advent started early for the Rev. Canon Britt Olson this year. Growing up, Olson did not recognize the significance of Advent, a season that occurs between Thanksgiving and Christmas. He reflects on how this time is often dominated by consumerism. Olson emphasizes the importance of Advent as a period of preparation and reflection leading up to Christmas. He encourages others to embrace the spiritual aspects of the season rather than getting caught up in material pursuits. By focusing on the true meaning of Advent, people can cultivate a deeper connection to their faith and the upcoming celebration of Christmas.

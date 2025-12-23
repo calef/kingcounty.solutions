@@ -13,7 +13,7 @@ source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/11/special-weekend-water-taxi-service-to-the-vashon-strawberry-festival-july-18-20/
 summarized: true
 title: Special weekend Water Taxi service to the Vashon Strawberry Festival July 18-20
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

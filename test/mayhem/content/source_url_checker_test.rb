@@ -290,7 +290,7 @@ class SourceUrlCheckerTest < Minitest::Test
       'date' => '2025-01-01T00:00:00Z',
       'source_url' => source_url,
       'image_ids' => [],
-      'topics' => []
+      'topic_titles' => []
     }
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
@@ -303,7 +303,7 @@ class SourceUrlCheckerTest < Minitest::Test
       'date' => '2025-01-01T00:00:00Z',
       'source_url' => source_url,
       'image_ids' => image_ids,
-      'topics' => []
+      'topic_titles' => []
     }
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
@@ -317,7 +317,7 @@ class SourceUrlCheckerTest < Minitest::Test
       'source_url' => source_url,
       'image_ids' => [],
       'events' => events,
-      'topics' => []
+      'topic_titles' => []
     }
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
@@ -329,7 +329,7 @@ class SourceUrlCheckerTest < Minitest::Test
       'title' => 'Test Post',
       'date' => '2025-01-01T00:00:00Z',
       'image_ids' => [],
-      'topics' => []
+      'topic_titles' => []
     }
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))

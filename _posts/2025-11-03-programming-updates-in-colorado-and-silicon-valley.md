@@ -13,7 +13,7 @@ source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/programming-updates-co-and-sv/
 summarized: true
 title: Programming updates in Colorado and Silicon Valley
-topics:
+topic_titles:
 - Education & Learning
 - Childcare
 ---

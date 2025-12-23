@@ -21,7 +21,7 @@ source_url: https://powerlines.seattle.gov/2025/12/19/seattle-city-light-ranked-
 summarized: true
 title: 'Seattle City Light Ranked #1 in Customer Satisfaction for Fourth Consecutive
   Year among Midsize Business Electric Utilities in the West'
-topics: []
+topic_titles: []
 ---
 
 Seattle City Light has been ranked first in customer satisfaction among midsize electric utilities in the West for the fourth consecutive year. The utility received the highest satisfaction score in a survey of electric providers serving between 50,000 and 99,999 business customers. This ranking is based on the J.D. Power 2025 U.S. Electric Utility Business Customer Satisfaction Study. The recognition highlights Seattle City Light's commitment to providing quality service to its customers.

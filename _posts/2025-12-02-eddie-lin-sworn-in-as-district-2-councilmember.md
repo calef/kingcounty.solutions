@@ -10,7 +10,7 @@ source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/02/eddie-lin-sworn-in-as-district-2-councilmember/
 summarized: true
 title: Eddie Lin sworn in as District 2 councilmember
-topics: []
+topic_titles: []
 ---
 
 Eddie Lin has been officially sworn in as the new District 2 councilmember for Seattle. The ceremony took place at the Seattle City Council chambers, where Lin was welcomed by family, friends, and community members. During his acceptance speech, he emphasized his commitment to serving the community and addressing key issues such as housing, public safety, and economic development. Lin expressed gratitude for the opportunity to represent District 2 and highlighted the importance of collaboration with residents and city officials. He aims to ensure that the voices of his constituents are heard and to work toward a more equitable and inclusive Seattle. Lin replaces former councilmember Tammy Morales, who served the district before him. The council looks forward to his contributions and leadership in the upcoming term. Lin's background includes experience in public service and community engagement, which he intends to leverage to enhance the quality of life in District 2. His swearing-in marks a new chapter for the district as he prepares to tackle the challenges ahead.

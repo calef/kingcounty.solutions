@@ -25,7 +25,7 @@ source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/fridays-update-on-the-tribal-state-of-emergency-related-to-flooding/
 summarized: true
 title: Friday’s Update on the Tribal State of Emergency Related to Flooding
-topics:
+topic_titles:
 - Shelter & Housing
 - Transportation & Mobility
 ---

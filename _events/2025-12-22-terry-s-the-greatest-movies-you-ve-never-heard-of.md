@@ -65,7 +65,7 @@ source_url: https://wscenter.org/event/terrys-the-greatest-movies-youve-never-he
 start_date: '2025-12-22T12:30:00-08:00'
 summarized: true
 title: Terry’s The Greatest Movies You’ve Never Heard Of
-topics: []
+topic_titles: []
 ---
 
 Join us for "Terry’s The Greatest Movies You’ve Never Heard Of" on Monday, December 22, 2025, from 12:30 p.m. to 2:30 p.m. at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. This event features a screening of "The Breaking Point" (1950), starring John Garfield and Patricia Neal, along with popcorn, newsreels, previews, and cartoons. Attendees can enjoy a classic film experience while discovering lesser-known cinematic gems. Don't miss this opportunity to relax and engage with fellow movie enthusiasts in a welcoming environment.

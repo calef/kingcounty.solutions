@@ -82,7 +82,7 @@ source_url: https://cancerlifeline.org/event/living-with-metastatic-cancer-suppo
 start_date: '2025-12-27T10:00:00-08:00'
 summarized: true
 title: Living with Metastatic Cancer Support Group Sponsored by EvergreenHealth
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Health Care
 - Senior Services

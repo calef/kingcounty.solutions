@@ -16,7 +16,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27471
 summarized: true
 title: City Offices Closed at 12:00 p.m. on Christmas Eve
-topics: []
+topic_titles: []
 ---
 
 City offices in Black Diamond will close at noon on Christmas Eve, December 24, 2025.

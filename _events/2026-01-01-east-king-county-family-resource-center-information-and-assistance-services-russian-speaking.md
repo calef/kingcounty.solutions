@@ -173,7 +173,7 @@ start_date: '2026-01-01T14:00:00-08:00'
 summarized: true
 title: East King County Family Resource Center - Information and Assistance Services
   - Russian Speaking
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

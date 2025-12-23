@@ -16,7 +16,7 @@ source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/purple-ambassadors-bingo-nov-25-2025/
 summarized: true
 title: Purple Ambassadors Bingo, Nov. 25, 2025
-topics:
+topic_titles:
 - Education & Learning
 ---
 

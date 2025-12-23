@@ -87,7 +87,7 @@ source_url: https://medium.com/kingcounty/king-county-and-city-of-seattle-partne
 summarized: true
 title: King County and City of Seattle partner on region’s second Crisis Care Center
   location
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

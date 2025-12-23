@@ -78,7 +78,7 @@ source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/08/back-to-school-bash/
 summarized: true
 title: Back to School Bash offers relief and resources for Tri-Cities families
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 - Personal & Household Needs

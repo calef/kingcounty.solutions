@@ -95,7 +95,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/from-crisis-to-stability-jasmines-story
 summarized: true
 title: 'from crisis to stability: jasmine’s story'
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 - Childcare

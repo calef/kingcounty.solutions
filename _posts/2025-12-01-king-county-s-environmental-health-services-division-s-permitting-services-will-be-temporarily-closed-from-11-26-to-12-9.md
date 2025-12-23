@@ -12,7 +12,7 @@ source_url: https://buildingconnections.seattle.gov/2025/12/01/king-countys-envi
 summarized: true
 title: King County’s Environmental Health Services Division’s permitting services
   will be temporarily closed from 11/26 to 12/9
-topics: []
+topic_titles: []
 ---
 
 King County's Environmental Health Services Division will temporarily close its permitting services from Nov. 26 to Dec. 9. This closure is to accommodate system upgrades and improvements. During this period, the division will not process any permit applications, and customers are encouraged to plan accordingly. The division will resume normal operations on Dec. 10. For any urgent matters, individuals can contact the division via email or phone, but responses may be delayed due to the closure. The county emphasizes the importance of these upgrades in enhancing service efficiency and effectiveness.

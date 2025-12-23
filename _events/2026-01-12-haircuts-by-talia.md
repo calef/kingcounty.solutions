@@ -235,7 +235,7 @@ source_url: https://wscenter.org/event/haircuts-by-talia-2-2-2/2026-01-12/
 start_date: '2026-01-12T08:30:00-08:00'
 summarized: true
 title: Haircuts by Talia
-topics: []
+topic_titles: []
 ---
 
 Join us for "Haircuts by Talia" at The Center for Active Living on Jan. 12, 2026, starting at 8:30 a.m. Located at 4217 SW Oregon St. in Seattle, this event offers attendees the chance to receive professional haircuts in a welcoming environment. Whether you’re looking for a fresh style or a simple trim, Talia will provide personalized hair services to help you look and feel your best. Don’t miss this opportunity to refresh your look and connect with the community.

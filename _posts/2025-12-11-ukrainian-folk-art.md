@@ -21,7 +21,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/ukrainian-folk-art/
 summarized: true
 title: Ukrainian Folk Art
-topics: []
+topic_titles: []
 ---
 
 A class on Ukrainian folk art, specifically the paper cut technique known as “Vytynanka,” will be held on January 16 from 10 a.m. to noon. Led by instructor Nataliya Zigelboym, participants will learn about both traditional and contemporary Vytynanka while creating their own artworks. The class is hands-on, with all materials provided, and no prior experience is necessary. The cost is $25 for members and $30 for non-members, including sales tax.

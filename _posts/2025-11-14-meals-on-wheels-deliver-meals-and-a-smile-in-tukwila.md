@@ -26,7 +26,7 @@ source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-tukwila-help-make-a-difference/
 summarized: true
 title: 'Meals on Wheels: Deliver Meals and a Smile in Tukwila!'
-topics:
+topic_titles:
 - Food & Nutrition
 - Transportation & Mobility
 ---

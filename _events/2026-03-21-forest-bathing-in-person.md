@@ -14,7 +14,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_9ba9728c4
 start_date: '2026-03-21T10:00:00-07:00'
 summarized: true
 title: Forest Bathing (in-person)
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

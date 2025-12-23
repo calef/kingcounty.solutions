@@ -45,7 +45,7 @@ source: Homework Help
 source_url: https://blog.spl.org/2025/11/17/5-fiction-and-nonfiction-books-that-dive-into-ai/
 summarized: true
 title: 5 Fiction and Nonfiction Books that Dive Into AI
-topics: []
+topic_titles: []
 ---
 
 Five notable books explore the implications of artificial intelligence, both in fiction and nonfiction. *Empire of AI* by Karen Hao provides an insider's look into the development of commercial AI, drawing from her experiences with OpenAI. It examines how AI influences lives globally and offers insights on consumer roles in shaping its future. Reid Hoffman’s *Superagency: What Could Possibly Go Right With Our AI Future?* encourages optimism, likening AI's emergence to transformative inventions like the automobile and the internet.

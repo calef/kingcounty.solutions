@@ -103,7 +103,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/turning-carbon-into-opportunity-ocochems-bold-mission/
 summarized: true
 title: 'Turning carbon into opportunity: OCOchem’s bold mission'
-topics: []
+topic_titles: []
 ---
 
 OCOchem, a Washington-based company, is on a mission to transform carbon emissions into valuable chemical products, addressing climate change while creating economic opportunities. The company has developed a groundbreaking process that captures carbon dioxide and converts it into useful materials, such as chemicals for industrial applications. This innovative approach not only helps reduce greenhouse gas emissions but also aims to establish a circular economy by reusing carbon.

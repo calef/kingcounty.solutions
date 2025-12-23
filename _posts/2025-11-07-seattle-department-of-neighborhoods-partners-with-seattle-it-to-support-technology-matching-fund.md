@@ -14,7 +14,7 @@ source_url: https://frontporch.seattle.gov/2025/11/07/seattle-department-of-neig
 summarized: true
 title: Seattle Department of Neighborhoods Partners with Seattle IT to support Technology
   Matching Fund
-topics:
+topic_titles:
 - Education & Learning
 ---
 

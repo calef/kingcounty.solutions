@@ -109,7 +109,7 @@ source: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/2025-flood-information-closures-updates-resources-and-more/
 summarized: true
 title: 2025 Flood Information – Closures, Updates, Resources, and More
-topics:
+topic_titles:
 - Food & Nutrition
 - Transportation & Mobility
 - Shelter & Housing

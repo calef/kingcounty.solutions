@@ -98,7 +98,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/making-a-home-the-power-of-community-furniture-and-fresh-starts
 summarized: true
 title: the power of community, furniture, and fresh starts
-topics:
+topic_titles:
 - Shelter & Housing
 - Personal & Household Needs
 ---

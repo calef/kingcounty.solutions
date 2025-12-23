@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/03/arts-at-king-street-station-exhibition-on-the-impacts-of-mass-incarceration/
 summarized: true
 title: ARTS at King Street Station Exhibition on the Impacts of Mass Incarceration
-topics: []
+topic_titles: []
 ---
 
 The "Arts at King Street Station" exhibition showcases the impacts of mass incarceration through various artistic expressions. This exhibition features works by artists who address themes of justice, resilience, and the societal consequences of incarceration. It aims to engage the public in conversations about the criminal justice system and its effects on individuals and communities.

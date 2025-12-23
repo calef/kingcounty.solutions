@@ -19,7 +19,7 @@ source: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/07/celebrating-captain-reed-astleys-career-and-retirement/
 summarized: true
 title: Celebrating Captain Reed Astley’s Career and Retirement
-topics:
+topic_titles:
 - Disabilities
 ---
 

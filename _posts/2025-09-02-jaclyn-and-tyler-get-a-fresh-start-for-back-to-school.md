@@ -59,7 +59,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/vn6buflo7xrt3qsqzpbu3idvdsbi8x
 summarized: true
 title: Jaclyn and Tyler get a fresh start for back-to-school
-topics:
+topic_titles:
 - Shelter & Housing
 - Disabilities
 - Financial Assistance

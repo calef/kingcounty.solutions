@@ -29,7 +29,7 @@ source: University of Washington
 source_url: https://www.washington.edu/news/2025/11/03/uw-led-study-links-wildfire-smoke-to-increased-odds-of-preterm-birth/
 summarized: true
 title: UW-led study links wildfire smoke to increased odds of preterm birth
-topics:
+topic_titles:
 - Health Care
 ---
 

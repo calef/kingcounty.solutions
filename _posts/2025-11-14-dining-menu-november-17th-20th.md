@@ -40,7 +40,7 @@ source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-november-17th-20th/
 summarized: true
 title: Dining Menu November 17th – 20th
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

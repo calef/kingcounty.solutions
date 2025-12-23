@@ -12,7 +12,7 @@ source_url: https://www.lihihousing.org/post/a-community-that-wants-affordable-h
 summarized: true
 title: NIMBYism on Bainbridge "A community that wants affordable housing... just not
   here" - Article regarding LIHI's proposed development on Bainbridge
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

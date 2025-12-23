@@ -16,7 +16,7 @@ source: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/12/emergency-flood-information-links-for-algona-auburn-and-pacific/
 summarized: true
 title: Emergency Flood Information Links for Algona, Auburn and Pacific
-topics: []
+topic_titles: []
 ---
 
 Emergency information is now available for residents of Algona, Auburn, and Pacific due to ongoing flooding conditions. Each city has provided resources to keep the public informed. For Algona, residents can visit the city’s official website for updates. Auburn residents can find information on the city's Facebook page or its official website. Pacific residents can also check for updates on their Facebook page and the city's official website. These resources aim to assist residents during the current weather event and ensure they have access to vital information.

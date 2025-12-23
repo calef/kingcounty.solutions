@@ -197,7 +197,7 @@ source: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/28th-annual-rise-and-shine-volunteer-awards/
 summarized: true
 title: 28th Annual Rise and Shine Volunteer Awards
-topics:
+topic_titles:
 - Education & Learning
 ---
 

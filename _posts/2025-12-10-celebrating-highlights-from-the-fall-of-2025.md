@@ -14,7 +14,7 @@ source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/celebrating-highlights-from-the-fall-of-2025/
 summarized: true
 title: Celebrating Highlights from the Fall of 2025
-topics: []
+topic_titles: []
 ---
 
 Snoqualmie Tribal Council members visited Washington, D.C., in September to engage with federal lawmakers and agency officials about important issues affecting the Tribe's ancestral lands and sovereignty. A key focus was the protection of Snoqualmie Falls, a sacred site listed on the National Register of Historic Places. The Council urged the Federal Aviation Administration (FAA) to take action against aircraft intrusions, citing data that revealed over 3,400 flights within a mile of the Falls in just over a year, with many operating below 900 feet. These low-altitude flights disrupt the Tribe’s traditional religious and cultural practices, which rely on the formations and pathways of the rising mists. The Council's advocacy aims to ensure the preservation of cultural heritage and environmental integrity in the region.

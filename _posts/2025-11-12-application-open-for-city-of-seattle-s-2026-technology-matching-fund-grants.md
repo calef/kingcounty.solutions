@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://techtalk.seattle.gov/2025/11/12/application-open-for-city-of-seattles-2026-technology-matching-fund-grants/
 summarized: true
 title: Application Open for City of Seattle’s 2026 Technology Matching Fund Grants
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

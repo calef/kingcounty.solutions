@@ -15,7 +15,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/13/auburn-set-message-12-13-25/
 summarized: true
 title: Auburn – Set Message – 12/13/25
-topics:
+topic_titles:
 - Shelter & Housing
 - Transportation & Mobility
 ---

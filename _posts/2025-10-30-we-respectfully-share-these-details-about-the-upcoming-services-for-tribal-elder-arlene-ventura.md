@@ -13,7 +13,7 @@ source_url: https://snoqualmietribe.us/we-respectfully-share-these-details-about
 summarized: true
 title: We respectfully share these details about the upcoming services for Tribal
   Elder Arlene Ventura
-topics: []
+topic_titles: []
 ---
 
 The Snoqualmie Tribe has announced the funeral services for Tribal Elder Arlene Ventura. The viewing and memorial tribute will be held on Nov. 5 from 4 p.m. to 7 p.m. at Flintoft’s Funeral Home in Issaquah, Washington. On Nov. 6 at 10 a.m., the funeral service will take place at the Snoqualmie Casino & Hotel Ballroom, followed by a graveside service at 12:30 p.m. in Fall City Cemetery. The community meal and remembrance program will take place from 2 p.m. to 6 p.m. at the Snoqualmie Casino & Hotel Ballroom.

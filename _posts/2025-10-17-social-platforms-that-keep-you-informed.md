@@ -12,7 +12,7 @@ source: United Way of King County
 source_url: https://www.uwkc.org/news/social-platforms-that-keep-you-informed/
 summarized: true
 title: Social platforms that keep you informed
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 - Education & Learning

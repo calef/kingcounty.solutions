@@ -13,7 +13,7 @@ source_url: https://kingcountymetro.blog/2025/10/23/king-county-metro-ridership-
 summarized: true
 title: King County Metro ridership growth second highest among nation’s largest transit
   agencies
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

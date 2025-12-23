@@ -80,7 +80,7 @@ source: Bike Works
 source_url: https://bikeworks.org/a-bike-infrastructure-advocate-is-born/?utm_source=rss&utm_medium=rss&utm_campaign=a-bike-infrastructure-advocate-is-born
 summarized: true
 title: A bike infrastructure advocate is born
-topics:
+topic_titles:
 - Education & Learning
 - Transportation & Mobility
 ---

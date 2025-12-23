@@ -209,7 +209,7 @@ source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/22/king-county-school-based-partnerships-annual-report-2024-25/
 summarized: true
 title: 'Protected: King County School-Based Partnerships Annual Report 2024-25'
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 - Mental Health & Counseling

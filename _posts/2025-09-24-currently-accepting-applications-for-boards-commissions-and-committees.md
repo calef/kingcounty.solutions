@@ -42,7 +42,7 @@ source: City of Tukwila
 source_url: https://www.tukwilawa.gov/currently-accepting-applications-for-boards-commissions-and-committees-2/
 summarized: true
 title: Currently Accepting Applications for Boards, Commissions and Committees
-topics: []
+topic_titles: []
 ---
 
 The city of Tukwila is currently seeking applications for various vacant positions on its boards, commissions, and committees. These include a business representative and a student representative for the Community-Oriented Policing Citizens Advisory Board (COPCAB), business positions for the Lodging Tax Advisory Committee (LTAC), a community position and a student representative for the Park Commission, and a business representative for the Planning Commission. Applications are encouraged from all backgrounds and should be submitted to the mayor's office by 5 p.m. on October 31, 2025. For more information, call 206-433-1850 or visit [TukwilaWA.gov/boards](https://www.tukwilawa.gov/currently-accepting-applications-for-boards-commissions-and-committees-2/).

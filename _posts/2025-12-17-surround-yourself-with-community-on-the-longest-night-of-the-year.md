@@ -16,7 +16,7 @@ source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/16/surround-yourself-with-community-on-the-longest-night-of-the-year/
 summarized: true
 title: Surround Yourself with Community on the Longest Night of the Year
-topics: []
+topic_titles: []
 ---
 
 Join the winter solstice celebration at King Street Station in Seattle on Dec. 21, the longest night of the year. The event, curated by Vee Hua, will feature art, music, and community activities focused on connection and reflection. Attendees can expect interactive installations, live performances, and a chance to share stories and experiences in a welcoming environment. The celebration encourages participants to engage with the themes of light and darkness, fostering a sense of belonging during this season of introspection. The event aims to create a magical atmosphere where people can come together and celebrate the community spirit.

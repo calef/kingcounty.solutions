@@ -234,7 +234,7 @@ source_url: https://wscenter.org/event/conversation-circle-group-2/2026-01-06/
 start_date: '2026-01-06T13:00:00-08:00'
 summarized: true
 title: 'Conversation Circle - Group #2'
-topics: []
+topic_titles: []
 ---
 
 Join the Conversation Circle - Group #2 on Jan. 6, 2026, at 1 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This event provides a welcoming space for participants to engage in meaningful discussions and share their thoughts on various topics. Attendees can expect to connect with others in the community, enhance their communication skills, and foster friendships in a supportive environment. Whether you are looking to express your ideas or simply listen, this gathering offers an enriching experience for all.

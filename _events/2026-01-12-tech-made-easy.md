@@ -95,7 +95,7 @@ source_url: https://wscenter.org/event/digital-discussions-2-2-2-2-2/2026-01-12/
 start_date: '2026-01-12T15:00:00-08:00'
 summarized: true
 title: Tech Made Easy
-topics:
+topic_titles:
 - Education & Learning
 - Senior Services
 ---

@@ -54,7 +54,7 @@ source_url: https://news.va.gov/143648/va-research-wrap-up-gastric-cancer-kidney
 summarized: true
 title: 'VA Research Wrap Up: New findings on gastric cancer, chronic kidney disease
   and multiple sclerosis'
-topics:
+topic_titles:
 - Health Care
 ---
 

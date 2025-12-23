@@ -294,7 +294,7 @@ source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/cuentos-from-our-work-december-2025/
 summarized: true
 title: 'Cuentos from Our Work: DECEMBER 2025'
-topics:
+topic_titles:
 - Childcare
 ---
 

@@ -7709,7 +7709,7 @@ source_url: https://nosscr.org/event/first-circuit-virtual-meeting/
 start_date: '2026-01-08T14:30:00-05:00'
 summarized: true
 title: First Circuit Virtual Meeting
-topics: []
+topic_titles: []
 ---
 
 Join us for the First Circuit Virtual Meeting on Jan. 8, 2026, starting at 2:30 p.m. EST. This online gathering offers an opportunity for community members to engage in discussions about important circuit matters, share insights, and collaborate on future initiatives. Attendees can expect to connect with fellow participants, ask questions, and contribute to meaningful conversations that impact our community. Don't miss this chance to be part of the dialogue and help shape the future of our circuit!

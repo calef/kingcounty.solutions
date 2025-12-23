@@ -42,7 +42,7 @@ source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/october-is-breast-cancer-awareness-month/
 summarized: true
 title: October is Breast Cancer Awareness Month
-topics:
+topic_titles:
 - Health Care
 ---
 

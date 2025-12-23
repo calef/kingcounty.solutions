@@ -17,7 +17,7 @@ source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/its-thanksgiving-got-some-time-to-help/?utm_source=rss&utm_medium=rss&utm_campaign=its-thanksgiving-got-some-time-to-help
 summarized: true
 title: It’s Thanksgiving! Got some time to help?
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

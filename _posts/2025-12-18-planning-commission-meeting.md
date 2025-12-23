@@ -16,7 +16,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27541
 summarized: true
 title: Planning Commission Meeting
-topics: []
+topic_titles: []
 ---
 
 The Planning Commission will hold a meeting on January 6, 2026, at 6:00 p.m. Details regarding the meeting agendas can be accessed through a provided link.

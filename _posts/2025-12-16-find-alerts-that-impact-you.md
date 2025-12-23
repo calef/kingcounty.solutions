@@ -20,7 +20,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/15/find-alerts-that-impact-you/
 summarized: true
 title: Find alerts that impact you
-topics: []
+topic_titles: []
 ---
 
 King County has launched an Emergency Alerts Mapping Tool to help the public find information about emergency evacuation alerts. This tool was created in response to a high volume of requests for details on specific locations affected by such alerts. While the tool is currently experimental and may not be flawless, it is receiving regular updates to ensure the information is accurate. Users can enter their addresses in the search bar to access relevant alerts in their area.

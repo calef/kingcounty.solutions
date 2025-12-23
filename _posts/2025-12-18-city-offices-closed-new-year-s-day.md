@@ -13,7 +13,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27481
 summarized: true
 title: City Offices Closed - New Year's Day
-topics: []
+topic_titles: []
 ---
 
 The City of Black Diamond will host a special event on January 1, 2026. The event will take place all day, although specific details about activities and location are not provided. Residents and visitors are encouraged to participate and celebrate the day together. More information will be available closer to the event date.

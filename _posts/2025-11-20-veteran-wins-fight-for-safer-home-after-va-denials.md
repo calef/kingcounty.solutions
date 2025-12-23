@@ -88,7 +88,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/veteran-wins-fight-for-safer-home-after-va-denials/
 summarized: true
 title: Veteran wins fight for safer home after VA denials
-topics:
+topic_titles:
 - Disabilities
 - Shelter & Housing
 ---

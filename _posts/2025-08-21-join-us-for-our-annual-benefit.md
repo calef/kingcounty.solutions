@@ -35,7 +35,7 @@ source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-ydpck
 summarized: true
 title: Join us for our Annual Benefit!
-topics:
+topic_titles:
 - Health Care
 - Food & Nutrition
 - Transportation & Mobility

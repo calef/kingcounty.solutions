@@ -15,7 +15,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/new-hope-family-housing-starts-construction
 summarized: true
 title: New Hope Family Housing starts construction!
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

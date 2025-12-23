@@ -234,7 +234,7 @@ source_url: https://wscenter.org/event/line-dancing-level-2-advanced-2-2/2026-01
 start_date: '2026-01-05T12:00:00-08:00'
 summarized: true
 title: Line Dancing Level 2 Advanced
-topics: []
+topic_titles: []
 ---
 
 Join us for Line Dancing Level 2 Advanced at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. Starting on Jan. 5, 2026, at noon, this class is perfect for those looking to refine their skills and learn more complex line dance routines. Participants can expect a fun and energetic atmosphere while improving their technique and meeting fellow dance enthusiasts. Don't miss this opportunity to enhance your line dancing experience!

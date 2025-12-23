@@ -21,7 +21,7 @@ source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/06/seattles-new-waste-metrics-measuring-what-matters-most/
 summarized: true
 title: 'Seattle’s New Waste Metrics: Measuring What Matters Most'
-topics: []
+topic_titles: []
 ---
 
 Seattle Public Utilities has implemented new solid waste metrics to enhance the city's approach to waste management, moving beyond traditional recycling rates to focus on waste prevention and reduction. The new performance framework includes five key metrics: daily pounds of municipal solid waste (MSW) generated and disposed of per person, annual tons of food waste disposed of, residential recycling capture rate, and construction and demolition debris diversion rate. These metrics aim for a 15% reduction in waste generation by 2030, aligning with Seattle's zero-waste vision and best practices from global leaders.

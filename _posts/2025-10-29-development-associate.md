@@ -12,7 +12,7 @@ source: Lahai Health Counseling
 source_url: https://lahai.org/employment/development-associate/
 summarized: true
 title: Development Associate
-topics:
+topic_titles:
 - Health Care
 - Employment & Job Support
 ---

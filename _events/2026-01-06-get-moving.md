@@ -232,7 +232,7 @@ source_url: https://wscenter.org/event/get-moving/2026-01-06/
 start_date: '2026-01-06T09:30:00-08:00'
 summarized: true
 title: Get Moving!
-topics: []
+topic_titles: []
 ---
 
 Join the community for "Get Moving!" at The Center for Active Living, located at 4217 SW Oregon St. in Seattle, on Jan. 6, 2026, starting at 9:30 a.m. This engaging event encourages participants to embrace physical activity through various fun and interactive exercises suitable for all fitness levels. Attendees can expect a supportive atmosphere, opportunities to learn new movement techniques, and the chance to connect with others who share a commitment to healthy living. Don’t miss this opportunity to kickstart your fitness journey in the new year!
