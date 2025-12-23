@@ -63,7 +63,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriorit
   an outlet for people to serve veterans.</p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/the-future-of-dav-belongs-to-those-who-serve/\">The
   future of DAV belongs to those who serve</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/the-future-of-dav-belongs-to-those-who-serve/

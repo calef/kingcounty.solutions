@@ -35,7 +35,7 @@ feed_content: |-
 
   _The Snoqualmie Indian Tribe is a federally recognized tribe in the Puget Sound region of Washington State. Known as the People of the Moon, Snoqualmie were signatories to the Treaty of Point Elliott in 1855. For more information visit_ [_www.snoqualmietribe.us_](http://www.snoqualmietribe.us)
 image_ids: []
-locations:
+location_titles:
 - Snoqualmie Valley
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/snoqualmie-indian-tribe-donates-over-1-million-in-charitable-donations-in-2025/

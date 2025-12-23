@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: We’re thrilled to share that the results are in from our recent  Community
   Feedback Survey!   At Friends of Youth, we believe that the...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/strategic-plan-update-and-engagement-form

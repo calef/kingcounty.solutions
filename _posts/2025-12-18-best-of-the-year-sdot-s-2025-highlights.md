@@ -8,7 +8,7 @@ feed_content: 'Blog stats: 1,000 words | 5-minute read 2025 was another major ye
   and more....'
 feed_content_checksum: 37969fb524146af11f432eb923fbd1115be8320b
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: 'Blog stats: 1,000 words | 5-minute read 2025 was another major
   year for the Seattle Department of Transportation (SDOT) as we served your everyday

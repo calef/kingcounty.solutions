@@ -7,7 +7,7 @@ feed_content: Ryan, the Seattle Police Department’s “Comfort Dog,” is stil
   Ryan, who is a five-year-old English Labrador Retriever, has been with SPD for nearly...
 feed_content_checksum: 904ee0f8b7aa7cd56a026cc15608a8e5a16ca6e0
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/09/comfort-dog-ryan-is-still-a-good-boy/

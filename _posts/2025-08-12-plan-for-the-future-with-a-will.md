@@ -19,7 +19,7 @@ feed_content: |-
 
   The post [Plan for the future with a will](https://elap.org/plan-for-the-future-with-a-will/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Eastside Legal Assistance Program
 source_url: https://elap.org/plan-for-the-future-with-a-will/?utm_source=rss&utm_medium=rss&utm_campaign=plan-for-the-future-with-a-will

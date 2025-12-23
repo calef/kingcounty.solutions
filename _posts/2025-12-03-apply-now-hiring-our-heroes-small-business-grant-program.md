@@ -43,7 +43,7 @@ feed_content: |-
 
   <p>Learn more about the program and meet all five 2025 grant winners <a href="https://www.hiringourheroes.org/stories/2025-small-business-award/" rel="noopener">online</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143742/apply-now-small-business-grant-program/

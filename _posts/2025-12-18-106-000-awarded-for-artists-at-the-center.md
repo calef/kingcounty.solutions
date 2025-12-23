@@ -6,7 +6,7 @@ feed_content: Artists at the Center is a multi-year collaboration between Seattl
   is made possib...
 feed_content_checksum: 622f13a3e7ce3d4007376112545e5981f87d3340
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Artists at the Center is a multi-year collaboration between
   Seattle Office of Arts &amp; Culture and Seattle Center, with support from Uptown

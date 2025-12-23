@@ -6,7 +6,7 @@ feed_content: The holidays are over, but your Christmas tree doesn’t have to e
   is an easy way ...
 feed_content_checksum: 54a1727512ed3e40ceb5240831254070631f9074
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: The holidays are over, but your Christmas tree doesn’t have
   to end up in the landfill! Seattle Public Utilities customers can compost their

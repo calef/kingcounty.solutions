@@ -15,7 +15,7 @@ feed_content: "<p><span> </span></p> <p><span>Under a contract between the City
   <p><span><font>For more information on pet licensing <a>click here</a>. </font></span></p>"
 feed_content_checksum: ccf10b20ff20d865db997df8edb3bf6e9d425422
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<p><span> </span></p> <p><span>Under a contract between the
   City and Burien CARES, a dedicated animal control position will be back in service

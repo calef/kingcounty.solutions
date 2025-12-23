@@ -13,7 +13,7 @@ feed_content: |-
 
   <p>At The &hellip;</p></a>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: The Center for Active Living
 source_url: https://wscenter.org/mark-your-calendar-for-giving-tuesday/

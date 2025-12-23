@@ -70,7 +70,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_5 et_section_regular\" >
   puzzles or games, warm drinks, and good conversation. Those simple, grounding moments
   mean the most to me.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Inatai Foundation
 source_url: https://inatai.org/news/meet-grace-tissell/

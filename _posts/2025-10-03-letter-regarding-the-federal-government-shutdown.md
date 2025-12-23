@@ -7,7 +7,7 @@ feed_content: |-
 
   [Download the letter (PDF format)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Federal-Shutdown-Letter-to-Membership.pdf)
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/letter-regarding-the-federal-government-shutdown/

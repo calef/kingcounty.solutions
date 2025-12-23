@@ -5,7 +5,7 @@ feed_content: The crew of the King County Water Taxi Sally Fox saw the person on
   Elliott Bay on March 16. As they boarded passengers for the late morning trip back
   to downtown Seattle, Deckhand Zack Klaja noticed a person standing on&#8230;
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/02/they-have-enormous-hearts-water-taxi-crew-helps-person-in-distress/

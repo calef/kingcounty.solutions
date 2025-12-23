@@ -7,7 +7,7 @@ feed_content: Hello, This message is for residents and businesses near S. 277th 
   into […]
 feed_content_checksum: 64b59834896993cd96559f50b613fa229c18ece5
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://kcemergency.com/2025/12/11/fuel-odor-advisory/

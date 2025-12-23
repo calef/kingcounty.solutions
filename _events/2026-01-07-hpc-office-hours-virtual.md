@@ -12,7 +12,7 @@ feed_content: "<div> <a>Skip to Main Content</a> </div> <div> <a>Accessibility O
 feed_content_checksum: cd3621e02512c9e8d554310368a724f09e864c03
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: "<!doctype html>\n<html xmlns:fb=\"http://ogp.me/ns/fb#\" lang=\"en-US\">\n<head

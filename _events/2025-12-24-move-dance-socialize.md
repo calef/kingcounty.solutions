@@ -41,7 +41,7 @@ feed_content_checksum: d86ab5b4ec23f9c6de18270a29271774ab6aefe5
 image_ids: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
-locations:
+location_titles:
 - King County
 organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/move-dance-socialize/2025-12-24/

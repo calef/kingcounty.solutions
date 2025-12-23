@@ -7,7 +7,7 @@ feed_content: What’s better than signing up for emergency alerts during a cris
   area. It […]
 feed_content_checksum: 57aa2796f3e5ae5e27f1fcff37054171a80a75ad
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: What’s better than signing up for emergency alerts during a
   crisis? Signing up BEFORE the crisis, to ensure you get critical information to

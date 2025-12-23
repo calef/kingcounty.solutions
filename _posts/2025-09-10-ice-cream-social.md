@@ -8,7 +8,7 @@ feed_content: |-
   <p style="text-align: center;">Thank you to everyone who joined us for an evening of connection, conversation, and (of course) delicious treats!</p>
   </div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Washington Center for Deaf and Hard of Hearing Youth
 source_url: https://www.cdhy.wa.gov/ice-cream-social/

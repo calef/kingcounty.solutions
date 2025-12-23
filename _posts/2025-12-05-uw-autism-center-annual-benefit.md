@@ -130,7 +130,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
 image_ids:
 - f03690d23e66d1ec4375536dfeed1ab8687e909ab71fa58f702ebb3027e22636
 - 0d3bddaa32fd10f1c058d066cad12caccb429a7945ea292f8026a8b74abb1c04
-locations:
+location_titles:
 - King County
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/05/uw-autism-center-annual-benefit/

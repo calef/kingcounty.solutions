@@ -10,7 +10,7 @@ feed_content: |-
   Geologically hazardous areas</p>
   </div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Medina
 source_url: https://www.medina-wa.gov/developmentservices/page/critical-areas-ordinance-update-0

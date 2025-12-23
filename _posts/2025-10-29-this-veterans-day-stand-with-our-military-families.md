@@ -46,7 +46,7 @@ feed_content: |-
   <p class="has-normal-font-size">Media Inquiries: <br>Erin Burgy, Senior Director, Integrated Public Relations<br><a href="mailto:Erin.Burgy@OperationHomefront.org">Email Erin</a> or (469) 934-7131</p>
   <p>The post <a href="https://operationhomefront.org/this-veterans-day-stand-with-our-military-families/">This Veterans Day, Stand with Our Military Families</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/this-veterans-day-stand-with-our-military-families/

@@ -8,7 +8,7 @@ feed_content: |-
   <p>Verdant’s generous contribution does more than help us rebuild—it demonstrates a shared priority of healing, connection, and hope in our community. This commitment to behavioral healthcare demonstrates the profound impact of collaboration and shared purpose in community wellbeing.</p>
   <p>On behalf of our staff, clients, and board of directors, we extend our heartfelt thanks to Verdant Health Commission for standing with us in this rebuilding journey. Your support ensures that the families we serve continue to have access to the compassionate care they deserve.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Center for Human Services
 source_url: https://www.chs-nw.org/2025/10/23/thank-you-verdant-health-commission/

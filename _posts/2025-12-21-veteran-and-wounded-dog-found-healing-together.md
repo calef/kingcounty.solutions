@@ -67,7 +67,7 @@ feed_content: |-
 feed_content_checksum: 947a2b15e7756d8c6e5a0e502302fbff47b1db34
 image_ids:
 - f41a1dd64b5c718238574757187cab00c0039c9fc3ccda2fb2c7330ab4b6e022
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <h2>A bond forged in service</h2>

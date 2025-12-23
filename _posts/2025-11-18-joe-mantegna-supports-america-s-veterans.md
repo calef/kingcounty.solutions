@@ -53,7 +53,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachm
   Mantegna supports America’s veterans</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_ids:
 - 036b742a57d78c535ec5a3566af1459bc7e05c6478a5a6bc6c5bfbced346f04a
-locations:
+location_titles:
 - King County
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/joe-mantegna-supports-americas-veterans/

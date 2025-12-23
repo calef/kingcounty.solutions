@@ -81,7 +81,7 @@ feed_content: |-
 
   <p>You’ve had someone watch your back before, and you still do. Peer support means someone’s in your corner, ready to step in when you need it. Together, tomorrow can look a whole lot brighter.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143159/unbreakable-link-veteran-peer-support-lifeline/

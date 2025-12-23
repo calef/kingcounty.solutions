@@ -7,7 +7,7 @@ feed_content: This annual tradition returns to Green Lake on Saturday, December 
   of Lights, a FREE winter event for the whole family! On Saturday, December 13, 2025,
   from 4:30-...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/26/seattle-shines-with-the-annual-2025-pathway-of-lights-at-green-lake-park/

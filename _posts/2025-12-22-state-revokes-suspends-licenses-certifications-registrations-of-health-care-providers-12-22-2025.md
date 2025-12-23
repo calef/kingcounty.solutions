@@ -59,7 +59,7 @@ feed_content: "<span>State revokes, suspends licenses, certifications, registrat
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: 37f01e86fd2ddeeac193fe31b1320a6da1cc9f9c
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<span>State revokes, suspends licenses, certifications, registrations
   of health care providers (12-22-2025)</span>\n\n            <div>\n<time>December

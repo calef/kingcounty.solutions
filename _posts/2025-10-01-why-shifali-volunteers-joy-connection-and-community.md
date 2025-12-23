@@ -82,7 +82,7 @@ feed_content: "<p class=\"\">When Shifali moved to Seattle, she was looking for 
   \ </a>"
 image_ids:
 - 2f913eff6348b576ac8db4ee09184ae9bf3906afac0bed178231a162a1f9eb0d
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/why-shifali-volunteers-joy-connection-and-community

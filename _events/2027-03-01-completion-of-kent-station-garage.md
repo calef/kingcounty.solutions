@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Kent Station
-locations:
+location_titles:
 - Kent
 organization_title: Sound Transit
 published: false

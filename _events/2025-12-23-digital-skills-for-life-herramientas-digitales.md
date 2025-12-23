@@ -48,7 +48,7 @@ feed_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <h1>D
 feed_content_checksum: d40ba503f12a583f3a19537b84e013dc5255ba30
 image_ids: []
 location: WA
-locations:
+location_titles:
 - King County
 organization_title: El Centro de la Raza
 original_source_html: "<!doctype html><html lang=\"en-US\"><head><meta charset=\"UTF-8\"><meta

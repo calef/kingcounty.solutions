@@ -95,7 +95,7 @@ feed_content: "<p class=\"\">Every day, the King County Family Intake Line, oper
   \ \n  \n\n\n\n\n\n\n\n\n  <iframe scrolling=\"no\" allowfullscreen src=\"//www.youtube.com/embed/Bx8cv44rIT4?wmode=opaque\"
   width=\"854\" frameborder=\"0\" height=\"480\"></iframe>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/when-shelters-are-full-how-community-outreach-fills-critical-gaps-in-family-services

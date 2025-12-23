@@ -49,7 +49,7 @@ feed_content: |-
   <p>The post <a>Transforming Age Welcomes Mark Heston as Chief Human Resources Officer</a> appeared first on <a>Transforming Age | Senior Housing, Community Services, Philanthropy, Technology &amp; Partnerships</a>.</p>
 feed_content_checksum: 35f4ecf83cc60592ed229d92f743f41a293e35e9
 image_ids: []
-locations: []
+location_titles: []
 original_source_html: |-
   <p></p>
 

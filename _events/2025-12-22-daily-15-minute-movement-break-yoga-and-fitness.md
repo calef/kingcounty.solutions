@@ -10,7 +10,7 @@ feed_content: "<div> <div> <header> <h3>UW NetID sign-in - Stale Request</h3> </
 feed_content_checksum: 35b6b98b892cd0171035cd60691a0a1999a2728e
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: "\t<!DOCTYPE html>\n<html>\n  \t<head>\n    \t<meta charset=\"utf-8\">\n

@@ -93,7 +93,7 @@ feed_content: |-
 
   <p>Visit&nbsp;<a href="https://www.myhealth.va.gov/mhv-portal-web/home" rel="noopener">My HealtheVet</a>&nbsp;to learn tips and tools to help you partner with your health care team, so together, you may work to manage your health.&nbsp;</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143361/cancer-care-well-being-empowers-veterans/

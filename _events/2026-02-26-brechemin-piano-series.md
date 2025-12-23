@@ -4,7 +4,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>UW
   perform music from the piano repertoire. </p> <p> </p> <p> </p> </div> </div>
 image_ids: []
 location: Music Building (MUS)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

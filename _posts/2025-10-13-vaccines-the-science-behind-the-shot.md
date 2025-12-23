@@ -12,7 +12,7 @@ feed_content: |-
   <p>When: Thursday, 12/11<br>2:15 pm—3:15<br>Location: Craft Room<br>Cost: FREE</p>
   <p>The post <a href="https://shorelinelfpseniorcenter.org/vaccines-the-science-behind-the-shot/">Vaccines: The Science Behind the Shot</a> appeared first on <a href="https://shorelinelfpseniorcenter.org">Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/vaccines-the-science-behind-the-shot/

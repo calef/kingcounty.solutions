@@ -7,7 +7,7 @@ feed_content: |-
   <p>The post <a>How to help Seattle families impacted by SNAP cuts</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: fce162f499d236a76d30f17c1877f05c700ee560
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/how-to-help-seattle-families-impacted-by-snap-cuts/

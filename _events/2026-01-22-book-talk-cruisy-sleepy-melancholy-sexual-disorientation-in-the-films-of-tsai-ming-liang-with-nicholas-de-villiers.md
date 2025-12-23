@@ -5,7 +5,7 @@ feed_content: '<div id="error-message" style="display: none"> <div class="messag
   wrong. Please click "Refresh" to try again. </div> </div> </div>'
 image_ids: []
 location: Thomson Hall (THO)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

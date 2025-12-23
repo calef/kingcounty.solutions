@@ -123,7 +123,7 @@ image_ids:
 - 359c981ac0c478972e7ed230189a6acfe36a47d673d4ce3b5dd0c0978ce85277
 - 6afb541efe96d349a8ebf382af431c52ed61643bcd3e8b8528e7091697c5585f
 - 119c087614e953e9a28a965bd4dc6d9f4fae9abda6926df4c0a7729ceb999af6
-locations:
+location_titles:
 - King County
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/?utm_source=rss&utm_medium=rss&utm_campaign=2025-uncork-the-night-chairs

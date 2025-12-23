@@ -7,7 +7,7 @@ feed_content: "” A long time ago, the sky was too low. Tall people kept bumpin
   different languages but realized they only needed to know one word in common to
   understand each other..."
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/21/growing-community-y%C9%99haw%CC%93-indigenous-creatives-collective-rematriates-land-to-build-native-led-arts-and-culture-space/

@@ -11,7 +11,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   organizational change initiatives. As the Organizational Change Manager, I lead
   a team of four in developing and implementing strategies and [&#8230;]'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/09/29/seattle-city-spotlight-kristina-pham-enterprise-organizational-change-manager/

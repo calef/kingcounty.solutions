@@ -6,7 +6,7 @@ feed_content: Winter season has arrived and King County Metro’s tools will hel
   stay informed so you can travel safely. Know before you go Visit MetroWinter.com
   for tips on traveling during winter weather...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/04/tips-for-traveling-with-king-county-metro-this-winter-season-2/

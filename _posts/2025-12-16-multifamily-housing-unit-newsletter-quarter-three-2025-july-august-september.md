@@ -397,7 +397,7 @@ image_ids:
 - c740b2585720089b98db94faa59f770f73f15400ea421a55fb61334b4aa92fbd
 - 37389fb411e713d289d698806c6dffe54a5dce5a839685a8769120d312435521
 - 9696e5abb2983a959779a0c0add91934cc760a123be34234a460fe542c0e0f5a
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <figure><img src="https://www.commerce.wa.gov/wp-content/uploads/2025/12/Fall-sunset-1024x495.jpeg"></figure>

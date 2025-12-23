@@ -7,7 +7,7 @@ feed_content: |-
 
   <p>Road Trip Across the USA-16 States, 9 National Parks and Monuments, and Crazy Road-Side Attractions.<strong> </strong>In June 2021, Anita embarked on a spirited cross-country road trip that blended scenic exploration with personal reflection. The journey spanned diverse landscapes and quirky roadside attractions, capturing the essence of Americana through her lens. From unexpected detours to charming small towns, Anita highlights her signature blend of humor, curiosity, and appreciation for the open road. Each stop became a snapshot of discovery—whether it was savoring local flavors, reconnecting with nature, or simply embracing the joy of movement.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/travels-with-anita-road-trip-usa-presentation/

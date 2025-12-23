@@ -6,7 +6,7 @@ feed_content: On January 14, the Seattle Police Department will launch the first
   neighborhood by...
 feed_content_checksum: f254ed30dc30be2d331c4d84364bc2fb28e983f9
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/08/seattle-police-department-launches-our-city-our-safety-2026-a-community-conversation-series-for-seattleites/

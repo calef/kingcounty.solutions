@@ -331,7 +331,7 @@ feed_content: "<div class=\"shell\" lang=\"en-US\" dir=\"ltr\" style=\"backgroun
   </p> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </td> </tr> </tbody>
   </table> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </div>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Jubilee Women's Center
 source_url: https://conta.cc/42T8NtK#new_tab

@@ -98,8 +98,8 @@ module Mayhem
         end
         if front_matter['summarized'] == true
           stats[:skipped_already_summarized] += 1
-          needs_locations = !front_matter.key?('locations')
-          if needs_locations
+          needs_location_titles = !front_matter.key?('location_titles')
+          if needs_location_titles
             summary_text = document.body&.strip || ''
             classified_locations = @location_classifier.classify(
               summary_text,
@@ -107,7 +107,7 @@ module Mayhem
               content_location: front_matter['location'],
               content_source: front_matter['organization_title']
             )
-            front_matter['locations'] = classified_locations
+            front_matter['location_titles'] = classified_locations
             document.front_matter = front_matter
             document.save
 
@@ -124,8 +124,8 @@ module Mayhem
 
         needs_summary = front_matter['summarized'] != true
         needs_topics = needs_classification?(front_matter, 'topics')
-        needs_locations = needs_classification?(front_matter, 'locations')
-        return unless needs_summary || needs_topics || needs_locations
+        needs_location_titles = needs_classification?(front_matter, 'location_titles')
+        return unless needs_summary || needs_topics || needs_location_titles
 
         generated_from_post = front_matter['generated_from_post'] == true
         source_url = front_matter['source_url']
@@ -200,23 +200,23 @@ module Mayhem
           end
         end
 
-        if needs_locations
+        if needs_location_titles
           classified_locations = @location_classifier.classify(
             summary_text,
             content_title: front_matter['title'],
             content_location: front_matter['location'],
             content_source: front_matter['organization_title']
           )
-          front_matter['locations'] = classified_locations
+          front_matter['location_titles'] = classified_locations
           if classified_locations.empty?
             @logger.info "No locations matched for #{file_path}"
             stats[:missing_locations] += 1
           end
         end
 
-        # Set published to false if either topics or locations are empty
+        # Set published to false if either topics or location titles are empty
         should_unpublish = (needs_topics && Array(front_matter['topics']).empty?) ||
-                           (needs_locations && Array(front_matter['locations']).empty?)
+                           (needs_location_titles && Array(front_matter['location_titles']).empty?)
 
         document.front_matter = front_matter
         document.save
@@ -370,7 +370,7 @@ module Mayhem
         stats[:failed_summary] += 1
 
         front_matter['topics'] ||= []
-        front_matter['locations'] ||= []
+        front_matter['location_titles'] ||= []
         front_matter['published'] = false
         front_matter['summarized'] = true
         document.front_matter = front_matter

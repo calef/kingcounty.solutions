@@ -56,7 +56,7 @@ feed_content: "### ![](https://encompassnw.org/wp-content/uploads/2025/10/Telehe
   post [Telehealth: Helping Your Child Thrive—From Home!](https://encompassnw.org/telehealth-helping-your-child-thrive-from-home/)
   first appeared on [Encompass](https://encompassnw.org)."
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Encompass
 source_url: https://encompassnw.org/telehealth-helping-your-child-thrive-from-home/

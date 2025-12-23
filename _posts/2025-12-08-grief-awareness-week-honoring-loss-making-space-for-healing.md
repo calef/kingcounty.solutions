@@ -83,7 +83,7 @@ feed_content: |-
   <p>The post <a>Grief Awareness Week: Honoring Loss, Making Space for Healing</a> appeared first on <a>Vibrant Emotional Health</a>.</p>
 feed_content_checksum: 75b703b21ef3a1661d6b325c03c4197a6df5040b
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/grief-awareness-week-honoring-loss-making-space-for-healing/

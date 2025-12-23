@@ -110,7 +110,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 034ac67d46e8f4534386e537c687f7f148d78765
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143690/lifetime-service-healing-overcoming-cancer/

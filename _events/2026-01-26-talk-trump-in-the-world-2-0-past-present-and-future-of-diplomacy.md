@@ -12,7 +12,7 @@ feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "n
 feed_content_checksum: 6873c43a63af7a4b64851c735ad52c3e5b75869c
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

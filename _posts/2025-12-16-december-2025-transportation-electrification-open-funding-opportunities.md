@@ -107,7 +107,7 @@ feed_content: |-
   <p>For a list of previous and future funding opportunities please refer to the <a>EV Council Program Catalog</a>.</p>
 feed_content_checksum: d14e766620aedc18384b4b1522834dd8856b5f47
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p><a>U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program</a></p>

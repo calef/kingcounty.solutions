@@ -51,7 +51,7 @@ feed_content: "<div><div><span>Did you know we offer virtual office hours every 
 feed_content_checksum: 073a987a5f907bbb91fb255305227b6606b2da77
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Dispute Resolution Center of King County
 published: false

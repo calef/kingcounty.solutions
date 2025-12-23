@@ -382,7 +382,7 @@ image_ids:
 - 2012afada53efd30b867d7a9594648accbef48ce1ec4dd30de20db57cf10d4f1
 - ddf4c8660f0d3e6dc867690236609aab4a8f57ffa161887fdda0f62c051bc58f
 - 3675513e57f439d3242d5cad1b6603932f8c290b2b723351b7d815bda59fd764
-locations:
+location_titles:
 - King County
 source: Solid Ground
 source_url: https://www.solid-ground.org/new-at-the-farm-drip-irrigation-a-giant-pumpkin-and-twice-as-much-pizza-dough/

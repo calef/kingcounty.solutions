@@ -9,7 +9,7 @@ feed_content: <div><p paraid="1335489336" paraeid="{9790bcc5-73d6-4f92-ac30-a107
   to the Federal Way Downtown Station, stopping at Kent Des Moines and Star Lake stations
   along the way.</p></div>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/final-testing-underway-federal-way-link-extension

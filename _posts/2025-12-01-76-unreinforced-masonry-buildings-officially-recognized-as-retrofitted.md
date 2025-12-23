@@ -5,7 +5,7 @@ feed_content: We maintain a database of more than 1100 unreinforced masonry (URM
   threat to public safety if left un-retrofitted. If you own a retrofitted building,
   or are a design pro...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/76-unreinforced-masonry-buildings-officially-recognized-as-retrofitted/

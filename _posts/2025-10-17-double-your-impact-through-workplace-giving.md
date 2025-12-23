@@ -63,7 +63,7 @@ feed_content: |-
   <p>The post <a href="https://www.brightspark.org/2025/10/double-your-impact-through-workplace-giving/">Double Your Impact Through Workplace Giving!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
 image_ids:
 - b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
-locations:
+location_titles:
 - King County
 source: BrightSpark
 source_url: https://www.brightspark.org/2025/10/double-your-impact-through-workplace-giving/

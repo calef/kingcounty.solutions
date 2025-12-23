@@ -8,7 +8,7 @@ feed_content: |-
   <p><strong><a href="https://communityrootshousing.org/current-residents/resident-services/emergency-rental-assistance/">Learn more about the expanded Emergency Rental Assistance program.</a></strong></p>
   <p>The post <a href="https://communityrootshousing.org/2025/08/emergency-rental-assistance/">Government Shutdown Emergency Rental Assistance program</a> appeared first on <a href="https://communityrootshousing.org">Community Roots Housing</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/08/emergency-rental-assistance/

@@ -4,7 +4,7 @@ feed_content: '<div id="init_data" style="display: none"> {"original_url":"/uwbg
   </div> <div id="root"> <div id="loading_table">Loading </div> </div>'
 image_ids: []
 location: Online via Zoom
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

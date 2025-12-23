@@ -77,7 +77,7 @@ feed_content: |-
 
   <p><a href="https://islandrootshousing.org/">You can learn more about Island Roots Housing on their website</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/generations-place-a-community-effort-to-house-langley-workers-for-generations-to-come/

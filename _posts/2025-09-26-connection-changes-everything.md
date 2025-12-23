@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: For older adults, isolation can have serious consequences. Studies show
   that loneliness can lead to depression, cognitive decline, and...
 image_ids: []
-locations:
+location_titles:
 - Eastside
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/connection-changes-everything

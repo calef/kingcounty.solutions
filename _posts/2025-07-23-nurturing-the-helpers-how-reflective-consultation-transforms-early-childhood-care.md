@@ -45,7 +45,7 @@ feed_content: |-
 
   The post [Nurturing the Helpers: How Reflective Consultation Transforms Early Childhood Care](https://encompassnw.org/nurturing-the-helpers-how-reflective-consultation-transforms-early-childhood-care/) first appeared on [Encompass](https://encompassnw.org).
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Encompass
 source_url: https://encompassnw.org/nurturing-the-helpers-how-reflective-consultation-transforms-early-childhood-care/

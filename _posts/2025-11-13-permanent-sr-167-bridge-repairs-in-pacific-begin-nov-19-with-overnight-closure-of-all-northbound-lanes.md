@@ -6,7 +6,7 @@ feed_content: PACIFIC – Permanent repairs are set to begin on the northbound S
   highway between Stewart and Ellingson roads will close Wednesday night, Nov. 19.
   When traffic reopens the next morning, there will be just one northbound lane.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/permanent-sr-167-bridge-repairs-pacific-begin-nov-19-overnight-closure-all-northbound-lanes

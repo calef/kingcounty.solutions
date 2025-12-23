@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Seattle
-locations:
+location_titles:
 - King County
 organization_title: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/programming-updates-co-and-sv/

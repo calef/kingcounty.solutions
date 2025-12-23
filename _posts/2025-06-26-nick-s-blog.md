@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: <p>The post <a href="https://www.kcsarc.org/en/nicks-blog/">Nick&#8217;s
   Blog</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/nicks-blog/

@@ -40,7 +40,7 @@ feed_content: |-
   </ul>
   <p><span data-contrast="auto">Happy Reading and Sharing!</span><span data-ccp-props="{}"> </span></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/

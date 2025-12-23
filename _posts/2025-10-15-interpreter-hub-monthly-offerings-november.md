@@ -49,7 +49,7 @@ feed_content: |-
 image_ids:
 - 030117ac8f02615f535297e3630b3e11b8a3798b1c76260870b4fc02c4d9405a
 - ed78799bf3eeb61db6dd74d1cbe16bf04a4083a2c9b269aede350f24519120b9
-locations:
+location_titles:
 - King County
 source: Washington Center for Deaf and Hard of Hearing Youth
 source_url: https://www.cdhy.wa.gov/interpreter-hub-monthly-offerings-november/

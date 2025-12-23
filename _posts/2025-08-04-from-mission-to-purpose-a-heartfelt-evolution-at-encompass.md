@@ -64,7 +64,7 @@ feed_content: "**From Mission to Purpose: A Heartfelt Evolution at Encompass&nbs
   to come.\n\nThe post [From Mission to Purpose: A Heartfelt Evolution at Encompass](https://encompassnw.org/from-mission-to-purpose-a-heartfelt-evolution-at-encompass/)
   first appeared on [Encompass](https://encompassnw.org)."
 image_ids: []
-locations:
+location_titles:
 - Snoqualmie Valley
 source: Encompass
 source_url: https://encompassnw.org/from-mission-to-purpose-a-heartfelt-evolution-at-encompass/

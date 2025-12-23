@@ -52,7 +52,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   4 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - 1d0d92155208edc5507e79288c59af45c591279397cd5c0921997a581848e66c
-locations:
+location_titles:
 - King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/cultural-conversations-relaunch

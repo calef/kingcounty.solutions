@@ -83,7 +83,7 @@ feed_content: |-
 
   <p>If you’re a Veteran in crisis or concerned about one, contact the Veterans Crisis Line to receive 24/7 confidential support. You don’t have to be enrolled in VA benefits or health care to connect. To reach responders,&nbsp;<a href="tel:988">Dial&nbsp;988 then Press 1</a>, chat online at VeteransCrisisLine.net/Chat, or text&nbsp;838255<strong>.</strong></p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143154/share-support-resources-with-your-faith-leader/

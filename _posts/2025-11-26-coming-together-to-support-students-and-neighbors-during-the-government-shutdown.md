@@ -7,7 +7,7 @@ feed_content: Over 8,800 food boxes distributed to families at 98 Seattle Public
   abruptly lapsed on Nov. 1 due to the Trump administration’s refusal to release dollars
   from S...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://greenspace.seattle.gov/2025/11/coming-together-to-support-students-and-neighbors-during-the-government-shutdown/

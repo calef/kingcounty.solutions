@@ -9,7 +9,7 @@ feed_content: |-
   <p data-start="797" data-end="1072">KCDRC</p>
   <p>The post <a href="https://kcdrc.org/kcdrc-receives-mayoral-proclamation/">KCDRC Receives Mayoral Proclamation</a> appeared first on <a href="https://kcdrc.org">Dispute Resolution Center of King County</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/kcdrc-receives-mayoral-proclamation/

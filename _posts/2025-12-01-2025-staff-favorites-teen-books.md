@@ -31,7 +31,7 @@ feed_content: |-
   <p><span data-contrast="auto">For a contemporary urban fantasy, look no further than Ibi Zoboi’s latest, <strong><a href="https://seattle.bibliocommons.com/v2/record/S30C4026633">(S)kin</a></strong>, which follows two girls.  Their lives intersect as one follows her mother’s path as a soucouyant, a shape-shifting witch who feeds on others’ life force, and the other as she learns her true heritage when the other girl’s mother comes to her home as the new nanny to her baby siblings.</span><span data-ccp-props="{}"> </span></p>
   <p><em>~Posted by Wally B.</em></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/

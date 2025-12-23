@@ -5,7 +5,7 @@ feed_content: Seattle police officers recovered drugs and cash during an arrest 
   patrols near Harvard Avenue and Spring Street found two people inside of a vehicle
   with expired ca...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/01/drugs-and-cash-recovered-during-arrest-in-first-hill/

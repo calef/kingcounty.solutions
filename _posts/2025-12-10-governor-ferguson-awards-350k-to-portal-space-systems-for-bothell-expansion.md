@@ -72,7 +72,7 @@ feed_content_checksum: dbe1772ff7fbb08eeef081965ac38a5d618bd5ed
 image_ids:
 - e9484e8618a9a379075b718f16b62e317b0dca407623d59bc579c082784a309b
 - c35028cd60309df26236c1470c9e7ff7d2e2bbe24a2a93a0405b97ffe0912bae
-locations:
+location_titles:
 - King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/governor-ferguson-awards-350k-to-portal-space-systems-for-bothell-expansion/

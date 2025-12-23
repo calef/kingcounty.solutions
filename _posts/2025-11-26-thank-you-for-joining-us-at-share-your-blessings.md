@@ -47,7 +47,7 @@ image_ids:
 - 39dae9612b165bb63cb7f43433a73e16b3e0b500a01f4048d2b406040daf5b5e
 - e1ef4cf1eb2feffc3869348b83b62ba294a157f73e921ebf5eef30cd577b63db
 - c8825f9bbb695e9eb239d61a290aae76a5ba5154eb9646e95eb0a9c4009bf18a
-locations:
+location_titles:
 - King County
 original_source_html: "<p>Yesterday’s annual Share Your Blessings event brought our
   community together for a shared meal and time well spent Thank you to everyone who

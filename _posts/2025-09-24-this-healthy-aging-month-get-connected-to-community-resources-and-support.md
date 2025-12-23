@@ -8,7 +8,7 @@ feed_content: September is Healthy Aging Month, an opportunity to raise awarenes
   general population in recent years, and 1 in 6 people in the U.S. are now 65+. 
   [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/24/this-healthy-aging-month-get-connected-to-community-resources-and-support/

@@ -16,7 +16,7 @@ feed_content: "<span>King County Investigation into Dec. 12, 2025 officer-involv
   \     \n    </div>\n  </div>"
 feed_content_checksum: fab8b6222f8100953e813e0653b0cba44467ec66
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<span>King County Investigation into Dec. 12, 2025 officer-involved
   shooting</span>\n<span><span>DAAnderson</span></span>\n<span><time>Tue, 12/16/2025

@@ -17,7 +17,7 @@ feed_content: |-
 
   The post [How would you spend $100,000 to improve Tukwila? Submit your ideas for the People’s Project](https://www.tukwilawa.gov/how-would-you-spend-100000-to-improve-tukwila-submit-your-ideas-for-the-peoples-project/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/how-would-you-spend-100000-to-improve-tukwila-submit-your-ideas-for-the-peoples-project/

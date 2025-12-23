@@ -8,7 +8,7 @@ feed_content: By now, you have probably heard about the heavy winds and rain in 
   major “atmospheri...
 feed_content_checksum: 5f1711c8a76a6e3b7a99459ba4fc0d1afef412bb
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/08/atmospheric-river-on-the-way-and-we-have-safety-tips/

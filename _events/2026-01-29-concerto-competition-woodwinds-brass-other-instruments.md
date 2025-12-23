@@ -5,7 +5,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>St
   to perform with the UW Symphony.</p> <h3> </h3> </div> </div>
 image_ids: []
 location: Music Building (MUS)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

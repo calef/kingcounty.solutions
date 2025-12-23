@@ -91,7 +91,7 @@ image_ids:
 - bb5eee2f304e4d816f6f26c0d0b4a8675415da12af28a220ac6ab53f409f51a3
 - 60f94299736a4c7438bc1b429e79d357b120d66d1c3b58bf8b1a9d48a6d567be
 - e802e7a26275471bf4679152390e8ab31240c0e2f0d92714ba0c893716387e99
-locations:
+location_titles:
 - King County
 source: Atlantic Street Center
 source_url: https://atlanticstreetcenter.org/2025/07/25/local-legacy-continues/?utm_source=rss&utm_medium=rss&utm_campaign=local-legacy-continues

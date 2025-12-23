@@ -10,7 +10,7 @@ feed_content: July 2025We are so grateful for your generosity in providing all o
   welcome letters to remind them they're not alone and they are deeply supported:"I
   have been
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/welcome-home

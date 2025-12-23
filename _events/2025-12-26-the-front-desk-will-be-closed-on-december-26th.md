@@ -24,7 +24,7 @@ feed_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</sp
 feed_content_checksum: 82526c4ff702210afdb5c15a8914d883747c4145
 image_ids: []
 location: City Hall, 801 SW 174th Street, Normandy Park, WA, 98166, United States
-locations:
+location_titles:
 - King County
 organization_title: City of Normandy Park
 original_source_html: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</span>

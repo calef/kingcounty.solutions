@@ -8,7 +8,7 @@ feed_content: 'Thank you, City Council and Mayor Harrell, for continued funding 
   2026...'
 feed_content_checksum: a988edfc473dab1d82858cdfc04decdc259f2bd8
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/08/approved-2026-city-budget-invests-in-seattle-transportation-system-for-all/

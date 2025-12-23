@@ -7,7 +7,7 @@ feed_content: |-
 
   Looking ahead to 2026, we’ll continue to refine our systems with the Equity Impact Tool, ensuring decisions and policies are informed by equity at every level. These changes are laying the groundwork for a more unified, efficient, and equitable organization.&nbsp;
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: King County Library System
 source_url: https://kcls.org/blogs/post/unify-internal-processes/

@@ -5,7 +5,7 @@ feed_content_checksum: 1549d7838a30169bb9329ed2075f959e23c1ee53
 generated_from_post: true
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Friends of Youth
 original_source_html: Anticipated opening of the second Bridge Pointe house for young

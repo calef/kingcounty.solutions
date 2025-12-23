@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: As summer ends and students prepare for the new school year, we’re reminded
   that readiness goes beyond just school supplies. Mental and...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/support-youth-like-taylor-this-back-to-school-season

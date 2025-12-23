@@ -407,7 +407,7 @@ feed_content: '<div id="main-wrapper"> <div id="mainContentDiv" class="container
   </tr> </tbody></table> </div> </div> </div> </div> </div> </div> </div>'
 image_ids: []
 location: South Lake Union Administration (Slu Building C) (SLC)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 source_url: https://uw.Cloud-CME.com/course/courseoverview?P=5&EID=13842

@@ -10,7 +10,7 @@ feed_content: June 2025Domestic abuse thrives in secrecy. It isolates, separates
   it, but I am still here, seeking God and His plan for my life. Rise has not only
   been life
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/rise-community

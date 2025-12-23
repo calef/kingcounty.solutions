@@ -5,7 +5,7 @@ feed_content: ELMA - All lanes are now open along US 12 and State Route 8 betwee
   at five locations in Grays Harbor County.
 feed_content_checksum: 627775429d5975d4ee44cb8c3b87026bd4fed6a6
 image_ids: []
-locations: []
+location_titles: []
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"
   content=\"ELMA - All lanes are now open along US 12 and State Route 8 between Montesano

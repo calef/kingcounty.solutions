@@ -21,7 +21,7 @@ feed_content: '<p class="">Recipe adapted from Ana Sainz</p><p class="">Recipe s
   everything except for the tostadas until ready to serve.</p><p class="">- Garnish
   as desired and enjoy. </p>'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/pozole-verde-with-chicken-hominy-and-lime

@@ -5,7 +5,7 @@ feed_content: As the holidays approach at a blistering pace we decided to slow d
   up next to the space heater, and take a brief look back at this Blotter post from
   November 31st, 195...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/25/holiday-shopping-tips-from-1950s-seattle/

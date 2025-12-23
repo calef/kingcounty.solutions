@@ -16,7 +16,7 @@ class EventModelTest < Minitest::Test
           'generated_from_post' => '2025-12-01-example',
           'image_ids' => ['https://example.com/image.jpg'],
           'location' => 'Community Center',
-          'locations' => ['Seattle'],
+          'location_titles' => ['Seattle'],
           'locked' => true,
           'organization_title' => 'Test Organization',
           'original_source_html' => '<div>Original source.</div>',
@@ -38,7 +38,7 @@ class EventModelTest < Minitest::Test
       assert_equal false, record.generated_from_post?
       assert_equal ['https://example.com/image.jpg'], record.image_ids
       assert_equal 'Community Center', record.location
-      assert_equal ['Seattle'], record.locations
+      assert_equal ['Seattle'], record.location_titles
       assert_equal true, record.locked
       assert_equal true, record.locked?
       assert_equal 'Test Organization', record.organization_title

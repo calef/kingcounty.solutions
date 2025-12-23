@@ -11,7 +11,7 @@ feed_content: |-
 
   The post [Save the Date! Scout Night at the Fire Station](https://www.vrfa.org/2025/09/save-the-date-scout-night-at-the-fire-station-2/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/09/save-the-date-scout-night-at-the-fire-station-2/

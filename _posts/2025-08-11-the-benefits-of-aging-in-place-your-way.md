@@ -75,7 +75,7 @@ feed_content: |-
 image_ids:
 - 874ccc59d73fbfc02d2bedc1fa09959299bc6a40cb814130f851a887f1ec6b23
 - 01deb28ec702e4791046953cb96023646afdf5216dfa0c1ccb2fa3f204dfb95f
-locations:
+location_titles:
 - King County
 source: Sound Generations
 source_url: https://soundgenerations.org/the-benefits-of-aging-in-place-your-way/

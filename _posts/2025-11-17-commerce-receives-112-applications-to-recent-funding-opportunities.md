@@ -60,7 +60,7 @@ feed_content: |-
 
   <p>Email the application team at <a href="mailto:HTFApp@commerce.wa.gov">HTFApp@commerce.wa.gov</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/commerce-receives-112-applications-to-recent-funding-opportunities/

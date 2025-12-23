@@ -15,7 +15,7 @@ feed_content: |-
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/10/peggy-makes-time-for-self-care-at-miriam-housing-center/">Hearing, health and hope</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/10/peggy-makes-time-for-self-care-at-miriam-housing-center/

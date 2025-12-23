@@ -6,7 +6,7 @@ feed_content: Developing a startup from the ground up can feel intimidating, esp
 feed_content_checksum: c59295720754c4ed4177c6a6ddda16903e2b2822
 image_ids: []
 location: Zoom
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

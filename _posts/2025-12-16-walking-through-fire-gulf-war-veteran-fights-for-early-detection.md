@@ -82,7 +82,7 @@ feed_content: "<div>\n\n    \n    <figure><img src=\"https://www.dav.org/wp-cont
   first on <a>DAV</a>.</p>"
 feed_content_checksum: fa1c757eeaae28da5e6515159b3a4180de92a868
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<div>\n\n    \n    <figure><img src=\"https://www.dav.org/wp-content/uploads/Slotnick-near-tank.png\"><figcaption>Jeff
   Slotnick served as an Army combat engineer and deployed all over the world, including

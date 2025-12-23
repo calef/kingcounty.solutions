@@ -7,7 +7,7 @@ feed_content: 'Blog stats: 800 words &#124; 4-minute read At-a-glance: Attention
   in transit: completion of the Rainier Ave S Bus Lane project! In this second phase,
   we extended the re...'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/11/19/extended-rainier-ave-s-bus-lanes/

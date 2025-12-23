@@ -51,7 +51,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p>Guest pianis
   2026.</p> </div> </div>
 image_ids: []
 location: Music Building (MUS)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

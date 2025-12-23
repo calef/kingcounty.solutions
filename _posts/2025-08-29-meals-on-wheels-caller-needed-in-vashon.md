@@ -21,7 +21,7 @@ feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Locati
   on Wheels: Caller needed in Vashon!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - Vashon
 source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-caller-needed-in-vashon/

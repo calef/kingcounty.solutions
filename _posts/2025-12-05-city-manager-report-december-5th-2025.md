@@ -6,7 +6,7 @@ feed_content: |-
   2. Be cautious with online deals.
   If a price seems too good to be true, it probably is. Stick to trusted retailers, avoid clicking on ads from unknown sources, and double-check that websites are secure before entering any payment information.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-december-5th-2025/

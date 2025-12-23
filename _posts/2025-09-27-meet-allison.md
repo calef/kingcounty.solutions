@@ -24,7 +24,7 @@ feed_content: |-
 image_ids:
 - '091c7ee1409de32735a56cf58b78643306ef0c11574434e6e06db9e9c88927af'
 - 2596a0cdd657fa61b9ac156ddfc185f011c7deac3f5e8dc3b87f3160d1377ef2
-locations:
+location_titles:
 - King County
 source: The National Children's Cancer Society - Financial Assistance
 source_url: https://thenccs.org/meet-allison/

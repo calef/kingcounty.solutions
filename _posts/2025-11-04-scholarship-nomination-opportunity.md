@@ -14,7 +14,7 @@ feed_content: "The City of Carnation is accepting applications for an Associatio
   Nomination Opportunity](https://www.carnationwa.gov/scholarship-nomination-opportunity/)
   appeared first on [Carnation, WA](https://www.carnationwa.gov)."
 image_ids: []
-locations:
+location_titles:
 - Carnation
 source: City of Carnation
 source_url: https://www.carnationwa.gov/scholarship-nomination-opportunity/

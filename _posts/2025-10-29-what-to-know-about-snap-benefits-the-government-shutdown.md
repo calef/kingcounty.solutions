@@ -51,7 +51,7 @@ feed_content: |-
 
   To learn more about the growing needs in our region, explore&nbsp;Hopelink’s&nbsp;recently released&nbsp;[2025 Community Needs Assessment](https://www.hopelink.org/wp-content/uploads/2023/03/Hopelink-2025-Community-Needs-Assessment-Report.pdf).&nbsp;
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Hopelink
 source_url: https://www.hopelink.org/blog/what-to-know-about-snap-benefits-and-the-government-shutdown/

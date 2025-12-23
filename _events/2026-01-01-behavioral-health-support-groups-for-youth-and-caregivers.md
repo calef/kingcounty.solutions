@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/10/behavioral-health-supports-for-youth-and-caregivers-odessa-brown-childrens-children/

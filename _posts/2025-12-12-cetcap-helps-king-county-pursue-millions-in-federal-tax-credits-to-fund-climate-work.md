@@ -104,7 +104,7 @@ feed_content: |-
   </div>
 feed_content_checksum: c4fd53b3a9040bf9088d932a86e5de8c98b41abe
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://www.commerce.wa.gov/?p=272847

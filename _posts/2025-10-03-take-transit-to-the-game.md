@@ -8,7 +8,7 @@ feed_content: "<p>Want a safe, reliable way to move around the region? Try takin
   to cheer on the Seahawks, Storm, Kraken, Sounders, Reign, or Mariners, it's always
   a great time to review these game day travel tips!&nbsp;</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/take-transit-to-game

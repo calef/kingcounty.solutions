@@ -106,7 +106,7 @@ feed_content: "<span>State revokes, suspends licenses, certifications, registrat
   \         </div>"
 feed_content_checksum: 3112957b07c0ba8d19f6b51560bb0b0ccc9c4ef9
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<span>State revokes, suspends licenses, certifications, registrations
   of health care providers (12-17-2025)</span>\n\n            <div>\n<time>December

@@ -12,7 +12,7 @@ feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events <
 feed_content_checksum: abf47f684b7305945385bdef8b16156b5c5601cc
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: Bike Works
 original_source_html: "<!DOCTYPE html><html lang=\"en-US\"><head><meta charset=\"UTF-8\"
   /><meta name=\"viewport\" content=\"width=device-width\" /><title>Bike Works is

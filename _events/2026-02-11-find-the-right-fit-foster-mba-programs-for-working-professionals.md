@@ -9,7 +9,7 @@ feed_content: <div class="auraMsgBox auraLoadingBox" id="auraLoadingBox"> <span>
   role="button" href="?" id="auraErrorReload">Refresh</a></div> </div></div>
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

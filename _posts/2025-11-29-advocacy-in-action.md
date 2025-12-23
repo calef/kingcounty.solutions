@@ -7,7 +7,7 @@ feed_content: |-
   <p class="read-more-container"><a title="Advocacy in Action" class="read-more button" href="https://nhwa.org/2025/11/29/advocacy-in-action/#more-25362" aria-label="Read more about Advocacy in Action">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/11/29/advocacy-in-action/">Advocacy in Action</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Neighborhood House
 source_url: https://nhwa.org/2025/11/29/advocacy-in-action/

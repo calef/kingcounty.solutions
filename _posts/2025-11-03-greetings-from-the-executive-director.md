@@ -6,7 +6,7 @@ feed_content: <a href="https://wscenter.org/greetings-from-the-executive-directo
   days are getting darker and colder, but it’s warm, cozy and filled with activity
   inside The Center. I’m grateful to our members for making us part of your lives.&hellip;</p></a>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: The Center for Active Living
 source_url: https://wscenter.org/greetings-from-the-executive-director-3/

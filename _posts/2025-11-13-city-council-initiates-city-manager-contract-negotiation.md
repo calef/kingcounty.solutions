@@ -5,7 +5,7 @@ feed_content: |-
   <p><span><span>Updates will be shared here as the process moves forward. Please check back for the latest information. </span></span></p>
   <p> </p></div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Medina
 source_url: https://www.medina-wa.gov/financeandhr/page/city-council-initiates-city-manager-contract-negotiation

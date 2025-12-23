@@ -5,7 +5,7 @@ feed_content: "<div> <div> <p>Students of John Popham present a chamber music s
 feed_content_checksum: bce4ae7dd634da19c729099ff262c64decdd371c
 image_ids: []
 location: Music Building (MUS)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

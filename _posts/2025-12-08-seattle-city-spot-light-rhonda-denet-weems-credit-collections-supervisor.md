@@ -8,7 +8,7 @@ feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/
   for remotely disconnecting meters […]
 feed_content_checksum: 755c70d150acbcf3d42e57613ed0b36e60f0cccf
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/12/08/seattle-city-spotlight-rhonda-denet-weems-credit-collections-supervisor/

@@ -6,7 +6,7 @@ feed_content: By Metro’s Equity, Inclusion and Belonging team Each November, N
   American Heritage Month invites us to honor the history, cultures and enduring contributions
   of Native peoples throughout our region and...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/21/honoring-native-american-heritage-month/

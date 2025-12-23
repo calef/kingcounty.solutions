@@ -51,7 +51,7 @@ feed_content: "<section class=\"elementor-section elementor-top-section elemento
   post [Re-Imagining Committee – First Listening Session](https://redmondumc.org/re-imagining-committee-first-listening-session/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Redmond United Methodist Church - Social Ministries
 source_url: https://redmondumc.org/re-imagining-committee-first-listening-session/

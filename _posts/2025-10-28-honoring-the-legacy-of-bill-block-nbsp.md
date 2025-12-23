@@ -46,7 +46,7 @@ feed_content: '<p class="">Housing justice advocate, Bill Block, was a force for
   Bill’s legacy of compassion paired with strategy—transforming systems and, in turn,
   transforming lives.&nbsp;</p>'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/honoring-the-legacy-of-bill-block

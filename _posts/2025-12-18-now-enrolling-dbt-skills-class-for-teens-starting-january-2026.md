@@ -11,7 +11,7 @@ feed_content: The DBT team at Friends of Youth is excited to share that our next
   way that helps build resilience, improve communication, and support healthier...
 feed_content_checksum: 39f2eddd3e27c546a441d94de2ca1150871b6fc9
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: The DBT team at Friends of Youth is excited to share that our
   next Dialectical Behavior Therapy (DBT) Skills Class will begin in early January

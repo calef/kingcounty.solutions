@@ -8,7 +8,7 @@ feed_content: DESC’s innovative new method for administering opioid use disord
   using fentanyl, this study evaluated 95 patients with moderate to severe opioid
   use disorder. The study shows that this new protocol has [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: DESC
 source_url: https://www.desc.org/injectable-only-overlapping-buprenorphine-starting-protocol-in-a-low-threshold-setting/

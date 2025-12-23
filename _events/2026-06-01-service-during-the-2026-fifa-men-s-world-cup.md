@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Various locations in King County, WA
-locations:
+location_titles:
 - King County
 organization_title: King County Metro Transit
 published: false

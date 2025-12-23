@@ -43,7 +43,7 @@ feed_content_checksum: a308d539912999515400fbc70a11466285f3bb05
 image_ids: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
-locations:
+location_titles:
 - King County
 organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/fitness-for-fun/2025-12-22/

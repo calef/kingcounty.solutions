@@ -9,7 +9,7 @@ feed_content: The National School-Based Health Alliance is seeking contributions
   Participants can showcase their impact, inspire action, and connect with leaders
   in the upcoming 2026 National School-Based Health Care Conference.
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/30/share-your-expertise-at-the-2026-national-school-based-health-care-conference-be-the-change-youth-training-program/

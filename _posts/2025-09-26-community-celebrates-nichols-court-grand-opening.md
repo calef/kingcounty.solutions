@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Clifford and Melinda Nichols On September 24th, friends, family, and
   colleagues of Melinda and Clifford Nichols, along with affordable...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/community-celebrates-nichols-court-grand-opening

@@ -33,7 +33,7 @@ feed_content: '   <meta> <meta> <meta> <meta> <meta> <meta> <meta> <meta> <meta>
 feed_content_checksum: 543228032367a86124309edfc0883527ba0a90e5
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

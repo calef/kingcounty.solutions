@@ -32,7 +32,7 @@ feed_content: "<section> <div> <div> <h2>Benefits</h2> </div> </div> </section> 
 feed_content_checksum: deb7e4eace25195bbd64eb43a8334d8adad812ed
 image_ids: []
 location: Online
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

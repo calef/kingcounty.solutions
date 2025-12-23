@@ -4,7 +4,7 @@ feed_content: "<p>artifact_description: General Resources</p><p>date: Wed, 01 Oc
   2025 15:01:07 -0400</p><p>title: SEP Verification Issue (SVI) Checklist for Agents
   and Brokers</p><p>topic: SEP Verification Issues</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/sep-verification-issue-svi-checklist-agents-brokers

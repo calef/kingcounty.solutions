@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: On September 25, 2025, more than 750 neighbors, partners, and friends of
   Bellwether Housing filled the Westin Seattle ballroom for...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/our-whole-community-a-record-breaking-closer-to-home-fundraiser

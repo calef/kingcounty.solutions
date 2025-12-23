@@ -34,7 +34,7 @@ feed_content: |-
 
   &nbsp;
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/important-sales-tax-reminder-for-residents/

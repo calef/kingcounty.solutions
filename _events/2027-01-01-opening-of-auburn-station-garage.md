@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Auburn Station
-locations:
+location_titles:
 - King County
 organization_title: Sound Transit
 published: false

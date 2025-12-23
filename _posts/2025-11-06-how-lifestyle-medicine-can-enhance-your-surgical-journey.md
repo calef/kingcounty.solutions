@@ -54,7 +54,7 @@ feed_content: |-
 
   <p><em>Thomas Hammett, DPT, DipACLM, is Director of Operations for Valley&#8217;s Lifestyle Medicine clinics. </em></p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/11/06/how-lifestyle-medicine-supports-your-surgical-journey/?utm_source=rss&utm_medium=rss&utm_campaign=how-lifestyle-medicine-supports-your-surgical-journey

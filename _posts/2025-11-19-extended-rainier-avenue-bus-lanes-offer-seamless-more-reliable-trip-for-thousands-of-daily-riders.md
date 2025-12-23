@@ -6,7 +6,7 @@ feed_content: "(This story was crossposted from the SDOT Blog.) Attention, all R
   7 riders. We’re now arriving at the next stop of our citywide investment in transit:
   completion of the Rainier..."
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/19/extended-rainier-avenue-bus-lanes-offer-seamless-more-reliable-trip-for-thousands-of-daily-riders/

@@ -5,7 +5,7 @@ feed_content: Seattle police detectives are investigating a shooting Tuesday eve
   and later placed into custody on unrelated robbery charges. At 7:10 p.m., dispatchers
   received report...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/19/teen-wounded-in-rainier-vista-shooting-placed-in-custody-at-hospital/

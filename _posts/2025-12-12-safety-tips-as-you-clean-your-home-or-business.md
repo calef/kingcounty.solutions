@@ -9,7 +9,7 @@ feed_content: 'Rainfall and flooding have caused sewage overflows in many areas 
   electrical equipment while […]'
 feed_content_checksum: 16fac661362e53ef3ce8e474c1a2bf72551b28f4
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://kcemergency.com/?p=6801
 source: King County Emergency Management

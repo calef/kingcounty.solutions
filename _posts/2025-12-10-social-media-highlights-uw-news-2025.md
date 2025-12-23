@@ -87,7 +87,7 @@ feed_content: "<p>This year, the UW News social media team shared stories from t
   <a>2025-12-01T22:13:12.11209095Z</a></p>\n</blockquote>\n<p><script></script></p>\n<p><a></a><a></a><a></a><a></a><a></a><a></a></p>"
 feed_content_checksum: 0757ed9a286befbd857be4a40b293c5cf417ec59
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/10/social-media-highlights-uw-news-2025/

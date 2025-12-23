@@ -13,7 +13,7 @@ feed_content: |-
   <p><span data-preserver-spaces="true">.</span></p>
   <p>The post <a href="https://wellspringfs.org/super-kids-super-futures-celebrating-our-2025-elc-graduates/">Super Kids, Super Futures: Celebrating Our 2025 ELC Graduates</a> appeared first on <a href="https://wellspringfs.org">Wellspring</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Wellspring Family Services
 source_url: https://wellspringfs.org/super-kids-super-futures-celebrating-our-2025-elc-graduates/

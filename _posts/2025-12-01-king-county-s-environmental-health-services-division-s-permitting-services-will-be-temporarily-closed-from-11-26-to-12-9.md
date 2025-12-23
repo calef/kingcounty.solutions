@@ -5,7 +5,7 @@ feed_content: Check out King County’s article about how the Environmental Heal
   26 at 4 PM through Tuesday, December 9 as we prepare to launch the Public Health
   Permit Cente...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/king-countys-environmental-health-services-divisions-permitting-services-will-be-temporarily-closed-from-11-26-to-12-9/

@@ -53,7 +53,7 @@ feed_content: |-
 
   <p>Reach out to the <a href="https://www.caregiver.va.gov/support/New_CSC_Page.asp" rel="noopener">Caregiver Support Program Teams</a> at your local VA Medical Center today. We’re all on the same team, and together we thrive!</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143184/nurture-your-soul-with-an-attitude-of-gratitude/

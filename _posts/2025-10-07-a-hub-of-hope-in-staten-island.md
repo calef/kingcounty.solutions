@@ -19,7 +19,7 @@ feed_content: |-
   <p><span style="font-weight: 400;">All locations offer services in English and Spanish. Additionally, our Bronx location offers French, and the Queens location offers Mandarin and Cantonese. Translation services are available for most other languages and dialects. </span></p>
   <p>The post <a href="https://www.vibrant.org/a-hub-of-hope-in-staten-island/">A Hub of Hope in Staten Island</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/a-hub-of-hope-in-staten-island/

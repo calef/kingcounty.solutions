@@ -16,7 +16,7 @@ feed_content: |-
   <p class="lead"><strong><a class="”btn" href="”https://communityrootshousing.org/events/omnivorous/”">BUY TICKETS</a></strong></p>
   <p>The post <a href="https://communityrootshousing.org/2025/08/omnivorous-keybank-help-micro-businesses/">Omnivorous and KeyBank help micro-businesses access new customers</a> appeared first on <a href="https://communityrootshousing.org">Community Roots Housing</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/08/omnivorous-keybank-help-micro-businesses/

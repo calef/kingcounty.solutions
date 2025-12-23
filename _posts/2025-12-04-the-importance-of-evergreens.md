@@ -6,7 +6,7 @@ feed_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_110459
   />Learn about Evergreen conifers, their role in our environment, and the services
   they provide in this free class.
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=21077834

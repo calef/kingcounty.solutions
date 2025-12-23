@@ -9,7 +9,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   at the Mercer Island Community and Event Center, 8236 SE 24th St., Mercer Island,
   WA 98040, and via Zoom. </span></span></p></div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/bc-parksandrecreationcommission/page/notice-special-joint-hybrid-parks-recreation-commission-and

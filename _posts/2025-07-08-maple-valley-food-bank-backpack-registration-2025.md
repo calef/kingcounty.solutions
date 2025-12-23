@@ -147,7 +147,7 @@ feed_content: |-
 image_ids:
 - cc115e4e3a65ff2d52eced798f195ea284877f5373b1d2329bca8eb96a0dcfa9
 - 31f7675e68a0e86b3866ac572c231b180c33f2867318b4f31d9f787b4e01d235
-locations:
+location_titles:
 - Issaquah
 - South King County
 source: Maple Valley Food Bank

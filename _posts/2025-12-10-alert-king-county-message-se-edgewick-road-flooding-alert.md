@@ -6,7 +6,7 @@ feed_content: Due to severe weather conditions and damage to the roads, as of to
   Dec. 10, and there will be intermittent closures. Your safety is […]
 feed_content_checksum: b88c1843148a3a7f7868625f00575a17b3476684
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://kcemergency.com/2025/12/09/edgewick-flooding-alert/

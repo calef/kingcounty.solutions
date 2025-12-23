@@ -69,7 +69,7 @@ feed_content: "<p class=\"\">Pregnancy and childbirth can be both beautiful and 
   width=\"854\" frameborder=\"0\" height=\"480\"></iframe>"
 image_ids:
 - cb5a9635dead2951c8347a6061e3224ed5fc8bd2b7f8aa37e219f4473ec3cdb1
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/every-mom-deserves-support-a-partnership-for-healthy-births-at-marys-place

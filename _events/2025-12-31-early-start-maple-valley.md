@@ -16,7 +16,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
 feed_content_checksum: 93c1afa59639875fc207000fe05ca73b97700bc9
 image_ids: []
 location: Maple Valley, Maplevalley, WA, United States
-locations:
+location_titles:
 - King County
 organization_title: Indian American Community Services
 source_url: https://iacswa.org/event/early-start-maple-valley-102/

@@ -26,7 +26,7 @@ feed_content: "<header> <div> <div> <h1> <span>Virtual Volunteer Orientation | O
 feed_content_checksum: a68e1724d02518fa5232dadaf09b8dae4c828f65
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: Olive Crest
 original_source_html: "<!doctype html>\n<html dir=\"ltr\" lang=\"en-US\" prefix=\"og:
   https://ogp.me/ns#\" itemscope itemtype=\"http://schema.org/WebPage\">\n<head>\n<meta

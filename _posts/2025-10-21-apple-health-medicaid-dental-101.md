@@ -96,7 +96,7 @@ feed_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/184">Start the Course</a></p>
   <p>The post <a href="https://arcorafoundation.org/apple-health-medicaid-dental-101/">Apple Health (Medicaid) Dental 101</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Arcora Foundation
 source_url: https://arcorafoundation.org/apple-health-medicaid-dental-101/

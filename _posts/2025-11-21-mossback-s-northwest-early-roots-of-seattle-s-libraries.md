@@ -12,7 +12,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>&nbsp;</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Homework Help
 source_url: https://blog.spl.org/2025/11/21/mossbacks-northwest-early-roots-of-seattles-libraries/

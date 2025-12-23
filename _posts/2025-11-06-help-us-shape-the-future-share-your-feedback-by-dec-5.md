@@ -9,7 +9,7 @@ feed_content: <div><p paraid="260982536" paraeid="{d5cba2c4-b8cd-4807-ab49-ea24a
   paraid="260982536" paraeid="{d5cba2c4-b8cd-4807-ab49-ea24a892632b}{11}"><a href="https://thepollingplace.qualtrics.com/jfe/form/SV_bE2H4G9LBkmqNoO"
   target="_blank" rel="noreferrer noopener">Take the survey here!</a></p></div>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/help-us-shape-future-share-your-feedback-dec-5

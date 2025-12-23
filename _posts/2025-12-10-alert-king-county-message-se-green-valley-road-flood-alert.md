@@ -7,7 +7,7 @@ feed_content: River levels in the SE Green Valley Road area between SE Auburn Bl
   go […]
 feed_content_checksum: 6c58f0ef5bddc5c8b1c29b8f93e5b0fbfe89634a
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://kcemergency.com/2025/12/09/se-green-valley-road-flood-alert/

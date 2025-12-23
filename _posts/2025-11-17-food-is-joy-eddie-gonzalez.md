@@ -18,7 +18,7 @@ feed_content_checksum: c2f1e00df04151ffe416206e9a879fa723805be5
 image_ids:
 - c2a6981c6fb5e14ef585b642fc44bcb520f27f7b97b075b34c2f19a1de0dfa01
 - a4496bc91403db7f920ddd6c8e67fe2289d070bc8c40c583256adefc73735eb5
-locations:
+location_titles:
 - King County
 source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/artists-for-food-justice-december/

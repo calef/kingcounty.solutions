@@ -20,7 +20,7 @@ feed_content: "October is Domestic Violence Awareness Month—a time to stand wi
   from violence.\n\nThe post [Why survivors of domestic violence need the legal system](https://elap.org/why-survivors-of-domestic-violence-need-the-legal-system/)
   appeared first on [Eastside Legal Assistance Program](https://elap.org)."
 image_ids: []
-locations:
+location_titles:
 - Bellevue
 - Bothell
 - Clyde Hill

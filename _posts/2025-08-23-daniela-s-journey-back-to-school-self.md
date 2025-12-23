@@ -30,7 +30,7 @@ feed_content: |-
   <p>The post <a href="https://www.treehouseforkids.org/danielas-journey-back-to-school-self/">Daniela’s Journey Back to School &#038; Self</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
 image_ids:
 - ce5f6f66e1ac01d11fe5de77d31d285ae30aae04012f1c4e2e57a3036828b785
-locations:
+location_titles:
 - King County
 source: Treehouse
 source_url: https://www.treehouseforkids.org/danielas-journey-back-to-school-self/

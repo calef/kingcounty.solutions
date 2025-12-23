@@ -6,7 +6,7 @@ feed_content: The Neighborhood Matching Fund (NMF) is currently seeking 7-9 dedi
   impac...
 feed_content_checksum: ab7d3ed0ef6c0acacf26d9ebae3ee0ecd44fd278
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: The Neighborhood Matching Fund (NMF) is currently seeking 7-9
   dedicated individuals to join our Community Review Panel for the 2026 grant cycle.

@@ -215,7 +215,7 @@ feed_content: '<div class="Uc2NEf"> <div class="teQAzf"> <form action="https://d
   </li> </ul></div> </div> </div></div> </div>'
 image_ids: []
 location: Meet at the front of Denny Hall
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

@@ -27,7 +27,7 @@ feed_content: |-
 
   The post [From the bench to the community](https://elap.org/from-the-bench-to-the-community/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Eastside Legal Assistance Program
 source_url: https://elap.org/from-the-bench-to-the-community/?utm_source=rss&utm_medium=rss&utm_campaign=from-the-bench-to-the-community

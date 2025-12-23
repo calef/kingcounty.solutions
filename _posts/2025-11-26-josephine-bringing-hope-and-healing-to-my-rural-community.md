@@ -5,7 +5,7 @@ feed_content: |-
   <p><a>Source</a></p>
 feed_content_checksum: d4c802a89a1f47dc9cb19ec3fbb8a241aa1b1776
 image_ids: []
-locations: []
+location_titles: []
 published: false
 rss_guid: https://camfed.org/?p=55791/
 source: CAMFED - Campaign for Female Education

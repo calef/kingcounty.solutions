@@ -64,7 +64,7 @@ image_ids:
 - f2d55610a8b39e59374fd23fa025e3804837ab999676a5054a941360ecf8dbdf
 - 16447bb6fce52de475618d2d520d75a7d1f1f27391bf1fbcd63de06b2a4a892f
 - 2871eaf1bcd716e13b2482eea47b235182c784b25efee16336eb40fcb14ea712
-locations:
+location_titles:
 - King County
 source: Refugee Women's Alliance
 source_url: https://www.rewa.org/amazon-support-steam/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-support-steam

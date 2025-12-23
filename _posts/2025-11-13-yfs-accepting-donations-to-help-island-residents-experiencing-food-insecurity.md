@@ -9,7 +9,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   caused by the reduction in SNAP (Supplemental Nutrition Assistance Program) distributions
   due to the prolonged shutdown of the federal government.  </p></div></div></div>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/yfs/page/yfs-accepting-donations-help-island-residents-experiencing-food-insecurity

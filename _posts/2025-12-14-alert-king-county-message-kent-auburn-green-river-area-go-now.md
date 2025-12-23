@@ -8,7 +8,7 @@ feed_content: 'Hello, This is King County Emergency Management. As of Saturday e
   This includes areas of: 1. City of Kent from Green river to south 277th […]'
 feed_content_checksum: 3ab01795248b450cedb5e209f96a6d9de0995b01
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://kcemergency.com/2025/12/13/kent-auburn-green-river-area-go-now/
 source: King County Emergency Management

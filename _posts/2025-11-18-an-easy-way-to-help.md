@@ -26,7 +26,7 @@ feed_content: |-
   <p>But there&#8217;s no need to wait, <a href="http://elap.org/donate">you can make your impact start now</a>. </p>
   <p>The post <a href="https://elap.org/an-easy-way-to-help/">An easy way to help</a> appeared first on <a href="https://elap.org">Eastside Legal Assistance Program</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Eastside Legal Assistance Program
 source_url: https://elap.org/an-easy-way-to-help/?utm_source=rss&utm_medium=rss&utm_campaign=an-easy-way-to-help

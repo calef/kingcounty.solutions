@@ -12,7 +12,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/06/2025-2026-h
   is ready for wet weather and high tide season. We monitor storms, tides, atmospheric
   pressure and more so we can [&#8230;]'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/06/2025-2026-highest-predicted-winter-tides/

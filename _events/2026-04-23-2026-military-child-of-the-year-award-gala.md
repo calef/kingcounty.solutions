@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Washington, D.C.
-locations: []
+location_titles: []
 organization_title: Operation Homefront - Critical Financial Assistance Program
 published: false
 source_url: https://operationhomefront.org/final-call-for-2026-mcoy-nominations/

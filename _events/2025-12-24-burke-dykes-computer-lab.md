@@ -43,7 +43,7 @@ feed_content_checksum: d44e1c7c78fd9a161847f906190275da9c16a5fe
 image_ids: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
-locations:
+location_titles:
 - King County
 organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/burke-dykes-computer-lab-2/2025-12-24/

@@ -7,7 +7,7 @@ feed_content: |-
   <p class="read-more-container"><a title="Oral Health Justice is Health Justice" class="read-more button" href="https://nhwa.org/2025/06/30/oral-health-justice-is-health-justice/#more-25135" aria-label="Read more about Oral Health Justice is Health Justice">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/06/30/oral-health-justice-is-health-justice/">Oral Health Justice is Health Justice</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Neighborhood House
 source_url: https://nhwa.org/2025/06/30/oral-health-justice-is-health-justice/

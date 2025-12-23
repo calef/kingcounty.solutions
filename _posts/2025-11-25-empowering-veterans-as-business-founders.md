@@ -42,7 +42,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriorit
   employer awards is Feb. 28.</em></p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/empowering-veterans-as-business-founders/\">Empowering
   veterans as business founders</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/empowering-veterans-as-business-founders/

@@ -20,7 +20,7 @@ feed_content: "<div> <div> <section> <div> <p> <a> « All Events</a> </p> <div> 
 feed_content_checksum: 77cbfa6d346c3f6f5908526abc1a94f317a36061
 image_ids: []
 location: Lux Room
-locations:
+location_titles:
 - Seattle
 - South King County
 organization_title: SouthEast Seattle Senior Center

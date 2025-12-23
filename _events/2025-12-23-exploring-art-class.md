@@ -45,7 +45,7 @@ feed_content_checksum: 9947ca0057f07e9a1bd8a9f79f320c0a200bcf68
 image_ids: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
-locations:
+location_titles:
 - King County
 organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/exploring-art-class-2/2025-12-23/

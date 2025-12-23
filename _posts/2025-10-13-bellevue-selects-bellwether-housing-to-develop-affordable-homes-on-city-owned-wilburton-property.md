@@ -70,7 +70,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   \     \n    </div>\n  </div>"
 image_ids:
 - bc80923201c8d3a244ff0ccd0a32aab8038e881964cf538e0c646889b5b98a73
-locations:
+location_titles:
 - King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/bellwether-housing-selection

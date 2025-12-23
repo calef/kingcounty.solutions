@@ -134,7 +134,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   vs. Outpatient Treatment: What’s the Difference?</a> appeared first on <a href=\"https://lakesidemilam.com\">Lakeside-Milam
   Recovery Centers</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/iop-vs-outpatient-treatment-whats-the-difference/

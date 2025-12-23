@@ -7,7 +7,7 @@ feed_content: 'Registration is now open for Lighthouse''s 9th Annual Celebrate 
   stories of life change, live music, drinks, and a delicious Italian dinner. Celebrate
   with us and learn how Lighthouse is breaking the cycle of abuse in our'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/celebrate-with-us

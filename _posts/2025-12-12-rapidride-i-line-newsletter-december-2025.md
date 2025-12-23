@@ -7,7 +7,7 @@ feed_content: 'Call for Artists: Moving Stories As King County’s population gr
   comes an opportunity to highlight the...'
 feed_content_checksum: c77a5da8e9212299c51bf347d1e41027ea594adf
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://kingcountymetro.blog/?p=67665
 source: King County Metro Transit

@@ -4,7 +4,7 @@ feed_content_checksum: fa243e5637fef490f832e329f5088c807d889aa4
 generated_from_post: true
 image_ids: []
 location: Southwest Branch
-locations:
+location_titles:
 - King County
 organization_title: The Seattle Public Library
 original_source_html: A celebration event for families.

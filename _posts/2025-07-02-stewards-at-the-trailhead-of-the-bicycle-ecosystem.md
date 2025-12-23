@@ -93,7 +93,7 @@ feed_content: "<figure class=\"wp-block-image size-large\"><img data-recalc-dims
   at the trailhead of the bicycle ecosystem</a> appeared first on <a href=\"https://bikeworks.org\">Bike
   Works</a>.</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Bike Works
 source_url: https://bikeworks.org/steves-manifesto/?utm_source=rss&utm_medium=rss&utm_campaign=steves-manifesto

@@ -10,7 +10,7 @@ feed_content: 'LIHI and other nonprofit housing providers are calling on the Cit
   on their door, tenants are faced with the impossible decision to pay rent or to
   feed their...'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/we-need-your-help-2026-seattle-city-council-budget-action

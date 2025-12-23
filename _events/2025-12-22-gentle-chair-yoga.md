@@ -42,7 +42,7 @@ feed_content_checksum: 421ea00d6074d2314619695ba14f090cc77953df
 image_ids: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
-locations:
+location_titles:
 - King County
 organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/gentle-chair-yoga/2025-12-22/

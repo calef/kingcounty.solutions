@@ -80,7 +80,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"datetime\">December 4 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - 68407eadeeb9a22e88f3e779a3262c887ba954a9017f6384e2bc1c45c50a5b3c
-locations:
+location_titles:
 - King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-12-4-25

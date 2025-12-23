@@ -142,7 +142,7 @@ feed_content: '<a id="main-content" href="#main_content" class="screen-reader-sh
   University of Washington | Seattle, WA</p> </div> </div> </div>'
 image_ids: []
 location: Student Union Building (HUB)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

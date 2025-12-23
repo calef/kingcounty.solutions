@@ -16,7 +16,7 @@ feed_content: "<p>What a beautiful morning celebrating the installation of this 
   \           \n          \n        \n          \n        \n\n        \n      \n        </figure>"
 feed_content_checksum: f80d835b330edea52975acdc861c9967edfeeb61
 image_ids: []
-locations: []
+location_titles: []
 original_source_html: "<p>What a beautiful morning celebrating the installation of
   this year’s <a><strong>Light The World Giving Machines</strong></a> at South Hill
   Mall!</p><p>You can find us in Giving Machines at South Hill Mall in Puyallup and

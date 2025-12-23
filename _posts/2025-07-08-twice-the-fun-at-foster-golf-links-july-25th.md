@@ -29,7 +29,7 @@ feed_content: |-
 
   The post [Twice the Fun at Foster Golf Links July 25th](https://www.tukwilawa.gov/twice-the-fun-at-foster-golf-links-july-25th/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/twice-the-fun-at-foster-golf-links-july-25th/

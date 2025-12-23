@@ -7,7 +7,7 @@ feed_content: Can you devote your time to helping your community? The Seattle 
   Housing Developer Board, a Public Development Authority (PDA) responsible for developing,
   owning,...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/04/help-prevent-displacement-and-shape-affordable-housing-in-seattle-apply-for-the-seattle-social-housing-developer-board/

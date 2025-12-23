@@ -88,7 +88,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   30 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - bbf7f9e56798fc52748be6ac101fa80f380466e77160f52419486b01b20e08cd
-locations:
+location_titles:
 - King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-mid-biennium-budget-discussions-begin

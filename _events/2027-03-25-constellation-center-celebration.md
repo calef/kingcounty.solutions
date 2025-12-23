@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Broadway and Pine, Capitol Hill
-locations:
+location_titles:
 - King County
 organization_title: Community Roots Housing
 published: false

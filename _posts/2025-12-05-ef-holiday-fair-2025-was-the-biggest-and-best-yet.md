@@ -21,7 +21,7 @@ feed_content_checksum: 6f777bc1d0f1045297e67831efdbff2a8a4cb3fc
 image_ids:
 - c0c44a57fa3d0ab531d0bdd7852953caeed446f90c209bb7389ec6c7879760fd
 - 7c8d9ea0e67ff06dad6201d0d8fcaa471563f4ccff737f366d3dcbeabe7ced5d
-locations:
+location_titles:
 - King County
 original_source_html: "<p>Holiday Fair 2025 provided resources, gifts, meals, and
   community for over 400 neighbors and brought together more than 30 community partners

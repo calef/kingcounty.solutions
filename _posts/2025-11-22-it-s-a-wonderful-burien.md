@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/2025/Wondeful%20Burien%202025%20-%20FE.png"
   />Support local businesses while enjoying the culture and small-town charm of Burien!
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=21063060

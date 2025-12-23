@@ -41,7 +41,7 @@ feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-tem
 image_ids: []
 location: 'Bike works warehouse, 3715 S Hudson St #111, Seattle, Washington, 98118,
   United States'
-locations:
+location_titles:
 - King County
 organization_title: Bike Works
 published: false

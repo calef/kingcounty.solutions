@@ -13,7 +13,7 @@ feed_content: |-
   <p>The post <a>Ukrainian Folk Art</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: 490f7fb6589495c66f048d4282ab009954b10ca6
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10635

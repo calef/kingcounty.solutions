@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Des Moines Library
-locations:
+location_titles:
 - Des Moines
 organization_title: King County Library System
 source_url: https://kcls.org/blogs/post/reimagine-library-spaces/

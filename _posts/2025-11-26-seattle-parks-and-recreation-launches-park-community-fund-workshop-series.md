@@ -5,7 +5,7 @@ feed_content: Seattle Parks and Recreation(SPR) is excited to announce the launc
   advances park equity in Seattle through a community-led funding process. The fund
   invests in both large ...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/26/seattle-parks-and-recreation-launches-park-community-fund-workshop-series/

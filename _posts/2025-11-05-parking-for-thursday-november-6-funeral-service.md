@@ -5,7 +5,7 @@ feed_content: |-
 
   [![](https://snoqualmietribe.us/wp-content/uploads/2025/11/Small-Map-to-Service.png)](https://snoqualmietribe.us/wp-content/uploads/2025/11/Small-Map-to-Service.png)
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/parking-for-thursday-november-6-funeral-service/

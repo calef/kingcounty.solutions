@@ -7,7 +7,7 @@ feed_content: Are you ready for a little Thursday Night football?? Rams… Seaha
   playoffs comes to Lumen...
 feed_content_checksum: a34c7fa23b9d7f37a78ea898fe9ec558897d6e2b
 image_ids: []
-locations:
+location_titles:
 - King County
 locked: true
 original_source_html: Are you ready for a little Thursday Night football?? Rams… Seahawks…

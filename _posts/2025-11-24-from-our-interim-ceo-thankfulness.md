@@ -4,7 +4,7 @@ feed_content: |-
   <p>It&rsquo;s almost the time of year when most people in the U.S. celebrate Thanksgiving. Throughout the year, I notice people share thankfulness, but sometimes it is in comparison to others. For example, they&rsquo;ll say, &ldquo;there but for the grace of God, there go I&rdquo; or &ldquo;when I look at what they are going through, it makes me appreciate my life so much more.&rdquo; I am sure it&rsquo;s not intended, but when I hear&#8230;</p>
   <p><a href="https://www.uwkc.org/breaking-the-cycle-of-poverty-news/from-our-interim-ceo-thankfulness/" rel="nofollow">Source</a></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: United Way of King County
 source_url: https://www.uwkc.org/breaking-the-cycle-of-poverty-news/from-our-interim-ceo-thankfulness/

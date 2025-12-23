@@ -36,7 +36,7 @@ feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.25
 feed_content_checksum: 0ba627d894e5de15159bbedee04a431228f2d7f2
 image_ids: []
 location: "[ONLINE] Overlake Medical Center"
-locations:
+location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/exercise-cancer-gentle-yoga-monday-evenings-sponsored-by-overlake-medical-center-9/2025-12-22/

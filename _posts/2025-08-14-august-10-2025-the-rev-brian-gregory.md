@@ -4,7 +4,7 @@ feed_content: |-
   <p>The Ninth Sunday after Pentecost There are some days when the sermon jumps out from our lectionary readings and is readily apparent with stories, parables, or teachings from Jesus that &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/08/14/august-10-2025-the-rev-brian-gregory/" aria-label="August 10, 2025 &#8212; The Rev Brian Gregory">Read More</a></p>
   <p>The post <a href="https://stlukesseattle.org/2025/08/14/august-10-2025-the-rev-brian-gregory/">August 10, 2025 &#8212; The Rev Brian Gregory</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/08/14/august-10-2025-the-rev-brian-gregory/

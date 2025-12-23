@@ -28,7 +28,7 @@ feed_content: |-
 
   The post [King County Flood Control District Offers Free Sandbag Materials to Help Residents “Be Flood Ready”](https://kingcountyfloodcontrol.org/king-county-flood-control-district-offers-free-sandbag-materials-to-help-residents-be-flood-ready/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/king-county-flood-control-district-offers-free-sandbag-materials-to-help-residents-be-flood-ready/?utm_source=rss&utm_medium=rss&utm_campaign=king-county-flood-control-district-offers-free-sandbag-materials-to-help-residents-be-flood-ready

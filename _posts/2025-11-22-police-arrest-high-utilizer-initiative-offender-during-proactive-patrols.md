@@ -5,7 +5,7 @@ feed_content: Seattle police officers arrested a 30-year-old man, and &#8220;Hig
   District. On Nov. 20 at about 8:50 p.m., officers on foot, patrolling the area of
   12th Avenue So...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/21/police-arrest-high-utilizer-initiative-offender-during-proactive-patrols/

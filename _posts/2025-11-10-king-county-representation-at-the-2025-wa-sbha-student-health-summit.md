@@ -8,7 +8,7 @@ feed_content: On November 7, the Washington School Based Health Alliance hosted 
   their initiatives, including student health councils and local health jurisdiction
   support, fostering networking and collaboration among peers across the state.
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/11/10/king-county-representation-at-the-2025-wa-sbha-student-health-summit/

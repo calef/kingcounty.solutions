@@ -45,7 +45,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   Nikki and Sara's\n  </a>"
 image_ids:
 - 1a4f38456fffb57c119095542f0d8069053ccbafb504095f8b59017a9ea4d141
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/a-long-journey-home-nikki-and-saras-story

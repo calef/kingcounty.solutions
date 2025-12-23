@@ -1452,7 +1452,7 @@ image_ids:
 - df216f7b7493d39bc33e1459f96bf6ee6cec06133a2ae290819d90ec6da20460
 - 1accd8453366ea4c75b0f651276bfcd86020b4a8d413f3de9720e551f21033db
 - 283cd3c81353964056bf8456819c2c5f70657296e3cce7944d355109544dfa8f
-locations:
+location_titles:
 - King County
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cuentos-from-our-work-august-2025

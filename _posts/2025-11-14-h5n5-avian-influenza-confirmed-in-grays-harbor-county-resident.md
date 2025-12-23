@@ -52,7 +52,7 @@ feed_content: |-
 
   <p class="text-align-center">###&nbsp;</p></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/h5n5-avian-influenza-confirmed-grays-harbor-county-resident

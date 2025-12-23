@@ -42,7 +42,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
 feed_content_checksum: d5c7e1da8b81be3a58e0ceb06076e7aa6f50aca8
 image_ids: []
 location: Foster High School, 4242 S 144th St, Tukwila, 98188
-locations:
+location_titles:
 - King County
 organization_title: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/free-rave-winter-soccer-clinics-ages-5-11/2025-12-30/

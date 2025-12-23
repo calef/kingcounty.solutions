@@ -15,7 +15,7 @@ feed_content: "[The Housing Accountability Act](https://lawfilesext.leg.wa.gov/b
   changes, may not deny affordable or moderate-income housing development and would
   be ineligible for certain state infrastructure grants and loans.\n\n[![](https://www.commerce.wa.gov/wp-content/uploads/2025/10/Selected-Review-procedure-cover.jpeg)](https://deptofcommerce.app.box.com/file/2010239759433?s=d4uluw4s4kpys8a7y2588vyt3ihp3nyu)"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/housing-accountability-act-commerce-shares-draft-selected-review-procedures/

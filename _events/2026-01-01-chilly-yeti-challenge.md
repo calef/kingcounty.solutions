@@ -56,7 +56,7 @@ feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-tem
   Organizer Website</a> </span> </li> </ul> </div> </div> </div> </div> </section>'
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: KidVantage
 source_url: https://kidvantagenw.org/event/chilly-yeti-challenge/

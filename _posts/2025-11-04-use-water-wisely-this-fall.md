@@ -11,7 +11,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/04/use-water-w
   we’ve had significant rainfall in the mountain reservoirs that collect and store
   our drinking water (thanks, atmospheric river!). After a dry summer, we are [&#8230;]'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/04/use-water-wisely-this-fall/

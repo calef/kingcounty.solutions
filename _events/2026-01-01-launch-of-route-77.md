@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: North Seattle
-locations:
+location_titles:
 - King County
 organization_title: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/11/connecting-lake-city-transit-30th-ave-ne-project/

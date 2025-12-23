@@ -31,7 +31,7 @@ feed_content: "<figure class=\"wp-block-image size-full\"><a href=\"https://www.
   on <a href=\"https://www.compasshousingalliance.org\">Compass Housing Alliance</a>.</p>"
 image_ids:
 - e1b9f07559bc8d2a2e34f622c5978627ef0386d99b0c1b9634301295d8f6922a
-locations:
+location_titles:
 - King County
 source: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/08/compass-selected-again-as-seahawks-spirit-of-12-partner/

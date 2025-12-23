@@ -4,7 +4,7 @@ feed_content: "<div> <div> <div> <div>Loading…</div> </div> </div> </div>"
 feed_content_checksum: a1e32cc93d5fed3cd66da173545d64a00645bcfd
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: "<!DOCTYPE html>\r\n<html dir=\"ltr\" xmlns=\"http://www.w3.org/1999/xhtml\"

@@ -76,7 +76,7 @@ feed_content: |-
 
   The post [Celebrate Salmon Season in King County: Protecting a Northwest Icon](https://kingcountyfloodcontrol.org/celebrate-salmon-season-in-king-county-protecting-a-northwest-icon/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/celebrate-salmon-season-in-king-county-protecting-a-northwest-icon/?utm_source=rss&utm_medium=rss&utm_campaign=celebrate-salmon-season-in-king-county-protecting-a-northwest-icon

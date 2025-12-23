@@ -74,7 +74,7 @@ feed_content: '<header class="page-header background-image-page-header wpex-supp
   </span> </li> </ul> </div> </div> </div> </div> </div> </div> </div> </div>'
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: Olive Crest
 published: false
 source_url: https://www.olivecrest.org/calendar/virtual-volunteer-orientation-orange-county-10/

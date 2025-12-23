@@ -7,7 +7,7 @@ feed_content: 'Weekend Service Impacts Routes 7, 106 and ST 554 will have stop 
   on Saturday, December...'
 feed_content_checksum: 124e99a491182efdd05830c0cc662d5608e757c1
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: 'Weekend Service Impacts Routes 7, 106 and ST 554 will have
   stop #8494 Rainier Avenue S &amp; S Charles Street (northbound) closed from 7 a.m.

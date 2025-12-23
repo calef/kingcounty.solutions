@@ -36,7 +36,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>For more than a c
   post <a href=\"https://www.dav.org/learn-more/news/2025/warriors-club/\">Warriors
   Club</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/warriors-club/

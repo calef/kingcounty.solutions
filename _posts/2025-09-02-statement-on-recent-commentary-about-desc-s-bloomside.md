@@ -8,7 +8,7 @@ feed_content: There have been recent claims about the work DESC is doing at Bloo
   a committed partner in Burien. For starters, we prioritized people for tenancy who
   had already been experiencing [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: DESC
 source_url: https://www.desc.org/statement-on-recent-commentary-about-descs-bloomside/

@@ -25,7 +25,7 @@ feed_content: |-
   <p>The post <a href="https://ctckids.org/2025/10/childrens-therapy-centers-2025-annual-impact-report/">Children’s Therapy Center’s 2025 Annual Impact Report</a> appeared first on <a href="https://ctckids.org">Children&#039;s Therapy Center</a>.</p>
 image_ids:
 - 4b73748bbc40a3926e20cb2a1c4355ea12d111e97307aa86ece9817f47f87c6c
-locations:
+location_titles:
 - King County
 source: Children's Therapy Center
 source_url: https://ctckids.org/2025/10/childrens-therapy-centers-2025-annual-impact-report/

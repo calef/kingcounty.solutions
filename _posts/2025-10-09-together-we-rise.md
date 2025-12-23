@@ -51,7 +51,7 @@ feed_content: |-
   <p>The post <a href="https://youthcare.org/blog/together-we-rise/">Together We Rise</a> appeared first on <a href="https://youthcare.org">YouthCare</a>.</p>
 image_ids:
 - 84a209de96a1eeef9202aed66d9f94c173d33930526ca07c8230cc1de4c25fdc
-locations:
+location_titles:
 - King County
 source: YouthCare
 source_url: https://youthcare.org/blog/together-we-rise/

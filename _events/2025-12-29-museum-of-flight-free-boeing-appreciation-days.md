@@ -35,7 +35,7 @@ feed_content_checksum: 52e201ea9e04ee5a64c861515df376f169a7f57a
 image_ids: []
 location: Museum of Flight, 9404 East Marginal Way South, Seattle, WA, 98108, United
   States
-locations:
+location_titles:
 - King County
 organization_title: City of Tukwila
 published: false

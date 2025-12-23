@@ -8,31 +8,35 @@ class LocationPublicationTest < Minitest::Test
     @documents = load_documents('_events/*.md') + load_documents('_posts/*.md')
   end
 
-  def test_empty_locations_lists_are_unpublished
+  def test_empty_location_titles_lists_are_unpublished
     errors = []
 
     documents.each do |doc|
       front = doc[:data]
-      next unless front.key?('locations')
+      next unless front.key?('location_titles')
 
-      locations = front['locations']
-      next unless locations.is_a?(Array) && locations.empty?
+      location_titles = front['location_titles']
+      next unless location_titles.is_a?(Array) && location_titles.empty?
 
       published = front.fetch('published', nil)
-      errors << "#{doc[:path]} must set published: false when locations is an empty list" unless published == false
+      unless published == false
+        errors << "#{doc[:path]} must set published: false when location_titles is an empty list"
+      end
     end
 
-    assert_empty errors, "Empty location list publishing issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Empty location_titles list publishing issues:\n#{errors.join("\n")}"
   end
 
-  def test_documents_include_locations_attribute
+  def test_documents_include_location_titles_attribute
     errors = []
 
     documents.each do |doc|
-      errors << "#{doc[:path]} must include the locations front matter attribute" unless doc[:data].key?('locations')
+      unless doc[:data].key?('location_titles')
+        errors << "#{doc[:path]} must include the location_titles front matter attribute"
+      end
     end
 
-    assert_empty errors, "Missing locations attribute:\n#{errors.join("\n")}"
+    assert_empty errors, "Missing location_titles attribute:\n#{errors.join("\n")}"
   end
 
   private

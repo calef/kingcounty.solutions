@@ -10,7 +10,7 @@ feed_content: 'Last week, we called on the City of Seattle to add $10 million to
   targeted to tenants living in non-profit housing financed by the Office of Housing
   (OH). This...'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/time-to-advocate-ask-city-council-for-10-million-for-rent-assistance-for-at-risk-tenants

@@ -7,7 +7,7 @@ feed_content: |-
 
   [Read More... from Willem’s History](https://iacswa.org/willems-history/)
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Indian American Community Services
 source_url: https://iacswa.org/willems-history/

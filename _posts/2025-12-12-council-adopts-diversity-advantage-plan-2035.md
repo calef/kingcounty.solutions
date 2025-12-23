@@ -38,7 +38,7 @@ feed_content: "<span>Council adopts Diversity Advantage Plan 2035</span>\n<span>
   \ </div>"
 feed_content_checksum: 18e8d6a9bb74c2d15299c5eb6cf1f66faf65dee0
 image_ids: []
-locations:
+location_titles:
 - Bellevue
 published: false
 rss_guid: 215536 at https://bellevuewa.gov

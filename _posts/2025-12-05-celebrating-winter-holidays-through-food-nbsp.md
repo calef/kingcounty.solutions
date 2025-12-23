@@ -94,7 +94,7 @@ feed_content: '<p class="">We believe that food brings people together across cu
   holiday traditions and foods show how deeply food and culture are intertwined, and
   how sharing them brings connection, community, and joy to the season.</p>'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/celebrating-winter-holidays-through-food

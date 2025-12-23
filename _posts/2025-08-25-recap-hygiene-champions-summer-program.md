@@ -74,7 +74,7 @@ feed_content: "<p class=\"\">This summer, our Hygiene Champions, a group of amaz
 image_ids:
 - b146a1d0434b674d1ce7548d3b447ea1988ef5115de890da31899f186008bc0b
 - 3b7d6693c7847bf7455a782888fb9bb2e49e15b061241e60d198baa3e972526b
-locations:
+location_titles:
 - King County
 source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/x6fbag35a54h6xwsgd7ssjuh90fb18

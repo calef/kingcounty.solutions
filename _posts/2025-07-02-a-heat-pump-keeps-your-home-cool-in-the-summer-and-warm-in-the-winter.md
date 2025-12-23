@@ -104,7 +104,7 @@ feed_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm in t
   systems and manage their ongoing energy costs.”\n\nTo find out if getting a heat
   pump is right for you, head to the [Energy Smart Eastside website](https://www.energysmarteastside.org/).&nbsp;&nbsp;"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Hopelink
 source_url: https://www.hopelink.org/blog/a-heat-pump-keeps-your-home-cool-in-the-summer-and-warm-in-the-winter/

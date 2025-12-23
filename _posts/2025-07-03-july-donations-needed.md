@@ -20,7 +20,7 @@ feed_content: |-
   <p></p>
 image_ids:
 - 35d260c9b6bdd225f07a2dd042f380ebc74fa7c3786a5297bbed66ae09260953
-locations:
+location_titles:
 - South King County
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/july-donations-needed/

@@ -36,7 +36,7 @@ feed_content: "The City of Tukwila is assisted in its operations by the voluntee
   post [Currently Accepting Applications for Boards, Commissions and Committees](https://www.tukwilawa.gov/currently-accepting-applications-for-boards-commissions-and-committees-2/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/currently-accepting-applications-for-boards-commissions-and-committees-2/

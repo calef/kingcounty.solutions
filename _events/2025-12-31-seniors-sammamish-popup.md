@@ -16,7 +16,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
 feed_content_checksum: 929b1dfdffddc5881a8dce652f7716486f8148df
 image_ids: []
 location: Beaver Lake Lodge, 25099 SE 24th St, Kirkland, WA, United States
-locations:
+location_titles:
 - King County
 organization_title: Indian American Community Services
 source_url: https://iacswa.org/event/seniors-sammamish-popup-306/

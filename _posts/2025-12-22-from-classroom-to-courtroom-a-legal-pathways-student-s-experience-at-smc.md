@@ -8,7 +8,7 @@ feed_content: Fatoumata Diallo and Halima Mohamed recently wrapped up a monthslo
   State Legislat...
 feed_content_checksum: 8ea7e9a529fa1f390f313ac9fbba9f422677c136
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Fatoumata Diallo and Halima Mohamed recently wrapped up a monthslong
   job shadowing opportunity with Seattle Municipal Court (SMC) employees. They were

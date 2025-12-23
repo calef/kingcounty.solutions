@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Meydenbauer Bay Park
-locations:
+location_titles:
 - King County
 organization_title: City of Bellevue
 published: false

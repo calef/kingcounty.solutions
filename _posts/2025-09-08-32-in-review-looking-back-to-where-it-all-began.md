@@ -34,7 +34,7 @@ feed_content: "<h2 data-start=\"924\" data-end=\"1111\">32 in Review:  Looking 
   we are 32 Strong. Together, we begin Year 33.</h4>\n<h3>Link to: <a href=\"https://secure.lglforms.com/form_engine/s/pnZT4f_ZJ6H6U9hDXMAi4A\">Give
   Today</a></h3>"
 image_ids: []
-locations:
+location_titles:
 - Eastside
 source: PorchLight
 source_url: https://porchlightcares.org/2025/09/32-in-review-looking-back-to-where-it-all-began/

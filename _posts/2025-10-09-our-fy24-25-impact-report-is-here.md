@@ -93,7 +93,7 @@ image_ids:
 - 796f4803fbd553f9a0bd3351f24fbd5a8d0d716b3cbeca5c66f9bb070d57505c
 - ca879517e14554fa129509340e6e34f4a011fc0718ab22ccdc64327f1848bea9
 - b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
-locations:
+location_titles:
 - King County
 source: BrightSpark
 source_url: https://www.brightspark.org/2025/10/our-fy24-25-impact-report-is-here/

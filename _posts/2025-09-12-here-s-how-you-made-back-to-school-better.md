@@ -552,7 +552,7 @@ image_ids:
 - 063fa395185fff720aae08bac672e5c617f67ba971eb9125aea64429924d623a
 - e7bba1c6eab1896f7a9605729bb93de8f54ecca8ff3d2c41f3cd40c18dccb1a8
 - 016bbb2a3eb286a0c37d731aa43096aa061ae84f1db09e7aac119323547f4393
-locations:
+location_titles:
 - King County
 source: Solid Ground
 source_url: https://www.solid-ground.org/heres-how-you-made-back-to-school-better/

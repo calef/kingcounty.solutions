@@ -61,7 +61,7 @@ image_ids:
 - b969f171a2711625d931d0cd2ef8ee0e6c3375a9689e7107da5e94b5e2bd18e3
 - d0bcaf59233714b195cd9cb9970d0dc462f202ba90d39dd1d4c81e0ef465f1f7
 - 4dbd7232d4fb7cf720034a51d9cf7a97f83c9f19ad46182e62257e7fed963d52
-locations:
+location_titles:
 - King County
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/blooms-bubbles-bling/?utm_source=rss&utm_medium=rss&utm_campaign=blooms-bubbles-bling

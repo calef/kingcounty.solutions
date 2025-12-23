@@ -36,7 +36,7 @@ feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/u
   post <a>Take DAV Caregivers Support for a spin</a> appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: 0ca8354ebb1a9aaaf83b4462cceabfe209fd550a
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/take-dav-caregivers-support-for-a-spin/

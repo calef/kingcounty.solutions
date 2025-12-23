@@ -87,7 +87,7 @@ feed_content: "<p><div class=\"et_pb_section et_pb_section_7 blog-post-type et_s
   <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 image_ids:
 - aee9befd6ba48493a1a03904e7fce1a3a13d45ab28e36dc9afde24c88b9f2bc0
-locations:
+location_titles:
 - King County
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/

@@ -5,7 +5,7 @@ feed_content: |-
   <p>Get more information here:  <a href="https://snoqualmietribe.us/call-for-artists/">https://snoqualmietribe.us/call-for-artists/</a></p>
   <p>&nbsp;</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/call-for-indigenous-artists/

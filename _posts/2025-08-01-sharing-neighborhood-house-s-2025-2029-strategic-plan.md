@@ -7,7 +7,7 @@ feed_content: |-
   <p class="read-more-container"><a title="Sharing Neighborhood House’s 2025-2029 Strategic Plan" class="read-more button" href="https://nhwa.org/2025/08/01/sharing-neighborhood-houses-2025-2029-strategic-plan/#more-25211" aria-label="Read more about Sharing Neighborhood House’s 2025-2029 Strategic Plan">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/08/01/sharing-neighborhood-houses-2025-2029-strategic-plan/">Sharing Neighborhood House’s 2025-2029 Strategic Plan</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Neighborhood House
 source_url: https://nhwa.org/2025/08/01/sharing-neighborhood-houses-2025-2029-strategic-plan/
