@@ -4,7 +4,7 @@ feed_content_checksum: e15b38ef6984c7904b0827f93ef88bcd381af7c9
 generated_from_post: true
 image_ids: []
 location: South Park Branch
-locations:
+location_titles:
 - King County
 organization_title: The Seattle Public Library
 original_source_html: A magic show performance by Louie Foxx.

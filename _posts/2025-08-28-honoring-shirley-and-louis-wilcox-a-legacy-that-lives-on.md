@@ -7,7 +7,7 @@ feed_content: |-
   <p class="read-more-container"><a title="Honoring Shirley and Louis Wilcox: A Legacy That Lives On " class="read-more button" href="https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/#more-25232" aria-label="Read more about Honoring Shirley and Louis Wilcox: A Legacy That Lives On ">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/">Honoring Shirley and Louis Wilcox: A Legacy That Lives On </a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Neighborhood House
 source_url: https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/

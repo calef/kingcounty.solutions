@@ -44,7 +44,7 @@ feed_content: |-
   <p>The post <a href="https://positiveplace.org/field-day-2025-at-seattle-university/">Field Day 2025 at Seattle University</a> appeared first on <a href="https://positiveplace.org">Boys &amp; Girls Clubs</a>.</p>
 image_ids:
 - 937847eec74bf197055367e4dc7bba4fbd8ddcc2dacc28b1e12a43f77d52d8c4
-locations:
+location_titles:
 - King County
 source: Boys & Girls Clubs of King County
 source_url: https://positiveplace.org/field-day-2025-at-seattle-university/

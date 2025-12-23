@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Kent Library
-locations:
+location_titles:
 - King County
 organization_title: King County Library System
 published: false

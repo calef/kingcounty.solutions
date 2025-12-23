@@ -124,7 +124,7 @@ image_ids:
 - 02de085043b3a8bf9a503560bcda4b5eae536231455a631dc3d7ee8130d1ac7b
 - 4b6b6173bced96a89d5595a83ceb3adeeb9d34bcd12821c0cf29bd4d54ab6385
 - 5b07e9d39520c3fca460091cc2927881a8a45fc88dd2b225551a2871d120fc60
-locations:
+location_titles:
 - King County
 source: Homework Help
 source_url: https://blog.spl.org/2025/11/26/december-2025-author-and-community-events/

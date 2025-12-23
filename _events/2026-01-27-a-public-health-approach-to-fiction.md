@@ -6,7 +6,7 @@ feed_content: "<meta><meta><link><meta><meta><meta><link><link><script></script>
 feed_content_checksum: 90cc687ab14bfeda401558d1963cb2f796b8b190
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 source_url: https://events.teams.microsoft.com/event/1f77c67d-be1d-444f-92fd-9ab4215331eb@f6b6dd5b-f02f-441a-99a0-162ac5060bd2

@@ -7,7 +7,7 @@ feed_content: We are excited to announce a new opportunity for development partn
   seeking qualified affordable housing developers to partner with us on the Henderson
   Street development...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://housing.seattle.gov/developer-opportunity-help-build-affordable-housing-in-south-park/

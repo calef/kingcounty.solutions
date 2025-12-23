@@ -7,7 +7,7 @@ feed_content: |-
   </form>
   <p>The post <a href="https://ihdd.org/2025/11/25/down-syndrome-connect-research-study-roundup/">Protected: Down Syndrome-Connect Research Study Roundup</a> appeared first on <a href="https://ihdd.org">UW IHDD</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/25/down-syndrome-connect-research-study-roundup/

@@ -15,7 +15,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/06/seattles-ne
   Utilities (SPU) has introduced new industry-leading solid waste metrics that focus
   not just on recycling, [&#8230;]'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/06/seattles-new-waste-metrics-measuring-what-matters-most/

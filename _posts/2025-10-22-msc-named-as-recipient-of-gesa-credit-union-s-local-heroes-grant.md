@@ -8,7 +8,7 @@ feed_content: Multi-Service Center has been chosen by the Gesa Community Foundat
   some furniture in community common areas.   “At Gesa, we are honored to support
   the Local Heroes  [...]
 image_ids: []
-locations:
+location_titles:
 - South King County
 source: Multi-Service Center
 source_url: https://mschelps.org/msc-named-as-recipient-of-gesa-credit-unions-local-heroes-grant/

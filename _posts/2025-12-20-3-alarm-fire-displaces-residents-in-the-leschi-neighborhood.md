@@ -8,7 +8,7 @@ feed_content: Seattle — At 7:38 p.m., the Seattle Fire Department’s Fire Ala
   on scene ...
 feed_content_checksum: 73d968357bc4f893f8a8597d146fd90cc5e3a59b
 image_ids: []
-locations:
+location_titles:
 - Seattle
 original_source_html: Seattle — At 7:38 p.m., the Seattle Fire Department’s Fire Alarm
   Center received 911 calls reporting an exterior fire on the back deck of a two-story

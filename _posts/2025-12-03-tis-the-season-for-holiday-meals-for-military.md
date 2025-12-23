@@ -69,7 +69,7 @@ feed_content: |-
   <p>The post <a href="https://operationhomefront.org/tis-the-season-for-holiday-meals-for-military/">‘Tis the Season for Holiday Meals for Military®  </a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
 image_ids:
 - 9e98beb00c24fa6337279e196d37d8e8f550e93342c04a9568c3414f35e5595e
-locations:
+location_titles:
 - King County
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/tis-the-season-for-holiday-meals-for-military/

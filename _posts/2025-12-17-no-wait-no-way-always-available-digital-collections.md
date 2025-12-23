@@ -23,7 +23,7 @@ feed_content: |-
   <p><em>~Posted by Frank</em></p>
 feed_content_checksum: 295fd5bbf705145efb33573eec094ad90633c73e
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p>One of the library’s best kept secrets is our collection of always available digital books and audiobooks. They can be checked out simultaneously, and checkouts are unlimited. Perfect for book groups or reconnecting with a personal favorite, these collections provide 24/7 access to timeless classics alongside brand new releases.</p>

@@ -44,7 +44,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   9 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - 64d7a628db61d440e1f1ca0b442a944182ef2ced068c02562dbc317a3c638e1b
-locations:
+location_titles:
 - King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/cross-cultural-rfp-25

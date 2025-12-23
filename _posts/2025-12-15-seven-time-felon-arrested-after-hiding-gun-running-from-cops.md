@@ -6,7 +6,7 @@ feed_content: Seattle police officers arrested a 27-year-old felon after hiding 
   South and South ...
 feed_content_checksum: baaad0624c4ece053af9f0a0d8d09f9441e70e3c
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Seattle police officers arrested a 27-year-old felon after hiding
   a gun and running from officers in Pioneer Square Sunday morning. On Dec. 14 at

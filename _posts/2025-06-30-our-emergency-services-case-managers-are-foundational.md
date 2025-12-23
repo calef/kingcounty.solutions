@@ -68,7 +68,7 @@ feed_content: |-
   <p></p>
   <p>The post <a href="https://www.compasshousingalliance.org/2025/06/our-emergency-services-case-managers-are-foundational/">Our emergency services Case Managers are foundational</a> appeared first on <a href="https://www.compasshousingalliance.org">Compass Housing Alliance</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/06/our-emergency-services-case-managers-are-foundational/

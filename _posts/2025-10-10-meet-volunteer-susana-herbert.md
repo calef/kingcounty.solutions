@@ -9,7 +9,7 @@ feed_content: |-
 
   <p>Originally from &hellip;</p></a>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/meet-volunteer-susana-herbert/

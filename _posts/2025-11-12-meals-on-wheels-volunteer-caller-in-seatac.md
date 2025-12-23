@@ -21,7 +21,7 @@ feed_content: "<p><strong>Position: </strong>Caller                   
   on Wheels: Volunteer Caller in SeaTac!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-volunteer-caller-in-seatac/

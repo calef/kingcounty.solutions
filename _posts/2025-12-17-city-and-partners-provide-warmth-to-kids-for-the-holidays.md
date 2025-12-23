@@ -8,7 +8,7 @@ feed_content: The Seattle Police Department was proud to join forces with the Se
   for children...
 feed_content_checksum: 725b44e1c0006c9e5bdfb77b2b17c25d155c8d31
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: The Seattle Police Department was proud to join forces with
   the Seattle CARE Department, Accenture, and Operation Warm to bring warmth and hope

@@ -105,7 +105,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >
   Responds to the USDA Withholding SNAP Benefits</a> appeared first on <a href=\"https://hungerintervention.org\">Hunger
   Intervention Program</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Hunger Intervention Program
 source_url: https://hungerintervention.org/2025/11/14/hip-responds-to-the-usda-witholding-snap-benefits/?utm_source=rss&utm_medium=rss&utm_campaign=hip-responds-to-the-usda-witholding-snap-benefits

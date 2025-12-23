@@ -50,7 +50,7 @@ feed_content: |-
   </table>
 feed_content_checksum: e8c1a49958b33f65a5c1c8d4e9892d75c7cfb276
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/dave-chappelle-at-climate-pledge-arena-ticket-distribution/

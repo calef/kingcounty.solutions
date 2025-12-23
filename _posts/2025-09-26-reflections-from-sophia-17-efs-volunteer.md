@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: June 8, 2025 was a day filled with both joy and bittersweet goodbyes
   for me. The day signaled an end to a 7-month long journey of...
 image_ids: []
-locations:
+location_titles:
 - Eastside
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/reflections-from-sophia-efs-volunteer

@@ -14,7 +14,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   in the planning, design, construction, operation, and maintenance of City Light&#8217;s
   hydroelectric generation facilities. My favorite thing about my role is that [&#8230;]'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/10/14/seattle-city-spotlight-dani-yovine-electrical-engineer-associate/

@@ -10,7 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>San Dieg
 feed_content_checksum: fdf2fee1a6c25981a44aa3b20af8364cd02a75f9
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: Disabled American Veterans
 published: false
 source_url: https://www.dav.org/events-calendar/san-diego-job-fair-march-11-2026/

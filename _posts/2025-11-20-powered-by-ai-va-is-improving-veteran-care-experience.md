@@ -111,7 +111,7 @@ feed_content: |-
 
   <p>Visit <a href="https://department.va.gov/ai/" rel="noopener">Explore AI at VA</a> to learn more about VA’s innovative efforts in AI and digital health solutions.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143486/powered-by-ai-improving-veteran-care-experience/

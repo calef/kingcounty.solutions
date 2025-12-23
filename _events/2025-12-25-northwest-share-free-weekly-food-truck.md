@@ -41,7 +41,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
 feed_content_checksum: 874270c8a96fcc5573348c55872e0c7a937854bd
 image_ids: []
 location: Together Center, 16305 NE 87th St, Redmond, WA, 98052, United States
-locations:
+location_titles:
 - King County
 organization_title: Together Center
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta

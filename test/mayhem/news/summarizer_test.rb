@@ -133,7 +133,7 @@ class PostSummarizerTest < Minitest::Test
     assert_equal 'Fresh summary.', document.body.strip
   end
 
-  def test_backfills_locations_for_unpublished_summarized_post
+  def test_backfills_location_titles_for_unpublished_summarized_post
     write_post('2025-01-04-test.md', {
                  'source_url' => 'http://ok3',
                  'summarized' => true,
@@ -143,7 +143,7 @@ class PostSummarizerTest < Minitest::Test
                }, 'Summarized post without locations')
 
     # For unpublished posts, we should not call the classifier
-    # It should just set locations to [] and clear image_ids
+    # It should just set location_titles to [] and clear image_ids
     location_classifier = Object.new
     def location_classifier.classify(*)
       raise 'Should not be called for unpublished posts'
@@ -163,16 +163,16 @@ class PostSummarizerTest < Minitest::Test
     assert_equal 1, stats[:locations_backfilled]
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-04-test.md'), logger: @logger)
 
-    assert_empty document.front_matter['locations']
+    assert_empty document.front_matter['location_titles']
     assert_empty document.front_matter['image_ids']
   end
 
-  def test_run_skips_classification_when_topics_and_locations_explicitly_empty
+  def test_run_skips_classification_when_topics_and_location_titles_explicitly_empty
     write_post('2025-01-05-test.md', {
                  'source_url' => 'http://ok',
                  'summarized' => true,
                  'topics' => [],
-                 'locations' => []
+                 'location_titles' => []
                }, 'body')
 
     topic_classifier = Object.new
@@ -182,7 +182,7 @@ class PostSummarizerTest < Minitest::Test
 
     location_classifier = Object.new
     def location_classifier.classify(*)
-      raise 'should not be invoked when locations already exist'
+      raise 'should not be invoked when location_titles already exist'
     end
 
     summarizer = Mayhem::News::PostSummarizer.new(

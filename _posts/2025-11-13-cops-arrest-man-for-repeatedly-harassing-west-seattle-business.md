@@ -7,7 +7,7 @@ feed_content: Seattle police officers arrested a 42-year-old convicted felon las
   a West Seattle travel agency. On Nov. 5, at about 9:50 a.m., patrol officers responded
   to a Court ...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/13/cops-arrest-man-for-repeatedly-harassing-west-seattle-business/

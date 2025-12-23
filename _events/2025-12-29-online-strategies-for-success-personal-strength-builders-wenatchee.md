@@ -72,7 +72,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
 feed_content_checksum: e7afd44c8171faaf2d05b6bd5e589f805ed32156
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: WorkSource Seattle-King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta

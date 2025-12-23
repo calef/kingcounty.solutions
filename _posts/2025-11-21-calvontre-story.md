@@ -36,7 +36,7 @@ feed_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  at
   Story</a> appeared first on <a rel=\"nofollow\" href=\"https://www.boyercc.org\">Boyer
   Children&#039;s Clinic</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/family-stories/cayden-2/

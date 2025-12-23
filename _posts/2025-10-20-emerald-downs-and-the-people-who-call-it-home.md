@@ -3,7 +3,7 @@ date: '2025-10-20T18:49:00+00:00'
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/25-2_Auburn%20Magazine_Fall_337x234_Web%20Banner.png"
   />
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=19636123

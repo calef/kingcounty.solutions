@@ -17,7 +17,7 @@ feed_content: |-
 
   The post [Welcome Bianca and Deyanira](https://elap.org/welcome-bianca-and-deyanira/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 image_ids: []
-locations:
+location_titles:
 - Eastside
 source: Eastside Legal Assistance Program
 source_url: https://elap.org/welcome-bianca-and-deyanira/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-bianca-and-deyanira

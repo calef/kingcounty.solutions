@@ -73,7 +73,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"10836\" 
   Now and Help Rewrite the Story</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t</div>"
 image_ids:
 - 4fdf634f8e2d9acd0422227e42b3947d305b989a74b3670d8df4da23b7be127d
-locations:
+location_titles:
 - King County
 source: PorchLight
 source_url: https://porchlightcares.org/2025/10/turning-the-page-together-light-the-way-2025-recap/

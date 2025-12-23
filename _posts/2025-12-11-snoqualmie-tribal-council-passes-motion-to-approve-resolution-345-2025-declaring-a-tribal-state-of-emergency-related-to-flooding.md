@@ -17,7 +17,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: ac481559cdc050605bc3af02a8edb931260f0491
 image_ids: []
-locations:
+location_titles:
 - Snoqualmie Valley
 rss_guid: https://snoqualmietribe.us/?p=6886
 source: Snoqualmie Indian Tribe

@@ -7,7 +7,7 @@ feed_content: The 2026 budget passed by the Seattle City Council highlights our 
   new industry and helps local businesses grow, innovate, and create opportunity across
   the city....
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/26/city-council-adopts-2026-budget-highlights-for-oed/

@@ -53,7 +53,7 @@ feed_content: "<p class=\"\">For weeks, Jaclyn and her son, Tyler, had been expe
   data-sqsp-button target=\"_blank\"\n  >\n    support our work!\n  </a>"
 image_ids:
 - cfa117e2a26e7244cead9d863a59f13fa09efb5b50663ee56df7de0e0a60ed21
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/vn6buflo7xrt3qsqzpbu3idvdsbi8x

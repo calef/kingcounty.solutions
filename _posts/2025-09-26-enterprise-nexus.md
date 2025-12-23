@@ -6,7 +6,7 @@ feed_content: <p>The post <a href="https://worksourceskc.org/enterprise-nexus/">
   Nexus</a> appeared first on <a href="https://worksourceskc.org">WorkSource Seattle-King
   County</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/enterprise-nexus/?utm_source=rss&utm_medium=rss&utm_campaign=enterprise-nexus

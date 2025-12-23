@@ -7702,7 +7702,7 @@ feed_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-he
   auto);--awb-c'
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: NOSSCR Referral Service
 published: false
 source_url: https://nosscr.org/event/nextgen-virtual-coffee-break-january-2026/

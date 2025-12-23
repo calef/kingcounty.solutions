@@ -16,7 +16,7 @@ feed_content: |-
   <p>The post <a>Mind(full) Aging</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: 1a870e7b99a636f43fe334503aec5483b9e5d903
 image_ids: []
-locations:
+location_titles:
 - Shoreline
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10626
 source: Shoreline Lake Forest Park Senior Activity Center

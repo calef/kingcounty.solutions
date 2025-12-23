@@ -7,7 +7,7 @@ feed_content: |-
   <p class="read-more-container"><a title="Investing in the Future: How the FEPP Levy Helps Neighborhood House Families Succeed " class="read-more button" href="https://nhwa.org/2025/10/16/fepp-levy-prop1/#more-25321" aria-label="Read more about Investing in the Future: How the FEPP Levy Helps Neighborhood House Families Succeed ">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/10/16/fepp-levy-prop1/">Investing in the Future: How the FEPP Levy Helps Neighborhood House Families Succeed </a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Neighborhood House
 source_url: https://nhwa.org/2025/10/16/fepp-levy-prop1/

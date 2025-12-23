@@ -29,7 +29,7 @@ feed_content_checksum: ec8d972abd40191e87197aa9109991da7b4368f7
 image_ids: []
 location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond, WA,
   98052, United States
-locations:
+location_titles:
 - King County
 organization_title: Together Center
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta

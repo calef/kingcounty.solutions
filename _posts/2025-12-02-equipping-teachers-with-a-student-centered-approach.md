@@ -8,7 +8,7 @@ feed_content: December 2025 Across Washington state, there is a stark disparity 
   or understands their racial, ethnic, or cultural backgrounds.   Why does this matter?
   Research and lived experience show student success [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Technology Access Foundation
 source_url: https://techaccess.org/equipping-teachers-with-a-student-centered-approach/

@@ -25,7 +25,7 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   for 25 minutes.</p><p class="">- Add the cooked potatoes and basil leaves. Season
   to taste with salt. Continue to cook until the potatoes have warmed through. </p>'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/peperoni-alla-salernitana-braised-peppers-with-potato-and-basil

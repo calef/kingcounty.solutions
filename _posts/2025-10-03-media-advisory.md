@@ -7,7 +7,7 @@ feed_content: |-
   <p class="read-more-container"><a title="*MEDIA ADVISORY*  " class="read-more button" href="https://nhwa.org/2025/10/03/wilcox-media-advisory/#more-25295" aria-label="Read more about *MEDIA ADVISORY*  ">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/10/03/wilcox-media-advisory/">*MEDIA ADVISORY*  </a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Neighborhood House
 source_url: https://nhwa.org/2025/10/03/wilcox-media-advisory/

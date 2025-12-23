@@ -4,7 +4,7 @@ feed_content: WINTHROP – Emergency work to repair the washout and mudslides th
   State Route 20 west of Winthrop for a week began Thursday, Dec. 18.
 feed_content_checksum: '080269fcbc52259ee48ba9119e9e31c726d3f50d'
 image_ids: []
-locations: []
+location_titles: []
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"
   content=\"WINTHROP – Emergency work to repair the washout and mudslides that closed

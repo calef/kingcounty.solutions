@@ -6,7 +6,7 @@ feed_content: Seattle police officers are investigating a stabbing in the Centra
   inside of an apart...
 feed_content_checksum: d74c323369cddf46d294dd3be255cee10e0fb713
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Seattle police officers are investigating a stabbing in the
   Central District this evening. Just before 7:00 p.m., patrol officers responded

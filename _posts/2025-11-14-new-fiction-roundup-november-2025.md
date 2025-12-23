@@ -186,7 +186,7 @@ feed_content: "<p>Surreal stories, character studies, family sagas and more awai
   and spanning centuries, a witch and a demon match wits over the fate of a powerful
   soul. (fantasy) </p>\r\n\r\n\r\n\r\n<p><em>~ posted by Andrea G.</em></p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Homework Help
 source_url: https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/

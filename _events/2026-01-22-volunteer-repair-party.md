@@ -41,7 +41,7 @@ feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-tem
 image_ids: []
 location: 'BIKE WORKS WAREHOUSE, 3715 S Hudson St #111, Seattle, Washington, 98118,
   United States'
-locations:
+location_titles:
 - King County
 organization_title: Bike Works
 source_url: https://bikeworks.org/event/volunteer-repair-party-2/2026-01-22/

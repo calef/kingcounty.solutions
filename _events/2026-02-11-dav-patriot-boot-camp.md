@@ -6,7 +6,7 @@ feed_content_checksum: 0fd60f5fbe6a0f6081c414787d457996351b4dd5
 generated_from_post: true
 image_ids: []
 location: Myrtle Beach, South Carolina
-locations:
+location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program
 original_source_html: A program that connects transitioning service members, veterans,

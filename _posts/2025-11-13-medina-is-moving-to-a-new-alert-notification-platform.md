@@ -6,7 +6,7 @@ feed_content: '<div class="field field-name-body field-type-text-with-summary fi
   </a>Mass Notification System.</strong> This change means we will no longer use our
   current system to send emergency alerts or routine city updates.</p></div></div></div>'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Medina
 source_url: https://www.medina-wa.gov/centralservices/page/medina-moving-new-alert-notification-platform

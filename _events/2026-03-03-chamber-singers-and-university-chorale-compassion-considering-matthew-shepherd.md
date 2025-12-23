@@ -6,7 +6,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p>Chamber Sing
   discrimination, cruelty, death, yet with themes of hope.</p> <h2> </h2> </div> </div>
 image_ids: []
 location: Meany Hall (MNY)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

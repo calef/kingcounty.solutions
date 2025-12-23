@@ -6,7 +6,7 @@ feed_content: "<div>\n  \n      \n    <span>12/15/2025 - 6:00am</span>\n      </
   will be held on December 15, 2025, at 6 p.m.</p>\n      </div>"
 feed_content_checksum: eb6f84caf15918387d588c6f4cfc22f50cd3e6db
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27081

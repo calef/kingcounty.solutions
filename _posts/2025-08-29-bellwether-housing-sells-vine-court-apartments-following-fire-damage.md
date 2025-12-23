@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Bellwether Housing today announced the sale of the Vine Court Apartments
   in Belltown. This decision follows a catastrophic fire in July...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/bellwether-housing-sells-vine-court-apartments-following-fire-damage

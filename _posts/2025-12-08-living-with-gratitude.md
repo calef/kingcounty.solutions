@@ -15,7 +15,7 @@ feed_content: |-
   <p>The post <a>Living with gratitude.</a> appeared first on <a>Transforming Age | Senior Housing, Community Services, Philanthropy, Technology &amp; Partnerships</a>.</p>
 feed_content_checksum: 9621ec0ef75b8248542d1b102980cd12b5f07d78
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Transforming Age
 source_url: https://transformingage.org/blog/living-with-gratitude-37/

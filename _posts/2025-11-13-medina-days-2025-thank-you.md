@@ -4,7 +4,7 @@ feed_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Thanks to all our patrons for another wonderful community event! <a href="https://checkout.square.site/merchant/GMXPY3Y7V9JVK/checkout/BL3KRNI3VDX3LIGWAP3GFKMP">Donations are welcome!</a> See you next year!</p>
   </div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Medina
 source_url: https://www.medina-wa.gov/community/page/medina-days-2025-thank-you

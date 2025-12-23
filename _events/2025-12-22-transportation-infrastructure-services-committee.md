@@ -41,7 +41,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
 feed_content_checksum: 269aee379565a2a78cbe6ef94b32a0fe7f9960de
 image_ids: []
 location: Hybrid – Virtual/Onsite, United States
-locations:
+location_titles:
 - King County
 organization_title: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/transportation-infrastructure-services-committee-9/2025-12-22/

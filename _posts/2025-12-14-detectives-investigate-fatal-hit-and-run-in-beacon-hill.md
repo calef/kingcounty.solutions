@@ -6,7 +6,7 @@ feed_content: Detectives are investigating a fatal hit-and-run collision that ki
   Street. Officer...
 feed_content_checksum: b132bd5a607160496aaee386ce945f6ef7756bbf
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44669

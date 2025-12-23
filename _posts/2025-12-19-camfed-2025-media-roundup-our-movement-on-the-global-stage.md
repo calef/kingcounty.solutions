@@ -5,7 +5,7 @@ feed_content: |-
   <p><a>Source</a></p>
 feed_content_checksum: 9477e233f8386ea619d2d35b189cde5ca6827639
 image_ids: []
-locations: []
+location_titles: []
 original_source_html: |-
   <p>As we look back on 2025, we are grateful to all the podcasters, broadcasters, journalists and writers who were curious to learn about our grassroots-led movement, spoke to our leaders, provided a platform, and brought underrepresented voices and unrivalled expertise to a global audience. Thank you for highlighting how those with lived experience of exclusion are the experts in what it takes for…</p>
   <p><a>Source</a></p>

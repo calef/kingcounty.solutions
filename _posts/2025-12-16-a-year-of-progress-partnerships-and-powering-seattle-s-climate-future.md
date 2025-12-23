@@ -6,7 +6,7 @@ feed_content: Share OSE’s 2025 Wrapped series on social media:  From embarkin
   climate change,...
 feed_content_checksum: fc41e111c15508261938b2bc353ea511e18fa8aa
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Share OSE’s 2025 Wrapped series on social media:  From embarking
   on a new update to Seattle’s Climate Action Plan to investing millions into community

@@ -130,7 +130,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   IHDD</a>.</p>"
 image_ids:
 - 3ab808b20ff81e45b4d29ca4db6199a29749b32eb71fd724ba4938046670dd3b
-locations:
+location_titles:
 - King County
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/02/giving-tuesday-support-the-clinic-support-program/

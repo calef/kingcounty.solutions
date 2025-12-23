@@ -8,7 +8,7 @@ feed_content: DESC&#8217;s annual benefit concert and program spotlight, Gimme S
   members, and enjoy local live music!&#160; We&#8217;re kicking off the evening with
   a FREE Program Spotlight focused [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: DESC
 source_url: https://www.desc.org/descs-gimme-shelter-is-october-24/

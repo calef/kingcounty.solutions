@@ -7,7 +7,7 @@ feed_content: The atmospheric river event continues, with heavy rain and wind ac
   from King County […]
 feed_content_checksum: cdbb9b99cd59c5bbb9d229d107e21c5824bd5603
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://kcemergency.com/?p=6739

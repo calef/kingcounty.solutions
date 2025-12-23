@@ -5,7 +5,7 @@ feed_content: |-
   <p>The post <a>Reclaiming Seattle: Public safety progress is no accident</a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: 017602a6d13f5e751efeb2ffc18200bec2737b21
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/09/reclaiming-seattle-public-safety-progress-is-no-accident/

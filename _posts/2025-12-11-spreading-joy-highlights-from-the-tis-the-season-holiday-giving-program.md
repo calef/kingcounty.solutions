@@ -93,7 +93,7 @@ image_ids:
 - d2958f0d1bfeab6af7b1104e7148df40cfe1458b8ec59b80ee0636ddb2593b46
 - f757a38ae7b020dfd30f4c44ac269f66cda5b3d43604cdad14c78e412ce1350b
 - 5bff90f66653e7912453104ea11bb58cad33ae7103f63a88810c683f1d195e18
-locations:
+location_titles:
 - King County
 rss_guid: https://www.bellevuelifespring.org/?p=5549
 source: Bellevue LifeSpring

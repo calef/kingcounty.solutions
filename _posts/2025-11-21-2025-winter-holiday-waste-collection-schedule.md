@@ -5,7 +5,7 @@ feed_content: 'As we head into the holiday season, we want to share some importa
   will NOT be collected on these upcoming holidays: If your regular collection day
   falls on one of th...'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/21/2025-winter-holiday-waste-collection-schedule/

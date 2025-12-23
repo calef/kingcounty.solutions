@@ -34,7 +34,7 @@ feed_content: 'Event interval: Single day event Campus location: South Campus Ce
 feed_content_checksum: 7c070f376e7cfccc3c5deb8cccfb39884c5e458b
 image_ids: []
 location: South Campus Center (SOCC)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: '<!DOCTYPE html><html lang="en" class="HB1eCd-UMrnmb PHOcVb"><head><link

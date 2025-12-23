@@ -6,7 +6,7 @@ feed_content: 'Blog stats: 600 words | 3-minute read We recently finished repain
   time we ...'
 feed_content_checksum: dc944a8c20e602f9dfaa9e30b0f2a75087f25690
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: 'Blog stats: 600 words | 3-minute read We recently finished
   repainting work on the historic Dr. Jose Rizal Bridge between Chinatown-International

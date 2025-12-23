@@ -7,7 +7,7 @@ feed_content: <div><p paraid="1659914425" paraeid="{781cccb4-72a0-4096-9871-b66e
   Youth Conference, a day dedicated to exploring how transit shapes our region — and
   how the next generation can help shape its future.</p></div>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/empowering-next-generation-transit-leaders

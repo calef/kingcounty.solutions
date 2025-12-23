@@ -145,7 +145,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   appeared first on <a href=\"https://lakesidemilam.com\">Lakeside-Milam Recovery
   Centers</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/the-benefits-of-a-partial-hospitalization-program-for-addiction-recovery-at-lakeside-milam/

@@ -60,7 +60,7 @@ feed_content: |-
 image_ids:
 - 1b3fbf5069e99335c7f05b681ee4c2ba10a55b95d45c8cd6dbc1029f5dd2614c
 - 2e9570bbe9ec363f28b0fa75df3b5662d91d23c4a2813fb4394e1d99fb5550d4
-locations:
+location_titles:
 - King County
 source: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/09/press-release-boeing-employees-partnership-transforms-lives-of-veterans-through-accessibility-improvements/

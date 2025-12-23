@@ -27,7 +27,7 @@ feed_content: "![Issaquah city EV vehicle](https://www.commerce.wa.gov/wp-conten
   assistance for hundreds of projects.\n\n![Lawyers for Good Government logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/l4gg-color.png)\n\n![Giraffe
   logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/giraffe-logo-purple.png)"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/cetcap-helps-city-of-issaquah-cut-ev-fleet-costs-by-12-using-federal-credit/

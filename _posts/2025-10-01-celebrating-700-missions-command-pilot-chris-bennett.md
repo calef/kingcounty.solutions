@@ -47,7 +47,7 @@ feed_content: |-
 
   <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="694" src="https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-1024x694.jpg" alt="" class="wp-image-62080" srcset="https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-1024x694.jpg 1024w, https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-300x203.jpg 300w, https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-768x521.jpg 768w, https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-1536x1041.jpg 1536w, https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984.jpg 2019w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><p>The post <a href="https://angelflightwest.org/news/celebrating-700-missions-command-pilot-chris-bennett/">Celebrating 700 Missions: Command Pilot Chris Bennett</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/celebrating-700-missions-command-pilot-chris-bennett/

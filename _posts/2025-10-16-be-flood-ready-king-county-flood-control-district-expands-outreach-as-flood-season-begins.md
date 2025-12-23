@@ -100,7 +100,7 @@ feed_content: "**Begins**\n\nBy Steven Schauer, Deputy Executive Director\n\nAs 
   Season Begins](https://kingcountyfloodcontrol.org/be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins/)
   appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org)."
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins/?utm_source=rss&utm_medium=rss&utm_campaign=be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins

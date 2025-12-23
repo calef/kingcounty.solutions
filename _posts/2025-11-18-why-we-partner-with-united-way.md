@@ -6,7 +6,7 @@ feed_content: |-
   <p>This blog post was written by Leslie Stewart, Youth Development Director of Asian Counseling and Referral Service. Asian Counseling and Referral Service (ACRS) was founded in 1973 by a small group of community volunteers, social workers, and students with the explicit goal of delivering culturally responsive, community&#x2d;based mental health care for Asian and Native Hawaiian/</p>
   <p><a href="https://www.uwkc.org/news/why-we-partner-with-united-way/" rel="nofollow">Source</a></p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: United Way of King County
 source_url: https://www.uwkc.org/news/why-we-partner-with-united-way/

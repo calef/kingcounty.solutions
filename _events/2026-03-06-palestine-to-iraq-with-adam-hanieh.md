@@ -66,7 +66,7 @@ feed_content: '<article id="post-3862" class="post-3862 uw_oplevents type-uw_opl
   School</p> </div> </article>'
 image_ids: []
 location: Livestreaming
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

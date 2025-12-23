@@ -9,7 +9,7 @@ feed_content: 'Blog stats: 500 words | 3-minute read Good news for Lake City! Ne
   Transit’s new P...'
 feed_content_checksum: '02494e22a4bd95c902292f60ea661f81591f08b3'
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://sdotblog.seattle.gov/?p=37984
 source: City of Seattle

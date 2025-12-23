@@ -8,7 +8,7 @@ feed_content: Cross posted from Metro Matters Fireworks, parades, picnics and fe
   planning&#160; Visit Metro’s online regional Trip Planner  or call the Customer
   Information Office on weekdays at&#8230;
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/01/what-to-know-before-taking-transit-to-events-on-july-4/

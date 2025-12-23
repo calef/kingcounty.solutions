@@ -5,7 +5,7 @@ feed_content: '<div class="field-items"> <div class="field-item"> <p> </p> <p>U
   <h2 style="font-weight: 400;">Director Biography</h2> </div> </div>'
 image_ids: []
 location: Music Building (MUS)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

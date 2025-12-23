@@ -51,7 +51,7 @@ feed_content: '<!DOCTYPE html> <html xmlns:fb="http://ogp.me/ns/fb#"> <head pref
   </body> </html>'
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

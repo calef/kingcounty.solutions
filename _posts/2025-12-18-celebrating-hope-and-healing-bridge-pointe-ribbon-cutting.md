@@ -11,7 +11,7 @@ feed_content: Last month, Friends of Youth welcomed community members to our Kir
   home  as we look ahead to 2026. The ceremony brought together local leaders, funders,...
 feed_content_checksum: c7218afca3d53f8463a76765280657ed62924d37
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Last month, Friends of Youth welcomed community members to our
   Kirkland campus for a very special occasion—the ribbon cutting ceremony for Bridge

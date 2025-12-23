@@ -7,7 +7,7 @@ feed_content: Seattle Department of Neighborhoods (DON) is excited to announce a
   Matching Fund (TMF) grant program and application process.  This collaboration aims
   to ...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/07/seattle-department-of-neighborhoods-partners-with-seattle-it-to-support-technology-matching-fund/

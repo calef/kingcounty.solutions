@@ -68,7 +68,7 @@ feed_content: |-
   <p>Today, Tracy resides in Oklahoma City with his wife and three grown children. In his free time, he enjoys woodworking and homesteading, caring for 49 chickens and a large vegetable garden.<br><br>“If I could deliver a message to my fellow Vets, it would be letting them know that, just like we were dedicated to our service, VA is full of employees dedicated to taking care of Veterans,” he added. “This is our mission, our calling and our purpose, and we are here to help.”</p>
 feed_content_checksum: 296b572967ebc204612ddea9233a8aa3d8486dab
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p>At some point, everyone needs an advocate—a lifeline to provide support and guidance during life’s most challenging moments. Advocates help people navigate difficult situations, facilitate more effective communication, and make sure their voices are heard and their needs are addressed.</p>

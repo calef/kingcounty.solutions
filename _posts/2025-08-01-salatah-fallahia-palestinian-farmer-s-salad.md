@@ -19,7 +19,7 @@ feed_content: '<p class="">Recipe adapted from Nadia Tommalieh</p><p class="">Yi
   the salad:</h4><p class="">- Add the dressing to the chopped vegetables just before
   serving.</p>'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/salatah-fallahia-palestinian-farmers-salad

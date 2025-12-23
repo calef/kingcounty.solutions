@@ -7,7 +7,7 @@ feed_content: 'Blog stats: 250 words &#124; 2-minute read Seattle, get ready! So
   three new 1 Line stations in the greater Seattle area on Saturday, December 6. While
   the Seattle...'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/03/federal-way-link-extension/

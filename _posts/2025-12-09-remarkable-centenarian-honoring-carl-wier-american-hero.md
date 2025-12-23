@@ -38,7 +38,7 @@ feed_content: |-
   <p>It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to <a>get started</a>.</p>
 feed_content_checksum: 8c75f5858226f2f6b533ff1a586ee96a5fce0bd5
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143715/remarkable-centenarian-honoring-carl-wier/

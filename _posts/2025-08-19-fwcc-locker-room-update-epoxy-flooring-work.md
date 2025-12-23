@@ -68,7 +68,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"16463\" 
   Locker Room Update: Epoxy Flooring Work</a> appeared first on <a href=\"https://itallhappenshere.org\">Federal
   Way Community Center</a>.</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Federal Way Community Center
 source_url: https://itallhappenshere.org/fwcc-locker-room-update-epoxy-flooring-work/?utm_source=rss&utm_medium=rss&utm_campaign=fwcc-locker-room-update-epoxy-flooring-work

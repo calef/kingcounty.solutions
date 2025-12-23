@@ -8,7 +8,7 @@ feed_content: King County Executive Girmay Zahilay announced today that Metro wi
   Dec. 31. Riders can travel without paying...
 feed_content_checksum: 161c7cc18d1cbb149c2ec4aca80c885ec41d2a14
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: King County Executive Girmay Zahilay announced today that Metro
   will join other regional transit agencies to provide free rides this New Year’s

@@ -31,7 +31,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
   for their partnership on this project.</em></p>\n</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 feed_content_checksum: 58ed56755ee38e4f030d488b5943fd5273e65f56
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div><iframe></iframe></div>\n\t\t\t\t<div><div><a></a></div></div>\n\t\t\t</div>\n<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p> </p>\n<p><a>Haz
   clic aquí para leer en español.</a></p>\n</div>\n\t\t\t</div>\n<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>This

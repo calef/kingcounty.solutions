@@ -5,7 +5,7 @@ feed_content: Landslide season is here, so the City of Seattle is urging residen
   landslides. Did you know that most landslides occur between the months of November
   and March? The th...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/reminder-its-landslide-season-are-you-prepared-3/

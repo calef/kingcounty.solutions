@@ -607,7 +607,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"47778\" 
   Appetite 138: The Role of Relationships in Eating Disorders</a> appeared first on
   <a href=\"https://opalfoodandbody.com\">Opal: Food + Body Wisdom</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: 'Opal: Food + Body Wisdom'
 source_url: https://opalfoodandbody.com/the-appetite-138-relationships/

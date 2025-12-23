@@ -6,7 +6,7 @@ feed_content: |-
   <p>6 minute read My name is Ida Deleza, and my title is Senior Chief Chikumbu here in Mulanje, Malawi. I&rsquo;ve been a senior chief since 2014. I&rsquo;m a teacher by profession, having taught in several schools across Malawi for at least 20 years before becoming a chief. Growing up, I loved school so much. I enjoyed playing and reading lots of books. I was so happy when I was selected to a girls&rsquo;&#8230;</p>
   <p><a href="https://camfed.org/senior-chief-chikumbu/" rel="nofollow">Source</a></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/senior-chief-chikumbu/

@@ -58,7 +58,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\" >
   Mexican food in the state. You cannot find lengua, tripa, and cabeza tacos and menudo
   in just any city in Washington.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Inatai Foundation
 source_url: https://inatai.org/news/five-years-with-ruben-peralta/

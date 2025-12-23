@@ -8,7 +8,7 @@ feed_content: <div><p paraid="1754074966" paraeid="{727f9510-5ab4-4246-a6fb-aaf9
   Line will officially extend to Kent Des Moines, Star Lake, and Federal Way Downtown</a>,
   we’re taking a look back at the years of progress that brought us here.&nbsp;</p></div>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/looking-back-building-1-line-to-federal-way

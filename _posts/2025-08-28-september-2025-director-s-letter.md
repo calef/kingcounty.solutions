@@ -20,7 +20,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>The post <a href="https://snovalleysenior.org/september-2025-directors-letter/">September 2025 Director&#8217;s Letter</a> appeared first on <a href="https://snovalleysenior.org">Sno-Valley Senior Center</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - Snoqualmie Valley
 source: Sno-Valley Senior Center
 source_url: https://snovalleysenior.org/september-2025-directors-letter/

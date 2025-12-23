@@ -36,7 +36,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
 feed_content_checksum: 8f0445816699870868b9f3aa914bd54b084cfaac
 image_ids: []
 location: WA
-locations:
+location_titles:
 - King County
 organization_title: Together Center
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta

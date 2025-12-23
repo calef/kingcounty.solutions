@@ -42,7 +42,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriorit
   leap forward: DAV expands training platform to volunteers</a> appeared first on
   <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/another-leap-forward-dav-expands-training-platform-to-volunteers/

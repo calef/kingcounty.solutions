@@ -14,7 +14,7 @@ feed_content: |-
   <p class="">You can see a preview video on Facebook here: <a href="https://www.facebook.com/61578566302216/videos/1428961378382038">https://www.facebook.com/61578566302216/videos/1428961378382038</a></p>
   <p>The post <a href="https://westsideneighborsshelter.org/shelter-church-seattle-hosts-community-dinners-at-wsns/">Shelter Church Seattle hosts community dinners at WSNS</a> appeared first on <a href="https://westsideneighborsshelter.org">Westside Neighbors Shelter</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/shelter-church-seattle-hosts-community-dinners-at-wsns/?utm_source=rss&utm_medium=rss&utm_campaign=shelter-church-seattle-hosts-community-dinners-at-wsns

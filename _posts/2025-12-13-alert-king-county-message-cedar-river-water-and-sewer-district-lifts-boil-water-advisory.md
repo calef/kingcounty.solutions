@@ -7,7 +7,7 @@ feed_content: Cedar River Water and Sewer District (CRWSD) is lifting the Precau
   lines for […]
 feed_content_checksum: '00281e6b47fa3233c076347cc2a42df10c252840'
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://kcemergency.com/2025/12/13/cedar-river-water-and-sewer-district-boil-water-advisory-lifted/

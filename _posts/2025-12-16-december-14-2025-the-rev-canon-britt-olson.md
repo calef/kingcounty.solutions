@@ -5,7 +5,7 @@ feed_content: |-
   <p>The post <a>December 14, 2025 — The Rev Canon Britt Olson</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: a917feeebe94da60bdf9071e300581ca766db321
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p>Advent 3 – Gaudete Sunday Some of my favorite characters in television and books are the failed, flawed and jaded detectives whose careers have stalled or imploded but who continue … <a>Read More</a></p>

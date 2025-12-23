@@ -45,7 +45,7 @@ feed_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-block__s
   </script>'
 image_ids: []
 location: ''
-locations:
+location_titles:
 - Federal Way
 organization_title: Federal Way Senior Center
 published: false

@@ -36,7 +36,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
 feed_content_checksum: 186b221f4e27180f5848b23de5ab02a08bc51a15
 image_ids: []
 location: WA
-locations:
+location_titles:
 - King County
 organization_title: Together Center
 source_url: https://togethercenter.org/event/essentials-first-redmond-distribution-location/2025-12-23/

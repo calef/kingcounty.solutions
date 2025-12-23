@@ -7,7 +7,7 @@ feed_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_110459
 feed_content_checksum: 1d84e9f551932d1da5dd031840d07c26abfca17d
 image_ids:
 - 44877d7cada0d86143d48f054c47e8b98bedd94d528e1b2720e007366b7766ac
-locations:
+location_titles:
 - King County
 source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?pageId=21080960&portalId=11046019

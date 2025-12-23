@@ -84,7 +84,7 @@ feed_content: <a class="skip-link screen-reader-text" href="#content">Skip to co
   </ul> </div> </div> </div> </div> </section>
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Angel Flight West
 published: false

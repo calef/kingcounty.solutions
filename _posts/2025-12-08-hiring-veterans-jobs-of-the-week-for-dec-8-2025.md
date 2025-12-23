@@ -246,7 +246,7 @@ feed_content: |-
   <p><a>Norfolk, VA: Hampton Roads Military Community Education Connect (Southside) – Thursdays</a></p>
 feed_content_checksum: 1ae0a58e8c9ea1ec3dd9a864d92a9d527bdbf387
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143913/hiring-veterans-jobs-week-dec-8-2025/

@@ -33,7 +33,7 @@ feed_content: |-
 
   The post [Stay Steady, Stay Independent](https://snoqualmievalleyhealth.org/stay-steady-stay-independent/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
 image_ids: []
-locations:
+location_titles:
 - Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/stay-steady-stay-independent/

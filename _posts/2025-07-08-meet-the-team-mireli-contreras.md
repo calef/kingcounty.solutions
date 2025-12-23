@@ -41,7 +41,7 @@ feed_content: |-
 
   <p></p><p>The post <a href="https://www.bellevuelifespring.org/general/meet-mireli/">Meet the team: Mireli Contreras</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/general/meet-mireli/">Meet the team: Mireli Contreras</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/meet-mireli/?utm_source=rss&utm_medium=rss&utm_campaign=meet-mireli

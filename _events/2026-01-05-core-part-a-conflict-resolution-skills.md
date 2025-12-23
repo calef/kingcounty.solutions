@@ -147,7 +147,7 @@ feed_content: '<div id="simple-banner" class="simple-banner"><div class="simple-
 image_ids: []
 location: Medical Dental Building, 509 Olive Way, Seattle, WA, 98101-1729, United
   States
-locations:
+location_titles:
 - King County
 organization_title: Dispute Resolution Center of King County
 published: false

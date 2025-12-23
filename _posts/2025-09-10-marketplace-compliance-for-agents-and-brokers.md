@@ -4,7 +4,7 @@ feed_content: "<p>artifact_description: Webinar Slides</p><p>date: Wed, 10 Sep 2
   23:38:47 -0400</p><p>title: Marketplace Compliance for Agents and Brokers</p><p>topic:
   Compliance</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/marketplace-compliance-agents-and-brokers

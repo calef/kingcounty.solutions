@@ -14,7 +14,7 @@ feed_content: 'Improving Cell Service in Normandy Park: City Council and Plannin
   providers to install additional infrastructure that can overcome these physical
   barriers.'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-24-2025/

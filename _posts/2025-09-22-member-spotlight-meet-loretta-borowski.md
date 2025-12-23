@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Fifteen years ago, Loretta was searching for support after being diagnosed
   with a degenerative eye condition that meant she had to give...
 image_ids: []
-locations:
+location_titles:
 - Eastside
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/member-spotlight-meet-loretta-borowski

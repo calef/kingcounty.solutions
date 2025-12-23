@@ -35,7 +35,7 @@ feed_content: |-
 
   <p></p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/holiday-help-heres-what-you-can-do/

@@ -98,7 +98,7 @@ feed_content: |-
 image_ids:
 - e2e65d74c0ec332331aa5e7e6476954b4b4639340754f8b5f94b2c0b8f905793
 - 6d4952cd9cfe313e50c1e9e081baa9ac5b1936ef03c849fe2a2ebd49389849f3
-locations:
+location_titles:
 - King County
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/bridgette-gives-back-to-military-families/

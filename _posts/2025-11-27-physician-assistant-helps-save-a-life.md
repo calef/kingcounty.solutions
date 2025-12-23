@@ -56,7 +56,7 @@ feed_content: |-
 
   <p>To learn more about the physician assistant profession at VA, visit the <a href="https://www.patientcare.va.gov/PA/index.asp" rel="noopener">physician assistants home page</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143226/physician-assistant-helps-save-a-life/

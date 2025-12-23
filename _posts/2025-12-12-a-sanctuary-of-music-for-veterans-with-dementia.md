@@ -46,7 +46,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA North Florida Healthcare System</a> and has been edited for style and clarity.  </p>
 feed_content_checksum: ef3ec5484aac3866f2280ac276fe744e613d80d6
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://news.va.gov/?p=143805
 source: Veterans Affairs Pension Program

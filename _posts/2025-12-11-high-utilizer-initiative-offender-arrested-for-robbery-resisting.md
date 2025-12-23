@@ -6,7 +6,7 @@ feed_content: Seattle police have arrested another â€œHigh Utilizer Initiativeâ€
   the...
 feed_content_checksum: 82728e71afe5faaf006fc9b14c29944391a962b2
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44662

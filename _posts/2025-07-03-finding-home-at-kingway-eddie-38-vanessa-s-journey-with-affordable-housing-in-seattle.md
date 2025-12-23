@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Building a Life at Kingway Eddie and Vanessa have called Kingway Apartments
   home for nearly 30 years. Their experience highlights the...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/finding-home-at-kingway-eddie-vanessa-s-journey-with-affordable-housing-in-seattle

@@ -135,7 +135,7 @@ feed_content: |-
 
   <p>Nutrition Facts Per Serving: Calories: 295 | Carbohydrates: 30g | Protein: 24g | Fat: 10g | Saturated Fat: 3 g | Fiber: 2g</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143600/live-whole-health-293-thanksgiving-in-a-bite/

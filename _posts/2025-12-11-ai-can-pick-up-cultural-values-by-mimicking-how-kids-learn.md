@@ -25,7 +25,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 891a213eba33c1e38750c3ee3b761d212b5878ee
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://www.washington.edu/news/?p=90064

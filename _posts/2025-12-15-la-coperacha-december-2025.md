@@ -29,7 +29,7 @@ feed_content_checksum: 4c55071aec40bbd1dd86a994d22db1e4bd5a1ed1
 image_ids:
 - ded6c7ca08a3a1ece23872397d3fd9bd37bb407609f69af84b5d32fc7a5bd940
 - 2dd80c922cd8cece758011f8631bd3a1432ecc36ec3d0c31c877696c99582921
-locations:
+location_titles:
 - King County
 original_source_html: "<h2>You Have Until January 1 to Give: Light the World with
   El Centro de la Raza</h2>\n\n\n\n<p>The end of the year is a powerful moment to

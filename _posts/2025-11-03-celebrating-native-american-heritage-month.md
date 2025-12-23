@@ -19,7 +19,7 @@ feed_content: |-
 
   The post [Celebrating Native American Heritage Month](https://snoqualmievalleyhealth.org/native-american-heritage-month/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/native-american-heritage-month/

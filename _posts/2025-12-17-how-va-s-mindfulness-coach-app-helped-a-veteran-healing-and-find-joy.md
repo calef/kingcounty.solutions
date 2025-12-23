@@ -70,7 +70,7 @@ feed_content: |-
   <p>To reach the <a>Veterans Crisis Line</a>, <a>Dial 988 then Press 1</a>, <a>chat online</a> at VeteransCrisisLine.net/Chat, or text <a>838255</a>. </p>
 feed_content_checksum: 6ba592990ea1f203586d9e05d6c1394ce3532858
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <h2>From pain to purpose through digital health tools</h2>

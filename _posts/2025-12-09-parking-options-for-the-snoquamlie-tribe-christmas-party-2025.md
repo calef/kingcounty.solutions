@@ -5,7 +5,7 @@ feed_content: |-
   <p><a>Download the flier, with map, here</a></p>
 feed_content_checksum: 7be656cdad4503ed83217bab8037b3ea206ff72b
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/parking-options-for-the-snoquamlie-tribe-christmas-party-2025/

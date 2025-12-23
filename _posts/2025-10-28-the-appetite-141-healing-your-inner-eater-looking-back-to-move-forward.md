@@ -646,7 +646,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"48311\" 
   Appetite 141: Healing Your Inner Eater – Looking Back to Move Forward</a> appeared
   first on <a href=\"https://opalfoodandbody.com\">Opal: Food + Body Wisdom</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: 'Opal: Food + Body Wisdom'
 source_url: https://opalfoodandbody.com/the-appetite-141-healing-your-inner-eater/

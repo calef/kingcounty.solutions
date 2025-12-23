@@ -30,7 +30,7 @@ feed_content: |-
   <p><a href="https://ballardseniorcenter.org/coming-up/wednesday-happy-hour-dinner-bingo/"><strong>Wednesday Night Dinner </strong>(RSVP Required)</a> ~ BBQ Chicken, Mac &amp; Cheese, Garden Salad &amp; Dessert</p>
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-december-8th-12th/">Dining Menu December 8th &#8211; 12th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-8th-12th/

@@ -12,7 +12,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/03/a-new-voice
   designed to make it easier for you to connect with us, no matter what language you
   speak. When you call, you’ll be guided more smoothly to the right [&#8230;]'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/03/a-new-voice-for-you/

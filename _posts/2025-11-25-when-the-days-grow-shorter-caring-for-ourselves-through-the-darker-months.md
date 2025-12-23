@@ -10,7 +10,7 @@ feed_content: As the days grow shorter and Seattle settles into its season of cl
   isolation. We know how much light matters, and here in the Pacific Northwest, the
   lack of...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/when-the-days-grow-shorter-caring-for-ourselves-through-the-darker-months

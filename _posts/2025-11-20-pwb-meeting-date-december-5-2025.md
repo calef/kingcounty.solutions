@@ -21,7 +21,7 @@ feed_content: |-
 
   <p></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/pwb-meeting-date-december-5-2025/

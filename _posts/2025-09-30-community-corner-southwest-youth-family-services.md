@@ -8,7 +8,7 @@ feed_content: Community Corner highlights the work of Seattle Human Services’ 
   Arthur Acuario at Southwest Youth &#38; Family Services (also follow on Facebook,
   Instagram and LinkedIn). [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/30/community-corner-southwest-youth-family-services/

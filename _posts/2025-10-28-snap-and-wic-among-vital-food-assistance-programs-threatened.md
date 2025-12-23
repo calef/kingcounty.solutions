@@ -6,7 +6,7 @@ feed_content: |-
   <p>The ongoing federal government shutdown is putting thousands of families right here in Seattle in jeopardy. Hundreds of thousands of low-income Washingtonians could lose access to food benefits in just [&#8230;]</p>
   <p>The post <a href="https://www.familyworksseattle.org/snap-and-wic-among-vital-food-assistance-programs-threatened/">SNAP and WIC Among Vital Food Assistance Programs Threatened</a> appeared first on <a href="https://www.familyworksseattle.org">FamilyWorks Seattle</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/snap-and-wic-among-vital-food-assistance-programs-threatened/

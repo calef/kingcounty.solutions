@@ -84,7 +84,7 @@ feed_content: '<div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <l
 feed_content_checksum: e9580ee723276de1aeec6fed4072ff961344ea58
 image_ids: []
 location: Virtual Events @ Antioch University
-locations: []
+location_titles: []
 organization_title: Antioch University
 original_source_html: "<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en-US\" prefix=\"og:
   https://ogp.me/ns#\">\n<head>\n\t<meta charset=\"UTF-8\" />\n\t<meta name=\"viewport\"

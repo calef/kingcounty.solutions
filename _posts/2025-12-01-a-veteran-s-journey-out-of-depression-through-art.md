@@ -93,7 +93,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a href="https://www.va.gov/salt-lake-city-health-care/stories/tying-his-story-together-a-veterans-journey-out-of-depression-through-art/" rel="noopener">VA Salt Lake City Health care System site </a>and has been edited for style and clarity.  </p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143261/veterans-journey-out-of-depression-through-art/

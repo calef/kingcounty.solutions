@@ -33,7 +33,7 @@ feed_content: "<h4><strong>Facing winter outside</strong></h4><p>When Nicole, a 
   \ </a>"
 feed_content_checksum: 815fbfb1566a69c1fd71a1e0e28a6cd621849ff8
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/a-safe-home-for-the-holidays-nicole-and-ellas-journey-out-of-homelessness

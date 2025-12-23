@@ -19,7 +19,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>The post <a href="https://cisc-seattle.org/join-us-for-the-2025-cisc-groove-for-good-dance-party-on-saturday-december-6th-from-130-pm-to-530-pm-at-bellevue-college-building-u-ballroom/">Join us for the 2025 CISC Groove for Good Dance Party on Saturday, December 6th, from 1:30 PM to 5:30 PM at Bellevue College, Building U Ballroom!</a> appeared first on <a href="https://cisc-seattle.org">Chinese Information and Service Center</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/join-us-for-the-2025-cisc-groove-for-good-dance-party-on-saturday-december-6th-from-130-pm-to-530-pm-at-bellevue-college-building-u-ballroom/?utm_source=rss&utm_medium=rss&utm_campaign=join-us-for-the-2025-cisc-groove-for-good-dance-party-on-saturday-december-6th-from-130-pm-to-530-pm-at-bellevue-college-building-u-ballroom

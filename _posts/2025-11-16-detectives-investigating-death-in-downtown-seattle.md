@@ -5,7 +5,7 @@ feed_content: Seattle police detectives are investigating the death of a 44-year
   reports of male down, bleeding, near Union Street and Convention Place. There, police
   found a man wi...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/15/detectives-investigating-death-in-downtown-seattle/

@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: According to AARP, nearly 80% of adults want to remain in their own
   homes as they grow older—and for good reason. Aging in place supports...
 image_ids: []
-locations:
+location_titles:
 - Eastside
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/community-and-aging-in-place

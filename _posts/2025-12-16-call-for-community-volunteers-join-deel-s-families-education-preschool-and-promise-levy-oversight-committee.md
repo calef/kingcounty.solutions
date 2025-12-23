@@ -8,7 +8,7 @@ feed_content: The City of Seattle is now accepting applications for volunteers t
   that support Seattl...
 feed_content_checksum: d1f1d1ef574ed9163335dda63164b613b65951e1
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: The City of Seattle is now accepting applications for volunteers
   to serve on the Families, Education, Preschool &amp; Promise (FEPP) Levy Oversight

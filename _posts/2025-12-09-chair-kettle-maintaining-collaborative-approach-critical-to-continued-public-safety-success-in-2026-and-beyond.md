@@ -5,7 +5,7 @@ feed_content: |-
   <p>The post <a>Chair Kettle: Maintaining collaborative approach critical to continued public safety success in 2026 and beyond</a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: 79c0f7fa66f8d6d5928f7eb3dc129a60ae26fa03
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/09/chair-kettle-maintaining-collaborative-approach-critical-to-continued-public-safety-success-in-2026-and-beyond/

@@ -10,7 +10,7 @@ feed_content: On November 30th, friends, family, and congregation members along 
   located on two properties owned by New Hope Missionary Baptist Church at 114 and
   123 - 21st Ave....
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/groundbreaking-new-hope-family-housing

@@ -23,7 +23,7 @@ feed_content: "<div> <div> <section> <div> <p> <a> « All Events</a> </p> <div> 
 feed_content_checksum: 5be12074921fc3306036c03cb0cfca0b67466d0d
 image_ids: []
 location: Baxter Room
-locations:
+location_titles:
 - King County
 organization_title: SouthEast Seattle Senior Center
 original_source_html: "<div> <div> <section> <div> <p> <a> « All Events</a> </p> <div>

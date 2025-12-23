@@ -6,7 +6,7 @@ feed_content: SEATTLE, Wash. — Just after 6 p.m. on Dec. 11, the Seattle Fire 
   fron...
 feed_content_checksum: f1a53726fbcb2d8e4c0ce635c4623efdc9abfcfd
 image_ids: []
-locations:
+location_titles:
 - Seattle
 published: false
 rss_guid: https://fireline.seattle.gov/?p=8859

@@ -49,7 +49,7 @@ image_ids:
 - feadd195dfdb37c60ca994486e67b21dc72a3253b2eaae870178c1b235966aa1
 - bd0388d6702b850377ea4b4c6b23019dbfb42001e6db12a9718002042ba60758
 - e4f10f0042c4f9c7b3105f4810dfdab888e8d041e8ea645a5fe3f64073bad43e
-locations:
+location_titles:
 - King County
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/staff-corner-june-2025/?utm_source=rss&utm_medium=rss&utm_campaign=staff-corner-june-2025

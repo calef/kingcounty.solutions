@@ -75,7 +75,7 @@ feed_content: |-
 image_ids:
 - dc3c28c77162dea23a14b3fd408c51045d882575aa92361d1a9e08f3f07f217f
 - 277b7eceba286876a1995117eb7d0c0a7bb09e14a71395cb7fc969f5e13e4122
-locations:
+location_titles:
 - King County
 source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/veterans-find-a-permanent-home-at-st-margarets-place-apartments/?utm_source=rss&utm_medium=rss&utm_campaign=veterans-find-a-permanent-home-at-st-margarets-place-apartments

@@ -5,7 +5,7 @@ feed_content: As only U.S. city to participate in international cohort, Seattle 
   restoration Seattle&#160;–&#160;After two years of active participation, the City
   of Seattle i...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/12/03/seattle-completes-two-year-united-nations-generation-restoration-program/

@@ -365,7 +365,7 @@ feed_content: '<div><div> <div> <div> <div> <div> <div> <div><div> <div> <div>Se
 feed_content_checksum: 3b0d8cd1394ec231a369009a15a17595ca6e8720
 image_ids: []
 location: Online (Zoom)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: |-

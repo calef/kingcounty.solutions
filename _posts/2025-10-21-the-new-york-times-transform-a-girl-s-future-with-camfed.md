@@ -6,7 +6,7 @@ feed_content: |-
   <p>CAMFED is honored to be a beneficiary of The New York Times Communities Fund for the third year running. The only organization working internationally among this year&rsquo;s chosen nonprofits, CAMFED was selected for its award&#x2d;winning, grassroots&#x2d;led model supporting girls in rural communities in Africa to go to school, succeed and become leaders guiding the next generation through school.</p>
   <p><a href="https://camfed.org/new-york-times-communities-fund-2025/" rel="nofollow">Source</a></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/new-york-times-communities-fund-2025/

@@ -66,7 +66,7 @@ feed_content: '<article id="post-3858" class="post-3858 uw_oplevents type-uw_opl
   and Community Health (ARCH), The Graduate School</p> </div> </article>'
 image_ids: []
 location: Town Hall Seattle
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

@@ -7,7 +7,7 @@ feed_content: As efforts turn from response to recovery after this week’s heav
   for residents dealing with the aftermath.
 feed_content_checksum: e14d6f2baecdfe18f8c2321db09ce73e001ff725
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://kcemergency.com/?p=6834
 source: King County Emergency Management

@@ -6,7 +6,7 @@ feed_content: Seattle police officers arrested a 25-year-old man for punching a 
   Street....
 feed_content_checksum: eb724e8bc51902e7518b7350c4f3e48d4b98fdb3
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Seattle police officers arrested a 25-year-old man for punching
   a Sound Transit bus driver in Downtown Seattle last night. At about 10:50 p.m.,

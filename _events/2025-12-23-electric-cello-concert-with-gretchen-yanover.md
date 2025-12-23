@@ -30,7 +30,7 @@ feed_content_checksum: 4fd7727e8d74943d43d24083c2b48799d310934b
 image_ids: []
 location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United
   States
-locations:
+location_titles:
 - King County
 organization_title: City of Tukwila
 published: false

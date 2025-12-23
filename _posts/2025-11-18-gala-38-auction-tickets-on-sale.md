@@ -10,7 +10,7 @@ feed_content: 'It''s Auction Season! Bid on gifts for the holidays &#38; support
   and features happy hour socializing and a fun silent auction followed by a sumptuous
   gala...'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/gala-auction-tickets-on-sale

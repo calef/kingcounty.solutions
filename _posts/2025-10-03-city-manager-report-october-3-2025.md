@@ -8,7 +8,7 @@ feed_content: Help Shape the Future of Normandy Park’s Roads. Public Hearing o
   renovates a road, the design is safe, consistent, and supports the needs of our
   community.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-3-2025/

@@ -57,7 +57,7 @@ feed_content_checksum: 3297d6575968bab329809e62366c32afcf19aa6e
 image_ids:
 - fdce014f25353708b91e1d388294cab2beafb76415426a0d8897cd05d2f162cd
 - 64299428cb436295b96d8eb4f2a03634def062fbb96b9dc196cd190181e921c2
-locations:
+location_titles:
 - King County
 rss_guid: https://www.crisisconnections.org/?p=91111
 source: Crisis Connections

@@ -18,7 +18,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>The post <a href="https://www.youtheastsideservices.org/beattie-story/">Donor Spotlight: Matt and Mary-Pat Beattie</a> appeared first on <a href="https://www.youtheastsideservices.org">Youth Eastside Services</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/beattie-story/?utm_source=rss&utm_medium=rss&utm_campaign=beattie-story

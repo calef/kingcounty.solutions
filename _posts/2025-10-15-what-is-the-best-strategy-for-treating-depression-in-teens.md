@@ -30,7 +30,7 @@ feed_content: |-
   <p class="p1">Together with the therapists at THIRA Health, you play a vital part in helping your teen create and sustain “a life worth living.” Your involvement not only supports their immediate progress but also strengthens the foundation for long-term mental well-being.</p>
   <p class="p5">If you’re ready to <a href="https://thirahealth.com/contact/"><span class="s1">get started with THIRA Health</span></a>, we welcome you to get in touch today.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: THIRA Health
 source_url: https://thirahealth.com/2025/10/15/what-is-the-best-strategy-for-treating-depression-in-teens/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-best-strategy-for-treating-depression-in-teens

@@ -7,7 +7,7 @@ feed_content: When SNAP benefits were disrupted November 1 amid the federal shut
   they would afford to feed their families for unforeseeable future.   On October
   30, Seattle Mayor...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://humaninterests.seattle.gov/2025/11/26/more-than-1-million-in-food-assistance-reaches-seattle-food-banks-meal-programs-during-snap-disruption/

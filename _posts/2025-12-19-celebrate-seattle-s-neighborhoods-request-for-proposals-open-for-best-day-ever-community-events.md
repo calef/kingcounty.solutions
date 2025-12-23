@@ -6,7 +6,7 @@ feed_content: What makes a neighborhood thrive? Connection. Pride. Shared storie
   of Seattle’s ne...
 feed_content_checksum: d1f8705c0503d0be2bfd7f171a5657448e2e62d3
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: What makes a neighborhood thrive? Connection. Pride. Shared
   stories. And people who care deeply about the place they call home. Best Day Ever

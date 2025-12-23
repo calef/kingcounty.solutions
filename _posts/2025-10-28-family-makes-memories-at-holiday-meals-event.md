@@ -70,7 +70,7 @@ feed_content: |-
   <p>Since 2010, Operation Homefront’s HMFM has provided more than 210,000 holiday meals to military and veteran families. Forty families registered for the Delray Beach event, which was one of 1,800 events planned throughout 2025.</p>
   <p>The post <a href="https://operationhomefront.org/family-makes-memories-at-holiday-meals-event/">Family Makes Memories at Holiday Meals Event</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/family-makes-memories-at-holiday-meals-event/

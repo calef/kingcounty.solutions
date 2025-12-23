@@ -11,7 +11,7 @@ feed_content: Rev Lawrence Willis of Love-To presents gifts to Sharon Lee, LIHI 
   listening to...
 feed_content_checksum: 1712320a070700662035b81d368bbfe6612b853c
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/lihi-gala-auction-and-virtual-auction-raises-645-000-thank-you-sponsors-and-supporters

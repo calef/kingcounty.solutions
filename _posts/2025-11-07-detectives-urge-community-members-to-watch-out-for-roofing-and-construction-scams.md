@@ -7,7 +7,7 @@ feed_content: Seattle police detectives urge community members to be wary of fra
   On Oct. 27, a 53-year-old developmentally delayed victim living near the Ravenna
   neig...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/07/detectives-urge-community-members-to-watch-out-for-roofing-and-construction-scams/

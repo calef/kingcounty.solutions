@@ -92,7 +92,7 @@ feed_content: |-
   </ul>
   <p>The post <a href="https://lakecityseniors.org/october-2025-update/">October 2025 Update</a> appeared first on <a href="https://lakecityseniors.org">Lake City Seniors</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Lake City Seniors
 source_url: https://lakecityseniors.org/october-2025-update/

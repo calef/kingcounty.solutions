@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Little Saigon has become the most crime-ridden area in all of King County,
   with ongoing issues such as criminal activities, open-air drug...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/press-event-on-crime-and-public-safety-in-little-saigon

@@ -14,7 +14,7 @@ feed_content: '<script type="application/ld+json"> { "@context": "https://schema
   } </script>'
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 source_url: https://events.uw.edu/event/42b08237-3c74-4264-a573-7a6f8b086836/

@@ -6,7 +6,7 @@ feed_content: |-
   <p>For many high school students, especially those whose parents are not able to pay for extracurricular activities and other high school experiences like going out with friends on the weekends, [&#8230;]</p>
   <p>The post <a href="https://www.juma.org/2025/09/29/monses-journey-from-shy-student-to-confident-leader/">Monse’s Journey from Shy Student to Confident Leader</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Juma Ventures
 source_url: https://www.juma.org/2025/09/29/monses-journey-from-shy-student-to-confident-leader/

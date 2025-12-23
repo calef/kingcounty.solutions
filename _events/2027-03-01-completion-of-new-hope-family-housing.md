@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: Seattle's Central Area, 114 and 123 21st Ave.
-locations:
+location_titles:
 - King County
 organization_title: Low Income Housing Institute
 published: false

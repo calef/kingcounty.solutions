@@ -36,7 +36,7 @@ feed_content: '<div class="field-items"> <div class="field-item"> <p>Faculty pia
   with Barry and their rescue golden retriever, Pamina.</p> </div> </div>'
 image_ids: []
 location: Meany Hall (MNY)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

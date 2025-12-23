@@ -6,7 +6,7 @@ feed_content: <div><p paraid="691069960" paraeid="{67e40b44-e395-4e07-ad07-d5fba
   you ride Link light rail, you’re already making a sustainable choice. Public transit
   offers a cleaner way to travel while reducing air pollution and GHG emissions. &nbsp;</p></div>
 image_ids: []
-locations:
+location_titles:
 - South King County
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/building-greener-future-sustainability-our-new-south-king-county-stations

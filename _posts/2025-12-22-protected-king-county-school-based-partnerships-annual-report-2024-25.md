@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: There is no excerpt because this is a protected post.
 feed_content_checksum: e09bb42c231903f0af8988968926ba3d691ae993
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\"
   />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<title>King

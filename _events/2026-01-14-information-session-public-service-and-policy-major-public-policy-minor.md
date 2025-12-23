@@ -227,7 +227,7 @@ feed_content: '<article id="post-14534" class="post-14534 page type-page status-
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </article>'
 image_ids: []
 location: Zoom
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

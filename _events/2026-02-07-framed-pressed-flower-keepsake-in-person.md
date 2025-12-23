@@ -5,7 +5,7 @@ feed_content: <div> {"login_page":"8ZK9-CS1HF","account":"WGHV-4MQL8","css_file"
 feed_content_checksum: d64336289b02b2641138601b16150fe89e21967c
 image_ids: []
 location: Center for Urban Horticulture
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

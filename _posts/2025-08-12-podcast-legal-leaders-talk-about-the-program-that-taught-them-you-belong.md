@@ -27,7 +27,7 @@ feed_content: |-
 
   The post [Podcast: Legal leaders talk about the program that taught them “you belong”](https://elap.org/podcast-legal-leaders-talk-about-the-program-that-taught-them-you-belong/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 image_ids: []
-locations:
+location_titles:
 - Eastside
 - Bryn Mawr-Skyway
 - Lake Forest Park

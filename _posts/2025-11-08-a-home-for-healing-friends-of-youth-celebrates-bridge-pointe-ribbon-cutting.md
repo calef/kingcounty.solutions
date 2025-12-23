@@ -10,7 +10,7 @@ feed_content: Friends of Youth has officially opened Bridge Pointe Housing, a he
   Services, Brooke Drennon; Friends of Youth Senior Director of Homeless Youth Services,
   Eric...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/a-home-for-healing-friends-of-youth-celebrates-bridge-pointe-ribbon-cutting

@@ -7,7 +7,7 @@ feed_content: "<div> <div> <p>We recently reorganized our site, so the page you 
 feed_content_checksum: bffd64ee4505a4f269f7779705ae09e7d3d5f847
 image_ids: []
 location: Allen Library (ALB)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

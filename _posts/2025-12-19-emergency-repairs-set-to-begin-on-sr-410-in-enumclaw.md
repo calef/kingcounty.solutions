@@ -4,7 +4,7 @@ feed_content: ENUMCLAW – Emergency work to repair the roadway on State Route 4
   Enumclaw will begin as early as Monday, Dec. 21.
 feed_content_checksum: 343be6d8a01fa8a69600d9c9d2e075264c5f0bec
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"

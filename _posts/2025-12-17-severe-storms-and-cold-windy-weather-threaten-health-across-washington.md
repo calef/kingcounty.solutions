@@ -50,7 +50,7 @@ feed_content: "<span>Severe storms and cold, windy weather threaten health acros
   Get updates by following us on <a>social media</a>.</p>\n\n<p>###</p>\n</div>"
 feed_content_checksum: b35c1cc68a986f5628fab9e1231e6afdf95d3d33
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<span>Severe storms and cold, windy weather threaten health
   across Washington</span>\n\n            <div>\n<time>December 16, 2025 - 4:51pm</time>\n</div>\n

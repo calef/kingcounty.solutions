@@ -5,7 +5,7 @@ feed_content: |-
   <p><span><span><strong><span>The City is moving forward with sidewalk vegetation management to ensure safe and accessible pedestrian pathways. Efforts will focus on the main arterials, including Evergreen Point Road, NE 8th Street, NE 24th Street, and Overlake Drive.</span></strong></span></span></p>
   <p><span><span><strong><u><span>OVERGROWN VEGETATION</span></u></strong></span></span></p></div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Medina
 source_url: https://www.medina-wa.gov/publicworks/page/sidewalk-vegetation-management

@@ -4,7 +4,7 @@ feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Wed, 12 Nov 2025 1
   -0500</p><p>title: Agent, Broker, and Web-broker Guidelines for Compliant Marketplace
   Advertising and Marketing  </p><p>topic: Compliance</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/agent-broker-web-broker-guidelines-compliant-marketplace-advertising-marketing

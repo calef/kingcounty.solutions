@@ -11,7 +11,7 @@ feed_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Print_Neighborho
   on October 14, 2025](https://www.tukwilawa.gov/join-us-for-a-interurban-avenue-south-and-foster-point-neighborhood-meeting-on-october-14-2205/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/join-us-for-a-interurban-avenue-south-and-foster-point-neighborhood-meeting-on-october-14-2205/

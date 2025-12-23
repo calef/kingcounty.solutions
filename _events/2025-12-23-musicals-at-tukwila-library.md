@@ -33,7 +33,7 @@ feed_content_checksum: d70008e53db2f9b073004d465d25612cbfac87e7
 image_ids: []
 location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United
   States
-locations:
+location_titles:
 - King County
 organization_title: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/musicals-at-tukwila-library-2/

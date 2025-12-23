@@ -23,7 +23,7 @@ feed_content: |-
 
   [You can learn more about this property and others on Mercy Housing Northwest’s website](https://www.mercyhousing.org/northwest/).
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/connection-angle-lake-transit-oriented-development-designed-to-get-residents-moving/

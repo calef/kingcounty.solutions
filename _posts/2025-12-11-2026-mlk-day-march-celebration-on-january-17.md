@@ -6,7 +6,7 @@ feed_content: Join Seattle Parks and Recreation as we come together to honor the
   by th...
 feed_content_checksum: a2519006105ae56f5e9e7bdc1c9ee80fb35f87f0
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://parkways.seattle.gov/?p=17034

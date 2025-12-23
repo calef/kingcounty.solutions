@@ -6,7 +6,7 @@ feed_content: Due to the weather conditions, the Senior Center will be closed to
   The Foodbank will operate on the usual schedule.
 feed_content_checksum: 2d71af1bd969bc12132b680ee2220507c095e124
 image_ids: []
-locations:
+location_titles:
 - Federal Way
 rss_guid: https://federalwayseniorcenter.org/?p=684
 source: Federal Way Senior Center

@@ -107,7 +107,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   Opportunities for Emerging Researchers</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/05/iths-opportunities-for-emerging-researchers/

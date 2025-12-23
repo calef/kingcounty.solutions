@@ -97,7 +97,7 @@ feed_content: '<p class="">Rainier Valley Food Bank (RVFB) is seeking an artist 
   class="">If you need more information or have questions regarding the Call for Artists,
   contact: <a href="mailto:gloria@rvfb.org?" target="_blank">gloria@rvfb.org</a> </p></li></ul>'
 image_ids: []
-locations:
+location_titles:
 - Seattle
 - South King County
 source: Rainier Valley Food Bank

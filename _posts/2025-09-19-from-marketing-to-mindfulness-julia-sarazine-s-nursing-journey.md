@@ -22,7 +22,7 @@ feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 60
   Community College’s Nursing Program, where she found not only a top-tier education
   but also lifelong friendships and a strong foundation &#8230;'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/09/19/from-marketing-to-mindfulness-julia-sarazines-nursing-journey/

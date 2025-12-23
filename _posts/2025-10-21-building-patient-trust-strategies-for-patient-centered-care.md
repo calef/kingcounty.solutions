@@ -74,7 +74,7 @@ feed_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/183">Start the Course</a></p>
   <p>The post <a href="https://arcorafoundation.org/building-patient-trust-strategies-for-patient-centered-care/">Building Patient Trust: Strategies for Patient Centered Care</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Arcora Foundation
 source_url: https://arcorafoundation.org/building-patient-trust-strategies-for-patient-centered-care/

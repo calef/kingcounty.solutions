@@ -69,7 +69,7 @@ feed_content: |-
   <p>Learn more about DAV Patriot Boot Camp at patriotbootcamp.org.</p>
 feed_content_checksum: 28f692c71a16e5ebffd07678d75ce2ece4c5aafd
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p>The sharing of non-VA information does not constitute an endorsement of products or services by the Department of Veterans Affairs. Veterans should always verify information with the organization offering the program.</p>

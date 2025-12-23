@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Washington state recently passed  SB 5009 , a new law that modernizes
   the state’s funding formulas for student transportation . As of...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/partner-feature-hopskipdrive-celebrates-innovation-and-flexibility-in-washington

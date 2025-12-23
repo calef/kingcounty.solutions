@@ -5,7 +5,7 @@ feed_content: SEATTLE – It’s better than a one-horse open sleigh, so there w
   holiday season.
 feed_content_checksum: 7c7649364d5ff3562366a3c1a07c2773d1723609
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"

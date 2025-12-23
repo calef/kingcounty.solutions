@@ -23,7 +23,7 @@ feed_content: "<div> <div> <section> <div> <p> <a> « All Events</a> </p> <div> 
 feed_content_checksum: 5ce6f6a87b65a470c27d443ab25ea16526b6f867
 image_ids: []
 location: Chamberlain Room
-locations:
+location_titles:
 - South King County
 - Seattle
 organization_title: SouthEast Seattle Senior Center

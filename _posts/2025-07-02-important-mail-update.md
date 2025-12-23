@@ -62,7 +62,7 @@ feed_content: |-
   <p>Email olivia@hospitalityhousesouthking.org with questions <img loading="lazy" decoding="async" height="16" width="16" alt="&#x1f49a;" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t33/2/16/1f49a.png"></p>
 image_ids:
 - 6b455008971a0c35c22fb1cef581433309da36b6c866951b520e4e9596ffa1ed
-locations:
+location_titles:
 - Burien
 - South King County
 source: Hospitality House

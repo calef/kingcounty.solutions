@@ -21,7 +21,7 @@ feed_content: "<p><strong>Position: </strong>Alternate Delivery Driver      �
   on Wheels: Deliver Meals and a Smile in Federal Way!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-make-a-difference-in-federal-way/

@@ -32,7 +32,7 @@ feed_content: "<p class=\"\">When Mohit and Ojaswani Suley first began hosting t
   data-sqsp-button target=\"_blank\"\n  >\n    Make a gift to join the Suleys in supporting
   Mary's Place!\n  </a>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/shining-a-light-this-diwali-how-one-family-turned-celebration-into-community-impact

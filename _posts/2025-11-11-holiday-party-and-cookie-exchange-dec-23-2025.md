@@ -7,7 +7,7 @@ feed_content: |-
 
   <p>Drop off home-made cookies by 3:45pm on Tuesday 12/23, then choose from available cookies from 4:00pm – 5:00pm. Decorate cookies and enjoy hot chocolate to get into the holiday spirit!</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/holiday-party-and-cookie-exchange-dec-23-2025/

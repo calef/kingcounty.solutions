@@ -101,7 +101,7 @@ feed_content: "<p><div class=\"et_pb_section et_pb_section_0 blog-post-type et_s
   the hospital and on the hotline, LCSNW volunteer stands by survivors</a> appeared
   first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/11/lcsnw-volunteer-stands-by-survivors/

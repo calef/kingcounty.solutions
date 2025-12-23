@@ -7,7 +7,7 @@ feed_content: As of Wednesday morning, December 10, multiple roads are closed th
   For state roads and highways, go […]
 feed_content_checksum: 845f429a294f3c977fae22ce7fbc73c2acdc51d6
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://kcemergency.com/2025/12/10/king-county-road-closures/

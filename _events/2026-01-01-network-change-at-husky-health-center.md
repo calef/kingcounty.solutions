@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Husky Health Center
 source_url: https://wellbeing.uw.edu/important-network-change-for-husky-health-center/

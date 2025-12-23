@@ -5,7 +5,7 @@ feed_content: After a landmark 2025 session, Seattle Public Utilities (SPU) is p
   with declining revenues and negative budget impacts from the federal government.
   Beginning...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/12/its-that-time-of-year-spu-prepares-for-the-2026-state-legislative-session/

@@ -33,7 +33,7 @@ feed_content: |-
   <p><a>Download a PDF of this information for reference</a></p>
 feed_content_checksum: 0a607de72666c4ebc730d47792f7467e6af37378
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://snoqualmietribe.us/?p=6898
 source: Snoqualmie Indian Tribe

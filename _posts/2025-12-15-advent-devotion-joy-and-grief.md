@@ -23,7 +23,7 @@ feed_content: "<div>\n<div><div><div>\n<div><div><div>\n\t<div>\n\t\t<div>\n\t\t
 feed_content_checksum: fce3a9684c18beb149cad02695c8119ac7e2daca
 image_ids:
 - e5374fed52c8053f49c75999104805856258b8e0b398ab5632e94f97b4412a77
-locations:
+location_titles:
 - King County
 original_source_html: "<div>\n<div><div><div>\n<div><div><div>\n\t<div>\n\t\t<div>\n\t\t\t<h4><span>Within
   our darkest night</span></h4>\n<h3><span>You kindle a fire</span></h3>\n<h4><span>That

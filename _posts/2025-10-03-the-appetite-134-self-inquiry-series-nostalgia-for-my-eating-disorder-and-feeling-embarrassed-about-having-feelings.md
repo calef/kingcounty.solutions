@@ -603,7 +603,7 @@ feed_content: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\
   + Body Wisdom</a>.</p>"
 feed_content_checksum: ffbd73d4d171f0450315eac3d146f793d1fcf284
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t<div>\n\t\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t<p></p>\n<p><a>Listen
   here!</a></p>\n<p>“Even within the male-centric model, women have accomplished incredible

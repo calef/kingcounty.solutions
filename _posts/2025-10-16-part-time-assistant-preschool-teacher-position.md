@@ -4,7 +4,7 @@ feed_content: The City of Normandy Park is looking for an experienced early chil
   instructor to teach our PRE-K Class. The head teacher is responsible for planning,
   presenting...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/human-resources/pre-k-preschool-teacher-part-time/

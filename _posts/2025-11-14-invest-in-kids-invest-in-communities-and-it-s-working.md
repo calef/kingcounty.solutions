@@ -153,7 +153,7 @@ image_ids:
 - 395cfb90c1226ef4e989401855c44fc5ed79100da07f23e0eb6c2331b600c254
 - 3389e147155d4d192db905a489b5e65cce38d73b4d5a54fce2014d15ae08ae0d
 - b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
-locations:
+location_titles:
 - King County
 source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/invest-in-kids-invest-in-communities-and-its-working/

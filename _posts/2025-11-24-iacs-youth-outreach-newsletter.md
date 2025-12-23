@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: '[...]<p><a class="btn btn-secondary understrap-read-more-link" href="https://iacswa.org/iacs-youth-outreach-newsletter/">Read
   More...<span class="screen-reader-text"> from IACS YOUTH OUTREACH NEWSLETTER</span></a></p>'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Indian American Community Services
 source_url: https://iacswa.org/iacs-youth-outreach-newsletter/

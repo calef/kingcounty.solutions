@@ -5,7 +5,7 @@ feed_content: The Cascade foothills are home to the small but important South Fo
   license with the Federal Energy Regulatory Commission (FERC). This process takes
   several years. A...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://powerlines.seattle.gov/2025/11/12/building-on-a-legacy-of-learning-relicensing-the-south-fork-tolt-hydroelectric-project/

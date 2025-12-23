@@ -43,7 +43,7 @@ feed_content: "<p class=\"\">Too often, navigating the banking system, budgeting
   data-sqsp-button target=\"_blank\"\n  >\n    donate to support programs at Mary's
   Place\n  </a>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/breaking-barriers-building-stable-futures-financial-literacy-for-all

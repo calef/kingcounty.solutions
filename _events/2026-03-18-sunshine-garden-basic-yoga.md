@@ -21,7 +21,7 @@ feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </
 feed_content_checksum: a33f7e72611ad796fc1a1df1a513fbf86b91de44
 image_ids: []
 location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
-locations:
+location_titles:
 - King County
 organization_title: Chinese Information & Service Center
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top\"

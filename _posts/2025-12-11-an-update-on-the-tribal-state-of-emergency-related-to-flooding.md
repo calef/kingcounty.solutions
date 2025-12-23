@@ -24,7 +24,7 @@ feed_content: |-
   <p>If you’re experiencing a flood emergency, please call 911.</p>
 feed_content_checksum: b0d56b03612b70e3d276d03f6ec5ab1255bd033d
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://snoqualmietribe.us/?p=6891
 source: Snoqualmie Indian Tribe

@@ -5,7 +5,7 @@ feed_content: 'The Basics How long have you worked at City Light? 12 years Divis
   made up of several teams, including Customer Engineering, which is responsible for
   supporting custome...'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://powerlines.seattle.gov/2025/11/10/seattle-city-spotlight-katie-zook-king-electric-service-representative-supervisor/

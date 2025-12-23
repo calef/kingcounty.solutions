@@ -5,7 +5,7 @@ feed_content: Seattle – Today, Mayor Bruce Harrell released the following stat
   Lenny Wilkens, a trailblazing Seattle icon and legendary figure in the history of
   basketball. One of...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/11/10/mayor-harrell-statement-on-passing-of-sonics-legend-lenny-wilkens/

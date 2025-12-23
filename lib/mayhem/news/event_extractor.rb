@@ -112,7 +112,7 @@ module Mayhem
             source_url,
             stats,
             front_matter['topics'],
-            front_matter['locations'],
+            front_matter['location_titles'],
             reference_time
           )
           event_ids << event_id if event_id
@@ -187,7 +187,7 @@ module Mayhem
         nil
       end
 
-      def create_event(event_data, organization_title, source_url, stats, post_topics, post_locations, reference_time)
+      def create_event(event_data, organization_title, source_url, stats, post_topics, post_location_titles, reference_time)
         title = event_data['title']
         start_date_str = event_data['start_date']
         end_date_str = event_data['end_date']
@@ -250,7 +250,7 @@ module Mayhem
         }
         front_matter['end_date'] = end_time.iso8601 if end_time
         front_matter['topics'] = post_topics.dup if post_topics.is_a?(Array) && post_topics.any?
-        front_matter['locations'] = post_locations.dup if post_locations.is_a?(Array) && post_locations.any?
+        front_matter['location_titles'] = post_location_titles.dup if post_location_titles.is_a?(Array) && post_location_titles.any?
 
         unless description.to_s.strip.empty?
           normalized_description = Mayhem::Content::HtmlNormalizer.normalize(

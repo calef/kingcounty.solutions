@@ -29,7 +29,7 @@ feed_content: |-
   The Workplace Suicide Prevention and Postvention Committee, a program of United Suicide Survivors International, advances the National Guidelines for Workplace Suicide Prevention, an evidence-informed roadmap to help workplaces prevent suicide, respond effectively to crises, and support recovery. The Committee meets monthly, bringing together diverse voices from business, labor, public health, and lived experience communities. Learn more at <a href="https://workplacesuicideprevention.com/">workplacesuicideprevention.com</a> and <a href="https://www.unitesurvivors.com/">unitesurvivors.com</a>.</p>
   <p>The post <a href="https://www.vibrant.org/vibrant-emotional-health-and-united-suicide-survivors-international-launch-workplace-suicide-prevention-month-toolkit/">Vibrant Emotional Health and United Suicide Survivors International Launch Workplace Suicide Prevention Month Toolkit</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/vibrant-emotional-health-and-united-suicide-survivors-international-launch-workplace-suicide-prevention-month-toolkit/

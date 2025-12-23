@@ -128,7 +128,7 @@ image_ids:
 - 50184272493ba42cbdc505429f4dc3bc4c447f968f8dfde3d8b2fb41ec74fae2
 - 9e9d4937681200cc8a35e4b67219a4b6b66cd5030a81761e275eb2968bea6376
 - 7ce4a8c04aea13b425ca379f41ff5337fd3c64a2f3cf493432b71af42b8c9361
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/building-love-in-burien-new-campus-will-provide-shelter-affordable-housing-and-lasting-stability-for-families

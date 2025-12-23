@@ -128,7 +128,7 @@ feed_content: |-
   <p>To learn more about prostate cancer, visit <a>VA’s National Oncology Program website</a>. You can also find a <a>helpful infographic</a> about whether prostate cancer screening is right for you, and an <a>interactive Decision Aid Tool</a> for prostate cancer screening in the <a>Veterans Health Library</a>.</p>
 feed_content_checksum: 8e849746fc8384481abd07ad07ae16814e972ca6
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <h2>Empowering Veterans with knowledge for prostate health decisions</h2>

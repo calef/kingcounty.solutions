@@ -6,7 +6,7 @@ feed_content: Most of us take time in December to reflect and look back at the l
   They mo...
 feed_content_checksum: a246edef9f9ed88cc21ef509dacb5c7502ae78ca
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Most of us take time in December to reflect and look back at
   the last year and seek some form of closure. The Public Art Division may look back

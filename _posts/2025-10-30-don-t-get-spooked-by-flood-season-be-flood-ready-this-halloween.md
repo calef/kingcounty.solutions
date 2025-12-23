@@ -63,7 +63,7 @@ feed_content: "By Steven Schauer, Deputy Executive Director\n\nAs the ghosts and
   Ready This Halloween](https://kingcountyfloodcontrol.org/%f0%9f%8e%83-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween/)
   appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org)."
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/%f0%9f%8e%83-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%258e%2583-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween

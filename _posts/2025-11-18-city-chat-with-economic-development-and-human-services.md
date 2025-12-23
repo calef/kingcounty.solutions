@@ -6,7 +6,7 @@ feed_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_110459
   />Join us for free light refreshments at our "City Chat" on Thursday, November 20
   at the Burien Library and City Hall multipurpose room!
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=21059577

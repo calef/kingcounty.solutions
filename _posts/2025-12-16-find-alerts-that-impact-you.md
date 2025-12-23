@@ -7,7 +7,7 @@ feed_content: Due to a high volume of requests for information about the specifi
   the search bar at the […]
 feed_content_checksum: 72a3ccbaab3054251664edc3b19c03adacc72eef
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Due to a high volume of requests for information about the specific
   locations of emergency evacuation alerts, we are making a King County Emergency

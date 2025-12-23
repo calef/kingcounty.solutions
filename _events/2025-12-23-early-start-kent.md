@@ -49,7 +49,7 @@ feed_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-tr
   </div> </div> </div> </div> </section> </div>
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Indian American Community Services
 published: false

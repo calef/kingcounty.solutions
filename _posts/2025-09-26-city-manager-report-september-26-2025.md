@@ -10,7 +10,7 @@ feed_content: 'Normandy Park’s Annual Property Tax Levy: What It Means for You
   the library district, and the City of Normandy Park. The City’s levy is just one
   small piece of that total bill — usually about 10–12% of what you pay each year.'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-september-26-2025/

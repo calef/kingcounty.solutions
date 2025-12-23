@@ -38,7 +38,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   15 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - 54b2194cee32cf79de9f69c90e4cd73bda2ca4953238e2c9d467f54ca8adda82
-locations:
+location_titles:
 - King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/lake-to-lake-10-25

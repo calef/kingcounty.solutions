@@ -5,7 +5,7 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   content=\"2025-11-27T00:00:00-08:00\" class=\"date-display-single\">11/27/2025 (All
   day)</span>\n      </div>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/26926

@@ -9,7 +9,7 @@ feed_content: Many people are asking how they can help by donating their time or
   community to see […]
 feed_content_checksum: e7a094549f6033da025e99e4d20da975ceff7897
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://kcemergency.com/?p=6848
 source: King County Emergency Management

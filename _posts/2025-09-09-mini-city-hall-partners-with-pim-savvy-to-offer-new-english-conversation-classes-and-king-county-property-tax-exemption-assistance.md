@@ -30,7 +30,7 @@ feed_content: |-
   <p>For more information email &#x6d;&#105;n&#x69;&#x63;&#104;&#64;&#x62;&#101;l&#x6c;&#x65;&#118;u&#x65;&#119;a&#x2e;&#x67;&#111;v or call 425-452-2800</p>
   <p>The post <a href="https://pimsavvy.com/mini-city-hall-partners-with-pim-savvy/">Mini City Hall partners with PIM Savvy to offer new English Conversation Classes and King County Property Tax Exemption Assistance</a> appeared first on <a href="https://pimsavvy.com">PIM Savvy</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: PIM Savvy
 source_url: https://pimsavvy.com/mini-city-hall-partners-with-pim-savvy/

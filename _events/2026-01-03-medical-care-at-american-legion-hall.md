@@ -3,7 +3,7 @@ end_date: '2026-01-03T11:00:00-08:00'
 generated_from_post: true
 image_ids: []
 location: American Legion Hall
-locations:
+location_titles:
 - King County
 organization_title: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/medical-team-to-visit-westside-neighbors-shelter/

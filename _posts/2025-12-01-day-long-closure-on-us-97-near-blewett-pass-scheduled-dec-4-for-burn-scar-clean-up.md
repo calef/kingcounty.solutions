@@ -5,7 +5,7 @@ feed_content: WENATCHEE – The Washington State Department of Transportation wi
   Ingalls Creek Road (milepost 177) to remove trees and debris in the Labor Mountain
   Fire burn scar area.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/day-long-closure-us-97-near-blewett-pass-scheduled-dec-4-burn-scar-clean

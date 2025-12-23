@@ -80,7 +80,7 @@ feed_content: '<p>Summary: Following a <a href="https://harrell.seattle.gov/wp-c
   on Medium, where people are continuing the conversation by highlighting and responding
   to this story.</p>'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County
 source_url: https://medium.com/kingcounty/king-county-and-city-of-seattle-partner-on-regions-second-crisis-care-center-location-720b0e91e676?source=rss-cc0752750177------2

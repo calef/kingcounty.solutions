@@ -21,7 +21,7 @@ feed_content: "<p>The first Essentials First’s annual Day of Action is happeni
 feed_content_checksum: 91a7dc69ddca03a64612e84a53949e0ad131edac
 image_ids:
 - 901e7bf5bfc4f2dfd4432c84dc07ff01edf3ddf62f470c694fda91cffc2e2636
-locations:
+location_titles:
 - King County
 original_source_html: "<p>The first Essentials First’s annual Day of Action is happening
   on <strong>Monday, January 26, 2026</strong>, in Olympia, and we invite you to mark

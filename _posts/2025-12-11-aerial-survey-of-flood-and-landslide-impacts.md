@@ -7,7 +7,7 @@ feed_content: Today at 1pm, staff from Seattle Public Utilities, King County Loc
   OEM to pick up the assessment […]
 feed_content_checksum: b9c10c58466f3056cf13bbe06e1845e6f382b3df
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://kcemergency.com/?p=6746

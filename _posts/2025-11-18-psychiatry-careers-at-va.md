@@ -57,7 +57,7 @@ feed_content: |-
 
   <p></p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143478/psychiatry-careers-at-va/

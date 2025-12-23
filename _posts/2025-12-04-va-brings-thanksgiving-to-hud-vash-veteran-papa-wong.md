@@ -117,7 +117,7 @@ feed_content: |-
 
   <p>To learn more about VA’s care for Veterans who are experiencing homelessness or housing instability, visit the <a href="https://www.va.gov/homeless/housing.asp" rel="noopener">VA Homeless Veteran Program</a> website.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143681/va-brings-thanksgiving-to-hud-vash-veteran/

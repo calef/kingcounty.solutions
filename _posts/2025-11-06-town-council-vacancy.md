@@ -42,7 +42,7 @@ feed_content: "**Notice: Town Council Vacancy**\n\n[Application for Appointment 
   the minimum requirements of state law will be presented as part of the public meeting
   to select an appointee.\n\nThank you for your interest in serving our community."
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/town-council-vacancy/

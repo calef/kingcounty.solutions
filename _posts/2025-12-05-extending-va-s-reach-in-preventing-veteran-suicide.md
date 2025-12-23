@@ -87,7 +87,7 @@ feed_content: |-
 
   <p><a id="_msocom_1"></a></p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143698/extending-vas-reach-preventing-veteran-suicide/

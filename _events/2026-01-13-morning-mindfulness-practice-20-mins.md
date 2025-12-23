@@ -162,7 +162,7 @@ feed_content: <meta><meta><meta><meta><meta><link><link><link><link><link><meta>
 feed_content_checksum: 5eb122d753eb5b517c52ddcb9d6d0c5af79bc96a
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 locked: true
 organization_title: University of Washington
 published: false

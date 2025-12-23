@@ -7,7 +7,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 5731169888cc89849716d21a2eece7d5b09e43a0
 image_ids: []
-locations:
+location_titles:
 - Yarrow Point
 original_source_html: |-
   <p><a>Canceled December 16, 2025 Meeting Notice</a></p>

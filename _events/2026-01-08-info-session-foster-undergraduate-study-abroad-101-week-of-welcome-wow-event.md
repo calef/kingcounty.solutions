@@ -405,7 +405,7 @@ feed_content: '<a id="main-content" href="#Boundless" class="screen-reader-short
   } </script>'
 image_ids: []
 location: PACCAR Hall (PCAR)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

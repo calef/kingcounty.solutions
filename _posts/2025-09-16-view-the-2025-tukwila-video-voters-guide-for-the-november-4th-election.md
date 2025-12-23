@@ -14,7 +14,7 @@ feed_content: "https://www.youtube.com/embed/cWD-WAX7zyo?feature=oembed\n\nTo he
   the November 4th Election](https://www.tukwilawa.gov/view-the-2025-tukwila-video-voters-guide-for-the-november-4th-election/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/view-the-2025-tukwila-video-voters-guide-for-the-november-4th-election/

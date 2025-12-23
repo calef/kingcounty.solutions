@@ -17,7 +17,7 @@ feed_content: 'Event interval: Single day event Campus location: Plant Services 
 feed_content_checksum: bb822269125ae22215f9c0336eaea4ff7c667519
 image_ids: []
 location: Plant Services Building (PSB)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: 'Event interval: Single day event Campus location: Plant Services

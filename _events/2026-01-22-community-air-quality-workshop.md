@@ -92,7 +92,7 @@ feed_content: "<article id=\"post-0\" class=\"post-0 page type-page status-publi
 image_ids: []
 location: Centilia Cultural Center, 1660 S Plaza Roberto Maestas Festival Street,
   Seattle, WA, 98144, United States
-locations:
+location_titles:
 - King County
 organization_title: El Centro de la Raza
 published: false

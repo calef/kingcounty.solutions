@@ -13,7 +13,7 @@ feed_content: |-
 
   The post [Sunshine Garden Activity Schedule – July](https://cisc-seattle.org/sunshine-garden-activity-schedule-july/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/sunshine-garden-activity-schedule-july/?utm_source=rss&utm_medium=rss&utm_campaign=sunshine-garden-activity-schedule-july

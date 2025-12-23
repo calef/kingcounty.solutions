@@ -6,7 +6,7 @@ feed_content: |-
   <p>With the details about the restoration of SNAP benefits still not clear, we&#8217;ve added a second Mobile Food Pantry stop next week. We&#8217;ll return to our regular Wallingford Food Bank [&#8230;]</p>
   <p>The post <a href="https://www.familyworksseattle.org/responding-to-snap-delays-week-of-nov-10-14/">Responding to SNAP Delays: Week of November 10-14</a> appeared first on <a href="https://www.familyworksseattle.org">FamilyWorks Seattle</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/responding-to-snap-delays-week-of-nov-10-14/

@@ -9,7 +9,7 @@ feed_content: The holidays are coming! Whether you are going to holiday events, 
   or celebrating with friends and family, it’s a great time to explore your transit
   options. We have some...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/25/holiday-travel-metro-will-help-you-get-there/

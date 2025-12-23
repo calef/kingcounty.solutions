@@ -1,7 +1,7 @@
 ---
 generated_from_post: true
 image_ids: []
-locations: []
+location_titles: []
 locked: true
 organization_title: Department of Health
 published: false

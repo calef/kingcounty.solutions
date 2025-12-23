@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: 'Want to help create joyful memories? We’re collecting gift cards for:
   Movie theaters Local food spots Uber rides Haircuts (Visa or...'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/gift-cards-for-summer-fun

@@ -282,7 +282,7 @@ feed_content: |-
   <p>It’s essential to adopt a drug-free lifestyle not only to pass tests but also for your health and well-being. Regular exercise, a balanced diet, and avoiding drug use are vital for a successful detox and overall quality of life. Remember, while there are methods to assist in passing a drug test, the best solution is to remain drug-free. Prioritizing your health and making informed choices will empower you to face any challenge that comes your way.</p>
   <p>The post <a href="https://www.residencexii.org/how-pass-drug-test/">How to Pass a Drug Test?</a> appeared first on <a href="https://www.residencexii.org">Residence XII</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Residence XII
 source_url: https://www.residencexii.org/how-pass-drug-test/

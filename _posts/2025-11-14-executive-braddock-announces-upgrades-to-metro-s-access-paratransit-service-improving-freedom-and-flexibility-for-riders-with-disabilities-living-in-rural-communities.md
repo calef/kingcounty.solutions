@@ -6,7 +6,7 @@ feed_content: 'Media release from the King County Executive  Summary: King Coun
   Executive Shannon Braddock, in partnership with Metro, has announced easier and
   more convenient trip-planning options for Access paratransit customers, including...'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/14/executive-braddock-announces-upgrades-to-metros-access-paratransit-service-improving-freedom-and-flexibility-for-riders-with-disabilities-living-in-rural-communities/

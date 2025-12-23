@@ -7,7 +7,7 @@ feed_content: <div><p paraid="1576460122" paraeid="{51d93b13-642c-4426-9f77-65d2
   fact, if you’re a regular 1 Line rider, you’ve probably already noticed lighting
   upgrades at some of Seattle’s downtown stations — they’re hard to miss!&nbsp;&nbsp;</p></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/literal-glow-were-upgrading-lighting-systems-some-our-busiest-light-rail-stations

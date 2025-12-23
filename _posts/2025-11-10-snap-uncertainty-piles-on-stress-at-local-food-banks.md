@@ -7,7 +7,7 @@ feed_content: |-
   <p>The post <a>SNAP uncertainty piles on stress at local food banks</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: 9e525495f96761be76c225a2ea2481e98134dfb3
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/snap-uncertainty-piles-on-stress-at-local-food-banks/

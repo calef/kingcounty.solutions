@@ -7,7 +7,7 @@ feed_content: 'Many things contribute to the unique character or a neighborhood:
   neighborhoods, Business Improvement Areas are often the on-the-ground support maintaining
   those...'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/20/business-improvement-areas-provide-community-driven-approach-to-support-seattles-business-districts/

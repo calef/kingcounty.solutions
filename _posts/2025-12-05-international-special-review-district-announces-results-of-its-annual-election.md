@@ -5,7 +5,7 @@ feed_content: " The annual election for the International Special Review Distri
   December 2. Seattle Department of Neighborhoods received a total of 89 ballots.
   Three positions were up ..."
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/05/international-special-review-district-announces-results-of-its-annual-election/

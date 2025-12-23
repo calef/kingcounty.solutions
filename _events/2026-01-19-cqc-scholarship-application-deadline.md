@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: City of Carnation
 source_url: https://www.carnationwa.gov/scholarship-nomination-opportunity/

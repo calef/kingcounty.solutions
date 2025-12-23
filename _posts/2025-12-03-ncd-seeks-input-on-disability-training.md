@@ -129,7 +129,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   IHDD</a>.</p>"
 image_ids:
 - 259b40a85ab15d3a64376eb9a7e239b9523f694b537bd2533c49d8ae7231e578
-locations:
+location_titles:
 - King County
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/03/ncd-seeks-input-on-disability-training/

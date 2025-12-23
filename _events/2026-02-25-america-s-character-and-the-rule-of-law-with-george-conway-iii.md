@@ -52,7 +52,7 @@ feed_content: '<article id="post-3855" class="post-3855 uw_oplevents type-uw_opl
   Graduate School</p> </div> </article>'
 image_ids: []
 location: Town Hall Seattle
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

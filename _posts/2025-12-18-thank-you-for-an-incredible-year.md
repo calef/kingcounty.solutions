@@ -6,7 +6,7 @@ feed_content: 2025 has been a year full of opportunities for our organization to
   It was a year for MSC to continue our strategies toward shifting into what  [...]
 feed_content_checksum: 5841d81e7e0785e569e12e6ca2e997dab30fb655
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: 2025 has been a year full of opportunities for our organization
   to show up for our community in ways we could never imagine. Multi-Service Center,

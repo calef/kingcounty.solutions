@@ -108,7 +108,7 @@ image_ids:
 - 614dee1bc32cd263be84ee074c0a2686dcc832171176426794f9890928efcd64
 - 708284183d471b1744ed1f2093aaea60aaf93aea6df885ffced8101a298d459f
 - 3860b62fcf07ff8878ab648ea82ae1c3569406aec417cb982afddcb983107dc4
-locations:
+location_titles:
 - King County
 source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/lbriylw3bfuf4j306j4w5bgxvs3iwn

@@ -56,7 +56,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
 feed_content_checksum: '09ddd6134a80fcbc24b6c494c539725ca7557b80'
 image_ids:
 - 84895ecebf99b7daeb291779a10c3c261887ec60451366018df82c835eea2236
-locations:
+location_titles:
 - King County
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/09/2026-disability-and-health-scholarship-now-open/

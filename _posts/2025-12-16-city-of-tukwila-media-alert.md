@@ -40,7 +40,7 @@ feed_content: "<div> <div> <div><ul> <li><a>Alerts</a></li> <li><a>Current Infor
   This Site</h3> <div> <form> <label>Search</label> </form> </div> </div> </div> </div>"
 feed_content_checksum: db2f6d0f8363fc143abd33155448493cada5d60d
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<div> <div> <div><ul> <li><a>Alerts</a></li> <li><a>Current
   Information</a></li> <li><a>Emergency Alerts Mapping Tool</a></li> <li><a>River

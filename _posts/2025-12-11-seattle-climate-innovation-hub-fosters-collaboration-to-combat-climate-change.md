@@ -6,7 +6,7 @@ feed_content: 'Nestled in the Financial Center in Downtown Seattle, there’s a 
   and investing...'
 feed_content_checksum: c4f9b89f76db00b16002ae47987e525d70c4fc5a
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://bottomline.seattle.gov/?p=8012

@@ -5,7 +5,7 @@ feed_content: Seattle police officers arrested a 31-year-old man for crashing a 
   11:30 p.m., a patrol officer near Fauntleroy Way Southwest and Southwest Juneau
   Street saw a truck ...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/07/dui-driver-arrested-after-crashing-stolen-truck-running-from-cops/

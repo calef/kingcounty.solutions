@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Love being outdoors? We’re looking for volunteers to help with garden
   maintenance at Howard House Home ! It’s a great way to give back...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/volunteer-opportunity-garden-maintenance

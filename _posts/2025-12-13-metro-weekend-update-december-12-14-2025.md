@@ -5,7 +5,7 @@ feed_content: Weekend Service Impacts Routes 226, 250, 271, 981, ST 550, ST 566 
   Center due to an...
 feed_content_checksum: 5e032ab47fe3cab694c64601d3c191c6cb7f57d8
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://kingcountymetro.blog/?p=67727

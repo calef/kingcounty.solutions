@@ -10,7 +10,7 @@ feed_content: 'For Immediate Release Contact InformationCynthia SantanaPhone: 20
   Hazard Pay (GEHP), Gig […]'
 feed_content_checksum: 46cd8026ab987b8143250401572a0aa048835cdc
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://news.seattle.gov/2025/12/08/seattle-office-of-labor-standards-announces-expiration-of-temporary-covid-19-grocery-worker-and-gig-worker-ordinances-providing-protections-during-pandemic/

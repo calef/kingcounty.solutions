@@ -40,7 +40,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
 feed_content_checksum: 599d289e3e05bd15b9aa835c9d723c644ee20566
 image_ids: []
 location: Virtual/Online, United States
-locations:
+location_titles:
 - King County
 organization_title: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/entry-level-firefighter-registration-opens-thru-mar-20-2026/2025-12-30/

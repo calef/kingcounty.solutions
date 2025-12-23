@@ -4,7 +4,7 @@ feed_content_checksum: d5ca4a51a13f06588c64119fee4d2412de469f2b
 generated_from_post: true
 image_ids: []
 location: Beacon Hill Branch
-locations:
+location_titles:
 - King County
 organization_title: The Seattle Public Library
 original_source_html: A reading party for families.

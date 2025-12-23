@@ -271,7 +271,7 @@ feed_content: '<div id="uw-container"> <div id="uw-container-inner"> <header cla
   <h4>Connect with us:</h4> </div> </div> </div>'
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

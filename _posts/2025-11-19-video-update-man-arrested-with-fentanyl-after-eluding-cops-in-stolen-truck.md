@@ -5,7 +5,7 @@ feed_content: Seattle police officers arrested a 31-year-old felon for eluding p
   helicopter. On Nov 18, at about 2:00 p.m., patrol officers, equipped with an Automatic
   License Plate...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/20/video-update-man-arrested-with-fentanyl-after-eluding-cops-in-stolen-truck/
