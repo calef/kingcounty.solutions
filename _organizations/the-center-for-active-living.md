@@ -7,7 +7,8 @@ topic_titles:
 - Senior Services
 type: Community-Based Organization
 website_url: https://www.wscenter.org
-website_xml_sitemap_url: https://wscenter.org/wp-sitemap.xml
+website_xml_sitemap_urls:
+- https://wscenter.org/wp-sitemap.xml
 ---
 
 The Center for Active Living is a vibrant social gathering place for the community's 50-and-older population, offering a range of activities, programs, and dining options. Everyone is welcome to join in for fun, friendship, and community engagement.

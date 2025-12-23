@@ -31,16 +31,16 @@ module Mayhem
 
       def find(website_url)
         base_url = base_url_for(website_url)
-        return nil unless base_url
+        return [] unless base_url
 
-        robots_candidates = candidates_from_robots(base_url)
-        found = find_first_valid(robots_candidates)
-        return found if found
+        candidates = dedupe_candidates(
+          candidates_from_robots(base_url) + default_candidates(base_url)
+        )
 
-        find_first_valid(default_candidates(base_url))
+        valid_sitemaps(candidates)
       rescue StandardError => e
         @logger.warn "Sitemap discovery failed for #{website_url}: #{e.message}"
-        nil
+        []
       end
 
       private
@@ -100,12 +100,11 @@ module Mayhem
         end
       end
 
-      def find_first_valid(candidates)
-        candidates.each do |candidate|
+      def valid_sitemaps(candidates)
+        candidates.each_with_object([]) do |candidate, collection|
           found = verify_candidate(candidate)
-          return found if found
+          collection << found if found
         end
-        nil
       end
 
       def verify_candidate(candidate)

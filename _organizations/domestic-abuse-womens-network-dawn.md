@@ -8,8 +8,9 @@ topic_titles:
 - Domestic Violence
 - Mental Health & Counseling
 type: Community-Based Organization
-website_url: https://dawnrising.org/
-website_xml_sitemap_url: https://dawnrising.org/sitemap_index.xml
+website_url: https://dawnrising.org
+website_xml_sitemap_urls:
+- https://dawnrising.org/sitemap_index.xml
 ---
 
 DAWN supports, empowers, and shelters survivors of domestic abuse in King County. We offer a 24-hour advocacy line, emergency shelter, legal and mental health advocacy, and community awareness training. Our services are inclusive and available to all survivors, regardless of their background.

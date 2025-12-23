@@ -10,7 +10,8 @@ topic_titles:
 - Senior Services
 type: Community-Based Organization
 website_url: https://eastsidefriendsofseniors.org
-website_xml_sitemap_url: https://www.eastsidefriendsofseniors.org/sitemap.xml
+website_xml_sitemap_urls:
+- https://www.eastsidefriendsofseniors.org/sitemap.xml
 ---
 
 Eastside Friends of Seniors partners with the community to help older adults live independently by providing transportation, household help, and social activities through community volunteers. All services are offered free of charge.

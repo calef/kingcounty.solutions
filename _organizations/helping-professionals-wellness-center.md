@@ -7,7 +7,8 @@ topic_titles:
 - Domestic Violence
 type: Community-Based Organization
 website_url: https://www.hpwellnesscenter.com/
-website_xml_sitemap_url: https://hpwellnesscenter.com/sitemap_index.xml
+website_xml_sitemap_urls:
+- https://hpwellnesscenter.com/sitemap_index.xml
 ---
 
 Helping Professionals Wellness Center (HPWC) offers a range of mental health and substance use disorder treatment services, including telehealth options. Our programs are designed to support individuals facing various challenges, including domestic violence intervention and supportive employment and housing services. We prioritize client-centered care in a judgment-free environment.

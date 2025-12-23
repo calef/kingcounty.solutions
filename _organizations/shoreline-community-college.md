@@ -8,8 +8,9 @@ topic_titles:
 - Employment & Job Support
 - Financial Assistance
 type: College
-website_url: https://www.shoreline.edu/
-website_xml_sitemap_url: https://www.shoreline.edu/sitemap.xml
+website_url: https://www.shoreline.edu
+website_xml_sitemap_urls:
+- https://www.shoreline.edu/sitemap.xml
 ---
 
 Shoreline Community College offers diverse programs in various fields, including healthcare, business, and technology. The college provides support for tuition, food, housing, and transportation, ensuring students have the resources they need to succeed.

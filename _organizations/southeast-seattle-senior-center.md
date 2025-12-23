@@ -11,8 +11,9 @@ topic_titles:
 - Mental Health & Counseling
 - Senior Services
 type: Community-Based Organization
-website_url: https://sessc.org/meals/
-website_xml_sitemap_url: https://sessc.org/sitemap_index.xml
+website_url: https://sessc.org
+website_xml_sitemap_urls:
+- https://sessc.org/sitemap_index.xml
 ---
 
 The SouthEast Seattle Senior Center (SESSC) provides a vibrant community hub for seniors aged 50 and older, offering meals, social activities, health and wellness programs, and support services. Our mission is to promote self-sufficient and fulfilling lives for aging adults through diverse recreational and educational opportunities.

@@ -5,8 +5,9 @@ topic_titles:
 - Education & Learning
 - Financial Assistance
 type: Department
-website_url: https://www.ed.gov/
-website_xml_sitemap_url: https://www.ed.gov/sitemap.xml
+website_url: https://www.ed.gov
+website_xml_sitemap_urls:
+- https://www.ed.gov/sitemap.xml
 ---
 
 The **Department of Education** promotes educational excellence and equal access to learning. Its social service relevance includes:

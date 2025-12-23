@@ -7,8 +7,9 @@ topic_titles:
 - Financial Assistance
 - Legal Aid
 type: Independent Federal Agency
-website_url: https://www.lsc.gov/
-website_xml_sitemap_url: https://www.lsc.gov/sitemap.xml
+website_url: https://www.lsc.gov
+website_xml_sitemap_urls:
+- https://www.lsc.gov/sitemap.xml
 ---
 
 The **Legal Services Corporation (LSC)** is an independent federal agency that funds legal aid organizations assisting low-income Americans. It contributes to:

@@ -9,8 +9,9 @@ topic_titles:
 - Personal & Household Needs
 - Education & Learning
 type: Department
-website_url: https://doh.wa.gov/
-website_xml_sitemap_url: https://doh.wa.gov/sitemap.xml
+website_url: https://doh.wa.gov
+website_xml_sitemap_urls:
+- https://doh.wa.gov/sitemap.xml
 ---
 
 The **Department of Health (DOH)** safeguards public health and promotes wellness across Washington. Its social service impact includes:

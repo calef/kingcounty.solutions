@@ -11,8 +11,9 @@ topic_titles:
 - Shelter & Housing
 - Transportation & Mobility
 type: Community-Based Organization
-website_url: https://www.solid-ground.org/
-website_xml_sitemap_url: https://www.solid-ground.org/sitemap.xml
+website_url: https://www.solid-ground.org
+website_xml_sitemap_urls:
+- https://www.solid-ground.org/sitemap.xml
 ---
 
 Solid Ground is a Seattle-based anti-poverty nonprofit that combines direct services with policy advocacy so households can meet immediate needs and work toward long-term stability. It offers eviction prevention and tenant services, helps people navigate public benefits, operates community food and nutrition programs, and runs mobility support such as Solid Ground Transportation and shuttles serving public housing residents.

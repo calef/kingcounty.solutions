@@ -10,8 +10,9 @@ topic_titles:
 - Personal & Household Needs
 - Shelter & Housing
 type: Community-Based Organization
-website_url: https://urbanreststop.org/
-website_xml_sitemap_url: https://urbanreststop.org/sitemap.xml
+website_url: https://urbanreststop.org
+website_xml_sitemap_urls:
+- https://urbanreststop.org/sitemap.xml
 ---
 
 Urban Rest Stop provides a clean, safe hygiene facility for unsheltered individuals and families. Services include access to running water, restrooms, showers, laundry, and toiletries at no cost. Open to families and individuals, the facility aims to meet essential hygiene needs.

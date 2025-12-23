@@ -9,7 +9,8 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://itallhappenshere.org
-website_xml_sitemap_url: https://itallhappenshere.org/sitemap_index.xml
+website_xml_sitemap_urls:
+- https://itallhappenshere.org/sitemap_index.xml
 ---
 
 The Federal Way Community Center offers a wide range of recreational services, including the largest public pool complex in Washington, fitness classes, youth programs, and community events. It aims to enhance the quality of life for all residents through inclusive and engaging activities.

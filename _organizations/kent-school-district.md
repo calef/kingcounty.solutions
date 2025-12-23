@@ -6,7 +6,8 @@ topic_titles:
 - Education & Learning
 type: School District
 website_url: https://www.kent.k12.wa.us
-website_xml_sitemap_url: https://www.kent.k12.wa.us/sitemap.xml
+website_xml_sitemap_urls:
+- https://www.kent.k12.wa.us/sitemap.xml
 ---
 
 Kent School District is a school district located in Kent, Washington. It serves a diverse student population and is committed to providing quality education and support services to its students and families.

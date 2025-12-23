@@ -9,8 +9,9 @@ topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 type: Faith-Based Organization
-website_url: https://www.churchontheridge.org/
-website_xml_sitemap_url: https://www.churchontheridge.org/sitemap_index.xml
+website_url: https://www.churchontheridge.org
+website_xml_sitemap_urls:
+- https://www.churchontheridge.org/sitemap_index.xml
 ---
 
 Church on the Ridge offers a welcoming community with Sunday gatherings featuring worship, prayer, and biblical teachings. It provides support through prayer, biblical counseling, and encouragement for personal struggles, aiming to help individuals find purpose and hope.

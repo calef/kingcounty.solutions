@@ -78,7 +78,7 @@ class OrganizationModelTest < Minitest::Test
     end
   end
 
-  def test_optional_fields_can_be_nil
+  def test_optional_fields_can_be_nil_or_empty
     FMRepo::TestHelpers.with_temp_repo(role: :organizations) do
       record = Mayhem::Models::Organization.create!(
         { 'title' => 'Minimal Org', 'type' => 'Agency' },
@@ -91,10 +91,10 @@ class OrganizationModelTest < Minitest::Test
       assert_nil record.events_ical_url
       assert_nil record.news_rss_url
       assert_nil record.phone
-      assert_nil record.topic_titles
+      assert_equal [], record.topic_titles
       assert_nil record.parent_organization_title
       assert_nil record.website_url
-      assert_nil record.website_xml_sitemap_url
+      assert_equal [], record.website_xml_sitemap_urls
     end
   end
 
@@ -126,18 +126,18 @@ class OrganizationModelTest < Minitest::Test
     end
   end
 
-  def test_website_xml_sitemap_url_field
+  def test_website_xml_sitemap_urls_field
     FMRepo::TestHelpers.with_temp_repo(role: :organizations) do
       record = Mayhem::Models::Organization.create!(
         {
           'title' => 'Sitemap Org',
           'type' => 'Agency',
-          'website_xml_sitemap_url' => 'https://example.org/sitemap.xml'
+          'website_xml_sitemap_urls' => ['https://example.org/sitemap.xml']
         },
         body: 'Organization with sitemap.'
       )
 
-      assert_equal 'https://example.org/sitemap.xml', record.website_xml_sitemap_url
+      assert_equal ['https://example.org/sitemap.xml'], record.website_xml_sitemap_urls
     end
   end
 end

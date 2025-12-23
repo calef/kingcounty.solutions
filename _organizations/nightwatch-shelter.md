@@ -9,7 +9,8 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://www.seattlenightwatch.org/get-help/nightwatch-shelter/
-website_xml_sitemap_url: https://www.seattlenightwatch.org/wp-sitemap.xml
+website_xml_sitemap_urls:
+- https://www.seattlenightwatch.org/wp-sitemap.xml
 ---
 
 Nightwatch Shelter provides food and overnight shelter for homeless individuals in Seattle. Meals are served nightly, and shelter placement is available on a first-come, first-served basis. The organization also supports formerly homeless seniors and assists individuals in transitioning to stable housing.

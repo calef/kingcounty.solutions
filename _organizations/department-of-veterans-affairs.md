@@ -8,8 +8,9 @@ topic_titles:
 - Mental Health & Counseling
 - Employment & Job Support
 type: Department
-website_url: https://www.va.gov/
-website_xml_sitemap_url: https://www.va.gov/sitemap_index.xml
+website_url: https://www.va.gov
+website_xml_sitemap_urls:
+- https://www.va.gov/sitemap_index.xml
 ---
 
 The **Department of Veterans Affairs (VA)** delivers health care, housing, and benefits to veterans and their families. It supports multiple social service domains:

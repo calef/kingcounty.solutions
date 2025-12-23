@@ -43,7 +43,7 @@ class OrganizationsGeneratorTest < Minitest::Test
   class FakeSitemapFinder
     attr_reader :find_calls, :result
 
-    def initialize(result = nil)
+    def initialize(result = [])
       @result = result
       @find_calls = []
     end
@@ -61,7 +61,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     @logger = FakeLogger.new
     @fake_client = Object.new
     @feed_finder = FakeFeedFinder.new(OpenStruct.new(rss_url: 'https://feed', ical_url: 'https://calendar'))
-    @sitemap_finder = FakeSitemapFinder.new('https://example.com/sitemap.xml')
+    @sitemap_finder = FakeSitemapFinder.new(['https://example.com/sitemap.xml'])
     @generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
       topic_repo: @topic_repo,
@@ -211,7 +211,43 @@ class OrganizationsGeneratorTest < Minitest::Test
     assert_equal 'https://feed', fm['news_rss_url']
     assert_equal ['Health'], fm['topic_titles']
     assert_equal 'https://calendar', fm['events_ical_url']
-    assert_equal 'https://example.com/sitemap.xml', fm['website_xml_sitemap_url']
+    assert_equal ['https://example.com/sitemap.xml'], fm['website_xml_sitemap_urls']
+  end
+
+  def test_run_records_multiple_sitemaps
+    create_topic('Health')
+
+    sitemap_finder = FakeSitemapFinder.new([
+      'https://example.com/sitemap.xml',
+      'https://example.com/sitemap-index.xml',
+      'https://example.com/sitemap.xml'
+    ])
+    generator = Mayhem::Organizations::Generator.new(
+      org_dir: @org_dir,
+      topic_repo: @topic_repo,
+      client: @fake_client,
+      feed_finder: @feed_finder,
+      sitemap_finder: sitemap_finder,
+      logger: @logger
+    )
+    stub_pages(generator)
+
+    response_body = JSON.generate({
+      'title' => 'Test Organization',
+      'type' => 'Community-Based Organization',
+      'topic_titles' => ['Health']
+    })
+    generator.instance_variable_set(:@client, FakeChatClient.new(response_body))
+
+    generator.run('https://example.com')
+
+    files = Dir.glob(File.join(@org_dir, '*.md'))
+    assert_equal 1, files.size
+    fm = Mayhem::FrontMatter::Document.load(files.first).front_matter
+    assert_equal [
+      'https://example.com/sitemap.xml',
+      'https://example.com/sitemap-index.xml'
+    ], fm['website_xml_sitemap_urls']
   end
 
   def test_run_omits_sitemap_when_missing
@@ -240,7 +276,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     files = Dir.glob(File.join(@org_dir, '*.md'))
     assert_equal 1, files.size
     fm = Mayhem::FrontMatter::Document.load(files.first).front_matter
-    refute fm.key?('website_xml_sitemap_url')
+    refute fm.key?('website_xml_sitemap_urls')
   end
 
   def test_run_skips_existing_website

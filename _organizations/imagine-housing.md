@@ -8,8 +8,9 @@ topic_titles:
 - Health Care
 - Shelter & Housing
 type: Community-Based Organization
-website_url: https://imaginehousing.org/
-website_xml_sitemap_url: https://imaginehousing.org/sitemap_index.xml
+website_url: https://imaginehousing.org
+website_xml_sitemap_urls:
+- https://imaginehousing.org/sitemap_index.xml
 ---
 
 Imagine Housing develops permanently affordable apartment communities across the Eastside so people with low incomes, seniors, veterans, and families can live near jobs, schools, and transit. The organization pairs housing development with on-site resident services teams that support financial stability, youth enrichment, crisis intervention, and behavioral health referrals.

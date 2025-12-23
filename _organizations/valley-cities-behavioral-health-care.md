@@ -1,13 +1,15 @@
 ---
 acronym: VC
+events_ical_url:
 news_rss_url: https://valleycities.org/feed/
-phone: "(253) 833-7444"
 title: Valley Cities Behavioral Health Care
 topic_titles:
 - Mental Health & Counseling
+- Disabilities
 type: Community-Based Organization
-website_url: https://valleycities.org/service/mental-health-services/
-website_xml_sitemap_url: https://valleycities.org/sitemap_index.xml
+website_url: https://valleycities.org
+website_xml_sitemap_urls:
+- https://valleycities.org/sitemap_index.xml
 ---
 
-Valley Cities provides comprehensive mental health services for children, teens, adults, and seniors, including individual, family, and group counseling. Our evidence-based programs address various concerns, such as depression, anxiety, and bipolar disorder, tailored to meet each individual's needs.
+Valley Cities Behavioral Health Care provides comprehensive mental health and substance use treatment services for individuals of all ages. Services include individual, family, and group counseling, as well as substance use disorder treatment and medication-assisted options. Our mission is to empower communities through compassionate care and support.

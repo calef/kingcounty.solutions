@@ -7,8 +7,9 @@ topic_titles:
 - Domestic Violence
 - Shelter & Housing
 type: Agency
-website_url: https://www.fema.gov/
-website_xml_sitemap_url: https://www.fema.gov/sitemap.xml
+website_url: https://www.fema.gov
+website_xml_sitemap_urls:
+- https://www.fema.gov/sitemap.xml
 ---
 
 The **Federal Emergency Management Agency (FEMA)** leads disaster preparedness, response, and recovery. Its role in social services includes:

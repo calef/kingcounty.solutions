@@ -14,7 +14,8 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://www.rewa.org
-website_xml_sitemap_url: https://www.rewa.org/sitemap_index.xml
+website_xml_sitemap_urls:
+- https://www.rewa.org/sitemap_index.xml
 ---
 
 Refugee Women's Alliance (ReWA) provides comprehensive social services to refugees and immigrants in the Puget Sound area. Services include English classes, employment support, housing assistance, citizenship help, and domestic violence support, all delivered in more than 65 languages to empower families and foster community integration.

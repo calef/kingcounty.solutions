@@ -5,8 +5,9 @@ title: Skyway Water & Sewer District
 topic_titles:
 - Personal & Household Needs
 type: Special Purpose District
-website_url: https://www.skywayws.org/billing.php
-website_xml_sitemap_url: https://www.skywayws.org/sitemap.xml
+website_url: https://www.skywayws.org
+website_xml_sitemap_urls:
+- https://www.skywayws.org/sitemap.xml
 ---
 
 Skyway Water & Sewer District provides water and sewer services to the West Hill area of unincorporated King County. Serving more than 3,400 connections, the district is committed to delivering reliable service while supporting community needs.

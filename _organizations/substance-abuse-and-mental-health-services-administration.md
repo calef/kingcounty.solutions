@@ -7,8 +7,9 @@ topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 type: Agency
-website_url: https://www.samhsa.gov/
-website_xml_sitemap_url: https://www.samhsa.gov/sitemap.xml
+website_url: https://www.samhsa.gov
+website_xml_sitemap_urls:
+- https://www.samhsa.gov/sitemap.xml
 ---
 
 The **Substance Abuse and Mental Health Services Administration (SAMHSA)** advances behavioral health nationwide. It supports:

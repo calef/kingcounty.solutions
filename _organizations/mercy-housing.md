@@ -11,7 +11,8 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://www.mercyhousing.org/Washington-Properties
-website_xml_sitemap_url: https://www.mercyhousing.org/sitemap_index.xml
+website_xml_sitemap_urls:
+- https://www.mercyhousing.org/sitemap_index.xml
 ---
 
 Mercy Housing provides affordable, service-enriched housing to families, seniors, and individuals in need. Its mission focuses on creating stable communities and offering vital services such as financial education and health classes to support residents in achieving long-term stability.

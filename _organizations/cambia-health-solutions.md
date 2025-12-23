@@ -6,8 +6,9 @@ title: Cambia Health Solutions
 topic_titles:
 - Health Care
 type: Corporation
-website_url: https://cambiahealth.com/
-website_xml_sitemap_url: https://cambiahealth.com/sitemap.xml
+website_url: https://cambiahealth.com
+website_xml_sitemap_urls:
+- https://cambiahealth.com/sitemap.xml
 ---
 
 Cambia Health Solutions is dedicated to transforming health care by creating a person-focused and economically sustainable system. Serving more than 3.6 million people, Cambia aims to simplify and personalize the health care experience while making it more accessible.

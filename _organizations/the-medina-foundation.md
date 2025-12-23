@@ -10,7 +10,8 @@ topic_titles:
 - Senior Services
 type: Community-Based Organization
 website_url: https://www.medinafoundation.org
-website_xml_sitemap_url: https://www.medinafoundation.org/sitemap.xml
+website_xml_sitemap_urls:
+- https://www.medinafoundation.org/sitemap.xml
 ---
 
 The Medina Foundation is a family foundation dedicated to improving lives in the greater Puget Sound area by funding human service organizations. With a focus on fostering positive change, the foundation supports programs that help individuals achieve independence and dignity.

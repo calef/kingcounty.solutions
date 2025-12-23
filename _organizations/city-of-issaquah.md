@@ -3,8 +3,9 @@ events_ical_url: https://www.issaquahwa.gov/common/modules/iCalendar/iCalendar.a
 title: City of Issaquah
 topic_titles: []
 type: City
-website_url: https://www.issaquahwa.gov/
-website_xml_sitemap_url: https://www.issaquahwa.gov/sitemap.xml
+website_url: https://www.issaquahwa.gov
+website_xml_sitemap_urls:
+- https://www.issaquahwa.gov/sitemap.xml
 ---
 
 The city of Issaquah serves the community of **Issaquah**, Washington. The city provides various services to enhance the quality of life for its residents.

@@ -8,8 +8,9 @@ topic_titles:
 - Employment & Job Support
 - Shelter & Housing
 type: Community-Based Organization
-website_url: https://www.peerseattle.org/services
-website_xml_sitemap_url: https://www.peerseattle.org/sitemap.xml
+website_url: https://www.peerseattle.org
+website_xml_sitemap_urls:
+- https://www.peerseattle.org/sitemap.xml
 ---
 
 Peer Seattle provides peer emotional support and development services to the LGBTQ community impacted by addiction, mental health issues, and HIV/AIDS. Services include peer coaching, support groups, employment support, housing assistance, and resource referrals, all offered at no cost.

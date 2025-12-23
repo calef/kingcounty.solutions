@@ -11,8 +11,9 @@ topic_titles:
 - Domestic Violence
 - Mental Health & Counseling
 type: Community-Based Organization
-website_url: https://www.olivecrest.org/host-families/
-website_xml_sitemap_url: https://www.olivecrest.org/sitemap.xml
+website_url: https://www.olivecrest.org
+website_xml_sitemap_urls:
+- https://www.olivecrest.org/sitemap.xml
 ---
 
 Olive Crest transforms the lives of children in crisis through the healing power of God, family, and community. We provide safe homes for children and support for families in crisis, aiming to prevent child abuse and foster healing.

@@ -12,8 +12,9 @@ topic_titles:
 - Health Care
 - Shelter & Housing
 type: Community-Based Organization
-website_url: https://nhwa.org/
-website_xml_sitemap_url: https://nhwa.org/sitemap_index.xml
+website_url: https://nhwa.org
+website_xml_sitemap_urls:
+- https://nhwa.org/sitemap_index.xml
 ---
 
 Neighborhood House (NHWA) is one of the Seattle region’s longest-running human services agencies and now assists more than 15,000 people across King County. The nonprofit connects low-income families, immigrants, and public housing residents to early learning and Head Start classrooms, after-school youth development supports, adult education and employment coaching, rent and housing stability resources, aging and disability services, and culturally responsive health and wellness programs. Through multilingual helplines, neighborhood-based community centers, and year-round outreach, Neighborhood House removes barriers so families can achieve long-term stability and thrive.

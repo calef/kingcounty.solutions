@@ -7,8 +7,9 @@ topic_titles:
 - Disabilities
 - Mental Health & Counseling
 type: Community-Based Organization
-website_url: https://www.beehaveacademy.com/
-website_xml_sitemap_url: https://www.beehaveacademy.com/sitemap.xml
+website_url: https://www.beehaveacademy.com
+website_xml_sitemap_urls:
+- https://www.beehaveacademy.com/sitemap.xml
 ---
 
 Beehave Academy provides applied behavior analysis (ABA) and play-based therapy to children with autism and learning differences, supporting communication, social skills, and life readiness. Its early intervention work helps young clients engage in community and family life, underpinning its goal of inclusive services for all ages and strengthening the human services network.

@@ -7,8 +7,9 @@ topic_titles:
 - Disabilities
 - Domestic Violence
 type: Community-Based Organization
-website_url: https://www.honorandcouragefoundation.org/new-page
-website_xml_sitemap_url: https://www.honorandcouragefoundation.org/sitemap.xml
+website_url: https://www.honorandcouragefoundation.org
+website_xml_sitemap_urls:
+- https://www.honorandcouragefoundation.org/sitemap.xml
 ---
 
 The Honor and Courage Foundation supports veterans and first responders facing challenges from PTSD and physical injuries through mentorship, advocacy, and community connection. While the Special Grants Program is currently closed, the foundation remains dedicated to promoting mental health wellness and peer support.

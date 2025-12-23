@@ -7,8 +7,9 @@ topic_titles:
 - Mental Health & Counseling
 - Employment & Job Support
 type: Community-Based Organization
-website_url: https://www.seattleymca.org/
-website_xml_sitemap_url: https://www.seattleymca.org/sitemap.xml
+website_url: https://www.seattleymca.org
+website_xml_sitemap_urls:
+- https://www.seattleymca.org/sitemap.xml
 ---
 
 The YMCA of Greater Seattle (YGS) is the region's founding nonprofit and operates 14 membership branches, two overnight camps, early learning centers, and dozens of before- and after-school enrichment sites throughout King County. Through membership programs, child care, camps, and culturally responsive equity initiatives, the Y provides spaces for youth, families, and older adults to build health, leadership skills, and community support.

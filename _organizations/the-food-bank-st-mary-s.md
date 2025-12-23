@@ -6,7 +6,8 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://thefbsm.org
-website_xml_sitemap_url: https://www.thefbsm.org/ar_ar-sitemap.xml
+website_xml_sitemap_urls:
+- https://www.thefbsm.org/ar_ar-sitemap.xml
 ---
 
 The Food Bank at St. Mary's distributes food to those in need in Seattle. We operate a mobile food bank and make home deliveries for those unable to visit in person. Our services include culturally appropriate food distribution every Monday, Wednesday, and Friday from 10 a.m. to 1 p.m.

@@ -4,8 +4,9 @@ news_rss_url: https://www.auburnwa.gov/syndication/rss.aspx?serverid=11470554&us
 title: City of Auburn
 topic_titles: []
 type: City
-website_url: https://www.auburnwa.gov/
-website_xml_sitemap_url: https://www.auburnwa.gov/sitemap.xml
+website_url: https://www.auburnwa.gov
+website_xml_sitemap_urls:
+- https://www.auburnwa.gov/sitemap.xml
 ---
 
 The city of Auburn serves the community of **Auburn**, Washington, providing various services to enhance the quality of life for its residents.

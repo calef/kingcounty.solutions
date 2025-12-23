@@ -11,8 +11,9 @@ topic_titles:
 - Education & Learning
 - Mental Health & Counseling
 type: Community-Based Organization
-website_url: https://www.boyercc.org/appointments
-website_xml_sitemap_url: https://www.boyercc.org/sitemap.xml
+website_url: https://www.boyercc.org
+website_xml_sitemap_urls:
+- https://www.boyercc.org/sitemap.xml
 ---
 
 Boyer Children's Clinic provides comprehensive early support services for children from birth to 3 years, including therapy, medical consultations, and family support. Our dedicated team ensures personalized care to promote developmental skills and well-being.

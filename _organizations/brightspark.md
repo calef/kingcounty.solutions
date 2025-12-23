@@ -8,8 +8,9 @@ topic_titles:
 - Personal & Household Needs
 - Childcare
 type: Community-Based Organization
-website_url: https://www.brightspark.org/
-website_xml_sitemap_url: https://www.brightspark.org/sitemap_index.xml
+website_url: https://www.brightspark.org
+website_xml_sitemap_urls:
+- https://www.brightspark.org/sitemap_index.xml
 ---
 
 BrightSpark builds kid-centric, antiracist early learning communities for families and caregivers throughout King and Pierce counties. From its Renton administrative office and satellite sites in Tacoma, Lake City, and the Kent Business Campus, the nonprofit staffs a Family Call Center (206-329-5544 / 1-800-446-1114, plus a dedicated Spanish line) alongside provider hotlines (206-329-5333 for King County and 253-272-8000 for Pierce County) that connect residents to preschool enrollment, subsidy navigation, and culturally responsive supports.

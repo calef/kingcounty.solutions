@@ -1,7 +1,6 @@
 ---
 acronym: BLC
 email: Huy@benefitslawcenter.org
-events_ical_url: https://benefitslawcenter.org/events/?ical=1
 news_rss_url: https://benefitslawcenter.org/feed/
 title: Benefits Law Center
 topic_titles:
@@ -10,8 +9,9 @@ topic_titles:
 - Health Care
 - Legal Aid
 type: Community-Based Organization
-website_url: https://benefitslawcenter.org/our-work/self-help-materials/
-website_xml_sitemap_url: https://benefitslawcenter.org/sitemap_index.xml
+website_url: https://benefitslawcenter.org
+website_xml_sitemap_urls:
+- https://benefitslawcenter.org/sitemap_index.xml
 ---
 
-Benefits Law Center (BLC) provides accessible legal advocacy to low-income individuals with disabilities, assisting them in navigating Social Security disability and Supplemental Security Income (SSI) benefits. BLC focuses on overcoming barriers to financial and medical stability through targeted advocacy projects and direct legal representation.
+Benefits Law Center (BLC) provides accessible legal advocacy for low-income individuals with physical and mental disabilities. Since 1997, BLC has focused on helping clients navigate Social Security disability and SSI benefits, addressing barriers such as homelessness and mental illness. Through targeted advocacy projects, BLC aims to improve clients' access to financial and medical stability.

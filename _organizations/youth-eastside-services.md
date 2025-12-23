@@ -8,8 +8,9 @@ topic_titles:
 - Mental Health & Counseling
 - Disabilities
 type: Community-Based Organization
-website_url: https://www.youtheastsideservices.org/
-website_xml_sitemap_url: https://www.youtheastsideservices.org/sitemap_index.xml
+website_url: https://www.youtheastsideservices.org
+website_xml_sitemap_urls:
+- https://www.youtheastsideservices.org/sitemap_index.xml
 ---
 
 Youth Eastside Services (YES) provides mental health counseling and substance use treatment for youth ages birth to 22 and their families in East King County. Services are offered regardless of the ability to pay, ensuring access to vital support for all.

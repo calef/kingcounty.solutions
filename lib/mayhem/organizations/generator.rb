@@ -62,7 +62,7 @@ module Mayhem
         abort "No content scraped from #{website_url}" if pages.empty?
 
         feed_result = discover_feed_urls(website_url)
-        sitemap_url = discover_sitemap_url(website_url)
+        sitemap_urls = discover_sitemap_urls(website_url)
         topics = load_topics
         types = existing_types.empty? ? [DEFAULT_TYPE] : existing_types
         prompt = build_prompt(website_url, pages, topics, types)
@@ -85,9 +85,11 @@ module Mayhem
         front_matter = build_front_matter(data, types: types)
         if feed_result
           front_matter['news_rss_url'] ||= feed_result.rss_url
-          front_matter['events_ical_url'] ||= feed_result.ical_url
+          if (ical_url = normalize_value(feed_result.ical_url))
+            front_matter['events_ical_url'] ||= ical_url
+          end
         end
-        front_matter['website_xml_sitemap_url'] = sitemap_url if sitemap_url
+        front_matter['website_xml_sitemap_urls'] = sitemap_urls.uniq if sitemap_urls&.any?
         front_matter['title'] = title
         front_matter['website_url'] = website_url
 
@@ -305,13 +307,13 @@ module Mayhem
         nil
       end
 
-      def discover_sitemap_url(website_url)
+      def discover_sitemap_urls(website_url)
         return nil unless website_url
 
-        @sitemap_finder&.find(website_url)
+        @sitemap_finder&.find(website_url) || []
       rescue StandardError => e
         @logger.warn "Sitemap discovery failed for #{website_url}: #{e.message}"
-        nil
+        []
       end
 
       def absolutize(base, href)

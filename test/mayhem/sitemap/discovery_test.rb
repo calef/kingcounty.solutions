@@ -72,7 +72,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
     finder = finder_for(responses)
 
-    assert_equal 'https://example.com/sitemap.xml', finder.find('https://example.com')
+    assert_equal ['https://example.com/sitemap.xml'], finder.find('https://example.com')
   end
 
   def test_robots_multiple_entries_selects_first_valid
@@ -100,7 +100,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
     finder = finder_for(responses)
 
-    assert_equal 'https://example.com/sitemap.xml', finder.find('https://example.com')
+    assert_equal ['https://example.com/sitemap.xml'], finder.find('https://example.com')
   end
 
   def test_robots_missing_falls_back_to_defaults
@@ -120,7 +120,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
     finder = finder_for(responses)
 
-    assert_equal 'https://example.com/sitemap.xml', finder.find('https://example.com')
+    assert_equal ['https://example.com/sitemap.xml'], finder.find('https://example.com')
   end
 
   def test_robots_timeout_falls_back_to_defaults
@@ -135,7 +135,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
     finder = finder_for(responses)
 
-    assert_equal 'https://example.com/sitemap.xml', finder.find('https://example.com')
+    assert_equal ['https://example.com/sitemap.xml'], finder.find('https://example.com')
   end
 
   def test_falls_back_to_index_when_default_missing
@@ -161,7 +161,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
     finder = finder_for(responses)
 
-    assert_equal 'https://example.com/sitemap_index.xml', finder.find('https://example.com')
+    assert_equal ['https://example.com/sitemap_index.xml'], finder.find('https://example.com')
   end
 
   def test_rejects_non_sitemap_candidate
@@ -185,7 +185,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
     finder = finder_for(responses)
 
-    assert_equal 'https://example.com/sitemap.xml', finder.find('https://example.com')
+    assert_equal ['https://example.com/sitemap.xml'], finder.find('https://example.com')
   end
 
   def test_accepts_sitemap_with_text_html_content_type
@@ -205,7 +205,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
     finder = finder_for(responses)
 
-    assert_equal 'https://example.com/sitemap.xml', finder.find('https://example.com')
+    assert_equal ['https://example.com/sitemap.xml'], finder.find('https://example.com')
   end
 
   def test_accepts_gzipped_sitemap_body
@@ -225,7 +225,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
     finder = finder_for(responses)
 
-    assert_equal 'https://example.com/sitemap.xml.gz', finder.find('https://example.com')
+    assert_equal ['https://example.com/sitemap.xml.gz'], finder.find('https://example.com')
   end
 
   def test_follows_redirect_and_returns_final_url
@@ -245,6 +245,6 @@ class SitemapDiscoveryTest < Minitest::Test
 
     finder = finder_for(responses)
 
-    assert_equal 'https://example.com/sitemaps/main.xml', finder.find('https://example.com')
+    assert_equal ['https://example.com/sitemaps/main.xml'], finder.find('https://example.com')
   end
 end

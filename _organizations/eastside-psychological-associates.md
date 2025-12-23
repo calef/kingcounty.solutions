@@ -4,8 +4,9 @@ title: Eastside Psychological Associates
 topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
-website_url: https://www.eastsidepsychologicalassociates.com/
-website_xml_sitemap_url: https://www.eastsidepsychologicalassociates.com/sitemap.xml
+website_url: https://www.eastsidepsychologicalassociates.com
+website_xml_sitemap_urls:
+- https://www.eastsidepsychologicalassociates.com/sitemap.xml
 ---
 
 Eastside Psychological Associates (EPA) is the largest associate practice of independent mental health service providers in Washington state, offering services for children, teens, adults, couples, and families. EPA is committed to community health through preventive services, collaboration with local organizations, and integration of behavioral medicine.

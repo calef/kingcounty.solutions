@@ -11,7 +11,8 @@ topic_titles:
 - Personal & Household Needs
 type: Community-Based Organization
 website_url: https://sacredheartseattle.org/qafb
-website_xml_sitemap_url: https://sacredheartseattle.org/sitemap20426.xml
+website_xml_sitemap_urls:
+- https://sacredheartseattle.org/sitemap20426.xml
 ---
 
 Queen Anne Food Bank at Sacred Heart (QAFB) is a ministry of Sacred Heart of Jesus Parish that distributes healthy prepared meals and groceries for neighbors living in Lower Queen Anne and the surrounding downtown core. Staff and volunteers operate out of the parish campus across from Climate Pledge Arena, offering sandwiches, fruit, yogurt, bread, pastries, and hot soup Monday through Friday, 52 weeks a year.

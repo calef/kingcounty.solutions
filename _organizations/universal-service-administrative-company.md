@@ -6,8 +6,9 @@ topic_titles:
 - Health Care
 - Education & Learning
 type: Independent Federal Agency
-website_url: https://www.usac.org/
-website_xml_sitemap_url: https://www.usac.org/sitemap_index.xml
+website_url: https://www.usac.org
+website_xml_sitemap_urls:
+- https://www.usac.org/sitemap_index.xml
 ---
 
 The Universal Service Administrative Company (USAC) administers the Universal Service Fund, ensuring that all Americans have access to affordable and reliable telecommunications services. USAC supports programs like E-Rate for schools and libraries, Lifeline for low-income households, and Rural Health Care to enhance connectivity in underserved areas.

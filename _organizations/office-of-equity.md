@@ -6,7 +6,8 @@ topic_titles:
 - Education & Learning
 type: Agency
 website_url: https://equity.wa.gov/
-website_xml_sitemap_url: https://equity.wa.gov/sitemap.xml
+website_xml_sitemap_urls:
+- https://equity.wa.gov/sitemap.xml
 ---
 
 The **Office of Equity** leads statewide efforts to promote equitable access to government services and reduce disparities by coordinating agency equity plans and community navigation support. Relevant to social services through:

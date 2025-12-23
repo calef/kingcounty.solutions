@@ -8,7 +8,8 @@ topic_titles:
 - Transportation & Mobility
 type: Special Purpose District
 website_url: https://kingcountywatertaxiblog.com
-website_xml_sitemap_url: https://kingcountywatertaxiblog.com/sitemap.xml
+website_xml_sitemap_urls:
+- https://kingcountywatertaxiblog.com/sitemap.xml
 ---
 
 The **King County Ferry District** operates passenger ferries between Seattle, West Seattle, and Vashon Island. It provides **reliable marine transit** that connects neighborhoods and supports sustainable commuting options.

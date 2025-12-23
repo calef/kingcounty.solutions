@@ -5,8 +5,9 @@ title: KidVantage
 topic_titles:
 - Personal & Household Needs
 type: Community-Based Organization
-website_url: https://kidvantagenw.org/
-website_xml_sitemap_url: https://kidvantagenw.org/sitemap_index.xml
+website_url: https://kidvantagenw.org
+website_xml_sitemap_urls:
+- https://kidvantagenw.org/sitemap_index.xml
 ---
 
 KidVantage supplies essential goods such as diapers, clothing, and school supplies and supports children facing economic insecurity. They achieve this by partnering with schools, food banks, and nonprofits across multiple counties. Their high-touch service and network-partner model align with AEA’s emphasis on organizational collaboration and providing all-ages support within a robust human services network.

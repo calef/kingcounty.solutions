@@ -7,8 +7,9 @@ topic_titles:
 - Childcare
 - Mental Health & Counseling
 type: Agency
-website_url: https://www.mipediatrics.com/
-website_xml_sitemap_url: https://www.mipediatrics.com/sitemap.xml
+website_url: https://www.mipediatrics.com
+website_xml_sitemap_urls:
+- https://www.mipediatrics.com/sitemap.xml
 ---
 
 Mercer Island Pediatrics provides comprehensive medical care for children and adolescents, including routine checkups, immunizations, and behavioral health services. Our dedicated pediatricians focus on building strong relationships with families to ensure the health and well-being of every child.

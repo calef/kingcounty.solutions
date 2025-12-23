@@ -12,8 +12,9 @@ topic_titles:
 - Health Care
 - Mental Health & Counseling
 type: Community-Based Organization
-website_url: https://ihdd.org/
-website_xml_sitemap_url: https://ihdd.org/sitemap_index.xml
+website_url: https://ihdd.org
+website_xml_sitemap_urls:
+- https://ihdd.org/sitemap_index.xml
 ---
 
 The Institute on Human Development and Disability (IHDD) promotes the inclusion and well-being of individuals with developmental disabilities through research, education, and community service. It offers specialty clinics, educational opportunities, and advocacy to support individuals and families.

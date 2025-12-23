@@ -6,7 +6,8 @@ topic_titles:
 - Mental Health & Counseling
 type: Corporation
 website_url: https://www.joon.com/partners/cityofseattle-yfe
-website_xml_sitemap_url: https://www.joon.com/sitemap.xml
+website_xml_sitemap_urls:
+- https://www.joon.com/sitemap.xml
 ---
 
 Joon provides free, confidential therapy for teens and young adults ages 13 to 24 in Seattle. Through a mobile app, clients receive personalized one-on-one therapy sessions with qualified therapists, addressing common mental health challenges such as anxiety, depression, and trauma.

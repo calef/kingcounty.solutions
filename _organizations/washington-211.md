@@ -13,8 +13,9 @@ topic_titles:
 - Personal & Household Needs
 - Employment & Job Support
 type: Community-Based Organization
-website_url: https://wa211.org/
-website_xml_sitemap_url: https://wa211.org/sitemap_index.xml
+website_url: https://wa211.org
+website_xml_sitemap_urls:
+- https://wa211.org/sitemap_index.xml
 ---
 
 Washington 211 (WA211) runs the statewide 2-1-1 information and referral network, connecting residents to more than 27,000 verified resources for food, housing, health care, financial help, transportation, and other wraparound services. People can dial 2-1-1, call the toll-free 1-877-211-9274 line, text "211WAOD" to 898211, or search the online directory to reach trained specialists who offer multilingual support, warm handoffs, and follow-up tailored to each situation.

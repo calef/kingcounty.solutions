@@ -10,7 +10,8 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://genprideseattle.org/
-website_xml_sitemap_url: https://genprideseattle.org/sitemap.xml
+website_xml_sitemap_urls:
+- https://genprideseattle.org/sitemap.xml
 ---
 
 GenPride is a Seattle-based nonprofit supporting LGBTQIA+ older adults. It advocates for LGBTQ+ aging needs and offers programs that promote health, social connection, education, and well-being while combating isolation and discrimination. The organization provides community events, resource navigation, and workshops and invites community members to participate, volunteer, or donate to strengthen aging with dignity and pride.

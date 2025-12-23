@@ -8,7 +8,8 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://pmi.edu/dental-clinic/services-and-cost-seattle/
-website_xml_sitemap_url: https://pmi.edu/sitemap_index.xml
+website_xml_sitemap_urls:
+- https://pmi.edu/sitemap_index.xml
 ---
 
 The Seattle Community Dental Clinic offers affordable dental care, accepting most insurance plans and Medicaid. Services include exams, cleanings, and various dental procedures for all ages, with special pricing for new patients.

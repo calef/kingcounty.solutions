@@ -8,7 +8,8 @@ topic_titles:
 - Financial Assistance
 type: Community-Based Organization
 website_url: https://www.covingtonstorehouse.org
-website_xml_sitemap_url: https://covingtonstorehouse.org/sitemap.xml
+website_xml_sitemap_urls:
+- https://covingtonstorehouse.org/sitemap.xml
 ---
 
 Covington Storehouse is a nonprofit food distribution program serving the 98042 community. We provide nourishing food and referrals to other services for families facing food insecurity. Our mission is to improve the quality of life for our neighbors through food assistance and support services.

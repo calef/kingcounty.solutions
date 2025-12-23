@@ -38,8 +38,6 @@ module Mayhem
         self['events_extracted'] == true
       end
 
-      alias source organization_title
-
       def rss_guid
         self['rss_guid']
       end

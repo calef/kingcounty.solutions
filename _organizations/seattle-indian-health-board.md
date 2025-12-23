@@ -10,8 +10,9 @@ topic_titles:
 - Mental Health & Counseling
 - Food & Nutrition
 type: Community-Based Organization
-website_url: https://www.sihb.org/medical/
-website_xml_sitemap_url: https://www.sihb.org/sitemap_index.xml
+website_url: https://www.sihb.org
+website_xml_sitemap_urls:
+- https://www.sihb.org/sitemap_index.xml
 ---
 
 Seattle Indian Health Board provides culturally attuned medical services, including prenatal care, well-child exams, chronic disease management, and mental health services. We aim to serve all individuals regardless of age, race, or economic status, with a focus on Indigenous health and wellness.

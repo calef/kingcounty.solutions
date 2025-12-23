@@ -9,7 +9,8 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://toltucc.org
-website_xml_sitemap_url: https://toltucc.org/sitemap.xml
+website_xml_sitemap_urls:
+- https://toltucc.org/sitemap.xml
 ---
 
 Tolt Congregational United Church of Christ is an open and affirming community that welcomes all individuals. We offer Sunday worship services, a preschool program, and free community meals every Wednesday. Our mission is to serve others and promote justice and love for all.

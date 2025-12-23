@@ -9,8 +9,9 @@ topic_titles:
 - Education & Learning
 - Health Care
 type: Community-Based Organization
-website_url: https://www.filcommsea.org/
-website_xml_sitemap_url: https://www.filcommsea.org/sitemap.xml
+website_url: https://www.filcommsea.org
+website_xml_sitemap_urls:
+- https://www.filcommsea.org/sitemap.xml
 ---
 
 Founded in 1935, FCS is a nonprofit organization providing affordable housing, senior services, youth development, and basic needs programs, including food assistance. More than 7,500 community members benefit from our services each month, fostering cultural connection and support for immigrants and refugees.

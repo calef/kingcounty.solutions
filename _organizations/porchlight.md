@@ -7,7 +7,8 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://porchlightcares.org/
-website_xml_sitemap_url: https://porchlightcares.org/wp-sitemap.xml
+website_xml_sitemap_urls:
+- https://porchlightcares.org/wp-sitemap.xml
 ---
 
 PorchLight partners with men and the community to create a path from homelessness to stable living. It provides emergency shelter, a day center, and various resources to support individuals in need.

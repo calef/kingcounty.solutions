@@ -1,17 +1,16 @@
 ---
 acronym: PIM
-address: 15600 NE 8th St, Suite E1, Bellevue, WA 98008
 email: vita@pimsavvy.com
 news_rss_url: https://pimsavvy.com/feed/
-phone: 425-452-2800
 title: PIM Savvy
 topic_titles:
 - Financial Assistance
 - Education & Learning
 - Employment & Job Support
 type: Community-Based Organization
-website_url: https://pimsavvy.com/bellevue/
-website_xml_sitemap_url: https://pimsavvy.com/sitemap_index.xml
+website_url: https://pimsavvy.com
+website_xml_sitemap_urls:
+- https://pimsavvy.com/sitemap_index.xml
 ---
 
-PIM Savvy offers free financial coaching, English conversation practice, and resume reviews at Bellevue Mini City Hall. They provide assistance with tax preparation and applications for various financial benefits, helping low- to moderate-income individuals in King and Snohomish counties.
+PIM Savvy specializes in community outreach and education, providing free tax preparation services (VITA) and assistance with ITIN applications. We focus on helping marginalized communities in Washington by reducing barriers to access and promoting financial literacy.

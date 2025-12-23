@@ -10,8 +10,9 @@ topic_titles:
 - Health Care
 - Food & Nutrition
 type: Program
-website_url: https://smilemobilewa.org/
-website_xml_sitemap_url: https://smilemobilewa.org/sitemap_index.xml
+website_url: https://smilemobilewa.org
+website_xml_sitemap_urls:
+- https://smilemobilewa.org/sitemap_index.xml
 ---
 
 The SmileMobile is a mobile dental clinic providing oral health services to children, youth, pregnant and postpartum individuals, and adults with limited access to dental care. Services include examinations, cleanings, fluoride varnish, and more, and it accepts Apple Health (Medicaid) and uninsured patients.

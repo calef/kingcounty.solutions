@@ -11,7 +11,8 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://kcdrc.org/
-website_xml_sitemap_url: https://www.kcdrc.org/page-sitemap.xml
+website_xml_sitemap_urls:
+- https://www.kcdrc.org/page-sitemap.xml
 ---
 
 The Dispute Resolution Center of King County offers free and low-cost mediation and conflict resolution services for individuals, families, and businesses. We provide support in various areas, including housing disputes, family conflicts, and community issues, with a focus on empowering participants to find peaceful solutions.

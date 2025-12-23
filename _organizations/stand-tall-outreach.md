@@ -8,8 +8,9 @@ topic_titles:
 - Mental Health & Counseling
 - Personal & Household Needs
 type: Community-Based Organization
-website_url: https://www.standtalloutreach.org/
-website_xml_sitemap_url: https://www.standtalloutreach.org/sitemap.xml
+website_url: https://www.standtalloutreach.org
+website_xml_sitemap_urls:
+- https://www.standtalloutreach.org/sitemap.xml
 ---
 
 Stand Tall Outreach is a grassroots mutual-aid nonprofit that brings food, street outreach, and trauma-informed peer support directly to neighbors experiencing homelessness in Seattle. Volunteers distribute hot meals, hygiene kits, warm clothing, and emergency items, while the We Hear You support line offers confidential text or phone check-ins for people facing emotional crises, domestic violence, or isolation.

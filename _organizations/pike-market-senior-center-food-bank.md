@@ -7,8 +7,9 @@ topic_titles:
 - Shelter & Housing
 - Senior Services
 type: Community-Based Organization
-website_url: https://www.pmsc-fb.org/
-website_xml_sitemap_url: https://www.pmsc-fb.org/sitemap.xml
+website_url: https://www.pmsc-fb.org
+website_xml_sitemap_urls:
+- https://www.pmsc-fb.org/sitemap.xml
 ---
 
 The Pike Market Senior Center and Food Bank offers free meals, groceries, and social services to seniors and individuals in need. Located in Pike Place Market, we provide a welcoming community for those aged 55 and older, along with food assistance for all ages, including home delivery for eligible residents.

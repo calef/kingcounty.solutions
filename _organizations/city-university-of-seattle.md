@@ -8,8 +8,9 @@ topic_titles:
 - Employment & Job Support
 - Mental Health & Counseling
 type: University
-website_url: https://www.cityu.edu/
-website_xml_sitemap_url: https://www.cityu.edu/sitemap_index.xml
+website_url: https://www.cityu.edu
+website_xml_sitemap_urls:
+- https://www.cityu.edu/sitemap_index.xml
 ---
 
 City University of Seattle offers a range of programs designed for adult learners, including graduate certificates in change leadership, data analytics, and human resource management. The university provides academic support, career services, and counseling to help students succeed in their educational and professional goals.

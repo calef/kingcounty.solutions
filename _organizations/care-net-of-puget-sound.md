@@ -3,14 +3,15 @@ acronym: CNP
 address: 1924 S Cedar St, Suite B, Tacoma, WA 98405
 email: administration@carenetps.org
 news_rss_url: https://carenetps.org/feed/
-phone: 253-383-6033
+phone: 877-668-2566
 title: Care Net of Puget Sound
 topic_titles:
-- Education & Learning
 - Health Care
+- Mental Health & Counseling
 type: Community-Based Organization
-website_url: https://carenetps.org/parenting-support/
-website_xml_sitemap_url: https://carenetps.org/sitemap.xml
+website_url: https://carenetps.org
+website_xml_sitemap_urls:
+- https://carenetps.org/sitemap.xml
 ---
 
-Care Net of Puget Sound offers free, confidential support for parents, including parenting classes, material assistance, and emergency aid. Services are available from pregnancy through the child's first four years, ensuring parents receive the education and resources they need.
+Care Net of Puget Sound offers free and confidential pregnancy services, including pregnancy testing, viability ultrasounds, and STI testing. Their compassionate staff provides support for individuals exploring parenting, adoption, or abortion options, ensuring a non-judgmental environment.

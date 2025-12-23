@@ -9,7 +9,8 @@ topic_titles:
 - Health Care
 type: Community-Based Organization
 website_url: https://gogograndparent.com/
-website_xml_sitemap_url: https://www.gogograndparent.com/sitemap.xml
+website_xml_sitemap_urls:
+- https://www.gogograndparent.com/sitemap.xml
 ---
 
 GoGoGrandparent provides on-demand services for seniors and people with disabilities, including grocery delivery, meal delivery, rides, and home care. Our services are accessible via phone, ensuring independence and convenience for those who may not use smartphones.

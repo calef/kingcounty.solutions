@@ -10,8 +10,9 @@ topic_titles:
 - Mental Health & Counseling
 - Health Care
 type: Program
-website_url: https://www.warecoveryhelpline.org/
-website_xml_sitemap_url: https://www.warecoveryhelpline.org/sitemap_index.xml
+website_url: https://www.warecoveryhelpline.org
+website_xml_sitemap_urls:
+- https://www.warecoveryhelpline.org/sitemap_index.xml
 ---
 
 The Washington Recovery Help Line (WRHL) is a Crisis Connections program that offers an anonymous, confidential helpline for any Washington resident navigating substance use disorders, problem gambling, or mental health challenges. Specialists staff the 24/7 phone line, weekday text line, and monitored email to provide immediate emotional support and safety planning, as well as interpretation and culturally responsive assistance when needed.

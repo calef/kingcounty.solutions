@@ -6,8 +6,9 @@ title: Eastside Housing Roundtable
 topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
-website_url: https://eastsidehousingrt.org/
-website_xml_sitemap_url: https://www.housingconsortium.org/post-sitemap.xml
+website_url: https://eastsidehousingrt.org
+website_xml_sitemap_urls:
+- https://www.housingconsortium.org/post-sitemap.xml
 ---
 
 The Eastside Housing Roundtable unites employers, housing developers, chambers of commerce, nonprofits, and advocates to advance coordinated affordable housing solutions across fast-growing Eastside communities. Members collaborate on evidence-based policy recommendations, align around shared housing production targets, and center equity so the benefits of the region’s growth are accessible to residents and workers at every income level.

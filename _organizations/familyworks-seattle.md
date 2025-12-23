@@ -9,8 +9,9 @@ topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 type: Community-Based Organization
-website_url: https://www.familyworksseattle.org/
-website_xml_sitemap_url: https://www.familyworksseattle.org/sitemap_index.xml
+website_url: https://www.familyworksseattle.org
+website_xml_sitemap_urls:
+- https://www.familyworksseattle.org/sitemap_index.xml
 ---
 
 FamilyWorks Seattle provides food access and family support programs in North Seattle. Services include a food bank, parenting classes, and community resources to help families thrive.

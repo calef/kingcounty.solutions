@@ -1,15 +1,16 @@
 ---
 acronym: SSHA
-email: HousingStability@SSHAWA.org
+email: aallen@ststephenhousing.org
+events_ical_url:
 news_rss_url: https://ststephenhousing.org/feed/
-phone: 253-638-9798
 title: St Stephen Housing Association
 topic_titles:
 - Shelter & Housing
 - Financial Assistance
 type: Community-Based Organization
-website_url: https://ststephenhousing.org/i-need-help-with-rental-assistance/
-website_xml_sitemap_url: https://ststephenhousing.org/wp-sitemap.xml
+website_url: https://ststephenhousing.org/
+website_xml_sitemap_urls:
+- https://ststephenhousing.org/wp-sitemap.xml
 ---
 
-St. Stephen Housing Association provides housing stability programs, offering rental and utility assistance to households at risk of homelessness in King County. The organization aims to help families facing financial hardships remain housed and prevent homelessness.
+St Stephen Housing Association provides housing assistance and support services to families experiencing or at risk of homelessness in King County. Our mission is to help families achieve stability and economic independence through compassionate support and resources.

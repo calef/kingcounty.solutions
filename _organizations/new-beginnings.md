@@ -9,7 +9,8 @@ topic_titles:
 - Domestic Violence
 type: Community-Based Organization
 website_url: https://newbegin.org
-website_xml_sitemap_url: https://newbegin.org/wp-sitemap.xml
+website_xml_sitemap_urls:
+- https://newbegin.org/wp-sitemap.xml
 ---
 
 New Beginnings empowers survivors of domestic violence and raises community awareness to end abuse. It provides a 24-hour helpline, one-on-one support, safety planning, and resources for housing and legal assistance.

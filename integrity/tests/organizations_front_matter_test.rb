@@ -19,7 +19,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
     topic_titles
     type
     website_url
-    website_xml_sitemap_url
+    website_xml_sitemap_urls
   ].freeze
   ALLOWED_TYPES = [
     'Agency',
@@ -337,6 +337,29 @@ class OrganizationsFrontMatterTest < Minitest::Test
     end
 
     assert_empty errors, "URL scheme issues:\n#{errors.join("\n")}"
+  end
+
+  def test_website_xml_sitemap_urls_items_are_unique
+    errors = []
+    seen = {}
+
+    organizations.each do |doc|
+      urls = doc[:data]['website_xml_sitemap_urls']
+      next unless urls.is_a?(Array)
+
+      urls.each do |url|
+        next unless url.is_a?(String) && !url.strip.empty?
+
+        normalized = url.strip.downcase
+        if seen.key?(normalized)
+          errors << "website_xml_sitemap_urls #{url} reused in #{doc[:path]} and #{seen[normalized]}"
+        else
+          seen[normalized] = doc[:path]
+        end
+      end
+    end
+
+    assert_empty errors, "website_xml_sitemap_urls issues:\n#{errors.join("\n")}"
   end
 
   private

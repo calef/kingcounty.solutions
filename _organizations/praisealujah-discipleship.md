@@ -10,7 +10,8 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://www.praisealujah.org
-website_xml_sitemap_url: https://praisealujah.org/sitemap.xml
+website_xml_sitemap_urls:
+- https://praisealujah.org/sitemap.xml
 ---
 
 Praisealujah Discipleship offers faith-based recovery programs, food distribution, and housing assistance. Our mission is to transform lives through spiritual guidance and community support, helping individuals overcome addiction and trauma.

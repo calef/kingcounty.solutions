@@ -7,8 +7,9 @@ title: Center for Human Services
 topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
-website_url: https://www.chs-nw.org/
-website_xml_sitemap_url: https://www.chs-nw.org/wp-sitemap.xml
+website_url: https://www.chs-nw.org
+website_xml_sitemap_urls:
+- https://www.chs-nw.org/wp-sitemap.xml
 ---
 
 Center for Human Services provides counseling, education, and support to children, youth, adults, and families. Its services include mental health counseling, substance use disorder treatment, and family support centers, aiming to strengthen community connections and improve individual well-being.

@@ -8,8 +8,9 @@ topic_titles:
 - Education & Learning
 - Mental Health & Counseling
 type: University
-website_url: https://www.antioch.edu/
-website_xml_sitemap_url: https://www.antioch.edu/sitemap.xml
+website_url: https://www.antioch.edu
+website_xml_sitemap_urls:
+- https://www.antioch.edu/sitemap.xml
 ---
 
 Antioch University offers a range of degree programs focused on social, environmental, and economic justice. With more than 170 years of history, the university emphasizes experiential learning and community engagement, preparing students to be leaders and change-makers in their fields.

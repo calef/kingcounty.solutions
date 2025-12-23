@@ -8,7 +8,8 @@ topic_titles:
 - Education & Learning
 type: Community-Based Organization
 website_url: https://ststephenslife.com
-website_xml_sitemap_url: https://ststephenslife.com/sitemap11284.xml
+website_xml_sitemap_urls:
+- https://ststephenslife.com/sitemap11284.xml
 ---
 
 St. Stephen the Martyr Church offers a welcoming community for worship and spiritual growth. With regular Mass schedules, opportunities for faith formation, and outreach to the poor, the church aims to support individuals and families in their spiritual journeys.

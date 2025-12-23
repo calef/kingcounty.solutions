@@ -9,7 +9,8 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://www.sfyc.net
-website_xml_sitemap_url: https://www.sfyc.net/sitemap.xml
+website_xml_sitemap_urls:
+- https://www.sfyc.net/sitemap.xml
 ---
 
 SafeFutures empowers youth from low-income communities and communities of color in the Puget Sound area. We provide academic support, mentorship, job training, and mental health counseling to help young people achieve their potential and become engaged community members.

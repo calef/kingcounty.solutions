@@ -11,7 +11,8 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://mapsredmond.org/
-website_xml_sitemap_url: https://mapsredmond.org/sitemap.xml
+website_xml_sitemap_urls:
+- https://mapsredmond.org/sitemap.xml
 ---
 
 MAPS serves the Muslim community and the wider public in the Puget Sound area, offering religious services, educational programs, and social services, including medical and legal clinics, food assistance, and transitional shelter.

@@ -5,8 +5,9 @@ topic_titles:
 - Disabilities
 - Childcare
 type: Community-Based Organization
-website_url: https://kindering.org/
-website_xml_sitemap_url: https://kindering.org/sitemap_index.xml
+website_url: https://kindering.org
+website_xml_sitemap_urls:
+- https://kindering.org/sitemap_index.xml
 ---
 
 Kindering provides early intervention therapy and support for young children with developmental delays, disability services, and family training—enabling children to engage fully in community life and school. This aligns with AEA’s mission to serve across the lifespan and strengthen providers’ capacity to deliver high-quality support services.

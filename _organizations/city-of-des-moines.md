@@ -7,8 +7,9 @@ topic_titles:
 - Mental Health & Counseling
 - Transportation & Mobility
 type: City
-website_url: https://www.desmoineswa.gov/
-website_xml_sitemap_url: https://www.desmoineswa.gov/sitemap.xml
+website_url: https://www.desmoineswa.gov
+website_xml_sitemap_urls:
+- https://www.desmoineswa.gov/sitemap.xml
 ---
 
 City of Des Moines serves the community of **Des Moines**, Washington.

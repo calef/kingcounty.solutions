@@ -7,7 +7,8 @@ topic_titles:
 - Employment & Job Support
 type: Community-Based Organization
 website_url: https://jwcenter.org
-website_xml_sitemap_url: https://jwcenter.org/wp-sitemap.xml
+website_xml_sitemap_urls:
+- https://jwcenter.org/wp-sitemap.xml
 ---
 
 Jubilee Women's Center supports women experiencing poverty by providing a transitional home and holistic programs. Established in 1983, it offers safe housing, employment preparation, and community connections to help women rebuild their lives and achieve stability.

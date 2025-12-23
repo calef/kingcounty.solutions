@@ -7,8 +7,9 @@ topic_titles:
 - Health Care
 - Education & Learning
 type: Agency
-website_url: https://www.nih.gov/
-website_xml_sitemap_url: https://www.nih.gov/sitemap.xml
+website_url: https://www.nih.gov
+website_xml_sitemap_urls:
+- https://www.nih.gov/sitemap.xml
 ---
 
 The **National Institutes of Health (NIH)** leads biomedical and public health research. Its work supports:

@@ -7,8 +7,9 @@ title: Washington State Commission on Asian Pacific American Affairs
 topic_titles:
 - Education & Learning
 type: Agency
-website_url: https://capaa.wa.gov/
-website_xml_sitemap_url: https://capaa.wa.gov/sitemap.xml
+website_url: https://capaa.wa.gov
+website_xml_sitemap_urls:
+- https://capaa.wa.gov/sitemap.xml
 ---
 
 The **Washington State Commission on Asian Pacific American Affairs (CAPAA)** advises the governor, Legislature, and state agencies on policies impacting Asian Pacific American communities. It elevates community priorities, connects residents with state services, and promotes equitable access to education, social supports, and other public programs across Washington state.

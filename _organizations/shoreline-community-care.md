@@ -9,7 +9,8 @@ topic_titles:
 - Personal & Household Needs
 type: Community-Based Organization
 website_url: https://shorelinecommunitycare.org
-website_xml_sitemap_url: https://shorelinecommunitycare.org/wp-sitemap.xml
+website_xml_sitemap_urls:
+- https://shorelinecommunitycare.org/wp-sitemap.xml
 ---
 
 Shoreline Community Care provides assistance with rent, utility bills, food, and other household needs to residents of Shoreline. The organization operates through volunteer efforts and aims to support clients in achieving financial independence while offering prayer and guidance.

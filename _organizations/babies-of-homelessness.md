@@ -9,7 +9,8 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://babiesofhomelessness.org
-website_xml_sitemap_url: https://babiesofhomelessness.org/sitemap_index.xml
+website_xml_sitemap_urls:
+- https://babiesofhomelessness.org/sitemap_index.xml
 ---
 
 Babies of Homelessness is a nonprofit organization dedicated to providing essential baby supplies—diapers, wipes, and formula—to families facing homelessness in Western Washington. With a focus on eliminating barriers, we deliver these essentials directly to families in need, helping them achieve stability and improve their circumstances.

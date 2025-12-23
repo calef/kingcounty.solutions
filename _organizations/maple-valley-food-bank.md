@@ -10,7 +10,8 @@ topic_titles:
 - Financial Assistance
 type: Community-Based Organization
 website_url: https://maplevalleyfoodbank.org
-website_xml_sitemap_url: https://www.maplevalleyfoodbank.org/wp-sitemap.xml
+website_xml_sitemap_urls:
+- https://www.maplevalleyfoodbank.org/wp-sitemap.xml
 ---
 
 Maple Valley Food Bank connects people with food and resources, offering a grocery-style food bank, financial assistance for rent and utilities, and outreach services for comprehensive case management. Open Tuesdays and Wednesdays, we support local households with nourishing food and essential services.

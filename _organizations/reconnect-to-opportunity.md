@@ -5,8 +5,9 @@ topic_titles:
 - Education & Learning
 - Employment & Job Support
 type: Community-Based Organization
-website_url: https://reopp.org/
-website_xml_sitemap_url: https://reopp.org/sitemap_index.xml
+website_url: https://reopp.org
+website_xml_sitemap_urls:
+- https://reopp.org/sitemap_index.xml
 ---
 
 Reconnect to Opportunity supports young people ages 16 to 24 who have not finished high school, helping them connect with education, employment, and postsecondary training opportunities in King County, Washington. The organization offers outreach services to assist with program options and enrollment.
