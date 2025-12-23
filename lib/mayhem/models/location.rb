@@ -1,10 +1,11 @@
 # frozen_string_literal: true
 
 require 'fmrepo'
+require_relative 'abstract_jekyll_collection'
 
 module Mayhem
   module Models
-    class Location < FMRepo::Record
+    class Location < AbstractJekyllCollection
       repository_role :locations
       scope glob: '_locations/**/*.{md,markdown}'
       naming do |front_matter:, **|
@@ -27,10 +28,6 @@ module Mayhem
 
       def parent_location?
         !parent_location.nil?
-      end
-
-      def title
-        self['title']
       end
     end
   end
