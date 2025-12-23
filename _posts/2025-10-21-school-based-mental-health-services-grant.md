@@ -9,7 +9,7 @@ feed_content: The SBMH program offers competitive grants of $1,500,000 to State 
 image_ids: []
 location_titles:
 - King County
-source: King County School Health
+organization_title: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/21/school-based-mental-health-services-grant/
 summarized: true
 title: School-Based Mental Health Services Grant

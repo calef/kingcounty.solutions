@@ -11,7 +11,7 @@ feed_content: <p class="">As of July 7, 2025 Essentials First Redmond has re-loc
 image_ids: []
 location_titles:
 - King County
-source: Essentials First
+organization_title: Essentials First
 source_url: https://www.essentialsfirst.org/blog/yfuwxutjn63rpyg7zoda55w5ql1kmf
 summarized: true
 title: EF Redmond new location opens

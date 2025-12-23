@@ -7,8 +7,8 @@ feed_content: |-
   <p>The post <a href="https://ballardseniorcenter.org/november-december-2025-newsletter/">November &amp; December 2025 Newsletter</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Ballard Northwest Senior Center
 published: false
-source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/november-december-2025-newsletter/
 summarized: true
 title: November & December 2025 Newsletter

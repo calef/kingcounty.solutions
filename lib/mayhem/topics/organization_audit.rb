@@ -89,7 +89,7 @@ module Mayhem
           next unless document
 
           fm = document.front_matter
-          next unless fm['source'] == org_title
+          next unless fm['organization_title'] == org_title
 
           {
             'title' => fm['title'],

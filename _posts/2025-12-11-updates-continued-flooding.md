@@ -9,9 +9,9 @@ feed_content_checksum: cdbb9b99cd59c5bbb9d229d107e21c5824bd5603
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 published: false
 rss_guid: https://kcemergency.com/?p=6739
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/11/updates-continued-flooding/
 summarized: true
 title: 'Updates: Continued Flooding'

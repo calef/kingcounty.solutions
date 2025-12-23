@@ -7,8 +7,8 @@ feed_content: |-
   <p>The post <a href="https://www.juma.org/2025/11/19/the-empress-tavern-a-new-opportunity-for-juma-sacramento-youth/">The Empress Tavern: A New Opportunity for Juma Sacramento Youth</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Juma Ventures
 published: false
-source: Juma Ventures
 source_url: https://www.juma.org/2025/11/19/the-empress-tavern-a-new-opportunity-for-juma-sacramento-youth/
 summarized: true
 title: 'The Empress Tavern: A New Opportunity for Juma Sacramento Youth'

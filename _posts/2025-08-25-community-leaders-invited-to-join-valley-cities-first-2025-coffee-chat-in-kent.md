@@ -25,7 +25,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Valley Cities Behavioral Health Care
+organization_title: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/community-leaders-invited-to-join-valley-cities-first-2025-coffee-chat-in-kent/
 summarized: true
 title: Community leaders invited to join Valley Cities’ first 2025 Coffee Chat in

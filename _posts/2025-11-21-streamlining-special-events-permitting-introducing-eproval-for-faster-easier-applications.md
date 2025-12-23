@@ -6,8 +6,8 @@ feed_content: We are thrilled to announce the launch of Eproval, a new online Sp
   streamlines all aspe...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/21/streamlining-special-events-permitting-introducing-eproval-for-faster-easier-applications/
 summarized: true
 title: 'Streamlining Special Events permitting: Introducing Eproval for faster, easier

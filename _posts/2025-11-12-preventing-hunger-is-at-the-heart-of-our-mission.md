@@ -43,7 +43,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - Bellevue
-source: Bellevue LifeSpring
+organization_title: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/the-heart-of-our-mission/?utm_source=rss&utm_medium=rss&utm_campaign=the-heart-of-our-mission
 summarized: true
 title: Preventing hunger is at the heart of our mission

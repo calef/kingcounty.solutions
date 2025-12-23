@@ -13,6 +13,7 @@ feed_content_checksum: c7218afca3d53f8463a76765280657ed62924d37
 image_ids: []
 location_titles:
 - King County
+organization_title: Friends of Youth
 original_source_html: Last month, Friends of Youth welcomed community members to our
   Kirkland campus for a very special occasion—the ribbon cutting ceremony for Bridge
   Pointe , an innovative housing program designed for young adults, ages 18 to 24,
@@ -21,7 +22,6 @@ original_source_html: Last month, Friends of Youth welcomed community members to
   of our second home  as we look ahead to 2026. The ceremony brought together local
   leaders, funders,...
 rss_guid: 694451d5af6ab01fbdd1b02b
-source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/celebrating-hope-and-healing-bridge-pointe-ribbon-cutting
 summarized: true
 title: 'celebrating hope and healing: bridge pointe ribbon cutting'

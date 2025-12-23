@@ -19,7 +19,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Wellspring Family Services
+organization_title: Wellspring Family Services
 source_url: https://wellspringfs.org/backpacks-basics-belonging-a-season-of-strong-starts/
 summarized: true
 title: 'Backpacks, Basics & Belonging: A Season of Strong Starts'

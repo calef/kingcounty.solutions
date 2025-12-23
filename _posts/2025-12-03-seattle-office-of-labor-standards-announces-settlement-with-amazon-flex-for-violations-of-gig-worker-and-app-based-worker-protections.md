@@ -8,8 +8,8 @@ feed_content: 'For Immediate Release Contact: Cynthia SantanaCommunications Mana
   of [&#8230;]'
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://news.seattle.gov/2025/12/03/seattle-office-of-labor-standards-announces-settlement-with-amazon-flex-for-violations-of-gig-worker-and-app-based-worker-protections/
 summarized: true
 title: Seattle Office of Labor Standards Announces Settlement with Amazon Flex for

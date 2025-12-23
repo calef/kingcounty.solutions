@@ -9,11 +9,11 @@ feed_content_checksum: 83c158fcc48dada1fd2dc03560c59ab14bb06c1b
 image_ids: []
 location_titles:
 - King County
+organization_title: Aging Wisdom
 original_source_html: |-
   <p>What is your role at Aging Wisdom? Director of Care Management What made you want to work in the field of aging? Like many new social workers, I started my career in child and family services.  After a few years I was already feeling burned out and then serendipitously recruited to work for a hospice […]</p>
   <p>The post <a>Staff Spotlight: Nicole Amico Kane</a> appeared first on <a>Aging Wisdom</a>.</p>
 rss_guid: https://agingwisdom.com/?p=9004111222440412
-source: Aging Wisdom
 source_url: https://agingwisdom.com/staff-spotlight-nicole-amico-kane/
 summarized: true
 title: 'Staff Spotlight: Nicole Amico Kane'

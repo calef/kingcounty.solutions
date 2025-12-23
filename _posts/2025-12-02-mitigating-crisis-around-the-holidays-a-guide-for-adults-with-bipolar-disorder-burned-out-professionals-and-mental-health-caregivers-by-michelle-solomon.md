@@ -174,7 +174,7 @@ feed_content: "<p>While holidays and the end of the year are often associated wi
 image_ids: []
 location_titles:
 - King County
-source: National Alliance on Mental Illness Eastside
+organization_title: National Alliance on Mental Illness Eastside
 source_url: https://nami-eastside.org/mitigating-crisis-around-the-holidays/
 summarized: true
 title: 'Mitigating Crisis Around the Holidays: A Guide for Adults with Bipolar Disorder,

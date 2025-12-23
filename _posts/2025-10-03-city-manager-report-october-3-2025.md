@@ -9,8 +9,8 @@ feed_content: Help Shape the Future of Normandy Park’s Roads. Public Hearing o
   community.
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-3-2025/
 summarized: true
 title: City Manager Report – October 3, 2025

@@ -98,7 +98,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Arcora Foundation
+organization_title: Arcora Foundation
 source_url: https://arcorafoundation.org/apple-health-medicaid-dental-101/
 summarized: true
 title: Apple Health (Medicaid) Dental 101

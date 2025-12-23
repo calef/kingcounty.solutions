@@ -10,7 +10,7 @@ feed_content: Approximately 200 people gathered at Seattle City Hall on Oct. 28 
 image_ids: []
 location_titles:
 - King County
-source: Seattle Human Services Department
+organization_title: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/10/31/giving-flowers-event-honors-domestic-violence-survivors-and-advocates/
 summarized: true
 title: "‘Giving Flowers’ event honors domestic violence survivors and advocates"

@@ -22,7 +22,7 @@ image_ids:
 - 02de085043b3a8bf9a503560bcda4b5eae536231455a631dc3d7ee8130d1ac7b
 location_titles:
 - King County
-source: The Seattle Public Library
+organization_title: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/09/the-librarians-takes-you-to-the-front-lines-of-democracy/
 summarized: true
 title: "“The Librarians” Takes You to the Front Lines of Democracy"

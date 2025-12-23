@@ -7,7 +7,7 @@ feed_content: We are pleased to announce that Nichols Court is ready for lease u
 image_ids: []
 location_titles:
 - King County
-source: Low Income Housing Institute
+organization_title: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/nichols-court-now-leasing
 summarized: true
 title: Nichols Court now leasing!

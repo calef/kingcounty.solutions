@@ -40,7 +40,7 @@ image_ids:
 - c787eae2756633f95c699796e5fdfed49f65171f1a89a2917632c9fb6f977437
 location_titles:
 - King County
-source: Samaritan Center of Puget Sound
+organization_title: Samaritan Center of Puget Sound
 source_url: https://samaritanps.org/devotions-on-compassion/
 summarized: true
 title: Devotions on Compassion

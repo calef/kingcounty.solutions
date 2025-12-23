@@ -8,9 +8,9 @@ feed_content_checksum: 771486ff2966ddbe6caac5e649ecad4eee932fc3
 image_ids: []
 location_titles:
 - King County
+organization_title: Snoqualmie Indian Tribe
 published: false
 rss_guid: https://snoqualmietribe.us/?p=6906
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/tribal-staff-remote-on-december-15-and-16/
 summarized: true
 title: Tribal Staff Remote on December 15 and 16

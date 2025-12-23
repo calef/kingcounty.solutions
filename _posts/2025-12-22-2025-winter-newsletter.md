@@ -6,11 +6,11 @@ feed_content_checksum: 2598dedc40e7f1bfb46e0af0001188632d507fb7
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: The Seattle Office for Civil Rights’ (SOCR) winter newsletter
   highlights our work this year and amplifies civil rights resources for businesses.
 published: false
 rss_guid: https://ocr.seattle.gov/?p=819
-source: City of Seattle
 source_url: https://ocr.seattle.gov/2025-winter-newsletter/
 summarized: true
 title: 2025 Winter Newsletter

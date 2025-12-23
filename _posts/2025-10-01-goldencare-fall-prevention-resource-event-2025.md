@@ -38,7 +38,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Hospital District No. 1 (Valley Medical Center)
+organization_title: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/10/01/goldencare-fall-prevention-resource-event-2025/?utm_source=rss&utm_medium=rss&utm_campaign=goldencare-fall-prevention-resource-event-2025
 summarized: true
 title: 'GoldenCare: Fall Prevention Resource Event 2025'

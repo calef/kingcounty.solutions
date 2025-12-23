@@ -16,7 +16,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
 image_ids: []
 location_titles:
 - King County
-source: City Light Bill Assistance Programs
+organization_title: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/10/27/city-lights-supported-employees-mark-national-disability-employment-awareness-month/
 summarized: true
 title: City Light’s Supported Employees mark National Disability Employment Awareness

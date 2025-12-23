@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: St. Luke Episcopal Church
+organization_title: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/10/23/we-have-some-new-neighbors/
 summarized: true
 title: We have some new neighbors

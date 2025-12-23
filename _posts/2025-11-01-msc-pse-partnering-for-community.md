@@ -10,7 +10,7 @@ feed_content: Multi-Service Center and Puget Sound Energy’s partnership begin 
 image_ids: []
 location_titles:
 - South King County
-source: Multi-Service Center
+organization_title: Multi-Service Center
 source_url: https://mschelps.org/msc-pse-partnering-for-community/
 summarized: true
 title: MSC & PSE, partnering for community

@@ -66,7 +66,7 @@ feed_content_checksum: 983d787a54a63a033e445db8941b6e16129f4921
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143761/see-the-difference-radiology-careers-at-va/
 summarized: true
 title: 'See the Difference: Radiology careers at VA '

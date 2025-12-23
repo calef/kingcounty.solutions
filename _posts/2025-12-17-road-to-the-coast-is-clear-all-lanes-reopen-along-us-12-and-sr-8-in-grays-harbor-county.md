@@ -6,6 +6,7 @@ feed_content: ELMA - All lanes are now open along US 12 and State Route 8 betwee
 feed_content_checksum: 627775429d5975d4ee44cb8c3b87026bd4fed6a6
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"
   content=\"ELMA - All lanes are now open along US 12 and State Route 8 between Montesano
@@ -179,7 +180,6 @@ original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"
   class=\"col-xl-12 col-lg-12 col-md-12 col-sm-1"
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/road-coast-clear-all-lanes-reopen-along-us-12-and-sr-8-grays-harbor-county
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/road-coast-clear-all-lanes-reopen-along-us-12-and-sr-8-grays-harbor-county
 summarized: true
 title: 'Road to the coast is clear: All lanes reopen along US 12 and SR 8 in Grays

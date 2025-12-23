@@ -189,7 +189,7 @@ module Mayhem
           classified_locations = @location_classifier.classify(
             summary_text,
             content_title: front_matter['title'],
-            content_source: front_matter['source']
+            content_source: front_matter['organization_title']
           )
           front_matter['location_titles'] = classified_locations
           if classified_locations.empty?

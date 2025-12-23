@@ -9,7 +9,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Neighborhood House
+organization_title: Neighborhood House
 source_url: https://nhwa.org/2025/10/01/groundbreaking-ui-navigators-program-receives-1-million-to-continue-helping-underserved-communities/
 summarized: true
 title: Groundbreaking UI Navigators program receives $1 million to continue helping

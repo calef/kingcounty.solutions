@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://council.seattle.gov/2025/11/13/seattle-councilmembers-welcome-mayor-elect-katie-wilson-commend-mayor-harrell-for-years-of-service/
 summarized: true
 title: Seattle Councilmembers welcome Mayor-elect Katie Wilson, commend Mayor Harrell

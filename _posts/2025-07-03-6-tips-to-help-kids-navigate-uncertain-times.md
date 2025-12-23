@@ -41,7 +41,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - South King County
-source: Encompass
+organization_title: Encompass
 source_url: https://encompassnw.org/6-tips-to-help-kids-navigate-uncertain-times/
 summarized: true
 title: 6 Tips to Help Kids Navigate Uncertain Times

@@ -9,7 +9,7 @@ feed_content_checksum: 26f9c099215938065fc87a745742c3511c99a070
 image_ids: []
 location_titles:
 - King County
-source: Northwest Harvest
+organization_title: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/philanthropy-northwest-reactivates-wa-food-fund-to-address-growing-food-insecurity-across-washington/
 summarized: true
 title: Philanthropy Northwest Reactivates WA Food Fund to Address Growing Food Insecurity

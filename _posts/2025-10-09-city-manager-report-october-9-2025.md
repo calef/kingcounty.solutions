@@ -7,8 +7,8 @@ feed_content: 'Fall Checklist: Prevent Flooding and Protect Our Environment. As 
   your property ready for the season:'
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-9-2025/
 summarized: true
 title: City Manager Report – October 9, 2025

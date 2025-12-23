@@ -108,6 +108,7 @@ feed_content_checksum: 3112957b07c0ba8d19f6b51560bb0b0ccc9c4ef9
 image_ids: []
 location_titles:
 - King County
+organization_title: Department of Health
 original_source_html: "<span>State revokes, suspends licenses, certifications, registrations
   of health care providers (12-17-2025)</span>\n\n            <div>\n<time>December
   17, 2025 - 3:08pm</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>December
@@ -211,7 +212,6 @@ original_source_html: "<span>State revokes, suspends licenses, certifications, r
   \   <div>News Author</div>\n              <div>Washington State Department of Health</div>\n
   \         </div>"
 rss_guid: 39959 at https://doh.wa.gov
-source: Department of Health
 source_url: https://doh.wa.gov/newsroom/state-revokes-suspends-licenses-certifications-registrations-health-care-providers-12-17-2025
 summarized: true
 title: State revokes, suspends licenses, certifications, registrations of health care

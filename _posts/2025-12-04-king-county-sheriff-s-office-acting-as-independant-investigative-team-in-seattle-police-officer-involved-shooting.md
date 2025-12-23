@@ -6,8 +6,8 @@ feed_content: Based on the Seattle Police Department’s exit from the Federal C
   is sub...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/04/king-county-sheriffs-office-acting-as-independant-investigative-team-in-seattle-police-officer-involved-shooting/
 summarized: true
 title: King County Sheriff’s Office Acting As Independant Investigative Team In Seattle

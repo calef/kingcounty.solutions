@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Akin
+organization_title: Akin
 source_url: https://akinfamily.org/seattle-times-snap-crisis-is-proof-our-social-service-sector-needs-a-reset/
 summarized: true
 title: Seattle Times Op-Ed | SNAP crisis is proof our social-service sector needs

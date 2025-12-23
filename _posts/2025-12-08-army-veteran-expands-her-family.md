@@ -60,7 +60,7 @@ feed_content_checksum: a9215aadbbe39eac429dd9e574fa9f5ea888db68
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143800/army-veteran-expands-her-family/
 summarized: true
 title: Army Veteran expands her family

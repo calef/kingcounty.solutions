@@ -52,7 +52,7 @@ feed_content_checksum: b9617c3e4594563357f6858302fd157ecdc994fa
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143687/veteran-volunteer-gives-28000-hours/
 summarized: true
 title: Veteran volunteer gives 28,000 hours

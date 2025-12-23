@@ -10,7 +10,7 @@ feed_content: Zuhoor joined the MSC team in 2023 and serves as a Community Outre
 image_ids: []
 location_titles:
 - King County
-source: Multi-Service Center
+organization_title: Multi-Service Center
 source_url: https://mschelps.org/staff-spotlight-on-zuhoor-mehran/
 summarized: true
 title: Staff spotlight on Zuhoor Mehran

@@ -45,6 +45,7 @@ image_ids:
 - 4f745237430fcafda7497b574643c6652e91b3ebbc2e0dd5ee05b0ede6601868
 location_titles:
 - King County
+organization_title: Department of Commerce
 original_source_html: |-
   <p>A new multifamily property located in Seattle’s Interbay neighborhood will provide 109 studio units and five respite units for those recovering from inpatient medical care.</p>
 
@@ -84,7 +85,6 @@ original_source_html: |-
 
   <p>Thanks to Commerce, DESC, and all others who made Steven’s Place possible.</p>
 rss_guid: https://www.commerce.wa.gov/?p=273082
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/stevens-place-expanding-housing-opportunities-for-those-with-the-greatest-barriers-in-seattles-interbay/
 summarized: true
 title: 'Steven’s Place: Expanding housing opportunities for those with the greatest

@@ -51,7 +51,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143168/va-research-wrap-up-prostheses-toxic-mental/
 summarized: true
 title: 'VA Research Wrap Up: New findings on prostheses, toxic exposure and serious

@@ -27,7 +27,7 @@ feed_content: "<p>When Tonia Bartz was diagnosed with Acute Myeloid Leukemia i
 image_ids: []
 location_titles:
 - King County
-source: Cancer Lifeline Financial Assistance for Cancer Patients
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/tonias-story/
 summarized: true
 title: Tonia’s Story

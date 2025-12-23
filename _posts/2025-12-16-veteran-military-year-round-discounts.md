@@ -1096,6 +1096,7 @@ feed_content_checksum: 336b3a897116260715d2347030d5fca1f057bb31
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <p>Researching veteran discounts often means dodging outdated information, misleading sites, or even malware—some require paid memberships, too. We’ve created a reliable list: no fees, and fully vetted, we’ve got your six.</p>
 
@@ -2187,7 +2188,6 @@ original_source_html: |-
 
   <p></p>
 rss_guid: https://news.va.gov/?p=85765
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/85765/veteran-discounts-available-year-round/
 summarized: true
 title: Veteran & military year-round discounts

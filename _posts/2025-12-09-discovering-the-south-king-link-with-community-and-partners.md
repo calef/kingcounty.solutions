@@ -8,8 +8,8 @@ feed_content: |-
 feed_content_checksum: bac471ee3fa1e9e9b307363f6cb4a4f147bf0531
 image_ids: []
 location_titles: []
+organization_title: Sound Transit
 published: false
-source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/discovering-south-king-link-with-community-partners
 summarized: true
 title: Discovering the South King Link with community and partners

@@ -44,8 +44,8 @@ feed_content_checksum: d6326c9690b2041ac454e72e998aff313479e613
 image_ids: []
 location_titles:
 - King County
+organization_title: Department of Health
 rss_guid: 39920 at https://doh.wa.gov
-source: Department of Health
 source_url: https://doh.wa.gov/newsroom/department-health-issues-notice-intent-licenses-health-care-facilities
 summarized: true
 title: Department of Health issues notice of intent on licenses of health care facilities

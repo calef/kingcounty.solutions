@@ -48,8 +48,8 @@ feed_content_checksum: ef3ec5484aac3866f2280ac276fe744e613d80d6
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 rss_guid: https://news.va.gov/?p=143805
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143805/a-sanctuary-music-veterans-dementia/
 summarized: true
 title: A sanctuary of music for Veterans with dementia

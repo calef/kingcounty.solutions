@@ -10,7 +10,7 @@ feed_content: Zheng Zhou just celebrated his two-year anniversary of working wit
 image_ids: []
 location_titles:
 - King County
-source: Seattle Human Services Department
+organization_title: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/10/23/hsd-employee-spotlight-zheng-zhou/
 summarized: true
 title: HSD Employee Spotlight—Zheng Zhou

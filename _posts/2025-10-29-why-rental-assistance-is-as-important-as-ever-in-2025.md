@@ -24,7 +24,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Community Roots Housing
+organization_title: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/10/rental-assistance-programs/
 summarized: true
 title: Why rental assistance is as important as ever in 2025

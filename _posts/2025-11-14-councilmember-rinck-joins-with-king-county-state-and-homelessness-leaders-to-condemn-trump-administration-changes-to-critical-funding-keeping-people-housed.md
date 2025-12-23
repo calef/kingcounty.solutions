@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://council.seattle.gov/2025/11/14/councilmember-rinck-joins-with-king-county-state-and-homelessness-leaders-to-condemn-trump-administration-changes-to-critical-funding-keeping-people-housed/
 summarized: true
 title: Councilmember Rinck joins with King County, State and homelessness leaders

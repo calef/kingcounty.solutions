@@ -55,7 +55,7 @@ feed_content: "<h2 class=\"wp-block-heading\">Veteran Shaunelle Tharpe transform
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143162/finding-a-new-path-with-move/
 summarized: true
 title: Finding a new path With MOVE!

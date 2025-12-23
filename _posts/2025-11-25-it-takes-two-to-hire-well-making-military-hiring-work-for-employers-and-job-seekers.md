@@ -77,7 +77,7 @@ image_ids:
 - 34263867dafbcdd68d71913952f47fe379ce7eb02c6e5d44309fef573ffa8585
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143607/map-military-experience-to-civilian-jobs/
 summarized: true
 title: 'It takes two to hire well: Making military hiring work for employers and job

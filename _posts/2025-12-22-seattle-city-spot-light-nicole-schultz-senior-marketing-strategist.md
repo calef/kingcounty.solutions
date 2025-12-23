@@ -9,6 +9,7 @@ feed_content_checksum: ed8d29abda640bf9240ac86b814511e05f6768f8
 image_ids: []
 location_titles:
 - King County
+organization_title: City Light Bill Assistance Programs
 original_source_html: '<img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/12/nicole_spotlight-150x150.png">The
   Basics Division: Communications How long have you been at City Light? I joined Seattle
   City Light on June 8, 2011. I’ve been with the City of Seattle since May 23, 2001.
@@ -16,7 +17,6 @@ original_source_html: '<img src="https://powerlines.seattle.gov/wp-content/uploa
   time, so I work on a plethora […]'
 published: false
 rss_guid: https://powerlines.seattle.gov/?p=11226
-source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/12/22/seattle-city-spotlight-nicole-schultz-senior-marketing-strategist/
 summarized: true
 title: 'Seattle City (spot)Light: Nicole Schultz, Senior Marketing Strategist'

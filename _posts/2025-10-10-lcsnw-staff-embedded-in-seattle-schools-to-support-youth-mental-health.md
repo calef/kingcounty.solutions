@@ -86,7 +86,7 @@ image_ids:
 - 418dcd99cbbb28502ade967ed693d63ea82a542575b304600572819766bdad2c
 location_titles:
 - King County
-source: Lutheran Community Services Northwest
+organization_title: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/10/lcsnw-staff-embedded-in-seattle-schools/
 summarized: true
 title: LCSNW staff embedded in Seattle schools to support youth mental health

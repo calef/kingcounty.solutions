@@ -7,7 +7,7 @@ feed_content: The City of Seattle has allocated $5.9 million in its 2025 budget 
 image_ids: []
 location_titles:
 - King County
-source: Low Income Housing Institute
+organization_title: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/the-city-of-seattle-awards-lihi-funding-for-two-new-tiny-house-villages
 summarized: true
 title: The City of Seattle Awards LIHI Funding for Two New Tiny House Villages

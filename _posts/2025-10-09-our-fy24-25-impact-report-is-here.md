@@ -95,7 +95,7 @@ image_ids:
 - b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
 location_titles:
 - King County
-source: BrightSpark
+organization_title: BrightSpark
 source_url: https://www.brightspark.org/2025/10/our-fy24-25-impact-report-is-here/
 summarized: true
 title: Our FY24/25 Impact Report is here!

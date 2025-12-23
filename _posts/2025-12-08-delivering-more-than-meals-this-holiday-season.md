@@ -36,7 +36,7 @@ image_ids:
 - c235df7dc31ba7917a2532ccfeb82eb6c87e18bd09097afb5052ffdfbb984422
 location_titles:
 - King County
-source: Sound Generations
+organization_title: Sound Generations
 source_url: https://soundgenerations.org/delivering-more-than-meals/
 summarized: true
 title: Delivering More Than Meals This Holiday Season

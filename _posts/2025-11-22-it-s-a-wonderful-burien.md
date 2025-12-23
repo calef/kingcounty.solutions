@@ -7,7 +7,7 @@ feed_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_110459
 image_ids: []
 location_titles:
 - King County
-source: City of Burien
+organization_title: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=21063060
 summarized: true
 title: It’s a Wonderful Burien

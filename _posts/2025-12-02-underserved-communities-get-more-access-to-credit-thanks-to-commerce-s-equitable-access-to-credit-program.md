@@ -161,7 +161,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Department of Commerce
+organization_title: Department of Commerce
 source_url: https://www.commerce.wa.gov/underserved-communities-get-more-access-to-credit-thanks-to-commerces-equitable-access-to-credit-program/
 summarized: true
 title: Underserved communities get more access to credit thanks to Commerce’s Equitable

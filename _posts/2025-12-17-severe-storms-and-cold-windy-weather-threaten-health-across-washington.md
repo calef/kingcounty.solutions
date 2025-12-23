@@ -52,6 +52,7 @@ feed_content_checksum: b35c1cc68a986f5628fab9e1231e6afdf95d3d33
 image_ids: []
 location_titles:
 - King County
+organization_title: Department of Health
 original_source_html: "<span>Severe storms and cold, windy weather threaten health
   across Washington</span>\n\n            <div>\n<time>December 16, 2025 - 4:51pm</time>\n</div>\n
   \     <span><span>stevie.mathieu…</span></span>\n<span><time>December 16, 2025 -
@@ -99,7 +100,6 @@ original_source_html: "<span>Severe storms and cold, windy weather threaten heal
   healthy.  </p>\n\n<p>Our <a>website</a> is your source for a healthy dose of information.
   Get updates by following us on <a>social media</a>.</p>\n\n<p>###</p>\n</div>"
 rss_guid: 39949 at https://doh.wa.gov
-source: Department of Health
 source_url: https://doh.wa.gov/newsroom/severe-storms-and-cold-windy-weather-threaten-health-across-washington
 summarized: true
 title: Severe storms and cold, windy weather threaten health across Washington

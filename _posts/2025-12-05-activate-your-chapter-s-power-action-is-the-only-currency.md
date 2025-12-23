@@ -37,8 +37,8 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>As a DAV leader, 
   your chapter’s power – action is the only currency</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Disabled American Veterans
 published: false
-source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/activate-your-chapters-power-action-is-the-only-currency/
 summarized: true
 title: Activate your chapter’s power – action is the only currency

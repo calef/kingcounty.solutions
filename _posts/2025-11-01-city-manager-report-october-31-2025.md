@@ -11,8 +11,8 @@ feed_content: What’s Next for City Hall? We often receive the question, “Wha
   efficient, and functional building that can continue to serve residents daily.
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-31-2025/
 summarized: true
 title: City Manager Report – October 31, 2025

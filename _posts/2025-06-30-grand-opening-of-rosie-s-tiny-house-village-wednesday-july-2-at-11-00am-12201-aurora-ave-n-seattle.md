@@ -7,7 +7,7 @@ feed_content: LIHI is pleased to announce the grand opening of the new location 
 image_ids: []
 location_titles:
 - King County
-source: Low Income Housing Institute
+organization_title: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/grand-opening-of-rosie-s-tiny-house-village-wednesday-july-2-at-11-00am-12201-aurora-ave-n-seatt
 summarized: true
 title: Grand Opening of Rosie's Tiny House Village, Wednesday, July 2 at 11:00am,

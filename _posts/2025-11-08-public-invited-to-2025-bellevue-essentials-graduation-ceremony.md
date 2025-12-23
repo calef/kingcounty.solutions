@@ -55,8 +55,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   7 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/public-invited-2025-bellevue-essentials-graduation-ceremony
 summarized: true
 title: Public invited to 2025 Bellevue Essentials graduation ceremony

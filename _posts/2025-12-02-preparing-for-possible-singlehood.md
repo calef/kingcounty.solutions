@@ -5,8 +5,8 @@ feed_content: |-
   <p>The post <a href="https://agingwisdom.com/preparing-for-possible-singlehood/">Preparing for possible singlehood</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Aging Wisdom
 published: false
-source: Aging Wisdom
 source_url: https://agingwisdom.com/preparing-for-possible-singlehood/?utm_source=rss&utm_medium=rss&utm_campaign=preparing-for-possible-singlehood
 summarized: true
 title: Preparing for possible singlehood

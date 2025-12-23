@@ -77,6 +77,7 @@ feed_content_checksum: 07f360e2877fd3d985c9bb5cb6d6341388ecb2f8
 image_ids: []
 location_titles:
 - King County
+organization_title: Operation Homefront - Critical Financial Assistance Program
 original_source_html: |-
   <p><strong><strong><strong><em>Rolling Out Relief</em>: Operation Homefront and CSX Ease Transportation and Housing Burden for Military Families Across 26 States</strong></strong></strong></p>
 
@@ -149,7 +150,6 @@ original_source_html: |-
   <p>Media Inquiries: <br>Erin Burgy, Senior Director, Integrated Public Relations<br><a>Email Erin</a> or (469) 934-7131</p>
   <p>The post <a>OH and CSX Ease Burden for Military Families</a> appeared first on <a>Operation Homefront</a>.</p>
 rss_guid: https://operationhomefront.org/?p=60238
-source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/oh-and-csx-ease-burden-for-military-families/
 summarized: true
 title: OH and CSX Ease Burden for Military Families

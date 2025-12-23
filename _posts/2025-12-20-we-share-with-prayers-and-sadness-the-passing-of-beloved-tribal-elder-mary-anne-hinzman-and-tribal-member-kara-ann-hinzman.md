@@ -21,6 +21,7 @@ feed_content_checksum: 3260a36e1dd79b50df14eb917c1f1338f02fe629
 image_ids: []
 location_titles:
 - Snoqualmie Valley
+organization_title: Snoqualmie Indian Tribe
 original_source_html: |-
   <p><span>We share with prayers and sadness </span><span>the passing of a beloved Tribal Elder and a Tribal Member</span></p>
   <h1><span>Mary Anne Hinzman</span></h1>
@@ -40,7 +41,6 @@ original_source_html: |-
   <p> </p>
 published: false
 rss_guid: https://snoqualmietribe.us/?p=6938
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/we-share-with-prayers-and-sadness-the-passing-of-beloved-tribal-elder-mary-anne-hinzman-and-tribal-member-kara-ann-hinzman/
 summarized: true
 title: We share with prayers and sadness the passing of beloved Tribal Elder Mary

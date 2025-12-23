@@ -84,7 +84,7 @@ image_ids:
 - df0b7c9eaff2db9ab28cf72f8324841917027fd87e12c2960baf5ab82e47cece
 location_titles:
 - King County
-source: Disabled American Veterans
+organization_title: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/veteran-wins-fight-for-safer-home-after-va-denials/
 summarized: true
 title: Veteran wins fight for safer home after VA denials

@@ -68,8 +68,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"datetime\">August 6 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/govstreamai-partnership
 summarized: true
 title: Bellevue launches AI-powered collaboration to streamline permitting

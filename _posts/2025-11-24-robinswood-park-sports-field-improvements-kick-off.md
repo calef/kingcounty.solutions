@@ -31,8 +31,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   \     \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/robinswood-park-sports-field-improvements-kick
 summarized: true
 title: Robinswood Park sports field improvements kick off

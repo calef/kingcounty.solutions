@@ -14,8 +14,8 @@ feed_content: |-
   <p>The post <a href="https://www.mercyhousing.org/2025/10/fighting-food-insecurity/">Fighting food insecurity with meal kits &#038; cooking classes</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Mercy Housing
 published: false
-source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/10/fighting-food-insecurity/
 summarized: true
 title: Fighting food insecurity with meal kits & cooking classes

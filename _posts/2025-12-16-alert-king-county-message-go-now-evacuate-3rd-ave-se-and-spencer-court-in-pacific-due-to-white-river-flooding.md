@@ -11,13 +11,13 @@ feed_content_checksum: daa19eb447b8aa53960c0b47a61498052af99d52
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 original_source_html: This is King County Emergency Management on Tuesday, December
   16. This an evacuation notification for residents and businesses near 3rd Ave SE
   and Spencer CT in Pacific. Due to severe and rapidly worsening flooding along the
   White River, this area is under a GO NOW evacuation notice. Leave immediately if
   you are in this area. […]
 rss_guid: https://kcemergency.com/?p=7062
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/16/alert-king-county-message-go-now-evacuate-3rd-ave-se-and-spencer-court-in-pacific-due-to-white-river-flooding/
 summarized: true
 title: 'ALERT King County message – GO NOW: Evacuate 3rd Ave SE and Spencer Court

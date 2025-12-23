@@ -10,12 +10,12 @@ feed_content_checksum: 8ea7e9a529fa1f390f313ac9fbba9f422677c136
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: Fatoumata Diallo and Halima Mohamed recently wrapped up a monthslong
   job shadowing opportunity with Seattle Municipal Court (SMC) employees. They were
   participants in Legal Pathways at UW-Tacoma, a new initiative funded by the Washington
   State Legislat...
 rss_guid: https://courts.seattle.gov/?p=895
-source: City of Seattle
 source_url: https://courts.seattle.gov/2025/12/22/from-classroom-to-courtroom-a-legal-pathways-students-experience-at-seattle-municipal-court/
 summarized: true
 title: 'From Classroom to Courtroom: A Legal Pathways Student’s Experience at SMC'

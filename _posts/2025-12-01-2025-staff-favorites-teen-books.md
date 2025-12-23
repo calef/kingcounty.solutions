@@ -32,8 +32,8 @@ feed_content: |-
   <p><em>~Posted by Wally B.</em></p>
 image_ids: []
 location_titles: []
+organization_title: The Seattle Public Library
 published: false
-source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/
 summarized: true
 title: '2025 Staff Favorites: Teen Books'

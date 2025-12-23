@@ -33,8 +33,8 @@ feed_content_checksum: 30b8334b453f3035f806f4a38bb4763bcd918b8a
 image_ids: []
 location_titles:
 - Seattle
+organization_title: Ballard Northwest Senior Center
 rss_guid: https://ballardseniorcenter.org/?p=7565
-source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-15th-19th/
 summarized: true
 title: Dining Menu December 15th – 19th

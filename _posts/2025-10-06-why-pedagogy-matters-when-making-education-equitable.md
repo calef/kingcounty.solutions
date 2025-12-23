@@ -10,7 +10,7 @@ feed_content: Boze Elementary Students work together through a math worksheet. I
 image_ids: []
 location_titles:
 - King County
-source: Technology Access Foundation
+organization_title: Technology Access Foundation
 source_url: https://techaccess.org/why-pedagogy-matters-when-making-education-equitable/
 summarized: true
 title: Why Pedagogy Matters When Making Education Equitable

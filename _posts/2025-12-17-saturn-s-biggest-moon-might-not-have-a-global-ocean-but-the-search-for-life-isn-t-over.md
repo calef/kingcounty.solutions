@@ -47,6 +47,7 @@ feed_content_checksum: 4c06ec9b7dbf3473387cafa9c20ffb3675a6e1ea
 image_ids: []
 location_titles:
 - King County
+organization_title: University of Washington
 original_source_html: |-
   <div>
   <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/12/16121125/TitanStarurn-750x596.jpg">
@@ -92,7 +93,6 @@ original_source_html: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 published: false
 rss_guid: https://www.washington.edu/news/?p=90115
-source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/17/saturns-biggest-moon-might-not-have-an-ocean/
 summarized: true
 title: Saturn’s biggest moon might not have a global ocean — but the search for life

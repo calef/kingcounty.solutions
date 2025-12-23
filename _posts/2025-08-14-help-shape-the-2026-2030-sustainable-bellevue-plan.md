@@ -45,8 +45,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   14 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/draft-26-30-sustainable-bellevue-plan
 summarized: true
 title: Help shape the 2026-2030 Sustainable Bellevue Plan

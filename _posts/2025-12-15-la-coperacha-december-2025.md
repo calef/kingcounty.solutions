@@ -31,6 +31,7 @@ image_ids:
 - 2dd80c922cd8cece758011f8631bd3a1432ecc36ec3d0c31c877696c99582921
 location_titles:
 - King County
+organization_title: El Centro de la Raza
 original_source_html: "<h2>You Have Until January 1 to Give: Light the World with
   El Centro de la Raza</h2>\n\n\n\n<p>The end of the year is a powerful moment to
   show up for our community. There’s still time to make a real, tangible difference—and
@@ -55,7 +56,6 @@ original_source_html: "<h2>You Have Until January 1 to Give: Light the World wit
   src=\"https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/12/Untitled-design-3-566x707.jpg?ssl=1\"></figure></div>\n</div></div></div></div>\n<p>The
   post <a>La Coperacha: DECEMBER 2025</a> appeared first on <a>El Centro de la Raza</a>.</p>"
 rss_guid: https://www.elcentrodelaraza.org/?p=22402
-source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/la-coperacha-december-2025/
 summarized: true
 title: 'La Coperacha: DECEMBER 2025'

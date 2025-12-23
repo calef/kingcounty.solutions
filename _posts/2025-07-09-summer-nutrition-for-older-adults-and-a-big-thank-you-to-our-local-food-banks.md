@@ -7,7 +7,7 @@ feed_content: As we move into the heart of summer, it’s the perfect time to ta
 image_ids: []
 location_titles:
 - Eastside
-source: Eastside Friends of Seniors
+organization_title: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/july-spotlight-summer-nutrition-for-seniors-and-a-big-thank-you-to-our-local-food-banks
 summarized: true
 title: Summer Nutrition for Older Adults — and a Big Thank You to Our Local Food Banks

@@ -30,6 +30,7 @@ image_ids:
 - fd3008c54bac4e6136678e48db278cf11ff53143c9e437613aba7b34d225ac4f
 location_titles:
 - King County
+organization_title: Valley Cities Behavioral Health Care
 original_source_html: |-
   <p><em><strong>As Seen in Seattle Weekly</strong></em></p>
   <h2>For 60 years, dedicated care and community support have strengthened mental health in King County</h2>
@@ -54,7 +55,6 @@ original_source_html: |-
   </div>
   <span></span><p>The post <a>Building a stronger community through compassionate mental health care</a> appeared first on <a>Valley Cities Behavioral Health Care</a>.</p>
 rss_guid: https://valleycities.org/?p=6103
-source: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/building-a-stronger-community-through-compassionate-mental-health-care/
 summarized: true
 title: Building a stronger community through compassionate mental health care

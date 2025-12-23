@@ -6,8 +6,8 @@ feed_content: As only U.S. city to participate in international cohort, Seattle 
   of Seattle i...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/12/03/seattle-completes-two-year-united-nations-generation-restoration-program/
 summarized: true
 title: Seattle Completes Two-Year United Nations Generation Restoration Program 

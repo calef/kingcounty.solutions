@@ -10,8 +10,8 @@ feed_content_checksum: 3ebd1deeeb77df61ab2cb2d9cb73c436dbcd3d58
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 rss_guid: https://kcemergency.com/2025/12/13/north-auburn-go-now/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/13/north-auburn-go-now/
 summarized: true
 title: Auburn Alert Message – North Auburn – GO NOW

@@ -605,6 +605,7 @@ feed_content_checksum: ffbd73d4d171f0450315eac3d146f793d1fcf284
 image_ids: []
 location_titles:
 - King County
+organization_title: 'Opal: Food + Body Wisdom'
 original_source_html: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t<div>\n\t\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t<p></p>\n<p><a>Listen
   here!</a></p>\n<p>“Even within the male-centric model, women have accomplished incredible
   feats of athleticism, smashing long-held beliefs about what women can or cannot
@@ -845,7 +846,6 @@ original_source_html: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t
   agree that tha"
 published: false
 rss_guid: https://opalfoodandbody.com/?p=43997
-source: 'Opal: Food + Body Wisdom'
 source_url: https://opalfoodandbody.com/the-appetite-134-self-inquiry-4/
 summarized: true
 title: 'The Appetite 134:  Self-Inquiry Series: Nostalgia for My Eating Disorder and

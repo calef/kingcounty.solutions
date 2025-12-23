@@ -11,7 +11,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Snoqualmie Indian Tribe
+organization_title: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/snap-benefits-potentially-impacted-by-federal-government-shutdown/
 summarized: true
 title: SNAP Benefits Potentially Impacted by Federal Government Shutdown

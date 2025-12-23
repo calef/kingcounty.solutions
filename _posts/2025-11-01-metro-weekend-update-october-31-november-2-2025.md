@@ -7,7 +7,7 @@ feed_content: Weekend Service Impacts Routes 1, 2, 3, 4, 5, 7, 13, 14, 21, 24, 2
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/10/31/metro-weekend-update-october-31-november-2-2025/
 summarized: true
 title: Metro Weekend Update – October 31 – November 2, 2025

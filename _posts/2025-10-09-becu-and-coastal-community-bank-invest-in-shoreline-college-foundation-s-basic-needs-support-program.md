@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Shoreline Community College
+organization_title: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/10/09/becu-and-coastal-community-bank-invest-in-shoreline-college-foundations-basic-needs-support-program/
 summarized: true
 title: BECU and Coastal Community Bank Invest in Shoreline College Foundation’s Basic

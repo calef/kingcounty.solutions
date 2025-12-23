@@ -16,8 +16,8 @@ feed_content: |-
   The post [Notice-Special Board of Governance Meeting](https://www.vrfa.org/2025/10/notice-special-board-of-governance-meeting/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
 image_ids: []
 location_titles: []
+organization_title: Valley Regional Fire Authority
 published: false
-source: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/10/notice-special-board-of-governance-meeting/
 summarized: true
 title: Notice-Special Board of Governance Meeting

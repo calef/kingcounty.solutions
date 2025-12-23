@@ -11,13 +11,13 @@ feed_content_checksum: 2a0b2fa9f5a2c71cca7a2471a8e35d9f30581513
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 original_source_html: "(844) 965-1386 If you need assistance with damage from the
   Washington Floods, call the number above to ask for help. Crisis Cleanup will connect
   you with volunteers from local relief organizations, community groups, and faith
   communities who may be able to assist with: All services are free, but service is
   not guaranteed due to the […]"
 rss_guid: https://kcemergency.com/?p=7203
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/19/crisis-cleanup-washington-floods-home-cleanup-hotline/
 summarized: true
 title: 'Crisis Cleanup: Washington Floods Home Cleanup Hotline'

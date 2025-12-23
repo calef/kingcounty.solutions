@@ -7,12 +7,12 @@ feed_content_checksum: 947b1c6dab0af8d3c4e33981f53637bb7d474d67
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Metro Transit
 original_source_html: This week we will solemnly mark the anniversary of the murder
   of King County Metro Transit Operator Shawn Yim. Among other ceremonies, we will
   honor Shawn on Thursday, Dec. 18,...
 published: false
 rss_guid: https://kingcountymetro.blog/?p=67784
-source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/16/king-county-metro-to-briefly-pause-service-twice-on-thursday-in-honor-of-slain-transit-operator-shawn-yim/
 summarized: true
 title: King County Metro to briefly pause service twice on Thursday in honor of slain

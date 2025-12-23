@@ -35,8 +35,8 @@ feed_content_checksum: 0a607de72666c4ebc730d47792f7467e6af37378
 image_ids: []
 location_titles:
 - King County
+organization_title: Snoqualmie Indian Tribe
 rss_guid: https://snoqualmietribe.us/?p=6898
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/what-steps-to-take-if-your-home-has-flooded-and-it-is-safe-to-return/
 summarized: true
 title: What steps to take if your home has flooded and it is SAFE to RETURN!

@@ -51,7 +51,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143219/veteran-completes-final-chemotherapy-treatment/
 summarized: true
 title: Army Veteran completes final chemotherapy treatment

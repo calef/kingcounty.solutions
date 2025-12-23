@@ -399,6 +399,7 @@ image_ids:
 - 9696e5abb2983a959779a0c0add91934cc760a123be34234a460fe542c0e0f5a
 location_titles:
 - King County
+organization_title: Department of Commerce
 original_source_html: |-
   <figure><img src="https://www.commerce.wa.gov/wp-content/uploads/2025/12/Fall-sunset-1024x495.jpeg"></figure>
 
@@ -786,7 +787,6 @@ original_source_html: |-
 
   <p><strong>Do you have ideas for this newsletter? </strong>We want to showcase valuable and actionable information relevant to Commerce contractors, perspective developers, property managers, and more! If you have an idea for newsletter content, please <a>email Tim Marshall</a>.</p>
 rss_guid: https://www.commerce.wa.gov/?p=272541
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/multifamily-housing-unit-newsletter-quarter-three-2025-july-august-september/
 summarized: true
 title: 'Multifamily Housing Unit Newsletter: Quarter Three 2025 (July, August, September)'

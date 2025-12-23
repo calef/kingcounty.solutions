@@ -457,8 +457,8 @@ feed_content: |-
   </div>
 image_ids: []
 location_titles: []
+organization_title: Department of Commerce
 published: false
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/state-broadband-office-tours-new-fiber-projects-across-washington/
 summarized: true
 title: State Broadband Office tours new fiber projects across Washington

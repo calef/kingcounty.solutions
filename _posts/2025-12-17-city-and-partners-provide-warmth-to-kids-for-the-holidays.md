@@ -10,12 +10,12 @@ feed_content_checksum: 725b44e1c0006c9e5bdfb77b2b17c25d155c8d31
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: The Seattle Police Department was proud to join forces with
   the Seattle CARE Department, Accenture, and Operation Warm to bring warmth and hope
   to students at Rising Star Elementary School. Together, we provided hundreds of
   brand-new coats for children...
 rss_guid: https://spdblotter.seattle.gov/?p=44687
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/17/city-and-partners-provide-warmth-to-kids-for-the-holidays/
 summarized: true
 title: City and Partners Provide Warmth to Kids for the Holidays

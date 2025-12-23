@@ -28,6 +28,7 @@ feed_content_checksum: cd58cb1b7d94b3e71798303f47115ac886951a39
 image_ids: []
 location_titles:
 - Bellevue
+organization_title: City of Bellevue
 original_source_html: "<span>Tree removal: What to know first</span>\n<span><span>ARich</span></span>\n<span><time>Wed,
   12/17/2025 - 14:55</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>Thinking
   about removing a tree from your property? Before you break out the chainsaw, make
@@ -54,7 +55,6 @@ original_source_html: "<span>Tree removal: What to know first</span>\n<span><spa
   1 2025</time>\n</div>\n      \n    </div>\n  </div>"
 published: false
 rss_guid: 215646 at https://bellevuewa.gov
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/tree-removal-what-know-first
 summarized: true
 title: 'Tree removal: What to know first'

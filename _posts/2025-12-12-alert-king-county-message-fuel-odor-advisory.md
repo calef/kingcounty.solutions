@@ -9,9 +9,9 @@ feed_content_checksum: 64b59834896993cd96559f50b613fa229c18ece5
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 published: false
 rss_guid: https://kcemergency.com/2025/12/11/fuel-odor-advisory/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/11/fuel-odor-advisory/
 summarized: true
 title: ALERT King County Message – Fuel Odor Advisory

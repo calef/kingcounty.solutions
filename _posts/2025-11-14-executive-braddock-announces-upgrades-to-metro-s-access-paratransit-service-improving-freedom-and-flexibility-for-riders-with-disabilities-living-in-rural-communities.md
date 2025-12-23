@@ -8,7 +8,7 @@ feed_content: 'Media release from the King County Executive  Summary: King Coun
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/14/executive-braddock-announces-upgrades-to-metros-access-paratransit-service-improving-freedom-and-flexibility-for-riders-with-disabilities-living-in-rural-communities/
 summarized: true
 title: Executive Braddock announces upgrades to Metro’s Access paratransit service,

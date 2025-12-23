@@ -6,8 +6,8 @@ feed_content: Seattle police officers arrested a 39-year-old felon, armed with a
   to r...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/03/armed-felon-arrested-for-ramming-police-vehicle-with-stolen-car-injuring-officers/
 summarized: true
 title: Armed Felon Arrested for Ramming Police Vehicle with Stolen Car, Injuring Officers

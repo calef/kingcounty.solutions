@@ -86,7 +86,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: YouthCare
+organization_title: YouthCare
 source_url: https://youthcare.org/blog/youthcare-announces-strategic-plan-to-strengthen-its-core-mission/
 summarized: true
 title: YouthCare Announces Strategic Plan to Strengthen its Core Mission

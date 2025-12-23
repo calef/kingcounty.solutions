@@ -31,7 +31,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143580/ehrnie-the-eagle-takes-flight-to-boost-ehrm-awareness/
 summarized: true
 title: EHRnie the Eagle takes flight to boost EHRM awareness

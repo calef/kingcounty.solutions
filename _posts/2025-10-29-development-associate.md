@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Lahai Health Counseling
+organization_title: Lahai Health Counseling
 source_url: https://lahai.org/employment/development-associate/
 summarized: true
 title: Development Associate

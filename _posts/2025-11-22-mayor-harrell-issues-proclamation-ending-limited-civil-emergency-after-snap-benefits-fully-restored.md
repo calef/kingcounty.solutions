@@ -9,7 +9,7 @@ feed_content: Mayor Harrell’s directive provided three weeks of emergency food
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://harrell.seattle.gov/2025/11/22/mayor-harrell-issues-proclamation-ending-limited-civil-emergency-after-snap-benefits-fully-restored/
 summarized: true
 title: Mayor Harrell Issues Proclamation Ending Limited Civil Emergency After SNAP

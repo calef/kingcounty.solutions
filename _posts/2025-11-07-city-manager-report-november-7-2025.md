@@ -9,8 +9,8 @@ feed_content: 'Public Hearing: Setting Normandy Park’s Property Tax Levy The C
   rate will not exceed $1.60 per $1,000 of assessed value.'
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-november-7-2025/
 summarized: true
 title: City Manager Report – November 7, 2025

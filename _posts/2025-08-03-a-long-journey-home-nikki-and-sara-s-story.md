@@ -47,7 +47,7 @@ image_ids:
 - 1a4f38456fffb57c119095542f0d8069053ccbafb504095f8b59017a9ea4d141
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/a-long-journey-home-nikki-and-saras-story
 summarized: true
 title: 'a long journey home: Nikki and Sara’s story'

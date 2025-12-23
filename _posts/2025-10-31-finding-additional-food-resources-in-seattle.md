@@ -199,7 +199,7 @@ feed_content: '<p class="">Find your way to additional food resources throughout
 image_ids: []
 location_titles:
 - King County
-source: Rainier Valley Food Bank
+organization_title: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/finding-additional-food-resources-in-seattle
 summarized: true
 title: Finding Additional Food Resources in Seattle

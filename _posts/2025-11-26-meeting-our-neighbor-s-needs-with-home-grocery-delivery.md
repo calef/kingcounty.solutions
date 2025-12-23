@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: United Way of King County
+organization_title: United Way of King County
 source_url: https://www.uwkc.org/breaking-the-cycle-of-poverty-news/meeting-our-neighbors-needs-with-home-grocery-delivery/
 summarized: true
 title: Meeting Our Neighbor’s Needs With Home Grocery Delivery

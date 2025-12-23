@@ -3,8 +3,8 @@ date: '2025-11-04T21:04:53+00:00'
 feed_content: "![](https://yarrowpointwa.gov/wp-content/uploads/2025/11/SEPA-2025-06-DNS-Posting-Notice.jpg)"
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/notice-of-application-for-sepa-determination-of-non-significance-4601-91st-ave-ne-sd-2025-07/
 summarized: true
 title: 'NOTICE OF APPLICATION FOR SEPA DETERMINATION OF NON-SIGNIFICANCE: 4601 91st

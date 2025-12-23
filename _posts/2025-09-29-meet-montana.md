@@ -23,8 +23,8 @@ feed_content: |-
   <p>The post <a href="https://thenccs.org/meet-montana/">Meet Montana!</a> appeared first on <a href="https://thenccs.org">The NCCS</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: The National Children's Cancer Society - Financial Assistance
 published: false
-source: The National Children's Cancer Society - Financial Assistance
 source_url: https://thenccs.org/meet-montana/
 summarized: true
 title: Meet Montana!

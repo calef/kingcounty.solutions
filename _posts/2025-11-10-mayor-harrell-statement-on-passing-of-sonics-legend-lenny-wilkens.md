@@ -6,8 +6,8 @@ feed_content: Seattle – Today, Mayor Bruce Harrell released the following stat
   basketball. One of...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/11/10/mayor-harrell-statement-on-passing-of-sonics-legend-lenny-wilkens/
 summarized: true
 title: Mayor Harrell Statement on Passing of Sonics Legend Lenny Wilkens 

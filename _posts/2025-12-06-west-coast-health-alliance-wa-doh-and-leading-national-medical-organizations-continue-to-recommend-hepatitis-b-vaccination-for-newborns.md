@@ -120,7 +120,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
 image_ids: []
 location_titles:
 - King County
-source: Department of Health
+organization_title: Department of Health
 source_url: https://doh.wa.gov/newsroom/west-coast-health-alliance-wa-doh-and-leading-national-medical-organizations-continue-recommend
 summarized: true
 title: West Coast Health Alliance, WA DOH, and Leading National Medical Organizations

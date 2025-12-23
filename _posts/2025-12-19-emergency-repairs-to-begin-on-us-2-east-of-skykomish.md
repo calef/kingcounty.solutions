@@ -6,6 +6,7 @@ feed_content_checksum: 428d2250748cc116fdf41f91043eddec44eeb3bb
 image_ids: []
 location_titles:
 - King County
+organization_title: Washington State Department of Transportation
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"
   content=\"SKYKOMISH – Emergency work to remove debris on US 2 east of Skykomish
@@ -182,7 +183,6 @@ original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"
   block-block-content35080349-cc"
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/emergency-repairs-begin-us-2-east-skykomish
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/emergency-repairs-begin-us-2-east-skykomish
 summarized: true
 title: Emergency repairs to begin on US 2 east of Skykomish

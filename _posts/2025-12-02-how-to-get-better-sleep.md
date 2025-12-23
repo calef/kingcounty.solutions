@@ -149,7 +149,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143280/how-to-get-better-sleep/
 summarized: true
 title: How to get better sleep

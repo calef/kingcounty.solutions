@@ -9,7 +9,7 @@ feed_content: Seattle Public Schools, in collaboration with the Seattle Visiting
 image_ids: []
 location_titles:
 - King County
-source: King County School Health
+organization_title: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/11/14/this-weekend-flu-and-covid-vaccine-clinics-in-seattle/
 summarized: true
 title: 'THIS WEEKEND: Flu and COVID Vaccine Clinics in Seattle'

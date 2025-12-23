@@ -31,6 +31,7 @@ image_ids:
 - a5caf5ca45f3267ee7b911c0d7343b4876e448d31bae73926fd69caf2eb7a4a2
 location_titles:
 - King County
+organization_title: Washington Center for Deaf and Hard of Hearing Youth
 original_source_html: |-
   <div>
   <div><img src="https://www.cdhy.wa.gov/wp-content/uploads/2025/12/2026-Meet-Ups-791x1024.png"></div>
@@ -56,7 +57,6 @@ original_source_html: |-
   <p><strong><span>Tacoma – </span></strong><span><a>Bluebeard Coffee on 6th Avenue </a></span><span><strong>–</strong> <a>(2201 6th Ave, Tacoma, WA 98403)</a></span></p>
   <p><strong><span>Vancouver – </span></strong><span><a>River Maiden Coffee</a> <strong>– </strong></span><span>(5301 E Mill Plain Blvd, Vancouver, WA 98661)</span></p>
 rss_guid: https://www.cdhy.wa.gov/?p=11784
-source: Washington Center for Deaf and Hard of Hearing Youth
 source_url: https://www.cdhy.wa.gov/local-meet-ups-becoming-connection-in-the-community-2/
 summarized: true
 title: 'Local Meet-Ups – Becoming: Connection in the Community'

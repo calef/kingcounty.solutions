@@ -183,7 +183,7 @@ image_ids:
 - 67a62d84448ed7e80d33b7ba83c1a2fe6c0f2fc33464e5424f77658eeb9bcc06
 location_titles:
 - King County
-source: YouthCare
+organization_title: YouthCare
 source_url: https://youthcare.org/blog/a-message-from-our-ceo-why-were-making-changes-and-what-were-protecting/
 summarized: true
 title: 'A Message from our CEO: Why We’re Making Changes – and What We’re Protecting'

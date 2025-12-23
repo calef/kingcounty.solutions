@@ -31,8 +31,8 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   the top half of the cookie on top of the cranberry filled side. </p>'
 image_ids: []
 location_titles: []
+organization_title: Rainier Valley Food Bank
 published: false
-source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/cranberry-linzer-cookies
 summarized: true
 title: Cranberry Linzer Cookies

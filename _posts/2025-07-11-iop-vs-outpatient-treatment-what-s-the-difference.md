@@ -136,7 +136,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
 image_ids: []
 location_titles:
 - King County
-source: Lakeside-Milam Recovery Centers
+organization_title: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/iop-vs-outpatient-treatment-whats-the-difference/
 summarized: true
 title: 'IOP vs. Outpatient Treatment: What’s the Difference?'

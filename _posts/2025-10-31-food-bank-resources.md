@@ -128,7 +128,7 @@ image_ids:
 - 247574ba3dc5de1f82fe04272317e2b297ca0267bdb36fe5ebd7918fab51c1e0
 location_titles:
 - King County
-source: Refugee Women's Alliance
+organization_title: Refugee Women's Alliance
 source_url: https://www.rewa.org/food-bank-resources/?utm_source=rss&utm_medium=rss&utm_campaign=food-bank-resources
 summarized: true
 title: Food Bank Resources

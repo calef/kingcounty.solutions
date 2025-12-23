@@ -12,6 +12,7 @@ feed_content_checksum: 8174a52af1cd18b9a069058ebdaf92eb7aa91e55
 image_ids: []
 location_titles:
 - King County
+organization_title: Friends of Youth
 original_source_html: This month, Friends of Youth hosted our first End-of-Year Celebration  at
   Novelty Hill – Januik Winery , bringing together community members, partners, and
   supporters to reflect, reconnect, and recommit to the work ahead. It was a joyful
@@ -19,7 +20,6 @@ original_source_html: This month, Friends of Youth hosted our first End-of-Year 
   During the evening, we shared the challenges young people are facing today and shared
   our vision of a future  where every Friends of Youth young person and family experiences...
 rss_guid: 6943bfe33bbf35c556663cba
-source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/nourishing-futures-end-of-year-celebration
 summarized: true
 title: 'nourishing futures: end of year celebration'

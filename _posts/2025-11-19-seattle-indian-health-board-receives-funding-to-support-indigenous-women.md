@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Seattle Indian Health Board
+organization_title: Seattle Indian Health Board
 source_url: https://www.sihb.org/2025/11/seattle-indian-health-board-receives-funding-to-support-indigenous-women/
 summarized: true
 title: Seattle Indian Health Board Receives Funding to Support Indigenous Women

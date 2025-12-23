@@ -8,13 +8,13 @@ feed_content_checksum: baaad0624c4ece053af9f0a0d8d09f9441e70e3c
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: Seattle police officers arrested a 27-year-old felon after hiding
   a gun and running from officers in Pioneer Square Sunday morning. On Dec. 14 at
   about 1:50 a.m., patrol officers responded to reports of a physical fight near 2nd
   Avenue South and South ...
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44676
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/15/seven-time-felon-arrested-after-hiding-gun-running-from-cops/
 summarized: true
 title: Seven-Time Felon Arrested After Hiding Gun, Running from Cops

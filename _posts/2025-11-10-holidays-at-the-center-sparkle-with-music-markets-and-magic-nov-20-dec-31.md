@@ -6,8 +6,8 @@ feed_content: 'Note: Links below will open new windows. Seattle Center celebrate
   with lights, music,...'
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://centerspotlight.seattle.gov/2025/11/10/holidays-at-the-center-sparkle-with-music-markets-and-magic/
 summarized: true
 title: Holidays at the Center Sparkle with Music, Markets, and Magic | Nov 20 – Dec

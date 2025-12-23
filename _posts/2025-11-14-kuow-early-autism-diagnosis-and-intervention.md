@@ -125,7 +125,7 @@ image_ids:
 - bf974eb65d293fcbef512f4dbee6bf9c2d7838807a8c043d1dcc7f22fbd3b811
 location_titles:
 - King County
-source: Institute on Human Development and Disability
+organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/14/kuow-early-autism-diagnosis-and-intervention/
 summarized: true
 title: 'KUOW: Early Autism Diagnosis and Intervention'

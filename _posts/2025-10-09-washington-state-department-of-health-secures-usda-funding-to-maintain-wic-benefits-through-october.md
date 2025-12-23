@@ -34,7 +34,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Department of Health
+organization_title: Department of Health
 source_url: https://doh.wa.gov/newsroom/washington-state-department-health-secures-usda-funding-maintain-wic-benefits-through-october
 summarized: true
 title: Washington State Department of Health secures USDA funding to maintain WIC

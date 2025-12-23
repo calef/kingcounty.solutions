@@ -8,7 +8,7 @@ feed_content: <p>The post <a href="https://casa-latina.org/welcome-alexis-rinck-
 image_ids: []
 location_titles:
 - King County
-source: Casa Latina
+organization_title: Casa Latina
 source_url: https://casa-latina.org/welcome-alexis-rinck-keynote/
 summarized: true
 title: Welcome Councilmember Alexis Mercedes Rinck, 2025 Rhythms of Resilience Keynote

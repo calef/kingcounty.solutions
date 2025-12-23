@@ -33,8 +33,8 @@ feed_content_checksum: 75f1565fc24387a18faf68dd77c0f34aab6d381c
 image_ids: []
 location_titles:
 - King County
+organization_title: Solid Ground
 rss_guid: https://www.solid-ground.org/?p=72550
-source: Solid Ground
 source_url: https://www.solid-ground.org/what-were-doing-locally-to-limit-the-harm-of-federal-budget-cuts/
 summarized: true
 title: What we’re doing locally to limit the harm of federal budget cuts 

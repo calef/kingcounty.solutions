@@ -57,7 +57,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143180/lung-cancer-screening-early-detection-save-life/
 summarized: true
 title: 'Lung cancer screening: Early detection can save your life'

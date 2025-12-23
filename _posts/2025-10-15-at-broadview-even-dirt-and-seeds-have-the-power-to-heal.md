@@ -571,7 +571,7 @@ image_ids:
 - 2b116907ea0e3d5645544de9846b2a6430acb0987ddc7779fd1d660cff5fcde6
 location_titles:
 - King County
-source: Solid Ground
+organization_title: Solid Ground
 source_url: https://www.solid-ground.org/at-broadview-even-dirt-and-seeds-have-the-power-to-heal/
 summarized: true
 title: At Broadview, even dirt and seeds have the power to heal 

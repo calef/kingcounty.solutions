@@ -21,7 +21,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Hospital District No. 4 (Snoqualmie Valley Hospital)
+organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/native-american-heritage-month/
 summarized: true
 title: Celebrating Native American Heritage Month

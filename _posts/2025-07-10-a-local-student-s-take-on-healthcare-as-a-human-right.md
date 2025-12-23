@@ -10,7 +10,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: CarePoint Clinic
+organization_title: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/local-students-take-on-healthcare-as-fundamental-right
 summarized: true
 title: A Local Student's Take on Healthcare as a Human Right

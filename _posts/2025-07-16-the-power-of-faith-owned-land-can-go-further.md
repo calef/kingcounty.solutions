@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Imagine Housing
+organization_title: Imagine Housing
 source_url: https://imaginehousing.org/the-power-of-faith-owned-land-can-go-further/
 summarized: true
 title: The Power of Faith-Owned Land Can Go Further

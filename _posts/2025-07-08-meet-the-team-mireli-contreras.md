@@ -43,7 +43,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Bellevue LifeSpring
+organization_title: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/meet-mireli/?utm_source=rss&utm_medium=rss&utm_campaign=meet-mireli
 summarized: true
 title: 'Meet the team: Mireli Contreras'

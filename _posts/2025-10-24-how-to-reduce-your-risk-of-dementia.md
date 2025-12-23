@@ -41,7 +41,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Pacific Medical Centers
+organization_title: Pacific Medical Centers
 source_url: https://www.pacificmedicalcenters.org/healthy-every-day/how-to-reduce-your-risk-of-dementia/
 summarized: true
 title: How to Reduce Your Risk of Dementia

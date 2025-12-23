@@ -33,8 +33,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   21 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/officer-involved-shooting-8-8-25-investigation
 summarized: true
 title: King County investigation into Aug. 8, 2025 officer-involved shooting

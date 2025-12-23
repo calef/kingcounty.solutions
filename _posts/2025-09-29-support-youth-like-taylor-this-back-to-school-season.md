@@ -7,7 +7,7 @@ feed_content: As summer ends and students prepare for the new school year, we’
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/support-youth-like-taylor-this-back-to-school-season
 summarized: true
 title: support youth like taylor this back-to-school season

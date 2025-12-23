@@ -15,7 +15,7 @@ image_ids:
 - 3b78e36104794a6048f1fc06ff6d3b3870bc12c2d25c247ee9145778af3ab8bb
 location_titles:
 - King County
-source: Encompass
+organization_title: Encompass
 source_url: https://encompassnw.org/building-bravery-and-belonging-at-confidence-camp-halloween-edition/
 summarized: true
 title: 'Building Bravery and Belonging at Confidence Camp: Halloween Edition'

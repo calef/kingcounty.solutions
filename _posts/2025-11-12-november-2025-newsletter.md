@@ -4,8 +4,8 @@ feed_content: <p>The post <a href="https://orionworks.org/news/newsletter/novemb
   2025 Newsletter</a> appeared first on <a href="https://orionworks.org">Orion Industries</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Orion Industries
 published: false
-source: Orion Industries
 source_url: https://orionworks.org/news/newsletter/november-newsletter-2025/
 summarized: true
 title: November 2025 Newsletter

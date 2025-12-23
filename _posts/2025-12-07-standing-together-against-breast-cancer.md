@@ -86,7 +86,7 @@ feed_content_checksum: 5078cc4f7bae9e18e482bd8e8ce5a4db9f01892c
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143332/standing-together-against-breast-cancer/
 summarized: true
 title: Standing together against breast cancer

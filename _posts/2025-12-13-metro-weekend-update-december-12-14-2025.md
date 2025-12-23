@@ -7,9 +7,9 @@ feed_content_checksum: 5e032ab47fe3cab694c64601d3c191c6cb7f57d8
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Metro Transit
 published: false
 rss_guid: https://kingcountymetro.blog/?p=67727
-source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/12/metro-weekend-update-december-12-14-2025/
 summarized: true
 title: Metro Weekend Update – December 12-14, 2025

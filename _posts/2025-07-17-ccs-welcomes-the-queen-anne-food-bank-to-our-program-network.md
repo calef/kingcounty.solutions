@@ -49,7 +49,7 @@ image_ids:
 - 9999eae0009b82bb6aed01af80badd5ea5d01d3aa14e7e4ed6e7a3e0fcb44ea6
 location_titles:
 - King County
-source: Catholic Community Services of Western Washington
+organization_title: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/ccs-welcomes-the-queen-anne-food-bank-to-our-program-network/?utm_source=rss&utm_medium=rss&utm_campaign=ccs-welcomes-the-queen-anne-food-bank-to-our-program-network
 summarized: true
 title: CCS Welcomes the Queen Anne Food Bank to Our Program Network 

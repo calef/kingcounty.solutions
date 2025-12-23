@@ -141,7 +141,7 @@ image_ids:
 - 40f249dabd16b252087efb29e8a7cbc5ce00a5bde821fb69840284fd961a7f01
 location_titles:
 - King County
-source: Inatai Foundation
+organization_title: Inatai Foundation
 source_url: https://inatai.org/news/seven-years-of-learning-and-a-vision-for-the-next-50-years/
 summarized: true
 title: 'Nichole June Maher: Seven Years of Learning and a Vision for the Next 50 Years'

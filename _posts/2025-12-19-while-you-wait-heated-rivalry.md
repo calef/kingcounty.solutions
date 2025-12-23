@@ -20,6 +20,7 @@ feed_content_checksum: 19ec8e696f81a599bac7c78039985c7b6ac9ab99
 image_ids: []
 location_titles:
 - King County
+organization_title: The Seattle Public Library
 original_source_html: |-
   <p>Perhaps you are enjoying the new television series <em>Heated Rivalry</em>. Maybe you have watched every episode as it has been released, read <a>this interview</a> with the actors and <a>this one too</a>. You probably found <a>this interview with Chala Hunter</a>, the intimacy coordinator for the series, fascinating. Perchance you even started learning Russian for free with your library card and <a>Mango Languages</a> so you can understand the conversations between Ilya and his father. If so, there is a strong possibility that you are also one of the over 500 people with the eBook of <strong><a>Heated Rivalry</a></strong> by Rachel Reid on hold, wondering what you could possibly read while waiting for the full story of Scott, Shane, Ilya, and other players to be named later. The Seattle Public Library is here to support you during this difficult time.</p>
   <ul>
@@ -38,7 +39,6 @@ original_source_html: |-
   <p><em>~ posted by Robin</em></p>
 published: false
 rss_guid: https://blog.spl.org/?p=93554
-source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/19/while-you-wait-heated-rivalry/
 summarized: true
 title: 'While You Wait: Heated Rivalry'

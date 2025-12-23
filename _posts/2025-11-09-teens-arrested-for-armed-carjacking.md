@@ -6,8 +6,8 @@ feed_content: Seattle police officers arrested two teens, 15 and 17, for armed c
   Drive. ...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/09/teens-arrested-for-armed-carjacking/
 summarized: true
 title: Teens Arrested for Armed Carjacking

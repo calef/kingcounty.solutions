@@ -10,7 +10,7 @@ feed_content: This year, we’re celebrating 30 years of our Support, Advocacy, 
 image_ids: []
 location_titles:
 - King County
-source: DESC
+organization_title: DESC
 source_url: https://www.desc.org/celebrating-30-years-of-comprehensive-care-with-descs-sage-team/
 summarized: true
 title: Celebrating 30 Years of Comprehensive Care with DESC’s SAGE Team

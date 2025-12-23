@@ -34,7 +34,7 @@ image_ids:
 - ac28bd1f575df670f35224a97c4be5d3cea9627a540f96d5b3492095778189e5
 location_titles:
 - King County
-source: Everyone for Veterans
+organization_title: Everyone for Veterans
 source_url: https://www.everyoneforveterans.org/blog/patient-centered-care-in-dentistry-treating-the-person-not-just-the-tooth
 summarized: true
 title: 'Patient-Centered Care in Dentistry: Treating the Person, Not Just the Tooth'

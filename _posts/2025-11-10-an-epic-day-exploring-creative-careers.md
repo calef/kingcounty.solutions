@@ -9,7 +9,7 @@ feed_content: Over 500 attendees flooded into McCaw Hall at Seattle Center on Tu
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/11/10/an-epic-day-exploring-creative-careers/
 summarized: true
 title: An Epic Day Exploring Creative Careers

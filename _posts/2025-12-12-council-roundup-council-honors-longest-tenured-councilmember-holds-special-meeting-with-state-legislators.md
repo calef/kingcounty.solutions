@@ -48,9 +48,9 @@ feed_content_checksum: f15a6fac8eba63ed0eed49bdb4b1147c81ace03a
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Bellevue
 published: false
 rss_guid: 215531 at https://bellevuewa.gov
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-12-9-25
 summarized: true
 title: 'Council Roundup: Council honors longest-tenured councilmember, holds special

@@ -9,7 +9,7 @@ feed_content: Around the world, people may know Seattle because of the Space Nee
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/21/everybody-deserves-to-feel-safe-how-the-city-of-seattle-is-investing-in-collaborative-solutions-to-community-safety/
 summarized: true
 title: 'Everybody Deserves to Feel Safe: How the City of Seattle is Investing in Collaborative

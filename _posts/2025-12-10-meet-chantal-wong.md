@@ -54,9 +54,9 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
 feed_content_checksum: 3b4937522e9b1bb57783f3aa972104704a1d85d6
 image_ids: []
 location_titles: []
+organization_title: Inatai Foundation
 published: false
 rss_guid: https://inatai.org/?p=14744
-source: Inatai Foundation
 source_url: https://inatai.org/news/meet-chantal-wong/
 summarized: true
 title: Meet Chantal Wong

@@ -38,7 +38,7 @@ feed_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  at
 image_ids: []
 location_titles:
 - King County
-source: Boyer Children's Clinic
+organization_title: Boyer Children's Clinic
 source_url: https://www.boyercc.org/family-stories/cayden-2/
 summarized: true
 title: Calvontre Story

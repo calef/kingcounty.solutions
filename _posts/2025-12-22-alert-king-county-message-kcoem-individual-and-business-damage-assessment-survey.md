@@ -11,13 +11,13 @@ feed_content_checksum: 3458da38d969a59d658f8a7e69ed9d52c602da7b
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 original_source_html: 'Hello, This is King County Emergency Management. We are evaluating
   impacts from the recent flooding. Please respond to the survey if you experienced
   damages or losses to private property or businesses. For residential and individuals
   (including renters) go to: KCOEM Residential Impact Survey and for businesses go
   to: KCOEM Business Impact Survey. For other recovery […]'
 rss_guid: https://kcemergency.com/2025/12/22/kcoem-individual-and-business-damage-assessment-survey/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/22/kcoem-individual-and-business-damage-assessment-survey/
 summarized: true
 title: ALERT King County Message – KCOEM Individual and Business Damage Assessment

@@ -33,7 +33,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Youth Eastside Services
+organization_title: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/donor-spotlight-lexi-nudelman/?utm_source=rss&utm_medium=rss&utm_campaign=donor-spotlight-lexi-nudelman
 summarized: true
 title: 'Donor Spotlight: Lexi Nudelman'

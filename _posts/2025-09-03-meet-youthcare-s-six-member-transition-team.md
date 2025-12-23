@@ -93,7 +93,7 @@ image_ids:
 - b050654cd7f222f54cc00bef5c295884fcc368679ad0a1f2b308c115dea608fc
 location_titles:
 - King County
-source: YouthCare
+organization_title: YouthCare
 source_url: https://youthcare.org/blog/meet-youthcares-six-member-transition-team/
 summarized: true
 title: Meet YouthCare’s Six-Member Transition Team

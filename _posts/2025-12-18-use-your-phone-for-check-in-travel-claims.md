@@ -215,6 +215,7 @@ feed_content_checksum: a24b8729e62a650eb15292bb10ce266cc3931153
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>VA offers many ways to manage your care</h2>
 
@@ -425,7 +426,6 @@ original_source_html: |-
 
   <p>This article was originally published on the <a>VA Sheridan Health care System site</a>and has been edited for style and clarity.  </p>
 rss_guid: https://news.va.gov/?p=144021
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144021/use-your-phone-for-check-in-travel-claims/
 summarized: true
 title: Use your phone for check-in, travel claims

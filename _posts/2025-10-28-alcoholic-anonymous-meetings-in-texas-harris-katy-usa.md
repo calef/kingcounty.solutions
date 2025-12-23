@@ -72,8 +72,8 @@ feed_content: |-
   <p>The post <a href="https://www.residencexii.org/alcoholic-anonymous-meetings-katy/">Alcoholic Anonymous Meetings in Texas, Harris, Katy, USA</a> appeared first on <a href="https://www.residencexii.org">Residence XII</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Residence XII
 published: false
-source: Residence XII
 source_url: https://www.residencexii.org/alcoholic-anonymous-meetings-katy/
 summarized: true
 title: Alcoholic Anonymous Meetings in Texas, Harris, Katy, USA

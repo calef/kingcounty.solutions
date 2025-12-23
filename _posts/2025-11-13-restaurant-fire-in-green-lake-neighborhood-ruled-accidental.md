@@ -5,8 +5,8 @@ feed_content: At 3:27 a.m. on Nov. 13, the Seattle Fire Department’s Fire Alar
   of E. Green Lake Dr. N.
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://fireline.seattle.gov/2025/11/13/restaurant-fire-in-green-lake-neighborhood-ruled-accidental/
 summarized: true
 title: Restaurant fire in Green Lake neighborhood ruled accidental

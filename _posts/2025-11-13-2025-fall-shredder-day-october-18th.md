@@ -6,8 +6,8 @@ feed_content: |-
   </div></div></div>
 image_ids: []
 location_titles: []
+organization_title: City of Medina
 published: false
-source: City of Medina
 source_url: https://www.medina-wa.gov/police/page/2025-fall-shredder-day-october-18th
 summarized: true
 title: 2025 Fall Shredder Day - October 18th

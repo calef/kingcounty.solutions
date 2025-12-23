@@ -59,7 +59,7 @@ image_ids:
 - 570f8162b84bd1d2828fefa1365a83adb0207b37aa42e98a513255bc235df11a
 location_titles:
 - Bellevue
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/safe-routes-to-school
 summarized: true
 title: Bellevue launches Safe Routes to School program

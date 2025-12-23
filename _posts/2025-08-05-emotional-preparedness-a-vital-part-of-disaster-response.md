@@ -15,7 +15,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Vibrant Emotional Health
+organization_title: Vibrant Emotional Health
 source_url: https://www.vibrant.org/emotional-preparedness-a-vital-part-of-disaster-response/
 summarized: true
 title: 'Emotional Preparedness: A Vital Part of Disaster Response'

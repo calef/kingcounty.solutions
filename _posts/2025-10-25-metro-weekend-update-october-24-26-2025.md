@@ -8,7 +8,7 @@ feed_content: Weekend Service Impacts Construction Route 8 is rerouted off E De
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/10/24/metro-weekend-update-october-24-26-2025/
 summarized: true
 title: Metro Weekend Update – October 24-26, 2025

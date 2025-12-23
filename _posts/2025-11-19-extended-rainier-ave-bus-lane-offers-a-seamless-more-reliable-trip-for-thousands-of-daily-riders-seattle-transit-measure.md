@@ -9,7 +9,7 @@ feed_content: 'Blog stats: 800 words &#124; 4-minute read At-a-glance: Attention
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/11/19/extended-rainier-ave-s-bus-lanes/
 summarized: true
 title: Extended Rainier Ave Bus Lane Offers a Seamless, More Reliable Trip for Thousands

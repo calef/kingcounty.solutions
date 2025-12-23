@@ -7,9 +7,9 @@ feed_content_checksum: a46899371bd4715ab78f7265136f4796ebbe911d
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 published: false
 rss_guid: https://primarysources.seattle.gov/?p=126
-source: City of Seattle
 source_url: https://primarysources.seattle.gov/2025/12/12/seattle-cemetery-removal-reburial-register/
 summarized: true
 title: Seattle Cemetery Removal/Reburial Register

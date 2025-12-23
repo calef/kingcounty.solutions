@@ -13,7 +13,7 @@ image_ids:
 - dc392afb5b9b5646705175788f6413de00080a1bd54abb4406c22e6460f425e7
 location_titles:
 - King County
-source: Wallingford Community Senior Center
+organization_title: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/dshs-mobile-office-dec-22-2025/
 summarized: true
 title: DSHS Mobile Office, Dec. 22, 2025

@@ -7,8 +7,8 @@ feed_content: "Service Details for Arlene Ventura\n\nWednesday, November 5th  \n
   Meal and Remembrance Programming,  \nSnoqualmie Casino & Hotel Ballroom\n\n[![](https://snoqualmietribe.us/wp-content/uploads/2025/10/Service-Details-Arlene-Ventura-700x587.png)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Service-Details-Arlene-Ventura.png)"
 image_ids: []
 location_titles: []
+organization_title: Snoqualmie Indian Tribe
 published: false
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/we-respectfully-share-these-details-about-the-upcoming-services-for-tribal-elder-arlene-ventura/
 summarized: true
 title: We respectfully share these details about the upcoming services for Tribal

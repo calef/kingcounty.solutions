@@ -37,8 +37,8 @@ feed_content: |-
   <p>Commerce concluded its HB 1181 rulemaking this fall and will publish updated climate planning guidance in December. Learn more on our <a href="https://www.commerce.wa.gov/growth-management/climate-planning/climate-planning-guidance/">climate planning guidance webpage</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Department of Commerce
 published: false
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/new-paper-spotlights-washingtons-leadership-in-local-climate-action/
 summarized: true
 title: New paper spotlights Washington’s leadership in local climate action

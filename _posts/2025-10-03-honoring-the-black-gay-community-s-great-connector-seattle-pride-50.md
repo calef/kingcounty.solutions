@@ -9,7 +9,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Neighborhood House
+organization_title: Neighborhood House
 source_url: https://nhwa.org/2025/10/03/honoring-the-black-gay-communitys-great-connector-seattle-pride-50/
 summarized: true
 title: Honoring the Black gay community’s great connector | Seattle Pride 50

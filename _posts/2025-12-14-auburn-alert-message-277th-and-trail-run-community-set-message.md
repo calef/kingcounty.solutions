@@ -9,9 +9,9 @@ feed_content_checksum: 6aa8f5405fc5a680c77abc29db2ebb388b3b1e95
 image_ids: []
 location_titles:
 - South King County
+organization_title: King County Emergency Management
 published: false
 rss_guid: https://kcemergency.com/2025/12/13/277th-and-trail-run-community-set-message/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/13/277th-and-trail-run-community-set-message/
 summarized: true
 title: Auburn alert message -277th and Trail Run Community – “Set Message”

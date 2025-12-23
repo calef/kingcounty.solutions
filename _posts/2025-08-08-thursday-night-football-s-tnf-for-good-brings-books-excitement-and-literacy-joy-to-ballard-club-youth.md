@@ -21,7 +21,7 @@ image_ids:
 - 5975d044f366188be42895b1127ea672d847769e88cb9124ec535be2e98f9615
 location_titles:
 - King County
-source: Boys & Girls Clubs of King County
+organization_title: Boys & Girls Clubs of King County
 source_url: https://positiveplace.org/tnfbringsbookstoballardclub/
 summarized: true
 title: Thursday Night Football’s TNF For Good Brings Books, Excitement, and Literacy

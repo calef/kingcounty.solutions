@@ -56,8 +56,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"datetime\">October 14 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/innovation-challenge-partners
 summarized: true
 title: Bellevue selects Civic Innovation Challenge partners

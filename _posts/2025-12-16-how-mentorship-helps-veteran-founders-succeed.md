@@ -71,6 +71,7 @@ feed_content_checksum: 28f692c71a16e5ebffd07678d75ce2ece4c5aafd
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <p>The sharing of non-VA information does not constitute an endorsement of products or services by the Department of Veterans Affairs. Veterans should always verify information with the organization offering the program.</p>
 
@@ -136,7 +137,6 @@ original_source_html: |-
 
   <p>Learn more about DAV Patriot Boot Camp at patriotbootcamp.org.</p>
 rss_guid: https://news.va.gov/?p=143919
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143919/how-mentorship-helps-veteran-founders-succeed/
 summarized: true
 title: How mentorship helps Veteran founders succeed

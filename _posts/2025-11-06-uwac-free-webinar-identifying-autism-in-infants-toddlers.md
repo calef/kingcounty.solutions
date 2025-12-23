@@ -127,7 +127,7 @@ image_ids:
 - 0b5bd77843c14a1074e4c2cb905d8457a33e5c4abb3d675fd2272110ef43b1d3
 location_titles:
 - King County
-source: Institute on Human Development and Disability
+organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/06/uwac-free-webinar-identifying-autism-in-infants-toddlers/
 summarized: true
 title: 'UWAC Free Webinar: Identifying Autism in Infants & Toddlers'

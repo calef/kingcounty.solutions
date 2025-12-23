@@ -36,8 +36,8 @@ feed_content_checksum: 7ae193c96d7be4a586a6e84f715164d72f89d238
 image_ids: []
 location_titles:
 - Bellevue
+organization_title: City of Bellevue
 rss_guid: 215541 at https://bellevuewa.gov
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/finding-right-help-housing-property-questions
 summarized: true
 title: Finding the right help for housing and property questions

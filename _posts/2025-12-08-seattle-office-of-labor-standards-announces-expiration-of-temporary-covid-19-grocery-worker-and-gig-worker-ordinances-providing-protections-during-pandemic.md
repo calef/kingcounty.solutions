@@ -12,7 +12,7 @@ feed_content_checksum: 46cd8026ab987b8143250401572a0aa048835cdc
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://news.seattle.gov/2025/12/08/seattle-office-of-labor-standards-announces-expiration-of-temporary-covid-19-grocery-worker-and-gig-worker-ordinances-providing-protections-during-pandemic/
 summarized: true
 title: Seattle Office of Labor Standards Announces Expiration of Temporary COVID-19

@@ -7,8 +7,8 @@ feed_content: |-
   <p><a href="https://camfed.org/youth-researchers-tanzania-zimbabwe/" rel="nofollow">Source</a></p>
 image_ids: []
 location_titles: []
+organization_title: CAMFED - Campaign for Female Education
 published: false
-source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/youth-researchers-tanzania-zimbabwe/
 summarized: true
 title: Youth researchers in Tanzania and Zimbabwe take the lead in livelihoods research

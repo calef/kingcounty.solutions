@@ -16,7 +16,7 @@ feed_content: "The City of Carnation is accepting applications for an Associatio
 image_ids: []
 location_titles:
 - Carnation
-source: City of Carnation
+organization_title: City of Carnation
 source_url: https://www.carnationwa.gov/scholarship-nomination-opportunity/
 summarized: true
 title: Scholarship Nomination Opportunity

@@ -11,7 +11,7 @@ feed_content_checksum: 3a16fd29547fb09992435c003aa799ae788364ae
 image_ids: []
 location_titles:
 - King County
-source: King County School Health
+organization_title: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/11/21/deel-invites-seattle-youth-and-families-to-every-child-ready-community-conversations-series/
 summarized: true
 title: DEEL Invites Seattle Youth and Families to Every Child Ready Community Conversations

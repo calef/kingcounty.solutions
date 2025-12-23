@@ -5,8 +5,8 @@ feed_content: |-
   <p>The post <a href="https://firstchurchseattle.org/outdoor-activities-club-interest-form/">Outdoor Activities Club Interest Form</a> appeared first on <a href="https://firstchurchseattle.org">First Church Seattle</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: First Church Seattle
 published: false
-source: First Church Seattle
 source_url: https://firstchurchseattle.org/outdoor-activities-club-interest-form/
 summarized: true
 title: Outdoor Activities Club Interest Form

@@ -74,7 +74,7 @@ feed_content: '<p class="">The holidays are just around the corner! Explore thes
 image_ids: []
 location_titles:
 - King County
-source: Rainier Valley Food Bank
+organization_title: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/free-thanksgiving-meals-in-the-seattle-area
 summarized: true
 title: Free Community Thanksgiving Meals in the Seattle Area

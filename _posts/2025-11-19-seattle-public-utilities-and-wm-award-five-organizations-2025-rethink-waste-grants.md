@@ -9,7 +9,7 @@ feed_content: On November 19, Seattle Public Utilities (SPU) and WM announced th
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/19/seattle-public-utilities-and-wm-award-five-organizations-2025-rethink-waste-grants/
 summarized: true
 title: Seattle Public Utilities and WM Award Five Organizations 2025 ReThink Waste

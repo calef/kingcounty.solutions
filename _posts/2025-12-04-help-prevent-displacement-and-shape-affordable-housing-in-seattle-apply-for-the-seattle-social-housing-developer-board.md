@@ -9,7 +9,7 @@ feed_content: Can you devote your time to helping your community? The Seattle 
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/04/help-prevent-displacement-and-shape-affordable-housing-in-seattle-apply-for-the-seattle-social-housing-developer-board/
 summarized: true
 title: Help Prevent Displacement and Shape Affordable Housing in Seattle. Apply for

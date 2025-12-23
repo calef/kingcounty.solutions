@@ -142,7 +142,7 @@ image_ids:
 - fa0ed03fe3f08870df318646b8049f56616c842860ea9362b26cb684080796ca
 location_titles:
 - King County
-source: BrightSpark
+organization_title: BrightSpark
 source_url: https://www.brightspark.org/2025/11/capitol-courier-its-time-to-celebrate/
 summarized: true
 title: 'Capitol Courier: It’s Time to Celebrate!'

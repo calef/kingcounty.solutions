@@ -69,7 +69,7 @@ feed_content_checksum: 8f18d7b30f20a2322d888a421dca14820e578170
 image_ids: []
 location_titles:
 - King County
-source: Northwest Harvest
+organization_title: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/new-snap-work-requirements-start-december-1-what-they-mean-for-washington-families/
 summarized: true
 title: 'New SNAP Work Requirements Start December 1: What They Mean for Washington

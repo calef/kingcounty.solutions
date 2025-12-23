@@ -102,7 +102,7 @@ image_ids:
 - b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 location_titles:
 - King County
-source: BrightSpark
+organization_title: BrightSpark
 source_url: https://www.brightspark.org/2025/11/we-have-so-much-to-be-thankful-for-and-youre-part-of-it/
 summarized: true
 title: We have so much to be thankful for and you’re part of it!

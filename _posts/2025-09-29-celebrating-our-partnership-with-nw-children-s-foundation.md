@@ -7,7 +7,7 @@ feed_content: We are thrilled to celebrate NW Children’s Foundation for their 
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/celebrating-our-partnership-with-nw-children-s-foundation
 summarized: true
 title: celebrating our partnership with nw children’s foundation

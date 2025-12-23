@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: King County Regional Homelessness Authority
+organization_title: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-become-a-continuum-of-care-board-member/
 summarized: true
 title: Become a Continuum of Care Board Member

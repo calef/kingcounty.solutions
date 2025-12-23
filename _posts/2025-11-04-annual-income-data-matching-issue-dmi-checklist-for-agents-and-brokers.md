@@ -5,8 +5,8 @@ feed_content: "<p>artifact_description: General Resources</p><p>date: Wed, 01 Oc
   for Agents and Brokers</p><p>topic: Data Matching Issues</p>"
 image_ids: []
 location_titles: []
+organization_title: Centers for Medicare & Medicaid Services
 published: false
-source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/annual-income-data-matching-issue-dmi-checklist-agents-brokers
 summarized: true
 title: Annual Income Data Matching Issue (DMI) Checklist for Agents and Brokers

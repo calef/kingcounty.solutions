@@ -8,7 +8,7 @@ feed_content: Marking ongoing positive ridership growth, King County Metro poste
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/10/23/king-county-metro-ridership-growth-second-highest-among-nations-largest-transit-agencies/
 summarized: true
 title: King County Metro ridership growth second highest among nation’s largest transit

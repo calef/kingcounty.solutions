@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Juma Ventures
+organization_title: Juma Ventures
 source_url: https://www.juma.org/2025/06/30/strategic-planning-goals-achieved-paving-the-way-for-juma-youth-today-and-tomorrow/
 summarized: true
 title: 'Strategic Planning Goals Achieved: Paving the Way for Juma Youth Today and

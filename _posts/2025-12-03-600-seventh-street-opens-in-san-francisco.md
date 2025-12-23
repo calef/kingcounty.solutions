@@ -23,8 +23,8 @@ feed_content: |-
   <p>The post <a href="https://www.mercyhousing.org/2025/12/600-seventh-street-opens-in-san-francisco/">600 Seventh Street Opens in San Francisco</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Mercy Housing
 published: false
-source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/12/600-seventh-street-opens-in-san-francisco/
 summarized: true
 title: 600 Seventh Street Opens in San Francisco

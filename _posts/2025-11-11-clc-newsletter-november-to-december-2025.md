@@ -15,7 +15,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Chinese Information & Service Center
+organization_title: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/clc-newsletter-november-to-december-2025/?utm_source=rss&utm_medium=rss&utm_campaign=clc-newsletter-november-to-december-2025
 summarized: true
 title: CLC Newsletter – November to December 2025

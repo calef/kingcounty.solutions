@@ -6,8 +6,8 @@ feed_content: Seattle police officers arrested a 31-year-old man for crashing a 
   Street saw a truck ...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/07/dui-driver-arrested-after-crashing-stolen-truck-running-from-cops/
 summarized: true
 title: DUI Driver Arrested After Crashing Stolen Truck, Running From Cops

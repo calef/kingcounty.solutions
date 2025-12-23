@@ -7,8 +7,8 @@ feed_content: '<div class="field field-name-body field-type-text-with-summary fi
   current system to send emergency alerts or routine city updates.</p></div></div></div>'
 image_ids: []
 location_titles: []
+organization_title: City of Medina
 published: false
-source: City of Medina
 source_url: https://www.medina-wa.gov/centralservices/page/medina-moving-new-alert-notification-platform
 summarized: true
 title: Medina is Moving to a New Alert Notification Platform!

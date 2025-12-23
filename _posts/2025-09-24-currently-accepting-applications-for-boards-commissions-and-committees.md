@@ -37,8 +37,8 @@ feed_content: "The City of Tukwila is assisted in its operations by the voluntee
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 image_ids: []
 location_titles: []
+organization_title: City of Tukwila
 published: false
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/currently-accepting-applications-for-boards-commissions-and-committees-2/
 summarized: true
 title: Currently Accepting Applications for Boards, Commissions and Committees

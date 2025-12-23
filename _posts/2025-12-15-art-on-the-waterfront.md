@@ -8,13 +8,13 @@ feed_content_checksum: 4ec5af2383623cd1ed8161b2080fdfdcce03f8e2
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: Publicly-sited artwork projects anchor the new Waterfront Park
   along Seattle’s central waterfront. As 2025 draws to a close, a visitor to Seattle’s
   transformed waterfront can view 9 site-specific artwork projects and two fountain
   re-installations that ...
 published: false
 rss_guid: https://artbeat.seattle.gov/?p=12945
-source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/15/art-on-the-waterfront/
 summarized: true
 title: Art on the Waterfront

@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: St. Luke Episcopal Church
+organization_title: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/09/25/annual-edible-hope-fundraiser-oct-9/
 summarized: true
 title: Annual Edible Hope Fundraiser Oct 9

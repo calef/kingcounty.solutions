@@ -193,7 +193,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Empower Youth Network
+organization_title: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/28th-annual-rise-and-shine-volunteer-awards/
 summarized: true
 title: 28th Annual Rise and Shine Volunteer Awards

@@ -7,7 +7,7 @@ feed_content: Join us for Share Hope 2025, an elegant evening of healing and giv
 image_ids: []
 location_titles:
 - Vashon
-source: The Vashon DOVE Project
+organization_title: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/share-hope-2025-illuminate
 summarized: true
 title: 'Share Hope 2025: Illuminate'

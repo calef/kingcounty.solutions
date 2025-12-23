@@ -25,7 +25,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Vibrant Emotional Health
+organization_title: Vibrant Emotional Health
 source_url: https://www.vibrant.org/the-ripple-effect-of-giving-back/
 summarized: true
 title: The Ripple Effect of Giving Back

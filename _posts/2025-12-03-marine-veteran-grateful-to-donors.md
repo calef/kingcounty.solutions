@@ -71,7 +71,7 @@ image_ids:
 - 1256c3561529e03fcecf0cb3046e1753072f31a5f2e50516008e97d81855e153
 location_titles:
 - King County
-source: Operation Homefront - Critical Financial Assistance Program
+organization_title: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/marine-veteran-grateful-to-donors/
 summarized: true
 title: Marine Veteran Grateful to Donors 

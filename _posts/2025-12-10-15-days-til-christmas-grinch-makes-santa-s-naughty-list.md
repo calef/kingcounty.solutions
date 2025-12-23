@@ -7,9 +7,9 @@ feed_content: Seattle police officers arrested a 34-year-old man for Residential
 feed_content_checksum: b7e163414ca05f66d5d4a626fef048a1273ffd61
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44661
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/10/15-days-til-christmas-grinch-makes-santas-naughty-list/
 summarized: true
 title: 15 Days ‘til Christmas, Grinch Makes Santa’s Naughty List

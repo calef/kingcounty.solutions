@@ -6,8 +6,8 @@ feed_content: Seattle police detectives are investigating a homicide in South Se
   found a man in his...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/18/detectives-investigating-homicide-in-south-seattle-2/
 summarized: true
 title: Detectives Investigating Homicide in South Seattle

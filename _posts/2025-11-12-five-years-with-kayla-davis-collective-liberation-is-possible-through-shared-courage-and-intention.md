@@ -76,7 +76,7 @@ image_ids:
 - 7c307023a32d84c280831a6bc26d5f60c0023e9b91d7130e6a9e3019ab581445
 location_titles:
 - King County
-source: Inatai Foundation
+organization_title: Inatai Foundation
 source_url: https://inatai.org/news/five-years-with-kayla-davis/
 summarized: true
 title: 'Five years with Kayla Davis: Collective liberation is possible through shared

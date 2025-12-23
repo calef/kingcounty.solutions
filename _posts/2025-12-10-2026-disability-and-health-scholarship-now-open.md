@@ -58,7 +58,7 @@ image_ids:
 - 84895ecebf99b7daeb291779a10c3c261887ec60451366018df82c835eea2236
 location_titles:
 - King County
-source: Institute on Human Development and Disability
+organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/09/2026-disability-and-health-scholarship-now-open/
 summarized: true
 title: 2026 Disability and Health Scholarship Now Open

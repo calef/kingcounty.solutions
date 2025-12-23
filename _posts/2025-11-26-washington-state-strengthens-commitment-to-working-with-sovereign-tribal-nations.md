@@ -13,8 +13,8 @@ feed_content: |-
   <p>The Tribal Council will continue monitoring the rollout of these changes and will keep members informed as statewide guidelines, trainings, and reporting systems take shape.</p>
 image_ids: []
 location_titles: []
+organization_title: Snoqualmie Indian Tribe
 published: false
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/washington-state-strengthens-commitment-to-working-with-soverign-tribal-nations/
 summarized: true
 title: Washington State Strengthens Commitment to Working With Sovereign Tribal Nations

@@ -11,7 +11,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
 image_ids: []
 location_titles:
 - King County
-source: City of Mercer Island
+organization_title: City of Mercer Island
 source_url: https://www.mercerisland.gov/yfs/page/city-mercer-island-receives-30000-donation-miyfs-foundation-support-food-security
 summarized: true
 title: City of Mercer Island Receives $30,000 Donation from MIYFS Foundation to Support

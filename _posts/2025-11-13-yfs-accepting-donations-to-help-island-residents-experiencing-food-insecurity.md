@@ -11,7 +11,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
 image_ids: []
 location_titles:
 - King County
-source: City of Mercer Island
+organization_title: City of Mercer Island
 source_url: https://www.mercerisland.gov/yfs/page/yfs-accepting-donations-help-island-residents-experiencing-food-insecurity
 summarized: true
 title: YFS Accepting Donations to Help Island Residents Experiencing Food Insecurity

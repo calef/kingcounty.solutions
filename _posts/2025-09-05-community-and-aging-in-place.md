@@ -7,7 +7,7 @@ feed_content: According to AARP, nearly 80% of adults want to remain in their ow
 image_ids: []
 location_titles:
 - Eastside
-source: Eastside Friends of Seniors
+organization_title: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/community-and-aging-in-place
 summarized: true
 title: Community and Aging in Place

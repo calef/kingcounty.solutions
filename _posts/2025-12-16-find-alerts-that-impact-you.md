@@ -9,6 +9,7 @@ feed_content_checksum: 72a3ccbaab3054251664edc3b19c03adacc72eef
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 original_source_html: Due to a high volume of requests for information about the specific
   locations of emergency evacuation alerts, we are making a King County Emergency
   Alerts Mapping Tool available to the public. This tool is experimental and imperfect,
@@ -16,7 +17,6 @@ original_source_html: Due to a high volume of requests for information about the
   the search bar at the […]
 published: false
 rss_guid: https://kcemergency.com/?p=6964
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/15/find-alerts-that-impact-you/
 summarized: true
 title: Find alerts that impact you

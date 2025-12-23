@@ -24,7 +24,7 @@ feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 60
 image_ids: []
 location_titles:
 - King County
-source: Shoreline Community College
+organization_title: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/09/19/from-marketing-to-mindfulness-julia-sarazines-nursing-journey/
 summarized: true
 title: 'From Marketing to Mindfulness: Julia Sarazine’s Nursing Journey '

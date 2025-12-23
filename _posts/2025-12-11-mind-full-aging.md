@@ -18,8 +18,8 @@ feed_content_checksum: 1a870e7b99a636f43fe334503aec5483b9e5d903
 image_ids: []
 location_titles:
 - Shoreline
+organization_title: Shoreline Lake Forest Park Senior Activity Center
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10626
-source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/mindfull-aging/
 summarized: true
 title: Mind(full) Aging

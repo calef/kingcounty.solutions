@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: FamilyWorks Seattle
+organization_title: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/snap-and-wic-among-vital-food-assistance-programs-threatened/
 summarized: true
 title: SNAP and WIC Among Vital Food Assistance Programs Threatened

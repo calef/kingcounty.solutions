@@ -6,8 +6,8 @@ feed_content: |-
   <p><span><span><strong><u><span>OVERGROWN VEGETATION</span></u></strong></span></span></p></div></div></div>
 image_ids: []
 location_titles: []
+organization_title: City of Medina
 published: false
-source: City of Medina
 source_url: https://www.medina-wa.gov/publicworks/page/sidewalk-vegetation-management
 summarized: true
 title: Sidewalk Vegetation Management

@@ -42,7 +42,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Department of Health
+organization_title: Department of Health
 source_url: https://doh.wa.gov/newsroom/doh-shares-new-immunization-tracking-tool-urges-respiratory-vaccines-ahead-holiday-season
 summarized: true
 title: DOH shares new immunization tracking tool, urges respiratory vaccines ahead

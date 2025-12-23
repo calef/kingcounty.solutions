@@ -99,7 +99,7 @@ feed_content_checksum: 9ed4179f35dcae7e6b080e0fae2cd876f3ef798e
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143694/survive-and-thrive-through-self-compassion/
 summarized: true
 title: Survive and thrive through self-compassion

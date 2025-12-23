@@ -10,7 +10,7 @@ feed_content: On a night to celebrate the accomplishments of youth from across t
 image_ids: []
 location_titles:
 - King County
-source: Seattle Human Services Department
+organization_title: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/03/a-sea-of-gratitude-and-appreciation-for-interns/
 summarized: true
 title: A Sea of Gratitude and Appreciation for Interns

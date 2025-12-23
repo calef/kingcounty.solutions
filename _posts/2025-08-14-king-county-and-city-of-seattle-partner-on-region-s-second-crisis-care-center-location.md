@@ -82,7 +82,7 @@ feed_content: '<p>Summary: Following a <a href="https://harrell.seattle.gov/wp-c
 image_ids: []
 location_titles:
 - King County
-source: King County
+organization_title: King County
 source_url: https://medium.com/kingcounty/king-county-and-city-of-seattle-partner-on-regions-second-crisis-care-center-location-720b0e91e676?source=rss-cc0752750177------2
 summarized: true
 title: King County and City of Seattle partner on region’s second Crisis Care Center

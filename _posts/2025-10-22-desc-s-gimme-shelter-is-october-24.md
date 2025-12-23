@@ -10,7 +10,7 @@ feed_content: DESC&#8217;s annual benefit concert and program spotlight, Gimme S
 image_ids: []
 location_titles:
 - King County
-source: DESC
+organization_title: DESC
 source_url: https://www.desc.org/descs-gimme-shelter-is-october-24/
 summarized: true
 title: DESC’s Gimme Shelter is October 24!

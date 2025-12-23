@@ -10,12 +10,12 @@ feed_content_checksum: d114b1c4507c9464615d8484a89f7ff4d1316719
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: The City of Seattle will continue its commitment to food equity
   by investing more than $1.45 million in a diverse group of 23 community partners
   for 2026. These organizations deliver free meals, share traditional food knowledge,
   support elders and yout...
 rss_guid: https://frontporch.seattle.gov/?p=10702
-source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/17/food-equity-fund-invests-1-45m-into-community-organizations-and-prepares-for-update-to-the-grant-process-in-2026/
 summarized: true
 title: Food Equity Fund Invests $1.45M into Community Organizations and Prepares for

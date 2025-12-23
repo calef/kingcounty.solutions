@@ -7,7 +7,7 @@ feed_content: We are honoring over 20 years of unwavering support from the Joshu
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/thank-you-joshua-p-williams-foundation-1
 summarized: true
 title: thank you joshua p. williams foundation!

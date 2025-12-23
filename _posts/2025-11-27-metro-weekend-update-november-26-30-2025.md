@@ -8,7 +8,7 @@ feed_content: Weekend Service Impacts Routes 3, 10, 11, 12, and 49 will be rero
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/26/metro-weekend-update-november-26-30-2025/
 summarized: true
 title: Metro Weekend Update – November 26-30, 2025

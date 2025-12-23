@@ -52,6 +52,7 @@ feed_content_checksum: 28e4e02d6deddeb28192fa2bdab2cbdce1cfce5f
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <p>I don’t know about you, but for me this year has had many ups and downs, and I try to lean on reflection and meditation practices to help me get through it. At the end of the year, I like to reflect on the past year and set intentions for the year ahead. I think about what went well, what didn’t go so well and areas I would like to focus on. I ask myself what I can let go of that no longer serves me to make more room for what does.</p>
 
@@ -99,7 +100,6 @@ original_source_html: |-
 
   <hr>
 rss_guid: https://news.va.gov/?p=144170
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144170/livewholehealth-297-reflections-and-intentions-for-2026/
 summarized: true
 title: 'LiveWholeHealth #297: Reflections and intentions for 2026'

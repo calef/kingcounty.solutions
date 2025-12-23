@@ -95,7 +95,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143361/cancer-care-well-being-empowers-veterans/
 summarized: true
 title: 'Cancer care & well-being: VA empowers Veterans nationwide'

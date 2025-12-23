@@ -207,7 +207,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143703/hiring-veterans-jobs-week-dec-1-2025/
 summarized: true
 title: 'Hiring Veterans: Jobs of the week for Dec. 1, 2025'

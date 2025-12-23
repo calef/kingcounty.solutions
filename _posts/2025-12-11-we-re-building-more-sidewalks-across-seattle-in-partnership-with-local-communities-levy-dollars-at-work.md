@@ -8,9 +8,9 @@ feed_content_checksum: 83a9d698d12d73463e90cd1dd35711d66976f1c3
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 published: false
 rss_guid: https://sdotblog.seattle.gov/?p=37972
-source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/11/building-more-sidewalks-walkways-seattle/
 summarized: true
 title: We’re Building More Sidewalks Across Seattle, in Partnership with Local Communities

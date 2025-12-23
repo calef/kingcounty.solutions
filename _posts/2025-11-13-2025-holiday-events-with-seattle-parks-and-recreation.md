@@ -6,8 +6,8 @@ feed_content: The holiday season is upon us, and Seattle is buzzing with festive
   below p...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/13/2025-holiday-events-with-seattle-parks-and-recreation/
 summarized: true
 title: 2025 Holiday Events with Seattle Parks and Recreation

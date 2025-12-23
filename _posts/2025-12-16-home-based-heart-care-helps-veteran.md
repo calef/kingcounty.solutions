@@ -68,6 +68,7 @@ feed_content_checksum: 92919ece6acf4449fabee2295a9fb0c84ce54fce
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>Find a new lease on life</h2>
 
@@ -131,7 +132,6 @@ original_source_html: |-
 
   <p>This article was originally published on the <a>VA North Florida/South Georgia Health care System site </a> and has been edited for style and clarity.  </p>
 rss_guid: https://news.va.gov/?p=143909
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143909/home-based-heart-care-helps-veteran/
 summarized: true
 title: Home-based heart care helps Veteran

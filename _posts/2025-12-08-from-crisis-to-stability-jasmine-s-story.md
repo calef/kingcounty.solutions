@@ -91,7 +91,7 @@ image_ids:
 - ed059fb4f1db9b1e4ef7eb2bb47d1abd377f28edff3e9bcf8033060ec25746f6
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/from-crisis-to-stability-jasmines-story
 summarized: true
 title: 'from crisis to stability: jasmine’s story'

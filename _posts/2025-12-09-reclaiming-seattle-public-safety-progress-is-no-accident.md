@@ -6,8 +6,8 @@ feed_content: |-
 feed_content_checksum: 017602a6d13f5e751efeb2ffc18200bec2737b21
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/09/reclaiming-seattle-public-safety-progress-is-no-accident/
 summarized: true
 title: 'Reclaiming Seattle: Public safety progress is no accident'

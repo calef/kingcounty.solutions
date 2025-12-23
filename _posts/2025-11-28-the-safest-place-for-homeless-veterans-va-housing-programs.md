@@ -107,7 +107,7 @@ image_ids:
 - 22319f93a0fcf7df5976044ad21815d1b2c225578ab134330a260032e0a6815f
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143240/safest-place-homeless-veterans-va-housing/
 summarized: true
 title: The safest place for homeless Veterans? VA housing programs

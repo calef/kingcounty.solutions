@@ -9,7 +9,7 @@ feed_content_checksum: a139a38357e12fa57422e0f7ac8a4e6fe7e34e04
 image_ids: []
 location_titles:
 - King County
-source: Centers for Medicare & Medicaid Services
+organization_title: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/customizable-preventive-services-letter-spanish
 summarized: true
 title: Customizable Preventive Services Letter (Spanish)

@@ -50,7 +50,7 @@ image_ids:
 - 329ed2b5e5f5ec1b587dd9bb444fd75c5d87465fdaeb15c53d6424b3c997687a
 location_titles:
 - King County
-source: Essentials First
+organization_title: Essentials First
 source_url: https://www.essentialsfirst.org/blog/jmdktpaqrir8bwhatpeb17ucwmyt8j
 summarized: true
 title: 'WANTED: New and gently used sewing machines'

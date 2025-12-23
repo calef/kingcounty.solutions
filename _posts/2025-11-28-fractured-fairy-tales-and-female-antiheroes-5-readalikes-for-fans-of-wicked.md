@@ -10,8 +10,8 @@ feed_content: |-
   <p><em>~posted by Amy L.</em></p>
 image_ids: []
 location_titles: []
+organization_title: The Seattle Public Library
 published: false
-source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/11/28/fractured-fairy-tales-and-female-antiheroes-5-readalikes-for-fans-of-wicked/
 summarized: true
 title: Fractured Fairy Tales and Female Antiheroes, 5 Readalikes for Fans of Wicked

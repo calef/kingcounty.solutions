@@ -6,8 +6,8 @@ feed_content: Seattle police detectives are investigating the death of a 44-year
   found a man wi...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/15/detectives-investigating-death-in-downtown-seattle/
 summarized: true
 title: Detectives Investigating Death in Downtown Seattle

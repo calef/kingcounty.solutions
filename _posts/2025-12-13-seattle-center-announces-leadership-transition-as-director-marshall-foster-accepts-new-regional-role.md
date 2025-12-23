@@ -8,13 +8,13 @@ feed_content_checksum: a327da2cc71e1b2eeced22d4b7b5f0b16594243c
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: 'Pictured: Marshall Foster, Photo by: Janet Chapman Links below
   will open new windows. Deputy Director Diamatris Winston Named Seattle Center Acting
   Director, Effective Jan. 17, 2026 SEATTLE – Seattle Center announced today that
   Director Marshall Foster...'
 published: false
 rss_guid: https://centerspotlight.seattle.gov/?p=2588
-source: City of Seattle
 source_url: https://centerspotlight.seattle.gov/2025/12/12/seattle-center-announces-leadership-transition-as-director-marshall-foster-accepts-new-regional-role/
 summarized: true
 title: Seattle Center Announces Leadership Transition as Director Marshall Foster

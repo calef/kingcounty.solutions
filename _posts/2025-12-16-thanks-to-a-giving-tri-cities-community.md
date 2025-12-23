@@ -24,6 +24,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
 feed_content_checksum: 79f11e0adeeeee2c8166fb99854f5364c0823cc0
 image_ids: []
 location_titles: []
+organization_title: Lutheran Community Services Northwest
 original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\t<h1>Thanks
   to a giving Tri-Cities community</h1>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p>The
   debut of the <a>Light the World Giving Machine</a> in the Tri-Cities was an incredible
@@ -47,7 +48,6 @@ original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n
   post <a>Thanks to a giving Tri-Cities community</a> appeared first on <a>LCSNW</a>.</p>"
 published: false
 rss_guid: https://lcsnw.org/?p=49639
-source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/12/giving-machine/
 summarized: true
 title: Thanks to a giving Tri-Cities community

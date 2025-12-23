@@ -87,6 +87,7 @@ image_ids:
 - 4a01b9d81cf3f2e214929783df26d430b98a783ecf93f14f3da6c291293a8577
 location_titles:
 - King County
+organization_title: Solid Ground
 original_source_html: "<p><img src=\"https://s14621.pcdn.co/wp-content/uploads/2025/12/VolunteerServices-KIA-RG-12.05.2025-FEATURED-361x255.jpg\"></p><p><span>On
   a recent gray Friday morning in Seattle, Solid Ground’s offices were filled with
   color and warmth as staff and volunteers sorted, folded, stacked, and packed hundreds
@@ -168,7 +169,6 @@ original_source_html: "<p><img src=\"https://s14621.pcdn.co/wp-content/uploads/2
   post <a>Creating love and warmth, 1,540 times over</a> appeared first on <a>Solid
   Ground</a>."
 rss_guid: https://www.solid-ground.org/?p=72618
-source: Solid Ground
 source_url: https://www.solid-ground.org/creating-love-and-warmth-1540-times-over/
 summarized: true
 title: Creating love and warmth, 1,540 times over

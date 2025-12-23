@@ -12,7 +12,7 @@ feed_content: As the days grow shorter and Seattle settles into its season of cl
 image_ids: []
 location_titles:
 - King County
-source: Eastside Friends of Seniors
+organization_title: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/when-the-days-grow-shorter-caring-for-ourselves-through-the-darker-months
 summarized: true
 title: 'When the Days Grow Shorter: Caring for Ourselves Through the Darker Months'

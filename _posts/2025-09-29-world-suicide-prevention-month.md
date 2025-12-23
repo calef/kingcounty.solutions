@@ -7,7 +7,7 @@ feed_content: This September, we join communities around the world in recognizin
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/world-suicide-prevention-month
 summarized: true
 title: world suicide prevention month

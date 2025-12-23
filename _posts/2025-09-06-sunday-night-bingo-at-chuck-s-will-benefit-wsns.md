@@ -12,7 +12,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Westside Neighbors Shelter
+organization_title: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/sunday-night-bingo-at-chucks-will-benefit-wsns/?utm_source=rss&utm_medium=rss&utm_campaign=sunday-night-bingo-at-chucks-will-benefit-wsns
 summarized: true
 title: Sunday night bingo at Chuck’s will benefit WSNS!

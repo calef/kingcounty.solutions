@@ -45,7 +45,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
 image_ids: []
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/community-facilitator-affordable-housing-strategy-update
 summarized: true
 title: Become community facilitator for Affordable Housing Strategy Update

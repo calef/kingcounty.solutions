@@ -6,8 +6,8 @@ feed_content: We spoke with 2025 Bridge Artist in Residence Vivian Cho about the
   designer and artist ...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/01/artist-highlight-a-conversation-with-vivian-cho/
 summarized: true
 title: 'Artist Highlight: A conversation with Vivian Cho'

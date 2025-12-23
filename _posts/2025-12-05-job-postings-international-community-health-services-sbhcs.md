@@ -10,7 +10,7 @@ feed_content: 'International Community Health Services (ICHS) is hiring for thre
 image_ids: []
 location_titles:
 - King County
-source: King County School Health
+organization_title: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/05/job-postings-international-community-health-services-sbhcs/
 summarized: true
 title: 'Job Postings: International Community Health Services SBHCs'

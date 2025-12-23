@@ -67,7 +67,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143373/va-research-lung-cancer-alzheimers-maternity/
 summarized: true
 title: 'VA Research Wrap Up: New findings on lung cancer, Alzheimer’s disease and

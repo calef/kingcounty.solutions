@@ -168,6 +168,7 @@ image_ids:
 - f05269ae560d03a2c2bf536282047cb746d8ae2b4de0920a32825b25bf8a5a29
 location_titles:
 - King County
+organization_title: Hopelink
 original_source_html: |-
   <div>
   <div>
@@ -328,7 +329,6 @@ original_source_html: |-
 
   <div></div>
 rss_guid: https://www.hopelink.org/?p=13810
-source: Hopelink
 source_url: https://www.hopelink.org/blog/historic-washington-flooding-how-you-can-help-those-impacted/
 summarized: true
 title: 'Historic Washington Flooding: How you can help those impacted'

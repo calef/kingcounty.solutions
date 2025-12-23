@@ -16,7 +16,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
 image_ids: []
 location_titles:
 - King County
-source: City Light Bill Assistance Programs
+organization_title: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/09/15/energy-heroes-program-reaches-record-numbers-in-2024-2025-school-year/
 summarized: true
 title: Energy Heroes Program Reaches Record Numbers in 2024-2025 School Year

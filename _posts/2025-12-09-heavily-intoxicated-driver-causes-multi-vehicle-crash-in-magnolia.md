@@ -7,8 +7,8 @@ feed_content: Seattle police arrested a 25-year-old man for Driving Under the In
 feed_content_checksum: 5c543a64d0a154c02f239b113f36b99552d59c0a
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/08/heavily-intoxicated-driver-causes-multi-vehicle-crash-in-magnolia/
 summarized: true
 title: "“Heavily Intoxicated” Driver Causes Multi-Vehicle Crash in Magnolia"

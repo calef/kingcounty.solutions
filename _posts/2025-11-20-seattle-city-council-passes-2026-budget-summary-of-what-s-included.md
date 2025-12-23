@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://council.seattle.gov/2025/11/20/seattle-city-council-passes-2026-budget-summary-of-whats-included/
 summarized: true
 title: 'Seattle City Council Passes 2026 Budget: Summary of what’s included '

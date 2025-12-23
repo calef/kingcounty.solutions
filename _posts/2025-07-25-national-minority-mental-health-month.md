@@ -71,7 +71,7 @@ feed_content: "<p>July marks National Minority Mental Health Month, a time to ac
 image_ids: []
 location_titles:
 - King County
-source: Cancer Lifeline Financial Assistance for Cancer Patients
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/national-minority-mental-health-month/
 summarized: true
 title: National Minority Mental Health Month

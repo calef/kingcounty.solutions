@@ -12,7 +12,7 @@ feed_content: On November 30th, friends, family, and congregation members along 
 image_ids: []
 location_titles:
 - King County
-source: Low Income Housing Institute
+organization_title: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/groundbreaking-new-hope-family-housing
 summarized: true
 title: 'Groundbreaking: New Hope Family Housing!'

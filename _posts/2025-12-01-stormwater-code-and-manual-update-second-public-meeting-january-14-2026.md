@@ -6,8 +6,8 @@ feed_content: We&#8217;re working with Seattle Public Utilities to update Seattl
   for publi...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/stormwater-code-and-manual-update-second-public-meeting-january-14-2026/
 summarized: true
 title: Stormwater Code and Manual Update – Second Public Meeting, January 14, 2026

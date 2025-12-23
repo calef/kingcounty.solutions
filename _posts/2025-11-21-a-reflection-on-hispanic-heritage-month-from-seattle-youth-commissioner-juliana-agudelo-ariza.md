@@ -9,7 +9,7 @@ feed_content: By Juliana Agudelo Ariza, Seattle Youth Commissioner Every year, b
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/20/a-reflection-on-hispanic-heritage-month-from-seattle-youth-commissioner-juliana-agudelo-ariza/
 summarized: true
 title: A Reflection on Hispanic Heritage Month from Seattle Youth Commissioner Juliana

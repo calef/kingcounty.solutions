@@ -6,8 +6,8 @@ feed_content: Support small businesses this Small Business Saturday Small busine
   Saturday, and...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/23/shop-small-your-guide-to-supporting-seattles-local-businesses-this-holiday-season/
 summarized: true
 title: 'Shop small: Your guide to supporting Seattle’s local businesses this holiday

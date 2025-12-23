@@ -5,8 +5,8 @@ feed_content: |-
   </div></div></div>
 image_ids: []
 location_titles: []
+organization_title: City of Medina
 published: false
-source: City of Medina
 source_url: https://www.medina-wa.gov/community/page/medina-sun-summer-2025-0
 summarized: true
 title: Medina Sun - Summer 2025

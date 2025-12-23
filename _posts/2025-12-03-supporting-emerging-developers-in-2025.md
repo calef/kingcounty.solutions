@@ -14,7 +14,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Mercy Housing
+organization_title: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/12/supporting-emerging-developers-in-2025/
 summarized: true
 title: Supporting Emerging Developers In 2025

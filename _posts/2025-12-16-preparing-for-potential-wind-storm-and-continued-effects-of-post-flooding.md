@@ -28,6 +28,7 @@ feed_content_checksum: e205acace75842cde03767eff23a0dcc136517e3
 image_ids: []
 location_titles:
 - King County
+organization_title: Snoqualmie Indian Tribe
 original_source_html: |-
   <p>In preparation for this evening’s wind advisory and continued affects of post-flooding, please review the following safety and preparedness steps:</p>
   <p><strong><span>Stay Safe During a Power Outage</span></strong></p>
@@ -54,7 +55,6 @@ original_source_html: |-
   </ul>
 published: false
 rss_guid: https://snoqualmietribe.us/?p=6930
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/preparing-for-potential-wind-storm-and-continued-effects-of-post-flooding/
 summarized: true
 title: Preparing for Potential Wind Storm and Continued Effects of Post-Flooding

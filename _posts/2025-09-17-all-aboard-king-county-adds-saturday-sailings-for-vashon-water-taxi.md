@@ -10,7 +10,7 @@ feed_content: 'The turning of the fall leaves welcomes a new tradition for the r
 image_ids: []
 location_titles:
 - King County
-source: King County Ferry District
+organization_title: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/09/17/all-aboard-king-county-adds-saturday-sailings-for-vashon-water-taxi/
 summarized: true
 title: All Aboard! King County adds Saturday sailings for Vashon Water Taxi

@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: King County Regional Homelessness Authority
+organization_title: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-housing-types-one-size-does-not-fit-all/
 summarized: true
 title: 'Housing Types: One Size Does Not Fit All'

@@ -10,7 +10,7 @@ feed_content_checksum: fd38742dc9ab879047382b6b1e071242888219ac
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://harrell.seattle.gov/2025/12/09/december-winter-weather-update/
 summarized: true
 title: December Winter Weather Update

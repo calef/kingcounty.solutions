@@ -33,6 +33,7 @@ feed_content_checksum: 58ed56755ee38e4f030d488b5943fd5273e65f56
 image_ids: []
 location_titles:
 - King County
+organization_title: Inatai Foundation
 original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div><iframe></iframe></div>\n\t\t\t\t<div><div><a></a></div></div>\n\t\t\t</div>\n<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p> </p>\n<p><a>Haz
   clic aquí para leer en español.</a></p>\n</div>\n\t\t\t</div>\n<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>This
   fall Inatai welcomed more than 80 leaders from community organizations serving Thurston,
@@ -61,7 +62,6 @@ original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n
   Organizations</a></li>\n</ul>\n<p><em>Thank you to our video team, Humxn Media,
   for their partnership on this project.</em></p>\n</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 rss_guid: https://inatai.org/?p=14755
-source: Inatai Foundation
 source_url: https://inatai.org/news/80-leaders-gather-at-shaping-the-future/
 summarized: true
 title: "‘We are here to shape the future—not dream it, build it’: Inatai’s seventh

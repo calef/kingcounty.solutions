@@ -30,8 +30,8 @@ feed_content: |-
   Thank you.
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/10/october-21-2025-regular-planning-commission-meeting-packet-600-pm-town-hall-virtual/
 summarized: true
 title: October 21, 2025 Regular Planning Commission Meeting Packet – 6:00 PM/ Town

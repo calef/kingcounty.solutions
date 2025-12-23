@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - South King County
-source: Aging Wisdom
+organization_title: Aging Wisdom
 source_url: https://agingwisdom.com/being-active-as-you-age/?utm_source=rss&utm_medium=rss&utm_campaign=being-active-as-you-age
 summarized: true
 title: Being active as you age

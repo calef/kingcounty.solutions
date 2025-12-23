@@ -310,7 +310,7 @@ module Mayhem
         frontmatter = {
           'title' => title_text,
           'date' => published_time.iso8601,
-          'source' => source_title,
+          'organization_title' => source_title,
           'source_url' => link_url.to_s,
           'rss_guid' => rss_guid,
           'feed_content' => normalized_html,

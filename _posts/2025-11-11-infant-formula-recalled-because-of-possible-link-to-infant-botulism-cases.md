@@ -63,8 +63,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   href=\"/about-us/contact-us/social-media\">social media</a>.</p>\n\n<p class=\"text-align-center\">###</p></div>"
 image_ids: []
 location_titles: []
+organization_title: Department of Health
 published: false
-source: Department of Health
 source_url: https://doh.wa.gov/newsroom/infant-formula-recalled-because-possible-link-infant-botulism-cases
 summarized: true
 title: Infant formula recalled because of possible link to infant botulism cases

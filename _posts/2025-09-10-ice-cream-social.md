@@ -9,8 +9,8 @@ feed_content: |-
   </div>
 image_ids: []
 location_titles: []
+organization_title: Washington Center for Deaf and Hard of Hearing Youth
 published: false
-source: Washington Center for Deaf and Hard of Hearing Youth
 source_url: https://www.cdhy.wa.gov/ice-cream-social/
 summarized: true
 title: Ice Cream Social

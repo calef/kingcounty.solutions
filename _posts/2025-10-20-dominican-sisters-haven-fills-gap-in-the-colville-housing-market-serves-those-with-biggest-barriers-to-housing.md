@@ -21,8 +21,8 @@ feed_content: |-
   Thanks to all who made Dominican Sisters Haven possible!&nbsp;
 image_ids: []
 location_titles: []
+organization_title: Department of Commerce
 published: false
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/dominican-sisters-haven-fills-gap-in-the-colville-housing-market-serves-those-with-biggest-barriers-to-housing/
 summarized: true
 title: Dominican Sisters Haven fills gap in the Colville housing market, serves those

@@ -8,9 +8,9 @@ feed_content_checksum: c4f9b89f76db00b16002ae47987e525d70c4fc5a
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 published: false
 rss_guid: https://bottomline.seattle.gov/?p=8012
-source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/12/11/seattle-climate-innovation-hub-fosters-collaboration-to-combat-climate-change/
 summarized: true
 title: Seattle Climate Innovation Hub fosters collaboration to combat climate change

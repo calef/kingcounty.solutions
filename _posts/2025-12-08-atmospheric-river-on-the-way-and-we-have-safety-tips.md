@@ -10,7 +10,7 @@ feed_content_checksum: 5f1711c8a76a6e3b7a99459ba4fc0d1afef412bb
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/08/atmospheric-river-on-the-way-and-we-have-safety-tips/
 summarized: true
 title: " “Atmospheric River” On the Way and We Have Safety Tips"

@@ -90,7 +90,7 @@ image_ids:
 - bbf7f9e56798fc52748be6ac101fa80f380466e77160f52419486b01b20e08cd
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-mid-biennium-budget-discussions-begin
 summarized: true
 title: 'Council Roundup: Mid-biennium budget discussions begin'

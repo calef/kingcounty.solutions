@@ -17,7 +17,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Mercy Housing
+organization_title: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/12/4dx-toilet-flapper-replacement-a-success-story-in-water-conservation/
 summarized: true
 title: '4DX Toilet Flapper Replacement: A Success Story in Water Conservation'

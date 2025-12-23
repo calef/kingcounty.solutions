@@ -11,8 +11,8 @@ feed_content_checksum: 42f3ceccd712047dc144aaa48711b1bd42dbfd8e
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 rss_guid: https://kcemergency.com/2025/12/12/december-damage-assessment/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/12/december-damage-assessment/
 summarized: true
 title: ALERT King County Message – December Damage Assessment

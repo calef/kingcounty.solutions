@@ -5,8 +5,8 @@ feed_content: |-
   <p>The post <a href="https://stlukesseattle.org/2025/09/09/blessing-of-the-animals-pet-celebration/">Blessing of the Animals &amp; Pet Celebration</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: St. Luke Episcopal Church
 published: false
-source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/09/09/blessing-of-the-animals-pet-celebration/
 summarized: true
 title: Blessing of the Animals & Pet Celebration

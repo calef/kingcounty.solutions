@@ -10,8 +10,8 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   WA 98040, and via Zoom. </span></span></p></div></div></div>
 image_ids: []
 location_titles: []
+organization_title: City of Mercer Island
 published: false
-source: City of Mercer Island
 source_url: https://www.mercerisland.gov/bc-parksandrecreationcommission/page/notice-special-joint-hybrid-parks-recreation-commission-and
 summarized: true
 title: Notice of Special Joint Hybrid Parks & Recreation Commission and OSCT Meeting

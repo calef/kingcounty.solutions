@@ -12,8 +12,8 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   teams in customer service, finance, utility technology and beyond, each plays [&#8230;]'
 image_ids: []
 location_titles: []
+organization_title: City Light Bill Assistance Programs
 published: false
-source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/10/07/our-employees-share-what-powers-them-for-public-power-week/
 summarized: true
 title: Our Employees Share What Powers Them for Public Power Week

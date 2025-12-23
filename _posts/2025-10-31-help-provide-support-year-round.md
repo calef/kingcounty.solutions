@@ -65,7 +65,7 @@ image_ids:
 - b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 location_titles:
 - King County
-source: BrightSpark
+organization_title: BrightSpark
 source_url: https://www.brightspark.org/2025/10/help-provide-support-year-round/
 summarized: true
 title: Help Provide Support Year-Round!

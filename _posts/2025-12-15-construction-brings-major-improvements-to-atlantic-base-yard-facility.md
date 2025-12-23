@@ -9,11 +9,11 @@ feed_content_checksum: b48b0390428989a6ce679bc5965d05255359efc6
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Metro Transit
 original_source_html: Contractor crews working for King County Metro will soon start
   construction on the Atlantic Base Yard Facility to improve the overhead wires that
   power trolley buses and additional infrastructure improvements....
 rss_guid: https://kingcountymetro.blog/?p=67755
-source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/15/construction-brings-major-improvements-to-atlantic-base-yard-facility/
 summarized: true
 title: Construction brings major improvements to Atlantic Base Yard Facility

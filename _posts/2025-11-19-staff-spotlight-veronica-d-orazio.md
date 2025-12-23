@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Aging Wisdom
+organization_title: Aging Wisdom
 source_url: https://agingwisdom.com/staff-spotlight-veronica-dorazio/?utm_source=rss&utm_medium=rss&utm_campaign=staff-spotlight-veronica-dorazio
 summarized: true
 title: 'Staff Spotlight: Veronica D’Orazio'

@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Aging Wisdom
+organization_title: Aging Wisdom
 source_url: https://agingwisdom.com/staff-spotlight-molly-ebel/?utm_source=rss&utm_medium=rss&utm_campaign=staff-spotlight-molly-ebel
 summarized: true
 title: 'Staff Spotlight: Molly Ebel'

@@ -15,7 +15,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: MultiCare
+organization_title: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/10/samaritan-and-multicare-approve-affiliation-to-strengthen-community-based-care-across-the-pacific-northwest/
 summarized: true
 title: Samaritan and MultiCare approve affiliation to strengthen community-based care

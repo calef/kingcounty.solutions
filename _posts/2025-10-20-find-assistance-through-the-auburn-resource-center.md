@@ -7,7 +7,7 @@ feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_114705
 image_ids: []
 location_titles:
 - King County
-source: City of Auburn
+organization_title: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=17824739
 summarized: true
 title: Find assistance through the Auburn Resource Center

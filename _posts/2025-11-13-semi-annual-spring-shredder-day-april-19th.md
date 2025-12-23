@@ -5,8 +5,8 @@ feed_content: |-
   </div></div></div>
 image_ids: []
 location_titles: []
+organization_title: City of Medina
 published: false
-source: City of Medina
 source_url: https://www.medina-wa.gov/police/page/semi-annual-spring-shredder-day-april-19th
 summarized: true
 title: Semi-Annual Spring Shredder Day - April 19th

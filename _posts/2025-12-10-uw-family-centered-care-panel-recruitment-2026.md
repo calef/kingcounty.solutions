@@ -66,7 +66,7 @@ image_ids:
 - d5e4fa62cadd087590fe7b10836ea8c4b3356dabb7e2e099c962920a1fd6aa1f
 location_titles:
 - King County
-source: Institute on Human Development and Disability
+organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/09/uw-family-centered-care-panel-recruitment-2026/
 summarized: true
 title: UW Family Centered Care Panel Recruitment 2026

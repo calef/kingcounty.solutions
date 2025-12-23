@@ -117,7 +117,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143349/check-in-even-when-a-veteran-says-theyre-fine/
 summarized: true
 title: Check in—even when a Veteran says they’re fine

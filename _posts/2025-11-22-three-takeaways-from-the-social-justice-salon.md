@@ -97,7 +97,7 @@ image_ids:
 - ee5a9ace1e9bec823f23ed409ffda670594dbb3dfd9f807adb2ebedfecee0fb4
 location_titles:
 - King County
-source: Solid Ground
+organization_title: Solid Ground
 source_url: https://www.solid-ground.org/three-takeaways-from-the-social-justice-salon/
 summarized: true
 title: Three takeaways from the Social Justice Salon 

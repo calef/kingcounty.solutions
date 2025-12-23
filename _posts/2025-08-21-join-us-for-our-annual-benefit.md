@@ -31,7 +31,7 @@ image_ids:
 - ba1e40fd96f6b1348fa1985f21d659d6e293a0a65f23780425faa25a378d76df
 location_titles:
 - Snoqualmie Valley
-source: CarePoint Clinic
+organization_title: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-ydpck
 summarized: true
 title: Join us for our Annual Benefit!

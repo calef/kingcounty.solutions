@@ -11,8 +11,8 @@ feed_content: 'Nearly $136,000 in Remedies to 705 Workers For Immediate Release 
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://news.seattle.gov/2025/12/01/seattle-office-of-labor-standards-reaches-settlement-with-online-platform-handy-technologies-for-alleged-violations-of-domestic-workers-ordinance/
 summarized: true
 title: Seattle Office of Labor Standards Reaches Settlement with Online Platform Handy

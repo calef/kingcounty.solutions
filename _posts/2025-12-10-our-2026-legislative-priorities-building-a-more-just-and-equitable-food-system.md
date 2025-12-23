@@ -21,8 +21,8 @@ feed_content_checksum: 3db795c3760ba80f9360811e04263111b960043d
 image_ids: []
 location_titles:
 - King County
+organization_title: Northwest Harvest
 rss_guid: https://www.northwestharvest.org/?p=13275
-source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/our-2026-legislative-priorities-building-a-more-just-and-equitable-food-system/
 summarized: true
 title: 'Our 2026 Legislative Priorities: Building a More Just and Equitable Food System'

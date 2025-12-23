@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: FamilyWorks Seattle
+organization_title: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/promoting-first-relationships-home-visiting-program-update/
 summarized: true
 title: Promoting First Relationships Home Visiting Program Update

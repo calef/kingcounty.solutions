@@ -11,8 +11,8 @@ feed_content: '<p><img fetchpriority="high" decoding="async" class="alignnone si
   1583w" sizes="(max-width: 1700px) 100vw, 1700px" /></p>'
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/notice-of-sepa-determination-of-non-significance-4030-95th-ave-ne/
 summarized: true
 title: 'NOTICE OF SEPA DETERMINATION OF NON-SIGNIFICANCE: 4030 95th Ave NE.'

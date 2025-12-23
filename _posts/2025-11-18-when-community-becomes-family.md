@@ -335,7 +335,7 @@ image_ids:
 - 4a23c75064bdec7d1e32ce8e5def64e8d60728398be333f2050aefa20375e88e
 location_titles:
 - King County
-source: Solid Ground
+organization_title: Solid Ground
 source_url: https://www.solid-ground.org/when-community-becomes-family/
 summarized: true
 title: When community becomes family 

@@ -50,7 +50,7 @@ feed_content: "## **From the Gridiron to the Farm:** \n\n### **Meet Jason Brown,
 image_ids: []
 location_titles:
 - King County
-source: Hopelink
+organization_title: Hopelink
 source_url: https://www.hopelink.org/blog/from-the-gridiron-to-the-farm/
 summarized: true
 title: From the Gridiron to the Farm

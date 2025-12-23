@@ -43,8 +43,8 @@ feed_content: |-
   ![Giraffe logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/giraffe-logo-purple.png)
 image_ids: []
 location_titles: []
+organization_title: Department of Commerce
 published: false
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/klickitat-valley-health-builds-a-cleaner-more-resilient-future-with-cetcap-support/
 summarized: true
 title: Klickitat Valley Health builds a cleaner, more resilient future with CETCAP

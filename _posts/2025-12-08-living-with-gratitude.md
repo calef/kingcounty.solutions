@@ -17,7 +17,7 @@ feed_content_checksum: 9621ec0ef75b8248542d1b102980cd12b5f07d78
 image_ids: []
 location_titles:
 - King County
-source: Transforming Age
+organization_title: Transforming Age
 source_url: https://transformingage.org/blog/living-with-gratitude-37/
 summarized: true
 title: Living with gratitude.

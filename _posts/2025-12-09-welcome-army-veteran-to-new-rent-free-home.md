@@ -84,8 +84,8 @@ feed_content: |-
 feed_content_checksum: bdb945657c8fb5ed24077a005826e87ebf9eec59
 image_ids: []
 location_titles: []
+organization_title: Operation Homefront - Critical Financial Assistance Program
 published: false
-source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/welcome-army-veteran-to-new-rent-free-home/
 summarized: true
 title: Welcome Army Veteran to New Rent-Free Home 

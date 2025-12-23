@@ -8,7 +8,7 @@ feed_content: This op-ed originally appeared in Passenger Transport, the flagshi
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/06/its-the-journey-and-the-destination/
 summarized: true
 title: It’s the Journey and the Destination

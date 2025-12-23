@@ -6,8 +6,8 @@ feed_content: 'As we head into the holiday season, we want to share some importa
   falls on one of th...'
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/21/2025-winter-holiday-waste-collection-schedule/
 summarized: true
 title: 2025 Winter Holiday Waste Collection Schedule

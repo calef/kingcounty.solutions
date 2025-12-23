@@ -111,6 +111,7 @@ image_ids:
 - fd8b6038e332053b53720ef0379585bc3d28c02d2d21c20680673ffbd0eaf5c1
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>A toolkit co-designed by Veterans to address respiratory health concerns</h2>
 
@@ -216,7 +217,6 @@ original_source_html: |-
 
   <p>Access the companion <a>Provider Deployment-Related Respiratory Disease toolkit</a>.</p>
 rss_guid: https://news.va.gov/?p=144038
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144038/airborne-hazards-toolkit-for-respiratory-health/
 summarized: true
 title: 'Airborne hazards: A Veteran toolkit for respiratory health'

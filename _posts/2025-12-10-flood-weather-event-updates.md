@@ -4,8 +4,8 @@ feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_114705
 feed_content_checksum: c9ca033a33c7440819e15d91b35a7a158b19358f
 image_ids: []
 location_titles: []
+organization_title: City of Auburn
 published: false
-source: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?pageId=21082669&portalId=11470638
 summarized: true
 title: Flood & Weather Event Updates

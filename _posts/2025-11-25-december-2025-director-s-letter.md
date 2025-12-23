@@ -23,7 +23,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - Snoqualmie Valley
-source: Sno-Valley Senior Center
+organization_title: Sno-Valley Senior Center
 source_url: https://snovalleysenior.org/december-2025-directors-letter/
 summarized: true
 title: December 2025 Director’s Letter

@@ -6,8 +6,8 @@ feed_content: |-
 feed_content_checksum: d0c5b47e9b274cfdfc39970ad5b70796a4f578e8
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/09/public-safety-committee-vice-chair-saka-announces-opposition-to-new-police-contract/
 summarized: true
 title: Public Safety Committee Vice Chair Saka announces opposition to new police

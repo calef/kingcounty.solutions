@@ -6,8 +6,8 @@ feed_content: 'Many Seattle Parks and Recreation facilities will be closed for o
   regular hours:...'
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/12/seattle-parks-and-recreation-2025-thanksgiving-holiday-closures/
 summarized: true
 title: Seattle Parks and Recreation 2025 Thanksgiving Holiday Closures

@@ -6,9 +6,9 @@ feed_content: |-
 feed_content_checksum: d4c802a89a1f47dc9cb19ec3fbb8a241aa1b1776
 image_ids: []
 location_titles: []
+organization_title: CAMFED - Campaign for Female Education
 published: false
 rss_guid: https://camfed.org/?p=55791/
-source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/josephine-nurse/
 summarized: true
 title: 'Josephine: Bringing hope and healing to my rural community'

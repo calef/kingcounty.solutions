@@ -63,6 +63,7 @@ feed_content_checksum: b8a584700b90b941dfc6c5c4366b3f360f2ee701
 image_ids: []
 location_titles:
 - King County
+organization_title: Westside Neighbors Shelter
 original_source_html: |-
   <p>Hot chocolate packs are one of the most-requested items at our morning warmup center. With just a little hot water, our clients can warm up inside as well as outside. Also popular are the big pot of self-serve oatmeal we make each morning, and the pancakes we serve with breakfast.</p>
 
@@ -121,7 +122,6 @@ original_source_html: |-
   <p>Thank you!</p>
   <p>The post <a>Brr! We need cold-weather breakfast food!</a> appeared first on <a>Westside Neighbors Shelter</a>.</p>
 rss_guid: https://westsideneighborsshelter.org/?p=938
-source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/brr-we-need-cold-weather-breakfast-food/
 summarized: true
 title: Brr! We need cold-weather breakfast food!

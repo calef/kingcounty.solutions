@@ -8,8 +8,8 @@ feed_content: <div><p paraid="1576460122" paraeid="{51d93b13-642c-4426-9f77-65d2
   upgrades at some of Seattle’s downtown stations — they’re hard to miss!&nbsp;&nbsp;</p></div>
 image_ids: []
 location_titles: []
+organization_title: Sound Transit
 published: false
-source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/literal-glow-were-upgrading-lighting-systems-some-our-busiest-light-rail-stations
 summarized: true
 title: 'A literal glow-up: We’re upgrading the lighting systems at some of our busiest

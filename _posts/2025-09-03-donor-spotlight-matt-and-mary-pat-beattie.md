@@ -20,7 +20,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Youth Eastside Services
+organization_title: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/beattie-story/?utm_source=rss&utm_medium=rss&utm_campaign=beattie-story
 summarized: true
 title: 'Donor Spotlight: Matt and Mary-Pat Beattie'

@@ -108,7 +108,7 @@ image_ids:
 - 13952d621484b6a289edaae1264b642d5f56085970df0dd57dcb33704c5cb398
 location_titles:
 - King County
-source: Catholic Community Services of Western Washington
+organization_title: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/michelle-and-brents-story-a-journey-from-homelessness-to-stable-housing/?utm_source=rss&utm_medium=rss&utm_campaign=michelle-and-brents-story-a-journey-from-homelessness-to-stable-housing
 summarized: true
 title: 'Michelle and Brent’s Story: A Journey from Homelessness to Stable Housing  '

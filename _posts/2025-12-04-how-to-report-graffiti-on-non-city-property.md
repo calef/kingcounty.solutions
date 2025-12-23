@@ -52,8 +52,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"datetime\">July 1 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/how-report-graffiti-non-city-property
 summarized: true
 title: How to report graffiti on non-city property

@@ -47,7 +47,7 @@ image_ids:
 - 9dd12251f62fe9c4468f85e882cf8ab9fd40c2e6765722ba9f14ad45fbc075d3
 location_titles:
 - King County
-source: Hospitality House
+organization_title: Hospitality House
 source_url: https://hospitalityhousesouthking.org/september-2025-donations-needed/
 summarized: true
 title: September 2025 Donations Needed

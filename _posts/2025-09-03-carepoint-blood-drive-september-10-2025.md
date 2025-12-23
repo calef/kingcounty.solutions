@@ -29,8 +29,8 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   target=\"_blank\">HERE</a></p>"
 image_ids: []
 location_titles: []
+organization_title: CarePoint Clinic
 published: false
-source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/carepoint-blood-drive-ttpgs-rfzs9-tfhm3
 summarized: true
 title: CarePoint Blood Drive - September 10, 2025

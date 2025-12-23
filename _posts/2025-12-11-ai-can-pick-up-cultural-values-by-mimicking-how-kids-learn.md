@@ -27,9 +27,9 @@ feed_content_checksum: 891a213eba33c1e38750c3ee3b761d212b5878ee
 image_ids: []
 location_titles:
 - King County
+organization_title: University of Washington
 published: false
 rss_guid: https://www.washington.edu/news/?p=90064
-source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/11/ai-training-cultural-values/
 summarized: true
 title: AI can pick up cultural values by mimicking how kids learn

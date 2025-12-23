@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: King County Regional Homelessness Authority
+organization_title: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-preparing-for-the-upcoming-cold-weather-season/
 summarized: true
 title: Preparing for the Upcoming Cold Weather Season

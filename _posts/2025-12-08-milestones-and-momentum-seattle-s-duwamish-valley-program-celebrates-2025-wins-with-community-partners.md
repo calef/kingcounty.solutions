@@ -6,8 +6,8 @@ feed_content: Seattle’s Duwamish Valley Program is celebrating a big year of a
 feed_content_checksum: 4e9e167280007b17f113714ef1d379edb91ecd44
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://greenspace.seattle.gov/2025/12/milestones-and-momentum-seattles-duwamish-valley-program-celebrates-2025-wins-with-community-partners/
 summarized: true
 title: 'Milestones and Momentum: Seattle’s Duwamish Valley Program celebrates 2025

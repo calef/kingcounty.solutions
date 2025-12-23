@@ -6,8 +6,8 @@ feed_content: The Cascade foothills are home to the small but important South Fo
   several years. A...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://powerlines.seattle.gov/2025/11/12/building-on-a-legacy-of-learning-relicensing-the-south-fork-tolt-hydroelectric-project/
 summarized: true
 title: Building on a Legacy of Learning: Relicensing the South Fork Tolt Hydroelectric

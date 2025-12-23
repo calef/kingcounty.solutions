@@ -13,8 +13,8 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/06/2025-2026-h
   pressure and more so we can [&#8230;]'
 image_ids: []
 location_titles: []
+organization_title: Seattle Public Utilities
 published: false
-source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/06/2025-2026-highest-predicted-winter-tides/
 summarized: true
 title: 2025-2026 Highest Predicted Winter Tides 

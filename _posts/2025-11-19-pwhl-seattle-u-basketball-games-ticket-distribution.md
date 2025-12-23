@@ -158,8 +158,8 @@ feed_content: |-
   </table>
 image_ids: []
 location_titles: []
+organization_title: Snoqualmie Indian Tribe
 published: false
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/pwhl-seattle-u-basketball-games-ticket-distribution/
 summarized: true
 title: PWHL & Seattle U Basketball Games Ticket Distribution

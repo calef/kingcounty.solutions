@@ -11,8 +11,8 @@ feed_content: |-
   <p>The post <a href="https://lakecityseniors.org/lake-city-seniors-will-remain-closed-the-week-of-7-7/">Lake City Seniors will remain closed the week of 7/7</a> appeared first on <a href="https://lakecityseniors.org">Lake City Seniors</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Lake City Seniors
 published: false
-source: Lake City Seniors
 source_url: https://lakecityseniors.org/lake-city-seniors-will-remain-closed-the-week-of-7-7/
 summarized: true
 title: Lake City Seniors will remain closed the week of 7/7

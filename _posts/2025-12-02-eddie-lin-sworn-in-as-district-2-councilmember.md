@@ -5,8 +5,8 @@ feed_content: |-
   <p>The post <a rel="nofollow" href="https://council.seattle.gov/2025/12/02/eddie-lin-sworn-in-as-district-2-councilmember/">Eddie Lin sworn in as District 2 councilmember</a> appeared first on <a rel="nofollow" href="https://council.seattle.gov/">Seattle City Council Blog</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/02/eddie-lin-sworn-in-as-district-2-councilmember/
 summarized: true
 title: Eddie Lin sworn in as District 2 councilmember

@@ -7,7 +7,7 @@ feed_content: 'Want to help create joyful memories? We’re collecting gift card
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/gift-cards-for-summer-fun
 summarized: true
 title: gift cards for summer fun!

@@ -8,7 +8,7 @@ feed_content: <div><p paraid="691069960" paraeid="{67e40b44-e395-4e07-ad07-d5fba
 image_ids: []
 location_titles:
 - South King County
-source: Sound Transit
+organization_title: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/building-greener-future-sustainability-our-new-south-king-county-stations
 summarized: true
 title: 'Building a greener future: Sustainability at our new South King County stations '

@@ -11,13 +11,13 @@ feed_content_checksum: 2f51448ca90ab65a3f3bc6ce2ceac2e214316424
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 original_source_html: Recovering from this month’s flooding may be overwhelming and
   stressful. King County’s priority is keeping you safe and supporting your needs
   after the disaster. We have created a webpage to be a “one-stop shop” for resources
   and information that will be vital in the days and weeks ahead. Please visit kingcounty.gov/flood-recovery
   to learn more.
 rss_guid: https://kcemergency.com/?p=7128
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/17/flood-recovery-resources-and-information/
 summarized: true
 title: Flood recovery resources and information

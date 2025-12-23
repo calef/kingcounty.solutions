@@ -128,8 +128,8 @@ feed_content_checksum: d5ee47ea0e7d08e7a42eb94dd9c308c45600a1f7
 image_ids: []
 location_titles:
 - King County
+organization_title: Department of Health
 rss_guid: 39913 at https://doh.wa.gov
-source: Department of Health
 source_url: https://doh.wa.gov/newsroom/state-disciplines-health-care-providers-12-10-2025
 summarized: true
 title: State disciplines health care providers (12-10-2025)

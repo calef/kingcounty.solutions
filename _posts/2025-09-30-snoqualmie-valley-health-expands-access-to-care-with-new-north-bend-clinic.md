@@ -25,7 +25,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - Snoqualmie Valley
-source: Hospital District No. 4 (Snoqualmie Valley Hospital)
+organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/svh-expands-access-to-care-with-new-north-bend-clinic/
 summarized: true
 title: Snoqualmie Valley Health Expands Access to Care with New North Bend Clinic

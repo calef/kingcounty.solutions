@@ -5,8 +5,8 @@ feed_content: |-
   <p>The post <a href="https://www.familyworksseattle.org/interview-with-mike-ezzo-of-resilient-hearts-animal-sanctuary/">Interview with Mike Ezzo of Resilient Hearts Animal Sanctuary</a> appeared first on <a href="https://www.familyworksseattle.org">FamilyWorks Seattle</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: FamilyWorks Seattle
 published: false
-source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/interview-with-mike-ezzo-of-resilient-hearts-animal-sanctuary/
 summarized: true
 title: Interview with Mike Ezzo of Resilient Hearts Animal Sanctuary

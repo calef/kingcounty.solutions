@@ -24,7 +24,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Westside Neighbors Shelter
+organization_title: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/overnight-shelter-opens-november-22/?utm_source=rss&utm_medium=rss&utm_campaign=overnight-shelter-opens-november-22
 summarized: true
 title: Overnight shelter opens November 22

@@ -17,8 +17,8 @@ feed_content: "<script type=\"text/javascript\">\n\t\t\t\t\t\tvar map_fusion_map
   class=\"shortcode-map fusion-google-map fusion-maps-js-type\" id=\"fusion_map_69210e326ab66\"></div>"
 image_ids: []
 location_titles: []
+organization_title: NOSSCR Referral Service
 published: false
-source: NOSSCR Referral Service
 source_url: https://nosscr.org/nextgen-retreat/
 summarized: true
 title: NextGen Retreat

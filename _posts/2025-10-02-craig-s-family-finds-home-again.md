@@ -60,7 +60,7 @@ image_ids:
 - 75a1637b9041eba2a14a5983c17a7af3fa77b5a38c627baafa06484ca9e6a25f
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/finding-home-again-craigs-story
 summarized: true
 title: craig’s family finds home again

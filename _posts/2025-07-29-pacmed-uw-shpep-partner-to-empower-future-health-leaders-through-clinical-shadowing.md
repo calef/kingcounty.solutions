@@ -14,7 +14,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Pacific Medical Centers
+organization_title: Pacific Medical Centers
 source_url: https://www.pacificmedicalcenters.org/news/pacmed-uw-shpep-partner-to-empower-future-health-leaders-through-clinical-shadowing/
 summarized: true
 title: PacMed & UW SHPEP Partner to Empower Future Health Leaders Through Clinical

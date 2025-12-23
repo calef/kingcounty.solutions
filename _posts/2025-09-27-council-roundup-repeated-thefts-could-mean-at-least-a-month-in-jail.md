@@ -65,7 +65,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
 image_ids: []
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-repeated-thefts-could-mean-least-month-jail
 summarized: true
 title: 'Council Roundup: Repeated thefts could mean at least a month in jail'

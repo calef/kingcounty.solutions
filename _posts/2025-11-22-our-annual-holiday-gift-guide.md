@@ -5,8 +5,8 @@ feed_content: |-
   <p>The post <a href="https://agingwisdom.com/our-annual-holiday-gift-guide/">Our Annual Holiday Gift Guide</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Aging Wisdom
 published: false
-source: Aging Wisdom
 source_url: https://agingwisdom.com/our-annual-holiday-gift-guide/?utm_source=rss&utm_medium=rss&utm_campaign=our-annual-holiday-gift-guide
 summarized: true
 title: Our Annual Holiday Gift Guide

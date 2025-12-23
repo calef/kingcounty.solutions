@@ -86,8 +86,8 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   IHDD</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Institute on Human Development and Disability
 published: false
-source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/17/research-study-for-parents-of-teens-who-use-aac/
 summarized: true
 title: Research Study for Parents of Teens Who Use AAC

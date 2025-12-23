@@ -8,7 +8,7 @@ feed_content: They enjoy taking photos, playing soccer and practicing peaceful m
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/01/recognizing-metros-operators-of-the-month-september-october-2025/
 summarized: true
 title: Recognizing Metro’s Operators of the Month (September-October 2025)

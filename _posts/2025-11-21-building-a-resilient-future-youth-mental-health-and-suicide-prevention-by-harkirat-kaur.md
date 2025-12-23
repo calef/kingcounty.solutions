@@ -113,7 +113,7 @@ feed_content: "<p><strong>A Personal Story: Olivia&#8217;s Silent Struggle</stro
 image_ids: []
 location_titles:
 - King County
-source: National Alliance on Mental Illness Eastside
+organization_title: National Alliance on Mental Illness Eastside
 source_url: https://nami-eastside.org/building_a_resilient_future/
 summarized: true
 title: 'Building a Resilient Future: Youth Mental Health and Suicide Prevention –

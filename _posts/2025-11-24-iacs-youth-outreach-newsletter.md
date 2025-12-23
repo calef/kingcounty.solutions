@@ -7,7 +7,7 @@ feed_content: '[...]<p><a class="btn btn-secondary understrap-read-more-link" hr
 image_ids: []
 location_titles:
 - King County
-source: Indian American Community Services
+organization_title: Indian American Community Services
 source_url: https://iacswa.org/iacs-youth-outreach-newsletter/
 summarized: true
 title: IACS YOUTH OUTREACH NEWSLETTER

@@ -8,13 +8,13 @@ feed_content_checksum: 834986d6208ba7bcca486edc021d8111cfbae5d6
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: Many Seattle Parks and Recreation facilities will be closed,
   or on modified schedules, on two or more dates in observance of the winter holidays.
   Please see below for details.  These facilities and programs will be CLOSED on Thursday,
   December 25 ...
 published: false
 rss_guid: https://parkways.seattle.gov/?p=17062
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/18/seattle-parks-and-recreation-winter-2025-holiday-closures/
 summarized: true
 title: Seattle Parks and Recreation Winter 2025 Holiday Closures 

@@ -6,8 +6,8 @@ feed_content: The Seattle Aquarium knows firsthand that climate change, which br
   City-owned buildin...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://greenspace.seattle.gov/2025/12/how-the-seattle-aquarium-is-reducing-fossil-fuels-and-keeping-thousands-of-aquatic-animals-happy-and-healthy/
 summarized: true
 title: How the Seattle Aquarium is Reducing Fossil Fuels and Keeping Thousands of

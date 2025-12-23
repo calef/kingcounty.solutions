@@ -162,7 +162,7 @@ image_ids:
 - a0ca0accd85a1c856ba7c5313a263bbad7f4473638f4749d10524c75e8af146d
 location_titles:
 - King County
-source: Institute on Human Development and Disability
+organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/17/full-circle-ben-moores-path-to-medicine/
 summarized: true
 title: 'Full Circle: Ben Moore’s Path to Medicine'

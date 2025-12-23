@@ -82,8 +82,8 @@ feed_content: "<div class=\"et_pb_section et_pb_section_6 et_section_regular\" >
   ensure all communities have a seat at the table.</span></p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 image_ids: []
 location_titles: []
+organization_title: Inatai Foundation
 published: false
-source: Inatai Foundation
 source_url: https://inatai.org/news/vote-yes-on-vancouver-charter-amendment-13/
 summarized: true
 title: Vote Yes on Vancouver Charter Amendment 13

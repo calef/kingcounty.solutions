@@ -42,6 +42,7 @@ feed_content_checksum: db2f6d0f8363fc143abd33155448493cada5d60d
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 original_source_html: "<div> <div> <div><ul> <li><a>Alerts</a></li> <li><a>Current
   Information</a></li> <li><a>Emergency Alerts Mapping Tool</a></li> <li><a>River
   Level Information</a></li> <li><a>King County Roads Status</a></li> <li><a>WSDOT
@@ -79,7 +80,6 @@ original_source_html: "<div> <div> <div><ul> <li><a>Alerts</a></li> <li><a>Curre
   </div> <p> <label> Email Address </label> </p> </form> </div> </div> <div> <h3>Search
   This Site</h3> <div> <form> <label>Search</label> </form> </div> </div> </div> </div>"
 rss_guid: https://kcemergency.com/?p=6997
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/15/city-of-tukwila-media-alert/
 summarized: true
 title: City of Tukwila Media Alert

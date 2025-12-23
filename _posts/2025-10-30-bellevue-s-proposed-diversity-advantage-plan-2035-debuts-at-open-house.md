@@ -48,7 +48,7 @@ image_ids:
 - 025be640318ceac7d9dc181ad508c6c2d1636257707bd813b6d323e60b80d584
 location_titles:
 - Bellevue
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/bellevues-proposed-diversity-advantage-plan-2035-debuts-open-house
 summarized: true
 title: Bellevue’s proposed Diversity Advantage Plan 2035 debuts at open house

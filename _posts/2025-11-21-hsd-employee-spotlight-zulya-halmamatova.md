@@ -9,7 +9,7 @@ feed_content: Zulhumor (Zulya) Halmamatova serves as a Senior Grants &#038; Cont
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://humaninterests.seattle.gov/2025/11/21/hsd-employee-spotlight-zulya-halmamatova/
 summarized: true
 title: HSD Employee Spotlight—Zulya Halmamatova

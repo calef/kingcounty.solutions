@@ -34,7 +34,7 @@ feed_content: <p class="">Jane and her family know what it means to work hard an
 image_ids: []
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/from-hospital-halls-to-a-home-of-their-own
 summarized: true
 title: from a hospital room to a home of their own

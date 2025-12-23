@@ -6,8 +6,8 @@ feed_content: 'Translated materails: Spanish; Amharic; Somali; Vietnamese Great 
   offers free field...'
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/05/get-ready-to-play-south-park-playfield-opens-for-community-use/
 summarized: true
 title: 'Get Ready to Play: South Park Playfield Opens for Community Use! '

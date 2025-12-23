@@ -12,7 +12,7 @@ feed_content: 'LIHI and other nonprofit housing providers are calling on the Cit
 image_ids: []
 location_titles:
 - King County
-source: Low Income Housing Institute
+organization_title: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/we-need-your-help-2026-seattle-city-council-budget-action
 summarized: true
 title: We Need Your Help! 2026 Seattle City Council Budget Action

@@ -7,8 +7,8 @@ feed_content: |-
   <p><a href="https://camfed.org/day-of-the-girl-2025/" rel="nofollow">Source</a></p>
 image_ids: []
 location_titles: []
+organization_title: CAMFED - Campaign for Female Education
 published: false
-source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/day-of-the-girl-2025/
 summarized: true
 title: 'Day of the Girl 2025: Hear from future leaders'

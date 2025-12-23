@@ -10,7 +10,7 @@ feed_content: Cross posted from Metro Matters Fireworks, parades, picnics and fe
 image_ids: []
 location_titles:
 - King County
-source: King County Ferry District
+organization_title: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/01/what-to-know-before-taking-transit-to-events-on-july-4/
 summarized: true
 title: What to know before taking transit to events on July 4!

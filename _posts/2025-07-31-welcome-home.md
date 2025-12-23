@@ -12,7 +12,7 @@ feed_content: July 2025We are so grateful for your generosity in providing all o
 image_ids: []
 location_titles:
 - King County
-source: Lighthouse NW
+organization_title: Lighthouse NW
 source_url: https://lighthousenw.org/blog/welcome-home
 summarized: true
 title: Welcome Home

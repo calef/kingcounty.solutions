@@ -37,6 +37,7 @@ image_ids:
 - 860563d83f68e60f8a9831e6940326f419da9a3c8b495793d3a18e6c92a7aefd
 location_titles:
 - King County
+organization_title: The Seattle Public Library
 original_source_html: |-
   <p>Looking for family fun and community while the kids are on winter break? Our libraries have planned board game bashes, crafternoons, maker events and early New Year’s parties. We are also hosting regular <a>story times</a> and other family programming.</p>
   <p>You can also stop by one of <a>The Seattle Public Library’s locations</a> any day we’re open to explore the books and toys in our children’s sections, use services such as free printing, check out new books and get help from staff. Registration is not required at any event unless noted.</p>
@@ -60,7 +61,6 @@ original_source_html: |-
   <p><strong><a>Winter Break Crafts</a>. Wednesday, Dec. 31, from 2 p.m. to 5 p.m. </strong>Broadview Branch. Families are invited to join us in making simple crafts during winter break.</p>
   <p><strong><a>Nuestra Euforia / Our Euphoria Exhibit</a>. Through Jan. 10. Central Library Level 8 – Gallery. </strong>Curated by our Artist in Residence, Vaquero Azul, Nuestra Euforia/Our Euphoria celebrates trans and gender non-conforming community members past and present. <strong>This exhibit is in English and Spanish.</strong></p>
 rss_guid: https://blog.spl.org/?p=93510
-source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/16/winter-break-2025-activities-at-the-seattle-public-library/
 summarized: true
 title: Winter Break 2025 Activities at The Seattle Public Library

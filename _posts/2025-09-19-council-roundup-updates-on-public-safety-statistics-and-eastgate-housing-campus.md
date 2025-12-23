@@ -76,7 +76,7 @@ image_ids:
 - 1a0fed4ba3beae5d97bfd3a6ae1dbf6cbe8393527303f3904af05f5d51dfd8ef
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-updates-public-safety-statistics-eastgate-housing-campus
 summarized: true
 title: 'Council Roundup: Updates on public safety statistics and Eastgate Housing

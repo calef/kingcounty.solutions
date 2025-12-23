@@ -96,7 +96,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Operation Homefront - Critical Financial Assistance Program
+organization_title: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/holiday-meals-events-deliver-more-than-food/
 summarized: true
 title: Holiday Meals Events Deliver More Than Food 

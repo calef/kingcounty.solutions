@@ -44,6 +44,7 @@ feed_content_checksum: ff1e5704b95938ffd94d956bd1843eb7784c7328
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>Navy Veteran quits tobacco, feels like a million bucks</h2>
 
@@ -83,7 +84,6 @@ original_source_html: |-
 
   <p>If you are thinking about quitting, VA is here to help Veterans through its <a>tobacco cessation program</a>. Talk with your primary care provider to get started. </p>
 rss_guid: https://news.va.gov/?p=144030
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144030/kicking-habit-smoking-cessation-success-story/
 summarized: true
 title: 'Kicking the habit: A smoking cessation success story'

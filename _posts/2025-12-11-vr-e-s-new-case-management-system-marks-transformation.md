@@ -32,8 +32,8 @@ feed_content_checksum: 98bdde90127ebb21caf4fd7b825df776baafaa17
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 rss_guid: https://news.va.gov/?p=143576
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143576/vre-new-case-management/
 summarized: true
 title: VR&E’s new case management system marks transformation

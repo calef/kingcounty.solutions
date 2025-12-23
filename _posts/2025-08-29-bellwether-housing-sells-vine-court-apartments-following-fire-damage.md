@@ -7,7 +7,7 @@ feed_content: Bellwether Housing today announced the sale of the Vine Court Apar
 image_ids: []
 location_titles:
 - King County
-source: Bellwether Housing
+organization_title: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/bellwether-housing-sells-vine-court-apartments-following-fire-damage
 summarized: true
 title: Bellwether Housing Sells Vine Court Apartments Following Fire Damage

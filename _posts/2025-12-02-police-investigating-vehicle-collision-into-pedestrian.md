@@ -6,8 +6,8 @@ feed_content: Seattle police officers are investigating a vehicle collision into
   West Emerson Street....
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/02/police-investigating-vehicle-collision-into-pedestrian-2/
 summarized: true
 title: Police Investigating Vehicle Collision Into Pedestrian

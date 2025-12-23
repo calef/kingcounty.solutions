@@ -15,7 +15,7 @@ image_ids:
 - d442e9d82d5b52eb7481d169f261af242ce7578fcaf83d32b1fc0de6e6db04d8
 location_titles:
 - White Center
-source: Community Roots Housing
+organization_title: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/07/canopy-apartments-white-center-hub/
 summarized: true
 title: Canopy Apartments and White Center HUB take shape

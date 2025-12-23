@@ -20,7 +20,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Shoreline Lake Forest Park Senior Activity Center
+organization_title: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/mobile-dental-clinic/
 summarized: true
 title: Mobile Dental Clinic

@@ -56,6 +56,7 @@ image_ids:
 - '0935d33b18fe5df807ed944f44f6baa59dfea58a16ff127e175eb15ffd27b670'
 location_titles:
 - King County
+organization_title: Institute on Human Development and Disability
 original_source_html: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>Save
   the Date: IHDD Networking Day 2026</h2>\n<p><img src=\"https://ihdd.org/wp-content/uploads/2024/03/photo-2023-research-day-researcher-presentation.jpg\"></p>\n<p>Join
   us on Monday, May 11, 2026, at the University of Washington South Campus Center
@@ -105,7 +106,6 @@ original_source_html: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t
   a:hover .mk-svg-icon { fill: #ffffff !important;}</style>\n</div></section>\t</div>\n</aside>\n\n</div>\n\t</div>\n\n</div><p>The
   post <a>Save the Date: IHDD Networking Day 2026</a> appeared first on <a>UW IHDD</a>.</p>"
 rss_guid: https://ihdd.org/?p=17032
-source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/15/save-the-date-ihdd-networking-day-2026/
 summarized: true
 title: 'Save the Date: IHDD Networking Day 2026'

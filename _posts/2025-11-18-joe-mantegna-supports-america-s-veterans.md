@@ -55,7 +55,7 @@ image_ids:
 - 036b742a57d78c535ec5a3566af1459bc7e05c6478a5a6bc6c5bfbced346f04a
 location_titles:
 - King County
-source: Disabled American Veterans
+organization_title: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/joe-mantegna-supports-americas-veterans/
 summarized: true
 title: Joe Mantegna supports America’s veterans

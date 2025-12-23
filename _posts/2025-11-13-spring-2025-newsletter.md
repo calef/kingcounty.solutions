@@ -5,8 +5,8 @@ feed_content: |-
   </div></div></div>
 image_ids: []
 location_titles: []
+organization_title: City of Medina
 published: false
-source: City of Medina
 source_url: https://www.medina-wa.gov/centralservices/page/spring-2025-newsletter
 summarized: true
 title: Spring 2025 Newsletter

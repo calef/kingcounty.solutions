@@ -6,8 +6,8 @@ feed_content: |-
   [Read More... from IACSWA Election 2024 Write-up](https://iacswa.org/iacswa-election-2024-write-up/)
 image_ids: []
 location_titles: []
+organization_title: Indian American Community Services
 published: false
-source: Indian American Community Services
 source_url: https://iacswa.org/iacswa-election-2024-write-up/
 summarized: true
 title: IACSWA Election 2024 Write-up

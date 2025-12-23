@@ -9,7 +9,7 @@ feed_content: Six months into 2025, we continue to center our communities as we 
 image_ids: []
 location_titles:
 - King County
-source: Multi-Service Center
+organization_title: Multi-Service Center
 source_url: https://mschelps.org/staying-true-to-our-center/
 summarized: true
 title: Staying true to our center

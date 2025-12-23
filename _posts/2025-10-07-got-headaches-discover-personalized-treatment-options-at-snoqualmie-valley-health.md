@@ -35,7 +35,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - Snoqualmie Valley
-source: Hospital District No. 4 (Snoqualmie Valley Hospital)
+organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/got-headaches-discover-personalized-treatment-options-at-snoqualmie-valley-health/
 summarized: true
 title: Got Headaches? Discover Personalized Treatment Options at Snoqualmie Valley

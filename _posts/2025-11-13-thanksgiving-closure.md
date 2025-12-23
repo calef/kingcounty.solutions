@@ -16,8 +16,8 @@ feed_content: |-
   <p>Thursday, November 27 &#8211; &hellip;</p></a>
 image_ids: []
 location_titles: []
+organization_title: The Center for Active Living
 published: false
-source: The Center for Active Living
 source_url: https://wscenter.org/thanksgiving-closure/
 summarized: true
 title: Thanksgiving closure

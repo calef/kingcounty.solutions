@@ -6,8 +6,8 @@ feed_content: Seattle police officers recovered drugs and cash during an arrest 
   with expired ca...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/01/drugs-and-cash-recovered-during-arrest-in-first-hill/
 summarized: true
 title: Drugs and Cash Recovered During Arrest in First Hill

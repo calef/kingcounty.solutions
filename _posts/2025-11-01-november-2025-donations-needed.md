@@ -33,6 +33,7 @@ image_ids:
 - 99a5da044852b4e0faa6afe7d2e20a4e55a552ae48db66ff4424cdb061fce152
 location_titles:
 - South King County
+organization_title: Hospitality House
 original_source_html: |-
   <p></p>
 
@@ -60,7 +61,6 @@ original_source_html: |-
   <object></object><a>11. November 2025</a><a>Download</a>
   </div>
 rss_guid: https://hospitalityhousesouthking.org/?p=3954
-source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/november-2025-donations-needed/
 summarized: true
 title: November 2025 Donations Needed

@@ -7,8 +7,8 @@ feed_content: |-
   <p><a href="https://camfed.org/camfed-malawi-award-best-girls-education-ngo/" rel="nofollow">Source</a></p>
 image_ids: []
 location_titles: []
+organization_title: CAMFED - Campaign for Female Education
 published: false
-source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/camfed-malawi-award-best-girls-education-ngo/
 summarized: true
 title: CAMFED Malawi wins government award as best NGO for girls’ education

@@ -59,8 +59,8 @@ feed_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\" >
   in just any city in Washington.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 image_ids: []
 location_titles: []
+organization_title: Inatai Foundation
 published: false
-source: Inatai Foundation
 source_url: https://inatai.org/news/five-years-with-ruben-peralta/
 summarized: true
 title: 'Five years with Rubén Peralta: Authenticity creates powerful leaders, cultures,

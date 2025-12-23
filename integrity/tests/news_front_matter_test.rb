@@ -46,22 +46,22 @@ class NewsFrontMatterTest < Minitest::Test
     assert_empty errors, "Date issues:\n#{errors.join("\n")}"
   end
 
-  def test_source_matches_an_organization_title
+  def test_organization_title_matches_an_organization
     errors = []
 
     posts.each do |doc|
-      source = string_value(doc, 'source')
-      if source.nil? || source.empty?
-        errors << "#{doc[:path]} missing required source"
+      organization_title = string_value(doc, 'organization_title')
+      if organization_title.nil? || organization_title.empty?
+        errors << "#{doc[:path]} missing required organization_title"
         next
       end
 
-      next if organization_titles.include?(source)
+      next if organization_titles.include?(organization_title)
 
-      errors << "#{doc[:path]} source '#{source}' is not a known organization title"
+      errors << "#{doc[:path]} organization_title '#{organization_title}' is not a known organization title"
     end
 
-    assert_empty errors, "Source issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Organization title issues:\n#{errors.join("\n")}"
   end
 
   def test_source_url_is_optional_but_valid_if_present

@@ -1067,7 +1067,7 @@ image_ids:
 - f494d29d26ef5505cfe00d0ab2ab1102d965be66afde09315a5406b433738178
 location_titles:
 - King County
-source: Solid Ground
+organization_title: Solid Ground
 source_url: https://www.solid-ground.org/with-rakes-wheelbarrows-and-buckets-solid-ground-volunteers-build-community-and-connections/
 summarized: true
 title: With rakes, wheelbarrows, and buckets, Solid Ground volunteers build community

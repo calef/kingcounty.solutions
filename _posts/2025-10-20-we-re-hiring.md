@@ -15,7 +15,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - South King County
-source: Hospitality House
+organization_title: Hospitality House
 source_url: https://hospitalityhousesouthking.org/were-hiring-3/
 summarized: true
 title: We’re Hiring!

@@ -5,8 +5,8 @@ feed_content: "<p>artifact_description: General Resources</p><p>date: Mon, 28 Ju
   Coverage 2 Care</p>"
 image_ids: []
 location_titles: []
+organization_title: Centers for Medicare & Medicaid Services
 published: false
-source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/customizable-welcome-coverage-letter-spanish
 summarized: true
 title: Customizable Welcome to Coverage Letter (Spanish)

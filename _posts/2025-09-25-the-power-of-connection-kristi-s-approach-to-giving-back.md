@@ -81,7 +81,7 @@ image_ids:
 - c6d344def156695d5eeb4f251c22e65fc09fc7c8a03bd269557d5640a08cace6
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/the-power-of-connection-kristis-approach-to-giving-back
 summarized: true
 title: 'the power of connection: Kristi’s approach to giving back'

@@ -86,6 +86,7 @@ feed_content_checksum: 4ad0df6ca952f6319ae18d157ed05a9598b0f914
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>Harm reduction saves lives</h2>
 
@@ -167,7 +168,6 @@ original_source_html: |-
 
   <p></p>
 rss_guid: https://news.va.gov/?p=144025
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144025/supporting-veterans-evidence-harm-reduction/
 summarized: true
 title: Supporting Veterans through evidence-based harm reduction

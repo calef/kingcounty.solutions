@@ -18,6 +18,7 @@ feed_content_checksum: fab8b6222f8100953e813e0653b0cba44467ec66
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Bellevue
 original_source_html: "<span>King County Investigation into Dec. 12, 2025 officer-involved
   shooting</span>\n<span><span>DAAnderson</span></span>\n<span><time>Tue, 12/16/2025
   - 10:09</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>At
@@ -34,7 +35,6 @@ original_source_html: "<span>King County Investigation into Dec. 12, 2025 office
   \     \n    </div>\n  </div>"
 published: false
 rss_guid: 215581 at https://bellevuewa.gov
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/king-county-investigation-dec-12-2025-officer-involved-shooting
 summarized: true
 title: King County Investigation into Dec. 12, 2025 officer-involved shooting

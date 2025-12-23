@@ -13,6 +13,7 @@ feed_content_checksum: cbe31aa5c8a900b732918f09ac37f745f03e4215
 image_ids: []
 location_titles:
 - King County
+organization_title: Low Income Housing Institute
 original_source_html: Dear Friend of LIHI, We wish you and your family Happy Holidays!
   We are so grateful to you for helping low-income and homeless women, men and children
   access affordable housing, shelter and friendly places to shower and wash their
@@ -21,7 +22,6 @@ original_source_html: Dear Friend of LIHI, We wish you and your family Happy Hol
   crisis. Because of your support, this year we were able to offer more than 10,000
   people a...
 rss_guid: 6949909fd4fba6e402a49be2
-source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/happy-holidays-your-gift-improves-lives
 summarized: true
 title: Happy Holidays! Your Gift Improves Lives!

@@ -23,7 +23,7 @@ image_ids:
 - 193f75649a4e1c1194a33cb38cd34a2f1193ab9ba829edf9bd66e253bae3f833
 location_titles:
 - King County
-source: Washington Center for Deaf and Hard of Hearing Youth
+organization_title: Washington Center for Deaf and Hard of Hearing Youth
 source_url: https://www.cdhy.wa.gov/local-meet-ups-becoming-connection-in-the-community/
 summarized: true
 title: 'Local Meet-Ups – Becoming: Connection in the Community'

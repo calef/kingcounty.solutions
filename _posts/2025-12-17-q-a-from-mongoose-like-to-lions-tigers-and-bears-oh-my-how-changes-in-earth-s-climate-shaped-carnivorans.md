@@ -41,6 +41,7 @@ feed_content_checksum: 6daab9e8f1ea5864aa49194f6a4976c3fdc45346
 image_ids: []
 location_titles:
 - King County
+organization_title: University of Washington
 original_source_html: |-
   <div>
   <a><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/12/15151912/glen-carrie-VUemmQZYMcg-unsplash-750x463.jpg"></a>
@@ -80,7 +81,6 @@ original_source_html: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 published: false
 rss_guid: https://www.washington.edu/news/?p=90101
-source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/16/from-mongoose-like-to-lions-tigers-bears-how-changes-in-earths-climate-shaped-carnivorans/
 summarized: true
 title: 'Q&A: From ‘mongoose-like’ to lions, tigers and bears (oh my) — how changes

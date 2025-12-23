@@ -82,7 +82,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Arcora Foundation
+organization_title: Arcora Foundation
 source_url: https://arcorafoundation.org/practical-approaches-for-dental-fear-management/
 summarized: true
 title: Practical Approaches for Dental Fear Management

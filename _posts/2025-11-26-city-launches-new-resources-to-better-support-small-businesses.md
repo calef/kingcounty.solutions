@@ -62,8 +62,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   26 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/city-launches-new-resources-better-support-small-businesses
 summarized: true
 title: City launches new resources to better support small businesses

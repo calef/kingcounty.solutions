@@ -13,8 +13,8 @@ feed_content: |-
   <p>&nbsp;</p>
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/seeking-planning-commissioner/
 summarized: true
 title: Seeking Planning Commissioner

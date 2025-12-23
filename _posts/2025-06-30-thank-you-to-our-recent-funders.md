@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Juma Ventures
+organization_title: Juma Ventures
 source_url: https://www.juma.org/2025/06/30/thank-you-to-our-recent-funders-12/
 summarized: true
 title: Thank You to our Recent Funders

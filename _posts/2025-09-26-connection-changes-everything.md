@@ -7,7 +7,7 @@ feed_content: For older adults, isolation can have serious consequences. Studies
 image_ids: []
 location_titles:
 - Eastside
-source: Eastside Friends of Seniors
+organization_title: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/connection-changes-everything
 summarized: true
 title: Connection Changes Everything

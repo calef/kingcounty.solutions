@@ -48,8 +48,8 @@ feed_content_checksum: fa314315cfd6f0df61e851e242d8bddbf230c050
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 rss_guid: https://news.va.gov/?p=143648
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143648/va-research-wrap-up-gastric-cancer-kidney/
 summarized: true
 title: 'VA Research Wrap Up: New findings on gastric cancer, chronic kidney disease

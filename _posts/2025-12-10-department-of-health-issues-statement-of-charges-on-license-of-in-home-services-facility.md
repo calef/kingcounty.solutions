@@ -45,8 +45,8 @@ feed_content_checksum: 01f58586b175a8cbfa3a69d2a396326e8d21578d
 image_ids: []
 location_titles:
 - King County
+organization_title: Department of Health
 rss_guid: 39900 at https://doh.wa.gov
-source: Department of Health
 source_url: https://doh.wa.gov/newsroom/department-health-issues-statement-charges-license-home-services-facility
 summarized: true
 title: Department of Health issues statement of charges on license of in-home services

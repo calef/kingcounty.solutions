@@ -75,7 +75,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143326/veterans-inspiring-breast-cancer-journey/
 summarized: true
 title: Veteran’s inspiring breast cancer journey

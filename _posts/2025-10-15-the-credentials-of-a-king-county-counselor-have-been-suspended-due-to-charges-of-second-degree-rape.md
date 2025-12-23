@@ -36,7 +36,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Department of Health
+organization_title: Department of Health
 source_url: https://doh.wa.gov/newsroom/credentials-king-county-counselor-have-been-suspended-due-charges-second-degree-rape
 summarized: true
 title: The credentials of a King County counselor have been suspended due to charges

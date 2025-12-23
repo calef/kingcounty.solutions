@@ -138,7 +138,7 @@ feed_content_checksum: f8e23cfd2053b0bf08452e7d571849f662226d1a
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143786/my-mentor-helped-me-double-my-salary/
 summarized: true
 title: "“My mentor helped me double my salary”"

@@ -37,7 +37,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
 image_ids: []
 location_titles:
 - King County
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/opioid-prevention-recruitment
 summarized: true
 title: City seeks opioid education and prevention provider

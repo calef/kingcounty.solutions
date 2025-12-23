@@ -163,7 +163,7 @@ image_ids:
 - 2ab801c85fc78ca1a76964de6c5956a6966b536a693a2c79635db3d0b52b2cab
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/breaking-the-cycle-supporting-children-experiencing-homelessnessnbsp
 summarized: true
 title: 'breaking the cycle: supporting children experiencing homelessness'

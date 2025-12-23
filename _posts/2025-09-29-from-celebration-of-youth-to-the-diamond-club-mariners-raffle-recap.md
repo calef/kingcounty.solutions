@@ -7,7 +7,7 @@ feed_content: At this year’s Celebration of Youth Foster Care event, Autumn Li
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/from-celebration-of-youth-to-the-diamond-club-mariners-raffle-recap
 summarized: true
 title: 'from celebration of youth to the diamond club: mariners raffle recap'

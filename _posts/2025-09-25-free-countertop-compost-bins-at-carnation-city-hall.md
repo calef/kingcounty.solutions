@@ -17,8 +17,8 @@ feed_content: "**How to use your compost pail:**\n\n- Keep your compost kitchen 
   appeared first on [Carnation, WA](https://www.carnationwa.gov)."
 image_ids: []
 location_titles: []
+organization_title: City of Carnation
 published: false
-source: City of Carnation
 source_url: https://www.carnationwa.gov/free-countertop-compost-bins-at-carnation-city-hall/
 summarized: true
 title: Free Countertop Compost Bins at Carnation City Hall

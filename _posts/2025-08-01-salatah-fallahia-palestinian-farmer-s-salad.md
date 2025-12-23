@@ -20,8 +20,8 @@ feed_content: '<p class="">Recipe adapted from Nadia Tommalieh</p><p class="">Yi
   serving.</p>'
 image_ids: []
 location_titles: []
+organization_title: Rainier Valley Food Bank
 published: false
-source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/salatah-fallahia-palestinian-farmers-salad
 summarized: true
 title: Salatah Fallahia (Palestinian Farmer’s Salad)

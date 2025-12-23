@@ -30,7 +30,7 @@ feed_content: "<p><strong>Participant Story: Linda’s Journey of Rediscovery</s
 image_ids: []
 location_titles:
 - King County
-source: Cancer Lifeline Financial Assistance for Cancer Patients
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/cancer-retreat-participant-linda/
 summarized: true
 title: Linda’s Story

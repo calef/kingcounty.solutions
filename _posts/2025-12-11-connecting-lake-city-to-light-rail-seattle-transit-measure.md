@@ -11,8 +11,8 @@ feed_content_checksum: '02494e22a4bd95c902292f60ea661f81591f08b3'
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 rss_guid: https://sdotblog.seattle.gov/?p=37984
-source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/11/connecting-lake-city-transit-30th-ave-ne-project/
 summarized: true
 title: Connecting Lake City to Light Rail | SEATTLE TRANSIT MEASURE

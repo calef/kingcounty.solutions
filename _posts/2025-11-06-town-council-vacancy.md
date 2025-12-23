@@ -43,8 +43,8 @@ feed_content: "**Notice: Town Council Vacancy**\n\n[Application for Appointment 
   to select an appointee.\n\nThank you for your interest in serving our community."
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/town-council-vacancy/
 summarized: true
 title: Town Council Vacancy

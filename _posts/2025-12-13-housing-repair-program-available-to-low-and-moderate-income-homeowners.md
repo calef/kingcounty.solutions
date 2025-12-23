@@ -11,8 +11,8 @@ feed_content_checksum: ced3579a0b01608bdb02ebce6ba75cd3c96243d1
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 rss_guid: https://kcemergency.com/?p=6831
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/12/housing-repair-program-available-to-low-and-moderate-income-homeowners/
 summarized: true
 title: Housing repair program available to low and moderate-income homeowners

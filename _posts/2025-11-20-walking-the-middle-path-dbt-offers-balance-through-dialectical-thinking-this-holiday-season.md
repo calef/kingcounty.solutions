@@ -52,7 +52,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: THIRA Health
+organization_title: THIRA Health
 source_url: https://thirahealth.com/2025/11/20/walking-the-middle-path-dbt-offers-balance-through-dialectical-thinking-this-holiday-season/?utm_source=rss&utm_medium=rss&utm_campaign=walking-the-middle-path-dbt-offers-balance-through-dialectical-thinking-this-holiday-season
 summarized: true
 title: 'Walking the Middle Path: DBT Offers Balance Through Dialectical Thinking this

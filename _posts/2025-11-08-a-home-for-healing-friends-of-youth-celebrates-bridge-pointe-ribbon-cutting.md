@@ -12,7 +12,7 @@ feed_content: Friends of Youth has officially opened Bridge Pointe Housing, a he
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/a-home-for-healing-friends-of-youth-celebrates-bridge-pointe-ribbon-cutting
 summarized: true
 title: 'a home for healing: friends of youth celebrates bridge pointe ribbon cutting'

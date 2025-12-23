@@ -40,6 +40,7 @@ image_ids:
 - 247923f38b4ea699bb770b078865a8109cab1ab5fb07136ddf0f995196aa1981
 location_titles:
 - King County
+organization_title: Compass Housing Alliance
 original_source_html: |-
   <figure><a><img src="https://www.compasshousingalliance.org/wp-content/uploads/2025/12/We-are-hiring-FB-Facebook-Post-6.png"></a></figure>
 
@@ -74,7 +75,6 @@ original_source_html: |-
   <p>You can be a part of Eugenia’s story by sending a gift to Compass today. Please consider giving to help support a place for Seniors where they can continue to find dignity, love, and respect. Your support means so much to us.</p>
   <p>The post <a>A place for our Seniors</a> appeared first on <a>Compass Housing Alliance</a>.</p>
 rss_guid: https://www.compasshousingalliance.org/?p=12512
-source: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/12/a-place-for-our-seniors/
 summarized: true
 title: A place for our Seniors

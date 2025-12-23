@@ -51,7 +51,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143231/va-research-wrap-up-brain-interfaces-cancer-age/
 summarized: true
 title: 'VA Research Wrap Up: New findings on brain-computer interfaces, cancer treatment

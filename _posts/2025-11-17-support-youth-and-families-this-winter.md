@@ -16,7 +16,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Vibrant Emotional Health
+organization_title: Vibrant Emotional Health
 source_url: https://www.vibrant.org/support-youth-and-families-this-winter/
 summarized: true
 title: Support Youth and Families This Winter

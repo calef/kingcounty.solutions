@@ -5,8 +5,8 @@ feed_content: |-
   <p>The post <a rel="nofollow" href="https://council.seattle.gov/2025/11/19/council-president-nelson-announces-new-good-governance-legislation-for-city-contracted-consultants/">Council President Nelson announces new good governance legislation for city-contracted consultants</a> appeared first on <a rel="nofollow" href="https://council.seattle.gov/">Seattle City Council Blog</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://council.seattle.gov/2025/11/19/council-president-nelson-announces-new-good-governance-legislation-for-city-contracted-consultants/
 summarized: true
 title: Council President Nelson announces new good governance legislation for city-contracted

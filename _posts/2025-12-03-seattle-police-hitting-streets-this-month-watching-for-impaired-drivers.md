@@ -6,8 +6,8 @@ feed_content: Throughout the month of December, the Seattle Police Department Tr
   attention t...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/03/seattle-police-hitting-streets-this-month-watching-for-impaired-drivers/
 summarized: true
 title: Seattle Police Hitting Streets This Month Watching for Impaired Drivers

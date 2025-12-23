@@ -9,11 +9,11 @@ feed_content_checksum: 124e99a491182efdd05830c0cc662d5608e757c1
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Metro Transit
 original_source_html: 'Weekend Service Impacts Routes 7, 106 and ST 554 will have
   stop #8494 Rainier Avenue S &amp; S Charles Street (northbound) closed from 7 a.m.
   to 8 p.m. on Saturday, December...'
 rss_guid: https://kingcountymetro.blog/?p=67957
-source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/19/metro-weekend-update-december-19-21-2025/
 summarized: true
 title: Metro Weekend Update – December 19-21, 2025

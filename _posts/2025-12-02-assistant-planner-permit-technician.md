@@ -13,8 +13,8 @@ feed_content: This position is responsible for professional-level urban planning
   requirements for permit applications.
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/human-resources/assistant-planner-permit-technician/
 summarized: true
 title: Assistant Planner/Permit Technician

@@ -54,7 +54,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Boys & Girls Clubs of King County
+organization_title: Boys & Girls Clubs of King County
 source_url: https://positiveplace.org/meeting-the-moment-how-our-community-can-help-feed-kids-impacted-by-the-snap-benefit-loss/
 summarized: true
 title: 'Meeting the Moment: How Our Community Can Help Feed Kids Impacted by the SNAP

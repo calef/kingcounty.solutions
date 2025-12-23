@@ -63,6 +63,7 @@ feed_content: |-
 feed_content_checksum: 685a1ce48b975b00721bc19c474f9bf44dc3b72e
 image_ids: []
 location_titles: []
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <p>With almost a quarter of all Veterans in the United States residing in rural communities, ensuring they receive quality health care close to home is more important than ever. The Department of Veterans Affairs (VA) actively works to meet these Veterans in their own communities and promote opportunities to live happy and healthy lives. </p>
 
@@ -125,7 +126,6 @@ original_source_html: |-
   <p></p>
 published: false
 rss_guid: https://news.va.gov/?p=143984
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143984/make-a-difference-at-a-rural-va/
 summarized: true
 title: Make a difference at a rural VA 

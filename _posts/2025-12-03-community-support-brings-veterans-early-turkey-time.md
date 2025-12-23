@@ -52,8 +52,8 @@ feed_content: |-
   <p>The turkey giveaway not only provided meals but also fostered a sense of camaraderie among Veterans, reminding them they are not alone. “I just moved here last year from the East Coast and I am so impressed with how the community here comes together to support Veterans,” said Army Veteran Michael Woodward, summing up the sentiments of the day. “Texas really knows how to treat us right.”</p>
 image_ids: []
 location_titles: []
+organization_title: Veterans Affairs Pension Program
 published: false
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143675/community-support-brings-veterans-early-turkey/
 summarized: true
 title: Community support brings Veterans early turkey time

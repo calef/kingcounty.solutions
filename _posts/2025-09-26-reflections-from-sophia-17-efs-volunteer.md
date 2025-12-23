@@ -7,7 +7,7 @@ feed_content: June 8, 2025 was a day filled with both joy and bittersweet goodby
 image_ids: []
 location_titles:
 - Eastside
-source: Eastside Friends of Seniors
+organization_title: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/reflections-from-sophia-efs-volunteer
 summarized: true
 title: Reflections from Sophia (17) - EFS Volunteer

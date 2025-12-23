@@ -48,7 +48,7 @@ feed_content: <p class="">We’re thrilled to share that we have raised $16 mill
 image_ids: []
 location_titles:
 - King County
-source: Rainier Valley Food Bank
+organization_title: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/find-your-place-in-abundance-with-room-for-all-campaign
 summarized: true
 title: Find Your Place in Abundance with ‘Room for All’ Campaign

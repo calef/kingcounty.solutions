@@ -15,9 +15,9 @@ feed_content_checksum: 490f7fb6589495c66f048d4282ab009954b10ca6
 image_ids: []
 location_titles:
 - King County
+organization_title: Shoreline Lake Forest Park Senior Activity Center
 published: false
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10635
-source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/ukrainian-folk-art/
 summarized: true
 title: Ukrainian Folk Art

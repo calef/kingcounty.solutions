@@ -6,8 +6,8 @@ feed_content: Growing up in Alaska, Hawai’i and the Northwest, Dan Krehbiel ha
   of piloting tour boats and fast ferries from Trinidad and the Caribbean&#8230;
 image_ids: []
 location_titles: []
+organization_title: King County Ferry District
 published: false
-source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/23/first-mariner-dan-krehbiel-is-leaving-the-helm/
 summarized: true
 title: "‘First Mariner’ Dan Krehbiel is leaving the helm"

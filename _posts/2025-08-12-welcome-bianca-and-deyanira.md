@@ -19,7 +19,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - Eastside
-source: Eastside Legal Assistance Program
+organization_title: Eastside Legal Assistance Program
 source_url: https://elap.org/welcome-bianca-and-deyanira/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-bianca-and-deyanira
 summarized: true
 title: Welcome Bianca and Deyanira

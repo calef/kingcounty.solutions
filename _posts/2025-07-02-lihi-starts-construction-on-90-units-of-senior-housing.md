@@ -7,7 +7,7 @@ feed_content: Rendering by Runberg Architecture Group LIHI is pleased to announc
 image_ids: []
 location_titles:
 - King County
-source: Low Income Housing Institute
+organization_title: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/lihi-starts-construction-on-90-units-of-senior-housing
 summarized: true
 title: LIHI Starts Construction on 90 Units of Senior Housing

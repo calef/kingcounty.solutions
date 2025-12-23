@@ -29,7 +29,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Eastside Legal Assistance Program
+organization_title: Eastside Legal Assistance Program
 source_url: https://elap.org/what-exactly-is-civil-legal-aid-and-why-is-it-so-important/?utm_source=rss&utm_medium=rss&utm_campaign=what-exactly-is-civil-legal-aid-and-why-is-it-so-important
 summarized: true
 title: What exactly is civil legal aid and why is it so important?

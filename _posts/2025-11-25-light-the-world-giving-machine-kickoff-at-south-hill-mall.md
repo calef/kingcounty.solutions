@@ -17,6 +17,7 @@ feed_content: "<p>What a beautiful morning celebrating the installation of this 
 feed_content_checksum: f80d835b330edea52975acdc861c9967edfeeb61
 image_ids: []
 location_titles: []
+organization_title: Essentials First
 original_source_html: "<p>What a beautiful morning celebrating the installation of
   this year’s <a><strong>Light The World Giving Machines</strong></a> at South Hill
   Mall!</p><p>You can find us in Giving Machines at South Hill Mall in Puyallup and
@@ -33,7 +34,6 @@ original_source_html: "<p>What a beautiful morning celebrating the installation 
   \           \n          \n        \n          \n        \n\n        \n      \n        </figure>"
 published: false
 rss_guid: 6244ce6a3e335a451b9540a9:624caee16c60887eca0ad917:6944615af6d3b31319a0e507
-source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/8kxmi5msf1k8e4hamh2sxztfe9sv06
 summarized: true
 title: Light the World Giving Machine Kickoff at South Hill Mall

@@ -8,7 +8,7 @@ feed_content: Weekend Service Impacts Route 181 will be rerouted off of E Main 
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/07/metro-weekend-update-november-7-9-2025/
 summarized: true
 title: Metro Weekend Update – November 7-9, 2025

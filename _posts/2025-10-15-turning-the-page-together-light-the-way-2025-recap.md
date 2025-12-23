@@ -75,7 +75,7 @@ image_ids:
 - 4fdf634f8e2d9acd0422227e42b3947d305b989a74b3670d8df4da23b7be127d
 location_titles:
 - King County
-source: PorchLight
+organization_title: PorchLight
 source_url: https://porchlightcares.org/2025/10/turning-the-page-together-light-the-way-2025-recap/
 summarized: true
 title: 'Turning the Page Together: Light the Way 2025 Recap'

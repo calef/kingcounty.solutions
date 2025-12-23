@@ -9,7 +9,7 @@ feed_content_checksum: b3d46bfff4435e66a5b606d77f2b3f99dca98cfa
 image_ids: []
 location_titles:
 - King County
-source: Aging Wisdom
+organization_title: Aging Wisdom
 source_url: https://agingwisdom.com/how-to-make-the-holidays-more-dementia-friendly-and-inclusive/
 summarized: true
 title: How to make the holidays more dementia-friendly and -inclusive

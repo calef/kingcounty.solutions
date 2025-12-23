@@ -31,7 +31,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Asian Counseling and Referral Service
+organization_title: Asian Counseling and Referral Service
 source_url: https://acrs.org/community-rises-at-2025-acrs-gala-as-ceo-kendee-yamaguchi-announces-relaunch-of-legal-clinic/
 summarized: true
 title: Community Rises at ACRS Gala, Stand Together Under the Theme ‘Not On Our Watch’

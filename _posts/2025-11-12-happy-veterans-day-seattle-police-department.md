@@ -6,8 +6,8 @@ feed_content: Today, we take time to honor the brave men and women who have serv
   Your service to...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/11/happy-veterans-day-seattle-police-department/
 summarized: true
 title: Happy Veterans Day, Seattle Police Department

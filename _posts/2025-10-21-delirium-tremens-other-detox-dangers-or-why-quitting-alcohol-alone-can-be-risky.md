@@ -129,7 +129,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
 image_ids: []
 location_titles:
 - King County
-source: Lakeside-Milam Recovery Centers
+organization_title: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/delirium-tremens-other-detox-dangers-or-why-quitting-alcohol-alone-can-be-risky/
 summarized: true
 title: Delirium Tremens & Other Detox Dangers … or Why Quitting Alcohol Alone Can

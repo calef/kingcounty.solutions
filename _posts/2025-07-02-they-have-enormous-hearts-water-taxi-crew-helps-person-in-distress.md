@@ -6,8 +6,8 @@ feed_content: The crew of the King County Water Taxi Sally Fox saw the person on
   to downtown Seattle, Deckhand Zack Klaja noticed a person standing on&#8230;
 image_ids: []
 location_titles: []
+organization_title: King County Ferry District
 published: false
-source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/02/they-have-enormous-hearts-water-taxi-crew-helps-person-in-distress/
 summarized: true
 title: "‘They have enormous hearts:’ Water Taxi crew helps person in distress"

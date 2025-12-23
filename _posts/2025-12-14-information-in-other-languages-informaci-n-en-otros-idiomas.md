@@ -10,8 +10,8 @@ feed_content_checksum: abe1754c6e58fd67fdcf6fa694a2b07bf1bdd7de
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 rss_guid: https://kcemergency.com/?p=6905
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/14/information-in-other-languages-informacion-en-otros-idiomas/
 summarized: true
 title: Information in other languages / Información en otros idiomas

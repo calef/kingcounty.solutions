@@ -28,7 +28,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Eastside Legal Assistance Program
+organization_title: Eastside Legal Assistance Program
 source_url: https://elap.org/an-easy-way-to-help/?utm_source=rss&utm_medium=rss&utm_campaign=an-easy-way-to-help
 summarized: true
 title: An easy way to help

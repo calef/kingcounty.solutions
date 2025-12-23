@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: FamilyWorks Seattle
+organization_title: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/breaking-new-ground-at-familyworks/
 summarized: true
 title: Breaking New Ground at FamilyWorks

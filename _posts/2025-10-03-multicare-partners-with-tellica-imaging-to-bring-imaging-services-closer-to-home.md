@@ -20,7 +20,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: MultiCare
+organization_title: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/10/multicare-partners-with-tellica-imaging-to-bring-imaging-services-closer-to-home/
 summarized: true
 title: MultiCare partners with Tellica Imaging to bring imaging services closer to

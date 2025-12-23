@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: St. Luke Episcopal Church
+organization_title: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/08/08/august-3-2025-the-rev-canon-britt-olson/
 summarized: true
 title: August 3, 2025 — The Rev Canon Britt Olson

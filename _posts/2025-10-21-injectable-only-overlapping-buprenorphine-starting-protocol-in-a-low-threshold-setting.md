@@ -10,7 +10,7 @@ feed_content: DESC’s innovative new method for administering opioid use disord
 image_ids: []
 location_titles:
 - King County
-source: DESC
+organization_title: DESC
 source_url: https://www.desc.org/injectable-only-overlapping-buprenorphine-starting-protocol-in-a-low-threshold-setting/
 summarized: true
 title: Injectable-Only Overlapping Buprenorphine Starting Protocol in a Low-Threshold

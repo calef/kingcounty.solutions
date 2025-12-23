@@ -5,11 +5,11 @@ feed_content_checksum: 12fd907c574e4e3b0d6008d22f679bd97977a2a4
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Black Diamond
 original_source_html: "<div>\n  \n      \n    <span>01/01/2026 (All day)</span>\n
   \     </div>"
 published: false
 rss_guid: 27481 at https://www.blackdiamondwa.gov
-source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27481
 summarized: true
 title: City Offices Closed - New Year's Day

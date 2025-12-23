@@ -65,8 +65,8 @@ feed_content: |-
   The post [Reducing Flood Risk: A Look Back at Completed Flood Risk Reduction Projects](https://kingcountyfloodcontrol.org/reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
 image_ids: []
 location_titles: []
+organization_title: King County Flood Control District
 published: false
-source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6/?utm_source=rss&utm_medium=rss&utm_campaign=reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6
 summarized: true
 title: 'Reducing Flood Risk: A Look Back at Completed Flood Risk Reduction Projects'

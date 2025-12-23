@@ -69,6 +69,7 @@ feed_content: |-
 feed_content_checksum: accaba9d7f7d9e06cc302ec15fe7babf2825fa2b
 image_ids: []
 location_titles: []
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>Life-changing relief</h2>
 
@@ -137,7 +138,6 @@ original_source_html: |-
   <p>It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to <a>get started</a>. </p>
 published: false
 rss_guid: https://news.va.gov/?p=144076
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144076/pelvic-health-pt-restores-quality-of-life/
 summarized: true
 title: Pelvic health physical therapy restores quality of life for Veterans

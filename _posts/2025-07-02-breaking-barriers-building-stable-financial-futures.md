@@ -45,7 +45,7 @@ feed_content: "<p class=\"\">Too often, navigating the banking system, budgeting
 image_ids: []
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/breaking-barriers-building-stable-futures-financial-literacy-for-all
 summarized: true
 title: breaking barriers, building stable financial futures

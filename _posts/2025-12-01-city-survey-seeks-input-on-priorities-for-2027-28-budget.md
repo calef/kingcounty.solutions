@@ -65,7 +65,7 @@ image_ids:
 - bac2132fad8b97a7cff2984bd9e67e54815ee9bc0e93fce0b1d1e9cbbc3d11ba
 location_titles:
 - Bellevue
-source: City of Bellevue
+organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/budget-survey-25
 summarized: true
 title: City survey seeks input on priorities for 2027–28 budget

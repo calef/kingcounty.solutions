@@ -123,8 +123,8 @@ feed_content: "<div class=\"et_pb_section et_pb_section_4 blog-post-type et_sect
   plans in Tri-Cities announced</a> appeared first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Lutheran Community Services Northwest
 published: false
-source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/10/new-tc-location/
 summarized: true
 title: New office and expansion plans in Tri-Cities announced

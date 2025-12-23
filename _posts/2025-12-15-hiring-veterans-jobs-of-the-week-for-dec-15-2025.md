@@ -277,6 +277,7 @@ feed_content: |-
 feed_content_checksum: 40cacd46b535ce85291663e33620aa8b3b6d8559
 image_ids: []
 location_titles: []
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <p>Editor’s note: This post contains links to jobs that are active at the time of publishing. Most job listings close 7–30 days after posting. The sharing of any non-VA information does not constitute an endorsement of products or services by VA. Veterans should verify all information with the organization offering the opportunity.</p>
 
@@ -553,7 +554,6 @@ original_source_html: |-
   <p><a>Norfolk, VA: Hampton Roads Military Community Education Connect (Southside) – Thursdays</a></p>
 published: false
 rss_guid: https://news.va.gov/?p=144018
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144018/hiring-veterans-jobs-of-the-week-for-dec-15-2025/
 summarized: true
 title: 'Hiring Veterans: Jobs of the week for Dec. 15, 2025'

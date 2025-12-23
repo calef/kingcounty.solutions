@@ -9,7 +9,7 @@ feed_content: Community Corner highlights the work of Seattle Human Services’ 
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://humaninterests.seattle.gov/2025/11/25/community-corner-african-american-reach-and-teach-health-ministry-aarth/
 summarized: true
 title: Community Corner—African American Reach and Teach Health Ministry (AARTH)

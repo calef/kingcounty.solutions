@@ -656,7 +656,7 @@ image_ids:
 - 2025ce18a9a802b61feb8db4029aa7fe2de74c6b988e850d3c3db56d49a0fdf2
 location_titles:
 - King County
-source: Solid Ground
+organization_title: Solid Ground
 source_url: https://www.solid-ground.org/building-skills-for-the-kitchen-and-beyond/
 summarized: true
 title: Building skills for the kitchen and beyond 

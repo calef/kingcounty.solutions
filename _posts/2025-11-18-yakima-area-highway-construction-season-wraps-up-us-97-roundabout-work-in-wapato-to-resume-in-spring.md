@@ -6,8 +6,8 @@ feed_content: WAPATO – The 2025 highway construction season is winding down in
   A in Wapato will pause for the winter and pick back up next spring.
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/yakima-area-highway-construction-season-wraps-us-97-roundabout-work-wapato-resume-spring
 summarized: true
 title: Yakima-area highway construction season wraps up, US 97 roundabout work in

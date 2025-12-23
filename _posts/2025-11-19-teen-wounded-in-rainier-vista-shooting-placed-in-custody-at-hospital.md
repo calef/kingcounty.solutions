@@ -6,8 +6,8 @@ feed_content: Seattle police detectives are investigating a shooting Tuesday eve
   received report...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/19/teen-wounded-in-rainier-vista-shooting-placed-in-custody-at-hospital/
 summarized: true
 title: Teen Wounded in Rainier Vista Shooting, Placed in Custody at Hospital

@@ -29,8 +29,8 @@ feed_content: |-
   <p><span data-contrast="auto">Happy Reading and Sharing!</span><span data-ccp-props="{}"> </span></p>
 image_ids: []
 location_titles: []
+organization_title: The Seattle Public Library
 published: false
-source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/03/2025-staff-favorites-picture-books/
 summarized: true
 title: '2025 Staff Faves: Picture Books'

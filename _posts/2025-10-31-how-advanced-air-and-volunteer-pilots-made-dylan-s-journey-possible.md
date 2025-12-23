@@ -61,7 +61,7 @@ image_ids:
 - 790d7b4e287cde057881c676460bf09a67a08df166986753cbfcb4f7f64b45b4
 location_titles:
 - King County
-source: Angel Flight West
+organization_title: Angel Flight West
 source_url: https://angelflightwest.org/news/how-advanced-air-and-volunteer-pilots-made-dylans-journey-possible/
 summarized: true
 title: How Advanced Air and Volunteer Pilots Made Dylan’s Journey Possible

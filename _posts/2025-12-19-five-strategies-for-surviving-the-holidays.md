@@ -68,6 +68,7 @@ feed_content_checksum: 60e29c36c0ef3dedb7033cb057480c7133c3ae06
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>Learn how to navigate the season when you’re already experiencing challenges</h2>
 
@@ -131,7 +132,6 @@ original_source_html: |-
 
   <p>It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to <a>get started</a>.</p>
 rss_guid: https://news.va.gov/?p=144034
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144034/five-strategies-for-surviving-the-holidays/
 summarized: true
 title: Five strategies for surviving the holidays

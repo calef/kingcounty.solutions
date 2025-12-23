@@ -71,7 +71,7 @@ image_ids:
 - cb5a9635dead2951c8347a6061e3224ed5fc8bd2b7f8aa37e219f4473ec3cdb1
 location_titles:
 - King County
-source: Mary's Place
+organization_title: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/every-mom-deserves-support-a-partnership-for-healthy-births-at-marys-place
 summarized: true
 title: 'every mom deserves support: a partnership for healthy births at mary’s place'

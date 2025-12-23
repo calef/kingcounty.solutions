@@ -20,7 +20,7 @@ image_ids:
 - a4496bc91403db7f920ddd6c8e67fe2289d070bc8c40c583256adefc73735eb5
 location_titles:
 - King County
-source: Northwest Harvest
+organization_title: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/artists-for-food-justice-december/
 summarized: true
 title: 'Food is Joy: Eddie Gonzalez'

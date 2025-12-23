@@ -36,7 +36,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Operation Homefront - Critical Financial Assistance Program
+organization_title: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/final-call-for-2026-mcoy-nominations/
 summarized: true
 title: Final Call for 2026 MCOY Nominations

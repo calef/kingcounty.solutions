@@ -12,6 +12,7 @@ feed_content_checksum: 6e6c6af5c400412393a2d8ece9db9c88a4a493e4
 image_ids: []
 location_titles:
 - King County
+organization_title: Friends of Youth
 original_source_html: This year, our community came together in an extraordinary way
   to support the Friends of Youth Giving Tree—and because of you,  more than  300
   young people and families  will experience a brighter, more joyful holiday season.
@@ -20,7 +21,6 @@ original_source_html: This year, our community came together in an extraordinary
   supported, and celebrated. Your generosity did more than fulfill wish lists —it
   reminded our youth,...
 rss_guid: 6944492ba79f8c9ba2af979b
-source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/celebrating-a-season-of-giving-thank-you-for-making-our-giving-tree-a-success
 summarized: true
 title: 'celebrating a season of giving: thank you for making our giving tree a success!'

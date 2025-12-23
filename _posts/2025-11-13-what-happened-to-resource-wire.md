@@ -9,8 +9,8 @@ feed_content: |-
   <p><span data-ccp-props="{}"> </span></p>The post <a href="https://www.solid-ground.org/what-happened-to-resource-wire/">What happened to Resource Wire? </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
 image_ids: []
 location_titles: []
+organization_title: Solid Ground
 published: false
-source: Solid Ground
 source_url: https://www.solid-ground.org/what-happened-to-resource-wire/
 summarized: true
 title: What happened to Resource Wire? 

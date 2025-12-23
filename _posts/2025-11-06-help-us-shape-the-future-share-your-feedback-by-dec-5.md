@@ -11,7 +11,7 @@ feed_content: <div><p paraid="260982536" paraeid="{d5cba2c4-b8cd-4807-ab49-ea24a
 image_ids: []
 location_titles:
 - King County
-source: Sound Transit
+organization_title: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/help-us-shape-future-share-your-feedback-dec-5
 summarized: true
 title: 'Help us shape the future: Share your feedback by Dec. 5  '

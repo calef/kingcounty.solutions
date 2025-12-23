@@ -45,8 +45,8 @@ feed_content: |-
   <p>Our <a href="https://www.doh.wa.gov/" target="_blank">website</a> is your source for a healthy dose of information. Get updates by following us on <a href="https://doh.wa.gov/about-us/contact-us/social-media" target="_blank">social media</a>.</p></div>
 image_ids: []
 location_titles: []
+organization_title: Department of Health
 published: false
-source: Department of Health
 source_url: https://doh.wa.gov/newsroom/grays-harbor-county-resident-dies-complications-avian-influenza
 summarized: true
 title: Grays Harbor County resident dies from complications of avian influenza

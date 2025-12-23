@@ -33,7 +33,7 @@ image_ids:
 - 3a309fc1d9633eeeed828078067f5701396d06366e7f979a5d3c77ac579a7331
 location_titles:
 - King County
-source: Compass Housing Alliance
+organization_title: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/11/i-penalized-myself-by-keeping-it-in/
 summarized: true
 title: "“I penalized myself by keeping it in.”"

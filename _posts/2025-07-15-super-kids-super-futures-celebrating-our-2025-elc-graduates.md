@@ -15,7 +15,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Wellspring Family Services
+organization_title: Wellspring Family Services
 source_url: https://wellspringfs.org/super-kids-super-futures-celebrating-our-2025-elc-graduates/
 summarized: true
 title: 'Super Kids, Super Futures: Celebrating Our 2025 ELC Graduates'

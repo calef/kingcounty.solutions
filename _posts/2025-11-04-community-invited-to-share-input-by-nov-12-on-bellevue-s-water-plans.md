@@ -35,8 +35,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   4 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/community-invited-share-input-nov-12-bellevues-water-plans
 summarized: true
 title: Community invited to share input by Nov. 12 on Bellevue’s water plans

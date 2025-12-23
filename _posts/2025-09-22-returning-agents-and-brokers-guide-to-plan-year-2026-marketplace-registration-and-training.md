@@ -5,8 +5,8 @@ feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Mon, 22 Sep 2025 1
   Registration and Training</p><p>topic: Registration and Training</p>"
 image_ids: []
 location_titles: []
+organization_title: Centers for Medicare & Medicaid Services
 published: false
-source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/returning-agents-and-brokers-guide-plan-year-2026-marketplace-registration-and-training
 summarized: true
 title: Returning Agents’ and Brokers’ Guide to Plan Year 2026 Marketplace Registration

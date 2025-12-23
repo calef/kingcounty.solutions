@@ -13,6 +13,7 @@ feed_content_checksum: 5efb76c5f3b7612cfcd0460daff5b67e507eb87c
 image_ids: []
 location_titles:
 - King County
+organization_title: Friends of Youth
 original_source_html: Food is more than nourishment—it’s memory, dignity, and hope
   . For Sam, his first holiday without a home could have been unbearably lonely. But
   at Friends of Youth’s Willows Young Adult Shelter, the warmth of shared meals and
@@ -21,7 +22,6 @@ original_source_html: Food is more than nourishment—it’s memory, dignity, a
   with a disability made employment difficult, and navigating benefits felt overwhelming.
   But...
 rss_guid: 69444c3d142838fcf0653624
-source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/give-a-young-person-their-next-good-memory-it-s-not-too-late-to-give-an-end-of-year-gift-that-makes
 summarized: true
 title: give a young person their next good memory. it’s not too late to give an end-of-year

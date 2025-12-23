@@ -11,8 +11,8 @@ feed_content_checksum: 16fac661362e53ef3ce8e474c1a2bf72551b28f4
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 rss_guid: https://kcemergency.com/?p=6801
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/12/safety-tips-as-you-clean-your-home-or-business/
 summarized: true
 title: Safety tips as you clean your home or business

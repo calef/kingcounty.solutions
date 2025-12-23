@@ -82,8 +82,8 @@ feed_content: |-
   <p>This article was originally published on the <a href="https://www.va.gov/central-alabama-health-care/stories/cavhcs-firefighters-assist-tuskegee-with-two-structure-fires-in-one-morning/" rel="noopener">VA Central Alabama Health care system site</a> and has been edited for style and clarity.  </p>
 image_ids: []
 location_titles: []
+organization_title: Veterans Affairs Pension Program
 published: false
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143222/a-mission-built-on-community-impact/
 summarized: true
 title: A mission built on community impact

@@ -94,6 +94,7 @@ image_ids:
 - b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 location_titles:
 - King County
+organization_title: BrightSpark
 original_source_html: |-
   <div><figure><img src="https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png"></figure></div>
 
@@ -181,7 +182,6 @@ original_source_html: |-
   <p></p>
   <p>The post <a>Warm Holiday Wishes and an Invitation to Sustain Bright Futures!</a> appeared first on <a>BrightSpark</a>.</p>
 rss_guid: https://www.brightspark.org/?p=10033
-source: BrightSpark
 source_url: https://www.brightspark.org/2025/12/warm-holiday-wishes-and-an-invitation-to-sustain-bright-futures/
 summarized: true
 title: Warm Holiday Wishes and an Invitation to Sustain Bright Futures!

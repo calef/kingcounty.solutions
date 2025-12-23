@@ -9,7 +9,7 @@ image_ids: []
 location_titles:
 - West King County
 - South King County
-source: Westside Neighbors Shelter
+organization_title: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/latest-news-shelter-closed-for-repairs-august-18/?utm_source=rss&utm_medium=rss&utm_campaign=latest-news-shelter-closed-for-repairs-august-18
 summarized: true
 title: 'LATEST NEWS: Shelter closed for repairs August 18'

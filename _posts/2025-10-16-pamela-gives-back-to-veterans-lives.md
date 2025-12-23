@@ -82,7 +82,7 @@ image_ids:
 - a24e8c0b4775c492b00e222b07f97abfaf73d90c36be58585dc4491fbcd53500
 location_titles:
 - King County
-source: Operation Homefront - Critical Financial Assistance Program
+organization_title: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/pamela-gives-back-to-veterans-lives/
 summarized: true
 title: Pamela Gives Back to Veterans’ Lives

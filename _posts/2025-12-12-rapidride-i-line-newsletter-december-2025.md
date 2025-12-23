@@ -9,8 +9,8 @@ feed_content_checksum: c77a5da8e9212299c51bf347d1e41027ea594adf
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Metro Transit
 rss_guid: https://kingcountymetro.blog/?p=67665
-source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/12/rapidride-i-line-newsletter-december-2025/
 summarized: true
 title: RapidRide I Line newsletter (December 2025)

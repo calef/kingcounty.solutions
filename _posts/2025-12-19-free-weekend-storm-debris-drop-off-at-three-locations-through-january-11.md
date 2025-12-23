@@ -11,13 +11,13 @@ feed_content_checksum: '094ffd6d645399b6a774006456d82e573f2e6122'
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 original_source_html: 'The King County Solid Waste Division will accept flood debris,
   including yard waste and garbage, free of charge from individual customers* on Saturdays
   and Sundays through January 11, at three stations: To further assist communities
   impacted by recent flooding, King County Solid Waste will open two additional temporary
   storm debris collection sites to provide expanded […]'
 rss_guid: https://kcemergency.com/?p=7180
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/18/free-weekend-storm-debris-drop-off-at-three-locations-through-january-11/
 summarized: true
 title: Free weekend storm debris drop-off at three locations through January 11

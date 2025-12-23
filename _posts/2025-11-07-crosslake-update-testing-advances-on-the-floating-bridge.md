@@ -8,8 +8,8 @@ feed_content: <div><p paraid="1603083217" paraeid="{b0b48f72-cdcb-42b9-93e5-f8b2
   the 2 Line’s Crosslake Connection.</p></div>
 image_ids: []
 location_titles: []
+organization_title: Sound Transit
 published: false
-source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/crosslake-update-testing-advances-floating-bridge
 summarized: true
 title: 'Crosslake Update: Testing advances on the floating bridge'

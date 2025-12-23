@@ -5,8 +5,8 @@ feed_content: |-
   <p>The post <a href="https://stlukesseattle.org/2025/10/30/the-day-of-baptism/">The Day of Baptism</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: St. Luke Episcopal Church
 published: false
-source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/10/30/the-day-of-baptism/
 summarized: true
 title: The Day of Baptism

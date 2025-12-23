@@ -238,10 +238,11 @@ class EventExtractorTest < Minitest::Test
   private
 
   def write_post(filename, options = {})
+    organization_title = options[:organization_title] || 'Test Source'
     front_matter = {
       'date' => options[:date] || '2025-01-01T12:00:00-08:00',
       'title' => options[:title] || 'Test Post',
-      'source' => options[:source] || 'Test Source',
+      'organization_title' => organization_title,
       'source_url' => options[:source_url] || 'https://example.com/post'
     }
     front_matter['locked'] = true if options[:locked]

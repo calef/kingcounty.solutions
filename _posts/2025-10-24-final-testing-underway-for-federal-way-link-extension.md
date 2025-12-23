@@ -11,7 +11,7 @@ feed_content: <div><p paraid="1335489336" paraeid="{9790bcc5-73d6-4f92-ac30-a107
 image_ids: []
 location_titles:
 - King County
-source: Sound Transit
+organization_title: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/final-testing-underway-federal-way-link-extension
 summarized: true
 title: 'Final testing underway for Federal Way Link Extension '

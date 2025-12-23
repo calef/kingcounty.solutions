@@ -98,7 +98,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143461/vets4warriors-support-1-million-connections/
 summarized: true
 title: Vets4Warriors Peer Support Program hits 1 million connections

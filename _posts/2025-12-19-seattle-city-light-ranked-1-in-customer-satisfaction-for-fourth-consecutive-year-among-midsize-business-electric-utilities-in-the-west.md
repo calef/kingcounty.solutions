@@ -9,6 +9,7 @@ feed_content_checksum: 58ca14b508ce0ae6ea80469f4f75f883e1b96727
 image_ids: []
 location_titles:
 - King County
+organization_title: City Light Bill Assistance Programs
 original_source_html: 'We are pleased to announce that we have been ranked #1 in customer
   satisfaction among midsize utilities in the West for the fourth year in a row. We
   earned the highest satisfaction score among electric utilities in the west serving
@@ -16,7 +17,6 @@ original_source_html: 'We are pleased to announce that we have been ranked #1 in
   Utility Business Customer Satisfaction […]'
 published: false
 rss_guid: https://powerlines.seattle.gov/?p=11225
-source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/12/19/seattle-city-light-ranked-1-in-customer-satisfaction-for-fourth-consecutive-year-among-midsize-business-electric-utilities-in-the-west/
 summarized: true
 title: 'Seattle City Light Ranked #1 in Customer Satisfaction for Fourth Consecutive

@@ -9,7 +9,7 @@ feed_content: The Youth Bill of Rights Task Force is recruiting young people for
 image_ids: []
 location_titles:
 - King County
-source: King County School Health
+organization_title: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/31/seeking-young-people-to-join-the-youth-bill-of-rights-taskforce/
 summarized: true
 title: Seeking young people to join the Youth Bill of Rights Taskforce

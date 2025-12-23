@@ -81,6 +81,7 @@ image_ids:
 - d9df141e26fe0b148f3a14474ad1a148e9b4a3267619aa5596c5a0a81394c899
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>“I’m a living witness”</h2>
 
@@ -156,7 +157,6 @@ original_source_html: |-
 
   <p><a>Learn more about Radiation Oncology at VA</a>.</p>
 rss_guid: https://news.va.gov/?p=144042
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144042/army-veteran-cancer-care-va-saved-my-life/
 summarized: true
 title: 'Army Veteran: Cancer care at VA saved my life'

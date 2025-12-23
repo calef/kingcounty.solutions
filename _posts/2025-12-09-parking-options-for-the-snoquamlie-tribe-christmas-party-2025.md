@@ -6,8 +6,8 @@ feed_content: |-
 feed_content_checksum: 7be656cdad4503ed83217bab8037b3ea206ff72b
 image_ids: []
 location_titles: []
+organization_title: Snoqualmie Indian Tribe
 published: false
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/parking-options-for-the-snoquamlie-tribe-christmas-party-2025/
 summarized: true
 title: Parking Options for the Snoquamlie Tribe Christmas Party 2025

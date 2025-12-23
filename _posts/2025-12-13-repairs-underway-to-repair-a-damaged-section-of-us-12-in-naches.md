@@ -5,9 +5,9 @@ feed_content: NACHES - Work to repair a section of US 12 in Naches damaged by th
 feed_content_checksum: 840ba3169cec84afa8ee5ea89014ab4d3f678bf9
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/repairs-underway-repair-damaged-section-us-12-naches
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/repairs-underway-repair-damaged-section-us-12-naches
 summarized: true
 title: Repairs underway to repair a damaged section of US 12 in Naches

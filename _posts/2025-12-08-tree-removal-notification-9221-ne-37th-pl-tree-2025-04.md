@@ -6,8 +6,8 @@ feed_content: |-
 feed_content_checksum: 053ef7b74cac81050d9cd4555c9022a31762f7ca
 image_ids: []
 location_titles: []
+organization_title: Town of Yarrow Point
 published: false
-source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/12/tree-removal-notification-9221-ne-37th-pl-tree-2025-04/
 summarized: true
 title: Tree Removal Notification- 9221 NE 37th Pl. TREE-2025-04

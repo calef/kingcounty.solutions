@@ -37,8 +37,8 @@ feed_content_checksum: 813a8f6cfea86506cdfd4aec8e4ed16f44ab9507
 image_ids: []
 location_titles:
 - King County
+organization_title: THIRA Health
 rss_guid: https://thirahealth.com/?p=37485
-source: THIRA Health
 source_url: https://thirahealth.com/2025/12/12/when-is-it-time-to-seek-inpatient-treatment-for-depression/
 summarized: true
 title: When Is It Time to Seek Inpatient Treatment for Depression?

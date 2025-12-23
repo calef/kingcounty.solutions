@@ -133,7 +133,7 @@ image_ids:
 - d7598c8f6fd739be513d1409d05218e5bf03804f2cfe1dfb61fa573b769baa71
 location_titles:
 - King County
-source: Institute on Human Development and Disability
+organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/10/uwac-and-uw-womens-basketball-host-sensory-friendly-game/
 summarized: true
 title: UWAC and UW Women’s Basketball Host Sensory Friendly Game

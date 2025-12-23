@@ -10,7 +10,7 @@ feed_content: On November 7, the Washington School Based Health Alliance hosted 
 image_ids: []
 location_titles:
 - King County
-source: King County School Health
+organization_title: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/11/10/king-county-representation-at-the-2025-wa-sbha-student-health-summit/
 summarized: true
 title: King County Representation at the 2025 WA SBHA Student Health Summit

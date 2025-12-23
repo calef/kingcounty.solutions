@@ -95,8 +95,8 @@ image_ids:
 - 5bff90f66653e7912453104ea11bb58cad33ae7103f63a88810c683f1d195e18
 location_titles:
 - King County
+organization_title: Bellevue LifeSpring
 rss_guid: https://www.bellevuelifespring.org/?p=5549
-source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/holiday-giving-program-2025-highlights/
 summarized: true
 title: 'Spreading Joy: Highlights from the ‘Tis the Season Holiday Giving Program'

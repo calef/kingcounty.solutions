@@ -10,12 +10,12 @@ feed_content_checksum: b66722ad5fd7d12247a061156d56c8348879bba1
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: Community Corner highlights the work of Seattle Human Services’
   community partners in their own words. Our goal is to gather stories and photos
   that illustrate their amazing work on behalf of the people of Seattle. This post
   was provided by Jordan Neto...
 rss_guid: https://humaninterests.seattle.gov/?p=3806
-source: City of Seattle
 source_url: https://humaninterests.seattle.gov/2025/12/18/community-corner-seattle-indian-health-board-family-support-services/
 summarized: true
 title: Community Corner—Seattle Indian Health Board Family Support Services

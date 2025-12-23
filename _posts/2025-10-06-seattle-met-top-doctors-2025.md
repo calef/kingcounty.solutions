@@ -74,7 +74,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Pacific Medical Centers
+organization_title: Pacific Medical Centers
 source_url: https://www.pacificmedicalcenters.org/news/seattle-met-top-doctors-2025/
 summarized: true
 title: Seattle Met Top Doctors 2025

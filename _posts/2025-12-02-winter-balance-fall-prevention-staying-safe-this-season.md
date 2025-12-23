@@ -60,7 +60,7 @@ image_ids: []
 location_titles:
 - South King County
 - Snoqualmie Valley
-source: Hospital District No. 4 (Snoqualmie Valley Hospital)
+organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/winter-balance-and-fall-prevention-staying-safe-this-season/
 summarized: true
 title: 'Winter Balance & Fall Prevention: Staying Safe This Season'

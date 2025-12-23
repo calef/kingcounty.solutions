@@ -7,6 +7,7 @@ feed_content_checksum: e09bb42c231903f0af8988968926ba3d691ae993
 image_ids: []
 location_titles:
 - King County
+organization_title: King County School Health
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\"
   />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<title>King
   County School-Based Partnerships Annual Report 2024-25 | KING COUNTY SCHOOL HEALTH</title>\n<link
@@ -205,7 +206,6 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charse
   var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family:
   var(--wp--preset--font-family--rufin"
 rss_guid: http://kingcountyschoolhealthdotcom.wordpress.com/?p=6930
-source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/22/king-county-school-based-partnerships-annual-report-2024-25/
 summarized: true
 title: 'Protected: King County School-Based Partnerships Annual Report 2024-25'

@@ -9,8 +9,8 @@ feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/
 feed_content_checksum: 755c70d150acbcf3d42e57613ed0b36e60f0cccf
 image_ids: []
 location_titles: []
+organization_title: City Light Bill Assistance Programs
 published: false
-source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/12/08/seattle-city-spotlight-rhonda-denet-weems-credit-collections-supervisor/
 summarized: true
 title: 'Seattle City (spot)Light: Rhonda Denet-Weems, Credit & Collections Supervisor'

@@ -80,6 +80,7 @@ feed_content_checksum: 33e45a8ef0ab911bcec4e77d4edf63385c709e01
 image_ids: []
 location_titles:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: |-
   <h2>Trained caregiver provides care and services</h2>
 
@@ -155,7 +156,6 @@ original_source_html: |-
 
   <p>This article was originally published on the <a>VA Southern Arizona Health care System site </a> and has been edited for style and clarity.  </p>
 rss_guid: https://news.va.gov/?p=143887
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143887/medical-foster-homes-for-veterans/
 summarized: true
 title: Medical Foster Homes for Veterans

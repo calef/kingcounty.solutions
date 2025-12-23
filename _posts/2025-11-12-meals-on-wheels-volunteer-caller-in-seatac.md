@@ -22,8 +22,8 @@ feed_content: "<p><strong>Position: </strong>Caller                   
   Generations</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Sound Generations
 published: false
-source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-volunteer-caller-in-seatac/
 summarized: true
 title: 'Meals on Wheels: Volunteer Caller in SeaTac!'

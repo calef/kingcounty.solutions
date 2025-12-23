@@ -10,7 +10,7 @@ class NewsModelTest < Minitest::Test
         {
           'title' => 'Test News Article',
           'date' => '2025-06-23T17:54:03+00:00',
-          'source' => 'Test Organization',
+          'organization_title' => 'Test Organization',
           'source_url' => 'https://example.com/article',
           'topic_titles' => ['Health Care', 'Education & Learning'],
           'location_titles' => ['King County'],
@@ -30,7 +30,7 @@ class NewsModelTest < Minitest::Test
       assert_equal '_posts/2025-06-23-test-news-article.md', record.id
       assert_equal 'Test News Article', record.title
       assert_equal '2025-06-23T17:54:03+00:00', record.date
-      assert_equal 'Test Organization', record.source
+      assert_equal 'Test Organization', record.organization_title
       assert_equal 'https://example.com/article', record.source_url
       assert_equal ['Health Care', 'Education & Learning'], record.topic_titles
       assert_equal ['King County'], record.location_titles
@@ -63,7 +63,7 @@ class NewsModelTest < Minitest::Test
         {
           'title' => 'Another Test Article',
           'date' => date_obj,
-          'source' => 'Test Source',
+          'organization_title' => 'Test Source',
           'summarized' => true
         },
         body: 'Article with date object.'
@@ -80,7 +80,7 @@ class NewsModelTest < Minitest::Test
         {
           'title' => 'Published Article',
           'date' => '2025-06-23T10:00:00+00:00',
-          'source' => 'Test Source',
+          'organization_title' => 'Test Source',
           'summarized' => true
         },
         body: 'Published by default.'
@@ -96,7 +96,7 @@ class NewsModelTest < Minitest::Test
         {
           'title' => 'Unpublished Article',
           'date' => '2025-06-23T10:00:00+00:00',
-          'source' => 'Test Source',
+          'organization_title' => 'Test Source',
           'published' => false,
           'summarized' => true
         },
@@ -115,7 +115,7 @@ class NewsModelTest < Minitest::Test
         {
           'title' => 'First Article',
           'date' => '2025-06-20T10:00:00+00:00',
-          'source' => 'Source A',
+          'organization_title' => 'Source A',
           'summarized' => true
         },
         body: 'First article content.'
@@ -125,7 +125,7 @@ class NewsModelTest < Minitest::Test
         {
           'title' => 'Second Article',
           'date' => '2025-06-21T10:00:00+00:00',
-          'source' => 'Source B',
+          'organization_title' => 'Source B',
           'summarized' => true
         },
         body: 'Second article content.'

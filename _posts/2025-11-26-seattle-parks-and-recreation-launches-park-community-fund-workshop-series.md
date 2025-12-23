@@ -6,8 +6,8 @@ feed_content: Seattle Parks and Recreation(SPR) is excited to announce the launc
   invests in both large ...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/26/seattle-parks-and-recreation-launches-park-community-fund-workshop-series/
 summarized: true
 title: Seattle Parks and Recreation launches Park CommUNITY Fund Workshop Series

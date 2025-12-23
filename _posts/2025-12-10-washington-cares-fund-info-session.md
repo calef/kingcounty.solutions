@@ -13,8 +13,8 @@ feed_content_checksum: fa187babd478e4272e019ba39c7c3d2eb00e1e04
 image_ids: []
 location_titles:
 - King County
+organization_title: Shoreline Lake Forest Park Senior Activity Center
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10598
-source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/washington-cares-fund-info-session/
 summarized: true
 title: Washington Cares Fund Info Session

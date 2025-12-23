@@ -32,8 +32,8 @@ feed_content: |-
   The post [Celebrating a Dedicated Career: Retirement of Deputy Fire Chief Rick Olson](https://www.vrfa.org/2025/07/celebrating-a-dedicated-career-retirement-of-deputy-fire-chief-rick-olson/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
 image_ids: []
 location_titles: []
+organization_title: Valley Regional Fire Authority
 published: false
-source: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/07/celebrating-a-dedicated-career-retirement-of-deputy-fire-chief-rick-olson/
 summarized: true
 title: 'Celebrating a Dedicated Career: Retirement of Deputy Fire Chief Rick Olson'

@@ -17,8 +17,8 @@ feed_content: |-
   <p>The post <a href="https://www.mercyhousing.org/2025/11/the-kelsey-civic-center-san-francisco-welcomes-landmark-disability-forward-community/">The Kelsey Civic Center: San Francisco Welcomes Landmark Disability-Forward Community</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Mercy Housing
 published: false
-source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/the-kelsey-civic-center-san-francisco-welcomes-landmark-disability-forward-community/
 summarized: true
 title: 'The Kelsey Civic Center: San Francisco Welcomes Landmark Disability-Forward

@@ -25,7 +25,7 @@ image_ids:
 - ffec31c149c17f4382104ab1a4295792807ce91f9cb77443f729ee94070031da
 location_titles:
 - Eastside
-source: Youth Eastside Services
+organization_title: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/omars-story/?utm_source=rss&utm_medium=rss&utm_campaign=omars-story
 summarized: true
 title: 'Finding His Voice: Omar’s Story of Healing and Hope'

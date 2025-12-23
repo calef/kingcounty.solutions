@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: United Way of King County
+organization_title: United Way of King County
 source_url: https://www.uwkc.org/news/social-platforms-that-keep-you-informed/
 summarized: true
 title: Social platforms that keep you informed

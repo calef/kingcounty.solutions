@@ -103,7 +103,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143352/how-veterans-find-relief-life-heavy-heavier/
 summarized: true
 title: How Veterans can find relief when life gets heavy, or just heavier

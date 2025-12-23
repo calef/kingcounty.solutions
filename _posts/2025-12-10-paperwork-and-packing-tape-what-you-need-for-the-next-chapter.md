@@ -13,8 +13,8 @@ feed_content_checksum: 15bf11a49d69252df07389ee7e0aaaca00f307a2
 image_ids: []
 location_titles:
 - King County
+organization_title: Shoreline Lake Forest Park Senior Activity Center
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10602
-source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/paperwork-and-packing-tape-what-you-need-for-the-next-chapter/
 summarized: true
 title: 'Paperwork and Packing Tape: What You Need for the Next Chapter'

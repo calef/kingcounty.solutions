@@ -41,6 +41,7 @@ image_ids:
 - fb29e3c905ef86e10e842a48c2dc386a6045c2e516ca2b05356b0a5f6a48568c
 location_titles:
 - King County
+organization_title: El Centro de la Raza
 original_source_html: "<p></p>\n\n\n\n<p><strong>Take Action: Show Up for Community
   Change</strong></p>\n\n\n\n<p>Social change happens when everyday people show up—<strong>locally,
   consistently, and together</strong>. At El Centro de la Raza, taking action means
@@ -74,7 +75,6 @@ original_source_html: "<p></p>\n\n\n\n<p><strong>Take Action: Show Up for Commun
   and heard.</p>\n\n\n\n<p><a>Register here!</a></p>\n\n\n\n<figure><img src=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/12/Free-Pet-Clinic-2-843x707.jpg\"></figure>\n<p>The
   post <a>Take Action: Decemeber 2025</a> appeared first on <a>El Centro de la Raza</a>.</p>"
 rss_guid: https://www.elcentrodelaraza.org/?p=22395
-source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/take-action-decemeber-2025/
 summarized: true
 title: 'Take Action: Decemeber 2025'

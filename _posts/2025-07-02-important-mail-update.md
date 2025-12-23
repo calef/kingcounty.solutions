@@ -65,7 +65,7 @@ image_ids:
 location_titles:
 - Burien
 - South King County
-source: Hospitality House
+organization_title: Hospitality House
 source_url: https://hospitalityhousesouthking.org/important-mail-update/
 summarized: true
 title: Important Mail Update!

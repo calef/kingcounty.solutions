@@ -6,8 +6,8 @@ feed_content: Seattle Parks and Recreation (SPR) is seeking individuals and busi
   seeking prop...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/04/seattle-parks-and-recreation-requests-proposals-for-seasonal-concessionaires-in-parks-4/
 summarized: true
 title: Seattle Parks and Recreation Requests Proposals for Seasonal Concessionaires

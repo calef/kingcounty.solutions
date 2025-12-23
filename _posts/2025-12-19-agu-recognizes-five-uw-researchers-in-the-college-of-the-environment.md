@@ -23,6 +23,7 @@ feed_content_checksum: 9a1172d8e7d4152e16784c79ec869955ee1fe37f
 image_ids: []
 location_titles:
 - King County
+organization_title: University of Washington
 original_source_html: |-
   <div>
   <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/12/19082810/IMG_1160-750x504.jpeg">
@@ -44,7 +45,6 @@ original_source_html: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 published: false
 rss_guid: https://www.washington.edu/news/?p=90178
-source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/19/agu-recognizes-five-uw-researchers-in-the-college-of-the-environment/
 summarized: true
 title: AGU recognizes five UW researchers in the College of the Environment

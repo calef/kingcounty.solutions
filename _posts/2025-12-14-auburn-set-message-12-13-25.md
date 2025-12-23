@@ -10,8 +10,8 @@ feed_content_checksum: 786a25844814ad5d58f6444f1c36f8532e168f1a
 image_ids: []
 location_titles:
 - King County
+organization_title: King County Emergency Management
 rss_guid: https://kcemergency.com/2025/12/13/auburn-set-message-12-13-25/
-source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/13/auburn-set-message-12-13-25/
 summarized: true
 title: Auburn – Set Message – 12/13/25

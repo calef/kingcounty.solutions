@@ -9,7 +9,7 @@ feed_content: The International Special Review District (ISRD) Board invites com
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/18/international-special-review-district-board-announces-candidates-for-its-annual-election/
 summarized: true
 title: International Special Review District Board Announces Candidates for its Annual

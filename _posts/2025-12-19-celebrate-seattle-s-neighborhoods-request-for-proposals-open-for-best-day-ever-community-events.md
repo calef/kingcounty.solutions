@@ -8,13 +8,13 @@ feed_content_checksum: d1f8705c0503d0be2bfd7f171a5657448e2e62d3
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: What makes a neighborhood thrive? Connection. Pride. Shared
   stories. And people who care deeply about the place they call home. Best Day Ever
   is a new, one-day, community-powered experience designed to celebrate the vibrancy
   and culture of Seattle’s ne...
 published: false
 rss_guid: https://frontporch.seattle.gov/?p=10703
-source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/19/celebrate-seattles-neighborhoods-request-for-proposals-open-for-best-day-ever-community-events-partners/
 summarized: true
 title: 'Celebrate Seattle’s Neighborhoods: Request for Proposals Open for “Best Day

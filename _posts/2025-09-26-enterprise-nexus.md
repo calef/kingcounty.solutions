@@ -8,7 +8,7 @@ feed_content: <p>The post <a href="https://worksourceskc.org/enterprise-nexus/">
 image_ids: []
 location_titles:
 - King County
-source: WorkSource Seattle-King County
+organization_title: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/enterprise-nexus/?utm_source=rss&utm_medium=rss&utm_campaign=enterprise-nexus
 summarized: true
 title: Enterprise Nexus

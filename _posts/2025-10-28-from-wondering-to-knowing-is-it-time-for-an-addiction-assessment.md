@@ -141,8 +141,8 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   on <a href=\"https://lakesidemilam.com\">Lakeside-Milam Recovery Centers</a>.</p>"
 image_ids: []
 location_titles: []
+organization_title: Lakeside-Milam Recovery Centers
 published: false
-source: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/from-wondering-to-knowing-is-it-time-for-an-addiction-assessment/
 summarized: true
 title: 'From Wondering to Knowing: Is It Time for an Addiction Assessment?'

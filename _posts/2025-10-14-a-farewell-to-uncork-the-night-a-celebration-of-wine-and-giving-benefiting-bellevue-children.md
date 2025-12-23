@@ -95,7 +95,7 @@ image_ids:
 - a35a2245e1725882d7facee60c125dd9f7ae44afcb4707834a5753b61cf35682
 location_titles:
 - King County
-source: Bellevue LifeSpring
+organization_title: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/a-farewell-to-uncork-the-night/?utm_source=rss&utm_medium=rss&utm_campaign=a-farewell-to-uncork-the-night
 summarized: true
 title: A Farewell to Uncork the Night | A Celebration of Wine and Giving Benefiting

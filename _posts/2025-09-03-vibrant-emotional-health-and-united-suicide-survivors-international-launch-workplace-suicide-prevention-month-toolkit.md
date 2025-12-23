@@ -31,7 +31,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Vibrant Emotional Health
+organization_title: Vibrant Emotional Health
 source_url: https://www.vibrant.org/vibrant-emotional-health-and-united-suicide-survivors-international-launch-workplace-suicide-prevention-month-toolkit/
 summarized: true
 title: Vibrant Emotional Health and United Suicide Survivors International Launch

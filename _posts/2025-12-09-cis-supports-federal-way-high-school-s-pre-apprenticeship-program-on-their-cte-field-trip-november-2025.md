@@ -13,7 +13,7 @@ feed_content_checksum: 645a7aced1946ee851887e8ee30be77e7ca6ca1b
 image_ids: []
 location_titles:
 - King County
-source: Communities In Schools of South King County
+organization_title: Communities In Schools of South King County
 source_url: https://skc.ciswa.org/news/federal-way-high-school-pre-apprenticeship-program-on-their-cte-field-trip-november-2025/
 summarized: true
 title: CIS supports Federal Way High School’s Pre-Apprenticeship Program on their

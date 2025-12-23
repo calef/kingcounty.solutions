@@ -38,7 +38,7 @@ feed_content_checksum: 149f69896f2f2b525f5e27e4626c0fbd8a85bc4b
 image_ids: []
 location_titles:
 - King County
-source: Veterans Affairs Pension Program
+organization_title: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143873/live-whole-health-295-sink-into-relaxation/
 summarized: true
 title: 'Live Whole Health #295: Sink into relaxation'

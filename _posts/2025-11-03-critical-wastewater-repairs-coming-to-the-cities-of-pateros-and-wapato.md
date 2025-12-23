@@ -25,8 +25,8 @@ feed_content: |-
   Applications for the PWB emergency and pre-construction funding programs remain open until funds are exhausted. &nbsp;As of October 2025, $6.8 million in emergency funding remains available for the 2025-27 biennium.
 image_ids: []
 location_titles: []
+organization_title: Department of Commerce
 published: false
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/critical-wastewater-repairs-coming-to-the-cities-of-pateros-and-wapato/
 summarized: true
 title: Critical wastewater repairs coming to the cities of Pateros and Wapato

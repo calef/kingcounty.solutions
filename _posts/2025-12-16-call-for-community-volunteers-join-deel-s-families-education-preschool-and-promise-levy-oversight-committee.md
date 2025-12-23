@@ -10,12 +10,12 @@ feed_content_checksum: d1f1d1ef574ed9163335dda63164b613b65951e1
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: The City of Seattle is now accepting applications for volunteers
   to serve on the Families, Education, Preschool &amp; Promise (FEPP) Levy Oversight
   Committee (LOC). The LOC plays a key role in shaping education programs and policies
   that support Seattl...
 rss_guid: https://education.seattle.gov/?p=1503
-source: City of Seattle
 source_url: https://education.seattle.gov/call-for-community-volunteers-join-deels-families-education-preschool-and-promise-levy-oversight-committee/
 summarized: true
 title: 'Call for Community Volunteers: Join DEEL’s Families Education, Preschool,

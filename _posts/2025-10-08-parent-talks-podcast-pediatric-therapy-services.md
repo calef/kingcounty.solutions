@@ -31,7 +31,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Encompass
+organization_title: Encompass
 source_url: https://encompassnw.org/parent-talks-podcast-pediatric-therapy-services/
 summarized: true
 title: 'Parent Talks Podcast: Pediatric Therapy Services'

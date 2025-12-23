@@ -25,8 +25,8 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   class=\"\"></p>"
 image_ids: []
 location_titles: []
+organization_title: CarePoint Clinic
 published: false
-source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/adjustedholidayhours
 summarized: true
 title: NEW Holiday Clinic Hours

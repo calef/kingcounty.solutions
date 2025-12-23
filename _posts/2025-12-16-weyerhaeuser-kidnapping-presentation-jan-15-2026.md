@@ -14,6 +14,7 @@ feed_content_checksum: d1a5678c0f4d4e2c8a4daaa3caf9f7d5e76392c5
 image_ids: []
 location_titles:
 - King County
+organization_title: Wallingford Community Senior Center
 original_source_html: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2025/12/Deep-in-the-Woods-Wallingford-flyer-791x1024.png"></figure>
 
@@ -26,7 +27,6 @@ original_source_html: |-
   <p></p>
 published: false
 rss_guid: https://wallingfordseniors.org/?p=3667
-source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/weyerhaeuser-kidnapping-presentation-jan-15-2026/
 summarized: true
 title: Weyerhaeuser Kidnapping Presentation, Jan. 15, 2026

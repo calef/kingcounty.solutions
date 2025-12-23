@@ -9,7 +9,7 @@ feed_content: We are excited to announce a new opportunity for development partn
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://housing.seattle.gov/developer-opportunity-help-build-affordable-housing-in-south-park/
 summarized: true
 title: Developer Opportunity! Help Build Affordable Housing in South Park

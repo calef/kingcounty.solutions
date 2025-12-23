@@ -50,8 +50,8 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   7 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids: []
 location_titles: []
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/lower-speed-limits-coming-four-bellevue-streets
 summarized: true
 title: Lower speed limits coming to four Bellevue streets

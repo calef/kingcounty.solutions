@@ -7,7 +7,7 @@ feed_content: Love being outdoors? We’re looking for volunteers to help with g
 image_ids: []
 location_titles:
 - King County
-source: Friends of Youth
+organization_title: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/volunteer-opportunity-garden-maintenance
 summarized: true
 title: 'volunteer opportunity | garden maintenance '

@@ -12,7 +12,7 @@ feed_content: <p data-start="308" data-end="376">The countdown is on — <a href
 image_ids: []
 location_titles:
 - South King County
-source: Sound Transit
+organization_title: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/south-king-link-how-to-ride-transfer
 summarized: true
 title: 'South King Link: How to ride and transfer'

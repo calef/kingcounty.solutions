@@ -132,7 +132,7 @@ image_ids:
 - 0d3bddaa32fd10f1c058d066cad12caccb429a7945ea292f8026a8b74abb1c04
 location_titles:
 - King County
-source: Institute on Human Development and Disability
+organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/05/uw-autism-center-annual-benefit/
 summarized: true
 title: UW Autism Center Annual Benefit

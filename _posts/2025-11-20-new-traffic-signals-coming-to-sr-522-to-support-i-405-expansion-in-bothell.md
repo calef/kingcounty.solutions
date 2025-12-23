@@ -5,8 +5,8 @@ feed_content: BOTHELL – Big changes are coming soon at the Interstate 405/Stat
   on SR 522 between Bothell and Woodinville as early as Monday, Nov. 24.&nbsp;&nbsp;
 image_ids: []
 location_titles: []
+organization_title: Washington State Department of Transportation
 published: false
-source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/new-traffic-signals-coming-sr-522-support-i-405-expansion-bothell
 summarized: true
 title: New traffic signals coming to SR 522 to support I-405 expansion in Bothell

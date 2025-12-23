@@ -385,7 +385,7 @@ feed_content: "## Additional Food Resources\n\n![Hopelink Food Resources 10.30.2
 image_ids: []
 location_titles:
 - King County
-source: Hopelink
+organization_title: Hopelink
 source_url: https://www.hopelink.org/blog/food-assistance-resources/
 summarized: true
 title: Food Assistance Resources

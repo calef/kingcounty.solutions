@@ -6,8 +6,8 @@ feed_content: 'The Basics How long have you worked at City Light? 12 years Divis
   supporting custome...'
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://powerlines.seattle.gov/2025/11/10/seattle-city-spotlight-katie-zook-king-electric-service-representative-supervisor/
 summarized: true
 title: 'Seattle City (spot)Light: Katie Zook King, Electric Service Representative

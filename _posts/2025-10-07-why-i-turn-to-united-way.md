@@ -8,7 +8,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: United Way of King County
+organization_title: United Way of King County
 source_url: https://www.uwkc.org/access-to-resources/why-i-turn-to-united-way/
 summarized: true
 title: Why (I Turn to) United Way?

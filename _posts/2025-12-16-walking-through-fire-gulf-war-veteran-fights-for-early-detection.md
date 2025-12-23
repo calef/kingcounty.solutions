@@ -84,6 +84,7 @@ feed_content_checksum: fa1c757eeaae28da5e6515159b3a4180de92a868
 image_ids: []
 location_titles:
 - King County
+organization_title: Disabled American Veterans
 original_source_html: "<div>\n\n    \n    <figure><img src=\"https://www.dav.org/wp-content/uploads/Slotnick-near-tank.png\"><figcaption>Jeff
   Slotnick served as an Army combat engineer and deployed all over the world, including
   Honduras and the Middle East, where he was exposed to explosives residue, chemicals
@@ -163,7 +164,6 @@ original_source_html: "<div>\n\n    \n    <figure><img src=\"https://www.dav.org
   post <a>Walking through fire: Gulf War veteran fights for early detection</a> appeared
   first on <a>DAV</a>.</p>"
 rss_guid: https://www.dav.org/?p=55804
-source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/walking-through-fire-gulf-war-veteran-fights-for-early-detection/
 summarized: true
 title: 'Walking through fire: Gulf War veteran fights for early detection'

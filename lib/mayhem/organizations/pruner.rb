@@ -103,7 +103,7 @@ module Mayhem
           document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
           next unless document
 
-          source = document.front_matter['source']
+          source = document.front_matter['organization_title']
           next unless source == organization_title
 
           @logger.info "Deleting post: #{File.basename(post_path)}"

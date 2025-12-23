@@ -75,8 +75,8 @@ feed_content: |-
   <p>The post <a href="https://arcorafoundation.org/management-of-the-pediatric-dental-patient-and-their-parents/">Management of the Pediatric Dental Patient (and their parents)</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
 image_ids: []
 location_titles: []
+organization_title: Arcora Foundation
 published: false
-source: Arcora Foundation
 source_url: https://arcorafoundation.org/management-of-the-pediatric-dental-patient-and-their-parents/
 summarized: true
 title: Management of the Pediatric Dental Patient (and their parents)

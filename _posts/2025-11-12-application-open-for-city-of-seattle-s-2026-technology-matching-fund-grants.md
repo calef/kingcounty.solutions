@@ -6,8 +6,8 @@ feed_content: Funding Available for Digital Equity Projects–Apply Now! The Cit
   focused on clos...
 image_ids: []
 location_titles: []
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://techtalk.seattle.gov/2025/11/12/application-open-for-city-of-seattles-2026-technology-matching-fund-grants/
 summarized: true
 title: Application Open for City of Seattle’s 2026 Technology Matching Fund Grants

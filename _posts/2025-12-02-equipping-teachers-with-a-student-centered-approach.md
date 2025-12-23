@@ -10,7 +10,7 @@ feed_content: December 2025 Across Washington state, there is a stark disparity 
 image_ids: []
 location_titles:
 - King County
-source: Technology Access Foundation
+organization_title: Technology Access Foundation
 source_url: https://techaccess.org/equipping-teachers-with-a-student-centered-approach/
 summarized: true
 title: Equipping Teachers with a Student Centered Approach

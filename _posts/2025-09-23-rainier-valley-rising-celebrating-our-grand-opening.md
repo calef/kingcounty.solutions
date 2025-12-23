@@ -1630,7 +1630,7 @@ image_ids:
 - 3abc1afa76a5eb1a5dace9dbfe92bfa0b6b6136150d36aa7b015e921933739fb
 location_titles:
 - King County
-source: Rainier Valley Food Bank
+organization_title: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/rainier-valley-rising-celebrating-our-grand-opening
 summarized: true
 title: 'Rainier Valley Rising: Celebrating Our Grand Opening'

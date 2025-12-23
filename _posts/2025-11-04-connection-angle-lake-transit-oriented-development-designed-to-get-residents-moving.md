@@ -25,7 +25,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: Department of Commerce
+organization_title: Department of Commerce
 source_url: https://www.commerce.wa.gov/connection-angle-lake-transit-oriented-development-designed-to-get-residents-moving/
 summarized: true
 title: 'Connection Angle Lake: Transit-oriented development designed to get residents

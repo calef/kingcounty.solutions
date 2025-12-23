@@ -9,7 +9,7 @@ feed_content: 'Blog stats: 1,200 words &#124; 6-minute read Summary: Addressing 
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/11/20/seattle-commercial-e-cargo-bike-program/
 summarized: true
 title: Seattle’s Commercial E-Cargo Bike Program Has Officially Launched, Supporting

@@ -8,13 +8,13 @@ feed_content_checksum: c8755670e4cab22a2da78eb547a8f75796796d18
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: Do you want to learn more about doing business with the City?
   Do you want to know about how the City of Seattle works with women- and minority-owned
   businesses? Do you have questions about working with unions on City construction
   projects? Do you want ...
 published: false
 rss_guid: https://consultants.seattle.gov/?p=4088
-source: City of Seattle
 source_url: https://consultants.seattle.gov/2025/12/21/tabor-100-office-hours-for-january-2026/
 summarized: true
 title: Tabor 100 Office Hours for JANUARY 2026

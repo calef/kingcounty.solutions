@@ -41,7 +41,7 @@ feed_content: "<p>The holidays are around the corner and can stir up many emotio
 image_ids: []
 location_titles:
 - King County
-source: Cancer Lifeline Financial Assistance for Cancer Patients
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/connecting-with-others/
 summarized: true
 title: Connecting with Others

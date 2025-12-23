@@ -7,8 +7,8 @@ feed_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Im
   what is most important to you."
 image_ids: []
 location_titles: []
+organization_title: City of Burien
 published: false
-source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=20801695
 summarized: true
 title: ADA Transition Plan Open House

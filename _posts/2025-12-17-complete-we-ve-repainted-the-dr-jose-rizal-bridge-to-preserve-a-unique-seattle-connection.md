@@ -8,13 +8,13 @@ feed_content_checksum: dc944a8c20e602f9dfaa9e30b0f2a75087f25690
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Seattle
 original_source_html: 'Blog stats: 600 words | 3-minute read We recently finished
   repainting work on the historic Dr. Jose Rizal Bridge between Chinatown-International
   District and Beacon Hill. Unlike previous painting and maintenance efforts, this
   is the first time we ...'
 published: false
 rss_guid: https://sdotblog.seattle.gov/?p=38004
-source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/17/complete-dr-jose-rizal-bridge-painting-project/
 summarized: true
 title: 'Complete: We’ve repainted the Dr. Jose Rizal Bridge to preserve a unique Seattle

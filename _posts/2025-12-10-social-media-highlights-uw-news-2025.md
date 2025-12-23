@@ -88,8 +88,8 @@ feed_content: "<p>This year, the UW News social media team shared stories from t
 feed_content_checksum: 0757ed9a286befbd857be4a40b293c5cf417ec59
 image_ids: []
 location_titles: []
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/10/social-media-highlights-uw-news-2025/
 summarized: true
 title: 'Social media highlights: UW News 2025'

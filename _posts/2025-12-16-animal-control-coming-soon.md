@@ -17,6 +17,7 @@ feed_content_checksum: ccf10b20ff20d865db997df8edb3bf6e9d425422
 image_ids: []
 location_titles:
 - King County
+organization_title: City of Des Moines
 original_source_html: "<p><span> </span></p> <p><span>Under a contract between the
   City and Burien CARES, a dedicated animal control position will be back in service
   in Des Moines next year. On December 11, 2025, the City Council voted to reinstate
@@ -32,7 +33,6 @@ original_source_html: "<p><span> </span></p> <p><span>Under a contract between 
   <p><span><font>For more information on pet licensing <a>click here</a>. </font></span></p>"
 published: false
 rss_guid: '17385004_20778914'
-source: City of Des Moines
 source_url: https://www.desmoineswa.gov/news/what_s_new/des_moines_animal_control_f_a_q/
 summarized: true
 title: Animal Control Coming Soon!

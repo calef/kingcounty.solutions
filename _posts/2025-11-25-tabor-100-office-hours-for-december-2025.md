@@ -9,7 +9,7 @@ feed_content: Do you want to learn more about doing business with the City? Do y
 image_ids: []
 location_titles:
 - King County
-source: City of Seattle
+organization_title: City of Seattle
 source_url: https://consultants.seattle.gov/2025/11/25/tabor-100-office-hours-for-december-2025/
 summarized: true
 title: Tabor 100 Office Hours for December 2025

@@ -53,8 +53,8 @@ feed_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <header
   have Successfully Subscribed!</h2> </div> </div> </div> </div>
 image_ids: []
 location_titles: []
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/public-notices/public-hearing-notice-metropolitan-parks-district-2026-levy/
 summarized: true
 title: Public Hearing Notice – Metropolitan Parks District 2026 Levy

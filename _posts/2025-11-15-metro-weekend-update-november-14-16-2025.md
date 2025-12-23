@@ -8,7 +8,7 @@ feed_content: 'Weekend Service Impacts Construction Routes 177, 183, 193, and Ra
 image_ids: []
 location_titles:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/14/metro-weekend-update-november-14-16-2025/
 summarized: true
 title: Metro Weekend Update – November 14-16, 2025

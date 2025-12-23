@@ -126,7 +126,7 @@ feed_content: |-
 image_ids: []
 location_titles:
 - King County
-source: YouthCare
+organization_title: YouthCare
 source_url: https://youthcare.org/blog/connections-november-25/
 summarized: true
 title: CONNECTIONS – November 25
