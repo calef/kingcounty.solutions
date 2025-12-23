@@ -1,7 +1,7 @@
 ---
 date: '2025-12-22T23:56:58+00:00'
 events:
-- 2025-12-31-new-years-eve-free-transit-rides
+- 2025-12-31-free-rides-on-new-year-s-eve
 events_extracted: true
 feed_content: King County Executive Girmay Zahilay announced today that Metro will
   join other regional transit agencies to provide free rides this New Year’s Eve,
@@ -27,4 +27,4 @@ topic_titles:
 - Transportation & Mobility
 ---
 
-King County Executive Girmay Zahilay announced that King County Metro, along with several regional transit agencies, will offer free rides on New Year’s Eve, December 31. Passengers can travel without paying fares on King County Metro, Sound Transit, Community Transit, Everett Transit, Pierce Transit, and the Seattle Streetcar. This initiative is part of the holiday celebrations aimed at encouraging safe travel during the festivities. The free fares will help residents and visitors enjoy the New Year celebrations without the worry of transportation costs.
+King County Executive Girmay Zahilay announced that Metro and other regional transit agencies will offer free rides on New Year’s Eve, December 31. Riders can use King County Metro, Sound Transit, Community Transit, Everett Transit, Pierce Transit, and the Seattle Streetcar without paying fares. This initiative is part of the holiday celebrations to encourage safe travel during the festivities. The program aims to help reduce the number of impaired drivers on the road. Metro urges everyone to take advantage of the free service and enjoy the New Year’s Eve events responsibly.
