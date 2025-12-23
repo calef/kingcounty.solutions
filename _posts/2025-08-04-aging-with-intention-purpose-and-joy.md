@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: At Eastside Friends of Seniors, we see aging not as a problem to solve,
   but rather as a life stage to honor. Every week, we witness...
 image_ids: []
-locations:
+location_titles:
 - Eastside
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/aging-with-intention-purpose-and-joy

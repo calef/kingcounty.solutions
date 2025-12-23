@@ -8,7 +8,7 @@ feed_content: The Attorney General’s Office is seeking members for the HearMeW
   Selected members will participate in bi-monthly Zoom meetings and receive compensation.
 feed_content_checksum: cb948176a89c1aabcdcef89f8d8459e923b7613c
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/09/2026-hearmewa-youth-advisory-group-recruitment/

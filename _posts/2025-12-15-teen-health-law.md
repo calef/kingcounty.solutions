@@ -8,7 +8,7 @@ feed_content: Teen Health Law is a project by the National Center for Youth Law 
   providers about legal impacts. For inquiries, contact NCYL at health@youthlaw.org.
 feed_content_checksum: b8b99e65ae72c8e33494b0bae254776530d21afa
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Teen Health Law is a project by the National Center for Youth
   Law that provides comprehensive information on minor consent and confidentiality

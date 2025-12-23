@@ -10,7 +10,7 @@ feed_content: This month, Friends of Youth hosted our first End-of-Year Celebrat
   our vision of a future  where every Friends of Youth young person and family experiences...
 feed_content_checksum: 8174a52af1cd18b9a069058ebdaf92eb7aa91e55
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: This month, Friends of Youth hosted our first End-of-Year Celebration  at
   Novelty Hill – Januik Winery , bringing together community members, partners, and

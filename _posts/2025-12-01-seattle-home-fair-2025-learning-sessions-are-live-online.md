@@ -7,7 +7,7 @@ feed_content: Missed the Seattle Home Fair? No Problem! If you couldn’t attend
   are now available online, so you can watch at your convenience and get the same
   helpful insights from ...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/seattle-home-fair-2025-learning-sessions-are-live-online/

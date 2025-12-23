@@ -69,7 +69,7 @@ feed_content: |-
   <li>A healthy mind, body and spirit can make coping with stress easier. Check out the <a href="https://mobile.va.gov/appstore" rel="noopener">VA App Store</a> for free apps to support your wellness throughout this holiday season and beyond.</li>
   </ul>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143536/managing-stress-in-the-holiday-season/

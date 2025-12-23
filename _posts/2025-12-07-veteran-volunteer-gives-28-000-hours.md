@@ -50,7 +50,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA Minneapolis Health care System site </a> and has been edited for style and clarity.  </p>
 feed_content_checksum: b9617c3e4594563357f6858302fd157ecdc994fa
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143687/veteran-volunteer-gives-28000-hours/

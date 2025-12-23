@@ -10,7 +10,7 @@ feed_content: |-
   <p>Passcode:       302578</p>
   <p>The post <a href="https://communityrootshousing.org/2025/09/special-pda-board-meeting-3/">Special PDA Board Meeting</a> appeared first on <a href="https://communityrootshousing.org">Community Roots Housing</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/09/special-pda-board-meeting-3/

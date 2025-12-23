@@ -33,7 +33,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
 feed_content_checksum: 9d231d466021e29a243527afe153f04d58028264
 image_ids: []
 location: Still Waters Snack Pack, PO Box 88984, Tukwila, 98138, United States
-locations:
+location_titles:
 - King County
 organization_title: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/still-waters-snack-pack-winter-donation-drive/2025-12-26/

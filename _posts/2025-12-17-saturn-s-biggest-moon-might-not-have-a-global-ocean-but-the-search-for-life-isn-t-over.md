@@ -45,7 +45,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 4c06ec9b7dbf3473387cafa9c20ffb3675a6e1ea
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <div>

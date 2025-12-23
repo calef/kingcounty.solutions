@@ -5,7 +5,7 @@ feed_content: Seattle police officers arrested a 44-year-old woman after she sta
   p.m., patrol officers responded to reports of a stabbing at the intersection of
   7th Avenue and Ma...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/03/road-rage-leads-to-stabbing-in-downtown-seattle/

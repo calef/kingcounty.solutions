@@ -7,7 +7,7 @@ feed_content: |-
   <p class="read-more-container"><a title="Celebrating Disability Pride Month" class="read-more button" href="https://nhwa.org/2025/06/30/celebrating-disability-pride-month/#more-25140" aria-label="Read more about Celebrating Disability Pride Month">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/06/30/celebrating-disability-pride-month/">Celebrating Disability Pride Month</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Neighborhood House
 source_url: https://nhwa.org/2025/06/30/celebrating-disability-pride-month/

@@ -39,7 +39,7 @@ feed_content: |-
 
   Thank you.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/10/notice-town-park-commission-regular-meeting-october-28-2025-700-pm-town-hall/

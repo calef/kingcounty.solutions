@@ -13,7 +13,7 @@ feed_content: |-
   <p>Overlake and MultiCare also partnered with <a href="https://www.emerus.com/" target="_blank" rel="noopener external noreferrer" data-wpel-link="external" class="wpel-icon-right">Emerus<span class="wpel-icon wpel-image wpel-icon-6"></span></a>, a national leader in building and operating small-format hospitals and off-campus emergency departments. Emerus is renowned for its commitment to transforming emergency services by designing care around the patient and family allowing them an exceptional patient experience in a cost-efficient manner.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/10/overlake-and-multicare-open-state-of-the-art-neighborhood-emergency-department-in-lynnwood/" data-wpel-link="internal">Overlake and MultiCare open state-of-the-art neighborhood emergency department in Lynnwood</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/10/overlake-and-multicare-open-state-of-the-art-neighborhood-emergency-department-in-lynnwood/

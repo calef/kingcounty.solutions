@@ -9,7 +9,7 @@ feed_content: 'The King County Solid Waste Division will accept flood debris, in
   debris collection sites to provide expanded […]'
 feed_content_checksum: '094ffd6d645399b6a774006456d82e573f2e6122'
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: 'The King County Solid Waste Division will accept flood debris,
   including yard waste and garbage, free of charge from individual customers* on Saturdays

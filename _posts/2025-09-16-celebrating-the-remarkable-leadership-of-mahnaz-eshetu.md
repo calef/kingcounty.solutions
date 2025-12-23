@@ -72,7 +72,7 @@ image_ids:
 - ce52961eb31b164680874a2d54e222ae9e9968aecf127b1d89042329264b59f0
 - 4b5fb40cd48c4ac47724bcc991540f7240246eb1513572e7d5bd7c62faf41b1b
 - 8ec8f910d37b3924bd2212ce66bb6445ab455c7390f5234aef987c7515b1ca71
-locations:
+location_titles:
 - King County
 source: Refugee Women's Alliance
 source_url: https://www.rewa.org/celebrating-the-remarkable-leadership-of-mahnaz-eshetu/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-the-remarkable-leadership-of-mahnaz-eshetu

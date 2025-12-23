@@ -43,7 +43,7 @@ image_ids:
 - fa242b98ec4a8453318e3daa4ab1fbcd8fbf0531434fad818228400985189d1a
 - 4e1057d93f5478943a321100d72ccc30f8a2c4aae36ab666abc603c11e82303a
 - df90f6bfc8c467f31c3a1ff92f564137d97ff868ab7aac93b64681f319282e64
-locations:
+location_titles:
 - King County
 rss_guid: https://empoweryouthnetwork.org/?p=7708
 source: Empower Youth Network

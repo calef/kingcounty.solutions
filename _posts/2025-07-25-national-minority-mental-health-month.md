@@ -69,7 +69,7 @@ feed_content: "<p>July marks National Minority Mental Health Month, a time to ac
   Family Foundation. This piece originally appeared in </em><a href=\"https://www.essence.com/health-and-wellness/supportive-cancer-care/\"
   target=\"_blank\" rel=\"noreferrer noopener\"><em>Essence</em></a><em>. </em></p>\r\n\r\n\r\n\r\n<p>&nbsp;</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/national-minority-mental-health-month/

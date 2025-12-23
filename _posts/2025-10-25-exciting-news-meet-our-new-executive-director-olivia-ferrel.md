@@ -16,7 +16,7 @@ feed_content: "<p>We are pleased to share that <strong>Olivia Ferrel</strong> ha
   <img src=\"https://s.w.org/images/core/emoji/16.0.1/72x72/1f49a.png\" alt=\"\U0001F49A\"
   class=\"wp-smiley\" style=\"height: 1em; max-height: 1em;\" /></p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/exciting-news-meet-our-new-executive-director-olivia-ferrel/

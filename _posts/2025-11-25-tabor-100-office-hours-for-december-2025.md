@@ -7,7 +7,7 @@ feed_content: Do you want to learn more about doing business with the City? Do y
   businesses? Do you have questions about working with unions on City construction
   projects? Do you want ...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://consultants.seattle.gov/2025/11/25/tabor-100-office-hours-for-december-2025/

@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Youth and young adults are heading back to school this month, and we
   are asking for school supplies, hygiene items, and snacks to get...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/champion-student-success-join-our-back-to-school-supply-drive

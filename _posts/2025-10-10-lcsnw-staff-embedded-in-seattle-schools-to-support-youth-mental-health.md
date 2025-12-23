@@ -84,7 +84,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_5 blog-post-type et_sect
   on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 image_ids:
 - 418dcd99cbbb28502ade967ed693d63ea82a542575b304600572819766bdad2c
-locations:
+location_titles:
 - King County
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/10/lcsnw-staff-embedded-in-seattle-schools/

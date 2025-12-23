@@ -10,7 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Hoo
 feed_content_checksum: ec7c161b4df1e9917d3a8b777187d64e6e2eb419
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: Disabled American Veterans
 published: false
 source_url: https://www.dav.org/events-calendar/fort-hood-job-fair-march-11-2026/

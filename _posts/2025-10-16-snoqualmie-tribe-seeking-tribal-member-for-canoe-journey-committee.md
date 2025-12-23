@@ -7,7 +7,7 @@ feed_content: "The Canoe Journey Committee will assist in the planning and execu
   must apply and, if selected for consideration, interview for the position.\n\nLearn
   more and apply here:  \n[https://snoqualmietribeforms.us/cjc-application/](https://snoqualmietribeforms.us/cjc-application/)"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/snoqualmie-tribe-seeking-tribal-member-for-canoe-journey-committee/

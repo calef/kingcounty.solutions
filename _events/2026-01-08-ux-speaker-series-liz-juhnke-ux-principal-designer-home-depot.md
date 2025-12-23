@@ -84,7 +84,7 @@ feed_content: "<div class=\"row\"> <section id=\"content\"> <section> <header> <
   our Mailing List</a></p> </div> </div> </section> </aside> </div>"
 image_ids: []
 location: Sieg Building (SIG)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

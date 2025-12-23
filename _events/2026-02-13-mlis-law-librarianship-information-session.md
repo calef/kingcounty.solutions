@@ -5,7 +5,7 @@ feed_content: Developing a startup from the ground up can feel intimidating, esp
   his Master of Science in Information Management, Nishit Bhasin, ‘24,...
 image_ids: []
 location: Zoom
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

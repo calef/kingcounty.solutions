@@ -7,7 +7,7 @@ feed_content: Paying your utility bill just got easier.&#160;&#160; Seattle Publ
   up on past-due balances and stay current, with no fees, no interest, and no late
   fees. PromisePay gives...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/12/flexible-payment-plans-with-promisepay/

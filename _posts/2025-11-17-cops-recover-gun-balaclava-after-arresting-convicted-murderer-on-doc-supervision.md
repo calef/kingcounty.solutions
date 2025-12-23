@@ -5,7 +5,7 @@ feed_content: Seattle police officers arrested armed, convicted murderer on acti
   South Lake Union. On Nov. 13, at about 8:43 a.m., patrol officers responded to reports
   of a man armed ...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/17/cops-recover-gun-balaclava-after-arresting-convicted-murderer-on-doc-supervision/

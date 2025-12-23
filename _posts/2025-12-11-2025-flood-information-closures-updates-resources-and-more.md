@@ -102,7 +102,7 @@ feed_content: |-
   <p>If we missed anything, please comment below! It takes the whole valley to look out for each other right now.</p>
 feed_content_checksum: 6fab44758247ed09913040e33f7d760f3ab320b6
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://empoweryouthnetwork.org/?p=7697
 source: Empower Youth Network

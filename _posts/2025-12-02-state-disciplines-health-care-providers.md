@@ -91,7 +91,7 @@ feed_content: |-
 
   <p class="text-align-center">###</p></div>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/state-disciplines-health-care-providers-44

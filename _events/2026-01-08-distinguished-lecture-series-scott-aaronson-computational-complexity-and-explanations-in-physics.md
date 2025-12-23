@@ -38,7 +38,7 @@ feed_content: '<article> <div> <h2>Computational Complexity and Explanations in 
 feed_content_checksum: 36e209bf4c4db5d935754cae6d3821dcb5132da7
 image_ids: []
 location: Gates Center (CSE2), G20 | Amazon Auditorium
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: "<!doctype html>\n<html lang=\"en-US\" class=\"no-js\">\n<head>\n\t<meta

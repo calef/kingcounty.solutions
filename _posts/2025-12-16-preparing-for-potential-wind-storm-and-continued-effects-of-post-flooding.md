@@ -26,7 +26,7 @@ feed_content: |-
   </ul>
 feed_content_checksum: e205acace75842cde03767eff23a0dcc136517e3
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p>In preparation for this evening’s wind advisory and continued affects of post-flooding, please review the following safety and preparedness steps:</p>

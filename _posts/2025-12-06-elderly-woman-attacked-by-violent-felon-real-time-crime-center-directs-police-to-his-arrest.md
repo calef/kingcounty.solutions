@@ -5,7 +5,7 @@ feed_content: Deputies in the King County Sheriff&#8217;s Office (KCSO) and Seat
   Seattle this afternoon. Just before 12:00 p.m., numerous citizens reported a male
   suspect swing...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/05/elderly-woman-attacked-by-violent-felon-real-time-crime-center-directs-police-to-his-arrest/

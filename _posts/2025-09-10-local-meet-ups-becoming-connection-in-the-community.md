@@ -21,7 +21,7 @@ feed_content: |-
   <p style="font-weight: 400;"><strong><span data-ogsc="rgb(11, 118, 159)">Vancouver – </span></strong><span data-ogsc="rgb(11, 118, 159)"><a href="https://www.wsd.wa.gov/" data-ogsc="" data-outlook-id="86c91044-558f-4e78-80f1-93ebe1cdb63a">Washington School for the Deaf </a><strong>– </strong></span><a href="https://www.google.com/maps/dir/44.0467456,-122.896384/3107+E+Evergreen+Blvd,+Vancouver,+WA+98661/@44.8299139,-124.1902169,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x5495af5789d36e59:0x47ec108882805375!2m2!1d-122.6379999!2d45.625979?entry=ttu&amp;g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D"><span data-ogsc="rgb(11, 118, 159)">(3107 E Evergreen Blvd, Vancouver, WA 98661)</span></a></p>
 image_ids:
 - 193f75649a4e1c1194a33cb38cd34a2f1193ab9ba829edf9bd66e253bae3f833
-locations:
+location_titles:
 - King County
 source: Washington Center for Deaf and Hard of Hearing Youth
 source_url: https://www.cdhy.wa.gov/local-meet-ups-becoming-connection-in-the-community/

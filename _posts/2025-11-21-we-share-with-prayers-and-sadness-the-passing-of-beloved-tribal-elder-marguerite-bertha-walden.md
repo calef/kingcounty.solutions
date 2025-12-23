@@ -13,7 +13,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>&nbsp;</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/we-share-with-prayers-and-sadness-the-passing-of-beloved-tribal-elder-marguerite-bertha-walden/

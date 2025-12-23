@@ -8,7 +8,7 @@ feed_content: Use of earliest publication date for determining NIH Public Access
   class="more-link">Continue reading <span class="screen-reader-text">Upcoming Change
   in My Bibliography</span> <span class="meta-nav">&#8594;</span></a>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: National Center for Biotechnology Information
 source_url: https://ncbiinsights.ncbi.nlm.nih.gov/2025/09/08/upcoming-change-my-bibliography/

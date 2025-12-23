@@ -12,7 +12,7 @@ feed_content: |-
   <p>Executive Order 25-10 marks an important step toward more respectful partnerships between the State of Washington and Tribal Nations. For the Snoqualmie Indian Tribe, these commitments affirm that any state decisions affecting our people, lands, culture, and resources must include us from the beginning rather than after plans are already in motion.</p>
   <p>The Tribal Council will continue monitoring the rollout of these changes and will keep members informed as statewide guidelines, trainings, and reporting systems take shape.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/washington-state-strengthens-commitment-to-working-with-soverign-tribal-nations/

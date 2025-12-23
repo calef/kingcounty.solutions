@@ -69,7 +69,7 @@ feed_content: |-
 
   The post [Sepsis Awareness Month: Recognize the Signs, Save a Life](https://snoqualmievalleyhealth.org/sepsis-awareness-month-recognize-the-signs/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/sepsis-awareness-month-recognize-the-signs/

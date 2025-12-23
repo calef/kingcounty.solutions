@@ -5,7 +5,7 @@ feed_content: |-
   <p><span><span><strong><span>CITY OF MERCER ISLAND – NOTICE OF APPLICATION AND NOTICE OF PUBLIC HEARING</span></strong></span></span></p>
   <p><span><span><strong><span>SEP25-017 &amp; RZN25-001 – Public Hearing November 19, 2025</span></strong></span></span></p></div></div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/bc-pc/page/notice-application-public-hearing-planning-commission-mtg-nov-19

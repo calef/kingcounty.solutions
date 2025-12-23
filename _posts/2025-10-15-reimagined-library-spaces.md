@@ -10,7 +10,7 @@ feed_content: |-
 
   The first refresh was completed at Valley View Library in October 2025, with Auburn Library next. Kent, Des Moines, and South Center Libraries have all been selected for projects in 2026.&nbsp;
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Library System
 source_url: https://kcls.org/blogs/post/reimagine-library-spaces/

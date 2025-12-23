@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Equity and inclusion live in our daily choices, our relationships, and
   the way we show up for one another .   Across our community,...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/building-community-through-authentic-connections

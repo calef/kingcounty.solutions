@@ -157,7 +157,7 @@ feed_content: |-
 
   <p>The North Fork Snoqualmie River Confluence Revetment Removal Project represents a forward-looking investment in ecological resilience, floodplain reconnection, and the health of our watershed. By removing outdated infrastructure and restoring natural processes, the KCFCD is helping ensure that future generations experience a more vibrant and sustainable Snoqualmie River system.</p><p>The post <a href="https://kingcountyfloodcontrol.org/river-restoration-along-the-north-fork-snoqualmie-river/">River Restoration Along the North Fork Snoqualmie River</a> appeared first on <a href="https://kingcountyfloodcontrol.org">King County Flood Control District</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/river-restoration-along-the-north-fork-snoqualmie-river/?utm_source=rss&utm_medium=rss&utm_campaign=river-restoration-along-the-north-fork-snoqualmie-river

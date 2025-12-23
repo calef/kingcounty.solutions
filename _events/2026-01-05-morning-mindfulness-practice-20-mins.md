@@ -162,7 +162,7 @@ feed_content: <meta><meta><meta><meta><meta><link><link><link><link><link><meta>
 feed_content_checksum: e99c8fa39781bacbc259db5e6f1380441c786cea
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: University of Washington
 published: false
 source_url: https://teams.microsoft.com/dl/launcher/launcher.html?deeplinkId=41abfa97-9fac-4e82-acbc-024e00f19e6e&directDl=true&enableMobilePage=true&msLaunch=true&type=team&url=%2F_%23%2Fl%2Fteam%2F19%3ABPhZsY-3DlNFd-TZ1X6-vEJrdb1TlpTpUXlVBJdARjo1%40thread.tacv2%2Fconversations%3FgroupId%3Da79487d1-042d-4c5d-8b8b-4f310941e964%26tenantId%3Df6b6dd5b-f02f-441a-99a0-162ac5060bd2

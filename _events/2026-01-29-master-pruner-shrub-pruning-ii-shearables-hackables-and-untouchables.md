@@ -4,7 +4,7 @@ feed_content: '<div id="init_data" style="display: none"> {"o":"2WSB-TGY2T","win
   </div> <div id="root"> <div id="loading_table">Loading </div> </div>'
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

@@ -11,7 +11,7 @@ feed_content: At Friends of Youth, we believe community grows stronger when peop
   focused on...
 feed_content_checksum: 859637e4ebfad448a22842b3ade4bff5a846337d
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: At Friends of Youth, we believe community grows stronger when
   people have space to gather, connect, and care for one another. Recently, we were

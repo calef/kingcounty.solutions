@@ -28,7 +28,7 @@ feed_content: "<p><strong>Participant Story: Linda’s Journey of Rediscovery</s
   this to others living with cancer: “I’m SO glad I went. This retreat truly changed
   my life and the way I live with my cancer.”</strong></p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/cancer-retreat-participant-linda/

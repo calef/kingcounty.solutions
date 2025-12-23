@@ -14,7 +14,7 @@ feed_content: |-
   <p>For more information, visit <a target="_blank" href="https://health.usnews.com/best-hospitals/rankings?src=usn_pr" data-wpel-link="external" rel="external noopener noreferrer" class="wpel-icon-right">U.S. News &amp; World Report&#8217;s Best Hospitals<span class="wpel-icon wpel-image wpel-icon-6"></span></a>.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/09/multicare-hospitals-recognized-by-us-news-world-report-2025/" data-wpel-link="internal">MultiCare hospitals recognized by U.S. News &#038; World Report</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/09/multicare-hospitals-recognized-by-us-news-world-report-2025/

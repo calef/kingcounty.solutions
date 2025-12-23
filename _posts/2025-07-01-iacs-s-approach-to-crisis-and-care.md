@@ -7,7 +7,7 @@ feed_content: |-
 
   [Read More... from IACS’s Approach to Crisis and Care](https://iacswa.org/iacss-approach-to-crisis-and-care/)
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Indian American Community Services
 source_url: https://iacswa.org/iacss-approach-to-crisis-and-care/

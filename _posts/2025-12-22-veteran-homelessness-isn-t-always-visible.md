@@ -97,7 +97,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 1628a4f6468871ddf03fdd29e564ff69b55e1ea0
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <h2>Recognizing the different ways Veteran homelessness presents and how VA services offer pathways to stability</h2>

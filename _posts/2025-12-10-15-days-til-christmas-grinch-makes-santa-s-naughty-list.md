@@ -6,7 +6,7 @@ feed_content: Seattle police officers arrested a 34-year-old man for Residential
   Northeast. Acc...
 feed_content_checksum: b7e163414ca05f66d5d4a626fef048a1273ffd61
 image_ids: []
-locations: []
+location_titles: []
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44661
 source: City of Seattle

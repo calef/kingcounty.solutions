@@ -19,7 +19,7 @@ feed_content: '<div> <div> <section> <div> <p> <a> « All Events</a> </p> <div> 
 feed_content_checksum: 6daf30428bda1322a83b0c28c3d0af9713a56117
 image_ids: []
 location: ''
-locations:
+location_titles:
 - Federal Way
 organization_title: Federal Way Senior Center
 published: false

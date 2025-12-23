@@ -41,7 +41,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 00545b0cedff127bd626bb61f7f105f7ee501ff8
 image_ids: []
-locations:
+location_titles:
 - Eastside
 original_source_html: |-
   <p><a>AGENDA</a></p>

@@ -23,7 +23,7 @@ feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1
 feed_content_checksum: 7ec5b499d9cfe8461e58ed6ece35953b4f787237
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Muslim Association of Puget Sound
 original_source_html: "<!DOCTYPE html>\n<html class=\"html\" lang=\"en-US\">\n<head>\n\t<meta

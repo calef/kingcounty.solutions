@@ -172,7 +172,7 @@ feed_content: "<p>While holidays and the end of the year are often associated wi
   Professionals, and Mental Health Caregivers | By: Michelle Solomon</a> appeared
   first on <a href=\"https://nami-eastside.org\">Nami-Eastside WA</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: National Alliance on Mental Illness Eastside
 source_url: https://nami-eastside.org/mitigating-crisis-around-the-holidays/

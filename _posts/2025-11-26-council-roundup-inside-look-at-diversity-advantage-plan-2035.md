@@ -64,7 +64,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   26 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - 4e04b3e7a890f468bd7d991f8cbc885a5aa9c3727001f698176fe3ee3ffb898b
-locations:
+location_titles:
 - Bellevue
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-inside-look-diversity-advantage-plan-2035-0

@@ -172,7 +172,7 @@ feed_content: "<p><div class=\"et_pb_section et_pb_section_9 blog-post-type et_s
   post <a href=\"https://lcsnw.org/2025/07/nextgen/\">Youth voices shape the future:
   Listening sessions reveal hopes and challenges</a> appeared first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/07/nextgen/

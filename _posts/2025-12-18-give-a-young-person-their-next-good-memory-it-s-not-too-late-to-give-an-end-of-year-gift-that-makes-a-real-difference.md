@@ -11,7 +11,7 @@ feed_content: Food is more than nourishment—it’s memory, dignity, and hope 
   But...
 feed_content_checksum: 5efb76c5f3b7612cfcd0460daff5b67e507eb87c
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Food is more than nourishment—it’s memory, dignity, and hope
   . For Sam, his first holiday without a home could have been unbearably lonely. But

@@ -8,7 +8,7 @@ feed_content: On a night to celebrate the accomplishments of youth from across t
   Aquarium. Mayor Bruce Harrell spoke at the event, offering words of encouragement
   to the youth and [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/03/a-sea-of-gratitude-and-appreciation-for-interns/

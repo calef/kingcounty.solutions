@@ -77,7 +77,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 312d52084547d7c0e28ecac829d195c1a8c5085b
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1.jpg"></p>

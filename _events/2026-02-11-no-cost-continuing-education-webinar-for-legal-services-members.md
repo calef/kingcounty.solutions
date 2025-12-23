@@ -7704,7 +7704,7 @@ feed_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-he
   .avatar-below .testimonial-thumbnail{margin-top:1.5rem}.fusion-text{--awb-content-alignment:initial;--awb-font-size:inherit;--awb-line-height:inhe'
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: NOSSCR Referral Service
 published: false
 source_url: https://nosscr.org/event/no-cost-continuing-education-webinar-for-legal-services-members/

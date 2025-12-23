@@ -46,7 +46,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: f534921eb0134eb5585fb3000a1948b18b00bcde
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://news.va.gov/?p=143884
 source: Veterans Affairs Pension Program

@@ -53,7 +53,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
   cards. Also, you will likely find me cuddling with my cat, Enoki.</p>\n</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 feed_content_checksum: 3b4937522e9b1bb57783f3aa972104704a1d85d6
 image_ids: []
-locations: []
+location_titles: []
 published: false
 rss_guid: https://inatai.org/?p=14744
 source: Inatai Foundation

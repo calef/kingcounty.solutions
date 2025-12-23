@@ -54,7 +54,7 @@ feed_content: '<a>Skip to main content</a> <div> <div> <section> <div> <div> <ar
 feed_content_checksum: f0724b75111d946111ab1ac3bd6fdc3aef58d711
 image_ids: []
 location: PACCAR Hall (PCAR)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

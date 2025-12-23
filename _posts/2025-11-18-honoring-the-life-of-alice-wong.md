@@ -148,7 +148,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   the Life of Alice Wong</a> appeared first on <a href=\"https://ihdd.org\">UW IHDD</a>.</p>"
 image_ids:
 - e67c7b8075f94ebd6915a3df724c8257227e71271078307215548603203f68fd
-locations:
+location_titles:
 - King County
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/18/honoring-the-life-of-alice-wong/

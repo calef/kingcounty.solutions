@@ -41,7 +41,7 @@ feed_content_checksum: 563c95fa6c97a1e9d21f354fa2205c7beeecc723
 image_ids: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
-locations:
+location_titles:
 - King County
 organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/member-orientation/2025-12-22/

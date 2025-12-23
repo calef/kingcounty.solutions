@@ -9,7 +9,7 @@ feed_content: |-
   <p>A peasant girl chases after her foretold destiny &#8211; to become Empress &#8211; in <a href="https://seattle.bibliocommons.com/v2/record/S30C3296387"><strong>Forest of a Thousand Lanterns</strong></a>, the first book of a YA duology by Julie C. Dao which tells a version of Snow White set in an East Asian fantasy world.</p>
   <p><em>~posted by Amy L.</em></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/11/28/fractured-fairy-tales-and-female-antiheroes-5-readalikes-for-fans-of-wicked/

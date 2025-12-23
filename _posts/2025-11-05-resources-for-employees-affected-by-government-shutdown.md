@@ -63,7 +63,7 @@ feed_content: "<p>With the federal government now in shutdown, thousands of work
   the official federal websites or contact your federal agency directly.</p>"
 feed_content_checksum: 5e0af8f23fd99deb58e09cf3f20b3f9f3a6e8c84
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Des Moines
 source_url: https://www.desmoineswa.gov/news/what_s_new/resources_for_employees_affected_by_gov_t_shutdown/

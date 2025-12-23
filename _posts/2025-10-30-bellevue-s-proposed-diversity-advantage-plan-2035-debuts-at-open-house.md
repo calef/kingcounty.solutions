@@ -46,7 +46,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   30 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - 025be640318ceac7d9dc181ad508c6c2d1636257707bd813b6d323e60b80d584
-locations:
+location_titles:
 - Bellevue
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/bellevues-proposed-diversity-advantage-plan-2035-debuts-open-house

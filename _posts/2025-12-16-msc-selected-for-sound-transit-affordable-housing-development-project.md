@@ -9,7 +9,7 @@ feed_content: Sound Transit recently issued a Notice of Intent to Award to MSC a
   to advance our mission  [...]
 feed_content_checksum: 9d64b69ed68c3bfd86fa9c7314d1b2f7c7feae72
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Sound Transit recently issued a Notice of Intent to Award to
   MSC and our housing development partner, Shelter Resources Inc., to develop approximately

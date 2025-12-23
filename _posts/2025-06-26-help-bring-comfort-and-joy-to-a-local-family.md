@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: At Howard House Home, we’re currently supporting a family of six and
   could use your help to make their summer a little brighter!   Meal...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/help-bring-comfort-and-joy-to-a-local-family-in-need

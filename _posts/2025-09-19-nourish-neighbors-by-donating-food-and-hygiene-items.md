@@ -51,7 +51,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   19 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - a7a125584e0ec4f274b0c0a43f0e6d19fd7205001536359a3783ed0aa53228b1
-locations:
+location_titles:
 - King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/essentials-for-all

@@ -6,7 +6,7 @@ feed_content: The City of Auburn Emergency Management issued a Level 2 (Get Set)
   residents on the east side of Green River along […]
 feed_content_checksum: 96288b5ce0ed010a87e3b3e2c969eadda8090eda
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: The City of Auburn Emergency Management issued a Level 2 (Get
   Set) notice on Sunday, December 14 for residents on the west side of Green River,

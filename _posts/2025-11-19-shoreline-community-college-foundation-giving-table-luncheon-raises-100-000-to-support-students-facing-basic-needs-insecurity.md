@@ -24,7 +24,7 @@ feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 60
   These challenges make it difficult for students &#8230;'
 image_ids:
 - b0e997764bd3bd8c5c5616c633329a4980ea252a94a50a24acf4e3b589e77f8f
-locations:
+location_titles:
 - King County
 source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/11/19/shoreline-community-college-foundation-giving-table-luncheon-raises-100000-to-support-students-facing-basic-needs-insecurity/

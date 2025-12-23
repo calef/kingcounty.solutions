@@ -5,7 +5,7 @@ feed_content: "<div> <span>Loading</span> </div> <div><div> <span><a><span>×</s
 feed_content_checksum: a90d9ff0e8656fa320584f424b7bbb1c72eb7553
 image_ids: []
 location: Eastside Executive Center - Foster School of Business
-locations:
+location_titles:
 - Eastside
 organization_title: University of Washington
 original_source_html: "\r\n    <!DOCTYPE html><html lang=\"en-US\" dir=\"ltr\"><head><title>Foster

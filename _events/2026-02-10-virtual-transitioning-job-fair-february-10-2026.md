@@ -33,7 +33,7 @@ feed_content: <div class="container"> <section id="tribe-events-pg-template" cla
   </div> </div> </div> </div> </section> </div>
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/virtual-transitioning-job-fair-february-10-2026/

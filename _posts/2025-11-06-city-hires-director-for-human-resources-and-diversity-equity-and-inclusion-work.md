@@ -52,7 +52,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"datetime\">November 6 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - df3e50a89251faee56bd260a21c9b43379c44668c1b9e81e38c5c7778991fa02
-locations:
+location_titles:
 - Bellevue
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/city-hires-director-human-resources-diversity-equity-inclusion-work

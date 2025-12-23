@@ -80,7 +80,7 @@ feed_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/187">Start the Course</a></p>
   <p>The post <a href="https://arcorafoundation.org/practical-approaches-for-dental-fear-management/">Practical Approaches for Dental Fear Management</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Arcora Foundation
 source_url: https://arcorafoundation.org/practical-approaches-for-dental-fear-management/

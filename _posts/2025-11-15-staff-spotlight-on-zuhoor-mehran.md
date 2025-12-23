@@ -8,7 +8,7 @@ feed_content: Zuhoor joined the MSC team in 2023 and serves as a Community Outre
   appropriate support to newly arrived refugees and immigrants. Clients often face
   significant challenges as they adjust to life  [...]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Multi-Service Center
 source_url: https://mschelps.org/staff-spotlight-on-zuhoor-mehran/

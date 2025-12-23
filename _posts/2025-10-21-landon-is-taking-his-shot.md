@@ -27,7 +27,7 @@ feed_content: |-
 image_ids:
 - 760e41e8d4f6b74d8717cf1ab6c43a50aa4e3cf62a0b9d342b94d8464d7d3805
 - d59b6b79a5cd34756ecb81d9b55d5d8b3e5108ddf7524cfd85a0007a80acf5d2
-locations:
+location_titles:
 - King County
 source: Treehouse
 source_url: https://www.treehouseforkids.org/landon-is-taking-his-shot/

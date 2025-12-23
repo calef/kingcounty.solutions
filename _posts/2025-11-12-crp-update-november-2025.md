@@ -45,7 +45,7 @@ feed_content: "In the coming weeks, the Community Reinvestment Program (CRP) wil
   [CRP Implementation Report 2023-2025 (PDF)](https://deptofcommerce.app.box.com/s/i5a8dxflmkupghuis6eq9ikm9m6l31ut)\n-
   [Community Feedback Results – October 2025 (PDF)](https://deptofcommerce.box.com/s/mcim9q6gt5s77i81ug8sody2ld8eq8pg)"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/crp-update-november-2025/

@@ -4,7 +4,7 @@ feed_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Im
   hundreds of items such as mugs, bowls, serving dishes, casseroles, garden art, jewelry,
   planters, and more at the annual Moshier Holiday Pottery Sale."
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=20964030

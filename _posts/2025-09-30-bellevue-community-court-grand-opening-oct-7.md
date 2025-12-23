@@ -51,7 +51,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   datetime=\"2025-09-30T12:00:00Z\" class=\"datetime\">September 30 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/community-court-opening

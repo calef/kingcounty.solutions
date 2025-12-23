@@ -27,7 +27,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachm
   appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_ids:
 - db94e72c4837a19cae513d61ded92a68f2f4398f61c148a290f153f1250849af
-locations:
+location_titles:
 - King County
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/dav-applauds-congress-va-for-full-year-appropriations-and-program-reauthorizations/

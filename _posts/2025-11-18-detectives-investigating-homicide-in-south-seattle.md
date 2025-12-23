@@ -5,7 +5,7 @@ feed_content: Seattle police detectives are investigating a homicide in South Se
   of an apartment building in the 3600 block of 33rd Avenue South. There officers
   found a man in his...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/18/detectives-investigating-homicide-in-south-seattle-2/

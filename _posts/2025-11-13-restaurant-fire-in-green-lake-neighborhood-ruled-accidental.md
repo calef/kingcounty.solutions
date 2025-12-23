@@ -4,7 +4,7 @@ feed_content: At 3:27 a.m. on Nov. 13, the Seattle Fire Department’s Fire Alar
   received 911 calls reporting smoke coming from inside a restaurant on the 7200 block
   of E. Green Lake Dr. N.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://fireline.seattle.gov/2025/11/13/restaurant-fire-in-green-lake-neighborhood-ruled-accidental/

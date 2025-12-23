@@ -140,7 +140,7 @@ feed_content: |-
 image_ids:
 - c0e38217d92352696787534926a994fb5af767b7629432d107214c5dc7f5e6e4
 - fa0ed03fe3f08870df318646b8049f56616c842860ea9362b26cb684080796ca
-locations:
+location_titles:
 - King County
 source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/capitol-courier-its-time-to-celebrate/

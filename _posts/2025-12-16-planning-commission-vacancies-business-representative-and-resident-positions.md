@@ -6,7 +6,7 @@ feed_content: |-
   <p>The post <a>Planning Commission Vacancies – Business Representative and Resident Positions</a> appeared first on <a>City of Tukwila</a>.</p>
 feed_content_checksum: 53b6a05448e9b63da8e6d5c4a1859325ce322ede
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p><img src="https://www.tukwilawa.gov/wp-content/uploads/Boards-Commissions-and-Committees-flyer-300x160.jpg"></p>

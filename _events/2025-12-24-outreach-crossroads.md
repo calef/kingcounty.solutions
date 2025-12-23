@@ -55,7 +55,7 @@ feed_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-tr
   </div> </div> </div> </div> </section> </div>
 image_ids: []
 location: Crossroads, Bellevue, WA, United States
-locations:
+location_titles:
 - Bellevue
 organization_title: Indian American Community Services
 published: false

@@ -52,7 +52,7 @@ feed_content: '<div class="field-items"> <div class="field-item"> <p>Guest piani
   the associate professor at Loyola University New Orleans.</p> </div> </div>'
 image_ids: []
 location: Music Building (MUS)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

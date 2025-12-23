@@ -5,7 +5,7 @@ feed_content: <div> {"o":"2WSB-TGY2T","account":"WGHV-4MQL8","page_mode":"home",
 feed_content_checksum: 68fe7867cd5ef8c4ded6d8fcc90376c1b8022b4a
 image_ids: []
 location: Washington Park Arboretum
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

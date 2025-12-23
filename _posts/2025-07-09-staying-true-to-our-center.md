@@ -7,7 +7,7 @@ feed_content: Six months into 2025, we continue to center our communities as we 
   this is where MSC finds our courage. We root down into what we know to be true—MSC
   has been serving the community for over 50 years, and  [...]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Multi-Service Center
 source_url: https://mschelps.org/staying-true-to-our-center/

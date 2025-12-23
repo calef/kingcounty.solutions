@@ -258,7 +258,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"47762\" 
   \ Self Inquiry Series: Crop Top Bravery and Back into Dating</a> appeared first
   on <a href=\"https://opalfoodandbody.com\">Opal: Food + Body Wisdom</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: 'Opal: Food + Body Wisdom'
 source_url: https://opalfoodandbody.com/the-appetite-137/

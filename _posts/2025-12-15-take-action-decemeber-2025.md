@@ -39,7 +39,7 @@ image_ids:
 - ded6c7ca08a3a1ece23872397d3fd9bd37bb407609f69af84b5d32fc7a5bd940
 - 0a895114229c4c1bd7554950699070183ebe385a7d76e51b8145e50728cd4567
 - fb29e3c905ef86e10e842a48c2dc386a6045c2e516ca2b05356b0a5f6a48568c
-locations:
+location_titles:
 - King County
 original_source_html: "<p></p>\n\n\n\n<p><strong>Take Action: Show Up for Community
   Change</strong></p>\n\n\n\n<p>Social change happens when everyday people show up—<strong>locally,

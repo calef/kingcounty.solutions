@@ -7,7 +7,7 @@ feed_content: "<div> <div> <p> </p> <p>The Wind Ensemble and Symphonic Band (Er
 feed_content_checksum: 7a6a5b2baa63e5ff3694aa1ea5e3f208a385fb4f
 image_ids: []
 location: Meany Hall (MNY)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

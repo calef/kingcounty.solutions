@@ -58,7 +58,7 @@ feed_content_checksum: 402675f80992166f9c06a6cfbf707e80009f9e07
 image_ids:
 - 38b65651034bec7d73971730da7eb7b0f4d9897e7e43ca296442ce36804186aa
 - e57ed7c75d8c74811ff1795939bebfab7f561867719bfe0b6f371050baa62f45
-locations:
+location_titles:
 - King County
 original_source_html: "<p>As our <a>Room for All capital campaign</a> that brought
   about our new Community Food Hub comes closer to completion, we’re reflecting on

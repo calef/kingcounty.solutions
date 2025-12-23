@@ -7,7 +7,7 @@ feed_content: 'We are pleased to announce that we have been ranked #1 in custome
   Utility Business Customer Satisfaction […]'
 feed_content_checksum: 58ca14b508ce0ae6ea80469f4f75f883e1b96727
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: 'We are pleased to announce that we have been ranked #1 in customer
   satisfaction among midsize utilities in the West for the fourth year in a row. We

@@ -6,7 +6,7 @@ feed_content: I’m extremely honored and grateful to continue in my role as Chi
   remain intact...
 feed_content_checksum: f2cde36a69656da98836ce8e4aa070a4c5ab3f19
 image_ids: []
-locations: []
+location_titles: []
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44660
 source: City of Seattle

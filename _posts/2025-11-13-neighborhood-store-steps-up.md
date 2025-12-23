@@ -60,7 +60,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"9578\" c
   | <strong><a href=\"https://censusreporter.org/profiles/05000US53033-king-county-wa/\">LINK</a></strong></p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>"
 image_ids:
 - 480680d89b46088b1cf1cdccbb4a1868e0e622f179b097c6279f5b36f08bcf72
-locations:
+location_titles:
 - King County
 source: Atlantic Street Center
 source_url: https://atlanticstreetcenter.org/2025/11/13/neighborhood-store-steps-up/?utm_source=rss&utm_medium=rss&utm_campaign=neighborhood-store-steps-up

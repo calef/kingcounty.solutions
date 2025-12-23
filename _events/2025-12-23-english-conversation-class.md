@@ -44,7 +44,7 @@ feed_content_checksum: 84e16090fde15ba6b977f5c80edbd9c14df722f2
 image_ids: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
-locations:
+location_titles:
 - King County
 organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/english-as-a-second-language-esl-class-2/2025-12-23/

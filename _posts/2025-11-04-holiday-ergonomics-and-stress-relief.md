@@ -85,7 +85,7 @@ feed_content: |-
 
   The post [Holiday Ergonomics and Stress Relief](https://snoqualmievalleyhealth.org/holiday-ergonomics-and-stress-relief/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/holiday-ergonomics-and-stress-relief/

@@ -5,7 +5,7 @@ feed_content: When the call came that Seattle Restored had an opening in its new
   the perfect timing,” said Hudson, owner of Mama Row’s Caramel. “It opened up a lot
   of possibil...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/12/04/seattle-restored-in-lake-city-helps-mama-rows-caramels-turn-pain-into-purpose/

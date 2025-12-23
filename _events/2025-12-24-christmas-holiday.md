@@ -53,7 +53,7 @@ feed_content: <div id="page-container"> <header id="main-header" data-height-onl
   </div>
 image_ids: []
 location: ANEW, 18338 Andover Park West, ANEW Tukwila, 98188, United States
-locations:
+location_titles:
 - King County
 organization_title: Apprenticeship & Nontraditional Employment for Women
 published: false

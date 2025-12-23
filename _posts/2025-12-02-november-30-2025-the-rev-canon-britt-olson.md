@@ -5,7 +5,7 @@ feed_content: |-
   <p>The post <a>November 30, 2025 — The Rev Canon Britt Olson</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: efd3349c8519c91e3c9a1796d4868a3b2531aeeb
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p>Advent 1 Advent began early for me this year.  Like many, I grew up with no awareness of Advent.  This season between Thanksgiving and Christmas is mostly controlled by consumer … <a>Read More</a></p>

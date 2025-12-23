@@ -20,7 +20,7 @@ feed_content: |-
   <p>The post <a href="https://thenccs.org/meet-benjamin/">Meet Benjamin!</a> appeared first on <a href="https://thenccs.org">The NCCS</a>.</p>
 image_ids:
 - 719f0076e5bc7cbcf4c82a40f751f8292f140dec447a0874804e626a4891bdfb
-locations:
+location_titles:
 - King County
 source: The National Children's Cancer Society - Financial Assistance
 source_url: https://thenccs.org/meet-benjamin/

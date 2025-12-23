@@ -9,7 +9,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   at Mercer Island High School, falls on the 25<sup>th</sup> anniversary of the two
   cities’ relationship. </span></span></span></p></div></div></div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/sistercity/page/mercer-island-welcomes-french-students-sister-city

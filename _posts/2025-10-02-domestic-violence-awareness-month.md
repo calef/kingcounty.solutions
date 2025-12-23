@@ -10,7 +10,7 @@ feed_content: Dear Friends,We are grateful for your ongoing partnership in break
   homes. Children who witness abuse are three times more likely to become perpetrators
   of violence
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/domestic-violence-awareness-month

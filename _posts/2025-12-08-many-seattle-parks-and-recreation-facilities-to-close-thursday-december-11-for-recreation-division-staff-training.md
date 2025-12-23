@@ -5,7 +5,7 @@ feed_content: 'Many Seattle Parks and Recreation facilities and programs will be
   facilities and services are CLOSED: These facilities are OPEN on regular schedul...'
 feed_content_checksum: 18225b5a6e922241563264d36dd9c5ff435e50b3
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/08/many-seattle-parks-and-recreation-facilities-to-close-thursday-december-11-for-recreation-division-staff-training/

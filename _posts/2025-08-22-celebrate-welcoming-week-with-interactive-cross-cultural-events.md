@@ -45,7 +45,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   datetime=\"2025-08-22T12:00:00Z\" class=\"datetime\">August 22 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
 image_ids: []
-locations:
+location_titles:
 - Eastside
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/welcoming-week-25

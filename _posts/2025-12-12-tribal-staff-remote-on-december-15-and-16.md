@@ -6,7 +6,7 @@ feed_content: |-
   <p><span>Your safety is paramount, please avoid any non-essential travel in affected areas and follow local emergency recommendations. We appreciate your flexibility and commitment as we navigate these weather-related challenges together in this state of emergency.</span></p>
 feed_content_checksum: 771486ff2966ddbe6caac5e649ecad4eee932fc3
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://snoqualmietribe.us/?p=6906

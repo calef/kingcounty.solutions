@@ -5,7 +5,7 @@ feed_content: <div> {"key":"2WSB-TGY2T_K9KH-5PTF_ea44cd8a114d","window_id":"wc4e
 feed_content_checksum: 7c0ae124591419a65dd8aef93c52e23317b8a62c
 image_ids: []
 location: Washington Park Arboretum, 2300 Arboretum Dr E, Seattle WA
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

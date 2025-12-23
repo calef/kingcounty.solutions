@@ -9,7 +9,7 @@ feed_content: 'Hello, This is King County Emergency Management. We are evaluatin
   for business impacts go to: KCOEM Business Impact Survey. […]'
 feed_content_checksum: 42f3ceccd712047dc144aaa48711b1bd42dbfd8e
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://kcemergency.com/2025/12/12/december-damage-assessment/
 source: King County Emergency Management

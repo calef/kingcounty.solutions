@@ -59,7 +59,7 @@ feed_content: |-
   <p>The post <a>Meet our winners</a> appeared first on <a>Eastside Legal Assistance Program</a>.</p>
 feed_content_checksum: 729898376a8e86dc5f39a588f64da9d1a84c6d10
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://elap.org/?p=16648
 source: Eastside Legal Assistance Program

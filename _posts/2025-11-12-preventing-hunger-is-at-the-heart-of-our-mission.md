@@ -41,7 +41,7 @@ feed_content: |-
 
   <p></p><p>The post <a href="https://www.bellevuelifespring.org/general/the-heart-of-our-mission/">Preventing hunger is at the heart of our mission</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/general/the-heart-of-our-mission/">Preventing hunger is at the heart of our mission</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - Bellevue
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/the-heart-of-our-mission/?utm_source=rss&utm_medium=rss&utm_campaign=the-heart-of-our-mission

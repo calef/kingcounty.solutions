@@ -7,7 +7,7 @@ feed_content: |-
 
   <p>Because of you, The Center is a place that's &hellip;</p></a>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/thank-you-members/

@@ -89,7 +89,7 @@ feed_content: |-
 
   <p>It is so important to recognize how people’s mental health is impacted, every one and individual has different experiences, it’s important to get the help we need.&nbsp;</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: The Deaf Hotline
 source_url: https://www.thedeafhotline.org/blog/how-dv-and-sa-impacts-mental-health/

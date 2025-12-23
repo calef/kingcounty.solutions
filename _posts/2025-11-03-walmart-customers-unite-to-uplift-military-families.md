@@ -54,7 +54,7 @@ feed_content: |-
   <p class="has-normal-font-size"><strong>Media Inquiries: <br></strong>Erin Burgy, Senior Director, Integrated Public Relations<br><a href="mailto:Erin.Burgy@OperationHomefront.org">Erin.Burgy@OperationHomefront.org<br></a>(469) 934-7131</p>
   <p>The post <a href="https://operationhomefront.org/walmart-customers-unite-to-uplift-military-families/">Walmart Customers Unite to Uplift Military Families</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/walmart-customers-unite-to-uplift-military-families/

@@ -39,7 +39,7 @@ feed_content: |-
 
   The post [6 Tips to Help Kids Navigate Uncertain Times](https://encompassnw.org/6-tips-to-help-kids-navigate-uncertain-times/) first appeared on [Encompass](https://encompassnw.org).
 image_ids: []
-locations:
+location_titles:
 - South King County
 source: Encompass
 source_url: https://encompassnw.org/6-tips-to-help-kids-navigate-uncertain-times/

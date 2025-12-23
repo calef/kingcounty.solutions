@@ -5,7 +5,7 @@ feed_content: Following an attempted armed carjacking, Seattle police detectives
   morning. At about 3:30 a.m., patrol officers responded to a shooting in the 2200
   block of 1st Avenue....
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/09/suspects-shot-hospitalized-following-attempted-carjacking/

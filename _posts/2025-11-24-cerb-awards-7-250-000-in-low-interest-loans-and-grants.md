@@ -7,7 +7,7 @@ feed_content: |-
 
   <p><a href=""></a></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/cerb-awards-7250000-in-low-interest-loans-and-grants/

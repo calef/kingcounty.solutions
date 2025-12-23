@@ -7,7 +7,7 @@ feed_content: 'UPDATED: December 17, 2025 – 4:30 p.m. The Copper Gate Apartmen
   B Street […]'
 feed_content_checksum: f3353622daaafaf25bfa2a04cc1d7ef2c5c53a18
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: 'UPDATED: December 17, 2025 – 4:30 p.m. The Copper Gate Apartments,
   4750 Auburn Way N., have been downgraded from a Level 3 (GO NOW) evacuation order

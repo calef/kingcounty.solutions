@@ -160,7 +160,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
 image_ids:
 - c1daea9878c55828d97a15e27185c8678436e1c6e6c05f30457bf937f89c147e
 - a0ca0accd85a1c856ba7c5313a263bbad7f4473638f4749d10524c75e8af146d
-locations:
+location_titles:
 - King County
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/17/full-circle-ben-moores-path-to-medicine/

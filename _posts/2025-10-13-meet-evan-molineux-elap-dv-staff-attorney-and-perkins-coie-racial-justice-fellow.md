@@ -33,7 +33,7 @@ feed_content: |-
 
   The post [Meet Evan Molineux: ELAP DV staff attorney and Perkins Coie Racial Justice Fellow](https://elap.org/meet-evan-molineux-elap-dv-staff-attorney-and-perkins-coie-racial-justice-fellow/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 image_ids: []
-locations:
+location_titles:
 - Eastside
 - Lake Forest Park
 source: Eastside Legal Assistance Program

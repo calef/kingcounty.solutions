@@ -8,7 +8,7 @@ feed_content: The City of Seattle will continue its commitment to food equity by
   and yout...
 feed_content_checksum: d114b1c4507c9464615d8484a89f7ff4d1316719
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: The City of Seattle will continue its commitment to food equity
   by investing more than $1.45 million in a diverse group of 23 community partners

@@ -10,7 +10,7 @@ feed_content: As the days grow shorter and the air turns crisp, November invites
   the other hand, is like taking a detour in the best possible direction. It doesn’t
   erase...
 image_ids: []
-locations:
+location_titles:
 - Eastside
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/seeing-what-is-through-a-gratitude-lens

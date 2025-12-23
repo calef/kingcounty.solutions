@@ -17,7 +17,7 @@ feed_content: |-
   <p>Thank you.</p>
   <p>&nbsp;</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/notice-town-council-special-meeting-november-20-2025-400-pm-town-hall/

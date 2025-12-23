@@ -133,7 +133,7 @@ feed_content: "<span>State disciplines health care providers (12-19-2025)</span>
   Department of Health</div>\n          </div>"
 feed_content_checksum: 2aaee7101070e2e110bf4b73fdac3c97edae2152
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<span>State disciplines health care providers (12-19-2025)</span>\n\n
   \           <div>\n<time>December 19, 2025 - 11:08am</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>December

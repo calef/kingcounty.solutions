@@ -4,7 +4,7 @@ feed_content_checksum: 0da595e27453378da6485c44f4ba869ede57d388
 generated_from_post: true
 image_ids: []
 location: Broadview Branch
-locations:
+location_titles:
 - King County
 organization_title: The Seattle Public Library
 original_source_html: Families can enjoy board games.

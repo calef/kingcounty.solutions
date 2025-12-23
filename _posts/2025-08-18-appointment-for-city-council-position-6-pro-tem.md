@@ -25,7 +25,7 @@ feed_content: |-
 
   The post [Appointment for City Council Position 6 Pro Tem](https://www.tukwilawa.gov/applications-for-city-council-position-6-pro-tem/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/applications-for-city-council-position-6-pro-tem/

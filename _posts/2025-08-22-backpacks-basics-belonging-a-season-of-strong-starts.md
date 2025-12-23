@@ -17,7 +17,7 @@ feed_content: |-
   <p>Together, we are creating more than strong starts. We are creating a stronger community.</p>
   <p>The post <a href="https://wellspringfs.org/backpacks-basics-belonging-a-season-of-strong-starts/">Backpacks, Basics &#038; Belonging: A Season of Strong Starts</a> appeared first on <a href="https://wellspringfs.org">Wellspring</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Wellspring Family Services
 source_url: https://wellspringfs.org/backpacks-basics-belonging-a-season-of-strong-starts/

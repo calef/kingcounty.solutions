@@ -86,7 +86,7 @@ feed_content: |-
   <p></p>
   <p>The post <a href="https://youthcare.org/blog/connections-october-2025/">CONNECTIONS &#8211; October, 2025</a> appeared first on <a href="https://youthcare.org">YouthCare</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: YouthCare
 source_url: https://youthcare.org/blog/connections-october-2025/

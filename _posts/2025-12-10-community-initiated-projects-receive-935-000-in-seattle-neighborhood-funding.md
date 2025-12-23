@@ -6,7 +6,7 @@ feed_content: The City of Seattle has awarded $935,448 to support 23 community-i
   $40,672 and hav...
 feed_content_checksum: 4849b50e02904910ede30d865af107761223f219
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/09/community-initiated-projects-receive-935000-in-seattle-neighborhood-funding/

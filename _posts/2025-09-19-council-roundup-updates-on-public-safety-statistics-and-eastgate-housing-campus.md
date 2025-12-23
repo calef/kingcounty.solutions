@@ -74,7 +74,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   19 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - 1a0fed4ba3beae5d97bfd3a6ae1dbf6cbe8393527303f3904af05f5d51dfd8ef
-locations:
+location_titles:
 - King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-updates-public-safety-statistics-eastgate-housing-campus

@@ -4,7 +4,7 @@ feed_content: "<div>\n  \n      \n    <span>01/01/2026 - 11:00am</span>\n      <
   \ \n      \n    <p><a>Notice</a></p>\n      </div>"
 feed_content_checksum: b17eb19321ea4c2962c35ef8fa13accae52a6ffb
 image_ids: []
-locations:
+location_titles:
 - Black Diamond
 original_source_html: "<div>\n  \n      \n    <span>01/01/2026 - 11:00am</span>\n
   \     </div>\n\n<div>\n  \n      \n    <p><a>Notice</a></p>\n      </div>"

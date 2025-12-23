@@ -134,7 +134,7 @@ feed_content: |-
   </ol>
   <p>The post <a href="https://www.elcentrodelaraza.org/take-action-august-2025/">Take Action: August 2025</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/take-action-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=take-action-august-2025

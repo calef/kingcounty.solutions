@@ -9,7 +9,7 @@ feed_content: "<div> <div> <p> </p> <p>David Alexander Rahbee leads  the UW Sy
 feed_content_checksum: 3323ec936c30675affd1945246eec85303873fbb
 image_ids: []
 location: Meany Hall (MNY)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

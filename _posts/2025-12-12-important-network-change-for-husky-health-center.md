@@ -8,7 +8,7 @@ feed_content: |-
   <p><a>Source</a></p>
 feed_content_checksum: dfc8482009365b5f71cc11e6d5ebb7f813741757
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://wellbeing.uw.edu/?p=8348
 source: Husky Health Center

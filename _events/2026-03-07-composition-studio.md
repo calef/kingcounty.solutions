@@ -6,7 +6,7 @@ feed_content: "<div> <div> <p>Emerging and established composers explore unconve
 feed_content_checksum: 8001302ffdfd1c213b854e99bd75217a581b24fd
 image_ids: []
 location: Music Building (MUS)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

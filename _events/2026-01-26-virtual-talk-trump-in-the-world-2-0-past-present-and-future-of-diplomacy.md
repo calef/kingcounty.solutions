@@ -12,7 +12,7 @@ feed_content: '<script type="application/ld+json"> { "@context": "https://schema
   } </script>'
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

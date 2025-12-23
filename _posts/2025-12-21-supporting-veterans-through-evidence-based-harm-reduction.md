@@ -84,7 +84,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 4ad0df6ca952f6319ae18d157ed05a9598b0f914
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <h2>Harm reduction saves lives</h2>

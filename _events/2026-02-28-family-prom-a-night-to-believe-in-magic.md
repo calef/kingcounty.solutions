@@ -75,7 +75,7 @@ feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-tem
 image_ids: []
 location: Federal Way Community Center, 876 South 333rd Street, Federal Way, WA, 98003,
   United States
-locations:
+location_titles:
 - King County
 organization_title: Federal Way Community Center
 published: false

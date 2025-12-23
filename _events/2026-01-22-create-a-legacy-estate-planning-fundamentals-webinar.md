@@ -25,7 +25,7 @@ feed_content: "<div> <div> <div> <p>We’re excited to see you at <strong>Create
 feed_content_checksum: 7d0bf9f8dafeb864cd7f50c00d5ff1650455d819
 image_ids: []
 location: Virtual Event
-locations:
+location_titles:
 - King County
 organization_title: United Way of King County
 published: false

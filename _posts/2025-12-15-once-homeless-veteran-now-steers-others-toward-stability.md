@@ -58,7 +58,7 @@ feed_content: |-
   <p>“He’s become a bridge,” said Stefanie Mohl, social worker, “turning his past into a powerful source of hope for others.” If you or someone you know needs assistance, please visit the <a>VA Homeless Program</a> for more information.</p>
 feed_content_checksum: 7e1d478a4954e105647db8583b77145f674cd7df
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <h2>Using bicycle to bridge gap with Veterans</h2>

@@ -4,7 +4,7 @@ feed_content: |-
   <p>October 26 &#8212; Come for worship, stay for lunch Join us on Sunday, October 26, as we celebrate the conclusion of our Growing in Gratitude campaign. We&#8217;ll collect &#8220;estimate of &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/10/16/growing-in-gratitude-in-gathering/" aria-label="Growing in Gratitude In-Gathering">Read More</a></p>
   <p>The post <a href="https://stlukesseattle.org/2025/10/16/growing-in-gratitude-in-gathering/">Growing in Gratitude In-Gathering</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/10/16/growing-in-gratitude-in-gathering/

@@ -18,7 +18,7 @@ feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 60
   late 1960s, her mother made the &#8230;'
 image_ids:
 - 5482324fdb3ffcb64a3d53dd907a1874756a7b22a867ddf1a91f6db771190f22
-locations:
+location_titles:
 - King County
 source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/10/13/alumni-spotlight-from-shoreline-to-japan-and-back-again-a-life-shaped-by-teaching-travel-and-community/

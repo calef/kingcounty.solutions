@@ -57,7 +57,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"datetime\">August 26 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_ids:
 - 570f8162b84bd1d2828fefa1365a83adb0207b37aa42e98a513255bc235df11a
-locations:
+location_titles:
 - Bellevue
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/safe-routes-to-school

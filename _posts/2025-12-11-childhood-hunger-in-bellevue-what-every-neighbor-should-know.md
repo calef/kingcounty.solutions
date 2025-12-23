@@ -91,7 +91,7 @@ feed_content: |-
 feed_content_checksum: 14ac89ada04186dc48f9b44605eb1aef691f1118
 image_ids:
 - b97e554f56e493697fc9a4432f728b0fa02bf13fcc8da6b79b75fe3ecb586d24
-locations:
+location_titles:
 - Bellevue
 rss_guid: https://www.bellevuelifespring.org/?p=5573
 source: Bellevue LifeSpring

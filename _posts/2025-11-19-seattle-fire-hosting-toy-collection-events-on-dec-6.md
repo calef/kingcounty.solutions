@@ -7,7 +7,7 @@ feed_content: 'Seattle Fire is excited to help support the U.S. Marine Corps’ 
   four Seattle fire stations: Come by any of the stations between 2 and 4 p.m. (in
   Magnolia, we’ll ...'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://fireline.seattle.gov/2025/11/19/seattle-fire-collecting-toys-for-toys-for-tots-on-dec-6/

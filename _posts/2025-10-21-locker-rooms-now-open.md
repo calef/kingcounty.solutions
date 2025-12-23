@@ -92,7 +92,7 @@ image_ids:
 - aae0b5025224a0e0d1cda7e0c6f9e7874de1cc1c55e259082d0cb319c1e5a39a
 - 8cb2f3bdff258826925900db9193d0d8bbbb432fa9a6d64fc268b76842200b79
 - 2313202dfba7d1449f736982bf242ebaef67a65dda3063567bf89d3811c2a591
-locations:
+location_titles:
 - King County
 source: Federal Way Community Center
 source_url: https://itallhappenshere.org/locker-rooms-now-open/?utm_source=rss&utm_medium=rss&utm_campaign=locker-rooms-now-open

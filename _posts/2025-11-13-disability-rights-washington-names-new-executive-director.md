@@ -128,7 +128,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   Rights Washington Names New Executive Director</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/13/disability-rights-washington-names-new-executive-director/

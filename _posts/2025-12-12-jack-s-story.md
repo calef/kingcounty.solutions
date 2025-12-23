@@ -20,7 +20,7 @@ feed_content: "<div>\n\t\t\n\t\t\t\n<div>\n\t\n<span>\n\t“B</span>\n\n\t<div>\
   post <a>Jack’s Story</a> appeared first on <a>Boyer Children's Clinic</a>.</p>"
 feed_content_checksum: b1736c1a6113591805b8d0a30b48d47fc99f3ccb
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://www.boyercc.org/?p=11260
 source: Boyer Children's Clinic

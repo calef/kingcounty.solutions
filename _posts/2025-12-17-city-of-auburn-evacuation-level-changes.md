@@ -7,7 +7,7 @@ feed_content: 'UPDATED: December 17, 2025 – 5 p.m. Water levels have continued
   Auburn Way […]'
 feed_content_checksum: 66b195f6f533bbd028bd3f3cd32338d2a595a903
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: 'UPDATED: December 17, 2025 – 5 p.m. Water levels have continued
   to decrease in parts of Auburn, allowing evacuation levels to be downgraded in some

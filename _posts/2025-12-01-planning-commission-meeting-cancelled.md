@@ -8,7 +8,7 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   please <a href=\"https://www.blackdiamondwa.gov/home/pages/minutes-agendas\" target=\"_blank\">CLICK
   HERE</a></p>\n      </div>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/26971

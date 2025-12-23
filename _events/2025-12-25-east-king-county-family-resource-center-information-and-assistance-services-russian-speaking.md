@@ -44,7 +44,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
 feed_content_checksum: af07eb6020b835b40d7efb88ead1f3791b835c9b
 image_ids: []
 location: CISC, 16305 NE 87th St, Suite 123, Redmond, WA, 98052, United States
-locations:
+location_titles:
 - King County
 organization_title: Together Center
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta

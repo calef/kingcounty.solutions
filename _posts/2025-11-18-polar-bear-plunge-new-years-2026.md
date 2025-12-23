@@ -5,7 +5,7 @@ feed_content: Jump into the new year with both feet! Every January 1st at 12 noo
   dunk in the lake of the new year. Special cubs diving at 11:45 A.M. We provide lifeguards
   at this FREE ...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/18/polar-bear-plunge-new-years-2026/

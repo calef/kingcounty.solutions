@@ -140,7 +140,7 @@ feed_content: '<div class="fusion-row" style=""> <section id="content" style="fl
 image_ids: []
 location: North Bellevue Community Center, 4063 148th Ave NE, Bellevue, 98007, United
   States
-locations:
+location_titles:
 - Bellevue
 organization_title: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/event/russian-speaking-senior-day-program-2-2/2025-12-30/

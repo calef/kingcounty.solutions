@@ -7,7 +7,7 @@ feed_content: This message is for residents and businesses along South 277th St 
   […]
 feed_content_checksum: 6aa8f5405fc5a680c77abc29db2ebb388b3b1e95
 image_ids: []
-locations:
+location_titles:
 - South King County
 published: false
 rss_guid: https://kcemergency.com/2025/12/13/277th-and-trail-run-community-set-message/

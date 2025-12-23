@@ -6,7 +6,7 @@ feed_content: By Todd Burley  Seattle recently embarked on a renewed effort to 
   public g...
 feed_content_checksum: e71f62f11db5effd0bc9c9de3711d3bba2c8ecc1
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: By Todd Burley  Seattle recently embarked on a renewed effort
   to reduce our carbon emissions and prepare for our changing climate through the

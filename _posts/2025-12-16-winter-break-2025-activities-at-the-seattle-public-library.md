@@ -35,7 +35,7 @@ feed_content_checksum: 101bc471e400ce2e65ce09b82697a9235df31f1d
 image_ids:
 - ba6a108785b21a184b50194cc4aa512ef2f6409f1228fbcfb0e0295fda40747a
 - 860563d83f68e60f8a9831e6940326f419da9a3c8b495793d3a18e6c92a7aefd
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <p>Looking for family fun and community while the kids are on winter break? Our libraries have planned board game bashes, crafternoons, maker events and early New Year’s parties. We are also hosting regular <a>story times</a> and other family programming.</p>

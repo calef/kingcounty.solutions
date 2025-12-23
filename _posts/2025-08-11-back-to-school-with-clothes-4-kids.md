@@ -45,7 +45,7 @@ feed_content: |-
 
   <p>Thank you for helping make back-to-school season a time of joy and possibility. Together, we&#8217;re making it possible for every Bellevue child to start the school year with the opportunity to thrive.&nbsp;&nbsp;</p><p>The post <a href="https://www.bellevuelifespring.org/general/back-to-school-with-clothes-4-kids/">Back to school with Clothes-4-Kids</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/general/back-to-school-with-clothes-4-kids/">Back to school with Clothes-4-Kids</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/back-to-school-with-clothes-4-kids/?utm_source=rss&utm_medium=rss&utm_campaign=back-to-school-with-clothes-4-kids

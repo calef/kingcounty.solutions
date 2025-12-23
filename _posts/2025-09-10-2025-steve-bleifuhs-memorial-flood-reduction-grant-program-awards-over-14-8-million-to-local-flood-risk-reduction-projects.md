@@ -32,7 +32,7 @@ feed_content: |-
 
   The post [2025 Steve Bleifuhs Memorial Flood Reduction Grant Program Awards Over $14.8 Million to Local Flood Risk Reduction Projects](https://kingcountyfloodcontrol.org/2025-steve-bleifuhs-memorial-flood-reduction-grant-program-awards-over-14-8-million-to-local-flood-risk-reduction-projects/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/2025-steve-bleifuhs-memorial-flood-reduction-grant-program-awards-over-14-8-million-to-local-flood-risk-reduction-projects/?utm_source=rss&utm_medium=rss&utm_campaign=2025-steve-bleifuhs-memorial-flood-reduction-grant-program-awards-over-14-8-million-to-local-flood-risk-reduction-projects

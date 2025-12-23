@@ -93,7 +93,7 @@ image_ids:
 - 13ebc71c9895645c57a31903b6744db5dd9188a3774dabf399cce76962112d8e
 - 73ed8c95563093ae6ebdea12987558774e7ea323bf877acf56c0d23071631504
 - a35a2245e1725882d7facee60c125dd9f7ae44afcb4707834a5753b61cf35682
-locations:
+location_titles:
 - King County
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/a-farewell-to-uncork-the-night/?utm_source=rss&utm_medium=rss&utm_campaign=a-farewell-to-uncork-the-night

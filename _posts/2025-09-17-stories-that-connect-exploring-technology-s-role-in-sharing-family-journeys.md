@@ -37,7 +37,7 @@ feed_content: "<p class=\"\">At Mary's Place, we're always excited to explore ne
   \ \n  \n\n\n\n\n  \n    <iframe allow=\"clipboard-write\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"
   src=\"https://heyzine.com/flip-book/e657ddd138.html\" class=\"fp-iframe\"></iframe>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/stories-that-connect-exploring-technologys-role-in-sharing-family-journeys

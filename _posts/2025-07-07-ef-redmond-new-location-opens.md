@@ -9,7 +9,7 @@ feed_content: <p class="">As of July 7, 2025 Essentials First Redmond has re-loc
   hours, community members are welcome on a walk-in basis and can receive essential
   hygiene kits, snack packs, and ORCA cards.&nbsp;</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/yfuwxutjn63rpyg7zoda55w5ql1kmf

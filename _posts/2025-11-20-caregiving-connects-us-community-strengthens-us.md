@@ -75,7 +75,7 @@ feed_content: |-
 
   <p>Because caregiving begins with connection—and community makes us stronger.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143323/caregiving-connects-us-community-strengthens-us/

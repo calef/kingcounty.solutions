@@ -16,7 +16,7 @@ feed_content: |-
   <p><strong>Interested? Contact us for an application to get started!</strong></p>
   <p>The post <a href="https://soundgenerations.org/meals-on-wheels-a-caller-is-needed-to-help-make-a-difference-in-northshore-bothell/">Meals on Wheels: A caller is needed to help Make a Difference in Northshore/Bothell!</a> appeared first on <a href="https://soundgenerations.org">Sound Generations</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - North King County
 - Eastside
 source: Sound Generations

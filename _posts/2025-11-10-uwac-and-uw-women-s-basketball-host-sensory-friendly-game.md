@@ -131,7 +131,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   IHDD</a>.</p>"
 image_ids:
 - d7598c8f6fd739be513d1409d05218e5bf03804f2cfe1dfb61fa573b769baa71
-locations:
+location_titles:
 - King County
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/10/uwac-and-uw-womens-basketball-host-sensory-friendly-game/

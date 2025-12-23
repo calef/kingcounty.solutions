@@ -8,7 +8,7 @@ feed_content: This year, we’re celebrating 30 years of our Support, Advocacy, 
   SAGE considers every client’s physical, emotional, medical, social, and spiritual
   needs. Over the past three decades, [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: DESC
 source_url: https://www.desc.org/celebrating-30-years-of-comprehensive-care-with-descs-sage-team/

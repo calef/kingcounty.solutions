@@ -39,7 +39,7 @@ feed_content: |-
   </div>
   </div>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Homework Help
 source_url: https://blog.spl.org/2025/11/17/5-fiction-and-nonfiction-books-that-dive-into-ai/

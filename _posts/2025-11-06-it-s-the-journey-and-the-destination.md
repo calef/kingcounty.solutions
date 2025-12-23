@@ -6,7 +6,7 @@ feed_content: This op-ed originally appeared in Passenger Transport, the flagshi
   publication of the American Public Transportation Association (APTA). While I lead
   transit communications and marketing in Washington state, my earliest public...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/06/its-the-journey-and-the-destination/

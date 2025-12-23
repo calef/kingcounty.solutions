@@ -5,7 +5,7 @@ feed_content: |-
   <p>The post <a>Seattle Cemetery Removal/Reburial Register</a> appeared first on <a>Primary Sources</a>.</p>
 feed_content_checksum: a46899371bd4715ab78f7265136f4796ebbe911d
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://primarysources.seattle.gov/?p=126

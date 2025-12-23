@@ -6,7 +6,7 @@ feed_content: The storms over the last two weeks have caused high turbidity (mud
   turbidity issu...
 feed_content_checksum: 7decbfd3ef2f460e5353a801dec189e36262a058
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: The storms over the last two weeks have caused high turbidity
   (muddy water) in the Cedar River, which supplies two-thirds of Seattle’s regional

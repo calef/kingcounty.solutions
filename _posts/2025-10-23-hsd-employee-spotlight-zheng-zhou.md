@@ -8,7 +8,7 @@ feed_content: Zheng Zhou just celebrated his two-year anniversary of working wit
   and rewarding, and how positive energy can be contagious. What is your role as Seattle
   Human Services? As an Administrative Specialist [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/10/23/hsd-employee-spotlight-zheng-zhou/

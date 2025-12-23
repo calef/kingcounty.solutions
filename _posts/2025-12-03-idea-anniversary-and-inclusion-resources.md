@@ -127,7 +127,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   IHDD</a>.</p>"
 image_ids:
 - 9c828bdf83d0bd38cd6dee3262687d078564f8a476a6cb7a60e6e9eba0cebf64
-locations:
+location_titles:
 - King County
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/03/idea-anniversary-and-inclusion-resources/

@@ -18,7 +18,7 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   lined sheet tray. Return to the oven and bake crumbles until crispy and golden,
   about 15 minutes more. </p>'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/cornbread-crumble

@@ -32,7 +32,7 @@ feed_content: |-
   <p>This change comes as an update to the ABO that’s been in effect since 1998 when only the member could apply. Visit <a>VA benefits</a> for more information, or to apply.<a></a></p>
 feed_content_checksum: 5a717346a8e8976122e304376f88628f94b3e978
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143584/insurance-accelerated-benefit/

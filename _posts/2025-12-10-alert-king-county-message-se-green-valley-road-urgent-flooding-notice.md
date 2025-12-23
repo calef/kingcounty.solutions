@@ -6,7 +6,7 @@ feed_content: Due to severe weather conditions and flooding, on Tuesday, Dec. 9t
   Do not attempt to drive or walk on this road. You will be notified when it […]
 feed_content_checksum: 46d0fe6a32b1ae2671d1c91bf4f52cc4ceda40ba
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://kcemergency.com/2025/12/09/se-green-valley-urgent-flooding-notice/

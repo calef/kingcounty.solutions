@@ -5,7 +5,7 @@ feed_content: "<div> <span>Loading</span> </div> <div><div> <span><a><span>×</s
 feed_content_checksum: a90d9ff0e8656fa320584f424b7bbb1c72eb7553
 image_ids: []
 location: Webinar
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

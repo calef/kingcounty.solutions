@@ -88,7 +88,7 @@ feed_content: "<header> <div> <div> <div> <a>Department of Laboratory Medicine &
 feed_content_checksum: f25a4db0a3e2ef34b684be77831c7035fe91cec9
 image_ids: []
 location: Magnuson Health Sciences Center D (HSD)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: "<header> <div> <div> <div> <a>Department of Laboratory Medicine

@@ -8,7 +8,7 @@ feed_content: On June 27, 2024, riders sailed from Vashon Island to downtown Sea
   of midday water taxi service to the island, which officially began on July 1, 2024.
   The expansion&#8230;
 image_ids: []
-locations:
+location_titles:
 - Vashon
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/08/28/growing-service-happy-riders-midday-water-taxi-service-to-vashon/

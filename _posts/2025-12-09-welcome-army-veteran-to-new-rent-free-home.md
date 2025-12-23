@@ -83,7 +83,7 @@ feed_content: |-
   <p>The post <a>Welcome Army Veteran to New Rent-Free Home </a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: bdb945657c8fb5ed24077a005826e87ebf9eec59
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/welcome-army-veteran-to-new-rent-free-home/

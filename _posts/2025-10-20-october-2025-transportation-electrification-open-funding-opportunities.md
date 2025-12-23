@@ -32,7 +32,7 @@ feed_content: "[U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Pro
   **Total funding amount:** Approximately $25 million.\n- **Application due date:**
   January 8, 2026"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/october-2025-transportation-electrification-open-funding-opportunities/

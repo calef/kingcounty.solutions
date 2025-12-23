@@ -6,7 +6,7 @@ feed_content: Approval reflects monumental, nation-leading step forward in diver
   and direct...
 feed_content_checksum: 22622a56817d1e0e29efb1ff628a7732507737f1
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://harrell.seattle.gov/?p=1614

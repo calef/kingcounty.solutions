@@ -6,7 +6,7 @@ feed_content: Today we are pleased to release an Updated 2020-2032 Strategic Pla
   Our...
 feed_content_checksum: 9bb82101fb5fdbac1b1f8bf5f52e61a0df8cf58d
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: Today we are pleased to release an Updated 2020-2032 Strategic
   Plan—our vision for a healthy, thriving, and vibrant park and recreation system—as

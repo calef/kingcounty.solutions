@@ -26,7 +26,7 @@ feed_content_checksum: 757bfe2e8087f71ae3358cf36cbaf19c10fd9f27
 image_ids: []
 location: Tukwila Community Center, 12424 42nd Avenue South , Tukwila, WA, 98168,
   United States
-locations:
+location_titles:
 - King County
 organization_title: City of Tukwila
 published: false

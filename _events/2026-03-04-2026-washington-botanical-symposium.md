@@ -699,7 +699,7 @@ feed_content: '<div> <a>Skip to main content</a> <a>Skip to footer unit links</a
 feed_content_checksum: 68cfb347c023f9a26e70330bcd023d8506fde322
 image_ids: []
 location: Northwest Horticultural Society Hall (NHS)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: "<div> <a>Skip to main content</a> <a>Skip to footer unit links</a>

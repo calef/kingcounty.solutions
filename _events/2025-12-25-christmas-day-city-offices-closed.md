@@ -18,7 +18,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <h1>Christmas Day –
 feed_content_checksum: c580a48ce97b40dfb50494afa3cd839e1cb1fedb
 image_ids: []
 location: WA
-locations:
+location_titles:
 - King County
 organization_title: City of Tukwila
 published: false

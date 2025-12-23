@@ -6,7 +6,7 @@ feed_content: |-
   <img width="150" height="150" src="https://withcare.seattle.gov/wp-content/uploads/sites/41/2025/11/SCD6408-150x150.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt=""/><p>We hope you all had a good Thanksgiving! Here’s what CCRs were up to during the holiday.</p>
   <p>The post <a href="https://withcare.seattle.gov/2025/12/02/ccrs-help-connect-people-with-shelters-and-hot-meals-on-thanksgiving-day/">CCRs Help Connect People with Shelters and Hot Meals on Thanksgiving Day</a> appeared first on <a href="https://withcare.seattle.gov/">With CARE</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://withcare.seattle.gov/2025/12/02/ccrs-help-connect-people-with-shelters-and-hot-meals-on-thanksgiving-day/

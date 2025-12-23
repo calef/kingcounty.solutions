@@ -32,7 +32,7 @@ feed_content: |-
   <p class="p1"><span class="s1"><a href="https://thirahealth.com/2024/09/05/choosing-the-right-mental-health-treatment-center-a-comprehensive-guide/">Inpatient depression treatment programs </a></span>offer a variety of treatment approaches and options. Today, it’s better understood that mental healthcare is not one-size-fits-all and that different people will thrive better with different approaches. Programs usually have an individual therapy component, a group therapy component, and activities to help patients express and enjoy themselves, as well as the use of different therapy modalities to suit their patient populations.</p>
   <p class="p1"><span class="s1"><a href="https://thirahealth.com/contact/">THIRA Health’s Bellevue mental health clinic</a></span> offers inpatient depression treatment in a comforting setting, using holistic treatment approaches that include evidence-based DBT with individual and group therapy, mindfulness practices like yoga and qi gong, therapies using creative expression, access to nature, and more. Here, you’ll be welcomed, and will work with providers who entered this field to help people just like you. If you’re ready to get started, <a href="https://thirahealth.com/contact/"><span class="s1">connect with us today</span></a> to see how inpatient depression treatment can help you find a life worth living.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: THIRA Health
 source_url: https://thirahealth.com/2025/06/27/7-common-myths-about-inpatient-depression-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=7-common-myths-about-inpatient-depression-treatment

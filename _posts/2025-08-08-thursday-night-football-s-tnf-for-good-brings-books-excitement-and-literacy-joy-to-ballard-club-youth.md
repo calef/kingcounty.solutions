@@ -19,7 +19,7 @@ feed_content: |-
   <p>The post <a href="https://positiveplace.org/tnfbringsbookstoballardclub/">Thursday Night Football&#8217;s TNF For Good Brings Books, Excitement, and Literacy Joy to Ballard Club Youth</a> appeared first on <a href="https://positiveplace.org">Boys &amp; Girls Clubs</a>.</p>
 image_ids:
 - 5975d044f366188be42895b1127ea672d847769e88cb9124ec535be2e98f9615
-locations:
+location_titles:
 - King County
 source: Boys & Girls Clubs of King County
 source_url: https://positiveplace.org/tnfbringsbookstoballardclub/

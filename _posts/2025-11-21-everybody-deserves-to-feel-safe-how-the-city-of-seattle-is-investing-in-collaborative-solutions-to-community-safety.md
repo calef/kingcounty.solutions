@@ -7,7 +7,7 @@ feed_content: Around the world, people may know Seattle because of the Space Nee
   character and charm of its many neighborhoods. From Lake City to Rainier View, Broadview
   to Highlan...
 image_ids: []
-locations:
+location_titles:
 - King County
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/21/everybody-deserves-to-feel-safe-how-the-city-of-seattle-is-investing-in-collaborative-solutions-to-community-safety/

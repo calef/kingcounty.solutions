@@ -96,7 +96,7 @@ feed_content: |-
 
   <p></p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143461/vets4warriors-support-1-million-connections/

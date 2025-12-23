@@ -5,7 +5,7 @@ feed_content: It’s that time of year again! The much-anticipated Salmon &#8220
   the incredible journey of salmon returning to their home streams to spawn. You have
   a fron...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/12/witness-the-salmon-return-at-carkeek-park-this-november/

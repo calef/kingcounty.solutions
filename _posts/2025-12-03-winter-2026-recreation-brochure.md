@@ -5,7 +5,7 @@ feed_content: Seattle Parks and Recreation’s Winter 2026 program brochures are
   in the catalogs below. &#160; Registration opens on Tuesday, December 9, 2025 Ready
   to enroll in ...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/03/winter-2026-recreation-brochure/

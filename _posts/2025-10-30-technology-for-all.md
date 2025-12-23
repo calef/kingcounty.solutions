@@ -18,7 +18,7 @@ feed_content: |-
   <p></p>
   <p>The post <a href="https://transformingage.org/blog/technology-for-all-33/">Technology for all.</a> appeared first on <a href="https://transformingage.org">Transforming Age | Senior Housing, Community Services, Philanthropy, Technology &amp; Partnerships</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Transforming Age
 source_url: https://transformingage.org/blog/technology-for-all-33/

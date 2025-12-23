@@ -4,7 +4,7 @@ feed_content: The Federal Way Senior Center is looking for volunteers to play pi
   and or guitar for our social and sing-a-long time.&#160; We have shifts available&#160;
   Mondays 11:30 -1:00 and Thursday’s [&#8230;]
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/volunteer-piano-player-needed/?utm_source=rss&utm_medium=rss&utm_campaign=volunteer-piano-player-needed

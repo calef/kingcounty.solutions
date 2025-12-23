@@ -39,7 +39,7 @@ feed_content: "<p>The holidays are around the corner and can stir up many emotio
   light, even on the shortest days.</p>\n<p><strong>Because no one should face cancer
   alone.</strong></p>\n<p> </p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/connecting-with-others/

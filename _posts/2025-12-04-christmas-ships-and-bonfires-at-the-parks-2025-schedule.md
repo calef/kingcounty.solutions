@@ -5,7 +5,7 @@ feed_content: The Argosy Christmas Ships are an annual Seattle tradition. As
   to Lake Union and out to Lake Washington. Stopping at pre-planned locations, the
   lead ship hosts an ...
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/04/christmas-ships-and-bonfires-at-the-parks-2025-schedule/

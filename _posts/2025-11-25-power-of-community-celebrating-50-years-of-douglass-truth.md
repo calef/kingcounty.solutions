@@ -127,7 +127,7 @@ feed_content: |-
 
   <p></p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Homework Help
 source_url: https://blog.spl.org/2025/11/25/power-of-community-celebrating-50-years-of-douglass-truth/

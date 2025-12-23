@@ -4,7 +4,7 @@ feed_content: "<p>The post <a>Get the latest information on the Desimone Levee B
   appeared first on <a>City of Tukwila</a>.</p>"
 feed_content_checksum: 074cb8a8ede0e26fd783b5d67141882178a4b346
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: "<p>The post <a>Get the latest information on the Desimone Levee
   Breach</a> appeared first on <a>City of Tukwila</a>.</p>"

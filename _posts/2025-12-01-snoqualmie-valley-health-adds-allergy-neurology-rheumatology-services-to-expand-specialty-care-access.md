@@ -55,7 +55,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"18973\" 
   Care Access</a> appeared first on <a href=\"https://snoqualmievalleyhealth.org\">Snoqualmie
   Valley Hospital</a>.</p>"
 image_ids: []
-locations:
+location_titles:
 - Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/svh-adds-allergy-neurology-rheumatology-services-to-expand-specialty-care-access/

@@ -42,7 +42,7 @@ feed_content: |-
 image_ids:
 - b5b70577939aa2ab3a47f8edd60c6711df8b63942e26a50df4bcb4cdd08d1431
 - 7f7e04552d1c9929d5d2c048852b7b88a403b7124ba3570a0a7ac668be687998
-locations:
+location_titles:
 - King County
 source: Treehouse
 source_url: https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/

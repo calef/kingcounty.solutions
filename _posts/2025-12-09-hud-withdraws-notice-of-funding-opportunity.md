@@ -7,7 +7,7 @@ feed_content: |-
   <p>The post <a>HUD withdraws Notice of Funding Opportunity</a> appeared first on <a>KCRHA</a>.</p>
 feed_content_checksum: 2273b95504ba16926fa174e0f4b2b9c2bab985ae
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-hud-withdraws-notice-of-funding-opportunity/

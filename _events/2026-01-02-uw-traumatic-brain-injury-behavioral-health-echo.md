@@ -36,7 +36,7 @@ feed_content: "<article> <header> <h1>Welcome</h1> </header> <div> <div> <div> <
 feed_content_checksum: 9c00498701408debe802543b0322dc44f98ab09d
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: "<article> <header> <h1>Welcome</h1> </header> <div> <div> <div>

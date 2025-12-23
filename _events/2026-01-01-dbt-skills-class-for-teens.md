@@ -6,7 +6,7 @@ feed_content_checksum: 30e94f1387252c141fd63b5ba4faebe80190a5f5
 generated_from_post: true
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Friends of Youth
 original_source_html: A Dialectical Behavior Therapy (DBT) Skills Class for teens

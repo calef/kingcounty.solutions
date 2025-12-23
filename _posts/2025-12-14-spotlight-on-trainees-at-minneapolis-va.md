@@ -94,7 +94,7 @@ feed_content: |-
   <p>VA partners with more than 1,450 academic institutions throughout the nation, making VA’s health professions education program the largest in the United States. These programs, overseen by the <a>Office of Academic Affiliations</a>, are shaping the next generation of health care professionals for VA and the nation.</p>
 feed_content_checksum: e6be1290f4d0abf7365da0383c15eef3046982ff
 image_ids: []
-locations: []
+location_titles: []
 original_source_html: |-
   <h2>Veterans and trainees’ approach ‘growth journey as a family’</h2>
 

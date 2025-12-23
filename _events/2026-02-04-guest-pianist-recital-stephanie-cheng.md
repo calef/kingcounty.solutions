@@ -34,7 +34,7 @@ feed_content: '<div class="field-items"> <div class="field-item"> <p>The UW Keyb
   will be inducted into the Steinway &amp; Sons Teacher Hall of Fame.</p> </div> </div>'
 image_ids: []
 location: Music Building (MUS)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

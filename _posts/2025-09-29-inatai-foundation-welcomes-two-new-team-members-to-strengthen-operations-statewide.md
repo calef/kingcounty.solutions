@@ -45,7 +45,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_7 et_section_regular\" >
   or even relaxing at home.</p>\n<p>Learn more about Alieu, Michelle, and all our
   team members on the “<a href=\"https://inatai.org/our-team/\">Our team</a>” page.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Inatai Foundation
 source_url: https://inatai.org/news/welcome-new-team-alieu-michelle/

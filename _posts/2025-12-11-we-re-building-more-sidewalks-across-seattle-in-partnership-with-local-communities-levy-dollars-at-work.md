@@ -6,7 +6,7 @@ feed_content: 'Blog stats: 700 words | 4-minute read This year, we’ve been wal
   learning...'
 feed_content_checksum: 83a9d698d12d73463e90cd1dd35711d66976f1c3
 image_ids: []
-locations:
+location_titles:
 - King County
 published: false
 rss_guid: https://sdotblog.seattle.gov/?p=37972

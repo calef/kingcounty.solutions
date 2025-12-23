@@ -9,7 +9,7 @@ feed_content: The King County Housing Repair program provides assistance to low 
   how to access services, and eligibility […]
 feed_content_checksum: ced3579a0b01608bdb02ebce6ba75cd3c96243d1
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://kcemergency.com/?p=6831
 source: King County Emergency Management

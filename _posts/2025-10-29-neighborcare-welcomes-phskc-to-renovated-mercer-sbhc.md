@@ -8,7 +8,7 @@ feed_content: In October 2025, Neighborcare introduced the Public Health School-
   is extended to Mercer Middle School's staff for their hospitality. Congratulations
   on the new clinic!
 image_ids: []
-locations:
+location_titles:
 - King County
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/29/neighborcare-welcomes-phskc-to-renovated-mercer-sbhc/

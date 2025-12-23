@@ -95,7 +95,7 @@ feed_content: |-
   <p>The post <a href="https://operationhomefront.org/military-service-runs-deep-for-liza/">Military Service Runs Deep for Liza </a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
 image_ids:
 - '0099e25e342567a496c07e4fad2d2d65f75ad7cb0ba65c0b6157f7a18b0237cd'
-locations:
+location_titles:
 - King County
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/military-service-runs-deep-for-liza/

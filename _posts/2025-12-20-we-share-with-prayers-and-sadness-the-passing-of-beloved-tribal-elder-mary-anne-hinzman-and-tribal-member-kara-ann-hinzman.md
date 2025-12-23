@@ -19,7 +19,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 3260a36e1dd79b50df14eb917c1f1338f02fe629
 image_ids: []
-locations:
+location_titles:
 - Snoqualmie Valley
 original_source_html: |-
   <p><span>We share with prayers and sadness </span><span>the passing of a beloved Tribal Elder and a Tribal Member</span></p>

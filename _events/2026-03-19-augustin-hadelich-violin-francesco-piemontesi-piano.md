@@ -51,7 +51,7 @@ feed_content: "<a>Skip to main content</a> <div> <div> <header> <a>Skip to main 
 feed_content_checksum: ce16007d23c6b2328af9b5eee9c4d154059546f1
 image_ids: []
 location: Meany Hall (MNY)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 original_source_html: "<!DOCTYPE html>\n  <!--[if IEMobile 7]><html class=\"no-js

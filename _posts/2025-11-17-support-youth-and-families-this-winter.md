@@ -14,7 +14,7 @@ feed_content: |-
   <p class="x_elementToProof">Thank you for helping us spread warmth, kindness, and joy this season. We appreciate your generosity!</p>
   <p>The post <a href="https://www.vibrant.org/support-youth-and-families-this-winter/">Support Youth and Families This Winter</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/support-youth-and-families-this-winter/

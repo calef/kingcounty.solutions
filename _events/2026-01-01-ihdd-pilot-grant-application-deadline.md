@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/13/ihdd-pilot-grant-applications-now-open-for-2025-2026/

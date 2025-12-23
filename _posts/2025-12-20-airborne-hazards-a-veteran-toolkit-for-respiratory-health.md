@@ -109,7 +109,7 @@ feed_content: |-
 feed_content_checksum: bdd83b005071267744845216bd0e5b90bd06cdd0
 image_ids:
 - fd8b6038e332053b53720ef0379585bc3d28c02d2d21c20680673ffbd0eaf5c1
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <h2>A toolkit co-designed by Veterans to address respiratory health concerns</h2>

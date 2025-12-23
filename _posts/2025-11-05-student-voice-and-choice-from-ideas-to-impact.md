@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: 'November 2025: Olympic View students learn the power of their voice
   by advocating for new extracurricular activities.'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Technology Access Foundation
 source_url: https://techaccess.org/student-voice-and-choice-from-ideas-to-impact/

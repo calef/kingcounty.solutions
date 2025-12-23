@@ -6,7 +6,7 @@ feed_content: The Seattle Police Department is proud to highlight the great work
   license plates of ...
 feed_content_checksum: 56e7bd84a5b3c6920a7535dbecb41c1434acc8b3
 image_ids: []
-locations:
+location_titles:
 - King County
 original_source_html: The Seattle Police Department is proud to highlight the great
   work of our officers who are working along the Aurora Avenue North corridor to deter

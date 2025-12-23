@@ -70,7 +70,7 @@ feed_content: |-
 
   <p>RSVP today at 425.690.3150, option 2, or email <a href="mailto:pgunther@psbenefits.net" data-type="mailto" data-id="mailto:pgunther@psbenefits.net">pgunther@psbenefits.net</a> to reserve your spot and make the most of this enrollment season!</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/10/01/understanding-medicare-whats-changing-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-medicare-whats-changing-in-2026

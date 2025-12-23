@@ -5,7 +5,7 @@ feed_content: 'Many Seattle Parks and Recreation facilities will be closed for o
   are CLOSED on both Thursday, Nov. 27 and Friday, Nov. 28: These facilities are OPEN
   regular hours:...'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/12/seattle-parks-and-recreation-2025-thanksgiving-holiday-closures/

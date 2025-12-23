@@ -13,7 +13,7 @@ class NewsModelTest < Minitest::Test
           'source' => 'Test Organization',
           'source_url' => 'https://example.com/article',
           'topics' => ['Health Care', 'Education & Learning'],
-          'locations' => ['King County'],
+          'location_titles' => ['King County'],
           'image_ids' => [],
           'events' => [],
           'events_extracted' => true,
@@ -33,7 +33,7 @@ class NewsModelTest < Minitest::Test
       assert_equal 'Test Organization', record.source
       assert_equal 'https://example.com/article', record.source_url
       assert_equal ['Health Care', 'Education & Learning'], record.topics
-      assert_equal ['King County'], record.locations
+      assert_equal ['King County'], record.location_titles
       assert_equal [], record.image_ids
       assert_equal [], record.events
       assert_equal true, record.events_extracted

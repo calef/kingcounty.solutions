@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: We’re making history on Vashon Island. On Tuesday, August 19 (World
   Humanitarian Day)  The DOVE Project will host the first-ever Hope...
 image_ids: []
-locations:
+location_titles:
 - Vashon
 source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/hope-live-here-dove-giving-day

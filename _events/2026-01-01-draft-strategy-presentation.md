@@ -2,7 +2,7 @@
 generated_from_post: true
 image_ids: []
 location: ''
-locations:
+location_titles:
 - King County
 organization_title: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-updates-provided-affordable-housing-progress-multifamily-tax-exemption-program

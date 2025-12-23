@@ -79,7 +79,7 @@ feed_content: |-
 feed_content_checksum: 7d76c489194374a142aab24f22e93240826faf7e
 image_ids:
 - d9df141e26fe0b148f3a14474ad1a148e9b4a3267619aa5596c5a0a81394c899
-locations:
+location_titles:
 - King County
 original_source_html: |-
   <h2>“I’m a living witness”</h2>

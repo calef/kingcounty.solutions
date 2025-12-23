@@ -8,7 +8,7 @@ feed_content: Community Corner highlights the work of Seattle Human Services’ 
   Julia Smiljanic at Rainier Valley Food Bank (also follow on Facebook, Instagram,
   and LinkedIn).  When [&#8230;]
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/10/28/community-corner-rainier-valley-food-bank/

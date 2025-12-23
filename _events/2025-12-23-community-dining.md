@@ -42,7 +42,7 @@ feed_content_checksum: b9220bf78aee4d94e2be67fd1c513b4fd98dad1c
 image_ids: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
-locations:
+location_titles:
 - King County
 organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/community-dining-hot-lunches-2/2025-12-23/

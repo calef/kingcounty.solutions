@@ -39,7 +39,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
 feed_content_checksum: 8670ac6553610eb5cec51328c1042ea80b34f5dd
 image_ids: []
 location: Hybrid – Virtual/Onsite, United States
-locations:
+location_titles:
 - King County
 organization_title: City of Tukwila
 original_source_html: "<section> <div> <div> <div> <section> <div> <div> <span> Event

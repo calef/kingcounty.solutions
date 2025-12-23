@@ -28,7 +28,7 @@ feed_content: |-
   <p>The post <a href="https://www.vibrant.org/finding-inner-strength-through-peer-support/">Finding Inner Strength Through Peer Support</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids:
 - 9b96a42650615192a1897a2b4fffbe7ff9302ebcdf9bdc9a66aa69e32409860a
-locations:
+location_titles:
 - King County
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/finding-inner-strength-through-peer-support/

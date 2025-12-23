@@ -40,7 +40,7 @@ feed_content: |-
   </div>
 feed_content_checksum: bb3e45ea5023e9784cccd72333440947e7e2c833
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/pharmacist-spokane-county-suspended-due-diversion-controlled-substances

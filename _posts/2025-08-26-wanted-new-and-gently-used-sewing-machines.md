@@ -48,7 +48,7 @@ feed_content: "<p class=\"\">Sewing machines are needed to accommodate the growi
 image_ids:
 - 52871b2cd8c1267017523dc6f53682b58ecfd117bc1ebf4da894ed98ffffd79a
 - 329ed2b5e5f5ec1b587dd9bb444fd75c5d87465fdaeb15c53d6424b3c997687a
-locations:
+location_titles:
 - King County
 source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/jmdktpaqrir8bwhatpeb17ucwmyt8j

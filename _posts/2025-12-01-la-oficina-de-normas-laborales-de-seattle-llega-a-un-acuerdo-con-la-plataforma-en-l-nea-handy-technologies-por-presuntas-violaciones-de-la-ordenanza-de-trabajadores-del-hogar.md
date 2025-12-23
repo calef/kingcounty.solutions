@@ -6,7 +6,7 @@ feed_content: 'Casi $136.000 en recursos para 705 trabajadores Para publicación
   línea Handy Technologies por presuntas violaciones de la Ordenanza de Trabajadores
   del Hogar Casi $136.000 en recursos para 705 trabajadores Seattle, WA – (1 [&#8230;]'
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Seattle
 source_url: https://news.seattle.gov/2025/12/01/la-oficina-de-normas-laborales-de-seattle-llega-a-un-acuerdo-con-la-plataforma-en-linea-handy-technologies-por-presuntas-violaciones-de-la-ordenanza-de-trabajadores-del-hogar/

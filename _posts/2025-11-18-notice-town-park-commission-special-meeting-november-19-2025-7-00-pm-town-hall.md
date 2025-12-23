@@ -20,7 +20,7 @@ feed_content: |-
   <p>Your attendance is always encouraged.</p>
   <p>Thank you.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/notice-town-park-commission-special-meeting-november-19-2025-700-pm-town-hall/

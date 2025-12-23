@@ -65,7 +65,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
 feed_content_checksum: 27e7a6c728422ce568af812f2266662daf184d6d
 image_ids: []
 location: ''
-locations: []
+location_titles: []
 organization_title: WorkSource Seattle-King County
 original_source_html: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
   <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/digital-literacy-learning-lab-5525/","url":"https://worksourceskc.org/event/digital-literacy-learning-lab-5525/","name":"Digital

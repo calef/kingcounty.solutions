@@ -45,7 +45,7 @@ feed_content: "<p class=\"\">For Keisha, a single mom of three, stability meant 
   like Keisha's\n  </a>"
 image_ids:
 - 68ee3e88914cd2fbe6d75610b050fd085e233bbfb83d44796138d4ada80d85cc
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/holding-on-to-stability-keishas-story

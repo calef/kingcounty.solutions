@@ -36,7 +36,7 @@ feed_content: |-
 
   The post [October is Breast Cancer Awareness Month](https://snoqualmievalleyhealth.org/october-is-breast-cancer-awareness-month/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
 image_ids: []
-locations:
+location_titles:
 - Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/october-is-breast-cancer-awareness-month/

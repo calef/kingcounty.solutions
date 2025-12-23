@@ -396,7 +396,7 @@ feed_content: '<a href="#main_content" class="screen-reader-shortcut">Skip to ma
   </div> </div> </section> </div> </div> </div> </div>'
 image_ids: []
 location: Student Union Building (HUB)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

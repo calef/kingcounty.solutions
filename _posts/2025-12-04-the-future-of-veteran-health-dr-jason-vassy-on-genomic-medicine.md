@@ -55,7 +55,7 @@ feed_content: |-
   <div class="video-shortcode"><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="The Future of Veteran Health: Dr. Jason Vassy on Genomic Medicine" width="100%" height="180" frameborder="no" scrolling="no" src="https://share.transistor.fm/e/225e89c7#?secret=2e3IPD1Gvs" data-secret="2e3IPD1Gvs"></iframe></div>
   </div></figure>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143709/future-veteran-health-dr-vassy-genomic-medicine/

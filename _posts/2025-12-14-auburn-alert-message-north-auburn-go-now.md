@@ -8,7 +8,7 @@ feed_content: Hello, This message is for residents and businesses in the area so
   Due to severe and rapidly worsening flooding, the entire area is now under […]
 feed_content_checksum: 3ebd1deeeb77df61ab2cb2d9cb73c436dbcd3d58
 image_ids: []
-locations:
+location_titles:
 - King County
 rss_guid: https://kcemergency.com/2025/12/13/north-auburn-go-now/
 source: King County Emergency Management

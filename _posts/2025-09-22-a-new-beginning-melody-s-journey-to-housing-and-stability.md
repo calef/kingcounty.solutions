@@ -60,7 +60,7 @@ feed_content: "<p class=\"\">When Melody found out she was pregnant, she knew on
   \ </a>"
 image_ids:
 - 26f09885b03d9be8b02e307f17aea3e8907fbef69e27517d95760be6d843d2f4
-locations:
+location_titles:
 - King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/a-new-beginning-melodys-journey-to-stability

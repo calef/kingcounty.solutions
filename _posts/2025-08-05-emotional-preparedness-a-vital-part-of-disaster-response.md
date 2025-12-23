@@ -13,7 +13,7 @@ feed_content: |-
   <p><span style="font-weight: 400;">When the unexpected strikes, emotional readiness can make all the difference. Let’s build a future where no one faces disaster alone. Prepare emotionally, just as you would physically, and help shape a more resilient, compassionate world.</span></p>
   <p>The post <a href="https://www.vibrant.org/emotional-preparedness-a-vital-part-of-disaster-response/">Emotional Preparedness: A Vital Part of Disaster Response</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/emotional-preparedness-a-vital-part-of-disaster-response/

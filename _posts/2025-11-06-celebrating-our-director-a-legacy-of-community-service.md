@@ -6,7 +6,7 @@ feed_content: 'We are thrilled to share a wonderful feature article from the Fed
   Way Mirror spotlighting our esteemed Executive Director, Shelley Puariea. The article,
   titled &#8220;A helping community member: Shelley Puariea,&#8221; [&#8230;]'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/celebrating-our-director-a-legacy-of-community-service/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-our-director-a-legacy-of-community-service

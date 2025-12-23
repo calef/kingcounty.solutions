@@ -7,7 +7,7 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   field-label-hidden\">\n  \n      \n    <p><a href=\"https://www.blackdiamondwa.gov/home/files/civil-service-commission-cancellation-notice-12-04-2025\"
   target=\"_blank\">Notice</a></p>\n      </div>"
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/26946

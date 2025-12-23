@@ -6,7 +6,7 @@ feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Wed, 24 Sep 2025 0
   -0400</p><p>title: When to Terminate Coverage for Consumers Transitioning from Marketplace
   to Medicare Coverage</p><p>topic: Transitions in Coverage</p>"
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/when-terminate-coverage-consumers-transitioning-marketplace-medicare-coverage

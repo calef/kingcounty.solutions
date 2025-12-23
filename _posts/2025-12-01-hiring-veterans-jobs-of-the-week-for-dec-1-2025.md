@@ -205,7 +205,7 @@ feed_content: |-
 
   <p><a href="https://www.va.gov/outreach-and-events/events/77586/" rel="noopener">Norfolk, VA: Hampton Roads Military Community Education Connect (Southside) – Thursdays</a></p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143703/hiring-veterans-jobs-week-dec-1-2025/

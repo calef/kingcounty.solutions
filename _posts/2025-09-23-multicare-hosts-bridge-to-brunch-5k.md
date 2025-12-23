@@ -10,7 +10,7 @@ feed_content: |-
   <p>Participants are encouraged to take pictures and share them on social media platforms using the hashtag #BridgeToBrunch25 — or email them to <a href="mailto:bridgetobrunch@gmail.com">bridgetobrunch@gmail.com</a>.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/09/multicare-hosts-bridge-to-brunch-5k-2025/" data-wpel-link="internal">MultiCare hosts Bridge to Brunch 5K</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/09/multicare-hosts-bridge-to-brunch-5k-2025/

@@ -197,7 +197,7 @@ feed_content: '<p class="">Find your way to additional food resources throughout
   take what you need and leave what you can // <a href="https://www.instagram.com/reel/DQYYIJNDqdG/?utm_source=ig_web_copy_link"
   target="_blank">More Information</a> </p></li></ul>'
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/finding-additional-food-resources-in-seattle

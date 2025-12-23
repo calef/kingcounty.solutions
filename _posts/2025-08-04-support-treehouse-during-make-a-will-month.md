@@ -16,7 +16,7 @@ feed_content: |-
   <p>The post <a href="https://www.treehouseforkids.org/support-treehouse-during-make-a-will-month/">Support Treehouse during Make-a-Will Month</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
 image_ids:
 - d1e4e905960b1bf87b62d308bea7a0697ecd62c7cc0c7135fb0115f0c5daad92
-locations:
+location_titles:
 - King County
 source: Treehouse
 source_url: https://www.treehouseforkids.org/support-treehouse-during-make-a-will-month/

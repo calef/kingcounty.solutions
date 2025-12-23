@@ -65,7 +65,7 @@ feed_content: |-
 
   <p><a href="https://www.prevention.va.gov/Healthy_Living/Get_Recommended_Screening_Tests_and_Immunizations_for_Women.asp" rel="noopener">Recommendations for women</a>.</p>
 image_ids: []
-locations:
+location_titles:
 - King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143364/stay-on-top-of-health-get-screened-for-cancer/

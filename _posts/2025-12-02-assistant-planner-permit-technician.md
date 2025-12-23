@@ -12,7 +12,7 @@ feed_content: This position is responsible for professional-level urban planning
   Park Municipal Code for building, land use, and environmental regulations, and submittal
   requirements for permit applications.
 image_ids: []
-locations: []
+location_titles: []
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/human-resources/assistant-planner-permit-technician/

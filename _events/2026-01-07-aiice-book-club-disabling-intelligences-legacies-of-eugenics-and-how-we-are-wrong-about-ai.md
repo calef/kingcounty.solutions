@@ -151,7 +151,7 @@ feed_content: '<base><link><meta><link><meta><link><script>window.WIZ_global_dat
 feed_content_checksum: 84f4d838378994d377e1daced904e50aef97308d
 image_ids: []
 location: Zoom
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false

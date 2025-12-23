@@ -134,7 +134,7 @@ feed_content: '<!DOCTYPE html> <html lang="en" id="ng-app" xmlns:ng="http://angu
 image_ids: []
 location: Tommy Bahama Miramonte Resort and Spa, 45000 Indian Wells Lane, Indian Wells,
   CA, 92210, United States
-locations: []
+location_titles: []
 organization_title: Olive Crest
 published: false
 source_url: https://give.olivecrest.org/event/power-of-one-or-desert-communities-2026/e738857

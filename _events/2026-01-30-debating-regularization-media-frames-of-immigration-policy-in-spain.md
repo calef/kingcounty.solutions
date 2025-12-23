@@ -43,7 +43,7 @@ feed_content: '<a id="main-content" href="#main_content" class="screen-reader-sh
   </form></div></li> </ul> </div> </div>'
 image_ids: []
 location: Gowen Hall (GWN)
-locations:
+location_titles:
 - King County
 organization_title: University of Washington
 published: false
