@@ -89,7 +89,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/operation-homefront-receives-7-5-million-grant/
 summarized: true
 title: Operation Homefront Receives $7.5 Million Grant
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---

@@ -13,7 +13,7 @@ source_url: https://council.seattle.gov/2025/11/20/seattle-city-council-committe
 summarized: true
 title: Seattle City Council committee passes budget with historic investments in housing,
   public safety, and affordability 
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 ---

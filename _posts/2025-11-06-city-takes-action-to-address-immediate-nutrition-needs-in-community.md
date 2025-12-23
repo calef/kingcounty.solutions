@@ -62,7 +62,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/city-takes-action-address-immediate-nutrition-needs-community
 summarized: true
 title: City takes action to address immediate nutrition needs in community
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

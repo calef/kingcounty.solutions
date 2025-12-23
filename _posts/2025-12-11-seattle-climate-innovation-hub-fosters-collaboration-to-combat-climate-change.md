@@ -14,7 +14,7 @@ source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/12/11/seattle-climate-innovation-hub-fosters-collaboration-to-combat-climate-change/
 summarized: true
 title: Seattle Climate Innovation Hub fosters collaboration to combat climate change
-topics: []
+topic_titles: []
 ---
 
 The Seattle Climate Innovation Hub, located in the Financial Center in Downtown Seattle, aims to fight climate change through collaboration and innovation. As the first space in the area focused on this mission, it brings together businesses, nonprofits, and government entities to share ideas and develop solutions. The hub offers resources like workspace, networking opportunities, and access to funding for climate-focused projects.

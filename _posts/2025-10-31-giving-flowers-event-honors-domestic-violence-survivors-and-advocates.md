@@ -14,7 +14,7 @@ source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/10/31/giving-flowers-event-honors-domestic-violence-survivors-and-advocates/
 summarized: true
 title: "‘Giving Flowers’ event honors domestic violence survivors and advocates"
-topics:
+topic_titles:
 - Domestic Violence
 ---
 

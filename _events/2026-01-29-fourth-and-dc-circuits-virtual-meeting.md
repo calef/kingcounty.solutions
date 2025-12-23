@@ -7709,7 +7709,7 @@ source_url: https://nosscr.org/event/fourth-and-dc-circuits-virtual-meeting/
 start_date: '2026-01-29T14:30:00-05:00'
 summarized: true
 title: Fourth and DC Circuits Virtual Meeting
-topics: []
+topic_titles: []
 ---
 
 Join us for the Fourth and DC Circuits Virtual Meeting on Jan. 29, 2026, at 2:30 p.m. EST. This engaging online event will provide attendees with valuable insights into recent developments and trends within the Fourth and DC Circuits. Participants can expect informative discussions, expert presentations, and the opportunity to network with fellow legal professionals. Whether you are a seasoned attorney or a law student, this meeting is designed to enhance your understanding of circuit-specific issues. Don't miss the chance to connect and learn from leaders in the field from the comfort of your home.

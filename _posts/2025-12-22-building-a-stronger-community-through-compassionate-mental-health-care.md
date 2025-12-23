@@ -58,7 +58,7 @@ source: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/building-a-stronger-community-through-compassionate-mental-health-care/
 summarized: true
 title: Building a stronger community through compassionate mental health care
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Shelter & Housing
 ---

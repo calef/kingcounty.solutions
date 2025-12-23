@@ -83,7 +83,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143617/find-your-next-career-rural-va/
 summarized: true
 title: Find your next career at a rural VA 
-topics:
+topic_titles:
 - Health Care
 - Employment & Job Support
 ---

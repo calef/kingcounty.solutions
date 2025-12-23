@@ -12,7 +12,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_65c85d6ea
 start_date: '2026-01-29T12:30:00-08:00'
 summarized: true
 title: 'Master Pruner: Shrub Pruning II: Shearables, Hackables, and Untouchables'
-topics: []
+topic_titles: []
 ---
 
 Join us for the "Master Pruner: Shrub Pruning II: Shearables, Hackables, and Untouchables" workshop on Jan. 29, 2026, starting at 12:30 p.m. This event will take place at a local venue where participants will learn advanced techniques for pruning various types of shrubs. Attendees can expect hands-on demonstrations and expert guidance on how to properly care for shearable, hackable, and untouchable plants. Whether you're a gardening novice or an experienced horticulturist, this workshop is designed to enhance your skills and knowledge in shrub maintenance. Don't miss this opportunity to improve your gardening techniques and connect with fellow plant enthusiasts!

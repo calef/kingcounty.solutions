@@ -10,7 +10,7 @@ source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/hansons-chimney/?utm_source=rss&utm_medium=rss&utm_campaign=hansons-chimney
 summarized: true
 title: Hanson’s Chimney
-topics: []
+topic_titles: []
 ---
 
 Hanson’s Chimney recently completed a chimney repair at the Federal Way Senior Center, and the team received high praise for their work. Dan Hanson was noted as fantastic to work with, while Jacob Champion's craftsmanship on the chimney was described as artistic. Their professionalism and skill were evident throughout the repair process, leading to great satisfaction with the results. For those needing chimney repair or maintenance, Dan Hanson comes highly recommended and can be reached at 206-276-6865.

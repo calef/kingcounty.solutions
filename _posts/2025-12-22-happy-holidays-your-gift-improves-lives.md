@@ -25,7 +25,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/happy-holidays-your-gift-improves-lives
 summarized: true
 title: Happy Holidays! Your Gift Improves Lives!
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

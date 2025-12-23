@@ -46,7 +46,7 @@ source: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/09/09/learn-about-hospital-prop-1/?utm_source=rss&utm_medium=rss&utm_campaign=learn-about-hospital-prop-1
 summarized: true
 title: Learn About Hospital Prop 1
-topics:
+topic_titles:
 - Health Care
 - Employment & Job Support
 ---

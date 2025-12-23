@@ -17,7 +17,7 @@ source: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-why-seasonal-shelter-is-necessary/
 summarized: true
 title: Why Seasonal Shelter is Necessary 
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

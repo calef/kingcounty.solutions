@@ -53,7 +53,7 @@ source_url: https://wscenter.org/event/line-dancing-level-1-beginners-2-2/2025-1
 start_date: '2025-12-22T11:00:00-08:00'
 summarized: true
 title: Line Dancing Level 1 Beginners
-topics:
+topic_titles:
 - Senior Services
 ---
 

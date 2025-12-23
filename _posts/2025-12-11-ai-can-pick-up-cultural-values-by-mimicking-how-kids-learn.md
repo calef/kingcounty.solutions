@@ -33,7 +33,7 @@ source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/11/ai-training-cultural-values/
 summarized: true
 title: AI can pick up cultural values by mimicking how kids learn
-topics: []
+topic_titles: []
 ---
 
 A study from the University of Washington shows that artificial intelligence can learn cultural values through observation. Researchers examined how AI systems trained on data from two cultural groups—white and Latino—interacted in a modified version of the video game Overcooked, where players help each other cook onion soup. Participants from the Latino group displayed more altruistic behavior, opting to share onions with a bot player at a personal cost. The AI trained on this group's data emulated their altruistic tendencies, giving away more onions than the AI trained on the white group’s data.

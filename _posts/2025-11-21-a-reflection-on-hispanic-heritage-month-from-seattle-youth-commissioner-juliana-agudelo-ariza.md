@@ -14,7 +14,7 @@ source_url: https://frontporch.seattle.gov/2025/11/20/a-reflection-on-hispanic-h
 summarized: true
 title: A Reflection on Hispanic Heritage Month from Seattle Youth Commissioner Juliana
   Agudelo Ariza
-topics:
+topic_titles:
 - Education & Learning
 ---
 

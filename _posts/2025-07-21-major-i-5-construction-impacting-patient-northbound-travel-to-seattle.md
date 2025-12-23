@@ -33,7 +33,7 @@ source: Pacific Medical Centers
 source_url: https://www.pacificmedicalcenters.org/news/major-i-5-construction/
 summarized: true
 title: Major I-5 Construction Impacting Patient Northbound Travel to Seattle
-topics:
+topic_titles:
 - Health Care
 - Transportation & Mobility
 ---

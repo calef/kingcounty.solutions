@@ -96,7 +96,7 @@ source_url: https://www.bellevuelifespring.org/event/one-heart/
 start_date: '2026-02-06T18:00:00+00:00'
 summarized: true
 title: One Heart/One Community - A Party With a Purpose!
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

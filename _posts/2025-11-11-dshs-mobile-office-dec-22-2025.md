@@ -17,7 +17,7 @@ source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/dshs-mobile-office-dec-22-2025/
 summarized: true
 title: DSHS Mobile Office, Dec. 22, 2025
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Disabilities

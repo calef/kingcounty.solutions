@@ -17,7 +17,7 @@ source: Washington 211
 source_url: https://wa211.org/wa-211-announces-selection-of-statewide-call-center/
 summarized: true
 title: WA 211 Announces Selection of Statewide Call Center
-topics:
+topic_titles:
 - Health Care
 - Food & Nutrition
 - Shelter & Housing

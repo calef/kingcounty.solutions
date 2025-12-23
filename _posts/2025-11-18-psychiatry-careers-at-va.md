@@ -63,7 +63,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143478/psychiatry-careers-at-va/
 summarized: true
 title: Psychiatry careers at VA 
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Health Care
 ---

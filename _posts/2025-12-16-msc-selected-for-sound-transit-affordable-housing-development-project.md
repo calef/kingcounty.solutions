@@ -21,7 +21,7 @@ source: Multi-Service Center
 source_url: https://mschelps.org/msc-selected-for-sound-transit-affordable-housing-development-project/
 summarized: true
 title: MSC selected for Sound Transit affordable housing development project
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

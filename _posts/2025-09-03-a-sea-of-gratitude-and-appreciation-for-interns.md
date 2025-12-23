@@ -14,7 +14,7 @@ source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/03/a-sea-of-gratitude-and-appreciation-for-interns/
 summarized: true
 title: A Sea of Gratitude and Appreciation for Interns
-topics:
+topic_titles:
 - Employment & Job Support
 - Food & Nutrition
 ---

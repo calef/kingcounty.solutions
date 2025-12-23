@@ -146,7 +146,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/capitol-courier-its-time-to-celebrate/
 summarized: true
 title: 'Capitol Courier: It’s Time to Celebrate!'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -34,7 +34,7 @@ source: Hunger Intervention Program
 source_url: https://hungerintervention.org/2025/11/26/getting-to-know-dave/?utm_source=rss&utm_medium=rss&utm_campaign=getting-to-know-dave
 summarized: true
 title: Getting to know Dave
-topics:
+topic_titles:
 - Senior Services
 - Disabilities
 - Financial Assistance

@@ -16,7 +16,7 @@ source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/16/council-president-nelsons-consultant-transparency-bill-passes-council/
 summarized: true
 title: Council President Nelson’s consultant transparency bill passes Council
-topics: []
+topic_titles: []
 ---
 
 The Seattle City Council approved a new ethics reporting bill for consultants in a 6-2 vote. The bill, amended from CB 121130 and sponsored by Council President Sara Nelson, requires consultants working with the City to report and disclose information similar to what lobbyists must provide. This move aims to increase transparency and accountability for consultants embedded in city government.

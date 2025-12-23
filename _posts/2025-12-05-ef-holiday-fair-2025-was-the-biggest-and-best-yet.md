@@ -43,7 +43,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/3c02in2lqpyywf49ofi4j1rdszm2yz
 summarized: true
 title: EF Holiday Fair 2025 was the biggest and best yet!
-topics:
+topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 ---

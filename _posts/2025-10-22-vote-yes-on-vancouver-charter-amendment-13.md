@@ -87,7 +87,7 @@ source: Inatai Foundation
 source_url: https://inatai.org/news/vote-yes-on-vancouver-charter-amendment-13/
 summarized: true
 title: Vote Yes on Vancouver Charter Amendment 13
-topics: []
+topic_titles: []
 ---
 
 Vote yes on Charter Amendment 13 to promote equitable representation in Vancouver, Washington. The current at-large voting system dilutes the voices of many residents, particularly communities of color, making it difficult for them to elect representatives who reflect their experiences and needs. Charter Amendment 13 proposes a shift to district voting, allowing neighborhoods like Fourth Plain, Fruit Valley, and East Mill Plain to have their own representatives, thereby increasing accountability and ensuring that local concerns are prioritized.

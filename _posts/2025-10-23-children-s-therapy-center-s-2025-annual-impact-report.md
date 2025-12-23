@@ -31,7 +31,7 @@ source: Children's Therapy Center
 source_url: https://ctckids.org/2025/10/childrens-therapy-centers-2025-annual-impact-report/
 summarized: true
 title: Children’s Therapy Center’s 2025 Annual Impact Report
-topics:
+topic_titles:
 - Disabilities
 ---
 

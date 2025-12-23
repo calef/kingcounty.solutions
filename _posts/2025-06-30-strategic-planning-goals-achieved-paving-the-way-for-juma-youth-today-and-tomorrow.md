@@ -13,7 +13,7 @@ source_url: https://www.juma.org/2025/06/30/strategic-planning-goals-achieved-pa
 summarized: true
 title: 'Strategic Planning Goals Achieved: Paving the Way for Juma Youth Today and
   Tomorrow'
-topics:
+topic_titles:
 - Employment & Job Support
 - Education & Learning
 ---

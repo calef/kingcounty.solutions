@@ -14,7 +14,7 @@ source_url: https://news.seattle.gov/2025/12/10/seattle-office-of-labor-standard
 summarized: true
 title: Seattle Office of Labor Standards Settles Investigation of Alleged Wage Theft
   Violations Against Care Provider
-topics:
+topic_titles:
 - Childcare
 - Employment & Job Support
 ---

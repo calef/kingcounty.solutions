@@ -19,7 +19,7 @@ source: City of Seattle
 source_url: https://courts.seattle.gov/2025/12/22/from-classroom-to-courtroom-a-legal-pathways-students-experience-at-seattle-municipal-court/
 summarized: true
 title: 'From Classroom to Courtroom: A Legal Pathways Student’s Experience at SMC'
-topics:
+topic_titles:
 - Education & Learning
 - Legal Aid
 ---

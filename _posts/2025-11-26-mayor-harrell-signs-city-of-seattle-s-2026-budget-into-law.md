@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/11/26/mayor-harrell-signs-city-of-seattles-2026-budget-into-law/
 summarized: true
 title: Mayor Harrell Signs City of Seattle’s 2026 Budget into Law 
-topics:
+topic_titles:
 - Food & Nutrition
 - Employment & Job Support
 - Shelter & Housing

@@ -58,7 +58,7 @@ source_url: https://news.va.gov/143284/va-research-prevention-blast-exposure-can
 summarized: true
 title: 'VA Research Wrap Up: New findings on suicide prevention, blast exposure, and
   cancer'
-topics: []
+topic_titles: []
 ---
 
 VA researchers are investigating the connection between blast exposure and cancer to improve health outcomes for veterans. The study aims to identify specific cancer risks associated with blast exposure, which can occur during military operations. Researchers are examining biological samples from veterans who have experienced blast injuries to better understand how such exposures may lead to cancer development. The initiative is part of a broader effort to enhance preventive measures and treatment options for veterans affected by blast-related injuries. By establishing a clearer link between blast exposure and cancer types, the VA hopes to inform future policies and health strategies, ultimately improving the quality of care for veterans. This research emphasizes the importance of addressing the long-term health impacts of military service, particularly in relation to environmental exposures. The findings could lead to more effective screening and preventive interventions for veterans at risk of developing cancer due to their service-related experiences.

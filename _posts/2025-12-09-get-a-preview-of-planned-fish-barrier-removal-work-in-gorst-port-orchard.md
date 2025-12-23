@@ -10,7 +10,7 @@ source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/get-preview-planned-fish-barrier-removal-work-gorst-port-orchard
 summarized: true
 title: Get a preview of planned fish barrier removal work in Gorst, Port Orchard
-topics: []
+topic_titles: []
 ---
 
 In spring 2026, the Washington State Department of Transportation will launch a multi-year project to enhance fish passage beneath three state highways in southern Kitsap County. An online open house will provide details about the project, which will occur at five locations along State Route 3, SR 16, and SR 166 in the Gorst and Port Orchard areas. The work involves replacing existing culverts with new bridges or larger culverts to facilitate fish movement. Additionally, streams will be reconstructed to improve habitat. A new roundabout will be built at the intersection of State Route 3, SR 16 Spur, and West Sam Christopherson Avenue.

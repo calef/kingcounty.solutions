@@ -17,7 +17,7 @@ source_url: https://news.seattle.gov/2025/12/08/seattle-office-of-labor-standard
 summarized: true
 title: Seattle Office of Labor Standards Announces Expiration of Temporary COVID-19
   Grocery Worker and Gig Worker Ordinances Providing Protections During Pandemic
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 ---

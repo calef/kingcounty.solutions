@@ -70,7 +70,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143761/see-the-difference-radiology-careers-at-va/
 summarized: true
 title: 'See the Difference: Radiology careers at VA '
-topics:
+topic_titles:
 - Health Care
 - Employment & Job Support
 ---

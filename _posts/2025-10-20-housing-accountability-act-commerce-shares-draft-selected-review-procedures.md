@@ -21,7 +21,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/housing-accountability-act-commerce-shares-draft-selected-review-procedures/
 summarized: true
 title: 'Housing Accountability Act: Commerce shares draft selected review procedures'
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

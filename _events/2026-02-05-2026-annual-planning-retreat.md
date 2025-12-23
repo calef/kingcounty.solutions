@@ -92,7 +92,7 @@ source_url: https://angelflightwest.org/event/2026-strategic-planning-retreat/
 start_date: '2026-02-05T00:00:00-08:00'
 summarized: true
 title: 2026 Annual Planning Retreat
-topics: []
+topic_titles: []
 ---
 
 Join Angel Flight West for the 2026 Annual Planning Retreat in Seattle, Washington, from February 5 to 7, 2026. This engaging event brings together wing leaders, staff, and volunteers to connect and collaborate on the future of the organization. Attendees can expect a full schedule, including an open board meeting, retreat sessions focused on strategic planning, and opportunities to celebrate achievements during a cocktail reception and awards ceremony. This retreat is designed to foster fresh ideas and strategies to enhance services and support for those in need. Don't miss this chance to contribute to meaningful discussions and set new goals for the upcoming year. Your involvement is essential to our mission!

@@ -11,7 +11,7 @@ source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/share-hope-2025-illuminate
 summarized: true
 title: 'Share Hope 2025: Illuminate'
-topics:
+topic_titles:
 - Domestic Violence
 ---
 

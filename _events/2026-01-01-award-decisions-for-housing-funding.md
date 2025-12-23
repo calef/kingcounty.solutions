@@ -9,7 +9,7 @@ source_url: https://www.commerce.wa.gov/commerce-receives-112-applications-to-re
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: Award Decisions for Housing Funding
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

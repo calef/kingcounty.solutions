@@ -9,7 +9,7 @@ source: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?pageId=21082669&portalId=11470638
 summarized: true
 title: Flood & Weather Event Updates
-topics: []
+topic_titles: []
 ---
 
 Auburn, Washington, is preparing for a significant winter storm expected to bring heavy snow and strong winds. The National Weather Service has issued a winter storm warning for the area, with snowfall totals potentially reaching up to 12 inches in some locations. The storm is forecasted to begin in the evening and last through the following day, with the heaviest snowfall occurring overnight. Residents are advised to prepare for hazardous travel conditions and possible power outages due to the high winds.

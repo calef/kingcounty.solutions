@@ -49,7 +49,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/12/disability-and-research-d2-r3-study-opportunity/
 summarized: true
 title: Disability and Research (D2/R3) Study Opportunity
-topics:
+topic_titles:
 - Disabilities
 ---
 

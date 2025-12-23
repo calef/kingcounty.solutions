@@ -16,7 +16,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/11/flood-recovery-information-for-home-and-property-owners/
 summarized: true
 title: Flood Recovery Information for Home and Property Owners 
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 - Health Care

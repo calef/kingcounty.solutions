@@ -45,7 +45,7 @@ source: Pacific Medical Centers
 source_url: https://www.pacificmedicalcenters.org/healthy-every-day/how-to-reduce-your-risk-of-dementia/
 summarized: true
 title: How to Reduce Your Risk of Dementia
-topics:
+topic_titles:
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling

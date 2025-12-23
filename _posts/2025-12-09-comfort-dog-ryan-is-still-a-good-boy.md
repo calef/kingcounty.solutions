@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/09/comfort-dog-ryan-is-still-a-good-boy/
 summarized: true
 title: Comfort Dog Ryan is Still a Good Boy 
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

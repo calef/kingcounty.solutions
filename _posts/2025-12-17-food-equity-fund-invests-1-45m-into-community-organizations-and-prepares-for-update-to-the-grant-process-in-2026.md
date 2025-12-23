@@ -20,7 +20,7 @@ source_url: https://frontporch.seattle.gov/2025/12/17/food-equity-fund-invests-1
 summarized: true
 title: Food Equity Fund Invests $1.45M into Community Organizations and Prepares for
   Update to the Grant Process in 2026
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

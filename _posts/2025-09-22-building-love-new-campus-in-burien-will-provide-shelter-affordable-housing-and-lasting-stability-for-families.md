@@ -135,7 +135,7 @@ source_url: https://www.marysplaceseattle.org/blog/building-love-in-burien-new-c
 summarized: true
 title: 'building love: new campus in burien will provide shelter, affordable housing,
   and lasting stability for families'
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 - Health Care

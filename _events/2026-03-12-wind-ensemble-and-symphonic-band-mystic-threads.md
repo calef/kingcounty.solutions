@@ -15,7 +15,7 @@ source_url: https://music.washington.edu/events/2026-03-12/wind-ensemble-and-sym
 start_date: '2026-03-12T19:30:00-07:00'
 summarized: true
 title: 'Wind Ensemble and Symphonic Band: "Mystic Threads"'
-topics: []
+topic_titles: []
 ---
 
 Join the Wind Ensemble and Symphonic Band for "Mystic Threads," an enchanting concert that promises to captivate audiences with a blend of rich musical narratives and vibrant performances. Attendees can expect a night filled with intricate melodies and powerful harmonies, showcasing the talents of skilled musicians.

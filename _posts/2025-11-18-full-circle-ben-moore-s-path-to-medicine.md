@@ -166,7 +166,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/17/full-circle-ben-moores-path-to-medicine/
 summarized: true
 title: 'Full Circle: Ben Moore’s Path to Medicine'
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 - Health Care

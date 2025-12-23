@@ -55,7 +55,7 @@ source_url: https://wscenter.org/event/aging-well-group-2-2-2/2025-12-22/
 start_date: '2025-12-22T11:00:00-08:00'
 summarized: true
 title: 'Aging Well - Group #2'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Senior Services
 ---

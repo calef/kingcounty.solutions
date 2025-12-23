@@ -11,7 +11,7 @@ source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/aging-with-intention-purpose-and-joy
 summarized: true
 title: Aging with Intention, Purpose, and Joy
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 ---

@@ -12,7 +12,7 @@ source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/november-december-2025-newsletter/
 summarized: true
 title: November & December 2025 Newsletter
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

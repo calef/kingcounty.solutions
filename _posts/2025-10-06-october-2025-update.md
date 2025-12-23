@@ -98,7 +98,7 @@ source: Lake City Seniors
 source_url: https://lakecityseniors.org/october-2025-update/
 summarized: true
 title: October 2025 Update
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 - Employment & Job Support

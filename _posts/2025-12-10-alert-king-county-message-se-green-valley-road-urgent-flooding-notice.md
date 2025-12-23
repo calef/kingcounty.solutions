@@ -14,7 +14,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/09/se-green-valley-urgent-flooding-notice/
 summarized: true
 title: ALERT King County Message – SE Green Valley Road Urgent Flooding Notice
-topics: []
+topic_titles: []
 ---
 
 SE Green Valley Road is closed completely from Auburn-Black Diamond Road to 212th Avenue Southeast due to severe weather and flooding. The closure took effect on Tuesday, Dec. 9, and authorities have not provided an estimated time for reopening. Safety is the top priority, and the public is advised not to attempt driving or walking on the flooded road. Further notifications will be given when conditions improve and the road can be safely accessed again.

@@ -9,7 +9,7 @@ source_url: https://ihdd.org/2025/12/09/2026-disability-and-health-scholarship-n
 start_date: '2026-03-06T00:00:00-08:00'
 summarized: true
 title: 2026 Frederick J. Krause Scholarship Application Deadline
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 - Financial Assistance

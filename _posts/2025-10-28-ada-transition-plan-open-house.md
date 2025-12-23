@@ -12,7 +12,7 @@ source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=20801695
 summarized: true
 title: ADA Transition Plan Open House
-topics:
+topic_titles:
 - Disabilities
 - Transportation & Mobility
 ---

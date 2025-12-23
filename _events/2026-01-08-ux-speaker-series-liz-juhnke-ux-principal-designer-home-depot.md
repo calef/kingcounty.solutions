@@ -92,7 +92,7 @@ source_url: https://www.hcde.washington.edu/ux
 start_date: '2026-01-08T16:30:00-08:00'
 summarized: true
 title: 'UX Speaker Series: Liz Juhnke, UX Principal Designer, Home Depot'
-topics: []
+topic_titles: []
 ---
 
 Join us for the UX Speaker Series featuring Liz Juhnke, a UX principal designer at Home Depot, on Jan. 8, 2026, at 4:30 p.m. This event will take place in the Sieg Building (SIG). Attendees can look forward to an engaging discussion on user experience design, gaining insights from Liz's extensive expertise in the field. This is a great opportunity to learn about the latest trends and best practices in UX, as well as network with fellow design enthusiasts. Don't miss this chance to enhance your understanding of user-centered design!

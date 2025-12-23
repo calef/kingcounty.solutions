@@ -66,7 +66,7 @@ source_url: https://inatai.org/news/80-leaders-gather-at-shaping-the-future/
 summarized: true
 title: "‘We are here to shape the future—not dream it, build it’: Inatai’s seventh
   regional gathering hosts more than 80 community organizations"
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Health Care

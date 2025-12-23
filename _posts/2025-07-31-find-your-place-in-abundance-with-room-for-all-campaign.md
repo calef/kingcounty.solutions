@@ -52,7 +52,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/find-your-place-in-abundance-with-room-for-all-campaign
 summarized: true
 title: Find Your Place in Abundance with ‘Room for All’ Campaign
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

@@ -14,7 +14,7 @@ source: Solid Ground
 source_url: https://www.solid-ground.org/what-happened-to-resource-wire/
 summarized: true
 title: What happened to Resource Wire? 
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Employment & Job Support

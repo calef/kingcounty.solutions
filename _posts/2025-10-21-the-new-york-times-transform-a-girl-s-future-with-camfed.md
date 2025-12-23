@@ -12,7 +12,7 @@ source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/new-york-times-communities-fund-2025/
 summarized: true
 title: 'The New York Times: Transform a girl’s future with CAMFED'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

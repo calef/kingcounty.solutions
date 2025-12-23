@@ -69,7 +69,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/10/help-provide-support-year-round/
 summarized: true
 title: Help Provide Support Year-Round!
-topics:
+topic_titles:
 - Education & Learning
 - Financial Assistance
 ---

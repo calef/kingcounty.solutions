@@ -43,7 +43,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/governor-appoints-jordan-arnold-to-lead-washington-state-broadband-office/
 summarized: true
 title: Governor appoints Jordan Arnold to lead Washington State Broadband Office
-topics: []
+topic_titles: []
 ---
 
 Governor Jay Inslee has appointed Jordan Arnold as the new director of the Washington State Broadband Office. Arnold, who has a strong background in technology and public policy, will oversee efforts to expand broadband access throughout the state. His experience includes work with the Washington State House of Representatives and the Washington State Department of Information Services. The Broadband Office aims to ensure that all Washington residents have access to reliable and affordable internet services, which are essential for education, healthcare, and economic development. Arnold's appointment is seen as a significant step in addressing the digital divide and enhancing connectivity in underserved areas. As director, he will lead initiatives to secure funding and collaborate with local governments and private-sector partners to improve broadband infrastructure across the state.

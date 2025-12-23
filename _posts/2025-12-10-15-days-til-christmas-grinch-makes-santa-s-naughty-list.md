@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/10/15-days-til-christmas-grinch-makes-santas-naughty-list/
 summarized: true
 title: 15 Days ‘til Christmas, Grinch Makes Santa’s Naughty List
-topics: []
+topic_titles: []
 ---
 
 Seattle police arrested a 34-year-old man for residential burglary in the Lake City neighborhood on Dec. 9. Officers responded to a report of an in-progress burglary around 11:00 p.m. in the 10700 block of Exeter Avenue Northeast. Upon arrival, they found the suspect inside the home. After confirming that the homeowner was not present, officers took the man into custody. He was booked into the King County Jail for investigation of burglary. This incident highlights ongoing concerns about crime in the area, especially as the holiday season approaches.

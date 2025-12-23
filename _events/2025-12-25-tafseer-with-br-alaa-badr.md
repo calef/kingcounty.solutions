@@ -209,7 +209,7 @@ source_url: https://mapsredmond.org/event/tafsir-of-the-last-10-surahs/2025-12-2
 start_date: '2025-12-25T19:30:00-08:00'
 summarized: true
 title: Tafseer with Br. Alaa Badr
-topics: []
+topic_titles: []
 ---
 
 Join Br. Alaa Badr for an enlightening Tafseer session on December 25, 2025, at 7:30 p.m. at the Muslim Association of Puget Sound (MAPS). Attendees can expect an engaging discussion that delves into the meanings and interpretations of the Quran, fostering a deeper understanding of its teachings. This event is an excellent opportunity for community members to come together, reflect, and enhance their spiritual knowledge. Don't miss this chance to connect with fellow attendees and explore the rich insights offered by Br. Badr.

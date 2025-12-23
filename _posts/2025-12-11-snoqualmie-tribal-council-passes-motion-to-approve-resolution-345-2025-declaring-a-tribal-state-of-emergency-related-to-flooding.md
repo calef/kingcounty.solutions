@@ -25,7 +25,7 @@ source_url: https://snoqualmietribe.us/snoqualmie-tribal-council-passes-motion-t
 summarized: true
 title: 'Snoqualmie Tribal Council Passes Motion to Approve Resolution #345-2025 Declaring
   a Tribal State of Emergency Related to Flooding'
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 - Senior Services

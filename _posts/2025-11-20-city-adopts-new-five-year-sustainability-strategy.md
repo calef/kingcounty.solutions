@@ -58,7 +58,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/sustainable-plan-26-30
 summarized: true
 title: City adopts new five-year sustainability strategy
-topics: []
+topic_titles: []
 ---
 
 The City of Bellevue has adopted the 2026-2030 Sustainable Bellevue Plan, aiming for carbon neutrality by 2050. This plan, approved by the City Council, will direct municipal actions over the next five years on issues such as climate change, energy use, waste management, mobility, land use, and natural resources. Bellevue's efforts include electrifying municipal operations and targeting earlier carbon neutrality by 2040. Mayor Lynne Robinson emphasized the city's proactive response to the climate crisis, highlighting the plan as essential for fostering a healthy and resilient community.

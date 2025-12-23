@@ -198,7 +198,7 @@ source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1
 start_date: '2026-01-24T08:00:00-08:00'
 summarized: true
 title: Executive MBA Class Visit (Organizational Leadership or Marketing Strategies)
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

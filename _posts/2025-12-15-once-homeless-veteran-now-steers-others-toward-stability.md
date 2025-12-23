@@ -119,7 +119,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143890/once-homeless-veteran-stability/
 summarized: true
 title: Once homeless, Veteran now steers others toward stability.
-topics:
+topic_titles:
 - Employment & Job Support
 - Shelter & Housing
 - Transportation & Mobility

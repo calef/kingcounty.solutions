@@ -71,7 +71,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-11-18-25
 summarized: true
 title: 'Council Roundup: Mid-bi budget adopted'
-topics:
+topic_titles:
 - Transportation & Mobility
 - Shelter & Housing
 ---

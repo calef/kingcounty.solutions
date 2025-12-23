@@ -35,7 +35,7 @@ source: Angel Flight West
 source_url: https://angelflightwest.org/news/intern-reflection-meet-gloriann/
 summarized: true
 title: 'Intern Reflection: Meet Gloriann'
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

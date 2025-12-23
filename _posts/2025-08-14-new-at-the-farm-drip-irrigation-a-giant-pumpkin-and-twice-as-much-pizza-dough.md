@@ -389,7 +389,7 @@ source_url: https://www.solid-ground.org/new-at-the-farm-drip-irrigation-a-giant
 summarized: true
 title: 'New at the farm: drip irrigation, a giant pumpkin, and twice as much pizza
   dough '
-topics:
+topic_titles:
 - Food & Nutrition
 - Education & Learning
 ---

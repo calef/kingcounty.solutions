@@ -233,7 +233,7 @@ source_url: https://wscenter.org/event/rejuvenating-yoga-2-2-2-2/2026-01-07/
 start_date: '2026-01-07T15:00:00-08:00'
 summarized: true
 title: Functional Mobility Yoga
-topics:
+topic_titles:
 - Senior Services
 ---
 

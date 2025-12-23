@@ -14,7 +14,7 @@ source: Center for Human Services
 source_url: https://www.chs-nw.org/2025/10/23/thank-you-verdant-health-commission/
 summarized: true
 title: Thank You, Verdant Health Commission!
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

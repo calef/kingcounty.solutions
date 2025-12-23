@@ -55,7 +55,7 @@ source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/staff-corner-june-2025/?utm_source=rss&utm_medium=rss&utm_campaign=staff-corner-june-2025
 summarized: true
 title: 'Staff Corner: June 2025'
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

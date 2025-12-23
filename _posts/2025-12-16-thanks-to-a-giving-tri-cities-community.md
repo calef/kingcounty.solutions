@@ -51,7 +51,7 @@ source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/12/giving-machine/
 summarized: true
 title: Thanks to a giving Tri-Cities community
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 - Personal & Household Needs

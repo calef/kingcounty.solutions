@@ -13,7 +13,7 @@ source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?pageId=21080960&portalId=11046019
 summarized: true
 title: Empty Bowls
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

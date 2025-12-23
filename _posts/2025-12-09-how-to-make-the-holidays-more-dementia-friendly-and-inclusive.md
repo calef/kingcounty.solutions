@@ -13,7 +13,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/how-to-make-the-holidays-more-dementia-friendly-and-inclusive/
 summarized: true
 title: How to make the holidays more dementia-friendly and -inclusive
-topics:
+topic_titles:
 - Senior Services
 - Mental Health & Counseling
 ---

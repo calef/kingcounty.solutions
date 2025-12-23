@@ -21,7 +21,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/18/free-weekend-storm-debris-drop-off-at-three-locations-through-january-11/
 summarized: true
 title: Free weekend storm debris drop-off at three locations through January 11
-topics:
+topic_titles:
 - Personal & Household Needs
 - Shelter & Housing
 ---

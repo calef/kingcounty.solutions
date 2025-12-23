@@ -108,19 +108,19 @@ class NewsFrontMatterTest < Minitest::Test
     assert_empty errors, "Original source HTML issues:\n#{errors.join("\n")}"
   end
 
-  def test_topics_reference_known_topics
+  def test_topic_titles_reference_known_topics
     errors = []
 
     posts.each do |doc|
-      topics = doc[:data]['topics']
-      unless topics.is_a?(Array)
-        errors << "#{doc[:path]} topics must be a list (empty list allowed)"
+      doc_topic_titles = doc[:data]['topic_titles']
+      unless doc_topic_titles.is_a?(Array)
+        errors << "#{doc[:path]} topic_titles must be a list (empty list allowed)"
         next
       end
 
-      topics.each do |topic|
+      doc_topic_titles.each do |topic|
         unless topic.is_a?(String)
-          errors << "#{doc[:path]} topics must be strings: #{topic.inspect}"
+          errors << "#{doc[:path]} topic_titles must be strings: #{topic.inspect}"
           next
         end
         next if topic_titles.include?(topic)
@@ -199,14 +199,14 @@ class NewsFrontMatterTest < Minitest::Test
     assert_empty errors, "Unpublished image issues:\n#{errors.join("\n")}"
   end
 
-  def test_posts_without_topics_are_unpublished
+  def test_posts_without_topic_titles_are_unpublished
     errors = []
 
     posts.each do |doc|
-      topics = doc[:data]['topics']
-      next unless topics.is_a?(Array) && topics.empty?
+      topic_titles = doc[:data]['topic_titles']
+      next unless topic_titles.is_a?(Array) && topic_titles.empty?
 
-      errors << "#{doc[:path]} must set published: false when topics list is empty" unless doc[:data]['published'] == false
+      errors << "#{doc[:path]} must set published: false when topic_titles list is empty" unless doc[:data]['published'] == false
     end
 
     assert_empty errors, "Topic-only publish issues:\n#{errors.join("\n")}"

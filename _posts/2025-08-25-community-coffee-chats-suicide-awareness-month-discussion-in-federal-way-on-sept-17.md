@@ -30,7 +30,7 @@ source_url: https://valleycities.org/community-coffee-chats-suicide-awareness-mo
 summarized: true
 title: 'Community Coffee Chats: Suicide Awareness Month discussion in Federal Way
   on Sept. 17'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

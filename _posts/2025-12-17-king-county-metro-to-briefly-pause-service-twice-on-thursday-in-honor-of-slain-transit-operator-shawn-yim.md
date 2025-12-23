@@ -17,7 +17,7 @@ source_url: https://kingcountymetro.blog/2025/12/16/king-county-metro-to-briefly
 summarized: true
 title: King County Metro to briefly pause service twice on Thursday in honor of slain
   Transit Operator Shawn Yim
-topics: []
+topic_titles: []
 ---
 
 King County Metro will pause service twice on Thursday, Dec. 18, to honor slain transit operator Shawn Yim on the anniversary of his murder. The brief service interruptions will occur at 9:30 a.m. and 5:30 p.m. Yim was tragically killed in 2024 while serving the community. In addition to the service pauses, various ceremonies are planned throughout the week to remember Yim and reflect on the impact of his loss. King County Metro encourages the public to join in honoring his memory and to support the transit workforce. This event serves as a reminder of the importance of safety and respect for transit operators.

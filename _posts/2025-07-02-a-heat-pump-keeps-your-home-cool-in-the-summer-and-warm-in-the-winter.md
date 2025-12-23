@@ -110,7 +110,7 @@ source: Hopelink
 source_url: https://www.hopelink.org/blog/a-heat-pump-keeps-your-home-cool-in-the-summer-and-warm-in-the-winter/
 summarized: true
 title: A Heat Pump Keeps Your Home Cool in the Summer and Warm in the Winter 
-topics:
+topic_titles:
 - Financial Assistance
 - Health Care
 ---

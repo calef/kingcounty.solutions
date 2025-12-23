@@ -51,7 +51,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-10-7-25
 summarized: true
 title: 'Council Roundup: Bellevue gets World Cup-ready'
-topics: []
+topic_titles: []
 ---
 
 The Bellevue City Council discussed preparations for the upcoming World Cup, anticipating an influx of 15,000 visitors during the tournament, which is expected to generate $23 million in economic impact. To accommodate the expected tourists, the Economic Development team plans to host World Cup-themed celebrations along the light rail's 2 Line corridor, providing support and funding to small businesses, artists, and cultural organizations for engaging activities. Additionally, curated tourism trails will be promoted on non-match days.

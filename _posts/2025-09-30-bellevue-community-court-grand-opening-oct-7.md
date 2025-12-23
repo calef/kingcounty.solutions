@@ -57,7 +57,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/community-court-opening
 summarized: true
 title: Bellevue Community Court grand opening Oct. 7
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Employment & Job Support
 ---

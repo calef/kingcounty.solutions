@@ -58,7 +58,7 @@ source_url: https://iacswa.org/event/seniors-kent-popup-47/
 start_date: '2025-12-23T12:30:00-08:00'
 summarized: true
 title: SENIORS Kent Popup
-topics:
+topic_titles:
 - Senior Services
 ---
 

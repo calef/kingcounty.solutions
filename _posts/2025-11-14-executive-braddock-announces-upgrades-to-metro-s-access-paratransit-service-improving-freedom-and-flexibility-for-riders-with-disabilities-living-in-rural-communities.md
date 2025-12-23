@@ -13,7 +13,7 @@ source_url: https://kingcountymetro.blog/2025/11/14/executive-braddock-announces
 summarized: true
 title: Executive Braddock announces upgrades to Metro’s Access paratransit service,
   improving freedom and flexibility for riders with disabilities living in rural communities
-topics:
+topic_titles:
 - Transportation & Mobility
 - Disabilities
 ---

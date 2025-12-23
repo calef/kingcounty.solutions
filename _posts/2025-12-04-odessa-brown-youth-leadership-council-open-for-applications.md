@@ -11,7 +11,7 @@ source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/04/odessa-brown-youth-leadership-council-open-for-applications/
 summarized: true
 title: Odessa Brown Youth Leadership Council – Open for Applications
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

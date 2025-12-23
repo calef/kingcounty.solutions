@@ -75,7 +75,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143246/adaptive-sports-healing-in-motion/
 summarized: true
 title: 'Adaptive sports: Healing in motion'
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 ---

@@ -19,7 +19,7 @@ source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/18/sdot-best-of-the-year-2025-highlights/
 summarized: true
 title: Best of the Year | SDOT’s 2025 Highlights!
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

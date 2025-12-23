@@ -251,7 +251,7 @@ start_date: '2025-12-29T16:00:00-08:00'
 summarized: true
 title: 'Living in the After: Support for Loss due to Pancreatic Cancer Sponsored by
   Virginia Mason Franciscan Health'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

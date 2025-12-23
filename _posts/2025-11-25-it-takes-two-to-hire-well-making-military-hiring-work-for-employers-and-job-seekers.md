@@ -82,7 +82,7 @@ source_url: https://news.va.gov/143607/map-military-experience-to-civilian-jobs/
 summarized: true
 title: 'It takes two to hire well: Making military hiring work for employers and job
   seekers'
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

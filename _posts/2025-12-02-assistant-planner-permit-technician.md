@@ -18,7 +18,7 @@ source: City of Normandy Park
 source_url: https://normandyparkwa.gov/human-resources/assistant-planner-permit-technician/
 summarized: true
 title: Assistant Planner/Permit Technician
-topics: []
+topic_titles: []
 ---
 
 The City of Normandy Park is seeking applicants for the position of assistant planner/permit technician. This role includes assisting in the planning and development review processes, as well as providing customer service related to land use and permitting activities. Key responsibilities involve reviewing permit applications, conducting site inspections, and helping to ensure compliance with zoning and land use regulations. Candidates should have a background in urban planning, environmental science, or a related field, as well as strong communication skills. The position requires proficiency in Microsoft Office and other planning software. The city offers a competitive salary and benefits package. Interested applicants are encouraged to submit their applications by the specified deadline.

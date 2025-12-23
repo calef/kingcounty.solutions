@@ -12,7 +12,7 @@ source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/september-october-2025-newsletter/
 summarized: true
 title: September & October 2025 Newsletter
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 - Transportation & Mobility

@@ -56,7 +56,7 @@ source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/dave-chappelle-at-climate-pledge-arena-ticket-distribution/
 summarized: true
 title: Dave Chappelle at Climate Pledge Arena Ticket Distribution
-topics: []
+topic_titles: []
 ---
 
 Tribal members of the Snoqualmie Tribe have been selected to receive tickets for the Dave Chappelle show at Climate Pledge Arena on Dec. 9, 2025, at 7:30 PM. The winners include Desiree Jai Weese, Jackson Kimmel, Pierre White, Teanna Applebee-Ramirez, Jeffrey LaMar, Heather Sado, Donavin Weese, and Travis Adams. Tickets will be distributed electronically to the email addresses on file, and recipients must have a Ticketmaster account to access them. Those unable to attend the event are asked to contact the tribe via email at TCR@snoqualmietribe.us.

@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/thank-you-joshua-p-williams-foundation-1
 summarized: true
 title: thank you joshua p. williams foundation!
-topics:
+topic_titles:
 - Education & Learning
 ---
 

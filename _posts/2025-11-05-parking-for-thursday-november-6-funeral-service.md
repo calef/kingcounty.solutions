@@ -11,7 +11,7 @@ source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/parking-for-thursday-november-6-funeral-service/
 summarized: true
 title: Parking for Thursday, November 6 Funeral Service
-topics: []
+topic_titles: []
 ---
 
 The Snoqualmie Tribe has provided a parking map for those attending the 10 a.m. funeral service for Tribal Elder Arlene Ventura on Nov. 6. The map is from the casino. The Tribe has expressed its sadness over the passing of the beloved elder.

@@ -49,7 +49,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/chickpea-bisque
 summarized: true
 title: Chickpea Bisque
-topics: []
+topic_titles: []
 ---
 
 This article presents a recipe for chickpea bisque, adapted from Laura Pyles, yielding eight servings. The main ingredients include 3 cups of soaked dried chickpeas, acorn squash, honey, olive oil, diced onions, minced garlic, ground spices (cumin, coriander, turmeric, smoked paprika, and cayenne), vegetable stock, coconut milk, and freshly ground black pepper.

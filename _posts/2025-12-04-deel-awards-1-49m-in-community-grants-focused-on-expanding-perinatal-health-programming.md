@@ -14,7 +14,7 @@ source_url: https://education.seattle.gov/deel-awards-1-49m-in-community-grants-
 summarized: true
 title: DEEL Awards $1.49M in Community Grants Focused on Expanding Perinatal Health
   Programming 
-topics:
+topic_titles:
 - Childcare
 - Health Care
 ---

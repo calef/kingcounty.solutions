@@ -13,7 +13,7 @@ source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/31/seeking-young-people-to-join-the-youth-bill-of-rights-taskforce/
 summarized: true
 title: Seeking young people to join the Youth Bill of Rights Taskforce
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

@@ -16,7 +16,7 @@ source: City of Seattle
 source_url: https://primarysources.seattle.gov/2025/12/17/watershed-moments/
 summarized: true
 title: Watershed Moments
-topics: []
+topic_titles: []
 ---
 
 SMA archivists and Cedar River Watershed staff recently exchanged visits to enhance their understanding of each other's work and to discuss record preservation. The Cedar River Watershed is significant to Seattle's history and infrastructure. The records maintained there are essential for comprehending the watershed's impact on the city over time.

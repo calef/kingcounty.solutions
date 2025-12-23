@@ -389,7 +389,7 @@ source: Hopelink
 source_url: https://www.hopelink.org/blog/food-assistance-resources/
 summarized: true
 title: Food Assistance Resources
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

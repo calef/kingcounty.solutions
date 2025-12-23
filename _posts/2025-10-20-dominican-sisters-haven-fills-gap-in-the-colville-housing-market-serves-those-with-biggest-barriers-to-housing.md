@@ -27,7 +27,7 @@ source_url: https://www.commerce.wa.gov/dominican-sisters-haven-fills-gap-in-the
 summarized: true
 title: Dominican Sisters Haven fills gap in the Colville housing market, serves those
   with biggest barriers to housing  
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

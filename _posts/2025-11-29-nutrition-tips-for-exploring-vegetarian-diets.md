@@ -59,7 +59,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143250/nutrition-tips-for-exploring-vegetarian-diets/
 summarized: true
 title: Nutrition tips for exploring vegetarian diets
-topics: []
+topic_titles: []
 ---
 
 Exploring a vegetarian diet can offer numerous health benefits, but it’s important to ensure proper nutrition. A balanced vegetarian diet should include a variety of fruits, vegetables, whole grains, legumes, nuts, and seeds. These foods provide essential nutrients such as vitamins, minerals, protein, and fiber.

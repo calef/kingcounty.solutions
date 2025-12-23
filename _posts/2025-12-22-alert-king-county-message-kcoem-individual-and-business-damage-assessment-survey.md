@@ -22,7 +22,7 @@ source_url: https://kcemergency.com/2025/12/22/kcoem-individual-and-business-dam
 summarized: true
 title: ALERT King County Message – KCOEM Individual and Business Damage Assessment
   Survey
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 - Transportation & Mobility

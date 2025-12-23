@@ -13,7 +13,7 @@ source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/caritas-food-bank-sees-16-new-clients-daily-amid-snap-benefit-delays/
 summarized: true
 title: Caritas Food Bank sees 16 new clients daily amid SNAP benefit delays
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

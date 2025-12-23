@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/26/seattle-parks-and-recreation-launches-park-community-fund-workshop-series/
 summarized: true
 title: Seattle Parks and Recreation launches Park CommUNITY Fund Workshop Series
-topics: []
+topic_titles: []
 ---
 
 Seattle Parks and Recreation has launched the Park CommUNITY Fund Workshop series to promote park equity through community-led funding. This initiative, supported by the Seattle Park District, will provide resources for various capital projects from 2023 to 2028. The workshops aim to empower communities by enhancing their involvement in the funding process. The series includes several sessions:

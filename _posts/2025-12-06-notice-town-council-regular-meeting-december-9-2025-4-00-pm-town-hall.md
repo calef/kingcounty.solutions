@@ -25,7 +25,7 @@ source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/12/notice-town-council-regular-meeting-december-9-2025-400-pm-town-hall/
 summarized: true
 title: 'NOTICE: Town Council Regular Meeting – December 9, 2025: 4:00 PM/ Town Hall'
-topics: []
+topic_titles: []
 ---
 
 The Town of Yarrow Point will hold a regular Town Council meeting on Dec. 9, 2025, at 4 p.m. in the Town Hall. The meeting is open to the public, and attendees are encouraged to participate. The agenda will include discussions on various local issues and community matters. Residents are given the opportunity to voice their concerns and provide input on topics affecting the town. The Town Council aims to promote transparency and active community engagement during this meeting. All interested parties are welcome to attend and contribute to the discussions.

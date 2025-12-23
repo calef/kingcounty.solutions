@@ -61,7 +61,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143180/lung-cancer-screening-early-detection-save-life/
 summarized: true
 title: 'Lung cancer screening: Early detection can save your life'
-topics:
+topic_titles:
 - Health Care
 ---
 

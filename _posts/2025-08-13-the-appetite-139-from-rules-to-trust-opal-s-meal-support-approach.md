@@ -512,7 +512,7 @@ source: 'Opal: Food + Body Wisdom'
 source_url: https://opalfoodandbody.com/the-appetite-139-meal-support/
 summarized: true
 title: 'The Appetite 139: From Rules to Trust: Opal’s Meal Support Approach'
-topics:
+topic_titles:
 - Food & Nutrition
 - Mental Health & Counseling
 ---

@@ -46,7 +46,7 @@ source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/breathe-easier-this-season-asthma-and-allergy-care-at-svh/
 summarized: true
 title: 'Breathe Easier This Season: Asthma and Allergy Care'
-topics:
+topic_titles:
 - Health Care
 ---
 

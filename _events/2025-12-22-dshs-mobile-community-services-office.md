@@ -9,7 +9,7 @@ source_url: https://wallingfordseniors.org/dshs-mobile-office-dec-22-2025/
 start_date: '2025-12-22T00:00:00-08:00'
 summarized: true
 title: DSHS Mobile Community Services Office
-topics:
+topic_titles:
 - Financial Assistance
 ---
 

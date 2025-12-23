@@ -101,7 +101,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143771/veteran-credits-va-turning-his-health-around/
 summarized: true
 title: Veteran credits VA for turning his health around
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Disabilities

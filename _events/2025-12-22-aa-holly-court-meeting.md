@@ -46,7 +46,7 @@ source_url: https://sessc.org/event/aa-holly-court-meeting-2-2/2025-12-22/
 start_date: '2025-12-22T14:00:00-08:00'
 summarized: true
 title: AA Holly Court Meeting
-topics: []
+topic_titles: []
 ---
 
 Join the AA Holly Court Meeting on December 22 from 2 to 3:30 p.m. in the Lux Room. This gathering offers a supportive environment for individuals seeking help with alcohol addiction. Attendees can expect to share experiences, gain insights, and connect with others on a similar journey. Whether you are new to recovery or have been attending for a while, this meeting provides valuable resources and encouragement. Come and find community support in a welcoming space.

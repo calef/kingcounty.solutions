@@ -14,7 +14,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/11/high-utilizer-initiative-offender-arrested-for-robbery-resisting/
 summarized: true
 title: High Utilizer Initiative Offender Arrested for Robbery, Resisting
-topics: []
+topic_titles: []
 ---
 
 Seattle police arrested a repeat offender on Dec. 10 as part of the “High Utilizer Initiative.” Officers responded to reports of a shoplifter trespassing at a pharmacy on 15th Avenue East around 2:15 p.m. Upon arrival, they found the suspect, who attempted to flee. After a brief chase, police apprehended the individual, who resisted arrest. The suspect, a 35-year-old man with a history of similar offenses, was booked into the King County Jail for investigation of robbery and resisting arrest. The High Utilizer Initiative aims to address individuals who frequently engage in criminal behavior, focusing on rehabilitation and reducing repeat offenses.

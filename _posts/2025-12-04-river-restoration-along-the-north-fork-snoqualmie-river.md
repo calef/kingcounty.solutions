@@ -163,7 +163,7 @@ source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/river-restoration-along-the-north-fork-snoqualmie-river/?utm_source=rss&utm_medium=rss&utm_campaign=river-restoration-along-the-north-fork-snoqualmie-river
 summarized: true
 title: River Restoration Along the North Fork Snoqualmie River
-topics: []
+topic_titles: []
 ---
 
 The North Fork Snoqualmie River is undergoing a significant restoration project aimed at improving the river's health and resilience. The initiative focuses on enhancing habitat for fish and wildlife, particularly salmon, by restoring natural river functions and stabilizing banks. Key measures include re-establishing native vegetation, creating floodplain connectivity, and reducing erosion.

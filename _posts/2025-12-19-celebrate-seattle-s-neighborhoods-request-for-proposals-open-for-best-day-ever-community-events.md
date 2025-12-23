@@ -19,7 +19,7 @@ source_url: https://frontporch.seattle.gov/2025/12/19/celebrate-seattles-neighbo
 summarized: true
 title: 'Celebrate Seattle’s Neighborhoods: Request for Proposals Open for “Best Day
   Ever” Community Events'
-topics: []
+topic_titles: []
 ---
 
 Seattle is launching "Best Day Ever," a one-day event aimed at celebrating the city's neighborhoods. The initiative encourages community connection, pride, and shared stories among residents. The city is inviting local organizations and community partners to submit proposals for events that showcase the unique culture and vibrancy of their neighborhoods. This program aims to strengthen community ties and promote a sense of belonging. Interested partners can apply for funding to support their events. The application process is now open, and proposals should reflect the values of connection and community engagement. The city hopes this event will foster a greater appreciation for Seattle's diverse neighborhoods and the people who live in them.

@@ -14,7 +14,7 @@ source_url: https://frontporch.seattle.gov/2025/11/18/international-special-revi
 summarized: true
 title: International Special Review District Board Announces Candidates for its Annual
   Election
-topics:
+topic_titles:
 - Education & Learning
 ---
 

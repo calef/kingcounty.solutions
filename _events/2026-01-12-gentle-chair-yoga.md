@@ -88,7 +88,7 @@ source_url: https://wscenter.org/event/gentle-chair-yoga/2026-01-12/
 start_date: '2026-01-12T10:00:00-08:00'
 summarized: true
 title: Gentle Chair Yoga
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 ---

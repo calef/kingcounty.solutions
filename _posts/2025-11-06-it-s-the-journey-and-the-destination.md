@@ -12,7 +12,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/06/its-the-journey-and-the-destination/
 summarized: true
 title: It’s the Journey and the Destination
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

@@ -1634,7 +1634,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/rainier-valley-rising-celebrating-our-grand-opening
 summarized: true
 title: 'Rainier Valley Rising: Celebrating Our Grand Opening'
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

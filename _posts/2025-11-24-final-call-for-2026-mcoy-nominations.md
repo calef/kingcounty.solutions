@@ -40,7 +40,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/final-call-for-2026-mcoy-nominations/
 summarized: true
 title: Final Call for 2026 MCOY Nominations
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---

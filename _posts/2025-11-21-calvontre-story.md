@@ -42,7 +42,7 @@ source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/family-stories/cayden-2/
 summarized: true
 title: Calvontre Story
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 - Mental Health & Counseling

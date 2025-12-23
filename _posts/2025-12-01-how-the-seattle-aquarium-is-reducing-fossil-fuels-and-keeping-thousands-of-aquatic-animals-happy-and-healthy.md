@@ -12,7 +12,7 @@ source_url: https://greenspace.seattle.gov/2025/12/how-the-seattle-aquarium-is-r
 summarized: true
 title: How the Seattle Aquarium is Reducing Fossil Fuels and Keeping Thousands of
   Aquatic Animals Happy and Healthy  
-topics: []
+topic_titles: []
 ---
 
 The Seattle Aquarium is making significant strides in reducing fossil fuel usage while ensuring the health and happiness of thousands of aquatic animals. The aquarium has implemented a range of sustainability measures, including the installation of a new energy-efficient heating system that uses heat exchange technology. This system captures waste heat from nearby facilities, significantly lowering the need for traditional heating and reducing greenhouse gas emissions.

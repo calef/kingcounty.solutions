@@ -12,7 +12,7 @@ source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/josephine-nurse/
 summarized: true
 title: 'Josephine: Bringing hope and healing to my rural community'
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

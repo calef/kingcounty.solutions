@@ -99,7 +99,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/10/our-fy24-25-impact-report-is-here/
 summarized: true
 title: Our FY24/25 Impact Report is here!
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -67,7 +67,7 @@ source_url: https://www.compasshousingalliance.org/2025/09/press-release-boeing-
 summarized: true
 title: 'Press Release: Boeing Employees’ Partnership Transforms Lives of Veterans
   Through Accessibility Improvements'
-topics:
+topic_titles:
 - Disabilities
 ---
 

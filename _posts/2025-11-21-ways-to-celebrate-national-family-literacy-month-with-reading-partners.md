@@ -10,7 +10,7 @@ source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/national-family-literacy-month/
 summarized: true
 title: Ways to celebrate National Family Literacy Month with Reading Partners
-topics:
+topic_titles:
 - Education & Learning
 - Childcare
 ---

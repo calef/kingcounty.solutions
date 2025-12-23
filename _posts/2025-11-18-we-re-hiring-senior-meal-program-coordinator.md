@@ -248,7 +248,7 @@ source: Hunger Intervention Program
 source_url: https://hungerintervention.org/2025/11/17/senior-meal-program-coordinator/?utm_source=rss&utm_medium=rss&utm_campaign=senior-meal-program-coordinator
 summarized: true
 title: 'We’re Hiring: Senior Meal Program Coordinator'
-topics:
+topic_titles:
 - Food & Nutrition
 - Employment & Job Support
 ---

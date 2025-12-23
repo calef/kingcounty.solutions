@@ -14,7 +14,7 @@ source_url: https://music.washington.edu/events/2026-02-19/jazz-innovations-ii
 start_date: '2026-02-19T19:30:00-08:00'
 summarized: true
 title: Jazz Innovations, Part II
-topics: []
+topic_titles: []
 ---
 
 Join us for "Jazz Innovations, Part II" on Feb. 19, 2026, at 7:30 p.m. in the Music Building. This exciting event will showcase a blend of traditional and contemporary jazz performances, featuring talented musicians who push the boundaries of the genre. Attendees can expect an evening filled with captivating melodies, improvisation, and the vibrant energy of live jazz. Whether you're a jazz aficionado or new to the genre, this event promises to inspire and entertain. Don't miss the chance to experience the innovative sounds and rhythms that define modern jazz.

@@ -21,7 +21,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/transit-oriented-development-moves-forward-new-south-king-county-link-stations
 summarized: true
 title: Transit-oriented development moves forward at new South King County Link stations
-topics:
+topic_titles:
 - Transportation & Mobility
 - Shelter & Housing
 ---

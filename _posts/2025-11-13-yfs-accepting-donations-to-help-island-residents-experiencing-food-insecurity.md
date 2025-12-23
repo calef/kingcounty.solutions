@@ -15,7 +15,7 @@ source: City of Mercer Island
 source_url: https://www.mercerisland.gov/yfs/page/yfs-accepting-donations-help-island-residents-experiencing-food-insecurity
 summarized: true
 title: YFS Accepting Donations to Help Island Residents Experiencing Food Insecurity
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

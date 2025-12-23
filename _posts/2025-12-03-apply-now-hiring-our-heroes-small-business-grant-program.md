@@ -49,7 +49,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143742/apply-now-small-business-grant-program/
 summarized: true
 title: 'Apply now: Hiring Our Heroes Small Business Grant Program'
-topics: []
+topic_titles: []
 ---
 
 Veterans and service-disabled veterans can now apply for a new grant program aimed at supporting small businesses. The U.S. Department of Veterans Affairs (VA) is offering grants of up to $50,000 for eligible veteran-owned small businesses. This initiative is part of the VA's efforts to promote entrepreneurship and economic empowerment among veterans.

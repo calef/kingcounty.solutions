@@ -29,7 +29,7 @@ source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/omars-story/?utm_source=rss&utm_medium=rss&utm_campaign=omars-story
 summarized: true
 title: 'Finding His Voice: Omar’s Story of Healing and Hope'
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 - Education & Learning

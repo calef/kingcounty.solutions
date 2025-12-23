@@ -11,7 +11,7 @@ source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/nicks-blog/
 summarized: true
 title: Nick’s Blog
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Domestic Violence
 ---

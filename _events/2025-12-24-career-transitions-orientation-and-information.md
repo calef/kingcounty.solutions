@@ -243,7 +243,7 @@ source_url: https://worksourceskc.org/event/career-transitions-orientation-and-i
 start_date: '2025-12-24T10:00:00-08:00'
 summarized: true
 title: Career Transitions (Orientation and Information)
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

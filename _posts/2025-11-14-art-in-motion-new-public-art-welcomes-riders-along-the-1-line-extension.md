@@ -14,7 +14,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/art-motion-new-public-art-welcomes-riders-along-1-line-extension
 summarized: true
 title: 'Art in motion: New public art welcomes riders along the 1 Line extension '
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

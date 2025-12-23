@@ -208,7 +208,7 @@ source_url: https://mapsredmond.org/event/urdu-class-2/2025-12-27/
 start_date: '2025-12-27T11:00:00-08:00'
 summarized: true
 title: Urdu Class
-topics:
+topic_titles:
 - Education & Learning
 ---
 

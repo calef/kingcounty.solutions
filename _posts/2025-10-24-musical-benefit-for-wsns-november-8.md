@@ -24,7 +24,7 @@ source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/musical-benefit-for-wsns-november-8/?utm_source=rss&utm_medium=rss&utm_campaign=musical-benefit-for-wsns-november-8
 summarized: true
 title: Musical benefit for WSNS November 8
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

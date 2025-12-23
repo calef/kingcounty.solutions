@@ -42,7 +42,7 @@ source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/general/2025-leadership-transition/
 summarized: true
 title: Leadership Transition Update
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

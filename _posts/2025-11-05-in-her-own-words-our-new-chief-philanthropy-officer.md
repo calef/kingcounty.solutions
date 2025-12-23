@@ -12,7 +12,7 @@ source: United Way of King County
 source_url: https://www.uwkc.org/racial-equity-news/in-her-own-words-our-new-chief-philanthropy-officer/
 summarized: true
 title: 'In Her Own Words: Our New Chief Philanthropy Officer!'
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 ---

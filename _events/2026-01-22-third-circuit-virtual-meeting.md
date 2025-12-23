@@ -7709,7 +7709,7 @@ source_url: https://nosscr.org/event/third-circuit-virtual-meeting/
 start_date: '2026-01-22T14:30:00-05:00'
 summarized: true
 title: Third Circuit Virtual Meeting
-topics: []
+topic_titles: []
 ---
 
 Join us for the Third Circuit Virtual Meeting on Jan. 22, 2026, starting at 2:30 p.m. EST. This online gathering will provide attendees with an opportunity to engage in discussions about important legal updates and case law relevant to the Third Circuit. Participants can expect to hear from expert speakers, share insights, and network with fellow legal professionals. Don't miss this chance to stay informed and connected from the comfort of your own home.

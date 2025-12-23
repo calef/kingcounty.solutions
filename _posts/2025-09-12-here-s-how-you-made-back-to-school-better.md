@@ -558,7 +558,7 @@ source: Solid Ground
 source_url: https://www.solid-ground.org/heres-how-you-made-back-to-school-better/
 summarized: true
 title: Here’s how you made back-to-school better! 
-topics:
+topic_titles:
 - Education & Learning
 - Financial Assistance
 - Shelter & Housing

@@ -16,7 +16,7 @@ source: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/09/special-pda-board-meeting-2/
 summarized: true
 title: Special PDA board meeting
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---

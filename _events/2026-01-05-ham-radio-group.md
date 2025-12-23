@@ -234,7 +234,7 @@ source_url: https://wscenter.org/event/ham-radio-group/2026-01-05/
 start_date: '2026-01-05T17:45:00-08:00'
 summarized: true
 title: Ham Radio Group
-topics: []
+topic_titles: []
 ---
 
 Join the Ham Radio Group on Jan. 5, 2026, at 5:45 p.m. at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. This event offers an opportunity for enthusiasts of all skill levels to connect, learn, and share their passion for amateur radio. Participants can expect engaging discussions, hands-on activities, and the chance to network with fellow ham radio operators. Whether you're a seasoned pro or a curious newcomer, come explore the world of ham radio and discover new techniques and technologies.

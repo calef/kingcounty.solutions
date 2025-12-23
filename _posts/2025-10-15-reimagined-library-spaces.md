@@ -16,7 +16,7 @@ source: King County Library System
 source_url: https://kcls.org/blogs/post/reimagine-library-spaces/
 summarized: true
 title: Reimagined Library Spaces
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

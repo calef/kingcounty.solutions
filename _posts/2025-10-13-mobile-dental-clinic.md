@@ -24,7 +24,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/mobile-dental-clinic/
 summarized: true
 title: Mobile Dental Clinic
-topics:
+topic_titles:
 - Health Care
 ---
 

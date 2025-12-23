@@ -10,7 +10,7 @@ source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/new-traffic-signals-coming-sr-522-support-i-405-expansion-bothell
 summarized: true
 title: New traffic signals coming to SR 522 to support I-405 expansion in Bothell
-topics: []
+topic_titles: []
 ---
 
 Big changes are coming to the Interstate 405/State Route 522 interchange in Bothell, with new traffic signals set to be operational by Nov. 24. These signals will manage traffic at two new intersections on SR 522, supporting a newly constructed northbound I-405 ramp to SR 522 and adding an additional lane to the heavily trafficked eastbound ramp to Woodinville. The changes are part of the I-405/Brickyard to SR 527 Improvement Project, which aims to expand capacity and improve mobility on 4.5 miles of I-405.

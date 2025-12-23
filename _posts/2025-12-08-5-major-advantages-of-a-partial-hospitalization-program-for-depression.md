@@ -37,7 +37,7 @@ source: THIRA Health
 source_url: https://thirahealth.com/2025/12/08/5-major-advantages-of-a-partial-hospitalization-program-for-depression/
 summarized: true
 title: 5 Major Advantages of a Partial Hospitalization Program for Depression
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Health Care
 ---

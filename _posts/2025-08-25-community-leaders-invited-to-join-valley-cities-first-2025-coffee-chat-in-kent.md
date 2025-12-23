@@ -30,7 +30,7 @@ source_url: https://valleycities.org/community-leaders-invited-to-join-valley-ci
 summarized: true
 title: Community leaders invited to join Valley Cities’ first 2025 Coffee Chat in
   Kent
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

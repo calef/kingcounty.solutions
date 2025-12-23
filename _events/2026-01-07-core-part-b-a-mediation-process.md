@@ -146,7 +146,7 @@ source_url: https://kcdrc.org/event/core-part-b-a-mediation-process/
 start_date: '2026-01-07T09:00:00-08:00'
 summarized: true
 title: 'CoRE™ Part B: A Mediation Process'
-topics: []
+topic_titles: []
 ---
 
 Join us for CoRE™ Part B: A Mediation Process from Jan. 7 to Jan. 9, 2026, at the Medical Dental Building in Seattle. This three-day training offers participants an immersive experience in facilitative mediation, including practical skills and techniques. Each day runs from 9 a.m. to 6 p.m., with a one-hour lunch break and shorter breaks throughout. Attendees are responsible for their own lunch, transportation, and parking. This event is ideal for those who have completed all 10 Part A sessions and are looking to deepen their mediation skills. Don’t miss this opportunity to enhance your conflict resolution abilities in a collaborative environment.

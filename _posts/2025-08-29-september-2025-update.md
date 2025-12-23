@@ -90,7 +90,7 @@ source: Lake City Seniors
 source_url: https://lakecityseniors.org/september-2025-update/
 summarized: true
 title: September 2025 Update
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 - Disabilities

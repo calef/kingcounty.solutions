@@ -210,7 +210,7 @@ source_url: https://mapsredmond.org/event/al-mustafa/2025-12-22/
 start_date: '2025-12-22T20:00:00-08:00'
 summarized: true
 title: Al-Mustafa
-topics: []
+topic_titles: []
 ---
 
 Join the community for "Al-Mustafa," an engaging event at the Muslim Association of Puget Sound (MAPS) on December 22, 2025, starting at 8 p.m. Attendees can expect a rich cultural experience featuring inspiring talks, performances, and discussions centered around the themes of spirituality and community. This event aims to foster connections and promote understanding among diverse groups. Don't miss this opportunity to engage with thought-provoking content and connect with others in a welcoming environment.

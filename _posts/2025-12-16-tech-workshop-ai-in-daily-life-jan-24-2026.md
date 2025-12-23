@@ -22,7 +22,7 @@ source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/tech-workshop0ai-in-daily-life-jan-24-2026/
 summarized: true
 title: Tech Workshop -AI in Daily Life, Jan. 24, 2026
-topics: []
+topic_titles: []
 ---
 
 Rajat will host a workshop focused on the practical uses of artificial intelligence in daily life. The event is free, and participants are encouraged to RSVP.

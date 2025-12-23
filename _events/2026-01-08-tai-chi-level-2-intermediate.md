@@ -232,7 +232,7 @@ source_url: https://wscenter.org/event/tai-chi-2-2/2026-01-08/
 start_date: '2026-01-08T09:30:00-08:00'
 summarized: true
 title: Tai Chi Level 2 Intermediate
-topics:
+topic_titles:
 - Senior Services
 ---
 

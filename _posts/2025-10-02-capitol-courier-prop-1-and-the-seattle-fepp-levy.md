@@ -112,7 +112,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/10/capitol-courier-prop-1-and-the-seattle-fepp-levy/
 summarized: true
 title: 'Capitol Courier: Prop 1 and the Seattle FEPP Levy'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

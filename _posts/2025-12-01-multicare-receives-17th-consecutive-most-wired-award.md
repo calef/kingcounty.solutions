@@ -16,7 +16,7 @@ source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/12/multicare-receives-17th-consecutive-most-wired-award/
 summarized: true
 title: MultiCare receives 17th consecutive ‘Most Wired’ award
-topics:
+topic_titles:
 - Health Care
 ---
 

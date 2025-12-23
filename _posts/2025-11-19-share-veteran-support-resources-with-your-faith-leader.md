@@ -89,7 +89,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143154/share-support-resources-with-your-faith-leader/
 summarized: true
 title: Share Veteran support resources with your faith leader
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Employment & Job Support
 - Shelter & Housing

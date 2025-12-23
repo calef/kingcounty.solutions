@@ -33,7 +33,7 @@ source: Eastside Legal Assistance Program
 source_url: https://elap.org/what-exactly-is-civil-legal-aid-and-why-is-it-so-important/?utm_source=rss&utm_medium=rss&utm_campaign=what-exactly-is-civil-legal-aid-and-why-is-it-so-important
 summarized: true
 title: What exactly is civil legal aid and why is it so important?
-topics:
+topic_titles:
 - Domestic Violence
 - Financial Assistance
 - Shelter & Housing

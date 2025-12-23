@@ -18,7 +18,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/15/green-river-levee-evacuation-lifted/
 summarized: true
 title: Green River Levee evacuation alert lifted
-topics: []
+topic_titles: []
 ---
 
 As of Monday evening, December 15, at 7:30 p.m., the evacuation alert for residents and businesses east of the Green River in the Orillia area of Tukwila, Renton, and Kent has been lifted. The flash flood warning has also been canceled, allowing people to safely return to their homes and businesses. Authorities advise residents to remain vigilant and monitor conditions as they return.

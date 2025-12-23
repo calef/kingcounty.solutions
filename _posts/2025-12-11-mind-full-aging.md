@@ -23,7 +23,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/mindfull-aging/
 summarized: true
 title: Mind(full) Aging
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Senior Services
 ---

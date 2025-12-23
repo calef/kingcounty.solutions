@@ -54,7 +54,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/dav-backs-bill-to-modernize-transportation-equipment-for-disabled-veterans/
 summarized: true
 title: DAV backs bill to modernize transportation equipment for disabled veterans
-topics:
+topic_titles:
 - Disabilities
 - Transportation & Mobility
 ---

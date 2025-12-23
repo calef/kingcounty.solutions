@@ -414,7 +414,7 @@ source_url: https://uw.Cloud-CME.com/course/courseoverview?P=5&EID=13842
 start_date: '2026-01-30T08:00:00-08:00'
 summarized: true
 title: 11th Annual Men's Health Update
-topics:
+topic_titles:
 - Health Care
 ---
 

@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://housing.seattle.gov/developer-opportunity-help-build-affordable-housing-in-south-park/
 summarized: true
 title: Developer Opportunity! Help Build Affordable Housing in South Park
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

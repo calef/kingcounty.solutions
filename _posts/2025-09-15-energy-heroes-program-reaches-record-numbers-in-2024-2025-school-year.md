@@ -20,7 +20,7 @@ source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/09/15/energy-heroes-program-reaches-record-numbers-in-2024-2025-school-year/
 summarized: true
 title: Energy Heroes Program Reaches Record Numbers in 2024-2025 School Year
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -33,7 +33,7 @@ source_url: https://idp.u.washington.edu/idp/profile/SAML2/Redirect/SSO?executio
 start_date: '2025-12-22T11:00:00-08:00'
 summarized: true
 title: Daily 15 Minute Movement Break - Yoga and Fitness
-topics: []
+topic_titles: []
 ---
 
 Join us for a Daily 15 Minute Movement Break featuring yoga and fitness sessions designed to energize and refresh your day. Attendees can expect guided exercises that promote relaxation and physical well-being. This event starts on December 22, 2025, at 11 a.m. and will take place at a designated location. Whether you're looking to stretch, strengthen, or simply take a moment for yourself, this quick movement break is perfect for all fitness levels. Don’t miss this opportunity to incorporate mindfulness and physical activity into your daily routine.

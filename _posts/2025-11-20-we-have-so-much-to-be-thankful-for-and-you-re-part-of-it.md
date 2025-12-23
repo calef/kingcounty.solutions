@@ -106,7 +106,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/we-have-so-much-to-be-thankful-for-and-youre-part-of-it/
 summarized: true
 title: We have so much to be thankful for and you’re part of it!
-topics:
+topic_titles:
 - Education & Learning
 ---
 

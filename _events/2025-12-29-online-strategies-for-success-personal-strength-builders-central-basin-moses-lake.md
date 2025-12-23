@@ -270,7 +270,7 @@ start_date: '2025-12-29T09:00:00-08:00'
 summarized: true
 title: 'ONLINE Strategies for Success: Personal Strength Builders (Central Basin -
   Moses Lake)'
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

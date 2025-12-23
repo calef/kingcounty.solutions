@@ -230,7 +230,7 @@ source_url: https://www.antioch.edu/event/edd-info-session-auo-1-20-26/
 start_date: '2026-01-20T19:30:00-05:00'
 summarized: true
 title: EdD Info Session | AUO
-topics:
+topic_titles:
 - Education & Learning
 ---
 

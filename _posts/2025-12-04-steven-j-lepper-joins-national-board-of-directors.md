@@ -60,7 +60,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/steven-j-lepper-joins-national-board-of-directors/
 summarized: true
 title: Steven J. Lepper Joins National Board of Directors
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---

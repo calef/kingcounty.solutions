@@ -16,7 +16,7 @@ source_url: https://www.friendsofyouth.org/post/now-enrolling-dbt-skills-class-f
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: DBT Skills Class for Teens
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

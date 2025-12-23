@@ -12,7 +12,7 @@ source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/breaking-new-ground-at-familyworks/
 summarized: true
 title: Breaking New Ground at FamilyWorks
-topics:
+topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 ---

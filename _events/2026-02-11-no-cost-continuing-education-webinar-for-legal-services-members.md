@@ -7711,7 +7711,7 @@ source_url: https://nosscr.org/event/no-cost-continuing-education-webinar-for-le
 start_date: '2026-02-11T15:00:00-05:00'
 summarized: true
 title: No-cost Continuing Education Webinar for Legal Services Members
-topics:
+topic_titles:
 - Legal Aid
 - Education & Learning
 - Employment & Job Support

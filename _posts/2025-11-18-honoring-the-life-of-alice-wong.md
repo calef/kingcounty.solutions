@@ -154,7 +154,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/18/honoring-the-life-of-alice-wong/
 summarized: true
 title: Honoring the Life of Alice Wong
-topics:
+topic_titles:
 - Disabilities
 ---
 

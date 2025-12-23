@@ -12,7 +12,7 @@ source: Imagine Housing
 source_url: https://imaginehousing.org/more-affordable-housing-proposed-for-church-owned-land-in-bellevue/
 summarized: true
 title: More affordable housing proposed for church-owned land in Bellevue
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

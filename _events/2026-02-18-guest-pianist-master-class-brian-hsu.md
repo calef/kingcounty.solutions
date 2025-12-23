@@ -60,7 +60,7 @@ source_url: https://music.washington.edu/events/2026-02-18/guest-pianist-master-
 start_date: '2026-02-18T16:30:00-08:00'
 summarized: true
 title: 'Guest Pianist Master Class: Brian Hsu'
-topics: []
+topic_titles: []
 ---
 
 Join us for a special guest pianist master class featuring renowned pianist Brian Hsu on Feb. 18, 2026, at 4:30 p.m. in the Music Building (MUS). This event offers an incredible opportunity for music enthusiasts and aspiring pianists to learn from Hsu's expertise. Attendees can expect insightful demonstrations, personal feedback, and the chance to engage with a master in the field. Whether you're a performer or an admirer of piano music, this master class promises to inspire and elevate your appreciation for the art of piano playing. Don't miss this unique chance to witness and participate in a transformative musical experience.

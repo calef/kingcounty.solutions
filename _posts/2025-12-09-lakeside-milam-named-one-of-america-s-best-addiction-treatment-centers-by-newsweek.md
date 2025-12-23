@@ -184,7 +184,7 @@ source: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/lakeside-milam-named-one-of-americas-best-addiction-treatment-centers-by-newsweek/
 summarized: true
 title: Lakeside-Milam Named One of America’s Best Addiction Treatment Centers by Newsweek
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

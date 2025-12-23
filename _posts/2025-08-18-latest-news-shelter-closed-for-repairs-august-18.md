@@ -13,7 +13,7 @@ source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/latest-news-shelter-closed-for-repairs-august-18/?utm_source=rss&utm_medium=rss&utm_campaign=latest-news-shelter-closed-for-repairs-august-18
 summarized: true
 title: 'LATEST NEWS: Shelter closed for repairs August 18'
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 ---

@@ -21,7 +21,7 @@ source: Together Center
 source_url: https://togethercenter.org/2025/09/20/open-doors-for-multicultural-families/
 summarized: true
 title: Open Doors for Multicultural Families
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 - Shelter & Housing

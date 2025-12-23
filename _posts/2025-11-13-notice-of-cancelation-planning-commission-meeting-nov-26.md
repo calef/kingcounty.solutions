@@ -14,7 +14,7 @@ source: City of Mercer Island
 source_url: https://www.mercerisland.gov/bc-pc/page/notice-cancelation-planning-commission-meeting-nov-26
 summarized: true
 title: Notice of Cancelation - Planning Commission Meeting - Nov 26
-topics: []
+topic_titles: []
 ---
 
 The Mercer Island Planning Commission regular meeting scheduled for Nov. 26, 2025, has been canceled. The next meeting will take place on Jan. 28, 2026, at 6 p.m.

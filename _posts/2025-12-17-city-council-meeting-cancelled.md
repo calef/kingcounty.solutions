@@ -16,7 +16,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27406
 summarized: true
 title: City Council Meeting - Cancelled
-topics: []
+topic_titles: []
 ---
 
 The Black Diamond City Council will hold a meeting on January 1, 2026, at 7:00 p.m. Residents can access the meeting agendas through the city's official website.

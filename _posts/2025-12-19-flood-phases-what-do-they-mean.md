@@ -1178,7 +1178,7 @@ source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/%e2%9a%a0%ef%b8%8f-flood-phases-what-do-they-mean-%e2%9a%a0%ef%b8%8f/
 summarized: true
 title: "⚠️ Flood Phases – What do they mean? ⚠️"
-topics: []
+topic_titles: []
 ---
 
 King County is currently experiencing widespread flooding, prompting a shift in focus from a planned Year-End Review to an explanation of flood phases and their significance. The county defines flood phases to indicate river conditions, with higher phases representing increased water flow and a greater likelihood of flooding. Flood Phase 0 indicates no expected flooding, while Phase 1 calls for alertness and preparation. Phase 2 suggests minor flooding in low-lying areas, and Phase 3 indicates moderate flooding that may affect homes and infrastructure. Phase 4 signifies severe flooding with potential threats to life and property.

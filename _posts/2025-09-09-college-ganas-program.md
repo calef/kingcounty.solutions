@@ -164,7 +164,7 @@ source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/college-ganas-program/?utm_source=rss&utm_medium=rss&utm_campaign=college-ganas-program
 summarized: true
 title: College GANAS Program
-topics:
+topic_titles:
 - Education & Learning
 - Financial Assistance
 ---

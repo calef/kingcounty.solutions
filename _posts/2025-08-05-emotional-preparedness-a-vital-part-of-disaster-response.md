@@ -19,7 +19,7 @@ source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/emotional-preparedness-a-vital-part-of-disaster-response/
 summarized: true
 title: 'Emotional Preparedness: A Vital Part of Disaster Response'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

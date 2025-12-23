@@ -37,7 +37,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/8kxmi5msf1k8e4hamh2sxztfe9sv06
 summarized: true
 title: Light the World Giving Machine Kickoff at South Hill Mall
-topics:
+topic_titles:
 - Personal & Household Needs
 ---
 

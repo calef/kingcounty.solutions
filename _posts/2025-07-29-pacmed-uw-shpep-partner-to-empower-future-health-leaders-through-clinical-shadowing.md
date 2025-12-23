@@ -19,7 +19,7 @@ source_url: https://www.pacificmedicalcenters.org/news/pacmed-uw-shpep-partner-t
 summarized: true
 title: PacMed & UW SHPEP Partner to Empower Future Health Leaders Through Clinical
   Shadowing
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 ---

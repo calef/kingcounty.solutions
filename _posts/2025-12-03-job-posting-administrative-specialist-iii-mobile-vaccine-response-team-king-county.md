@@ -13,7 +13,7 @@ source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/03/job-po
 summarized: true
 title: 'Job Posting: Administrative Specialist III, Mobile Vaccine Response Team (King
   County)'
-topics:
+topic_titles:
 - Health Care
 - Employment & Job Support
 ---

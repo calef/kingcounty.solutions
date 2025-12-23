@@ -33,7 +33,7 @@ source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/donor-spotlight-sarah-hamid/?utm_source=rss&utm_medium=rss&utm_campaign=donor-spotlight-sarah-hamid
 summarized: true
 title: 'Donor Spotlight: Sarah Hamid'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

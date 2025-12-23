@@ -16,7 +16,7 @@ source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/11/connecting-lake-city-transit-30th-ave-ne-project/
 summarized: true
 title: Connecting Lake City to Light Rail | SEATTLE TRANSIT MEASURE
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

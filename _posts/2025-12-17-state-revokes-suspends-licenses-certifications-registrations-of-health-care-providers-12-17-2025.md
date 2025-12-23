@@ -216,7 +216,7 @@ source_url: https://doh.wa.gov/newsroom/state-revokes-suspends-licenses-certific
 summarized: true
 title: State revokes, suspends licenses, certifications, registrations of health care
   providers (12-17-2025)
-topics:
+topic_titles:
 - Health Care
 ---
 

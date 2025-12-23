@@ -14,7 +14,7 @@ source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/12/09/december-winter-weather-update/
 summarized: true
 title: December Winter Weather Update
-topics:
+topic_titles:
 - Shelter & Housing
 - Transportation & Mobility
 - Health Care

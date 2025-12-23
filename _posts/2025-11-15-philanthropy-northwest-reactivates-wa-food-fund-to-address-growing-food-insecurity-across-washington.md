@@ -14,7 +14,7 @@ source_url: https://www.northwestharvest.org/news-insights/philanthropy-northwes
 summarized: true
 title: Philanthropy Northwest Reactivates WA Food Fund to Address Growing Food Insecurity
   Across Washington
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

@@ -19,7 +19,7 @@ source_url: https://washington.zoom.us/meeting/register/f10G9_1MQHKGD_lf7kn9qg
 start_date: '2026-03-11T15:00:00-07:00'
 summarized: true
 title: 'Winter Accessibility POP Session 6: Accessible Presentation Delivery'
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

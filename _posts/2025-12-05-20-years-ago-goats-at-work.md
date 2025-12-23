@@ -10,7 +10,7 @@ source: City of Seattle
 source_url: https://primarysources.seattle.gov/2025/12/05/on-this-day-20-years-ago/
 summarized: true
 title: '20 Years Ago: Goats at Work'
-topics: []
+topic_titles: []
 ---
 
 On Dec. 5, 2005, Seattle's City Council approved the construction of a new sports arena in the SODO district, aimed at attracting an NBA franchise back to the city. The decision followed years of discussions and community engagement regarding the future of professional basketball in Seattle.

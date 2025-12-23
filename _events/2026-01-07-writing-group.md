@@ -233,7 +233,7 @@ source_url: https://wscenter.org/event/writing-group/2026-01-07/
 start_date: '2026-01-07T11:00:00-08:00'
 summarized: true
 title: Writing Group
-topics: []
+topic_titles: []
 ---
 
 Join the Writing Group at The Center for Active Living in Seattle on Jan. 7, 2026, at 11 a.m. This event offers a supportive environment for writers of all levels to share their work, receive constructive feedback, and engage in writing exercises. Attendees can expect to connect with fellow writers, enhance their skills, and find inspiration for their projects. The center is located at 4217 SW Oregon St., Seattle, WA, 98116. Whether you're a seasoned author or just starting, this group is a great opportunity to nurture your creativity and develop your writing voice.

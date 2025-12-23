@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/11/18/december-first-thursday-two-exhibitions-and-the-last-woven-stories-workshop/
 summarized: true
 title: 'December First Thursday: Two exhibitions and the last Woven Stories workshop!'
-topics: []
+topic_titles: []
 ---
 
 Join the festivities at ARTS at King Street Station on Dec. 4 for Pioneer Square's First Thursday Artwalk, featuring the opening of two exhibitions: "Living & Loving Under the Carceral State" and "Welcome to Paradise: ¡Viva Puerto Rico Libre!" The evening will also include the final workshop in the Woven Stories series, where participants can create Huichol Ojos de Dios, guided by Alicia Mullikin.

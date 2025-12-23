@@ -7709,7 +7709,7 @@ source_url: https://nosscr.org/event/fifth-circuit-virtual-meeting/
 start_date: '2026-02-05T14:30:00-05:00'
 summarized: true
 title: Fifth Circuit Virtual Meeting
-topics: []
+topic_titles: []
 ---
 
 Join us for the Fifth Circuit Virtual Meeting on Feb. 5, 2026, starting at 2:30 p.m. EST. This online gathering will provide attendees with the opportunity to engage in important discussions, share insights, and collaborate on various topics relevant to the community. Participants can expect interactive sessions that foster networking and knowledge exchange among peers. Don’t miss this chance to connect and contribute to the ongoing dialogue in a virtual setting.

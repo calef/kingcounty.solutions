@@ -45,7 +45,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/what-veterans-should-know-about-vas-proposed-change-to-rating-scars/
 summarized: true
 title: What veterans should know about VA’s proposed change to rating scars
-topics:
+topic_titles:
 - Disabilities
 - Legal Aid
 ---

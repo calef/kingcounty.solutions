@@ -134,7 +134,7 @@ source_url: https://meanycenter.org/tickets/2026-02/production/bill-t-jonesarnie
 start_date: '2026-02-26T20:00:00-08:00'
 summarized: true
 title: Bill T. Jones/Arnie Zane Company - Still/Here
-topics: []
+topic_titles: []
 ---
 
 Experience a powerful evening of dance with the Bill T. Jones/Arnie Zane Company as they present "Still/Here" on Feb. 26, 2026, at 8 p.m. in Meany Hall. This acclaimed performance explores themes of loss, resilience, and the human experience through innovative movement and thought-provoking choreography. Attendees can expect a deeply moving and immersive experience that challenges perceptions and evokes emotions. Join fellow community members for this unique opportunity to witness the artistry of one of the most influential dance companies in the world. Don’t miss this chance to engage with contemporary dance that speaks to the heart and soul.

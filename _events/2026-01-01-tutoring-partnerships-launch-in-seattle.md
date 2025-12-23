@@ -9,7 +9,7 @@ source_url: https://readingpartners.org/blog/programming-updates-co-and-sv/
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: Tutoring Partnerships Launch in Seattle
-topics:
+topic_titles:
 - Education & Learning
 ---
 

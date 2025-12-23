@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/partner-feature-hopskipdrive-celebrates-innovation-and-flexibility-in-washington
 summarized: true
 title: 'partner feature: hopskipdrive celebrates innovation and flexibility in washington'
-topics:
+topic_titles:
 - Transportation & Mobility
 - Education & Learning
 ---

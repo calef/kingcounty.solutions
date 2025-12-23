@@ -12,7 +12,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/caregiving-burnout-and-the-art-of-repair/?utm_source=rss&utm_medium=rss&utm_campaign=caregiving-burnout-and-the-art-of-repair
 summarized: true
 title: Caregiving, Burnout, and the Art of Repair
-topics:
+topic_titles:
 - Childcare
 - Mental Health & Counseling
 - Senior Services

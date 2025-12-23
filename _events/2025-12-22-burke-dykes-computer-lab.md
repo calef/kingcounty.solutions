@@ -50,7 +50,7 @@ source_url: https://wscenter.org/event/burke-dykes-computer-lab-2/2025-12-22/
 start_date: '2025-12-22T08:30:00-08:00'
 summarized: true
 title: Burke Dykes Computer Lab
-topics:
+topic_titles:
 - Education & Learning
 ---
 

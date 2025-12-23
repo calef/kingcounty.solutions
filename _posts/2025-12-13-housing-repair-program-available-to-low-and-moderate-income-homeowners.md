@@ -16,7 +16,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/12/housing-repair-program-available-to-low-and-moderate-income-homeowners/
 summarized: true
 title: Housing repair program available to low and moderate-income homeowners
-topics:
+topic_titles:
 - Disabilities
 - Shelter & Housing
 ---

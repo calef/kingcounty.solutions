@@ -14,7 +14,7 @@ source_url: https://spdblotter.seattle.gov/2025/11/07/detectives-urge-community-
 summarized: true
 title: Detectives Urge Community Members to Watch Out for Roofing and Construction
   Scams
-topics:
+topic_titles:
 - Disabilities
 ---
 

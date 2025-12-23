@@ -28,7 +28,7 @@ source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/12/600-seventh-street-opens-in-san-francisco/
 summarized: true
 title: 600 Seventh Street Opens in San Francisco
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

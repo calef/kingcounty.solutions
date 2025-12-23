@@ -89,7 +89,7 @@ source: Angel Flight West
 source_url: https://angelflightwest.org/news/8th-annual-run-for-the-angels-5k/
 summarized: true
 title: 8th Annual Run for the Angels 5K
-topics:
+topic_titles:
 - Transportation & Mobility
 - Health Care
 ---

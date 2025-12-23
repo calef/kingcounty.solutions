@@ -12,7 +12,7 @@ source: City of Seattle
 source_url: https://housing.seattle.gov/uos-rfq/
 summarized: true
 title: Seattle Office of Housing Announces $27.8M in Support Funds
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

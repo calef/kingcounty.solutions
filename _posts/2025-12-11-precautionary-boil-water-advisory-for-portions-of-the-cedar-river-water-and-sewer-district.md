@@ -35,7 +35,7 @@ source_url: https://kcemergency.com/2025/12/11/precautionary-boil-water-advisory
 summarized: true
 title: Precautionary Boil Water Advisory for portions of the Cedar River Water and
   Sewer District
-topics: []
+topic_titles: []
 ---
 
 Cedar River Water and Sewer District has issued a 48-hour Precautionary Boil Water Advisory starting December 11. This advisory affects the eastern part of the Water District, including areas east of the Cedar River and south of Highway 18. The advisory is in place while water samples are collected to ensure the safety of the drinking water. Customers are advised to boil water for at least one minute before using it for drinking, cooking, or brushing teeth. This precaution is necessary until the water quality can be confirmed safe. Residents are encouraged to stay updated on any changes regarding the advisory.

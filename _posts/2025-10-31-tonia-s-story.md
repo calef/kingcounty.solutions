@@ -31,7 +31,7 @@ source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/tonias-story/
 summarized: true
 title: Tonia’s Story
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

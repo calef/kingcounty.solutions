@@ -40,7 +40,7 @@ source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-1st-5th/
 summarized: true
 title: Dining Menu December 1st – 5th
-topics:
+topic_titles:
 - Food & Nutrition
 - Senior Services
 ---

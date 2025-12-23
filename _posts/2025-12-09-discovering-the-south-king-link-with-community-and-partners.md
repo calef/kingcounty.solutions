@@ -13,7 +13,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/discovering-south-king-link-with-community-partners
 summarized: true
 title: Discovering the South King Link with community and partners
-topics: []
+topic_titles: []
 ---
 
 The 1 Line extension to Federal Way will celebrate its opening day on Saturday, Dec. 6. The event will begin with a ribbon-cutting ceremony from 9:30 a.m. to 11 a.m. at the Federal Way Downtown Station. In addition to the ceremony, the celebration will feature a community street fair organized by the FW Black Collective. Attendees can enjoy music, food trucks, and activities for children throughout the day.

@@ -12,7 +12,7 @@ source: Juma Ventures
 source_url: https://www.juma.org/2025/09/29/paths-to-possibility-2025-supports-youth-in-their-next-chapters/
 summarized: true
 title: Paths to Possibility 2025 Supports Youth in Their Next Chapters
-topics:
+topic_titles:
 - Employment & Job Support
 - Transportation & Mobility
 ---

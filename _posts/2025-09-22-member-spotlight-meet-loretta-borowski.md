@@ -11,7 +11,7 @@ source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/member-spotlight-meet-loretta-borowski
 summarized: true
 title: 'Member Spotlight: Meet Loretta Borowski '
-topics:
+topic_titles:
 - Disabilities
 - Transportation & Mobility
 ---

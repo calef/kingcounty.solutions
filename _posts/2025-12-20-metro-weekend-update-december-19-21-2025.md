@@ -17,7 +17,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/19/metro-weekend-update-december-19-21-2025/
 summarized: true
 title: Metro Weekend Update – December 19-21, 2025
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

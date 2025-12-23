@@ -18,7 +18,7 @@ source: Multi-Service Center
 source_url: https://mschelps.org/thank-you-for-an-incredible-year/
 summarized: true
 title: Thank you for an incredible year
-topics: []
+topic_titles: []
 ---
 
 2025 has been a remarkable year for the Multi-Service Center (MSC), providing numerous opportunities to serve the community. Despite facing various challenges, MSC has remained committed to its mission of supporting others. The organization has made significant progress in implementing strategies aimed at enhancing its services and outreach. MSC has engaged with the community in meaningful ways, fostering connections and offering assistance where it is needed most. The year has been marked by a strong dedication to overcoming obstacles and adapting to changing circumstances. MSC’s efforts reflect its commitment to making a positive impact, demonstrating resilience and a willingness to evolve in order to better serve the needs of the community. The organization looks forward to continuing its important work and building on the successes achieved throughout the year.

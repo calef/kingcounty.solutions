@@ -26,7 +26,7 @@ source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/hospitality-house-highlights/
 summarized: true
 title: Hospitality House Highlights
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

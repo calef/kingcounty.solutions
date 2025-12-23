@@ -119,7 +119,7 @@ source: Samaritan Center of Puget Sound
 source_url: https://samaritanps.org/a-therapists-review-of-k-pop-demon-hunters/?utm_source=rss&utm_medium=rss&utm_campaign=a-therapists-review-of-k-pop-demon-hunters
 summarized: true
 title: A Therapist’s Review of K-Pop Demon Hunters
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

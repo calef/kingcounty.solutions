@@ -20,7 +20,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/19/alert-king-county-emergency-blog-saving-lives/
 summarized: true
 title: ALERT King County, emergency blog saving lives 
-topics: []
+topic_titles: []
 ---
 
 Sign up for ALERT King County to receive important emergency notifications before a crisis occurs. This service provides critical information that can help keep you and your family safe during potential hazards and threats in your area. By registering now, you ensure you will be informed when emergencies arise. Don’t wait until it’s too late; take proactive steps to stay informed and prepared.

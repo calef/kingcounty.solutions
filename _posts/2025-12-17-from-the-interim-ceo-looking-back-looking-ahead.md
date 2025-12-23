@@ -17,7 +17,7 @@ source: United Way of King County
 source_url: https://www.uwkc.org/access-to-resources/from-the-interim-ceo-looking-back-looking-ahead/
 summarized: true
 title: 'From the Interim CEO: Looking Back, Looking Ahead'
-topics:
+topic_titles:
 - Childcare
 - Employment & Job Support
 - Financial Assistance

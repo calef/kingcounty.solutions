@@ -232,7 +232,7 @@ source_url: https://wscenter.org/event/drop-in-digital-navigation-2-2-2-2/2026-0
 start_date: '2026-01-08T11:30:00-08:00'
 summarized: true
 title: Drop-in Digital Navigation
-topics:
+topic_titles:
 - Education & Learning
 - Senior Services
 ---

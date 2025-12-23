@@ -53,7 +53,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/the-hoh-indian-tribe-commerce-sign-memorandum-of-understanding/
 summarized: true
 title: The Hoh Indian Tribe, Commerce sign memorandum of understanding
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

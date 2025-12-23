@@ -17,7 +17,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/15/construction-brings-major-improvements-to-atlantic-base-yard-facility/
 summarized: true
 title: Construction brings major improvements to Atlantic Base Yard Facility
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

@@ -31,7 +31,7 @@ source_url: https://news.shoreline.edu/2025/11/19/shoreline-community-college-fo
 summarized: true
 title: Shoreline Community College Foundation Giving Table Luncheon Raises $100,000
   to Support Students Facing Basic Needs Insecurity
-topics:
+topic_titles:
 - Financial Assistance
 - Education & Learning
 - Food & Nutrition

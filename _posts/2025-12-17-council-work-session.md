@@ -16,7 +16,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27291
 summarized: true
 title: Council Work Session
-topics: []
+topic_titles: []
 ---
 
 The City Council will hold a meeting on January 8, 2026, at 6:00 p.m. Residents are invited to participate and can find the meeting agendas by clicking a provided link.

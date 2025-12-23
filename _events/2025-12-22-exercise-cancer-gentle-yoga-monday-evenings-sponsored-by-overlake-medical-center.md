@@ -44,7 +44,7 @@ start_date: '2025-12-22T18:30:00-08:00'
 summarized: true
 title: 'Exercise & Cancer: Gentle Yoga Monday Evenings Sponsored by Overlake Medical
   Center'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

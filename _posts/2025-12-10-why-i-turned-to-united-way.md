@@ -11,7 +11,7 @@ source: United Way of King County
 source_url: https://www.uwkc.org/access-to-resources/why-i-turned-to-united-way/
 summarized: true
 title: Why [I Turned] to United Way
-topics:
+topic_titles:
 - Education & Learning
 - Legal Aid
 - Shelter & Housing

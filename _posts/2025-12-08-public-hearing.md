@@ -12,7 +12,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27081
 summarized: true
 title: Public Hearing
-topics: []
+topic_titles: []
 ---
 
 A public hearing will take place on December 15, 2025, at 6 p.m. to discuss a major amendment to The Villages Master Planned Development (MPD) permit and development agreement. This hearing is part of the process to consider changes to the existing plans for the development.

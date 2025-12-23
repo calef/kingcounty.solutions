@@ -85,7 +85,7 @@ source_url: https://www.washington.edu/news/2025/12/16/from-mongoose-like-to-lio
 summarized: true
 title: 'Q&A: From ‘mongoose-like’ to lions, tigers and bears (oh my) — how changes
   in Earth’s climate shaped carnivorans'
-topics: []
+topic_titles: []
 ---
 
 Researchers from the University of Washington have found that climate changes over the past 56 million years significantly influenced the evolution of modern carnivorans, which include cats, dogs, bears, and seals. Their study revealed that all carnivorans descended from ancestors resembling today's mongooses. The findings indicate that two major climate transitions—the Eocene-Oligocene Transition, around 34 million years ago, and the Mid-Miocene Climate Transition, between 15 and 13 million years ago—spurred diversification among these species.

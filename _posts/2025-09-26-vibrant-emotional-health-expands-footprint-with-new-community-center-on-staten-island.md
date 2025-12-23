@@ -35,7 +35,7 @@ source_url: https://www.vibrant.org/vibrant-emotional-health-expands-footprint-w
 summarized: true
 title: Vibrant Emotional Health Expands Footprint with New Community Center on Staten
   Island
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

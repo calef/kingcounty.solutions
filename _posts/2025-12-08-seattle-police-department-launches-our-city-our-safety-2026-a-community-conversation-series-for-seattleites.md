@@ -13,7 +13,7 @@ source_url: https://spdblotter.seattle.gov/2025/12/08/seattle-police-department-
 summarized: true
 title: Seattle Police Department Launches “Our City, Our Safety 2026,” A Community
   Conversation Series for Seattleites
-topics: []
+topic_titles: []
 ---
 
 On January 14, the Seattle Police Department will kick off “Our City, Our Safety 2026,” a series of monthly community conversations. These gatherings aim to engage Seattle residents in discussions about public safety and to shape the department's strategies in addressing safety concerns in neighborhoods. The initiative includes 10 meetings throughout the year, providing opportunities for community members to voice their opinions and collaborate with police on safety issues. The program seeks to foster stronger relationships between the police and the community, allowing residents to actively participate in decisions that affect their safety. Each meeting will focus on different topics relevant to local safety, encouraging diverse participation from various neighborhoods across the city. This effort is part of the department's commitment to transparency and community engagement in law enforcement.

@@ -14,7 +14,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/14/detectives-investigate-fatal-hit-and-run-in-beacon-hill/
 summarized: true
 title: Detectives Investigate Fatal Hit-and-Run in Beacon Hill
-topics: []
+topic_titles: []
 ---
 
 Detectives are looking into a hit-and-run crash that killed a bicyclist in Beacon Hill early Sunday morning. Police received reports of the incident shortly after midnight at the intersection of Beacon Avenue South and South Stevens Street. Officers found the victim, who was pronounced dead at the scene. Witnesses reported seeing a dark sedan involved in the collision. The driver fled the scene before police arrived. Authorities are urging anyone with information to come forward. This incident marks a tragic event in the community, and police are working to gather evidence and identify the driver responsible for the crash.

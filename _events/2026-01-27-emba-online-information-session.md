@@ -13,7 +13,7 @@ source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1
 start_date: '2026-01-27T17:30:00-08:00'
 summarized: true
 title: EMBA Online Information Session
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

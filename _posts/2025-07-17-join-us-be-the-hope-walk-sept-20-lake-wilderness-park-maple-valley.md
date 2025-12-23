@@ -19,7 +19,7 @@ source: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/07/17/join-us-be-the-hope-walk-sept-20-lake-wilderness-park-maple-valley/?utm_source=rss&utm_medium=rss&utm_campaign=join-us-be-the-hope-walk-sept-20-lake-wilderness-park-maple-valley
 summarized: true
 title: JOIN US! Be the Hope Walk – Sept. 20, Lake Wilderness Park, Maple Valley
-topics:
+topic_titles:
 - Health Care
 - Food & Nutrition
 ---

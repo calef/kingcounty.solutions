@@ -89,7 +89,7 @@ source: Sound Generations
 source_url: https://soundgenerations.org/understanding-different-types-of-dementia-with-karin-taifour-ma-licsw-gmhs/
 summarized: true
 title: Understanding Different Types of Dementia with Karin Taifour, MA, LICSW, GMHS
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Senior Services

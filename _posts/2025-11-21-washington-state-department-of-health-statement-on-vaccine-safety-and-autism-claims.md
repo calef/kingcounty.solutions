@@ -41,7 +41,7 @@ source_url: https://doh.wa.gov/newsroom/washington-state-department-health-state
 summarized: true
 title: Washington State Department of Health statement on vaccine safety and autism
   claims
-topics:
+topic_titles:
 - Health Care
 ---
 

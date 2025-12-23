@@ -14,7 +14,7 @@ source_url: https://frontporch.seattle.gov/2025/11/21/growing-community-y%C9%99h
 summarized: true
 title: 'Growing Community: yəhaw̓ Indigenous Creatives Collective Rematriates Land
   to Build Native-led Arts and Culture Space'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Food & Nutrition
 ---

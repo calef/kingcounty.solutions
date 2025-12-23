@@ -12,7 +12,7 @@ source: Husky Health Center
 source_url: https://wellbeing.uw.edu/test-fest-nov-2025/
 summarized: true
 title: 'Test Fest: Get Yourself Tested at UW in November, 2025'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

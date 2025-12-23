@@ -20,7 +20,7 @@ source_url: https://snoqualmietribe.us/tribal-administration-closed-on-monday-de
 summarized: true
 title: Tribal Administration Closed on Monday, December 22 out of honor and respect
   for Tribal Elder Mary Anne Hinzman
-topics: []
+topic_titles: []
 ---
 
 The Snoqualmie Indian Tribe's administration will be closed on Monday, December 22, in honor of Tribal Elder Mary Anne Hinzman. This closure is a mark of respect for her contributions and legacy within the community. Details regarding her life and impact on the tribe were not included in the announcement, but the closure reflects the tribe's commitment to honoring its elders. Community members are encouraged to pay their respects during this time.

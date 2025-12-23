@@ -26,7 +26,7 @@ source_url: https://www.mercyhousing.org/2025/11/grand-opening-170-affordable-ap
 summarized: true
 title: Celebrating the Grand Opening of 170 New Affordable Apartment Homes as Part
   of San Francisco’s Largest Public Housing Transformation
-topics:
+topic_titles:
 - Shelter & Housing
 - Childcare
 - Food & Nutrition

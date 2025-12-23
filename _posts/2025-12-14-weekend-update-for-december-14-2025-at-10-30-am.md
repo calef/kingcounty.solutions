@@ -28,7 +28,7 @@ source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/weekend-update-for-december-14-2025-at-1030-am/
 summarized: true
 title: Weekend Update for December 14, 2025 at 10:30 AM
-topics: []
+topic_titles: []
 ---
 
 Cedar River and White River remain at Phase 4, while Green River is at Phase 3, with evacuations occurring in certain areas. Weather forecasts predict wind gusts up to 45 mph from Sunday night into Monday, alongside additional rainfall throughout the week. The National Weather Service issued a Special Weather Statement noting rainfall totals of 2 to 12 inches in recent days, with some areas receiving up to 17 inches. This has significantly increased soil moisture, raising concerns about landslides and debris flows, particularly in recently burned regions. Numerous landslides have already been reported in the western Cascades, with more expected. Areas at high risk for landslides include steep coastal bluffs, hillsides, and road cuts. The threat will persist for several days even after the rain stops. Several roads across western Washington remain closed due to water, erosion, and landslides. SR203 from Duvall North to Monroe has reopened. The Snoqualmie River is currently at Phase 0 but is projected to reach Phase 3 at 34,000 cfs around December 17, 2025.

@@ -19,7 +19,7 @@ source_url: https://atyourservice.seattle.gov/2025/12/18/temporary-operations-up
 summarized: true
 title: Temporary Operations Update to Maintain Water Quality and Supply Following
   Recent Storms
-topics: []
+topic_titles: []
 ---
 
 Recent storms have led to high turbidity in the Cedar River, impacting Seattle's water supply. The Cedar River provides two-thirds of the region's water, while the South Fork Tolt River supplies the remaining third and is not facing turbidity problems. In response to these conditions, Seattle Public Utilities is implementing temporary operational adjustments to maintain water quality and supply. These measures include increased monitoring of water quality and adjustments in water treatment processes. Residents are advised that the water remains safe to drink, despite the changes in turbidity. The utility is committed to ensuring that the community has reliable access to clean water during this period of high turbidity.

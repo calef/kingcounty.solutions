@@ -75,7 +75,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/budget
 summarized: true
 title: 'ACTION ALERT: Tell King County to Fund Hygiene Access for All!'
-topics:
+topic_titles:
 - Personal & Household Needs
 - Financial Assistance
 ---

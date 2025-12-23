@@ -54,7 +54,7 @@ source_url: https://www.compasshousingalliance.org/2025/11/mission-advancement-o
 summarized: true
 title: Mission Advancement Officer Anne Jannetti expresses her thankfulness to two
   of our long-time supporters, Alysun Deckert and Mike Bailey  
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

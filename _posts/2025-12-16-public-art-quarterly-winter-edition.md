@@ -18,7 +18,7 @@ source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/16/public-art-quarterly-winter-edition/
 summarized: true
 title: 'Public Art Quarterly: Winter Edition'
-topics: []
+topic_titles: []
 ---
 
 In December, many people reflect on the past year and seek closure. The Public Art Division also takes time to reflect, but its projects do not adhere to a fiscal year or calendar. Instead, they focus on continuous growth and community engagement. The division highlights various projects, including murals, sculptures, and installations that enhance public spaces across the city.

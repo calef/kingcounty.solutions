@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://greenspace.seattle.gov/2025/11/coming-together-to-support-students-and-neighbors-during-the-government-shutdown/
 summarized: true
 title: Coming Together to Support Students and Neighbors During the Government Shutdown
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

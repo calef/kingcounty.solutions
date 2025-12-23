@@ -19,7 +19,7 @@ source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/were-hiring-3/
 summarized: true
 title: We’re Hiring!
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

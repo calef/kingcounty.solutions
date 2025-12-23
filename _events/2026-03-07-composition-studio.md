@@ -14,7 +14,7 @@ source_url: https://music.washington.edu/events/2026-03-07/composition-studio-co
 start_date: '2026-03-07T19:30:00-08:00'
 summarized: true
 title: Composition Studio
-topics: []
+topic_titles: []
 ---
 
 Join us for the Composition Studio on March 7, 2026, at 7:30 p.m. in the Music Building. This event offers a unique opportunity for attendees to experience innovative musical compositions created by talented students. Guests will enjoy live performances and gain insights into the creative process behind each piece. Whether you are a music enthusiast or simply curious about the art of composition, this event promises to be an engaging evening filled with creativity and inspiration. Don't miss the chance to support emerging composers and witness their work come to life.

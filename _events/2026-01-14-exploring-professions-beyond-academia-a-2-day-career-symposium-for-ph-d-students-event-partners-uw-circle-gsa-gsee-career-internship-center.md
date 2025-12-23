@@ -13,7 +13,7 @@ start_date: '2026-01-14T14:30:00-08:00'
 summarized: true
 title: 'Exploring Professions Beyond Academia: A 2-Day Career Symposium for Ph.D.
   Students (Event Partners: UW CIRCLE, GSA, GSEE, & Career & Internship Center)'
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

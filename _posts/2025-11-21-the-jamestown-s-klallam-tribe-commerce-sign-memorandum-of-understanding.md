@@ -65,7 +65,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/the-jamestown-sklallam-tribe-commerce-sign-memorandum-of-understanding/
 summarized: true
 title: The Jamestown S’Klallam Tribe, Commerce sign memorandum of understanding
-topics:
+topic_titles:
 - Health Care
 ---
 

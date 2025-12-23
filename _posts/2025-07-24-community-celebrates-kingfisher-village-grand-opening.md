@@ -11,7 +11,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/community-celebrates-kingfisher-village-grand-opening
 summarized: true
 title: Community Celebrates Kingfisher Village Grand Opening
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

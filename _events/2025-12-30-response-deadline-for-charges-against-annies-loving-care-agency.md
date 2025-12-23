@@ -9,7 +9,7 @@ source_url: https://doh.wa.gov/newsroom/department-health-issues-statement-charg
 start_date: '2025-12-30T00:00:00-08:00'
 summarized: true
 title: Response Deadline for Charges Against Annies Loving Care Agency
-topics:
+topic_titles:
 - Health Care
 ---
 

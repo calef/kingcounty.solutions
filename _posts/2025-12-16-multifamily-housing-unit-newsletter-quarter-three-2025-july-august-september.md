@@ -790,7 +790,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/multifamily-housing-unit-newsletter-quarter-three-2025-july-august-september/
 summarized: true
 title: 'Multifamily Housing Unit Newsletter: Quarter Three 2025 (July, August, September)'
-topics:
+topic_titles:
 - Shelter & Housing
 - Disabilities
 ---

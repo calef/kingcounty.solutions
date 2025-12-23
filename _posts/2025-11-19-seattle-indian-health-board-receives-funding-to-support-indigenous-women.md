@@ -12,7 +12,7 @@ source: Seattle Indian Health Board
 source_url: https://www.sihb.org/2025/11/seattle-indian-health-board-receives-funding-to-support-indigenous-women/
 summarized: true
 title: Seattle Indian Health Board Receives Funding to Support Indigenous Women
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Domestic Violence
 - Health Care

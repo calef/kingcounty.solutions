@@ -52,7 +52,7 @@ source_url: https://nami-eastside.org/honoring-our-2025-mental-health-champions-
 summarized: true
 title: 'Honoring Our 2025 Mental Health Champions: Senator Manka Dhingra and Congressman
   Adam Smith'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

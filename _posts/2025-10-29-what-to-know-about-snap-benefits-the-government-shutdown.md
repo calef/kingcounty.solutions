@@ -57,7 +57,7 @@ source: Hopelink
 source_url: https://www.hopelink.org/blog/what-to-know-about-snap-benefits-and-the-government-shutdown/
 summarized: true
 title: What to Know About SNAP Benefits & the Government Shutdown
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

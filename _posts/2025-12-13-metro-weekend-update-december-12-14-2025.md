@@ -13,7 +13,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/12/metro-weekend-update-december-12-14-2025/
 summarized: true
 title: Metro Weekend Update – December 12-14, 2025
-topics: []
+topic_titles: []
 ---
 
 Metro service will be affected this weekend, December 12-14, as several routes are rerouted and will not serve stops inside the Bellevue Transit Center. The impacted routes include 226, 250, 271, 981, ST 550, ST 566, and the RapidRide B Line. Passengers should plan accordingly and check for alternative stops or services. Additional details about the reroutes and any further changes to service can be found through Metro's official channels.

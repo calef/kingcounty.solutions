@@ -116,7 +116,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143690/lifetime-service-healing-overcoming-cancer/
 summarized: true
 title: 'A lifetime of service: Healing others and overcoming cancer'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

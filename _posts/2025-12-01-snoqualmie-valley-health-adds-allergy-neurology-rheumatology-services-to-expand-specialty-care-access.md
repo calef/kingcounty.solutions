@@ -62,7 +62,7 @@ source_url: https://snoqualmievalleyhealth.org/svh-adds-allergy-neurology-rheuma
 summarized: true
 title: Snoqualmie Valley Health Adds Allergy, Neurology & Rheumatology Services to
   Expand Specialty Care Access
-topics:
+topic_titles:
 - Health Care
 ---
 

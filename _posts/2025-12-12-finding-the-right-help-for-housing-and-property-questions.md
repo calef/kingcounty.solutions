@@ -41,7 +41,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/finding-right-help-housing-property-questions
 summarized: true
 title: Finding the right help for housing and property questions
-topics:
+topic_titles:
 - Shelter & Housing
 - Legal Aid
 ---

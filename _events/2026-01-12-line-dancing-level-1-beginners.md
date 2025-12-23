@@ -96,7 +96,7 @@ source_url: https://wscenter.org/event/line-dancing-level-1-beginners-2-2/2026-0
 start_date: '2026-01-12T11:00:00-08:00'
 summarized: true
 title: Line Dancing Level 1 Beginners
-topics: []
+topic_titles: []
 ---
 
 Join the Line Dancing Level 1 Beginners class on Monday, Jan. 12, 2026, from 11 a.m. to noon at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This class, led by experienced instructor Chris Banta, offers a fun way to stay fit while learning the basics of line dancing. Participants will enjoy dancing to a variety of music, including traditional country, ballroom, Latin, and waltz. Level 1 focuses on simple beginner dances, making it ideal for those new to line dancing or looking to refresh their skills. All students are welcome, and those interested in progressing can look forward to Level 2, where the dances become more complex. Don’t miss this opportunity to get moving and have fun!

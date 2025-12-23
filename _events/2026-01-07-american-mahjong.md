@@ -230,7 +230,7 @@ source_url: https://wscenter.org/event/american-mahjong/2026-01-07/
 start_date: '2026-01-07T12:30:00-08:00'
 summarized: true
 title: American Mahjong
-topics: []
+topic_titles: []
 ---
 
 Join fellow enthusiasts for American Mahjong at The Center for Active Living in Seattle on Jan. 7, 2026, starting at 12:30 p.m. This engaging event invites players of all skill levels to enjoy the classic tile game, fostering social connections and friendly competition. Participants can learn the rules, refine their strategies, and immerse themselves in a fun atmosphere. Whether you're a seasoned player or new to the game, this is a great opportunity to meet others in the community and share in the joy of Mahjong. Don't miss out on this chance to relax and engage in a beloved pastime.

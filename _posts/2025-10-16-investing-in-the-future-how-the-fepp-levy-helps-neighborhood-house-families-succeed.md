@@ -14,7 +14,7 @@ source_url: https://nhwa.org/2025/10/16/fepp-levy-prop1/
 summarized: true
 title: 'Investing in the Future: How the FEPP Levy Helps Neighborhood House Families
   Succeed '
-topics:
+topic_titles:
 - Education & Learning
 - Financial Assistance
 - Shelter & Housing

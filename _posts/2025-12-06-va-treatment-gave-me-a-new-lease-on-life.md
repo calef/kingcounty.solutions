@@ -137,7 +137,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143148/va-treatment-gave-me-a-new-lease-on-life/
 summarized: true
 title: "‘VA treatment gave me a new lease on life’"
-topics:
+topic_titles:
 - Health Care
 - Senior Services
 - Disabilities

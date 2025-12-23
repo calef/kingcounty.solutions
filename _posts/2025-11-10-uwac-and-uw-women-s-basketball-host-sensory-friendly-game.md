@@ -137,7 +137,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/10/uwac-and-uw-womens-basketball-host-sensory-friendly-game/
 summarized: true
 title: UWAC and UW Women’s Basketball Host Sensory Friendly Game
-topics:
+topic_titles:
 - Disabilities
 ---
 

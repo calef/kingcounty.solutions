@@ -12,7 +12,7 @@ source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/sue-thacker-is-the-mirrors-hometown-hero-for-september/?utm_source=rss&utm_medium=rss&utm_campaign=sue-thacker-is-the-mirrors-hometown-hero-for-september
 summarized: true
 title: Sue Thacker is the Mirror’s Hometown Hero for September
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

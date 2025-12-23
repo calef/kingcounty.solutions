@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/18/detectives-investigating-homicide-in-south-seattle-2/
 summarized: true
 title: Detectives Investigating Homicide in South Seattle
-topics: []
+topic_titles: []
 ---
 
 Seattle police are investigating a homicide that occurred on Nov. 18, 2025, around 10 p.m. in an apartment building on 33rd Avenue South. Officers found a man in his 60s with a fatal gunshot wound; he was pronounced dead despite medical aid. The suspect fled the scene, and police are currently working to gather evidence and speak to witnesses. The King County Medical Examiner will identify the victim and determine the cause of death. Authorities encourage anyone with information to contact the SPD Violent Crimes Tip Line.

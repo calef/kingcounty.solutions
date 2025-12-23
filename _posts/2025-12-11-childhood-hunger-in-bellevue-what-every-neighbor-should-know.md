@@ -98,7 +98,7 @@ source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/emergency-assistance/hunger-in-bellevue-what-every-neighbor-should-know/
 summarized: true
 title: 'Childhood Hunger in Bellevue: What Every Neighbor Should Know'
-topics:
+topic_titles:
 - Food & Nutrition
 - Education & Learning
 - Financial Assistance

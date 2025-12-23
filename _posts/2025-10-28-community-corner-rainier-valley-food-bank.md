@@ -14,7 +14,7 @@ source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/10/28/community-corner-rainier-valley-food-bank/
 summarized: true
 title: Community Corner—Rainier Valley Food Bank
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

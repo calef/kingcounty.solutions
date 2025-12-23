@@ -140,7 +140,7 @@ source_url: https://give.olivecrest.org/event/food-industry-gala-2026/e727904
 start_date: '2026-02-21T17:00:00-08:00'
 summarized: true
 title: Food Industry Gala
-topics: []
+topic_titles: []
 ---
 
 Join us for the Food Industry Gala on Feb. 21, 2026, at the Anaheim Hilton, located at 777 W. Convention Way, Anaheim, California. This exciting event will bring together food industry professionals for a night of networking, fine dining, and entertainment. Attendees can expect to enjoy gourmet dishes, inspiring speakers, and opportunities to connect with peers and leaders in the industry. The gala aims to raise funds for Olive Crest, supporting its mission to help at-risk children and families. Don’t miss this chance to celebrate the culinary arts while making a positive impact in the community.

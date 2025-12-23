@@ -12,7 +12,7 @@ source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/09/09/september-7-2025-the-rev-canon-britt-olson/
 summarized: true
 title: September 7, 2025 — The Rev Canon Britt Olson
-topics:
+topic_titles:
 - Domestic Violence
 - Education & Learning
 - Mental Health & Counseling

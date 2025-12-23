@@ -272,7 +272,7 @@ source_url: https://worksourceskc.org/event/online-strategies-for-success-person
 start_date: '2025-12-29T08:30:00-08:00'
 summarized: true
 title: 'ONLINE Strategies for Success: Personal Strength Builders (N. Seattle)'
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

@@ -37,7 +37,7 @@ source: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/11/i-penalized-myself-by-keeping-it-in/
 summarized: true
 title: "“I penalized myself by keeping it in.”"
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 - Shelter & Housing

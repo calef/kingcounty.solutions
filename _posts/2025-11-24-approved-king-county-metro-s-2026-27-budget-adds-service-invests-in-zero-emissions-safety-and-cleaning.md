@@ -13,7 +13,7 @@ source_url: https://kingcountymetro.blog/2025/11/24/approved-king-county-metros-
 summarized: true
 title: 'Approved: King County Metro’s 2026-27 budget adds service, invests in zero
   emissions, safety and cleaning'
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

@@ -33,7 +33,7 @@ source_url: https://www.uwkc.org/event/create-a-legacy-estate-planning-fundament
 start_date: '2026-01-22T12:00:00-08:00'
 summarized: true
 title: 'Create a Legacy: Estate Planning Fundamentals Webinar'
-topics: []
+topic_titles: []
 ---
 
 Join us for the "Create a Legacy: Estate Planning Fundamentals" webinar on Jan. 22, 2026, at noon PST. This free virtual event features James McBain, Senior VP at U.S. Bank Private Wealth Management, and Anna Cronin, Chief Philanthropy Officer at United Way of King County.

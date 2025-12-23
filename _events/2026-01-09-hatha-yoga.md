@@ -233,7 +233,7 @@ source_url: https://wscenter.org/event/hatha-yoga/2026-01-09/
 start_date: '2026-01-09T11:30:00-08:00'
 summarized: true
 title: Hatha Yoga
-topics: []
+topic_titles: []
 ---
 
 Join us for Hatha Yoga starting Jan. 9 at 11:30 a.m. at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. This class offers a balanced approach to yoga, focusing on breath control, mindfulness, and physical postures to enhance flexibility and strength. Whether you are a beginner or have experience, attendees can expect a welcoming environment to deepen their practice and promote relaxation. Bring your mat and get ready to rejuvenate your mind and body in a supportive community setting.

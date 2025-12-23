@@ -221,7 +221,7 @@ source_url: https://meanycenter.org/tickets/2026-03/production/andrew-bird-ted-p
 start_date: '2026-03-14T20:00:00-07:00'
 summarized: true
 title: Andrew Bird with Ted Poor
-topics: []
+topic_titles: []
 ---
 
 Andrew Bird, renowned for his unique blend of folk, rock, and classical music, will perform live with drummer Ted Poor on March 14, 2026, at Meany Hall. Attendees can expect an enchanting evening filled with Bird's signature whistling, intricate melodies, and captivating storytelling. The concert promises to showcase a mix of new material and beloved favorites, creating an unforgettable experience for fans of all ages. Don't miss the chance to see this talented duo in an intimate setting.

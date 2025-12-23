@@ -160,7 +160,7 @@ source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/22/artsci-roundup-january/
 summarized: true
 title: 'ArtSci Roundup: January'
-topics: []
+topic_titles: []
 ---
 
 The University of Washington invites the community to engage in various events, performances, and exhibitions as the year ends. Highlights include the "Frequencies" podcast from the Henry Art Gallery, offering sonic responses to exhibitions, and the book "Ancient Mediterranean Incarceration" by Mark Letteney and Matthew D.C. Larsen, which explores historical incarceration practices. Events scheduled for January include a free concert featuring UW School of Music students, a lecture on the educational challenges faced by migrant children in China, and an exhibition titled "Spirit House" at the Henry Art Gallery, showcasing contemporary Asian artists. Online lectures will address topics such as the impact of a second Trump administration and Pan-Africanism in technology. Other performances feature acclaimed musicians, including tenor Karim Sulayman and pianist Leif Ove Andsnes. The month concludes with a new translation of Chekhov's "The Seagull," highlighting the struggles of artists. The ArtSci Roundup, now a monthly publication, offers updates on events and activities at UW, encouraging participation both in-person and online. Community members can sign up for notifications to stay informed about the latest happenings.

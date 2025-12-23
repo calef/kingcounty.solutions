@@ -12,7 +12,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/essential-planning-for-solo-agers/?utm_source=rss&utm_medium=rss&utm_campaign=essential-planning-for-solo-agers
 summarized: true
 title: Essential Planning for Solo Agers
-topics:
+topic_titles:
 - Senior Services
 - Legal Aid
 - Financial Assistance

@@ -133,7 +133,7 @@ source: Homework Help
 source_url: https://blog.spl.org/2025/11/25/power-of-community-celebrating-50-years-of-douglass-truth/
 summarized: true
 title: 'Power of Community: Celebrating 50 Years of “Douglass-Truth”'
-topics: []
+topic_titles: []
 ---
 
 A celebration marking 50 years of the Douglass-Truth Branch Library will take place on Dec. 13, from noon to 5 p.m., inviting the Seattle community to honor its history. Originally opened in 1914 as the Henry L. Yesler Memorial Library, the branch was renamed in 1975 following a community vote to honor abolitionists Frederick Douglass and Sojourner Truth. This renaming reflected the branch’s commitment to serving the predominantly African American population of the Central District.

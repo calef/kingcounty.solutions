@@ -15,7 +15,7 @@ source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/11/20/garfield-sbhc-welcomes-phskc-and-wa-sbha/
 summarized: true
 title: Garfield SBHC Welcomes PHSKC and WA SBHA
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

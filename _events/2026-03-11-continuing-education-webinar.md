@@ -7620,7 +7620,7 @@ source_url: https://nosscr.org/event/continuing-education-webinar-8/
 start_date: '2026-03-11T15:00:00-04:00'
 summarized: true
 title: Continuing Education Webinar
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

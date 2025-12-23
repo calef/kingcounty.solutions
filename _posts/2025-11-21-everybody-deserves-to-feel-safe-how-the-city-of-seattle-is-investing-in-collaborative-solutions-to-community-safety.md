@@ -14,7 +14,7 @@ source_url: https://frontporch.seattle.gov/2025/11/21/everybody-deserves-to-feel
 summarized: true
 title: 'Everybody Deserves to Feel Safe: How the City of Seattle is Investing in Collaborative
   Solutions to Community Safety '
-topics:
+topic_titles:
 - Domestic Violence
 ---
 

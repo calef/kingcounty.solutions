@@ -14,7 +14,7 @@ source_url: https://wsdot.wa.gov/about/news/2025/draft-2026-29-statewide-transpo
 summarized: true
 title: Draft 2026-29 Statewide Transportation Improvement Program list of projects
   available for public comment
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

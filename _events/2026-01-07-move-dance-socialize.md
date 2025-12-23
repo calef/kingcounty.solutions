@@ -230,7 +230,7 @@ source_url: https://wscenter.org/event/move-dance-socialize/2026-01-07/
 start_date: '2026-01-07T09:00:00-08:00'
 summarized: true
 title: Move, Dance & Socialize
-topics:
+topic_titles:
 - Senior Services
 ---
 

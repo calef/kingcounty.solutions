@@ -176,7 +176,7 @@ source_url: https://www.dav.org/events-calendar/virtual-national-job-fair-march-
 start_date: '2026-03-17T00:00:00-07:00'
 summarized: true
 title: Virtual (National) Job Fair, March 17, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

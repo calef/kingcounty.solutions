@@ -16,7 +16,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/deep-in-the-woods-the-weyerhaeuser-kidnapping/
 summarized: true
 title: 'Deep in the Woods: The Weyerhaeuser Kidnapping'
-topics: []
+topic_titles: []
 ---
 
 In 1935, nine-year-old George Weyerhaeuser, heir to a wealthy family, is kidnapped just two blocks from his home. The abductors, consisting of a seasoned bank robber, a petty thief, and the thief's 19-year-old wife, confine the boy in various locations, including a pit, a tree, and a closet. Their actions trigger a massive manhunt, marking one of the largest in the history of the northwest. Author Bryan Johnston reveals the details of this dramatic case, which unfolds with unexpected twists and a surprising conclusion. The event is presented as a captivating thriller.

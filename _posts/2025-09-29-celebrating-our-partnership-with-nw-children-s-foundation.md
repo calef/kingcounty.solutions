@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/celebrating-our-partnership-with-nw-children-s-foundation
 summarized: true
 title: celebrating our partnership with nw children’s foundation
-topics:
+topic_titles:
 - Shelter & Housing
 - Education & Learning
 - Employment & Job Support

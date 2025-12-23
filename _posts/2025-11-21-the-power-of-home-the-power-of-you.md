@@ -19,7 +19,7 @@ source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/the-power-of-home-the-power-of-you/
 summarized: true
 title: The Power of Home. The Power of You.
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

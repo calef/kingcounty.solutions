@@ -12,7 +12,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/connection-and-healthy-aging/?utm_source=rss&utm_medium=rss&utm_campaign=connection-and-healthy-aging
 summarized: true
 title: Connection and healthy aging
-topics:
+topic_titles:
 - Senior Services
 - Mental Health & Counseling
 ---

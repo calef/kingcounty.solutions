@@ -7709,7 +7709,7 @@ source_url: https://nosscr.org/event/pac-washington-webinar/
 start_date: '2026-01-23T15:00:00-05:00'
 summarized: true
 title: PAC Washington Webinar
-topics: []
+topic_titles: []
 ---
 
 Join us for the PAC Washington Webinar on Jan. 23, 2026, at 3 p.m. EST. This informative session will provide attendees with valuable insights into current issues affecting the community, featuring expert speakers and interactive discussions. Participants will have the opportunity to ask questions, share perspectives, and engage with professionals in the field. Whether you're looking to enhance your knowledge or network with like-minded individuals, this webinar promises to be both educational and engaging. Don't miss out on this chance to stay informed and connected!

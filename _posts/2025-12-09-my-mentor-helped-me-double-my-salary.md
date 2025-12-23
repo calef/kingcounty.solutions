@@ -142,7 +142,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143786/my-mentor-helped-me-double-my-salary/
 summarized: true
 title: "“My mentor helped me double my salary”"
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

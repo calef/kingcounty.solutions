@@ -16,7 +16,7 @@ source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/30/share-
 summarized: true
 title: Share Your Expertise at the 2026 National School-Based Health Care Conference
   & ‘Be the Change’ Youth Training Program! 
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

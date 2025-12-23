@@ -53,7 +53,7 @@ source_url: https://normandyparkwa.gov/event/the-front-desk-window-closed-on-jan
 start_date: '2025-12-26T00:00:00-08:00'
 summarized: true
 title: The Front Desk will be Closed on December 26th
-topics: []
+topic_titles: []
 ---
 
 The Front Desk at City Hall will be closed on December 26, 2025. Residents are encouraged to plan accordingly, as no services will be available on this day. City Hall is located at 801 SW 174th Street in Normandy Park, Washington. For any urgent matters, please contact the city office at 206-248-7603.

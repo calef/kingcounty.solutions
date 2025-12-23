@@ -100,7 +100,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/celebrating-winter-holidays-through-food
 summarized: true
 title: Celebrating Winter Holidays through Food&nbsp;
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

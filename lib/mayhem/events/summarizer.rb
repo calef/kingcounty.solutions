@@ -123,9 +123,9 @@ module Mayhem
         end
 
         needs_summary = front_matter['summarized'] != true
-        needs_topics = needs_classification?(front_matter, 'topics')
+        needs_topic_titles = needs_classification?(front_matter, 'topic_titles')
         needs_location_titles = needs_classification?(front_matter, 'location_titles')
-        return unless needs_summary || needs_topics || needs_location_titles
+        return unless needs_summary || needs_topic_titles || needs_location_titles
 
         generated_from_post = front_matter['generated_from_post'] == true
         source_url = front_matter['source_url']
@@ -191,10 +191,10 @@ module Mayhem
 
         summary_text ||= ''
 
-        if needs_topics
-          classified_topics = @topic_classifier.classify(summary_text)
-          front_matter['topics'] = classified_topics
-          if classified_topics.empty?
+        if needs_topic_titles
+          classified_topic_titles = @topic_classifier.classify(summary_text)
+          front_matter['topic_titles'] = classified_topic_titles
+          if classified_topic_titles.empty?
             @logger.info "No topics matched for #{file_path}"
             stats[:missing_topics] += 1
           end
@@ -214,8 +214,8 @@ module Mayhem
           end
         end
 
-        # Set published to false if either topics or location titles are empty
-        should_unpublish = (needs_topics && Array(front_matter['topics']).empty?) ||
+        # Set published to false if either topic titles or location titles are empty
+        should_unpublish = (needs_topic_titles && Array(front_matter['topic_titles']).empty?) ||
                            (needs_location_titles && Array(front_matter['location_titles']).empty?)
 
         document.front_matter = front_matter
@@ -369,7 +369,7 @@ module Mayhem
         @logger.warn "Skipping #{file_path}: no usable content to summarize"
         stats[:failed_summary] += 1
 
-        front_matter['topics'] ||= []
+        front_matter['topic_titles'] ||= []
         front_matter['location_titles'] ||= []
         front_matter['published'] = false
         front_matter['summarized'] = true

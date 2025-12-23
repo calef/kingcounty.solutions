@@ -941,7 +941,7 @@ source_url: https://botanicgardens.uw.edu/education/adults/conferences-symposia/
 start_date: '2026-03-04T09:00:00-08:00'
 summarized: true
 title: 2026 Washington Botanical Symposium
-topics: []
+topic_titles: []
 ---
 
 Join us for the 2026 Washington Botanical Symposium on March 4, 2026, at the Northwest Horticultural Society Hall. This event will feature expert speakers, engaging workshops, and opportunities for networking among horticulture enthusiasts and professionals. Attendees can expect to learn about the latest trends in botanical science, ecological restoration, and urban forestry. Whether you're a seasoned gardener or a newcomer, the symposium offers valuable insights to enhance your knowledge and skills. Don't miss this chance to connect with like-minded individuals and deepen your appreciation for the natural world.

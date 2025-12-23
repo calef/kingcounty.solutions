@@ -57,7 +57,7 @@ source_url: https://bellevuewa.gov/city-news/city-offering-affordable-housing-fu
 summarized: true
 title: City offering $30 million in Affordable Housing Fund and Housing Stability
   Program funding
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

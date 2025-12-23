@@ -36,7 +36,7 @@ source: Eastside Legal Assistance Program
 source_url: https://elap.org/why-survivors-of-domestic-violence-need-the-legal-system/?utm_source=rss&utm_medium=rss&utm_campaign=why-survivors-of-domestic-violence-need-the-legal-system
 summarized: true
 title: Why survivors of domestic violence need the legal system
-topics:
+topic_titles:
 - Domestic Violence
 ---
 

@@ -23,7 +23,7 @@ source: Eastside Legal Assistance Program
 source_url: https://elap.org/welcome-bianca-and-deyanira/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-bianca-and-deyanira
 summarized: true
 title: Welcome Bianca and Deyanira
-topics:
+topic_titles:
 - Domestic Violence
 - Employment & Job Support
 ---

@@ -13,7 +13,7 @@ source: Neighborhood House
 source_url: https://nhwa.org/2025/10/03/wilcox-media-advisory/
 summarized: true
 title: "*MEDIA ADVISORY*  "
-topics:
+topic_titles:
 - Education & Learning
 ---
 

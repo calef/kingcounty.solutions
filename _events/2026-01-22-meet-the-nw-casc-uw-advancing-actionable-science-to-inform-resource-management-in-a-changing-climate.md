@@ -92,7 +92,7 @@ start_date: '2026-01-22T10:00:00-08:00'
 summarized: true
 title: 'Meet the NW CASC @ UW: Advancing Actionable Science to Inform Resource Management
   in a Changing Climate'
-topics: []
+topic_titles: []
 ---
 
 Join us on January 22, 2026, at the South Campus Center for "Meet the NW CASC @ UW," an event focused on advancing actionable science to inform resource management in a changing climate. Attendees can expect engaging discussions and presentations from experts in climate science and resource management, highlighting innovative strategies and tools. This event aims to foster collaboration among researchers, policymakers, and community members to address climate challenges. Don't miss this opportunity to learn about the latest developments and contribute to meaningful solutions for sustainable resource management.

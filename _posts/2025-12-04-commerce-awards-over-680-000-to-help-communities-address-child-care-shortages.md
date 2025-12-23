@@ -59,7 +59,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/commerce-awards-over-680000-to-help-communities-address-child-care-shortages/
 summarized: true
 title: Commerce awards over $680,000 to help communities address child care shortages
-topics:
+topic_titles:
 - Childcare
 ---
 

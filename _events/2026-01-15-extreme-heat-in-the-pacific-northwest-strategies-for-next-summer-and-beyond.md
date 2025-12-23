@@ -41,7 +41,7 @@ source_url: https://washington.zoom.us/webinar/register/7517597748194/WN_xeLRhb_
 start_date: '2026-01-15T11:00:00-08:00'
 summarized: true
 title: 'Extreme Heat in the Pacific Northwest: Strategies for Next Summer and Beyond'
-topics: []
+topic_titles: []
 ---
 
 Join us online for "Extreme Heat in the Pacific Northwest: Strategies for Next Summer and Beyond" on Jan. 15, 2026, at 11 a.m. PST. This informative session will focus on effective strategies to prepare for and adapt to the increasing temperatures in the region. Attendees can expect to learn about practical measures for individuals and communities, as well as resources available to help navigate extreme heat events. Engage with experts and fellow participants to share insights and develop actionable plans for the upcoming summer and future challenges. Don't miss this opportunity to be proactive in addressing climate-related issues in our area.

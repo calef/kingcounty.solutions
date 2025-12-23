@@ -78,7 +78,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143757/va-health-connect-pharmacy-benefits-disasters/
 summarized: true
 title: VA Health Connect helps Veterans with pharmacy benefits in disasters
-topics: []
+topic_titles: []
 ---
 
 The Department of Veterans Affairs (VA) offers a Disaster Pharmacy Benefit to help enrolled Veterans access necessary medications during natural disasters, such as floods, wildfires, or hurricanes. This benefit ensures that Veterans can continue their treatments without interruption when local pharmacies are closed or unreachable.

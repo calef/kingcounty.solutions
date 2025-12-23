@@ -660,7 +660,7 @@ source: Solid Ground
 source_url: https://www.solid-ground.org/building-skills-for-the-kitchen-and-beyond/
 summarized: true
 title: Building skills for the kitchen and beyond 
-topics:
+topic_titles:
 - Education & Learning
 - Food & Nutrition
 ---

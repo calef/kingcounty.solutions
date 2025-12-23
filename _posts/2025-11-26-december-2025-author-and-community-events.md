@@ -130,7 +130,7 @@ source: Homework Help
 source_url: https://blog.spl.org/2025/11/26/december-2025-author-and-community-events/
 summarized: true
 title: December 2025 Author and Community Events
-topics:
+topic_titles:
 - Education & Learning
 ---
 

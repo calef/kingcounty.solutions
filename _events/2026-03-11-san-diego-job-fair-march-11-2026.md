@@ -17,7 +17,7 @@ source_url: https://www.dav.org/events-calendar/san-diego-job-fair-march-11-2026
 start_date: '2026-03-11T00:00:00-07:00'
 summarized: true
 title: San Diego Job Fair, March 11, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

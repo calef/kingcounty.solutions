@@ -107,7 +107,7 @@ source_url: https://deohs.washington.edu/ug/transfer
 start_date: '2025-12-30T16:00:00-08:00'
 summarized: true
 title: Environmental Public Health Major Transfer Student Info Session
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -16,7 +16,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/12/december-damage-assessment/
 summarized: true
 title: ALERT King County Message – December Damage Assessment
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 - Transportation & Mobility

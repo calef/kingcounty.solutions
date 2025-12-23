@@ -21,7 +21,7 @@ source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/stop-the-bleed-course/
 summarized: true
 title: Stop the Bleed Course, Jan 29, 2026
-topics: []
+topic_titles: []
 ---
 
 Stop the Bleed training courses are offered by the American College of Surgeons to educate the public on how to save lives by stopping life-threatening bleeding. Participants will learn to recognize bleeding emergencies and how to respond quickly and effectively. This training aims to empower individuals to make a significant difference in emergencies. The course is free, but RSVPs are required to attend.

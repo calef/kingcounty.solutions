@@ -9,7 +9,7 @@ source_url: https://kingcountymetro.blog/2025/11/25/holiday-travel-metro-will-he
 start_date: '2025-12-25T00:00:00-08:00'
 summarized: true
 title: Christmas Day Transit Schedule
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

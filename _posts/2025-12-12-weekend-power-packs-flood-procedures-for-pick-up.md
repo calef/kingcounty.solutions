@@ -50,7 +50,7 @@ source: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/weekend-power-packs-flood-procedures-for-pick-up/
 summarized: true
 title: Weekend Power Packs – Flood Procedures for Pick Up
-topics:
+topic_titles:
 - Food & Nutrition
 - Education & Learning
 ---

@@ -65,7 +65,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143286/part-1-wwi-wounds-opioids-addiction-treatment/
 summarized: true
 title: 'The history of addiction treatment at VA: Part 1'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

@@ -25,7 +25,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/now-enrolling-dbt-skills-class-for-teens-starting-january-2026
 summarized: true
 title: 'now enrolling: dbt skills class for teens starting january 2026'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

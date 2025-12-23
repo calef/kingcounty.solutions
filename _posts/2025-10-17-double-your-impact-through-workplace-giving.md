@@ -69,7 +69,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/10/double-your-impact-through-workplace-giving/
 summarized: true
 title: Double Your Impact Through Workplace Giving!
-topics:
+topic_titles:
 - Education & Learning
 ---
 

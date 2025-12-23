@@ -179,7 +179,7 @@ source_url: https://nami-eastside.org/mitigating-crisis-around-the-holidays/
 summarized: true
 title: 'Mitigating Crisis Around the Holidays: A Guide for Adults with Bipolar Disorder,
   Burned Out Professionals, and Mental Health Caregivers | By: Michelle Solomon'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

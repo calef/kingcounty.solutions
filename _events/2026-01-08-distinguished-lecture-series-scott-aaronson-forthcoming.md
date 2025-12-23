@@ -24,7 +24,7 @@ source_url: https://www.cs.washington.edu/news-events/event-details/?id=3379
 start_date: '2026-01-08T15:30:00-08:00'
 summarized: true
 title: 'Distinguished Lecture Series: Scott Aaronson - Forthcoming'
-topics: []
+topic_titles: []
 ---
 
 Join us for the Distinguished Lecture Series featuring Scott Aaronson from the University of Texas at Austin on Jan. 8, 2026, at 3:30 p.m. The event will take place in the Amazon Auditorium at the Gates Center (CSE2), G20. Attendees can look forward to an engaging discussion on the capabilities and limits of quantum computers and computational complexity theory. As the director of the Quantum Information Center, Aaronson will share insights from his extensive research and experience, including his recent work on AI safety at OpenAI. Don’t miss this opportunity to explore cutting-edge topics in computer science and quantum information. The lecture will also be streamed live on the Allen School's YouTube channel.

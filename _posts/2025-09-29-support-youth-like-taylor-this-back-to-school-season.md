@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/support-youth-like-taylor-this-back-to-school-season
 summarized: true
 title: support youth like taylor this back-to-school season
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

@@ -51,7 +51,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143566/va-research-wrap-up-suicide-cbd-headaches/
 summarized: true
 title: 'VA Research Wrap Up: New findings on suicide prevention, CBD and headaches'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Health Care
 ---

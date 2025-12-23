@@ -12,7 +12,7 @@ source_url: https://artbeat.seattle.gov/2025/12/02/seattle-invests-nearly-1-3m-t
 summarized: true
 title: Seattle Invests Nearly $1.3M to Activate Public Spaces and Bring Communities
   Together Ahead of World Cup
-topics: []
+topic_titles: []
 ---
 
 Seattle is investing nearly $1.3 million to enhance public spaces and foster community engagement in anticipation of the upcoming World Cup. This initiative aims to create vibrant environments where residents and visitors can come together, enjoy cultural activities, and celebrate the tournament. Funds will be allocated to a variety of projects, including the activation of parks and public plazas, as well as support for community-led events.

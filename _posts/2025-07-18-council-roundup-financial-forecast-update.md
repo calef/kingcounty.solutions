@@ -75,7 +75,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-7-15-25
 summarized: true
 title: 'Council Roundup: Financial forecast update'
-topics: []
+topic_titles: []
 ---
 
 The Bellevue City Council recently reviewed a mid-biennium financial outlook, noting stable tax revenues but increased uncertainty due to inflation, reduced consumer confidence, and higher operating costs. Significant economic growth isn't anticipated until at least 2027, prompting a recommendation to maintain the current biennial budget while closely monitoring the economy.

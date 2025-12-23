@@ -114,7 +114,7 @@ class EventSummarizerTest < Minitest::Test
     )
   end
 
-  def test_run_updates_event_and_unlinks_posts_without_topics
+  def test_run_updates_event_and_unlinks_posts_without_topic_titles
     slug = 'event-one'
     write_event(slug, {
                   'title' => 'Test Event',
@@ -143,7 +143,7 @@ class EventSummarizerTest < Minitest::Test
 
     assert_equal 'Refined summary.', document.body.strip
     refute document.front_matter['published']
-    assert_empty Array(document.front_matter['topics'])
+    assert_empty Array(document.front_matter['topic_titles'])
     assert_empty Array(document.front_matter['location_titles'])
     post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'), logger: @logger)
 
@@ -283,20 +283,20 @@ class EventSummarizerTest < Minitest::Test
     refute document.front_matter['published']
   end
 
-  def test_run_skips_classification_when_topics_and_location_titles_explicitly_empty
+  def test_run_skips_classification_when_topic_titles_and_location_titles_explicitly_empty
     slug = 'event-already-classified'
     write_event(slug, {
                   'title' => 'Already Classified',
                   'start_date' => '2025-07-07',
                   'location' => 'Hall',
                   'summarized' => true,
-                  'topics' => [],
+                  'topic_titles' => [],
                   'location_titles' => []
                 }, 'Existing summary')
 
     topic_classifier = Object.new
     def topic_classifier.classify(*)
-      raise 'should not be invoked when topics already exist'
+      raise 'should not be invoked when topic_titles already exist'
     end
 
     location_classifier = Object.new

@@ -17,7 +17,7 @@ source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/04/use-water-wisely-this-fall/
 summarized: true
 title: Use Water Wisely This Fall
-topics: []
+topic_titles: []
 ---
 
 Seattle's water supply outlook has improved with recent rainfall replenishing mountain reservoirs, although levels remain below normal for this time of year. The drinking water in the Seattle area is sourced from the Cedar and Tolt River watersheds, which rely on seasonal rains and snowpack. Early fall rains primarily soak into dry soil, necessitating consistent rainfall to refill reservoirs.

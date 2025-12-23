@@ -18,7 +18,7 @@ source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/988-day-a-day-of-action-and-awareness/
 summarized: true
 title: '988 Day: A Day of Action and Awareness'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

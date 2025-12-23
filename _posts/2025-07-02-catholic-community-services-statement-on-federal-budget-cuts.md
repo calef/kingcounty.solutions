@@ -39,7 +39,7 @@ source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/catholic-community-services-statement-on-federal-budget-cuts/?utm_source=rss&utm_medium=rss&utm_campaign=catholic-community-services-statement-on-federal-budget-cuts
 summarized: true
 title: Catholic Community Services Statement on Federal Budget Cuts
-topics:
+topic_titles:
 - Food & Nutrition
 - Health Care
 - Financial Assistance

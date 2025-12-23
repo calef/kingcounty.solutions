@@ -26,7 +26,7 @@ source_url: https://positiveplace.org/tnfbringsbookstoballardclub/
 summarized: true
 title: Thursday Night Football’s TNF For Good Brings Books, Excitement, and Literacy
   Joy to Ballard Club Youth
-topics:
+topic_titles:
 - Education & Learning
 ---
 

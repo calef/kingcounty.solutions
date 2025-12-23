@@ -11,7 +11,7 @@ source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=21063060
 summarized: true
 title: It’s a Wonderful Burien
-topics:
+topic_titles:
 - Food & Nutrition
 - Employment & Job Support
 ---

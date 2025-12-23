@@ -26,7 +26,7 @@ source_url: https://music.washington.edu/events/2025-11-24/studio-jazz-ensemble-
 start_date: '2026-03-09T19:30:00-07:00'
 summarized: true
 title: Studio Jazz Ensemble, Modern Band
-topics: []
+topic_titles: []
 ---
 
 Experience an evening of captivating music at the Studio Jazz Ensemble and Modern Band performance on March 9, 2026, at Meany Hall. Attendees can look forward to a dynamic showcase featuring talented musicians performing a blend of jazz and contemporary music. This event promises to be an engaging experience for music lovers of all ages, highlighting the creativity and artistry of the performers. Don't miss the chance to enjoy a night filled with rhythm and melody in a vibrant atmosphere.

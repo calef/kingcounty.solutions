@@ -14,7 +14,7 @@ source: National Center for Biotechnology Information
 source_url: https://ncbiinsights.ncbi.nlm.nih.gov/2025/09/08/upcoming-change-my-bibliography/
 summarized: true
 title: Upcoming Change in My Bibliography
-topics: []
+topic_titles: []
 ---
 
 My Bibliography, a tool for tracking and managing publications, is undergoing significant changes. The National Center for Biotechnology Information will transition My Bibliography to a new platform, which will enhance its functionality and user experience. Users will be able to access improved features, including easier ways to manage citations, track publications, and connect to other resources.

@@ -210,7 +210,7 @@ source_url: https://www.familyworksseattle.org/event/family-resource-center-drop
 start_date: '2025-12-31T14:00:00-08:00'
 summarized: true
 title: Family Resource Center Drop-In Hours
-topics:
+topic_titles:
 - Childcare
 - Personal & Household Needs
 ---

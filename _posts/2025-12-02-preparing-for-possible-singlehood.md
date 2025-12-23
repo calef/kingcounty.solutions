@@ -10,7 +10,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/preparing-for-possible-singlehood/?utm_source=rss&utm_medium=rss&utm_campaign=preparing-for-possible-singlehood
 summarized: true
 title: Preparing for possible singlehood
-topics:
+topic_titles:
 - Financial Assistance
 - Personal & Household Needs
 - Education & Learning

@@ -140,7 +140,7 @@ source: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/iop-vs-outpatient-treatment-whats-the-difference/
 summarized: true
 title: 'IOP vs. Outpatient Treatment: What’s the Difference?'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

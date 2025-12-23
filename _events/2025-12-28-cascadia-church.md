@@ -22,7 +22,7 @@ source_url: https://federalwayseniorcenter.org/event/cascadia-church/2025-12-28/
 start_date: '2025-12-28T09:00:00-08:00'
 summarized: true
 title: Cascadia Church
-topics: []
+topic_titles: []
 ---
 
 Join the Cascadia Church community on December 28 from 9 a.m. to noon for a morning of fellowship and inspiration. Attendees can expect engaging worship, uplifting music, and a welcoming atmosphere for individuals and families alike. This event is a great opportunity to connect with others, explore spiritual growth, and participate in meaningful discussions. The event will take place at Cascadia Church, where all are invited to come as they are and experience a supportive community. Don't miss this chance to start the new year with purpose and connection.

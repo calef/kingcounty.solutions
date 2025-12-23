@@ -44,7 +44,7 @@ source: Samaritan Center of Puget Sound
 source_url: https://samaritanps.org/devotions-on-compassion/
 summarized: true
 title: Devotions on Compassion
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

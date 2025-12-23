@@ -34,7 +34,7 @@ source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/ccs-receives-food-assistance-from-ccusa/?utm_source=rss&utm_medium=rss&utm_campaign=ccs-receives-food-assistance-from-ccusa
 summarized: true
 title: CCS Receives Food Assistance from Catholic Charities USA
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

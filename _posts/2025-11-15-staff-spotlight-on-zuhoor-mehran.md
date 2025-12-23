@@ -14,7 +14,7 @@ source: Multi-Service Center
 source_url: https://mschelps.org/staff-spotlight-on-zuhoor-mehran/
 summarized: true
 title: Staff spotlight on Zuhoor Mehran
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 - Shelter & Housing

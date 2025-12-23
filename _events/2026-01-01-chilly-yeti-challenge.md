@@ -63,7 +63,7 @@ source_url: https://kidvantagenw.org/event/chilly-yeti-challenge/
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: Chilly Yeti Challenge
-topics:
+topic_titles:
 - Personal & Household Needs
 ---
 

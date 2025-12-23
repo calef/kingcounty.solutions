@@ -332,7 +332,7 @@ source: Hopelink
 source_url: https://www.hopelink.org/blog/historic-washington-flooding-how-you-can-help-those-impacted/
 summarized: true
 title: 'Historic Washington Flooding: How you can help those impacted'
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Shelter & Housing

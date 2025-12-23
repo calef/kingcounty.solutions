@@ -18,7 +18,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/paperwork-and-packing-tape-what-you-need-for-the-next-chapter/
 summarized: true
 title: 'Paperwork and Packing Tape: What You Need for the Next Chapter'
-topics:
+topic_titles:
 - Senior Services
 ---
 

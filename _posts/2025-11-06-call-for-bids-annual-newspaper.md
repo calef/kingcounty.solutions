@@ -75,7 +75,7 @@ source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/call-for-bids-annual-newspaper-2/
 summarized: true
 title: Call for Bids – Annual Newspaper
-topics: []
+topic_titles: []
 ---
 
 The City of Normandy Park is seeking bids for its annual newspaper publication. Interested parties must submit proposals that adhere to specific requirements outlined by the city. The deadline for bid submissions is April 14, 2023, at 4 p.m. Bids should be delivered to the city clerk's office and must include all necessary documentation as specified in the bid packet. The city aims to select a vendor that can effectively meet its publication needs while adhering to budgetary constraints. Detailed instructions and requirements for the bidding process are available in the bid packet, which interested vendors can obtain from the city. This initiative is part of the city's ongoing effort to ensure transparent communication with its residents through regular publications.

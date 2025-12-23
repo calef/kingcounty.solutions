@@ -14,7 +14,7 @@ source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-3-2025/
 summarized: true
 title: City Manager Report – October 3, 2025
-topics: []
+topic_titles: []
 ---
 
 The City of Normandy Park is updating its road design and construction standards and is seeking public opinion before making any decisions. The standards will impact roadways, sidewalks, street layouts, bike paths, and landscaping. A public hearing will be held on Oct. 14, 2025, where residents can attend in person or virtually to provide comments.

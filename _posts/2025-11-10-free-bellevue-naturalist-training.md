@@ -40,7 +40,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/naturalist-training-26
 summarized: true
 title: Free Bellevue Naturalist training
-topics: []
+topic_titles: []
 ---
 
 Applications are open for the free Bellevue Naturalist training program, aimed at cultivating a group of dedicated community volunteers focused on environmental stewardship and awareness. Participants will lead hikes, canoe trips, and forest restoration events while maintaining restoration sites. Ideal candidates should have a passion for the outdoors and a willingness to learn. Bellevue residents will be prioritized, but applications from other cities will be accepted if space permits.

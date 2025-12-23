@@ -580,7 +580,7 @@ source: 'Opal: Food + Body Wisdom'
 source_url: https://opalfoodandbody.com/the-appetite-140-parenting-teen-athletes/
 summarized: true
 title: 'The Appetite 140: Parenting the Competitive Athlete: A Mother-Daughter Conversation'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

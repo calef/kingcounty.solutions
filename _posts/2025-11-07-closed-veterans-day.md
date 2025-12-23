@@ -10,7 +10,7 @@ source: Husky Health Center
 source_url: https://wellbeing.uw.edu/closed-veterans-day/
 summarized: true
 title: Closed Veterans Day
-topics: []
+topic_titles: []
 ---
 
 Husky Health Center will be closed on Tuesday, Nov. 11, in observance of Veterans Day. Normal business hours will resume on Wednesday, Nov. 12.

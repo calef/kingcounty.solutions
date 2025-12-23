@@ -125,7 +125,7 @@ source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/brr-we-need-cold-weather-breakfast-food/
 summarized: true
 title: Brr! We need cold-weather breakfast food!
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

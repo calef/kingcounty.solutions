@@ -12,7 +12,7 @@ source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/latest-news-sewer-line-has-been-fixed/?utm_source=rss&utm_medium=rss&utm_campaign=latest-news-sewer-line-has-been-fixed
 summarized: true
 title: 'LATEST NEWS: Sewer line has been fixed'
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 ---

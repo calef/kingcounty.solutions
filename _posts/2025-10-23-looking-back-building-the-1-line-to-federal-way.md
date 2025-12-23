@@ -14,7 +14,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/looking-back-building-1-line-to-federal-way
 summarized: true
 title: 'Looking back: Building the 1 Line to Federal Way'
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

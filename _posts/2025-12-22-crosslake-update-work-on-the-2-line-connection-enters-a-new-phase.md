@@ -21,7 +21,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/crosslake-update-work-2-line-connection-enters-new-phase
 summarized: true
 title: 'Crosslake Update: Work on the 2 Line connection enters a new phase'
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

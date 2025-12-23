@@ -49,7 +49,7 @@ source: Department of Health
 source_url: https://doh.wa.gov/newsroom/department-health-issues-notice-intent-licenses-health-care-facilities
 summarized: true
 title: Department of Health issues notice of intent on licenses of health care facilities
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

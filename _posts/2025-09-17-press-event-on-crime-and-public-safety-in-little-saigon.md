@@ -11,7 +11,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/press-event-on-crime-and-public-safety-in-little-saigon
 summarized: true
 title: Press Event on Crime and Public Safety in Little Saigon
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 - Employment & Job Support

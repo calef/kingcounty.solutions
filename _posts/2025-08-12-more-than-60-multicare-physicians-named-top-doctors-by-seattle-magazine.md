@@ -91,7 +91,7 @@ source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/08/seattle-magazine-top-doctors-2025/
 summarized: true
 title: More than 60 MultiCare physicians named ‘Top Doctors’ by Seattle Magazine
-topics:
+topic_titles:
 - Health Care
 ---
 

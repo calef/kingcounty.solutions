@@ -25,7 +25,7 @@ source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/sunshine-garden-activity-schedule-november/?utm_source=rss&utm_medium=rss&utm_campaign=sunshine-garden-activity-schedule-november
 summarized: true
 title: Sunshine Garden Activity Schedule – November
-topics:
+topic_titles:
 - Food & Nutrition
 - Health Care
 - Education & Learning

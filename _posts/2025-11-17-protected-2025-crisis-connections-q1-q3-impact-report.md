@@ -15,7 +15,7 @@ source: Crisis Connections
 source_url: https://www.crisisconnections.org/2025-crisis-connections-impact-report/
 summarized: true
 title: 'Protected: 2025 Crisis Connections Q1-Q3 Impact Report'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Domestic Violence
 ---

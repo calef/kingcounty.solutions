@@ -37,7 +37,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143576/vre-new-case-management/
 summarized: true
 title: VR&E’s new case management system marks transformation
-topics:
+topic_titles:
 - Employment & Job Support
 - Disabilities
 ---

@@ -22,7 +22,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/winter-wonderland-acrylic-painting-workshop/
 summarized: true
 title: Winter Wonderland Acrylic Painting Workshop
-topics: []
+topic_titles: []
 ---
 
 Local artist Laura Brewer will conduct a winter wonderland acrylic painting workshop at the Shoreline-LFP Senior Activity Center. Participants will receive step-by-step guidance to create their own winter scene. The workshop is scheduled for Monday, Dec. 15, from 12 p.m. to 3 p.m. in the Craft Room. The cost to attend is $40 for members and $45 for nonmembers. Interested individuals should call the reception desk to register. The center is located at 18560 1st Ave. NE, Bldg. G, Shoreline, WA 98155, and operates Monday through Thursday from 8:30 a.m. to 4 p.m., and Friday from 8:30 a.m. to 1 p.m.

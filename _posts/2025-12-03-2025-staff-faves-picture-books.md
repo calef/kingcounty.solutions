@@ -34,7 +34,7 @@ source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/03/2025-staff-favorites-picture-books/
 summarized: true
 title: '2025 Staff Faves: Picture Books'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

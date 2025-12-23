@@ -18,7 +18,7 @@ source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/12/15/give-your-christmas-tree-a-second-life-compost-it-for-free-this-january/
 summarized: true
 title: 'Give Your Christmas Tree a Second Life: Compost It for Free This January'
-topics: []
+topic_titles: []
 ---
 
 Seattle Public Utilities is offering free composting for Christmas trees and other holiday greens through January 31. This program allows residents to dispose of their trees sustainably instead of sending them to a landfill. Participants can simply place their trees and greens at the curb on their regular collection day. The trees will be turned into compost, which can benefit the environment and support local gardening efforts. Residents are encouraged to remove all ornaments, tinsel, and lights from their trees before placing them out for collection. This initiative aims to promote eco-friendly practices during the post-holiday season.

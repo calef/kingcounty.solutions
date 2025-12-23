@@ -17,7 +17,7 @@ source_url: https://news.seattle.gov/2025/12/01/seattle-office-of-labor-standard
 summarized: true
 title: Seattle Office of Labor Standards Reaches Settlement with Online Platform Handy
   Technologies for Alleged Violations of Domestic Workers Ordinance
-topics:
+topic_titles:
 - Domestic Violence
 - Employment & Job Support
 ---

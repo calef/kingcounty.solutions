@@ -12,7 +12,7 @@ source: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-housing-types-one-size-does-not-fit-all/
 summarized: true
 title: 'Housing Types: One Size Does Not Fit All'
-topics:
+topic_titles:
 - Shelter & Housing
 - Mental Health & Counseling
 - Financial Assistance

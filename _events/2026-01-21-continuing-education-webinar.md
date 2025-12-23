@@ -7708,7 +7708,7 @@ source_url: https://nosscr.org/event/continuing-education-webinar-5/
 start_date: '2026-01-21T15:00:00-05:00'
 summarized: true
 title: Continuing Education Webinar
-topics: []
+topic_titles: []
 ---
 
 Join us for a continuing education webinar on Jan. 21, 2026, at 3 p.m. EST. This informative session is designed for professionals seeking to enhance their skills and knowledge in their respective fields. Attendees can expect engaging presentations from industry experts, interactive discussions, and valuable networking opportunities. Whether you are looking to stay updated on the latest trends or seeking practical advice to apply in your career, this webinar will provide essential insights. Don't miss the chance to expand your professional horizons from the comfort of your own home.

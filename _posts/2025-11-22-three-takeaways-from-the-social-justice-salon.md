@@ -101,7 +101,7 @@ source: Solid Ground
 source_url: https://www.solid-ground.org/three-takeaways-from-the-social-justice-salon/
 summarized: true
 title: Three takeaways from the Social Justice Salon 
-topics:
+topic_titles:
 - Food & Nutrition
 - Health Care
 - Shelter & Housing

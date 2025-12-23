@@ -59,7 +59,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143215/veterans-triumph-over-breast-cancer/
 summarized: true
 title: Veterans Triumph Over Breast Cancer
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

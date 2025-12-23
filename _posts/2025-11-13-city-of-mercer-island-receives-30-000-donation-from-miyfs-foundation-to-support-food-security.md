@@ -16,7 +16,7 @@ source_url: https://www.mercerisland.gov/yfs/page/city-mercer-island-receives-30
 summarized: true
 title: City of Mercer Island Receives $30,000 Donation from MIYFS Foundation to Support
   Food Security
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

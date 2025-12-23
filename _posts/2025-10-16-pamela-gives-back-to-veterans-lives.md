@@ -86,7 +86,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/pamela-gives-back-to-veterans-lives/
 summarized: true
 title: Pamela Gives Back to Veterans’ Lives
-topics:
+topic_titles:
 - Financial Assistance
 - Employment & Job Support
 - Mental Health & Counseling

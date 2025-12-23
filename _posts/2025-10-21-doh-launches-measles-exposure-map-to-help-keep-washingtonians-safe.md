@@ -65,7 +65,7 @@ source: Department of Health
 source_url: https://doh.wa.gov/newsroom/doh-launches-measles-exposure-map-help-keep-washingtonians-safe
 summarized: true
 title: DOH Launches Measles Exposure Map to Help Keep Washingtonians Safe
-topics:
+topic_titles:
 - Health Care
 ---
 

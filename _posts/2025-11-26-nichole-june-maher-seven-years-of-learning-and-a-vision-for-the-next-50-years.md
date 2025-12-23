@@ -145,7 +145,7 @@ source: Inatai Foundation
 source_url: https://inatai.org/news/seven-years-of-learning-and-a-vision-for-the-next-50-years/
 summarized: true
 title: 'Nichole June Maher: Seven Years of Learning and a Vision for the Next 50 Years'
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Education & Learning

@@ -12,7 +12,7 @@ source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/new-appointment-and-ticketing-system-at-our-food-bank/
 summarized: true
 title: New Appointment and Ticketing System at Our Food Bank
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

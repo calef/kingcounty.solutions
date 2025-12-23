@@ -35,7 +35,7 @@ source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/10/post-hearing-schedule-4634-95th-ave-ne-zhuang-variance-2025-01/
 summarized: true
 title: 'Post Hearing Schedule: 4634 95th Ave NE. Zhuang VARIANCE-2025-01'
-topics: []
+topic_titles: []
 ---
 
 The public record for a virtual hearing is open through Oct. 9, allowing for comments from those who could not join due to technical or access issues. If no post-hearing comments are received, the record closes Oct. 9, with a decision expected by Oct. 23. If post-hearing comments are submitted, the staff and applicant are required to submit written responses by close of business on Oct. 13. The record then closes on Oct. 13, and the decision is expected by Oct. 27. All comments and responses will be forwarded to the hearing examiner via Mr. Wilcox.

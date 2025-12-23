@@ -26,7 +26,7 @@ source_url: https://www.friendsofyouth.org/post/give-a-young-person-their-next-g
 summarized: true
 title: give a young person their next good memory. it’s not too late to give an end-of-year
   gift that makes a real difference!
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 - Disabilities

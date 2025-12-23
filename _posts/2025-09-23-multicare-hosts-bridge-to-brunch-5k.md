@@ -16,7 +16,7 @@ source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/09/multicare-hosts-bridge-to-brunch-5k-2025/
 summarized: true
 title: MultiCare hosts Bridge to Brunch 5K
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 ---

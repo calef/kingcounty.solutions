@@ -92,7 +92,7 @@ source_url: https://www.elcentrodelaraza.org/event/cafe-con-el-centro-de-la-raza
 start_date: '2026-01-01T08:30:00-08:00'
 summarized: true
 title: Café con El Centro de la Raza Tour
-topics: []
+topic_titles: []
 ---
 
 Join us for the Café con El Centro de la Raza Tour on Jan. 1, 2026, from 8:30 to 9:30 a.m. at El Centro de la Raza, located at 2524 16th Ave. S, Seattle, WA. This monthly event invites community members to explore our historic Beacon Hill building while enjoying coffee and snacks. Attendees will learn about the rich history of El Centro de la Raza and the impactful work of our programs. This is also a great opportunity to gather information about volunteering and how to contribute to building our “Beloved Community.” Don’t miss this chance to connect, engage, and discover ways to get involved!

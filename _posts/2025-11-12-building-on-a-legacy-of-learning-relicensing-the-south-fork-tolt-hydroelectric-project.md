@@ -12,7 +12,7 @@ source_url: https://powerlines.seattle.gov/2025/11/12/building-on-a-legacy-of-le
 summarized: true
 title: Building on a Legacy of Learning: Relicensing the South Fork Tolt Hydroelectric
   Project  
-topics: []
+topic_titles: []
 ---
 
 The South Fork Tolt Hydroelectric Project, located in the Cascade foothills, is undergoing a license renewal with the Federal Energy Regulatory Commission (FERC). This lengthy process is crucial for maintaining the project’s operation and ensuring its contributions to energy generation and environmental stewardship continue into the future.

@@ -136,7 +136,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144049/veteran-and-wounded-dog-found-healing-together/
 summarized: true
 title: Veteran and wounded dog found healing together
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Disabilities
 - Senior Services

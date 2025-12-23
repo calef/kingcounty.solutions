@@ -13,7 +13,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27171
 summarized: true
 title: Civil Service Commission Meeting
-topics: []
+topic_titles: []
 ---
 
 The City of Black Diamond will host a community event on February 5, 2026, at 11:00 a.m. The event aims to bring residents together for a day of fun and engagement. Details about the activities and specific location will be announced closer to the date. Residents are encouraged to participate and enjoy the offerings designed to strengthen community bonds. This event reflects the city's commitment to fostering a vibrant and connected community.

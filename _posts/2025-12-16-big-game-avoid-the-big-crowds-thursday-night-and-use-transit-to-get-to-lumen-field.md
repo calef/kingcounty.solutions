@@ -19,7 +19,7 @@ source_url: https://kingcountymetro.blog/2025/12/16/big-game-avoid-the-big-crowd
 summarized: true
 title: Big Game! Avoid the big crowds Thursday night and use transit to get to Lumen
   Field
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

@@ -74,7 +74,7 @@ source_url: https://www.northwestharvest.org/news-insights/new-snap-work-require
 summarized: true
 title: 'New SNAP Work Requirements Start December 1: What They Mean for Washington
   Families'
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

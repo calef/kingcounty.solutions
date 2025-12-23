@@ -11,7 +11,7 @@ source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/july-spotlight-summer-nutrition-for-seniors-and-a-big-thank-you-to-our-local-food-banks
 summarized: true
 title: Summer Nutrition for Older Adults — and a Big Thank You to Our Local Food Banks
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

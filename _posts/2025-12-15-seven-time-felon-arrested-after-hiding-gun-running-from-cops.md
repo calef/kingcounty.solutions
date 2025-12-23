@@ -18,7 +18,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/15/seven-time-felon-arrested-after-hiding-gun-running-from-cops/
 summarized: true
 title: Seven-Time Felon Arrested After Hiding Gun, Running from Cops
-topics: []
+topic_titles: []
 ---
 
 Seattle police arrested a 27-year-old man with a long criminal record after he fled from officers in Pioneer Square early Sunday morning. At approximately 1:50 a.m. on December 14, officers responded to reports of a physical altercation near 2nd Avenue South. During the incident, the suspect attempted to escape on foot. Officers chased him and noticed him trying to hide a handgun in a bush.

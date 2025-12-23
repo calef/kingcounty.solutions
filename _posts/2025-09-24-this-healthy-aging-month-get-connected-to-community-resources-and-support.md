@@ -14,7 +14,7 @@ source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/24/this-healthy-aging-month-get-connected-to-community-resources-and-support/
 summarized: true
 title: This Healthy Aging Month, get connected to community resources and support
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 - Mental Health & Counseling

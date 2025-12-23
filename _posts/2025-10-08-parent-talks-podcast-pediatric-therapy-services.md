@@ -35,7 +35,7 @@ source: Encompass
 source_url: https://encompassnw.org/parent-talks-podcast-pediatric-therapy-services/
 summarized: true
 title: 'Parent Talks Podcast: Pediatric Therapy Services'
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 - Mental Health & Counseling

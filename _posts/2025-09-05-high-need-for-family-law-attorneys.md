@@ -21,7 +21,7 @@ source: Eastside Legal Assistance Program
 source_url: https://elap.org/high-need-for-family-law-attorneys/?utm_source=rss&utm_medium=rss&utm_campaign=high-need-for-family-law-attorneys
 summarized: true
 title: High need for family law attorneys
-topics:
+topic_titles:
 - Domestic Violence
 - Financial Assistance
 ---

@@ -12,7 +12,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/purpose-joy-and-transformation/?utm_source=rss&utm_medium=rss&utm_campaign=purpose-joy-and-transformation
 summarized: true
 title: Purpose, Joy, and Transformation
-topics:
+topic_titles:
 - Senior Services
 - Mental Health & Counseling
 ---

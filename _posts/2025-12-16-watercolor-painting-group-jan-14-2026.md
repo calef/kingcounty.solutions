@@ -21,7 +21,7 @@ source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/watercolor-painting-group-jan-4-2026/
 summarized: true
 title: Watercolor Painting Group, Jan. 14, 2026
-topics: []
+topic_titles: []
 ---
 
 Join Barbara for watercolor painting sessions every second and fourth Wednesday. These gatherings welcome artists of all levels, and no prior experience is necessary. Participants can share ideas and create beautiful artwork together in a fun and relaxed setting. All supplies are provided, but individuals are encouraged to bring their own materials if they wish. RSVPs are appreciated to help organize the sessions.

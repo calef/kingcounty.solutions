@@ -256,7 +256,7 @@ source_url: https://worksourceskc.org/event/in-person-workfirst-job-search-orien
 start_date: '2025-12-24T11:00:00-08:00'
 summarized: true
 title: "*(In-Person)* WorkFirst Job Search Orientation (Requires DSHS Referral)"
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

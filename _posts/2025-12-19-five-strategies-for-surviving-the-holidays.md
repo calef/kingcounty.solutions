@@ -135,7 +135,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144034/five-strategies-for-surviving-the-holidays/
 summarized: true
 title: Five strategies for surviving the holidays
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Disabilities
 ---

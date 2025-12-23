@@ -235,7 +235,7 @@ source_url: https://evans.uw.edu/
 start_date: '2026-01-14T14:30:00-08:00'
 summarized: true
 title: 'Information Session:  Public Service and Policy Major, Public Policy Minor'
-topics: []
+topic_titles: []
 ---
 
 Join us for an informative session on the Public Service and Policy major and Public Policy minor on Jan. 14, 2026, at 2:30 p.m. PST via Zoom. This event is designed for prospective students interested in exploring how these programs can empower them to innovate and address inequities within our democratic systems. Attendees will have the opportunity to learn about the curriculum, faculty expertise, and the mission of the Evans School in promoting public service. Engage with faculty and current students to gain insights into the academic journey and career paths in public policy. Don’t miss this chance to discover how you can contribute to the vital work of public service.

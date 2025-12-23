@@ -15,7 +15,7 @@ source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/snap-benefits-potentially-impacted-by-federal-government-shutdown/
 summarized: true
 title: SNAP Benefits Potentially Impacted by Federal Government Shutdown
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

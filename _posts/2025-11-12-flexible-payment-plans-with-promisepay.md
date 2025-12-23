@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/12/flexible-payment-plans-with-promisepay/
 summarized: true
 title: Flexible Payment Plans with PromisePay 
-topics:
+topic_titles:
 - Financial Assistance
 ---
 

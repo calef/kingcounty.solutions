@@ -103,7 +103,7 @@ source: Department of Health
 source_url: https://doh.wa.gov/newsroom/severe-storms-and-cold-windy-weather-threaten-health-across-washington
 summarized: true
 title: Severe storms and cold, windy weather threaten health across Washington
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Senior Services

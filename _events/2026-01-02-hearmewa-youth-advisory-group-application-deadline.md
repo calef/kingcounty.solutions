@@ -10,7 +10,7 @@ source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/09/2026-h
 start_date: '2026-01-02T00:00:00-08:00'
 summarized: true
 title: HearMeWA Youth Advisory Group Application Deadline
-topics: []
+topic_titles: []
 ---
 
 Young people aged 10-25 in Washington are invited to apply for the HearMeWA Youth Advisory Group. This group offers a unique opportunity for youth to engage in meaningful discussions, provide input on issues affecting their communities, and help shape programs that impact their peers.

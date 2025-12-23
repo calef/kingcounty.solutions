@@ -216,7 +216,7 @@ source_url: https://www.familyworksseattle.org/event/spanish-playgroup-kaleidosc
 start_date: '2025-12-30T10:00:00-08:00'
 summarized: true
 title: Spanish Playgroup (Kaleidoscope Play & Learn Group)
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 ---

@@ -233,7 +233,7 @@ source_url: https://wscenter.org/event/journaling-for-mindfulness/2025-12-24/
 start_date: '2025-12-24T11:00:00-08:00'
 summarized: true
 title: Mindfulness with Journaling
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Senior Services
 ---

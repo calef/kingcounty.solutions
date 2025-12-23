@@ -18,7 +18,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/19/level-1-get-ready-east-bank-white-river-area-near-roegner-park/
 summarized: true
 title: City of Auburn – Level 1 – East Bank White River Area Near Roegner Park
-topics: []
+topic_titles: []
 ---
 
 A Level 1 (GET READY) evacuation notice has been issued for areas along the east and south banks of the White River near Roegner Park. The City of Auburn is warning residents that the river could rise to about 10,000 cubic feet per second (cfs). City officials are taking precautionary measures, including the use of HESCO barriers and sandbags, to protect the area. Residents in the affected regions are advised to prepare for possible evacuation and to stay informed about the situation as it develops.

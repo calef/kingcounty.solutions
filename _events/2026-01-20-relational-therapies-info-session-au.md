@@ -103,7 +103,7 @@ source_url: https://www.antioch.edu/event/relational-therapies-info-session-au-1
 start_date: '2026-01-20T16:00:00-08:00'
 summarized: true
 title: Relational Therapies Info Session | AU
-topics:
+topic_titles:
 - Education & Learning
 ---
 

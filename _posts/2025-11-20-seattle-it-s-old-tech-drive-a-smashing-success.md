@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://techtalk.seattle.gov/2025/11/20/seattle-its-old-tech-drive-a-smashing-success/
 summarized: true
 title: 'Seattle IT’s “Old Tech” Drive: A Smashing Success'
-topics: []
+topic_titles: []
 ---
 
 Seattle IT’s Old Tech Drive, held on Oct. 7 and 8 in partnership with PCs for People, successfully encouraged city employees to donate their unwanted electronics. This initiative not only facilitated responsible disposal but also aimed to bridge the digital divide by providing technology to those in need. Over the two days, participants donated a variety of devices, including 44 laptops, 36 tablets, 60 phones, four desktops, and five monitors. These items will be either refurbished for community use or recycled responsibly.

@@ -230,7 +230,7 @@ source_url: https://wscenter.org/event/party-bridge/2026-01-07/
 start_date: '2026-01-07T10:00:00-08:00'
 summarized: true
 title: Party Bridge
-topics: []
+topic_titles: []
 ---
 
 Join fellow card enthusiasts for Party Bridge at The Center for Active Living in Seattle on Jan. 7, starting at 10 a.m. This social event invites players of all skill levels to enjoy a friendly game of bridge in a welcoming atmosphere. Participants can expect to engage in lively games, make new friends, and enhance their skills. The event takes place at 4217 SW Oregon St., providing a perfect venue for an enjoyable morning of cards and camaraderie. Don’t miss this opportunity to connect with others and have fun!

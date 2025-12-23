@@ -14,7 +14,7 @@ source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/01/what-to-know-before-taking-transit-to-events-on-july-4/
 summarized: true
 title: What to know before taking transit to events on July 4!
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

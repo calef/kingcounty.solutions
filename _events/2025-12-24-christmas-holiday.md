@@ -61,7 +61,7 @@ source_url: https://anewcareer.org/event/christmas-holiday/
 start_date: '2025-12-24T08:00:00-08:00'
 summarized: true
 title: Christmas Holiday
-topics: []
+topic_titles: []
 ---
 
 Join us for the Christmas Holiday celebration at ANEW, located at 18338 Andover Park West in Tukwila. The event kicks off on Dec. 24 at 8 a.m. and runs through Dec. 26 at 5 p.m. Attendees can expect a festive atmosphere filled with holiday cheer, activities, and opportunities to connect with the community. Please note that the office will be closed during this time, allowing everyone to enjoy the holiday spirit. Come and celebrate with us!

@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/04/get-to-know-seattle-mayor-elect-katie-wilson/
 summarized: true
 title: Get to know Seattle Mayor-elect Katie Wilson
-topics:
+topic_titles:
 - Shelter & Housing
 - Mental Health & Counseling
 ---

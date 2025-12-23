@@ -49,7 +49,7 @@ source_url: https://www.rewa.org/snap-cuts/?utm_source=rss&utm_medium=rss&utm_ca
 summarized: true
 title: How SNAP Cuts Will Harm Refugee and Immigrant Communities Across Washington
   State
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

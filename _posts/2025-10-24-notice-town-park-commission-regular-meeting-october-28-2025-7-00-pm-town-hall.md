@@ -46,7 +46,7 @@ source_url: https://yarrowpointwa.gov/2025/10/notice-town-park-commission-regula
 summarized: true
 title: 'NOTICE: Town Park Commission Regular Meeting October 28, 2025: 7:00 PM/ Town
   Hall'
-topics: []
+topic_titles: []
 ---
 
 The Town Park Commission of Yarrow Point will convene a regular meeting on Tuesday, Oct. 28, 2025, at 7 p.m. at Town Hall. The agenda includes the 2026 Park Commission budget discussion, Sally’s Alley watering and signage for e-bikes, a plant donation from a resident, and maintenance matters. The meeting will be hybrid, with both in-person and virtual participation options. Individuals wishing to speak should register their request with the deputy clerk by 2 p.m. on the day of the meeting. Comments can be submitted via email or regular mail.

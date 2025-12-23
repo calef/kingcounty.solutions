@@ -107,7 +107,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143352/how-veterans-find-relief-life-heavy-heavier/
 summarized: true
 title: How Veterans can find relief when life gets heavy, or just heavier
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Senior Services
 ---

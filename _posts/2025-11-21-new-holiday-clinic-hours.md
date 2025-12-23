@@ -30,7 +30,7 @@ source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/adjustedholidayhours
 summarized: true
 title: NEW Holiday Clinic Hours
-topics:
+topic_titles:
 - Health Care
 ---
 

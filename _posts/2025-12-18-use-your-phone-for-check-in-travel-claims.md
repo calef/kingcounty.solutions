@@ -429,7 +429,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144021/use-your-phone-for-check-in-travel-claims/
 summarized: true
 title: Use your phone for check-in, travel claims
-topics:
+topic_titles:
 - Health Care
 - Transportation & Mobility
 ---

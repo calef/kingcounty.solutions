@@ -613,7 +613,7 @@ source: 'Opal: Food + Body Wisdom'
 source_url: https://opalfoodandbody.com/the-appetite-138-relationships/
 summarized: true
 title: 'The Appetite 138: The Role of Relationships in Eating Disorders'
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 ---

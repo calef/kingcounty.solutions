@@ -171,7 +171,7 @@ source_url: https://togethercenter.org/event/worksource/2025-12-29/
 start_date: '2025-12-29T13:00:00-08:00'
 summarized: true
 title: WorkSource
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

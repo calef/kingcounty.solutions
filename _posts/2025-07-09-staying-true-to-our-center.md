@@ -13,7 +13,7 @@ source: Multi-Service Center
 source_url: https://mschelps.org/staying-true-to-our-center/
 summarized: true
 title: Staying true to our center
-topics:
+topic_titles:
 - Food & Nutrition
 - Employment & Job Support
 - Shelter & Housing

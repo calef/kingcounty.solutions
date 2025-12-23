@@ -97,7 +97,7 @@ source: Department of Health
 source_url: https://doh.wa.gov/newsroom/state-disciplines-health-care-providers-44
 summarized: true
 title: State disciplines health care providers
-topics:
+topic_titles:
 - Health Care
 ---
 

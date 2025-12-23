@@ -39,7 +39,7 @@ source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/stay-steady-stay-independent/
 summarized: true
 title: Stay Steady, Stay Independent
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

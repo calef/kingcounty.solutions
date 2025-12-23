@@ -23,7 +23,7 @@ source: Wellspring Family Services
 source_url: https://wellspringfs.org/backpacks-basics-belonging-a-season-of-strong-starts/
 summarized: true
 title: 'Backpacks, Basics & Belonging: A Season of Strong Starts'
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 - Food & Nutrition

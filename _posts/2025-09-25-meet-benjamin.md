@@ -26,7 +26,7 @@ source: The National Children's Cancer Society - Financial Assistance
 source_url: https://thenccs.org/meet-benjamin/
 summarized: true
 title: Meet Benjamin!
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

@@ -26,7 +26,7 @@ source_url: https://cisc-seattle.org/join-us-for-the-2025-cisc-groove-for-good-d
 summarized: true
 title: Join us for the 2025 CISC Groove for Good Dance Party on Saturday, December
   6th, from 1:30 PM to 5:30 PM at Bellevue College, Building U Ballroom!
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -182,7 +182,7 @@ start_date: '2026-01-07T15:30:00-08:00'
 summarized: true
 title: 'Laboratory Medicine Grand Rounds: Benjamin Bradley, MD, PhD - Expanding the
   Role of Reference Laboratories as Public Health Partners'
-topics: []
+topic_titles: []
 ---
 
 Join the Laboratory Medicine Grand Rounds featuring Benjamin Bradley, MD, PhD, on Jan. 7, 2026, at 3:30 p.m. at the Magnuson Health Sciences Center D. This session will explore the expanding role of reference laboratories as partners in public health. Attendees can expect to gain insights into current trends and developments in laboratory testing for disease diagnosis, prognosis, and monitoring. The event is free and open to all, offering an opportunity for continuing medical education credits. Participants will learn how ongoing research may influence future practices in laboratory testing. Don't miss this chance to engage with leading experts and enhance your understanding of laboratory medicine's impact on public health.

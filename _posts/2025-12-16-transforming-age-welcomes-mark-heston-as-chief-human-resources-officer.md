@@ -103,7 +103,7 @@ source: Transforming Age
 source_url: https://transformingage.org/blog/transforming-age-welcomes-mark-heston-as-chief-human-resources-officer/
 summarized: true
 title: Transforming Age Welcomes Mark Heston as Chief Human Resources Officer
-topics:
+topic_titles:
 - Senior Services
 ---
 

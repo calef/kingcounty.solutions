@@ -198,7 +198,7 @@ source_url: https://www.elcentrodelaraza.org/event/herramientas-digitales-digita
 start_date: '2025-12-23T17:30:00-08:00'
 summarized: true
 title: Herramientas Digitales/ Digital Skills for Life
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

@@ -44,7 +44,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/international-festival-25
 summarized: true
 title: Bellevue International Festival celebrates culture and community
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 - Transportation & Mobility

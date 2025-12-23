@@ -10,7 +10,7 @@ source_url: https://wallingfordseniors.org/december-2025-lunch-menu/
 start_date: '2025-12-23T00:00:00-08:00'
 summarized: true
 title: Holiday Lights Outing
-topics:
+topic_titles:
 - Senior Services
 ---
 

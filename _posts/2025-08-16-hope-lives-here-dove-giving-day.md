@@ -11,7 +11,7 @@ source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/hope-live-here-dove-giving-day
 summarized: true
 title: Hope Lives Here - DOVE Giving Day
-topics:
+topic_titles:
 - Domestic Violence
 - Mental Health & Counseling
 ---

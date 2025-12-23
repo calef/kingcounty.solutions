@@ -13,7 +13,7 @@ source_url: https://kingcountymetro.blog/2025/11/19/extended-rainier-avenue-bus-
 summarized: true
 title: Extended Rainier Avenue bus lanes offer seamless, more reliable trip for thousands
   of daily riders
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

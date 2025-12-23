@@ -51,7 +51,7 @@ source_url: https://wscenter.org/event/hand-drumming-workshop/2025-12-23/
 start_date: '2025-12-23T14:30:00-08:00'
 summarized: true
 title: Hand Drumming Workshop
-topics: []
+topic_titles: []
 ---
 
 Join the Hand Drumming Workshop on Tuesday, Dec. 23, 2025, from 2:30 p.m. to 4 p.m. at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. Led by Kenny Mandell, this engaging workshop offers participants a chance to experience relaxation, energy, and well-being through hand drumming. No prior experience is necessary, and drums and rattles will be provided. Attendees are encouraged to bring their own instruments if they have them. Enjoy a rhythmic and uplifting afternoon in a welcoming community setting.

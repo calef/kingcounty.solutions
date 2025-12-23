@@ -85,7 +85,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/10/the-impact-of-the-seattle-preschool-program-a-providers-perspective/
 summarized: true
 title: 'The Impact of the Seattle Preschool Program: A Provider’s Perspective'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

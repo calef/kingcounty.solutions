@@ -79,7 +79,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/parks-perfect-154
 summarized: true
 title: Parks & Community Services Department earns perfect score with reaccreditation
-topics: []
+topic_titles: []
 ---
 
 Bellevue’s Parks and Community Services Department has achieved a perfect reaccreditation score of 154 out of 154 from the national Commission for Accreditation of Park and Recreation Agencies (CAPRA). Michael Shiosaki, the department director, emphasized that this recognition reflects their commitment to delivering high-quality parks, services, and programs, noting the importance of understanding community needs. CAPRA reviewers assessed the department's dedication to equity, public engagement, program evaluation, and maintenance of parks and trails during a site visit last spring.

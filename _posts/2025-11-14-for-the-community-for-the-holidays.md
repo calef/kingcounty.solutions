@@ -12,7 +12,7 @@ source: United Way of King County
 source_url: https://www.uwkc.org/breaking-the-cycle-of-poverty-news/food-insecurity/for-the-community-for-the-holidays/
 summarized: true
 title: For the Community, For the Holidays
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

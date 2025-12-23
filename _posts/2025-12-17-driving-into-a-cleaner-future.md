@@ -18,7 +18,7 @@ source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/17/driving-into-a-cleaner-future/
 summarized: true
 title: Driving into a Cleaner Future 
-topics: []
+topic_titles: []
 ---
 
 Seattle is taking significant steps to lower carbon emissions and address climate change with its updated Climate Action Plan. The plan focuses on enhancing public transportation and investing in cleaner energy sources. Key initiatives include expanding electric vehicle infrastructure and promoting the use of alternative fuels. Seattle aims to transition its fleet to electric vehicles, with a target of 100% electric by 2030. The city is also working to increase access to public transportation, making it more convenient and affordable for residents. Additionally, community engagement is a priority, with efforts to involve citizens in sustainability initiatives. The updated plan emphasizes collaboration with local businesses and organizations to create a greener future. Seattle's commitment to these measures reflects its goal of becoming a leader in climate action and sustainability.

@@ -34,7 +34,7 @@ source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/hispanic-heritage-month/
 summarized: true
 title: 'Hispanic Heritage Month: Honoring Contributions to Healthcare'
-topics:
+topic_titles:
 - Health Care
 ---
 

@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/13/cops-arrest-man-for-repeatedly-harassing-west-seattle-business/
 summarized: true
 title: Cops Arrest Man for Repeatedly Harassing West Seattle Business
-topics:
+topic_titles:
 - Domestic Violence
 ---
 

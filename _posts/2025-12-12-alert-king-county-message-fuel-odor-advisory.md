@@ -15,7 +15,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/11/fuel-odor-advisory/
 summarized: true
 title: ALERT King County Message – Fuel Odor Advisory
-topics: []
+topic_titles: []
 ---
 
 Residents and businesses near S. 277th Street and Auburn Way North are advised of fuel odors in the area due to flooding at a nearby gas station. Fuel has leaked into the floodwater, prompting a licensed contractor to start mitigation and cleanup efforts. The contractor is working to address the situation, but residents may experience fuel odors during this process. Authorities encourage people to avoid the area if possible and to report any concerns related to the odor or flooding.

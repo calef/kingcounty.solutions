@@ -7709,7 +7709,7 @@ source_url: https://nosscr.org/event/ninth-circuit-virtual-meeting/
 start_date: '2026-03-05T14:30:00-05:00'
 summarized: true
 title: Ninth Circuit Virtual Meeting
-topics: []
+topic_titles: []
 ---
 
 Join us for the Ninth Circuit Virtual Meeting on March 5, 2026, starting at 2:30 p.m. EST. This event offers participants the opportunity to engage in discussions on important legal topics, share insights, and network with fellow attendees. Expect informative presentations from esteemed speakers and a chance to ask questions during the interactive sessions. Whether you are a legal professional or simply interested in the judicial process, this meeting promises valuable content and connections. Don't miss out on this opportunity to broaden your understanding and engage with the community virtually.

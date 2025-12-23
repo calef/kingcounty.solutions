@@ -12,7 +12,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/10/recognizing-the-service-of-metro-veterans/
 summarized: true
 title: Recognizing the service of Metro veterans
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

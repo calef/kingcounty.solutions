@@ -10,7 +10,7 @@ source: City of Seattle
 source_url: https://primarysources.seattle.gov/2025/12/01/december-find-of-the-month-letters-to-lt-stetson/
 summarized: true
 title: 'December Find of the Month: Letters to Lt. Stetson'
-topics: []
+topic_titles: []
 ---
 
 In December, the featured find is a collection of letters addressed to Lt. Stetson, a notable figure during World War II. These letters, written by various individuals, provide a poignant glimpse into the lives of those who served and their families during the war. The correspondence reflects personal sentiments, including concerns for the safety of loved ones, expressions of pride, and the emotional toll of wartime separation.

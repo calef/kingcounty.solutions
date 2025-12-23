@@ -42,7 +42,7 @@ source_url: https://togethercenter.org/event/advocate-office-together-center-cit
 start_date: '2025-12-23T13:00:00-08:00'
 summarized: true
 title: City of Redmond Homeless & Housing Stability
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

@@ -36,7 +36,7 @@ source: Pacific Medical Centers
 source_url: https://www.pacificmedicalcenters.org/news/meet-dr-jody-rhoades-primary-care-that-comes-to-you/
 summarized: true
 title: 'Meet Dr. Jody Rhoades: Primary Care that Comes to You!'
-topics:
+topic_titles:
 - Health Care
 ---
 

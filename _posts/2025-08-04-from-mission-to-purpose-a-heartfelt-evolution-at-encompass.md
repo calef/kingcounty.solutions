@@ -70,7 +70,7 @@ source: Encompass
 source_url: https://encompassnw.org/from-mission-to-purpose-a-heartfelt-evolution-at-encompass/
 summarized: true
 title: 'From Mission to Purpose: A Heartfelt Evolution at Encompass'
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 - Education & Learning

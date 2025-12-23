@@ -11,7 +11,7 @@ source: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/bellwether-housing-sells-vine-court-apartments-following-fire-damage
 summarized: true
 title: Bellwether Housing Sells Vine Court Apartments Following Fire Damage
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

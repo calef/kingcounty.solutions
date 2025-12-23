@@ -20,7 +20,7 @@ source_url: https://events.uw.edu/event/958eec2c-bf2a-42cf-bfad-5547356c64da/sum
 start_date: '2026-01-26T17:00:00-08:00'
 summarized: true
 title: 'TALK | Trump in the World 2.0: Past, Present, and Future of Diplomacy'
-topics: []
+topic_titles: []
 ---
 
 Join us on Jan. 26, 2026, at 5 p.m. for "Trump in the World 2.0: Past, Present, and Future of Diplomacy." This engaging talk will explore the impact of former President Donald Trump's diplomatic strategies and their implications for global relations. Attendees can expect insightful discussions and analyses from experts in international affairs, offering a comprehensive look at how Trump's presidency reshaped diplomacy. The event will take place at a designated location, providing an opportunity for community members to engage in meaningful dialogue about contemporary issues in diplomacy. Don't miss this chance to gain a deeper understanding of the evolving landscape of international relations.

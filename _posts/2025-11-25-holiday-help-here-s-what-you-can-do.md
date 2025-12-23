@@ -41,7 +41,7 @@ source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/holiday-help-heres-what-you-can-do/
 summarized: true
 title: Holiday Help – Here’s what YOU Can Do!
-topics:
+topic_titles:
 - Personal & Household Needs
 - Financial Assistance
 - Food & Nutrition

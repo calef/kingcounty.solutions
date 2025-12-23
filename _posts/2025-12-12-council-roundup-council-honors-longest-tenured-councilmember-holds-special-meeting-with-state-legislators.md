@@ -55,7 +55,7 @@ source_url: https://bellevuewa.gov/city-news/council-roundup-12-9-25
 summarized: true
 title: 'Council Roundup: Council honors longest-tenured councilmember, holds special
   meeting with state legislators'
-topics: []
+topic_titles: []
 ---
 
 The Bellevue City Council recently honored Conrad Lee, its longest-serving councilmember, who is stepping down after more than three decades of service. First elected in 1993, Lee has held various leadership roles, including mayor and deputy mayor. Councilmembers praised his dedication to public service and transparent decision-making.

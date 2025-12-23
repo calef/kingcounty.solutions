@@ -14,7 +14,7 @@ source: Technology Access Foundation
 source_url: https://techaccess.org/equipping-teachers-with-a-student-centered-approach/
 summarized: true
 title: Equipping Teachers with a Student Centered Approach
-topics:
+topic_titles:
 - Education & Learning
 ---
 

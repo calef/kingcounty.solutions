@@ -51,7 +51,7 @@ source_url: https://wscenter.org/event/chess-club/2025-12-23/
 start_date: '2025-12-23T13:30:00-08:00'
 summarized: true
 title: Chess Club
-topics: []
+topic_titles: []
 ---
 
 Join the Chess Club on Tuesday, Dec. 23, 2025, from 1:30 p.m. to 3:00 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This engaging event offers lessons and short tutorials suitable for all skill levels, making it a great opportunity to sharpen your chess skills and meet fellow enthusiasts. Whether you are a beginner or a seasoned player, come enjoy an afternoon of strategic thinking and friendly competition. For more information, contact Conwell Dickey at conwell@conwelld.net.

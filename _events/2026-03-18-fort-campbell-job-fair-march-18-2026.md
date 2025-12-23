@@ -176,7 +176,7 @@ source_url: https://www.dav.org/events-calendar/fort-campbell-job-fair-march-18-
 start_date: '2026-03-18T00:00:00-07:00'
 summarized: true
 title: Fort Campbell Job Fair, March 18, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

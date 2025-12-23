@@ -23,7 +23,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/nourishing-futures-end-of-year-celebration
 summarized: true
 title: 'nourishing futures: end of year celebration'
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 - Employment & Job Support

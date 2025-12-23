@@ -41,7 +41,7 @@ source_url: https://doh.wa.gov/newsroom/license-thurston-county-registered-nurse
 summarized: true
 title: The license of a Thurston County registered nurse has been suspended due to
   charges of sexual assault
-topics:
+topic_titles:
 - Health Care
 ---
 

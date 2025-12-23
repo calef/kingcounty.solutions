@@ -74,7 +74,7 @@ source_url: https://www.washington.edu/lectures/events/toward-a-global-history-o
 start_date: '2026-03-06T12:00:00-08:00'
 summarized: true
 title: Palestine to Iraq with Adam Hanieh
-topics: []
+topic_titles: []
 ---
 
 Join Adam Hanieh for a thought-provoking livestream event titled "Palestine to Iraq" on March 6, 2026, at 12 p.m. PST. Attendees can expect an engaging discussion that explores the historical and contemporary connections between Palestine and Iraq, focusing on political, social, and cultural aspects. This event offers a unique opportunity to deepen your understanding of these regions and their struggles. Don't miss the chance to participate in this important conversation from the comfort of your home.

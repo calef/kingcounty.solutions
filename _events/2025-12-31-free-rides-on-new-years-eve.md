@@ -16,7 +16,7 @@ source_url: https://kingcountymetro.blog/2025/12/22/king-county-metro-and-region
 start_date: '2025-12-31T00:00:00-08:00'
 summarized: true
 title: Free Rides on New Year's Eve
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

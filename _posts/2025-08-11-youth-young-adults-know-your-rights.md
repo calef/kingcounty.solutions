@@ -26,7 +26,7 @@ source: Eastside Legal Assistance Program
 source_url: https://elap.org/youth-young-adults-know-your-rights/?utm_source=rss&utm_medium=rss&utm_campaign=youth-young-adults-know-your-rights
 summarized: true
 title: 'Youth & young adults: Know your rights'
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

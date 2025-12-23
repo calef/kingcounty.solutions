@@ -144,7 +144,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143994/from-unemployable-to-ph-d/
 summarized: true
 title: From unemployable to Ph.D.
-topics:
+topic_titles:
 - Disabilities
 - Employment & Job Support
 - Mental Health & Counseling

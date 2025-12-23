@@ -14,7 +14,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/26971
 summarized: true
 title: Planning Commission Meeting - Cancelled
-topics: []
+topic_titles: []
 ---
 
 The City of Black Diamond will host a Community Block Party on Saturday, Sept. 23, 2023, from 4 p.m. to 8 p.m. at the Black Diamond Community Center. This event aims to bring together residents for a fun-filled evening featuring food, games, and activities for all ages. Attendees can enjoy local food vendors, live music, and various games designed for children and adults alike. The block party serves as an opportunity for community members to connect, build relationships, and celebrate the vibrant spirit of Black Diamond. Residents are encouraged to bring their friends and family to join in the festivities. The event is free to attend, making it accessible for everyone in the community.

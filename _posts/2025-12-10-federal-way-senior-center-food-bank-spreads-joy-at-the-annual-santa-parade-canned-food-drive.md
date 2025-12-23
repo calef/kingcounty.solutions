@@ -14,7 +14,7 @@ source_url: https://federalwayseniorcenter.org/federal-way-senior-center-food-ba
 summarized: true
 title: Federal Way Senior Center Food Bank Spreads Joy at the Annual Santa Parade
   & Canned Food Drive
-topics:
+topic_titles:
 - Food & Nutrition
 - Senior Services
 ---

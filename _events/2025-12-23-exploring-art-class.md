@@ -52,7 +52,7 @@ source_url: https://wscenter.org/event/exploring-art-class-2/2025-12-23/
 start_date: '2025-12-23T10:30:00-08:00'
 summarized: true
 title: Exploring Art Class
-topics:
+topic_titles:
 - Senior Services
 ---
 

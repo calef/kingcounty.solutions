@@ -53,7 +53,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143805/a-sanctuary-music-veterans-dementia/
 summarized: true
 title: A sanctuary of music for Veterans with dementia
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 - Senior Services

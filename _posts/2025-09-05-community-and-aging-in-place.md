@@ -11,7 +11,7 @@ source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/community-and-aging-in-place
 summarized: true
 title: Community and Aging in Place
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 - Personal & Household Needs

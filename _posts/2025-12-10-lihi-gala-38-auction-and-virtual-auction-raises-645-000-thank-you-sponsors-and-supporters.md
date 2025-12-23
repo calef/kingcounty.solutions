@@ -18,7 +18,7 @@ source_url: https://www.lihihousing.org/post/lihi-gala-auction-and-virtual-aucti
 summarized: true
 title: LIHI Gala &#38; Auction and Virtual Auction raises $645,000! Thank you Sponsors
   and Supporters!
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

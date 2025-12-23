@@ -124,7 +124,7 @@ source: Hunger Intervention Program
 source_url: https://hungerintervention.org/2025/12/09/were-hiring-shelter-meal-manager/
 summarized: true
 title: 'We’re Hiring: Shelter Meal Manager'
-topics:
+topic_titles:
 - Food & Nutrition
 - Employment & Job Support
 - Shelter & Housing

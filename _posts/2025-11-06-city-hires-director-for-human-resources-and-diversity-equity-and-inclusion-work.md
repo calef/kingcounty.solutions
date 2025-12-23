@@ -59,7 +59,7 @@ source_url: https://bellevuewa.gov/city-news/city-hires-director-human-resources
 summarized: true
 title: City hires director for human resources and diversity, equity and inclusion
   work
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

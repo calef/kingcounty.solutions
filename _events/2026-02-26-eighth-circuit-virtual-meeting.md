@@ -7710,7 +7710,7 @@ source_url: https://nosscr.org/event/eighth-circuit-virtual-meeting/
 start_date: '2026-02-26T14:30:00-05:00'
 summarized: true
 title: Eighth Circuit Virtual Meeting
-topics: []
+topic_titles: []
 ---
 
 Join us for the Eighth Circuit Virtual Meeting on Feb. 26, 2026, starting at 2:30 p.m. EST. This online gathering will provide attendees with the opportunity to engage in discussions on important legal topics, share insights, and network with fellow participants. Whether you are a legal professional or simply interested in the workings of the Eighth Circuit, this meeting promises valuable information and interaction. Don't miss this chance to connect and collaborate from the comfort of your own space.

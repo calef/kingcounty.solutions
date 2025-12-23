@@ -42,7 +42,7 @@ source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/19/while-you-wait-heated-rivalry/
 summarized: true
 title: 'While You Wait: Heated Rivalry'
-topics: []
+topic_titles: []
 ---
 
 Fans of the new series "Heated Rivalry" may be eagerly awaiting the eBook by Rachel Reid, which has over 500 holds at the Seattle Public Library. While waiting, viewers can enjoy audiobooks available through the Libby app, including "Game Changer" and "Heated Rivalry." For those looking for similar content, several hockey romance series are recommended. Notable titles include "Him" by Sarina Bowen and Elle Kennedy, "The New Guy," "Rookie Move," and "The Year We Fell Down." The graphic novel duology "Check Please!" by Ngozi Ukazu is also highlighted. Additional hockey-themed books like "Like Real People Do" by E.L. Massey and "Winging It" by Ashley Kane and Morgan James are worth exploring.

@@ -16,7 +16,7 @@ source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/16/councilmember-lin-requests-communitys-help-after-hit-and-run-on-beacon-hill/
 summarized: true
 title: Councilmember Lin requests community’s help after hit-and-run on Beacon Hill
-topics: []
+topic_titles: []
 ---
 
 Councilmember Eddie Lin is seeking the community's assistance after a bicyclist was killed in a hit-and-run incident on Beacon Avenue early Sunday morning. Lin, who represents District 2, expressed his sadness over the cyclist's death and urged anyone with information to contact the Seattle Police Department's Traffic Collision Investigation Squad at 206-684-8923. He emphasized the importance of community support in addressing such tragic events and hopes that together, they can find justice for the victim.

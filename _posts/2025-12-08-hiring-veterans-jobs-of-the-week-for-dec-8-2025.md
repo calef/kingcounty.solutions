@@ -252,7 +252,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143913/hiring-veterans-jobs-week-dec-8-2025/
 summarized: true
 title: 'Hiring Veterans: Jobs of the week for Dec. 8, 2025'
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

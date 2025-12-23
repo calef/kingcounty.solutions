@@ -10,7 +10,7 @@ source_url: https://www.soundtransit.org/blog/platform/construction-update-strid
 start_date: '2029-01-01T00:00:00-08:00'
 summarized: true
 title: Stride bus rapid transit system opening
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

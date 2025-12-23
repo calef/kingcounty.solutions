@@ -51,7 +51,7 @@ source_url: https://sessc.org/event/mahjong-2-2-2/2025-12-22/
 start_date: '2025-12-22T13:00:00-08:00'
 summarized: true
 title: Mahjong Monday
-topics: []
+topic_titles: []
 ---
 
 Join us for Mahjong Monday on December 22 from 1 to 3 p.m. in the Baxter Room. This engaging tile-based game, developed in 19th-century China, is designed for four players, making it a perfect opportunity for both beginners and seasoned players to socialize and enjoy the challenge. No prior experience is required, so come ready to learn and have fun. Whether you're looking to sharpen your skills or simply meet new friends, Mahjong Monday promises an enjoyable afternoon. Don’t miss out on this chance to immerse yourself in a classic game!

@@ -43,7 +43,7 @@ source_url: https://doh.wa.gov/newsroom/substance-use-disorder-treatment-provide
 summarized: true
 title: Substance use disorder treatment provider in Pierce County suspended for sexual
   misconduct among other charges
-topics:
+topic_titles:
 - Health Care
 - Legal Aid
 ---

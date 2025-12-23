@@ -10,7 +10,7 @@ source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/08/14/august-10-2025-the-rev-brian-gregory/
 summarized: true
 title: August 10, 2025 — The Rev Brian Gregory
-topics: []
+topic_titles: []
 ---
 
 The sermon for the Ninth Sunday after Pentecost reflects on the complexity of Jesus' teachings in Luke’s Gospel. It begins with the comforting assurance that God is pleased to give the kingdom, urging believers not to fear as God provides for their needs. Jesus challenges followers to let go of material possessions and focus on eternal treasures.

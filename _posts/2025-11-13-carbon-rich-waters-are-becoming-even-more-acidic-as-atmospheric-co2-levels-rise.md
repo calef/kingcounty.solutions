@@ -39,7 +39,7 @@ source_url: https://www.washington.edu/news/2025/11/13/carbon-rich-waters-are-be
 summarized: true
 title: Carbon-rich waters are becoming even more acidic as atmospheric CO2 levels
   rise
-topics: []
+topic_titles: []
 ---
 
 Recent research indicates that the Northeastern Pacific Ocean is acidifying at an alarming rate due to rising atmospheric CO2 levels. Since the Industrial Revolution, ocean acidity has increased by approximately 30%, affecting marine organisms like corals and clams that rely on carbonate minerals for their shells and skeletons. The study, published in *Nature Communications*, highlights that the region's naturally higher acidity makes it more susceptible to further changes from human activities.

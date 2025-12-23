@@ -233,7 +233,7 @@ source_url: https://wscenter.org/event/empathy-hour/2026-01-08/
 start_date: '2026-01-08T13:00:00-08:00'
 summarized: true
 title: Communication Lab 2.0
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -113,7 +113,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/05/iths-opportunities-for-emerging-researchers/
 summarized: true
 title: ITHS Opportunities for Emerging Researchers
-topics: []
+topic_titles: []
 ---
 
 ITHS is launching a new initiative aimed at supporting emerging researchers in their academic and professional journeys. This program provides various opportunities, including mentorship, funding, and access to resources that facilitate research development. Emerging researchers will benefit from structured training programs designed to enhance their skills and knowledge in specific research areas. The initiative also encourages collaboration among researchers, fostering an environment of shared learning and innovation. Additionally, ITHS emphasizes the importance of diversity and inclusion in research, aiming to support underrepresented groups in the academic community. Participants will gain valuable insights from experienced researchers and be equipped to contribute meaningfully to their fields. Overall, the initiative aims to empower the next generation of researchers by providing them with the tools and support necessary for success.

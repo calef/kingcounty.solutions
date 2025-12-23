@@ -12,7 +12,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/04/metro-regional-buses-connect-you-to-new-1-line-stations-in-federal-way/
 summarized: true
 title: Metro, regional buses connect you to new 1 Line stations in Federal Way
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

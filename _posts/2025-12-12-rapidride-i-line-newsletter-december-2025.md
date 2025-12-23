@@ -14,7 +14,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/12/rapidride-i-line-newsletter-december-2025/
 summarized: true
 title: RapidRide I Line newsletter (December 2025)
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

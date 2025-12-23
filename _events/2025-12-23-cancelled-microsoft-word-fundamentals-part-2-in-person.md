@@ -247,7 +247,7 @@ source_url: https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-i
 start_date: '2025-12-23T10:00:00-08:00'
 summarized: true
 title: CANCELLED - Microsoft Word Fundamentals Part 2 (In-Person)
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

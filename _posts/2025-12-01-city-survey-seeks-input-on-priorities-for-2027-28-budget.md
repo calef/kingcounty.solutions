@@ -69,7 +69,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/budget-survey-25
 summarized: true
 title: City survey seeks input on priorities for 2027–28 budget
-topics:
+topic_titles:
 - Transportation & Mobility
 - Shelter & Housing
 ---

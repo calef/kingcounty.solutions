@@ -98,7 +98,7 @@ source_url: https://www.antioch.edu/event/doctoral-counseling-psychology-and-the
 start_date: '2026-01-06T16:00:00-08:00'
 summarized: true
 title: Doctoral Counseling, Psychology and Therapy Info Session | AU
-topics:
+topic_titles:
 - Education & Learning
 ---
 

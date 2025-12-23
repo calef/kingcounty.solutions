@@ -77,7 +77,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/november-2025-transportation-electrification-open-funding-opportunities/
 summarized: true
 title: November 2025 transportation electrification open funding opportunities
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

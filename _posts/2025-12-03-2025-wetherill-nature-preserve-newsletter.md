@@ -9,7 +9,7 @@ source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/12/2025-wetherill-nature-preserve-newsletter/
 summarized: true
 title: 2025 Wetherill Nature Preserve Newsletter
-topics: []
+topic_titles: []
 ---
 
 The Wetherill Nature Preserve newsletter for 2025 highlights ongoing conservation efforts and community engagement initiatives at the preserve. The newsletter emphasizes the importance of preserving native habitats and offers updates on various projects aimed at enhancing biodiversity and ecological health.

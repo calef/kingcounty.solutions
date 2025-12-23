@@ -122,7 +122,7 @@ source_url: https://deohs.washington.edu/declaring-major
 start_date: '2026-01-08T13:00:00-08:00'
 summarized: true
 title: Bachelor's of Science in Environmental Public Health Information Session
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -69,7 +69,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143990/be-my-own-boss-franchise/
 summarized: true
 title: Franchise to be your own boss during the holidays
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 ---

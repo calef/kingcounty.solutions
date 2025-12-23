@@ -15,7 +15,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/construction-update-new-parking-garages-more-sumner-auburn-kent
 summarized: true
 title: 'Construction update: New parking garages and more in Sumner, Auburn, and Kent'
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

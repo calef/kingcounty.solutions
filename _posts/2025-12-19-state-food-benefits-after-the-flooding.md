@@ -21,7 +21,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/18/state-food-benefits-after-the-flooding/
 summarized: true
 title: State food benefits after the flooding
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---

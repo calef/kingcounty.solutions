@@ -42,7 +42,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/warriors-club/
 summarized: true
 title: Warriors Club
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 ---

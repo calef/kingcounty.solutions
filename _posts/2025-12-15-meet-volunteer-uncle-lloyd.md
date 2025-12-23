@@ -16,7 +16,7 @@ source: The Center for Active Living
 source_url: https://wscenter.org/meet-volunteer-uncle-lloyd/
 summarized: true
 title: 'Meet Volunteer: Uncle Lloyd'
-topics: []
+topic_titles: []
 ---
 
 Volunteers play a vital role at The Center, and one standout is Uncle Lloyd, who has become a beloved figure. Known for his warmth and engaging personality, he has made a significant impact on the community. Uncle Lloyd shares his life experiences and stories, attracting others to connect with him. His passion for helping people shines through in his interactions, making everyone feel welcomed and valued. Many who visit The Center appreciate his ability to listen and provide support, creating a sense of belonging. Uncle Lloyd exemplifies the spirit of volunteerism, inspiring others to get involved and give back to the community. His dedication not only enriches the lives of those around him but also fosters a supportive environment where friendships can blossom. The stories he shares resonate with visitors, making their time at The Center memorable and meaningful. Uncle Lloyd continues to be a source of positivity, demonstrating the power of connection and the importance of community engagement.

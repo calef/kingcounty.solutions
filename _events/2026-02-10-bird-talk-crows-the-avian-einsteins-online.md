@@ -15,7 +15,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_d3f9e33d6
 start_date: '2026-02-10T19:00:00-08:00'
 summarized: true
 title: 'Bird Talk: Crows - The Avian Einsteins (Online)'
-topics: []
+topic_titles: []
 ---
 
 Join the online event "Bird Talk: Crows - The Avian Einsteins" on Feb. 10, 2026, at 7 p.m. PST via Zoom. This engaging session will explore the remarkable intelligence of crows, highlighting their problem-solving abilities and social behaviors. Attendees can expect to learn fascinating facts about these birds and their significance in the avian world. The event is perfect for bird enthusiasts and anyone curious about wildlife. Don't miss this opportunity to deepen your understanding of one of nature's most clever creatures.

@@ -13,7 +13,7 @@ source_url: https://council.seattle.gov/2025/11/13/seattle-councilmembers-welcom
 summarized: true
 title: Seattle Councilmembers welcome Mayor-elect Katie Wilson, commend Mayor Harrell
   for years of service
-topics:
+topic_titles:
 - Employment & Job Support
 - Shelter & Housing
 ---

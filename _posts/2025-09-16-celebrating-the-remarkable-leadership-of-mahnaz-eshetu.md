@@ -78,7 +78,7 @@ source: Refugee Women's Alliance
 source_url: https://www.rewa.org/celebrating-the-remarkable-leadership-of-mahnaz-eshetu/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-the-remarkable-leadership-of-mahnaz-eshetu
 summarized: true
 title: Celebrating the Remarkable Leadership of Mahnaz Eshetu
-topics:
+topic_titles:
 - Employment & Job Support
 - Education & Learning
 - Shelter & Housing

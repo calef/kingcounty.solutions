@@ -12,7 +12,7 @@ source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/community-conversation-north-spokane-corridor
 summarized: true
 title: Community conversation on North Spokane Corridor
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

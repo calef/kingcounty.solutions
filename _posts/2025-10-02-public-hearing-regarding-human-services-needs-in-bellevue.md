@@ -53,7 +53,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/block-grant-26-hearing
 summarized: true
 title: Public hearing regarding human services needs in Bellevue
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 - Mental Health & Counseling

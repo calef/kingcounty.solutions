@@ -76,7 +76,7 @@ source_url: https://tbi-bh-echo.psychiatry.uw.edu/
 start_date: '2026-01-02T12:00:00-08:00'
 summarized: true
 title: UW Traumatic Brain Injury - Behavioral Health ECHO
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 - Mental Health & Counseling

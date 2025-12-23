@@ -135,7 +135,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143894/veteran-thriving-after-getting-help-from-va/
 summarized: true
 title: Veteran now thriving after getting help from VA
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Health Care
 - Senior Services

@@ -64,7 +64,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/finding-home-again-craigs-story
 summarized: true
 title: craig’s family finds home again
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 - Childcare

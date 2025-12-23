@@ -16,7 +16,7 @@ source_url: https://ihdd.org/2025/12/15/save-the-date-ihdd-networking-day-2026/
 start_date: '2026-05-11T09:00:00-07:00'
 summarized: true
 title: IHDD Networking Day 2026
-topics:
+topic_titles:
 - Disabilities
 ---
 

@@ -102,7 +102,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/12/many-ways-to-give-this-season-find-what-works-for-you/
 summarized: true
 title: Many Ways to Give This Season! Find What Works for You!
-topics:
+topic_titles:
 - Childcare
 - Financial Assistance
 - Education & Learning

@@ -10,7 +10,7 @@ source_url: https://www.lihihousing.org/post/new-hope-family-housing-starts-cons
 start_date: '2027-03-01T00:00:00-08:00'
 summarized: true
 title: Completion of New Hope Family Housing
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

@@ -42,7 +42,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/pwb-special-meeting-december-23-2025/
 summarized: true
 title: PWB Special Meeting – December 23, 2025
-topics: []
+topic_titles: []
 ---
 
 The Public Works Board (PWB) will hold a special online meeting on December 23, 2025, from 3:00 to 4:00 p.m. The meeting will focus on a proposal to increase emergency awards in response to severe atmospheric river and winter weather events affecting communities in Washington. Participants can join the meeting via Zoom.

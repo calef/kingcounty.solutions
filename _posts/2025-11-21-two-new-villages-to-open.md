@@ -15,7 +15,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/two-new-villages-to-open
 summarized: true
 title: 'Two New Villages to Open! '
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

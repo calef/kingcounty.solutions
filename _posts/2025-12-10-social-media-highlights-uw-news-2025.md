@@ -93,7 +93,7 @@ source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/10/social-media-highlights-uw-news-2025/
 summarized: true
 title: 'Social media highlights: UW News 2025'
-topics:
+topic_titles:
 - Education & Learning
 - Senior Services
 ---

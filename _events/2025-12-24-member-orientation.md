@@ -229,7 +229,7 @@ source_url: https://wscenter.org/event/member-orientation/2025-12-24/
 start_date: '2025-12-24T10:00:00-08:00'
 summarized: true
 title: Member Orientation
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 ---

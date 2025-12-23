@@ -44,7 +44,7 @@ source_url: https://acrs.org/acrs-abaw-and-kcba-relaunch-rainier-valley-legal-cl
 summarized: true
 title: ACRS, ABAW, and KCBA Relaunch Rainier Valley Legal Clinic to Expand Community
   Access to Free Legal Support
-topics:
+topic_titles:
 - Domestic Violence
 - Education & Learning
 - Employment & Job Support

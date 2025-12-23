@@ -28,7 +28,7 @@ source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/09/19/from-marketing-to-mindfulness-julia-sarazines-nursing-journey/
 summarized: true
 title: 'From Marketing to Mindfulness: Julia Sarazine’s Nursing Journey '
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 ---

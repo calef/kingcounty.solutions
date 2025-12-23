@@ -10,7 +10,7 @@ source_url: https://www.boyercc.org/events/golf-tournament-2026/
 start_date: '2026-06-18T00:00:00-07:00'
 summarized: true
 title: Swing Fore the Kids Golf Outing
-topics:
+topic_titles:
 - Disabilities
 ---
 

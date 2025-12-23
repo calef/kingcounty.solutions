@@ -60,7 +60,7 @@ source: Inatai Foundation
 source_url: https://inatai.org/news/meet-chantal-wong/
 summarized: true
 title: Meet Chantal Wong
-topics: []
+topic_titles: []
 ---
 
 Chantal Wong has joined the Inatai Foundation as an Administrative Associate. She has a background in communications, working with agencies focused on advocacy and social impact projects. Chantal became interested in Inatai's mission and its 50-Year Vision while collaborating with the foundation in a previous role. Excited to learn and contribute, she aims to strengthen processes within the organization.

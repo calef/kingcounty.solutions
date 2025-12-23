@@ -13,7 +13,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/26946
 summarized: true
 title: Civil Service Commission Meeting - Cancelled
-topics: []
+topic_titles: []
 ---
 
 The City of Black Diamond invites residents to the annual Black Diamond Harvest Festival on Saturday, Oct. 7, 2023, from 10 a.m. to 4 p.m. at Black Diamond Park. The event promises a fun-filled day for families, featuring local artisan vendors, food trucks, live music, and various activities for children. Attendees can enjoy pumpkin decorating, crafts, and games. The festival highlights community spirit and offers an opportunity for local businesses to showcase their products. Visitors are encouraged to bring their friends and family to enjoy the festivities and support local vendors. Parking is available at the park, and shuttle services will run from nearby locations to facilitate access.

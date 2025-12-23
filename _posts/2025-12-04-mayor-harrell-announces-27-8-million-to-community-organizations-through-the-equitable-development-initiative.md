@@ -13,7 +13,7 @@ source_url: https://dailyplanit.seattle.gov/mayor-harrell-announces-27-8-million
 summarized: true
 title: Mayor Harrell Announces $27.8 Million to Community Organizations Through the
   Equitable Development Initiative 
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 - Shelter & Housing

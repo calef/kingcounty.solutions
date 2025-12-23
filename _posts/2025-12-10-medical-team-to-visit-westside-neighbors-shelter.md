@@ -34,7 +34,7 @@ source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/medical-team-to-visit-westside-neighbors-shelter/
 summarized: true
 title: Medical team to visit Westside Neighbors Shelter
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Shelter & Housing

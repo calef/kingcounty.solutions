@@ -97,7 +97,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-10-14-25
 summarized: true
 title: 'Council Roundup: New five-year Sustainable Bellevue Plan'
-topics:
+topic_titles:
 - Shelter & Housing
 - Transportation & Mobility
 ---

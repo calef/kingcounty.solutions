@@ -40,7 +40,7 @@ source_url: https://www.dav.org/events-calendar/atlanta-job-fair-february-12-202
 start_date: '2026-02-12T00:00:00-08:00'
 summarized: true
 title: Atlanta Job Fair, February 12, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

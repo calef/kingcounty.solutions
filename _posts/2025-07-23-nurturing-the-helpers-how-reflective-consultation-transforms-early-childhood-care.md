@@ -52,7 +52,7 @@ source_url: https://encompassnw.org/nurturing-the-helpers-how-reflective-consult
 summarized: true
 title: 'Nurturing the Helpers: How Reflective Consultation Transforms Early Childhood
   Care'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

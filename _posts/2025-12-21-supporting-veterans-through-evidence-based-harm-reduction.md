@@ -171,7 +171,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144025/supporting-veterans-evidence-harm-reduction/
 summarized: true
 title: Supporting Veterans through evidence-based harm reduction
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Disabilities

@@ -13,7 +13,7 @@ source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/26/seattle-shines-with-the-annual-2025-pathway-of-lights-at-green-lake-park/
 summarized: true
 title: Seattle Shines with the Annual 2025 Pathway of Lights at Green Lake Park 
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

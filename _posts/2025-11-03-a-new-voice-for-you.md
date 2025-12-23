@@ -18,7 +18,7 @@ source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/03/a-new-voice-for-you/
 summarized: true
 title: A New Voice for You
-topics:
+topic_titles:
 - Financial Assistance
 - Transportation & Mobility
 ---

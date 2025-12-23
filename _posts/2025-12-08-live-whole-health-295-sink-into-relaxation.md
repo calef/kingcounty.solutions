@@ -42,7 +42,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143873/live-whole-health-295-sink-into-relaxation/
 summarized: true
 title: 'Live Whole Health #295: Sink into relaxation'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

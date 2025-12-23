@@ -10,7 +10,7 @@ source: City of Medina
 source_url: https://www.medina-wa.gov/community/page/medina-sun-summer-2025-0
 summarized: true
 title: Medina Sun - Summer 2025
-topics: []
+topic_titles: []
 ---
 
 The article contains a PDF file that appears to be a document related to Medina, Washington. It includes various metadata and binary data but does not provide any textual content or summaries. The content seems to be encoded in a format that is not directly readable, suggesting it may contain information intended for specific software or purposes rather than general consumption.

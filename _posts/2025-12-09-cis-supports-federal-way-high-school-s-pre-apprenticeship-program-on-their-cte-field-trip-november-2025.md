@@ -18,7 +18,7 @@ source_url: https://skc.ciswa.org/news/federal-way-high-school-pre-apprenticeshi
 summarized: true
 title: CIS supports Federal Way High School’s Pre-Apprenticeship Program on their
   CTE field trip (November 2025)
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

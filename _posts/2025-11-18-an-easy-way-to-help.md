@@ -32,7 +32,7 @@ source: Eastside Legal Assistance Program
 source_url: https://elap.org/an-easy-way-to-help/?utm_source=rss&utm_medium=rss&utm_campaign=an-easy-way-to-help
 summarized: true
 title: An easy way to help
-topics:
+topic_titles:
 - Domestic Violence
 - Financial Assistance
 - Health Care

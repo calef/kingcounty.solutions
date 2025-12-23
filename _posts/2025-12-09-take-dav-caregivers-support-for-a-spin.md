@@ -42,7 +42,7 @@ source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/take-dav-caregivers-support-for-a-spin/
 summarized: true
 title: Take DAV Caregivers Support for a spin
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 - Employment & Job Support

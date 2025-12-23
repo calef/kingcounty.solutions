@@ -25,7 +25,7 @@ source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/native-american-heritage-month/
 summarized: true
 title: Celebrating Native American Heritage Month
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 - Mental Health & Counseling

@@ -41,7 +41,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/pwb-meeting-date-january-9-2026/
 summarized: true
 title: PWB Meeting Date – January 9, 2026
-topics: []
+topic_titles: []
 ---
 
 The Public Works Board will hold its next meeting on January 9, 2025, from 8:30 a.m. to 9:30 a.m. This meeting will be a hybrid event, allowing for both online and in-person attendance. Members of the public can join the meeting via Zoom or attend in person at the Washington State Department of Commerce headquarters located at 1011 Plum Street, Olympia, WA 98501.

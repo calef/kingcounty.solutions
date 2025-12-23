@@ -88,7 +88,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-9-9-25
 summarized: true
 title: 'Council Roundup: Economic Development Plan update nears completion'
-topics: []
+topic_titles: []
 ---
 
 The Bellevue City Council recently reviewed updates to the Economic Development Plan, aiming for adoption in December. The plan highlights a 39% rise in median household income from 2018 to 2023, adding more than 10,000 jobs, particularly in downtown, which has seen substantial growth in office space. The creative economy remains a significant contributor, accounting for 37% of the region's gross product, with potential growth in sectors such as life sciences and artificial intelligence.

@@ -18,7 +18,7 @@ source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/12/15/mayor-harrell-statement-on-antisemitic-terrorist-attack-in-sydney/
 summarized: true
 title: Mayor Harrell Statement on Antisemitic Terrorist Attack in Sydney
-topics: []
+topic_titles: []
 ---
 
 Seattle Mayor Bruce Harrell expressed his horror and heartbreak over an antisemitic terrorist attack during a Hanukkah celebration in Sydney, Australia. He condemned the violence aimed at families celebrating the holiday and emphasized the importance of standing together against hate. Harrell called for unity and support for the Jewish community, stating that such acts of violence are unacceptable and should not be tolerated. He reaffirmed Seattle's commitment to fighting antisemitism and promoting inclusivity. The mayor encouraged everyone to join in solidarity with those affected by the attack and to work toward a safer and more compassionate society.

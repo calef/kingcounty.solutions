@@ -13,7 +13,7 @@ source: Casa Latina
 source_url: https://casa-latina.org/rhythms-of-resilience-event-recap/
 summarized: true
 title: Rhythms of Resilience Event Recap
-topics:
+topic_titles:
 - Employment & Job Support
 - Education & Learning
 ---

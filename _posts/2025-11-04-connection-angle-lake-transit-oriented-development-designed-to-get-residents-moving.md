@@ -30,7 +30,7 @@ source_url: https://www.commerce.wa.gov/connection-angle-lake-transit-oriented-d
 summarized: true
 title: 'Connection Angle Lake: Transit-oriented development designed to get residents
   moving'
-topics:
+topic_titles:
 - Disabilities
 - Shelter & Housing
 ---

@@ -16,7 +16,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/we-need-your-help-2026-seattle-city-council-budget-action
 summarized: true
 title: We Need Your Help! 2026 Seattle City Council Budget Action
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---

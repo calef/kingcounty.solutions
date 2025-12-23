@@ -40,7 +40,7 @@ source_url: https://www.dav.org/events-calendar/houston-job-fair-february-19-202
 start_date: '2026-02-19T00:00:00-08:00'
 summarized: true
 title: Houston Job Fair, February 19, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

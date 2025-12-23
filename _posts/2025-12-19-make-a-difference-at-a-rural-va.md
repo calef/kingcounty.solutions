@@ -129,7 +129,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143984/make-a-difference-at-a-rural-va/
 summarized: true
 title: Make a difference at a rural VA 
-topics:
+topic_titles:
 - Health Care
 - Employment & Job Support
 ---

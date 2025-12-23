@@ -15,7 +15,7 @@ source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/q4-2025-hospitality-house-highlights/
 summarized: true
 title: Q4 2025 – Hospitality House Highlights
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 - Food & Nutrition

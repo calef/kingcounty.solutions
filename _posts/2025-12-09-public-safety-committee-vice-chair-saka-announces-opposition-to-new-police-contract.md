@@ -12,7 +12,7 @@ source_url: https://council.seattle.gov/2025/12/09/public-safety-committee-vice-
 summarized: true
 title: Public Safety Committee Vice Chair Saka announces opposition to new police
   contract 
-topics: []
+topic_titles: []
 ---
 
 Councilmember Rob Saka, vice chair of the Public Safety Committee, announced his opposition to the proposed collective bargaining agreement with the Seattle Police Officers’ Guild (SPOG). He emphasized the need for stronger reform at the state level, stating, “Our city deserves better.” Saka plans to vote against the contract, highlighting concerns about the current policing framework in Seattle.

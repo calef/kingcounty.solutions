@@ -47,7 +47,7 @@ source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/power-of-retreat/
 summarized: true
 title: Why Healing Retreats Matter
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Health Care
 ---

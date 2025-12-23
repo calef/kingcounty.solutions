@@ -24,7 +24,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/juggle-bounce-and-plop/
 summarized: true
 title: Juggle, Bounce, and Plop
-topics:
+topic_titles:
 - Education & Learning
 ---
 

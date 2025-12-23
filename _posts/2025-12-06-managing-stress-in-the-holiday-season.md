@@ -75,7 +75,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143536/managing-stress-in-the-holiday-season/
 summarized: true
 title: Managing stress in the holiday season
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

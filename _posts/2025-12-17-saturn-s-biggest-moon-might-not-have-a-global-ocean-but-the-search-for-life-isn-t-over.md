@@ -97,7 +97,7 @@ source_url: https://www.washington.edu/news/2025/12/17/saturns-biggest-moon-migh
 summarized: true
 title: Saturn’s biggest moon might not have a global ocean — but the search for life
   isn’t over
-topics: []
+topic_titles: []
 ---
 
 A reanalysis of data from NASA's Cassini mission indicates that Saturn's largest moon, Titan, may not have a vast ocean beneath its icy surface, as previously believed. Instead, researchers suggest that Titan's interior consists of slushy tunnels and pockets of meltwater near its rocky core. Initial models indicated an ocean to explain Titan's deformation under Saturn's gravity, but new findings show that a slushy layer better fits the observed physical properties. The study highlights that Titan's shape changes lag behind Saturn's gravitational pull, suggesting a thick, viscous interior rather than a global ocean. This discovery alters the understanding of Titan's potential for hosting life, as it indicates that available nutrients could be more concentrated in smaller volumes of water, possibly facilitating the growth of simple organisms. The study, published in Nature, involved collaboration from researchers at the University of Washington and NASA, and its findings may influence future missions, including NASA's upcoming Dragonfly mission to Titan in 2028.

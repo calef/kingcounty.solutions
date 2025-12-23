@@ -188,7 +188,7 @@ source_url: https://wsdot.wa.gov/about/news/2025/projected-700000-sailing-throug
 summarized: true
 title: Projected 700,000 sailing through a winter waterland aboard state ferries during
   final 13 days of the year
-topics: []
+topic_titles: []
 ---
 
 Around 700,000 passengers are expected to travel on Washington State Ferries during the holiday season from Dec. 19 to Dec. 31. This surge in ridership is anticipated to push annual totals above 20 million for the first time since 2019. Travelers using vehicles should prepare for long waits at terminals. To avoid delays, passengers are encouraged to check the WSDOT mobile app or the WSF website for sailing schedules, terminal conditions, and vehicle reservations before heading out.

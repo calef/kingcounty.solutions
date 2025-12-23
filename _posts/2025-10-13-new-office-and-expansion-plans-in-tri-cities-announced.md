@@ -128,7 +128,7 @@ source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/10/new-tc-location/
 summarized: true
 title: New office and expansion plans in Tri-Cities announced
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

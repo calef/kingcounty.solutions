@@ -93,7 +93,7 @@ source: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/community-generosity-powers-a-season-of-giving-at-valley-cities/
 summarized: true
 title: Community generosity powers a season of giving at Valley Cities
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Personal & Household Needs
 - Financial Assistance

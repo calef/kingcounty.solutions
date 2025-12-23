@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/19/man-arrested-with-fentanyl-after-eluding-cops-in-stolen-truck/
 summarized: true
 title: Man Arrested With Fentanyl After Eluding Cops in Stolen Truck
-topics: []
+topic_titles: []
 ---
 
 Seattle police arrested a 31-year-old felon after he eluded officers in a stolen Ford F-150 on Nov. 18, 2025. The vehicle was located using an automatic license plate reader, prompting a pursuit aided by the King County Sheriff’s Guardian One helicopter. The driver recklessly fled through a residential area, and while the passenger escaped on foot, officers apprehended him shortly after. The helicopter continued to track the stolen truck until it stopped at a Goodwill parking lot in Ballard, where the driver changed clothes in an attempt to evade capture.

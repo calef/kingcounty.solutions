@@ -91,7 +91,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/17/research-study-for-parents-of-teens-who-use-aac/
 summarized: true
 title: Research Study for Parents of Teens Who Use AAC
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

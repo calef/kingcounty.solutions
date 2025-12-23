@@ -118,7 +118,7 @@ source_url: https://cisc-seattle.org/event/sunshine-garden-basic-yoga-3/2025-12-
 start_date: '2025-12-24T10:30:00-08:00'
 summarized: true
 title: 'Sunshine Garden: Basic Yoga'
-topics: []
+topic_titles: []
 ---
 
 Join us at Sunshine Garden on Dec. 24 from 10:30 to 11:30 a.m. for Basic Yoga. This session is designed for all skill levels, offering a welcoming environment to learn and practice fundamental yoga techniques. Led by an experienced instructor, attendees will engage in gentle stretches and breathing exercises to enhance relaxation and mindfulness. Located at 611 S. Lane St. in Seattle, this event is perfect for anyone looking to unwind and connect with the community. Don't miss this opportunity to find your inner peace amidst the holiday bustle!

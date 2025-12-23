@@ -122,7 +122,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143344/adaptive-sports-heal-vets-summer-sports-clinic/
 summarized: true
 title: Adaptive sports heal Salt Lake City Vets at Summer Sports Clinic
-topics: []
+topic_titles: []
 ---
 
 Veterans from the VA Salt Lake City Health Care System participated in the 2025 National Veterans Summer Sports Clinic from Aug. 23-30 in San Diego, California. The event hosted over 500 Veterans who engaged in adaptive sports like cycling, kayaking, sailing, and surfing.

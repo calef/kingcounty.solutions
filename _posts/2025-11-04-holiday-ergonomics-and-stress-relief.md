@@ -91,7 +91,7 @@ source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/holiday-ergonomics-and-stress-relief/
 summarized: true
 title: Holiday Ergonomics and Stress Relief
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

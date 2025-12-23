@@ -141,7 +141,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/19/winter-sensory-friendly-events-in-washington/
 summarized: true
 title: Winter Sensory Friendly Events in Washington
-topics:
+topic_titles:
 - Disabilities
 ---
 

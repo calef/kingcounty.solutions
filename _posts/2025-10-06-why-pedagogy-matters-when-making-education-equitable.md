@@ -14,7 +14,7 @@ source: Technology Access Foundation
 source_url: https://techaccess.org/why-pedagogy-matters-when-making-education-equitable/
 summarized: true
 title: Why Pedagogy Matters When Making Education Equitable
-topics:
+topic_titles:
 - Education & Learning
 ---
 

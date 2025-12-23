@@ -146,7 +146,7 @@ source: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/from-wondering-to-knowing-is-it-time-for-an-addiction-assessment/
 summarized: true
 title: 'From Wondering to Knowing: Is It Time for an Addiction Assessment?'
-topics: []
+topic_titles: []
 ---
 
 Recognizing the signs of addiction can be challenging, leading individuals to question whether an assessment is necessary. Symptoms such as increased tolerance, withdrawal issues, and neglecting responsibilities may indicate a potential problem. It is crucial to address these concerns early, as addiction can escalate over time, affecting health, relationships, and daily functioning.

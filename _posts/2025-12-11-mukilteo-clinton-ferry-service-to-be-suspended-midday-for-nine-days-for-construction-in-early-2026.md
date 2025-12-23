@@ -14,7 +14,7 @@ source_url: https://wsdot.wa.gov/about/news/2025/mukilteo-clinton-ferry-service-
 summarized: true
 title: Mukilteo/Clinton ferry service to be suspended midday for nine days for construction
   in early 2026
-topics: []
+topic_titles: []
 ---
 
 Washington State Ferries will suspend service on the Mukilteo/Clinton ferry route for nine days in early 2026 to conduct in-water construction at the Mukilteo terminal. The service will be interrupted during midday for four hours on specific dates: Jan. 6, 8, 9, 13, 16 and Feb. 3, 4, 6, 9. The Clinton route will halt from 8:30 a.m. to 1 p.m., while the Mukilteo route will pause from 9 a.m. to 1:30 p.m.

@@ -12,7 +12,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/staff-spotlight-molly-ebel/?utm_source=rss&utm_medium=rss&utm_campaign=staff-spotlight-molly-ebel
 summarized: true
 title: 'Staff Spotlight: Molly Ebel'
-topics:
+topic_titles:
 - Senior Services
 - Mental Health & Counseling
 ---

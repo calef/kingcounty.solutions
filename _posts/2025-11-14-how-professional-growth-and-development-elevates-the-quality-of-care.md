@@ -56,7 +56,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/elevating-the-quality-of-care-how-access-to-professional-growth-and-development-opportunities-positively-impacts-providers/
 summarized: true
 title: How Professional Growth and Development Elevates the Quality of Care
-topics:
+topic_titles:
 - Education & Learning
 ---
 

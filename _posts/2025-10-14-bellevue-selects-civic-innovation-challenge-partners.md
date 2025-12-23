@@ -61,7 +61,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/innovation-challenge-partners
 summarized: true
 title: Bellevue selects Civic Innovation Challenge partners
-topics: []
+topic_titles: []
 ---
 
 The city of Bellevue has chosen four technology innovators to participate in its Civic Innovation Challenge, aimed at developing AI solutions for municipal challenges. The selected partners are Certivo, Legislaide, Juganu, and FindIt, each piloting projects that will be tested in real-world environments at the city or Bellevue College. Certivo offers an AI platform for real-time vendor compliance monitoring. Legislaide employs AI to simplify legislative research by analyzing municipal codes and state statutes. Juganu's smart lighting system aims to enhance transportation and safety by monitoring curbside activity. FindIt, created by a local student, is an AI solution for efficiently locating lost items on campus.

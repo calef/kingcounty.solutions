@@ -13,7 +13,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27476
 summarized: true
 title: City Office Closed in Observance of Christmas Day
-topics: []
+topic_titles: []
 ---
 
 The city of Black Diamond will celebrate Christmas on December 25, 2025, with all-day festivities. Community members are encouraged to participate in various holiday activities planned throughout the day. Details about specific events, times, and locations will be announced closer to the date. Residents and visitors alike can look forward to a joyful celebration filled with holiday spirit.

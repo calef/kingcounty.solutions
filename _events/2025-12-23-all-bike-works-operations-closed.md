@@ -49,7 +49,7 @@ source_url: https://bikeworks.org/event/all-bike-works-operations-closed/
 start_date: '2025-12-23T08:00:00-08:00'
 summarized: true
 title: "***All Bike Works Operations Closed***"
-topics: []
+topic_titles: []
 ---
 
 All Bike Works will be closed for operations from Dec. 23, 2025, at 8 a.m. until Jan. 1, 2026, at 5 p.m. for the end-of-year holidays. During this time, attendees will not be able to access in-person services or events. However, the web store will remain open, allowing customers to shop online for bike-related products. Enjoy the holiday season, and we look forward to welcoming you back in the new year!

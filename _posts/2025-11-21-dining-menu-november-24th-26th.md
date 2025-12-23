@@ -28,7 +28,7 @@ source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-november-24th-26th/
 summarized: true
 title: Dining Menu November 24th – 26th
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

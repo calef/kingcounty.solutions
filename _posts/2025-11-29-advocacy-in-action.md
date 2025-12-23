@@ -13,7 +13,7 @@ source: Neighborhood House
 source_url: https://nhwa.org/2025/11/29/advocacy-in-action/
 summarized: true
 title: Advocacy in Action
-topics:
+topic_titles:
 - Health Care
 ---
 

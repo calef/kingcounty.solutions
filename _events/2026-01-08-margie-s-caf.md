@@ -230,7 +230,7 @@ source_url: https://wscenter.org/event/margies-cafe/2026-01-08/
 start_date: '2026-01-08T09:00:00-08:00'
 summarized: true
 title: Margie’s Café
-topics: []
+topic_titles: []
 ---
 
 Join us at Margie’s Café on Jan. 8, 2026, at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. This welcoming event offers a cozy atmosphere where attendees can enjoy coffee, refreshments, and engaging conversation. It’s a great opportunity to connect with neighbors and make new friends in the community. Whether you're looking to socialize or simply relax, Margie’s Café promises a delightful experience for all. Don’t miss this chance to gather and enjoy the warmth of community spirit.

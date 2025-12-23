@@ -15,7 +15,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/09/se-green-valley-road-flood-alert/
 summarized: true
 title: ALERT King County Message – SE Green Valley Road – Flood Alert
-topics: []
+topic_titles: []
 ---
 
 River levels in the SE Green Valley Road area, between SE Auburn Black Diamond Road and 218th Ave SE, are expected to remain high through Friday, Dec. 12. Residents are advised that while driving is still possible through Wednesday morning, safety is a priority. Motorists should head towards the Whitney Bridge, located upstream or east, to avoid hazardous conditions. Authorities warn against traveling through flooded areas and urge caution as water levels are projected to rise.

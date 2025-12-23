@@ -2191,7 +2191,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/85765/veteran-discounts-available-year-round/
 summarized: true
 title: Veteran & military year-round discounts
-topics:
+topic_titles:
 - Financial Assistance
 - Employment & Job Support
 ---

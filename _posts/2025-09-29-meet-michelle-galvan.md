@@ -65,7 +65,7 @@ source: Inatai Foundation
 source_url: https://inatai.org/news/meet-michelle-galvan/
 summarized: true
 title: Meet Michelle Galvan
-topics: []
+topic_titles: []
 ---
 
 Michelle Galvan has joined the Inatai Foundation as an accountant, bringing her reliable, considerate, and caring nature to the team. Originally from Yakima County, she discovered Inatai through event planner Gabriela “Gabby” Ramos, who highlighted the organization’s impactful work in Washington. Galvan was inspired by Inatai's mission and felt a strong desire to contribute after exploring its website.

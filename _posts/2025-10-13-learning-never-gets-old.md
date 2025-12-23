@@ -13,7 +13,7 @@ source: The Center for Active Living
 source_url: https://wscenter.org/learning-never-gets-old/
 summarized: true
 title: Learning never gets old
-topics:
+topic_titles:
 - Education & Learning
 ---
 

@@ -11,7 +11,7 @@ source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/21/metro-weekend-update-november-21-23-2025/
 summarized: true
 title: Metro Weekend Update – November 21-23, 2025
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

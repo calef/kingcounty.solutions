@@ -90,7 +90,7 @@ source: YouthCare
 source_url: https://youthcare.org/blog/youthcare-announces-strategic-plan-to-strengthen-its-core-mission/
 summarized: true
 title: YouthCare Announces Strategic Plan to Strengthen its Core Mission
-topics:
+topic_titles:
 - Shelter & Housing
 - Mental Health & Counseling
 - Employment & Job Support

@@ -10,7 +10,7 @@ source_url: https://www.commerce.wa.gov/november-2025-transportation-electrifica
 start_date: '2026-01-08T00:00:00-08:00'
 summarized: true
 title: Rails, Keels, and Wheels Program Application Deadline
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

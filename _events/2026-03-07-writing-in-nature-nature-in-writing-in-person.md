@@ -13,7 +13,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_ea44cd8a1
 start_date: '2026-03-07T13:00:00-08:00'
 summarized: true
 title: Writing in Nature, Nature in Writing (in-person)
-topics: []
+topic_titles: []
 ---
 
 Join the "Writing in Nature, Nature in Writing" event on March 7, 2026, from 1 p.m. to 3 p.m. at the Washington Park Arboretum in Seattle. This in-person workshop invites participants to explore the connection between the natural world and creative writing. Attendees can expect guided writing exercises inspired by the beautiful surroundings of the arboretum, fostering creativity and reflection. Whether you're a seasoned writer or a beginner, this event offers a unique opportunity to engage with nature and enhance your writing skills in a serene setting. Don't miss this chance to connect with fellow writers and the environment.

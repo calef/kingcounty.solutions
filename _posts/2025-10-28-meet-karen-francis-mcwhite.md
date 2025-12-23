@@ -67,7 +67,7 @@ source: Inatai Foundation
 source_url: https://inatai.org/news/meet-karen-francis-mcwhite/
 summarized: true
 title: Meet Karen Francis-McWhite
-topics: []
+topic_titles: []
 ---
 
 Karen Francis-McWhite has joined the Inatai Foundation as a strategy and impact program officer. With a diverse background, she transitioned from higher education to law and government in 2012, working on rural economic development and navigating COVID-19 recovery in Central Washington. Her career focuses on healing communities from past harms, aligning with Inatai's mission. Karen describes herself as curious, personable, and geeky, and she is eager to learn from and support marginalized communities across Washington and the Pacific Northwest.

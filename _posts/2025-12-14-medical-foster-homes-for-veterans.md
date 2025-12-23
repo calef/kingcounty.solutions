@@ -159,7 +159,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143887/medical-foster-homes-for-veterans/
 summarized: true
 title: Medical Foster Homes for Veterans
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 ---

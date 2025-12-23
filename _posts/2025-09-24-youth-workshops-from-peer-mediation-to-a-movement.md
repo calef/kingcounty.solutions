@@ -35,7 +35,7 @@ source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/youth-workshops-from-peer-mediation-to-a-movement/
 summarized: true
 title: 'Youth Workshops: From Peer Mediation to a Movement'
-topics:
+topic_titles:
 - Education & Learning
 - Disabilities
 ---

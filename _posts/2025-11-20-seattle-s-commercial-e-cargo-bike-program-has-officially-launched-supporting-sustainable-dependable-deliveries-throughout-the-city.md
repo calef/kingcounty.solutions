@@ -14,7 +14,7 @@ source_url: https://sdotblog.seattle.gov/2025/11/20/seattle-commercial-e-cargo-b
 summarized: true
 title: Seattle’s Commercial E-Cargo Bike Program Has Officially Launched, Supporting
   Sustainable & Dependable Deliveries Throughout the City
-topics:
+topic_titles:
 - Transportation & Mobility
 - Employment & Job Support
 ---

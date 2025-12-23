@@ -71,7 +71,7 @@ source: Angel Flight West
 source_url: https://angelflightwest.org/news/meet-afw-passenger-gabe/
 summarized: true
 title: Meet AFW Passenger Gabe
-topics:
+topic_titles:
 - Health Care
 - Transportation & Mobility
 ---

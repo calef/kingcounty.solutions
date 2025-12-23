@@ -46,7 +46,7 @@ source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/
 summarized: true
 title: '2025 Staff Favorites: Kids Books'
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 ---

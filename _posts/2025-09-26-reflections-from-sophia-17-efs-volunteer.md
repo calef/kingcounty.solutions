@@ -11,7 +11,7 @@ source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/reflections-from-sophia-efs-volunteer
 summarized: true
 title: Reflections from Sophia (17) - EFS Volunteer
-topics:
+topic_titles:
 - Personal & Household Needs
 - Shelter & Housing
 ---

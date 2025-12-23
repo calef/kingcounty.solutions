@@ -15,7 +15,7 @@ source_url: https://harrell.seattle.gov/2025/12/11/mayor-harrell-signs-new-polic
 summarized: true
 title: Mayor Harrell Signs New Police Contact to Permanently Expand CARE Department,
   Strengthen Accountability, and Improve Recruitment
-topics: []
+topic_titles: []
 ---
 
 Seattle Mayor Bruce Harrell signed a new contract with police officers that aims to permanently expand the Community and Accountability Response (CARE) department. This initiative is designed to enhance accountability within the police force and improve recruitment efforts. The contract represents a significant step in diversifying public safety responses in the city. It reflects a commitment to better address community needs and strengthen the relationship between law enforcement and the public. The CARE department’s expansion is expected to lead to improved services and a more effective response to various public safety concerns. Mayor Harrell emphasized the importance of this contract in fostering a safer Seattle through innovative policing strategies.

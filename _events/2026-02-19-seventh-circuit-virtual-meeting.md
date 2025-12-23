@@ -7710,7 +7710,7 @@ source_url: https://nosscr.org/event/seventh-circuit-virtual-meeting/
 start_date: '2026-02-19T14:30:00-05:00'
 summarized: true
 title: Seventh Circuit Virtual Meeting
-topics: []
+topic_titles: []
 ---
 
 Join us for the Seventh Circuit Virtual Meeting on Feb. 19, 2026, at 2:30 p.m. Eastern Time. This engaging online event will provide attendees with the opportunity to discuss important legal issues, share insights, and collaborate with peers from various backgrounds. Participants can expect thought-provoking presentations, interactive discussions, and networking opportunities that foster professional growth and community engagement. Don't miss this chance to connect with fellow legal professionals and stay updated on the latest developments in the field.

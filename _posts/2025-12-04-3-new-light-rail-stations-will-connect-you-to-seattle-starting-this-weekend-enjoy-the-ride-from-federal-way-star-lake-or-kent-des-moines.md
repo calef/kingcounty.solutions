@@ -14,7 +14,7 @@ source_url: https://sdotblog.seattle.gov/2025/12/03/federal-way-link-extension/
 summarized: true
 title: 3 new light rail stations will connect you to Seattle starting this weekend!
   Enjoy the ride from Federal Way, Star Lake, or Kent Des Moines.
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

@@ -12,7 +12,7 @@ source_url: https://greenspace.seattle.gov/2025/12/milestones-and-momentum-seatt
 summarized: true
 title: 'Milestones and Momentum: Seattle’s Duwamish Valley Program celebrates 2025
   wins with community partners  '
-topics: []
+topic_titles: []
 ---
 
 Seattle's Duwamish Valley Program is celebrating significant achievements in 2025, focusing on youth engagement, infrastructure development, and climate readiness in the South Park and Georgetown neighborhoods. The program has successfully involved local children and teenagers in various initiatives aimed at enhancing community resilience. Key accomplishments include the construction of new green spaces, improved stormwater management systems, and increased access to recreational areas. These efforts are designed to create a safer and healthier environment for residents. The program also emphasizes collaboration with community partners to address climate challenges and promote sustainability. This year's milestones highlight the importance of community involvement in shaping a greener future for the Duwamish Valley. As the program moves forward, it aims to continue building on these successes while fostering a stronger, more connected community.

@@ -56,7 +56,7 @@ source_url: https://news.va.gov/143231/va-research-wrap-up-brain-interfaces-canc
 summarized: true
 title: 'VA Research Wrap Up: New findings on brain-computer interfaces, cancer treatment
   and age-friendly care'
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 ---

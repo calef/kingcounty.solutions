@@ -38,7 +38,7 @@ source_url: https://www.tukwilawa.gov/event/electric-cello-concert-with-gretchen
 start_date: '2025-12-23T15:00:00-08:00'
 summarized: true
 title: Electric Cello Concert with Gretchen Yanover
-topics:
+topic_titles:
 - Disabilities
 ---
 

@@ -22,7 +22,7 @@ source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/chads-second-chance/
 summarized: true
 title: Chad’s second chance
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 - Shelter & Housing

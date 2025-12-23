@@ -45,7 +45,7 @@ source_url: https://kidvantagenw.org/event/holiday-closure/
 start_date: '2025-12-22T00:00:00-08:00'
 summarized: true
 title: Holiday Closure
-topics:
+topic_titles:
 - Childcare
 ---
 

@@ -51,7 +51,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/a-long-journey-home-nikki-and-saras-story
 summarized: true
 title: 'a long journey home: Nikki and Sara’s story'
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition

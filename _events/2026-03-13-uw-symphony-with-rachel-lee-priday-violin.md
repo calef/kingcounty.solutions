@@ -17,7 +17,7 @@ source_url: https://music.washington.edu/events/2026-03-13/uw-symphony-orchestra
 start_date: '2026-03-13T19:30:00-07:00'
 summarized: true
 title: UW Symphony with Rachel Lee Priday, violin
-topics: []
+topic_titles: []
 ---
 
 Experience an enchanting evening with the UW Symphony featuring acclaimed violinist Rachel Lee Priday on March 13, 2026, at Meany Hall. Attendees can expect a captivating performance that showcases the symphony's talent and Priday's exceptional skill. The event promises a rich musical journey, perfect for both classical music enthusiasts and newcomers alike. Join fellow community members for a night of inspiring artistry and cultural engagement. Don't miss this opportunity to immerse yourself in a beautiful concert atmosphere.

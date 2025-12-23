@@ -27,7 +27,7 @@ source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/a-simple-question-can-help-save-a-life/
 summarized: true
 title: A Simple Question Can Help Save a Life
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

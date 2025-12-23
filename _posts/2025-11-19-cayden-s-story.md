@@ -42,7 +42,7 @@ source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/family-stories/cayden/
 summarized: true
 title: Cayden’s Story
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 - Mental Health & Counseling

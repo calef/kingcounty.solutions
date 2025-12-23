@@ -250,7 +250,7 @@ start_date: '2025-12-30T10:00:00-08:00'
 summarized: true
 title: 'Pancreatic Cancer Support Group: Building Resilience Sponsored by Virginia
   Mason Franciscan Health'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

@@ -100,7 +100,7 @@ source_url: https://www.bellevuelifespring.org/general/a-farewell-to-uncork-the-
 summarized: true
 title: A Farewell to Uncork the Night | A Celebration of Wine and Giving Benefiting
   Bellevue Children
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

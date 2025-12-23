@@ -15,7 +15,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/08/heavy-rain-and-river-flooding-anticipated-this-week/
 summarized: true
 title: Heavy rain and river flooding anticipated this week
-topics: []
+topic_titles: []
 ---
 
 The Puget Sound region is preparing for heavy rain this week, attributed to an atmospheric river. This weather phenomenon brings moisture from the tropics, causing rivers to swell and potentially overflow. The National Weather Service has issued warnings as persistent rainfall is expected to continue, raising concerns about flooding in local areas. Residents are advised to stay alert and take precautions as the situation develops.

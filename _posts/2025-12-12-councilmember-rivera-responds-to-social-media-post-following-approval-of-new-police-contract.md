@@ -14,7 +14,7 @@ source_url: https://council.seattle.gov/2025/12/12/councilmember-rivera-responds
 summarized: true
 title: Councilmember Rivera responds to social media post following approval of new
   police contract
-topics: []
+topic_titles: []
 ---
 
 Councilmember Maritza Rivera of District 4 expressed disappointment over a social media post made by the president of the Seattle Police Officers Guild following the approval of a new police contract. Rivera emphasized that the negotiations for the contract should not be influenced by social media commentary. She highlighted the importance of constructive dialogue and mutual respect in the process of police reform and public safety. Rivera's statement reflects ongoing discussions about police accountability and community relations in Seattle.

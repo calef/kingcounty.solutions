@@ -153,7 +153,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143280/how-to-get-better-sleep/
 summarized: true
 title: How to get better sleep
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

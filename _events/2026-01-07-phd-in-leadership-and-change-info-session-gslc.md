@@ -96,7 +96,7 @@ source_url: https://www.antioch.edu/event/phd-in-leadership-and-change-info-sess
 start_date: '2026-01-07T19:00:00-05:00'
 summarized: true
 title: PhD in Leadership and Change Info Session | GSLC
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

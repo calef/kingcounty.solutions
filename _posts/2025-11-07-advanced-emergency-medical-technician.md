@@ -1012,7 +1012,7 @@ source: Pima Medical Institute Seattle Community Dental Clinic
 source_url: https://pmi.edu/on-campus-programs/certificate/advanced-emergency-medical-technician/
 summarized: true
 title: Advanced Emergency Medical Technician
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 - Health Care

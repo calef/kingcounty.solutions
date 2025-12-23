@@ -95,7 +95,7 @@ source: The Deaf Hotline
 source_url: https://www.thedeafhotline.org/blog/how-dv-and-sa-impacts-mental-health/
 summarized: true
 title: How DV and SA Impacts Mental Health
-topics:
+topic_titles:
 - Domestic Violence
 - Mental Health & Counseling
 ---

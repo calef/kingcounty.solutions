@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/03/man-armed-with-hatchet-arrested-in-downtown-seattle/
 summarized: true
 title: Man Armed with Hatchet Arrested in Downtown Seattle
-topics: []
+topic_titles: []
 ---
 
 A man was arrested in downtown Seattle after being spotted walking with a hatchet. Police received reports of a man threatening individuals with the weapon near 3rd Avenue and Pine Street. Officers arrived and found the suspect, who attempted to flee but was quickly apprehended. No injuries were reported from the incident, and the hatchet was recovered. The man was booked into jail for investigation of felony harassment and possession of a weapon. Police emphasized the importance of public safety and urged anyone feeling threatened to contact law enforcement immediately.

@@ -36,7 +36,7 @@ source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-8th-12th/
 summarized: true
 title: Dining Menu December 8th – 12th
-topics:
+topic_titles:
 - Senior Services
 - Food & Nutrition
 ---

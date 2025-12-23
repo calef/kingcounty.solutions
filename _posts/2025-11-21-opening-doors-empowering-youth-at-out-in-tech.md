@@ -21,7 +21,7 @@ source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/opening-doors-empowering-youth-at-out-in-tech/
 summarized: true
 title: 'Opening Doors: Empowering Youth at Out-in-Tech'
-topics:
+topic_titles:
 - Employment & Job Support
 - Education & Learning
 ---

@@ -261,7 +261,7 @@ source_url: https://worksourceskc.org/event/digital-literacy-learning-lab-4645/
 start_date: '2025-12-24T12:30:00-08:00'
 summarized: true
 title: Digital Literacy Learning Lab
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

@@ -24,7 +24,7 @@ source: Sno-Valley Senior Center
 source_url: https://snovalleysenior.org/august-2025-directors-letter/
 summarized: true
 title: August 2025 Director’s Letter
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

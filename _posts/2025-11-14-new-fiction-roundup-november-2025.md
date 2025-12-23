@@ -192,7 +192,7 @@ source: Homework Help
 source_url: https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/
 summarized: true
 title: New Fiction Roundup, November 2025
-topics: []
+topic_titles: []
 ---
 
 November 2025 brings a diverse selection of new fiction releases. Notable titles include **Bitter Honey** by Lolá Ákínmádé, which explores the complexities of a mother-daughter relationship against a backdrop of immigration and secrets. **Cursed Daughters** by Oyinkan Braithwaite tells the story of Eniiyi, who grapples with familial curses and reincarnation. Salman Rushdie's **The Eleventh Hour** features five stories reflecting on mortality across different cultures. **The Land in Winter** by Andrew Miller delves into the struggles of two pregnant couples facing a harsh winter in England, while **Lightbreakers** by Aja Gabel examines a couple's confrontation with their grief through a time-traveling project.

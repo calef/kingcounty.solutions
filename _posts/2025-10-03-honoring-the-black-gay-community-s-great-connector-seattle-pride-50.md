@@ -13,7 +13,7 @@ source: Neighborhood House
 source_url: https://nhwa.org/2025/10/03/honoring-the-black-gay-communitys-great-connector-seattle-pride-50/
 summarized: true
 title: Honoring the Black gay community’s great connector | Seattle Pride 50
-topics:
+topic_titles:
 - Health Care
 - Employment & Job Support
 ---

@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/12/04/seattle-restored-in-lake-city-helps-mama-rows-caramels-turn-pain-into-purpose/
 summarized: true
 title: Seattle Restored in Lake City helps Mama Row’s Caramel turn pain into purpose
-topics: []
+topic_titles: []
 ---
 
 Mama Row's Caramels, based in Lake City, Seattle, is a small business that has turned personal tragedy into a story of resilience and purpose. Founded by a mother who lost her son, the company creates artisan caramels while honoring his memory. With a mission to support other families facing loss, Mama Row's donates a portion of its profits to organizations that help grieving parents.

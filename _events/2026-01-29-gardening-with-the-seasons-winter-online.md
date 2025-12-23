@@ -12,7 +12,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_363dfa8fb
 start_date: '2026-01-29T19:00:00-08:00'
 summarized: true
 title: 'Gardening with the Seasons: Winter (online)'
-topics: []
+topic_titles: []
 ---
 
 Join us for "Gardening with the Seasons: Winter," an engaging online workshop scheduled for Jan. 29, 2026, at 7 p.m. PST. This event will explore winter gardening techniques, helping you understand how to care for your garden during the colder months. Attendees can expect to learn about plant selection, soil preparation, and seasonal maintenance tips that will keep their gardens thriving even in winter. Connect with fellow gardening enthusiasts and gain valuable insights from experienced gardeners, all from the comfort of your home via Zoom. Don’t miss this opportunity to enhance your gardening skills and prepare for the upcoming spring!

@@ -347,7 +347,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143907/preventing-falls/
 summarized: true
 title: Preventing falls
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 ---

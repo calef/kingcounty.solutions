@@ -21,7 +21,7 @@ source: Transforming Age
 source_url: https://transformingage.org/blog/living-with-gratitude-37/
 summarized: true
 title: Living with gratitude.
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

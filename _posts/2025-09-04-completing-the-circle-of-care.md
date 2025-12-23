@@ -16,7 +16,7 @@ source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/completing-the-circle-of-care-why-i-founded-the-orion-center-for-integrative-medicine-dr-bonnie-mcgregor/
 summarized: true
 title: Completing the Circle of Care
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

@@ -14,7 +14,7 @@ source: Rainier Foothills Wellness Foundation
 source_url: https://rfwellnessfoundation.org/blog/community-in-crisis/
 summarized: true
 title: Community in Crisis
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

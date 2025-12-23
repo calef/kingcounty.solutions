@@ -39,7 +39,7 @@ source_url: https://www.washington.edu/www.uwsurplus.com
 start_date: '2025-12-24T10:00:00-08:00'
 summarized: true
 title: UW Surplus Online Store
-topics: []
+topic_titles: []
 ---
 
 Shop sustainably at the UW Surplus Online Store, launching on Dec. 24, 2025, at the Plant Services Building. This special event allows attendees to browse a variety of furniture, office essentials, and other items sourced from unwanted inventory across the University of Washington. New items are added every Wednesday at 10 a.m., making it easy to find unique and affordable products while supporting environmental efforts to reduce waste. Customers can purchase items online and pick them up within a week. This initiative promotes the reuse and recycling of materials, helping to lessen the university's climate impact. Don't miss this opportunity to shop sustainably and discover new treasures at UW Surplus. For more information, contact surplus@uw.edu.

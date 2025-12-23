@@ -49,7 +49,7 @@ source_url: https://bikeworks.org/event/warehouse-sale-4/2026-01-03/
 start_date: '2026-01-03T13:00:00-08:00'
 summarized: true
 title: Warehouse sale
-topics: []
+topic_titles: []
 ---
 
 Join us for a warehouse sale at Bike Works on Jan. 3, 2026, from 1 to 4 p.m. Located at 3715 S. Hudson St. #111 in Seattle, this event is a fantastic opportunity to find great deals on used bikes, parts, and more as we make space for newly donated items. Expect to see about 18 bikes available each day, ready for new homes. Whether you're a cycling enthusiast or just looking for a bargain, bring a wagon and some gloves to help us keep the Seattle bicycle ecosystem thriving. Don't miss this chance to support a great cause while scoring some amazing finds!

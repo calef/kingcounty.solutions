@@ -75,7 +75,7 @@ source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/national-minority-mental-health-month/
 summarized: true
 title: National Minority Mental Health Month
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Health Care
 ---

@@ -9,7 +9,7 @@ source_url: https://ihdd.org/2025/11/13/ihdd-pilot-grant-applications-now-open-f
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: IHDD Pilot Grant Application Deadline
-topics:
+topic_titles:
 - Disabilities
 ---
 

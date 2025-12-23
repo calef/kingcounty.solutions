@@ -78,7 +78,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/free-thanksgiving-meals-in-the-seattle-area
 summarized: true
 title: Free Community Thanksgiving Meals in the Seattle Area
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

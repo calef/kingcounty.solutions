@@ -14,7 +14,7 @@ source: Multi-Service Center
 source_url: https://mschelps.org/msc-named-as-recipient-of-gesa-credit-unions-local-heroes-grant/
 summarized: true
 title: MSC named as recipient of Gesa Credit Union’s Local Heroes Grant
-topics:
+topic_titles:
 - Employment & Job Support
 - Shelter & Housing
 ---

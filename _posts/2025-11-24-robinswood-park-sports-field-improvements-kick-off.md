@@ -36,7 +36,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/robinswood-park-sports-field-improvements-kick
 summarized: true
 title: Robinswood Park sports field improvements kick off
-topics: []
+topic_titles: []
 ---
 
 Construction at Robinswood Park is set to begin on Dec. 1, focusing on installing new synthetic turf for two sports fields and upgrading the field lighting. Parks and Community Services Director Michael Shiosaki noted that these fields are the most utilized in the park system. The project is partially funded by the 2022 Parks and Open Space Levy, thanks to voter support.

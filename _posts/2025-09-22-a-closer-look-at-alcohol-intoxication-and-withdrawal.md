@@ -150,7 +150,7 @@ source: Lakeside-Milam Recovery Centers
 source_url: https://lakesidemilam.com/blog/a-closer-look-at-alcohol-intoxication-and-withdrawal/
 summarized: true
 title: A Closer Look at Alcohol Intoxication and Withdrawal
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Health Care
 ---

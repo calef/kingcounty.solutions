@@ -123,7 +123,7 @@ source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/s83f5lpwk72dl4tlzlpucim3iotan1
 summarized: true
 title: Give the gift of dignity
-topics:
+topic_titles:
 - Personal & Household Needs
 - Financial Assistance
 - Food & Nutrition

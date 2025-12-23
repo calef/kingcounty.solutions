@@ -19,7 +19,7 @@ source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/15/teen-health-law/
 summarized: true
 title: Teen Health Law
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

@@ -37,7 +37,7 @@ source: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/08/compass-selected-again-as-seahawks-spirit-of-12-partner/
 summarized: true
 title: Compass selected AGAIN as Seahawks “Spirit of 12” Partner!
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

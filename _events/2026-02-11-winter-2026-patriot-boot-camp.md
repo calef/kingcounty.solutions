@@ -44,7 +44,7 @@ source_url: https://www.dav.org/events-calendar/winter-2026-patriot-boot-camp/
 start_date: '2026-02-11T00:00:00-08:00'
 summarized: true
 title: Winter 2026 Patriot Boot Camp
-topics: []
+topic_titles: []
 ---
 
 Join us for the Winter 2026 Patriot Boot Camp from February 11 to February 14, 2026. This dynamic event is designed for veterans and military spouses looking to launch or grow their entrepreneurial ventures. Attendees can expect hands-on workshops, expert mentorship, and networking opportunities with fellow entrepreneurs and industry leaders. Participants will gain valuable insights into business development, funding strategies, and innovative practices to enhance their startup journey. Don't miss this chance to connect and empower your entrepreneurial spirit!

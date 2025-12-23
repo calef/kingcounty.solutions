@@ -12,7 +12,7 @@ source_url: https://www.hopelink.org/blog/historic-washington-flooding-how-you-c
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true
 title: Free Flood Debris Disposal
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Shelter & Housing

@@ -42,7 +42,7 @@ source_url: https://cancerlifeline.org/event/vital-moves-mondays-sponsored-by-ev
 start_date: '2025-12-22T12:00:00-08:00'
 summarized: true
 title: Vital Moves Mondays Sponsored by EvergreenHealth
-topics:
+topic_titles:
 - Health Care
 - Senior Services
 ---

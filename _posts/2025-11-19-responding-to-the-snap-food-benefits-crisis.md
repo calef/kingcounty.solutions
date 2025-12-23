@@ -59,7 +59,7 @@ source: Solid Ground
 source_url: https://www.solid-ground.org/responding-to-the-snap-food-benefits-crisis/
 summarized: true
 title: Responding to the SNAP food benefits crisis 
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

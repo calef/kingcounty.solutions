@@ -230,7 +230,7 @@ source_url: https://wscenter.org/event/casual-spanish-conversation-class-2-2-2/2
 start_date: '2026-01-08T10:00:00-08:00'
 summarized: true
 title: Casual Spanish Conversation Class
-topics:
+topic_titles:
 - Education & Learning
 - Senior Services
 ---

@@ -15,7 +15,7 @@ source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/11/28/fractured-fairy-tales-and-female-antiheroes-5-readalikes-for-fans-of-wicked/
 summarized: true
 title: Fractured Fairy Tales and Female Antiheroes, 5 Readalikes for Fans of Wicked
-topics: []
+topic_titles: []
 ---
 
 Fans of "Wicked" will appreciate these five read-alikes that explore fractured fairy tales and feature compelling female antiheroes.

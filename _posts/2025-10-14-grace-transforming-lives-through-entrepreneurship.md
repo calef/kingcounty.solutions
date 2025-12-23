@@ -12,7 +12,7 @@ source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/grace-transforming-lives-through-entrepreneurship/
 summarized: true
 title: 'Grace: Transforming lives through entrepreneurship'
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 - Financial Assistance

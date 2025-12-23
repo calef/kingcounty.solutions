@@ -21,7 +21,7 @@ source_url: https://yarrowpointwa.gov/2025/12/notice-canceled-town-planning-comm
 summarized: true
 title: 'NOTICE: * CANCELED * Town Planning Commission Regular Meeting – December 16,
   2025: 6:00 PM/ Town Hall'
-topics: []
+topic_titles: []
 ---
 
 The regular Town Planning Commission meeting set for December 16, 2025, has been canceled because there is not enough members available to form a quorum. The next Planning Commission meeting will take place on January 20, 2026, at 6:00 p.m. at Town Hall.

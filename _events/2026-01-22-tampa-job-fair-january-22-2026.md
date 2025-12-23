@@ -40,7 +40,7 @@ source_url: https://www.dav.org/events-calendar/tampa-job-fair-january-22-2026/
 start_date: '2026-01-22T00:00:00-08:00'
 summarized: true
 title: Tampa Job Fair, January 22, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

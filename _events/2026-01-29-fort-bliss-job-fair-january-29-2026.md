@@ -40,7 +40,7 @@ source_url: https://www.dav.org/events-calendar/fort-bliss-job-fair-january-29-2
 start_date: '2026-01-29T00:00:00-08:00'
 summarized: true
 title: Fort Bliss Job Fair, January 29, 2026
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/strategic-plan-update-and-engagement-form
 summarized: true
 title: strategic plan update and engagement form
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 - Employment & Job Support

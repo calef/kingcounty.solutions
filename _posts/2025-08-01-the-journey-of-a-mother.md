@@ -13,7 +13,7 @@ source: Indian American Community Services
 source_url: https://iacswa.org/journey-of-a-mother/
 summarized: true
 title: The Journey of a Mother
-topics:
+topic_titles:
 - Employment & Job Support
 - Education & Learning
 - Transportation & Mobility

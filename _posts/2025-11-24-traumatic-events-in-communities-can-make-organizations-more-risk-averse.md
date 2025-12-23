@@ -27,7 +27,7 @@ source: University of Washington
 source_url: https://www.washington.edu/news/2025/11/24/traumatic-events-in-communities-can-make-organizations-more-risk-averse/
 summarized: true
 title: Traumatic events in communities can make organizations more risk-averse
-topics: []
+topic_titles: []
 ---
 
 New research from the University of Washington reveals that violent traumatic events in communities, such as mass shootings, significantly reduce organizational risk-taking. This study, published in the *Academy of Management Journal*, challenges the notion that decision-makers are purely rational and unaffected by external emotional states. It demonstrates that emotional experiences in the community can influence workplace decisions, leading to a decreased focus on ambitious goals.

@@ -39,7 +39,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/a-safe-home-for-the-holidays-nicole-and-ellas-journey-out-of-homelessness
 summarized: true
 title: 'a safe home for the holidays: nicole and ella’s journey out of homelessness'
-topics:
+topic_titles:
 - Disabilities
 - Financial Assistance
 - Shelter & Housing

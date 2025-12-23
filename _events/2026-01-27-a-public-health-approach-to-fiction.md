@@ -13,7 +13,7 @@ source_url: https://events.teams.microsoft.com/event/1f77c67d-be1d-444f-92fd-9ab
 start_date: '2026-01-27T14:00:00-08:00'
 summarized: true
 title: A Public Health Approach to Fiction
-topics:
+topic_titles:
 - Health Care
 ---
 

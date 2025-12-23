@@ -111,7 +111,7 @@ source_url: https://www.brightspark.org/2025/10/capitol-courier-join-us-for-a-co
 summarized: true
 title: 'Capitol Courier: Join us for a Community Conversation about Prop 1 and the
   FEPP Levy'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

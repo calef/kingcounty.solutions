@@ -13,7 +13,7 @@ source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/snap-uncertainty-piles-on-stress-at-local-food-banks/
 summarized: true
 title: SNAP uncertainty piles on stress at local food banks
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

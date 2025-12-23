@@ -17,7 +17,7 @@ source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1
 start_date: '2026-02-11T17:00:00-08:00'
 summarized: true
 title: 'Find the Right Fit: Foster MBA Programs for Working Professionals'
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

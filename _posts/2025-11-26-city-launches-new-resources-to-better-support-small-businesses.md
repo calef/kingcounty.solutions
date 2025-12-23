@@ -67,7 +67,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/city-launches-new-resources-better-support-small-businesses
 summarized: true
 title: City launches new resources to better support small businesses
-topics: []
+topic_titles: []
 ---
 
 Bellevue has launched new resources aimed at better supporting small businesses in the city. These resources include an updated business website, a centralized online hub for information, and a series of workshops and events tailored for entrepreneurs. The city is committed to fostering a robust business environment, recognizing the essential role small businesses play in the local economy.

@@ -267,7 +267,7 @@ source_url: https://worksourceskc.org/event/online-strategies-for-success-person
 start_date: '2025-12-29T09:00:00-08:00'
 summarized: true
 title: 'Online: Strategies for Success: Personal Strength Builders ( Wenatchee)'
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

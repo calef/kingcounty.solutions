@@ -36,7 +36,7 @@ source: City of Des Moines
 source_url: https://www.desmoineswa.gov/news/what_s_new/des_moines_animal_control_f_a_q/
 summarized: true
 title: Animal Control Coming Soon!
-topics: []
+topic_titles: []
 ---
 
 Des Moines will reinstate a dedicated animal control position starting April 1, 2026, under a contract with Burien CARES. The City Council voted on December 11, 2025, to bring back the animal control officer, who will work 40 hours per week and provide 24/7 emergency response. A backup officer will be available for emergencies when the primary officer is off duty. The officer will also manage the sheltering of animals related to emergency and public safety issues. However, due to limited shelter space, Burien CARES cannot accept animals dropped off by the public. The annual contract, totaling $80,000, will be funded by new revenue from the public safety sales tax and pet licensing fees.

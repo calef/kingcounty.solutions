@@ -25,7 +25,7 @@ source: Eastside Legal Assistance Program
 source_url: https://elap.org/plan-for-the-future-with-a-will/?utm_source=rss&utm_medium=rss&utm_campaign=plan-for-the-future-with-a-will
 summarized: true
 title: Plan for the future with a will
-topics:
+topic_titles:
 - Domestic Violence
 - Financial Assistance
 ---

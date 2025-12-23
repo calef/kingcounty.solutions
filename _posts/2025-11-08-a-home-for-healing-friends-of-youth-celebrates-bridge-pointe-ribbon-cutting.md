@@ -16,7 +16,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/a-home-for-healing-friends-of-youth-celebrates-bridge-pointe-ribbon-cutting
 summarized: true
 title: 'a home for healing: friends of youth celebrates bridge pointe ribbon cutting'
-topics:
+topic_titles:
 - Shelter & Housing
 - Mental Health & Counseling
 - Employment & Job Support

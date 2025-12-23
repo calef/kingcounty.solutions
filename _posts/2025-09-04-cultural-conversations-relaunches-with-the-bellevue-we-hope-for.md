@@ -58,7 +58,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/cultural-conversations-relaunch
 summarized: true
 title: Cultural Conversations relaunches with ‘The Bellevue We Hope For’
-topics:
+topic_titles:
 - Education & Learning
 - Disabilities
 ---

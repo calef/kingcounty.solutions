@@ -339,7 +339,7 @@ source: Solid Ground
 source_url: https://www.solid-ground.org/when-community-becomes-family/
 summarized: true
 title: When community becomes family 
-topics:
+topic_titles:
 - Domestic Violence
 - Mental Health & Counseling
 - Shelter & Housing

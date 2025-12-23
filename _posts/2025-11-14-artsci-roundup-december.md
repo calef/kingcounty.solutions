@@ -74,7 +74,7 @@ source: University of Washington
 source_url: https://www.washington.edu/news/2025/11/14/artsci-roundup-december/
 summarized: true
 title: 'ArtSci Roundup: December'
-topics: []
+topic_titles: []
 ---
 
 Explore an array of events and exhibitions happening at the University of Washington this December. The Henry Art Gallery features "Ghost(ed) Notes" by Christine Sun Kim, which merges graphic notation and American Sign Language, and "Spirit House," showcasing contemporary Asian artists addressing life and death themes. The podcast "American Prestige" continues to provide insights into U.S. foreign policy, while recent MFA graduates are making their mark in the art scene with exhibitions in local galleries.

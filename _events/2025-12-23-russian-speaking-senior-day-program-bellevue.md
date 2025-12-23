@@ -147,7 +147,7 @@ source_url: https://cisc-seattle.org/event/russian-speaking-senior-day-program-2
 start_date: '2025-12-23T09:30:00-08:00'
 summarized: true
 title: Russian-Speaking Senior Day Program (Bellevue)
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 ---

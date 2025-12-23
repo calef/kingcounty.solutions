@@ -24,7 +24,7 @@ source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/artists-for-food-justice-december/
 summarized: true
 title: 'Food is Joy: Eddie Gonzalez'
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

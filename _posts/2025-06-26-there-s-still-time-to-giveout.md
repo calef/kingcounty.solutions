@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/there-s-still-time-to-giveout
 summarized: true
 title: 'there''s still time to #GiveOUT'
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Employment & Job Support

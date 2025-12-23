@@ -81,7 +81,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-6-24-25
 summarized: true
 title: 'Council Roundup: Council approves middle housing regulations'
-topics:
+topic_titles:
 - Shelter & Housing
 - Disabilities
 ---

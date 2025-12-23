@@ -69,7 +69,7 @@ source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/%f0%9f%8e%83-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%258e%2583-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween
 summarized: true
 title: "\U0001F383 Don’t Get Spooked by Flood Season: Be Flood Ready This Halloween"
-topics:
+topic_titles:
 - Shelter & Housing
 - Transportation & Mobility
 ---

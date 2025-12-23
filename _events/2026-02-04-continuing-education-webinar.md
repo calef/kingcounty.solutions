@@ -7708,7 +7708,7 @@ source_url: https://nosscr.org/event/continuing-education-webinar-6/
 start_date: '2026-02-04T15:00:00-05:00'
 summarized: true
 title: Continuing Education Webinar
-topics:
+topic_titles:
 - Education & Learning
 ---
 

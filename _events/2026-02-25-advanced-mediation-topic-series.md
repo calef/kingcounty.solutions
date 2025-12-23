@@ -52,7 +52,7 @@ source_url: https://kcdrc.org/event/advanced-mediation-topic-series-3/
 start_date: '2026-02-25T09:00:00-08:00'
 summarized: true
 title: Advanced Mediation Topic Series
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 ---

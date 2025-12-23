@@ -21,7 +21,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/17/flood-recovery-resources-and-information/
 summarized: true
 title: Flood recovery resources and information
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Shelter & Housing

@@ -230,7 +230,7 @@ source_url: https://wscenter.org/event/conversational-german/2026-01-09/
 start_date: '2026-01-09T09:45:00-08:00'
 summarized: true
 title: Conversational German
-topics:
+topic_titles:
 - Education & Learning
 ---
 

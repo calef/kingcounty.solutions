@@ -59,7 +59,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143184/nurture-your-soul-with-an-attitude-of-gratitude/
 summarized: true
 title: Nurture your soul with an attitude of gratitude
-topics: []
+topic_titles: []
 ---
 
 Gratitude is a powerful practice that can significantly improve mental health and overall well-being. Engaging in an attitude of gratitude helps individuals cultivate positive emotions, leading to increased happiness and reduced stress. Simple acts of appreciation, such as keeping a gratitude journal or expressing thanks to others, can enhance one’s outlook on life. Research shows that gratitude can improve sleep, boost self-esteem, and foster stronger relationships.

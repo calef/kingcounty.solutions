@@ -24,7 +24,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/celebrating-a-season-of-giving-thank-you-for-making-our-giving-tree-a-success
 summarized: true
 title: 'celebrating a season of giving: thank you for making our giving tree a success!'
-topics:
+topic_titles:
 - Childcare
 - Food & Nutrition
 - Personal & Household Needs

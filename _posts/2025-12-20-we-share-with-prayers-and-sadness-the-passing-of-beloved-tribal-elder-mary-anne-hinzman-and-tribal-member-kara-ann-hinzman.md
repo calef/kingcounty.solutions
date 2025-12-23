@@ -45,7 +45,7 @@ source_url: https://snoqualmietribe.us/we-share-with-prayers-and-sadness-the-pas
 summarized: true
 title: We share with prayers and sadness the passing of beloved Tribal Elder Mary
   Anne Hinzman and Tribal Member Kara Ann Hinzman
-topics: []
+topic_titles: []
 ---
 
 The Snoqualmie Tribe mourns the loss of Tribal Elder Mary Anne Hinzman and Tribal Member Kara Ann Hinzman, who both passed away on December 19, 2025. Mary Anne Hinzman was born on October 16, 1943, while Kara Ann Hinzman was born on July 6, 1993. The tribe expresses its sadness and extends prayers for their families. In honor of their memory, tribal flags are flying at half-staff as a sign of respect. Additional information will be shared as it becomes available.

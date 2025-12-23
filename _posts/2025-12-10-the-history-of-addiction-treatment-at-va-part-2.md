@@ -113,7 +113,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143287/part-2-crisis-morphinism-national-homes/
 summarized: true
 title: The history of addiction treatment at VA, Part 2
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 - Mental Health & Counseling

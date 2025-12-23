@@ -13,7 +13,7 @@ source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/wh
 summarized: true
 title: When to Terminate Coverage for Consumers Transitioning from Marketplace to
   Medicare Coverage
-topics:
+topic_titles:
 - Health Care
 - Financial Assistance
 ---

@@ -53,7 +53,7 @@ source_url: https://normandyparkwa.gov/event/city-hall-will-be-close-on-christma
 start_date: '2025-12-25T00:00:00-08:00'
 summarized: true
 title: City Hall will be Closed on Christmas Day
-topics: []
+topic_titles: []
 ---
 
 City Hall in Normandy Park will be closed on Christmas Day, December 25, 2025. Residents and visitors should plan accordingly, as city services will not be available on this holiday. The closure applies to all departments within City Hall, located at 801 SW 174th Street, Normandy Park, WA 98166. For any inquiries or assistance, please contact the city at 206-248-7603.

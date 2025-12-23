@@ -171,7 +171,7 @@ source: Department of Commerce
 source_url: https://www.commerce.wa.gov/multifamily-housing-developers-share-your-experiences-at-a-listening-session/
 summarized: true
 title: 'Multifamily housing developers: Share your experiences at a listening session'
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

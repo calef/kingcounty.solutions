@@ -11,7 +11,7 @@ source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/ne
 summarized: true
 title: New Agents’ and Brokers’ Guide to Plan Year 2026 Marketplace Registration and
   Training
-topics: []
+topic_titles: []
 ---
 
 New agents and brokers are provided with a guide for the Plan Year 2026 Marketplace registration and training. This guide includes essential information relevant to registration and training for new agents and brokers. The resource is categorized as a tip sheet and was last updated on Sept. 22, 2025. It aims to assist new agents and brokers in navigating the registration process for the upcoming plan year, ensuring they meet all necessary requirements and are adequately prepared for their roles in the Marketplace. The guide is part of ongoing efforts to facilitate effective participation in the health insurance Marketplace by agents and brokers.

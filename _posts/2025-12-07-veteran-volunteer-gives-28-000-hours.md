@@ -56,7 +56,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143687/veteran-volunteer-gives-28000-hours/
 summarized: true
 title: Veteran volunteer gives 28,000 hours
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

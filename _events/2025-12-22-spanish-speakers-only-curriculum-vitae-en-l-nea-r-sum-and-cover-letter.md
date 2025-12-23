@@ -254,7 +254,7 @@ source_url: https://worksourceskc.org/event/spanish-speakers-only_curriculum-vit
 start_date: '2025-12-22T13:00:00-08:00'
 summarized: true
 title: Spanish Speakers only_Curriculum Vitae - EN LÍNEA Résumé and Cover Letter
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

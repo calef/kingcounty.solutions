@@ -80,7 +80,7 @@ source_url: https://angelflightwest.org/news/south-coast-area-pilot-helps-patien
 summarized: true
 title: " South Coast-Area Pilot Helps Patients Reach Lifesaving Care and Earns National
   Recognition"
-topics:
+topic_titles:
 - Health Care
 - Transportation & Mobility
 ---

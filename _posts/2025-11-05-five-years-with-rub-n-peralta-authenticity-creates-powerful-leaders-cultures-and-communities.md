@@ -65,7 +65,7 @@ source_url: https://inatai.org/news/five-years-with-ruben-peralta/
 summarized: true
 title: 'Five years with Rubén Peralta: Authenticity creates powerful leaders, cultures,
   and communities'
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 - Disabilities

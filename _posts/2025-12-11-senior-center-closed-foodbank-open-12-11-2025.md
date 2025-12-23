@@ -13,7 +13,7 @@ source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/senior-center-closed-foodbank-open-12-11-2025/
 summarized: true
 title: Senior Center Closed — Foodbank Open (12/11/2025)
-topics:
+topic_titles:
 - Senior Services
 - Food & Nutrition
 ---

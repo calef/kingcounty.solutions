@@ -14,7 +14,7 @@ source: Multi-Service Center
 source_url: https://mschelps.org/msc-pse-partnering-for-community/
 summarized: true
 title: MSC & PSE, partnering for community
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Shelter & Housing

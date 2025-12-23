@@ -24,7 +24,7 @@ source_url: https://iacswa.org/event/outreach-crossroads-102/
 start_date: '2025-12-31T11:00:00-08:00'
 summarized: true
 title: OUTREACH Crossroads
-topics: []
+topic_titles: []
 ---
 
 Join the community at OUTREACH Crossroads on Dec. 31 from 11 a.m. to 2 p.m. in Bellevue, Washington. This event offers attendees a chance to connect with local organizations, volunteer opportunities, and resources to support those in need. Expect engaging activities, informative sessions, and a welcoming atmosphere as the community comes together to make a positive impact. Whether you’re looking to lend a hand or learn more about outreach efforts in the area, this event is a perfect opportunity to get involved and help foster connections within the community.

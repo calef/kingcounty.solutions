@@ -13,7 +13,7 @@ start_date: '2026-02-24T09:00:00-08:00'
 summarized: true
 title: 'Digging In: Getting Down & Dirty into Soil Management & Remediation Techniques
   (online)'
-topics: []
+topic_titles: []
 ---
 
 Join us online for "Digging In: Getting Down & Dirty into Soil Management & Remediation Techniques" on Feb. 24, 2026, at 9 a.m. PST. This interactive Zoom event will provide attendees with practical knowledge and skills in soil management and remediation. Participants can expect to learn about effective techniques for improving soil health, addressing contamination, and enhancing agricultural productivity. Engage with experts in the field and connect with fellow attendees who share an interest in sustainable soil practices. Don't miss this opportunity to deepen your understanding and contribute to healthier ecosystems!

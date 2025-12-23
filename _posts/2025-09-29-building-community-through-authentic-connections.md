@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/building-community-through-authentic-connections
 summarized: true
 title: building community through authentic connections
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Mental Health & Counseling

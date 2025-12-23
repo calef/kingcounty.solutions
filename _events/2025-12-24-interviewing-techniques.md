@@ -247,7 +247,7 @@ source_url: https://worksourceskc.org/event/interviewing-techniques-1404/
 start_date: '2025-12-24T13:30:00-08:00'
 summarized: true
 title: Interviewing Techniques
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

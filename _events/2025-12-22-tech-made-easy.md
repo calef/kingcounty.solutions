@@ -234,7 +234,7 @@ source_url: https://wscenter.org/event/digital-discussions-2-2-2-2-2/2025-12-22/
 start_date: '2025-12-22T15:00:00-08:00'
 summarized: true
 title: Tech Made Easy
-topics: []
+topic_titles: []
 ---
 
 Join us for "Tech Made Easy" on Dec. 22, 2025, at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This event is designed to help attendees navigate and understand various technologies. Participants can expect hands-on demonstrations, personalized assistance, and insights into using everyday devices more effectively. Whether you're looking to enhance your digital skills or simply want to learn more about the latest tech trends, this event offers a welcoming environment for all ages. Don't miss this opportunity to make technology work for you!

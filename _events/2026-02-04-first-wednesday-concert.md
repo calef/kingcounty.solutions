@@ -16,7 +16,7 @@ source_url: https://music.washington.edu/events/2022-11-02/first-wednesday-conce
 start_date: '2026-02-04T12:30:00-08:00'
 summarized: true
 title: First Wednesday Concert
-topics: []
+topic_titles: []
 ---
 
 Join us for the First Wednesday Concert on Feb. 4 at Allen Library. This engaging lunchtime event features performances by students from the University of Washington School of Music. Attendees can enjoy a variety of musical pieces while taking a break in a vibrant atmosphere. The concert is co-hosted by UW Music and UW Libraries, offering a unique opportunity to support emerging talent. Don't miss this chance to experience live music in a welcoming setting.

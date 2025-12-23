@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/help-bring-comfort-and-joy-to-a-local-family-in-need
 summarized: true
 title: help bring comfort and joy to a local family
-topics:
+topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 ---

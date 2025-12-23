@@ -145,7 +145,7 @@ source: Refugee Women's Alliance
 source_url: https://www.rewa.org/together-we-can-keep-seattle-a-welcoming-city/?utm_source=rss&utm_medium=rss&utm_campaign=together-we-can-keep-seattle-a-welcoming-city
 summarized: true
 title: Together, We Can Keep Seattle a Welcoming City
-topics:
+topic_titles:
 - Disabilities
 - Employment & Job Support
 - Financial Assistance

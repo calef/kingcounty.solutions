@@ -30,7 +30,7 @@ source: Angel Flight West
 source_url: https://angelflightwest.org/news/intern-reflection-meet-kate/
 summarized: true
 title: 'Intern Reflection: Meet Kate'
-topics: []
+topic_titles: []
 ---
 
 Kate Malone, a Public Relations major at the University of South Carolina, served as a Communications Intern with Angel Flight West for the Fall 2025 semester. Excited to enhance her communications skills, she found the experience to be deeply meaningful. Malone was drawn to AFW’s mission of providing free transportation for those facing medical challenges. Throughout her internship, she crafted social media content, wrote volunteer and passenger spotlights, and contributed to newsletters and blog stories, allowing her to connect with the organization’s mission.

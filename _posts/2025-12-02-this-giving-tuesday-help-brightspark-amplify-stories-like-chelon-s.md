@@ -187,7 +187,7 @@ source: BrightSpark
 source_url: https://www.brightspark.org/2025/12/this-giving-tuesday-help-brightspark-amplify-stories-like-chelons/
 summarized: true
 title: 'This Giving Tuesday: Help BrightSpark Amplify Stories Like Chelon’s!'
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Education & Learning

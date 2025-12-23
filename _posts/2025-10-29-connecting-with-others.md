@@ -45,7 +45,7 @@ source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/connecting-with-others/
 summarized: true
 title: Connecting with Others
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

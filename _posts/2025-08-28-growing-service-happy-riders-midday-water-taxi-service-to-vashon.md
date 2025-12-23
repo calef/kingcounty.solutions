@@ -14,7 +14,7 @@ source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/08/28/growing-service-happy-riders-midday-water-taxi-service-to-vashon/
 summarized: true
 title: 'Growing service, happy riders: midday Water Taxi service to Vashon'
-topics:
+topic_titles:
 - Transportation & Mobility
 - Employment & Job Support
 ---

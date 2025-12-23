@@ -10,7 +10,7 @@ source_url: https://shorelinelfpseniorcenter.org/mindfull-aging/
 start_date: '2026-01-06T12:30:00-08:00'
 summarized: true
 title: Mind(full) Aging Support Series
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Senior Services
 ---

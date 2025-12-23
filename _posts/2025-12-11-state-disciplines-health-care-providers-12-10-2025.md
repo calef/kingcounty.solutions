@@ -133,7 +133,7 @@ source: Department of Health
 source_url: https://doh.wa.gov/newsroom/state-disciplines-health-care-providers-12-10-2025
 summarized: true
 title: State disciplines health care providers (12-10-2025)
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

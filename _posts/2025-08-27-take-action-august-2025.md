@@ -140,7 +140,7 @@ source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/take-action-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=take-action-august-2025
 summarized: true
 title: 'Take Action: August 2025'
-topics: []
+topic_titles: []
 ---
 
 Washington state offers various methods for voter registration, including online, by mail, and in person. To register online, individuals need a valid Washington driver’s license, ID card, or the last four digits of their Social Security number. Registrations must be submitted at least eight days before Election Day to be counted. For mail registrations, forms must also arrive by this deadline. In-person registration is available until 8 p.m. on Election Day.

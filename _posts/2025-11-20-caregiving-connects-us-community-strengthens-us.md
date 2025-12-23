@@ -81,7 +81,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143323/caregiving-connects-us-community-strengthens-us/
 summarized: true
 title: Caregiving connects us, community strengthens us
-topics:
+topic_titles:
 - Childcare
 - Disabilities
 - Senior Services

@@ -65,7 +65,7 @@ source_url: https://angelflightwest.org/news/dogs-for-better-lives-names-puppy-i
 summarized: true
 title: Dogs for Better Lives Names Puppy-in-Training “Jet” in Honor of Angel Flight
   West Volunteer Pilots
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

@@ -12,7 +12,7 @@ source_url: https://blog.spl.org/2025/12/16/winter-break-2025-activities-at-the-
 start_date: '2025-12-30T00:00:00-08:00'
 summarized: true
 title: Reading Party
-topics:
+topic_titles:
 - Education & Learning
 - Childcare
 ---

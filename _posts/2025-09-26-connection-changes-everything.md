@@ -11,7 +11,7 @@ source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/connection-changes-everything
 summarized: true
 title: Connection Changes Everything
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Transportation & Mobility
 ---

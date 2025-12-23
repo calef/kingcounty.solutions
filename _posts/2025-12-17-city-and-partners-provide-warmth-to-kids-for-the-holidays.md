@@ -19,7 +19,7 @@ source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/17/city-and-partners-provide-warmth-to-kids-for-the-holidays/
 summarized: true
 title: City and Partners Provide Warmth to Kids for the Holidays
-topics:
+topic_titles:
 - Childcare
 - Food & Nutrition
 - Personal & Household Needs

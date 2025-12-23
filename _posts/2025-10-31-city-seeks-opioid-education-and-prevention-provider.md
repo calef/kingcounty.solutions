@@ -41,7 +41,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/opioid-prevention-recruitment
 summarized: true
 title: City seeks opioid education and prevention provider
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 - Mental Health & Counseling

@@ -94,7 +94,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-mid-biennium-budget-discussions-begin
 summarized: true
 title: 'Council Roundup: Mid-biennium budget discussions begin'
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 - Transportation & Mobility

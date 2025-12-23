@@ -101,7 +101,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/military-service-runs-deep-for-liza/
 summarized: true
 title: Military Service Runs Deep for Liza 
-topics:
+topic_titles:
 - Financial Assistance
 - Education & Learning
 ---

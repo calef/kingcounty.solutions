@@ -75,7 +75,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/every-mom-deserves-support-a-partnership-for-healthy-births-at-marys-place
 summarized: true
 title: 'every mom deserves support: a partnership for healthy births at mary’s place'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Childcare

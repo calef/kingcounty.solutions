@@ -95,7 +95,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/144020/va-research-wrap-up-findings-rsv-heart-disease/
 summarized: true
 title: 'VA Research Wrap Up: New findings on RSV vaccines, heart disease and homelessness'
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Shelter & Housing

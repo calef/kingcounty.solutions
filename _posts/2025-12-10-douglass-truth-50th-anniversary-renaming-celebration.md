@@ -12,7 +12,7 @@ source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/10/douglass-truth-50th-anniversary-renaming-celebration/
 summarized: true
 title: Douglass-Truth 50th Anniversary Renaming Celebration
-topics: []
+topic_titles: []
 ---
 
 Everyone is invited to celebrate the 50th anniversary of the Douglass-Truth Branch of The Seattle Public Library on Saturday, Dec. 13, from 12 to 5 p.m. The event will feature all-ages activities, including a performance by the Garfield Jazz Quartet. The branch was renamed to honor the community it serves. This celebration marks a significant milestone in the library's history, highlighting its commitment to reflecting and supporting local culture. Attendees can enjoy various events designed for families and individuals of all ages.

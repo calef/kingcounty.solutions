@@ -20,7 +20,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/16/city-of-auburn-evacuation-level-changes/
 summarized: true
 title: City of Auburn Evacuation Level Changes
-topics: []
+topic_titles: []
 ---
 
 Water levels in parts of Auburn have continued to decrease, leading to changes in evacuation levels. As of December 17, 2025, some areas have been downgraded from a Level 3 (GO NOW) evacuation order, which indicates they are not safe for re-entry. Currently, the Copper Gate Apartments at 4750 Auburn Way are under a Level 2 evacuation order. Residents are urged to stay informed about their safety and the status of the evacuation levels as conditions continue to evolve.

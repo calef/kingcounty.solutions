@@ -65,7 +65,7 @@ source_url: https://www.crisisconnections.org/washington-211-partners-with-airbn
 summarized: true
 title: Washington 211 Partners with Airbnb.org to Support Displaced Residents with
   Free Temporary Housing
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 ---

@@ -140,7 +140,7 @@ source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-16-2025/
 summarized: true
 title: City Manager Report – October 16, 2025
-topics: []
+topic_titles: []
 ---
 
 The City Manager's report for October 16, 2025, highlights key updates and ongoing projects in Normandy Park. The report emphasizes the completion of the annual budget process, focusing on financial sustainability and community priorities. The City Council is reviewing proposed budget amendments aimed at enhancing public services and infrastructure.

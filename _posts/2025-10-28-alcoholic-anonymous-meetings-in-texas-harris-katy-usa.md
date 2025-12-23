@@ -77,7 +77,7 @@ source: Residence XII
 source_url: https://www.residencexii.org/alcoholic-anonymous-meetings-katy/
 summarized: true
 title: Alcoholic Anonymous Meetings in Texas, Harris, Katy, USA
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

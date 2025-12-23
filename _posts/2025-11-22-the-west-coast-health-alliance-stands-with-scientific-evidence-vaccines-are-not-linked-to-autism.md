@@ -39,7 +39,7 @@ source_url: https://doh.wa.gov/newsroom/west-coast-health-alliance-stands-scient
 summarized: true
 title: 'The West Coast Health Alliance Stands with Scientific Evidence: Vaccines Are
   Not Linked to Autism '
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

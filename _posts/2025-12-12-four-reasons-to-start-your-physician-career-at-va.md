@@ -53,7 +53,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143829/four-reasons-start-your-physician-career-at-va/
 summarized: true
 title: Four reasons to start your physician career at VA 
-topics:
+topic_titles:
 - Health Care
 - Employment & Job Support
 ---

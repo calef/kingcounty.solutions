@@ -43,7 +43,7 @@ source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/december-is-national-safe-toys-and-gifts-month-2/
 summarized: true
 title: December is National Safe Toys and Gifts Month
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 ---

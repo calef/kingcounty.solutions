@@ -12,7 +12,7 @@ source: Seattle Indian Health Board
 source_url: https://www.sihb.org/2025/11/food-assistance-resources/
 summarized: true
 title: Food Assistance Resources
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

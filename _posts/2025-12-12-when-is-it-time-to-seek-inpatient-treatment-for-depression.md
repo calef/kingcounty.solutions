@@ -42,7 +42,7 @@ source: THIRA Health
 source_url: https://thirahealth.com/2025/12/12/when-is-it-time-to-seek-inpatient-treatment-for-depression/
 summarized: true
 title: When Is It Time to Seek Inpatient Treatment for Depression?
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

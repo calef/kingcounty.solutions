@@ -36,7 +36,7 @@ source: Eastside Legal Assistance Program
 source_url: https://elap.org/podcast-legal-leaders-talk-about-the-program-that-taught-them-you-belong/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-legal-leaders-talk-about-the-program-that-taught-them-you-belong
 summarized: true
 title: 'Podcast: Legal leaders talk about the program that taught them “you belong”'
-topics:
+topic_titles:
 - Education & Learning
 ---
 

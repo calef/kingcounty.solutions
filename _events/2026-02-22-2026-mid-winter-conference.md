@@ -44,7 +44,7 @@ source_url: https://www.dav.org/events-calendar/2026-mid-winter-conference/
 start_date: '2026-02-22T00:00:00-08:00'
 summarized: true
 title: 2026 Mid-Winter Conference
-topics: []
+topic_titles: []
 ---
 
 Join us for the 2026 Mid-Winter Conference from Feb. 22 to Feb. 25 in Arlington, Va. This event promises a dynamic lineup of workshops, keynote speakers, and networking opportunities tailored for professionals and community leaders. Attendees can expect to engage in insightful discussions, share best practices, and explore innovative solutions to current challenges. Whether you're looking to enhance your skills or connect with like-minded individuals, this conference offers a valuable platform for growth and collaboration. Don’t miss out on the chance to be part of this enriching experience!

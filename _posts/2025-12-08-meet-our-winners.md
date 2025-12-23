@@ -66,7 +66,7 @@ source: Eastside Legal Assistance Program
 source_url: https://elap.org/meet-our-winners/
 summarized: true
 title: Meet our winners
-topics:
+topic_titles:
 - Legal Aid
 - Shelter & Housing
 ---

@@ -26,7 +26,7 @@ source: Sno-Valley Senior Center
 source_url: https://snovalleysenior.org/september-2025-directors-letter/
 summarized: true
 title: September 2025 Director’s Letter
-topics:
+topic_titles:
 - Food & Nutrition
 - Mental Health & Counseling
 ---

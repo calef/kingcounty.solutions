@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/12/01/artist-highlight-a-conversation-with-vivian-cho/
 summarized: true
 title: 'Artist Highlight: A conversation with Vivian Cho'
-topics: []
+topic_titles: []
 ---
 
 Vivian Cho, a Seattle-based artist, engages in a unique dialogue with her work that reflects personal and cultural narratives. In a recent conversation, she shares insights into her artistic journey, influenced by her Korean heritage and experiences living in both the U.S. and South Korea. Cho emphasizes the importance of storytelling in her art, often incorporating themes of identity, memory, and place. Her creative process involves experimentation with various mediums, including painting, installation, and digital art, allowing her to explore complex emotions and concepts.

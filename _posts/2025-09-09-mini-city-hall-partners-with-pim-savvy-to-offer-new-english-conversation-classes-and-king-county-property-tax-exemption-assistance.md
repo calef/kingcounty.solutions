@@ -37,7 +37,7 @@ source_url: https://pimsavvy.com/mini-city-hall-partners-with-pim-savvy/
 summarized: true
 title: Mini City Hall partners with PIM Savvy to offer new English Conversation Classes
   and King County Property Tax Exemption Assistance
-topics:
+topic_titles:
 - Education & Learning
 - Disabilities
 ---

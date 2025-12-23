@@ -78,7 +78,7 @@ source_url: https://www.commerce.wa.gov/lincoln-place-ii-serving-unhoused-vancou
 summarized: true
 title: 'Lincoln Place II: Serving unhoused Vancouver residents through a unique healthcare
   and housing partnership'
-topics:
+topic_titles:
 - Shelter & Housing
 - Health Care
 - Employment & Job Support

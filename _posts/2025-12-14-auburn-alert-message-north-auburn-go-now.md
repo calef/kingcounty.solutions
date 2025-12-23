@@ -15,7 +15,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/13/north-auburn-go-now/
 summarized: true
 title: Auburn Alert Message – North Auburn – GO NOW
-topics:
+topic_titles:
 - Shelter & Housing
 - Transportation & Mobility
 ---

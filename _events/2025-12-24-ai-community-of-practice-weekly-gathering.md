@@ -71,7 +71,7 @@ source_url: https://washington.zoom.us/j/9684580021
 start_date: '2025-12-24T10:00:00-08:00'
 summarized: true
 title: AI Community of Practice weekly gathering
-topics: []
+topic_titles: []
 ---
 
 Join the AI Community of Practice for its weekly gathering on Dec. 24, 2025, at 10 a.m. PST via Zoom. This event offers attendees the opportunity to engage with fellow AI enthusiasts, share insights, and collaborate on projects. Participants can expect discussions on the latest trends in artificial intelligence, hands-on activities, and networking opportunities. Whether you're a beginner or an expert, this gathering is designed to foster learning and innovation in the AI field. Don’t miss out on the chance to connect with like-minded individuals and enhance your understanding of AI.

@@ -13,7 +13,7 @@ source: The Center for Active Living
 source_url: https://wscenter.org/holiday-closure/
 summarized: true
 title: Holiday closure
-topics: []
+topic_titles: []
 ---
 
 WS Center will observe a holiday closure from Dec. 24 to Jan. 1, reopening on Jan. 2. During this period, all services will be unavailable, and staff will not be present to respond to inquiries. Clients and partners are encouraged to plan ahead for any needs they may have before the closure. Normal operations will resume on the first weekday of the new year, allowing for a fresh start to 2024.

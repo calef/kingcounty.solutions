@@ -11,7 +11,7 @@ source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/the-city-of-seattle-awards-lihi-funding-for-two-new-tiny-house-villages
 summarized: true
 title: The City of Seattle Awards LIHI Funding for Two New Tiny House Villages
-topics:
+topic_titles:
 - Shelter & Housing
 - Mental Health & Counseling
 ---

@@ -217,7 +217,7 @@ source_url: https://www.elcentrodelaraza.org/event/latins-in-business-latins-en-
 start_date: '2025-12-23T17:30:00-08:00'
 summarized: true
 title: Latin@s in Business/ Latin@s en Negocios
-topics: []
+topic_titles: []
 ---
 
 Join the Latin@s in Business event on Dec. 23, 2025, at El Centro de la Raza in Seattle. This gathering aims to connect and empower the Latinx business community through networking, workshops, and discussions on entrepreneurship. Attendees can expect to engage with local business leaders, gain valuable insights, and explore resources available to support their ventures. The event begins at 5:30 p.m. at 2524 16th Ave S, Seattle, WA 98144. Don't miss this opportunity to strengthen connections and enhance your business skills in a vibrant community setting.

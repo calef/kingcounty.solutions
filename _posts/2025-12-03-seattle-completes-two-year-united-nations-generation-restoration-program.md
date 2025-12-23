@@ -11,7 +11,7 @@ source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/12/03/seattle-completes-two-year-united-nations-generation-restoration-program/
 summarized: true
 title: Seattle Completes Two-Year United Nations Generation Restoration Program 
-topics: []
+topic_titles: []
 ---
 
 Seattle has successfully completed a two-year project under the United Nations' Generation Restoration program. This initiative aimed to restore and enhance urban ecosystems, focusing on biodiversity, climate resilience, and community well-being. The project involved collaboration with local organizations, schools, and residents to implement various restoration activities, including tree planting, habitat restoration, and environmental education programs.

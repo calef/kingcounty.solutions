@@ -80,7 +80,7 @@ source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/holiday-meal-event-provides-comfort/
 summarized: true
 title: Holiday Meal Event Provides Comfort
-topics:
+topic_titles:
 - Food & Nutrition
 - Mental Health & Counseling
 - Senior Services

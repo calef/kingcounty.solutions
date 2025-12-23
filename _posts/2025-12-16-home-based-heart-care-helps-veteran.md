@@ -135,7 +135,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143909/home-based-heart-care-helps-veteran/
 summarized: true
 title: Home-based heart care helps Veteran
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

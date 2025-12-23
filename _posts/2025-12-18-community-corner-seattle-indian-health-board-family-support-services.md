@@ -19,7 +19,7 @@ source: City of Seattle
 source_url: https://humaninterests.seattle.gov/2025/12/18/community-corner-seattle-indian-health-board-family-support-services/
 summarized: true
 title: Community Corner—Seattle Indian Health Board Family Support Services
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 - Childcare

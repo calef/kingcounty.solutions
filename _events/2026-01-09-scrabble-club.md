@@ -230,7 +230,7 @@ source_url: https://wscenter.org/event/scrabble-club/2026-01-09/
 start_date: '2026-01-09T12:30:00-08:00'
 summarized: true
 title: Scrabble Club
-topics: []
+topic_titles: []
 ---
 
 Join the Scrabble Club at The Center for Active Living in Seattle for a fun-filled afternoon of wordplay and friendly competition. Starting on Jan. 9, 2026, at 12:30 p.m., participants of all skill levels are welcome to sharpen their vocabulary and enjoy socializing with fellow enthusiasts. This weekly gathering is a great opportunity to meet new friends while challenging your mind. The Center for Active Living is located at 4217 SW Oregon St., Seattle, WA 98116. Come and see how your skills stack up against others in this engaging and interactive setting.

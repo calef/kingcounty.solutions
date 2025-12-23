@@ -61,7 +61,7 @@ source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/events/golf-tournament-2026/
 summarized: true
 title: "“Swing Fore the Kids”"
-topics:
+topic_titles:
 - Disabilities
 ---
 

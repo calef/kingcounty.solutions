@@ -231,7 +231,7 @@ source_url: https://wscenter.org/event/book-club-for-adventurous-readers-2-2/202
 start_date: '2026-01-09T13:00:00-08:00'
 summarized: true
 title: 'Book Club: Season 3'
-topics: []
+topic_titles: []
 ---
 
 Join the Book Club: Season 3 at The Center for Active Living starting Jan. 9, 2026, at 1 p.m. Located at 4217 SW Oregon St. in Seattle, this engaging event invites book lovers to discuss selected titles in a friendly atmosphere. Attendees can share their insights, explore different perspectives, and connect with fellow readers. Whether you're a seasoned book club member or new to the experience, this gathering promises stimulating conversations and a chance to discover new literary favorites. Don’t miss out on the opportunity to enrich your reading journey and meet like-minded individuals.

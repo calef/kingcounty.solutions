@@ -58,7 +58,7 @@ source_url: https://news.va.gov/143850/va-research-wrap-uptelemedicine-parkinson
 summarized: true
 title: 'VA Research Wrap Up: New findings on telemedicine, Parkinson’s disease and
   Gulf War illness'
-topics:
+topic_titles:
 - Health Care
 ---
 

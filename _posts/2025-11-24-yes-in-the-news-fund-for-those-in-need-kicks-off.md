@@ -47,7 +47,7 @@ source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/yes-in-the-news-fund-for-those-in-need-kicks-off/?utm_source=rss&utm_medium=rss&utm_campaign=yes-in-the-news-fund-for-those-in-need-kicks-off
 summarized: true
 title: 'YES in the News: Fund for Those in Need kicks off'
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 - Employment & Job Support

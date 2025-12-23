@@ -111,7 +111,7 @@ module Mayhem
             organization_title,
             source_url,
             stats,
-            front_matter['topics'],
+            front_matter['topic_titles'],
             front_matter['location_titles'],
             reference_time
           )
@@ -187,7 +187,7 @@ module Mayhem
         nil
       end
 
-      def create_event(event_data, organization_title, source_url, stats, post_topics, post_location_titles, reference_time)
+      def create_event(event_data, organization_title, source_url, stats, post_topic_titles, post_location_titles, reference_time)
         title = event_data['title']
         start_date_str = event_data['start_date']
         end_date_str = event_data['end_date']
@@ -249,7 +249,7 @@ module Mayhem
           'generated_from_post' => true
         }
         front_matter['end_date'] = end_time.iso8601 if end_time
-        front_matter['topics'] = post_topics.dup if post_topics.is_a?(Array) && post_topics.any?
+        front_matter['topic_titles'] = post_topic_titles.dup if post_topic_titles.is_a?(Array) && post_topic_titles.any?
         front_matter['location_titles'] = post_location_titles.dup if post_location_titles.is_a?(Array) && post_location_titles.any?
 
         unless description.to_s.strip.empty?

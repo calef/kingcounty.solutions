@@ -12,7 +12,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_faed8c7de
 start_date: '2026-02-10T09:00:00-08:00'
 summarized: true
 title: 'Soaking It All In: Understanding Soil Water (online)'
-topics: []
+topic_titles: []
 ---
 
 Join us online for "Soaking It All In: Understanding Soil Water" on Feb. 10, 2026, at 9 a.m. PST. This engaging Zoom event will explore the crucial role of soil water in agriculture and environmental sustainability. Attendees can expect to gain insights into soil management practices, learn about water conservation techniques, and understand the impact of soil health on plant growth. Whether you're a gardener, farmer, or simply interested in environmental issues, this event offers valuable knowledge to enhance your understanding of soil ecosystems. Don't miss this opportunity to deepen your appreciation for the essential resource that is soil water.

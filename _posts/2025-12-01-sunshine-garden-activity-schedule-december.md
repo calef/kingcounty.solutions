@@ -17,7 +17,7 @@ source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/sunshine-garden-activity-schedule-december/?utm_source=rss&utm_medium=rss&utm_campaign=sunshine-garden-activity-schedule-december
 summarized: true
 title: Sunshine Garden Activity Schedule – December
-topics: []
+topic_titles: []
 ---
 
 The Sunshine Garden has released its activity schedule for December, featuring a variety of engaging events for the community. On Dec. 1, there will be a Holiday Planting Workshop, where participants can learn about winter planting techniques. A Garden Craft Day is scheduled for Dec. 5, allowing attendees to create festive decorations. For those interested in cooking, the Cooking with Fresh Herbs event on Dec. 10 will showcase how to use garden herbs in holiday recipes.

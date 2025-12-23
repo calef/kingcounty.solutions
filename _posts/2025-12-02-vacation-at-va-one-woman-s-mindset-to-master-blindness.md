@@ -83,7 +83,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143271/vacation-at-va-womans-mindset-master-blindness/
 summarized: true
 title: 'Vacation at VA: One woman’s mindset to master blindness'
-topics:
+topic_titles:
 - Disabilities
 ---
 

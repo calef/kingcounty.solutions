@@ -216,7 +216,7 @@ source_url: https://www.familyworksseattle.org/event/mobile-food-pantry-at-famil
 start_date: '2025-12-31T15:30:00-08:00'
 summarized: true
 title: Mobile Food Pantry at Family Resource Center
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

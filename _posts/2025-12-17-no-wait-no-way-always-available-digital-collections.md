@@ -52,7 +52,7 @@ source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/17/no-wait-no-way-always-available-digital-collections/
 summarized: true
 title: No Wait? No Way! Always Available Digital Collections
-topics: []
+topic_titles: []
 ---
 
 The library offers a collection of always available digital books and audiobooks that can be checked out simultaneously with no limits. This includes a new collection titled “Mysteries and Thrillers Without the Wait,” featuring nearly 500 ebooks that cater to fans of mystery and suspense. Readers can enjoy works from classic authors like Agatha Christie and Ruth Rendell, as well as discover new titles. Additionally, the “Romance Any Time” collection has almost 2,000 ebooks spanning various subgenres, refreshed quarterly with 25% new content. The updated “Always Available Audio” collection includes nearly 300 audiobooks, featuring classic authors such as Jane Austen and contemporary writers like Elena Ferrante. Nonfiction options are also available, including works on Seattle history and current events. The library encourages users to explore these collections through its OverDrive website or the Libby app.

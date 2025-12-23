@@ -26,7 +26,7 @@ source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/our-2026-legislative-priorities-building-a-more-just-and-equitable-food-system/
 summarized: true
 title: 'Our 2026 Legislative Priorities: Building a More Just and Equitable Food System'
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

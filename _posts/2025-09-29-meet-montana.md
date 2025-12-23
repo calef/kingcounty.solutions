@@ -28,7 +28,7 @@ source: The National Children's Cancer Society - Financial Assistance
 source_url: https://thenccs.org/meet-montana/
 summarized: true
 title: Meet Montana!
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 ---

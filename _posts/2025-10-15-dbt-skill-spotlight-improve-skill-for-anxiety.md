@@ -38,7 +38,7 @@ source: THIRA Health
 source_url: https://thirahealth.com/2025/10/15/dbt-skill-spotlight-improve-skill-for-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=dbt-skill-spotlight-improve-skill-for-anxiety
 summarized: true
 title: 'DBT Skill Spotlight: IMPROVE Skill for Anxiety'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

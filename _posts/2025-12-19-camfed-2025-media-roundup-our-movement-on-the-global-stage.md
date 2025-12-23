@@ -15,7 +15,7 @@ source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/camfed-2025-media-highlights-our-movement-on-the-global-stage/
 summarized: true
 title: 'CAMFED 2025 media roundup: Our movement on the global stage'
-topics: []
+topic_titles: []
 ---
 
 As 2025 comes to a close, gratitude is expressed to podcasters, broadcasters, journalists, and writers who have engaged with a grassroots-led movement. Their curiosity and willingness to share stories from the movement's leaders have helped amplify underrepresented voices. By providing a platform, these media professionals have showcased the unique insights of those who have experienced exclusion firsthand, highlighting their expertise in tackling the challenges they face. The support from the media has been crucial in raising awareness and promoting understanding of the issues at hand, allowing the movement to reach a wider global audience.

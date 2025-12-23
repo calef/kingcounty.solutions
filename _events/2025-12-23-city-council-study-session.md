@@ -91,7 +91,7 @@ source_url: https://normandyparkwa.gov/event/event-title-mm-dd-yyyy/2025-12-23/
 start_date: '2025-12-23T19:00:00-08:00'
 summarized: true
 title: City Council Study Session
-topics: []
+topic_titles: []
 ---
 
 Join the City Council for a study session on Dec. 23, 2025, from 7 to 10 p.m. at the Council Chambers located at 801 SW 174th St., Normandy Park, WA. This meeting offers residents an opportunity to engage with council members and discuss important community issues. Attendees can expect a collaborative environment where input is encouraged. The session will be held in person, and remote participation via Zoom is also available for those who prefer to join from home. Don’t miss this chance to stay informed and involved in local governance.

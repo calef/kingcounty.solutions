@@ -211,7 +211,7 @@ source_url: https://mapsredmond.org/event/mcrc-seattle-office-hours/2025-12-25/
 start_date: '2025-12-25T12:30:00-08:00'
 summarized: true
 title: MCRC Seattle Office Hours
-topics: []
+topic_titles: []
 ---
 
 Join MCRC for Seattle Office Hours on Dec. 25, 2025, at 12:30 p.m. at the MAPS location. This event offers attendees an opportunity to connect with MCRC staff, ask questions, and receive guidance on various community resources and services. Whether you need assistance with programs or want to learn more about available support, this is a great chance to engage with knowledgeable representatives in a welcoming environment. Don't miss this opportunity to gather information and build connections within the community.

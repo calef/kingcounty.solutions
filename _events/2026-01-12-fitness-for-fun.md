@@ -231,7 +231,7 @@ source_url: https://wscenter.org/event/fitness-for-fun/2026-01-12/
 start_date: '2026-01-12T09:00:00-08:00'
 summarized: true
 title: Fitness For Fun
-topics: []
+topic_titles: []
 ---
 
 Join the community for "Fitness For Fun" at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA, starting Jan. 12, 2026, at 9 a.m. This engaging event encourages participants to explore various fitness activities designed for all skill levels. Attendees can expect a mix of fun workouts, games, and social interactions that promote a healthy lifestyle in a supportive environment. Whether you're a fitness enthusiast or just looking to try something new, this event offers a great opportunity to get moving and meet new friends. Don't miss out on the chance to enhance your well-being while having a blast!

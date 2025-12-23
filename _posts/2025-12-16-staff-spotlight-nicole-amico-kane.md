@@ -17,7 +17,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/staff-spotlight-nicole-amico-kane/
 summarized: true
 title: 'Staff Spotlight: Nicole Amico Kane'
-topics:
+topic_titles:
 - Senior Services
 - Mental Health & Counseling
 ---

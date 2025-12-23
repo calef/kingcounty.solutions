@@ -20,7 +20,7 @@ source_url: https://kcemergency.com/2025/12/19/flood-update-some-evacuation-leve
 summarized: true
 title: 'ALERT King County Message – Flood Update: Some Evacuation Levels Downgraded
   in Auburn – 12/19 at 12:30pm'
-topics: []
+topic_titles: []
 ---
 
 All current Level 2 (GET SET) evacuation areas in Auburn have been downgraded to Level 1 (BE READY) as of December 19 at 12:30 p.m. Residents who evacuated can return home but should stay alert and prepared for any changes in conditions.

@@ -15,7 +15,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/10/king-county-road-closures/
 summarized: true
 title: King County Road Closures – December 10
-topics: []
+topic_titles: []
 ---
 
 Multiple roads in Snoqualmie Valley, Skykomish, and southeast King County are closed as of Wednesday morning, December 10. The closures are due to water over the road, debris, and landslides. Drivers are advised to stay informed about road conditions. For information on road closures and restrictions in unincorporated King County, residents can visit kingcounty.gov/mycommute.

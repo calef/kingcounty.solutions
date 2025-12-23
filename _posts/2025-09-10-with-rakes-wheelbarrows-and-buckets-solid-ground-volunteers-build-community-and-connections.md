@@ -1072,7 +1072,7 @@ source_url: https://www.solid-ground.org/with-rakes-wheelbarrows-and-buckets-sol
 summarized: true
 title: With rakes, wheelbarrows, and buckets, Solid Ground volunteers build community
   and connections 
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 - Employment & Job Support

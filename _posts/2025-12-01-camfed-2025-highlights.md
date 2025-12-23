@@ -12,7 +12,7 @@ source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/2025-highlights-girls-education-africa/
 summarized: true
 title: CAMFED 2025 Highlights
-topics:
+topic_titles:
 - Education & Learning
 ---
 

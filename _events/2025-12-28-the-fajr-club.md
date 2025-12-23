@@ -43,7 +43,7 @@ source_url: https://mapsredmond.org/event/the-fajr-club/2025-12-28/
 start_date: '2025-12-28T06:30:00-08:00'
 summarized: true
 title: The Fajr Club
-topics: []
+topic_titles: []
 ---
 
 Join The Fajr Club on December 28 at 6:30 a.m. for a morning gathering that fosters community and spiritual growth. Attendees can expect engaging discussions, prayers, and a chance to connect with others in a welcoming environment. This recurring event will take place at the designated location, providing a peaceful start to the day. Whether you are looking to deepen your faith or simply enjoy fellowship with others, The Fajr Club offers a supportive space for all. Don't miss this opportunity to be part of a vibrant community.

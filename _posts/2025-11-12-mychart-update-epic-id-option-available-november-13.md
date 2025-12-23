@@ -32,7 +32,7 @@ source: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/11/12/mychart-update-epic-id-option-available-november-13/?utm_source=rss&utm_medium=rss&utm_campaign=mychart-update-epic-id-option-available-november-13
 summarized: true
 title: 'MyChart Update: Epic ID Option Available November 13'
-topics:
+topic_titles:
 - Health Care
 ---
 

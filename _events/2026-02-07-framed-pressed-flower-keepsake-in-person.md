@@ -13,7 +13,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_110e35f60
 start_date: '2026-02-07T10:00:00-08:00'
 summarized: true
 title: Framed Pressed Flower Keepsake (in-person)
-topics: []
+topic_titles: []
 ---
 
 Join the Center for Urban Horticulture on Feb. 7 for a hands-on workshop, "Framed Pressed Flower Keepsake." Participants will learn the art of pressing flowers and creating beautiful framed keepsakes, perfect for home decor or gifts. This in-person event promises a creative atmosphere where attendees can express their artistic side while enjoying the beauty of nature. All materials will be provided, making it easy for anyone to join, regardless of skill level. Don’t miss this opportunity to craft a unique piece of art while connecting with fellow flower enthusiasts.

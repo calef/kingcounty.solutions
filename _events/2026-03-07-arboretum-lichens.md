@@ -13,7 +13,7 @@ source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_1fce11048
 start_date: '2026-03-07T10:00:00-08:00'
 summarized: true
 title: Arboretum Lichens
-topics: []
+topic_titles: []
 ---
 
 Join the Washington Park Arboretum on March 7, 2026, at 10 a.m. for a fascinating exploration of lichens. This event invites attendees to discover the unique roles lichens play in ecosystems, their diverse forms, and their importance in nature. Participants will have the opportunity to engage in hands-on activities and guided walks, enhancing their understanding of these often-overlooked organisms. This event is perfect for nature enthusiasts and families alike, providing a chance to appreciate the beauty and complexity of lichens in a scenic outdoor setting. Don’t miss this chance to learn and connect with nature!

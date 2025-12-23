@@ -39,7 +39,7 @@ source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/svh-celebrates-nursing-excellence-with-daisy-award-recognition/
 summarized: true
 title: Snoqualmie Valley Health Celebrates Nursing Excellence with DAISY Award Recognition
-topics: []
+topic_titles: []
 ---
 
 Snoqualmie Valley Health honored Irene Mburu, RN, with the DAISY Award® for Extraordinary Nurses, recognizing her exceptional nursing care. This award underscores the commitment to high-quality, patient-centered care at SVH, where nursing is seen as a calling that requires skill, compassion, and teamwork.

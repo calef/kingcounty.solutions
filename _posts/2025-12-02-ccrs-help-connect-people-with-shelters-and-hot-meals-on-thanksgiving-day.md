@@ -12,7 +12,7 @@ source: City of Seattle
 source_url: https://withcare.seattle.gov/2025/12/02/ccrs-help-connect-people-with-shelters-and-hot-meals-on-thanksgiving-day/
 summarized: true
 title: CCRs Help Connect People with Shelters and Hot Meals on Thanksgiving Day
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

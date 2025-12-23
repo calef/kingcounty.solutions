@@ -62,7 +62,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143226/physician-assistant-helps-save-a-life/
 summarized: true
 title: Physician assistant helps save a life
-topics:
+topic_titles:
 - Health Care
 ---
 

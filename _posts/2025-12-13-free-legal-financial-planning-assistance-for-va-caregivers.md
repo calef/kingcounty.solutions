@@ -95,7 +95,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143881/legal-financial-planning-assistance-caregivers/
 summarized: true
 title: Free legal & financial planning assistance for VA caregivers
-topics:
+topic_titles:
 - Legal Aid
 - Financial Assistance
 - Disabilities

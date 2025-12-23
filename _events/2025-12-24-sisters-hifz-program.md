@@ -208,7 +208,7 @@ source_url: https://mapsredmond.org/event/sisters-hifz-program/2025-12-24/
 start_date: '2025-12-24T17:00:00-08:00'
 summarized: true
 title: Sisters Hifz Program
-topics:
+topic_titles:
 - Education & Learning
 ---
 

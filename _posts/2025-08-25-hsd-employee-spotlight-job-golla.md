@@ -14,7 +14,7 @@ source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/08/25/hsd-employee-spotlight-job-golla/
 summarized: true
 title: HSD Employee Spotlight—Job Golla
-topics:
+topic_titles:
 - Employment & Job Support
 - Education & Learning
 ---

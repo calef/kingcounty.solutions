@@ -20,7 +20,7 @@ source_url: https://education.seattle.gov/call-for-community-volunteers-join-dee
 summarized: true
 title: 'Call for Community Volunteers: Join DEEL’s Families Education, Preschool,
   and Promise Levy Oversight Committee  '
-topics:
+topic_titles:
 - Education & Learning
 - Childcare
 ---

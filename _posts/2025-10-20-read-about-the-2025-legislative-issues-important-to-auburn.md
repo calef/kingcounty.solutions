@@ -11,7 +11,7 @@ source: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=15279790
 summarized: true
 title: Read about the 2025 legislative issues important to Auburn
-topics:
+topic_titles:
 - Employment & Job Support
 - Shelter & Housing
 - Transportation & Mobility

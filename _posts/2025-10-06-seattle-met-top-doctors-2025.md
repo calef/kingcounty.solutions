@@ -78,7 +78,7 @@ source: Pacific Medical Centers
 source_url: https://www.pacificmedicalcenters.org/news/seattle-met-top-doctors-2025/
 summarized: true
 title: Seattle Met Top Doctors 2025
-topics:
+topic_titles:
 - Health Care
 ---
 

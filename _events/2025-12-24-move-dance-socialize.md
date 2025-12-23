@@ -48,7 +48,7 @@ source_url: https://wscenter.org/event/move-dance-socialize/2025-12-24/
 start_date: '2025-12-24T09:00:00-08:00'
 summarized: true
 title: Move, Dance & Socialize
-topics:
+topic_titles:
 - Senior Services
 ---
 

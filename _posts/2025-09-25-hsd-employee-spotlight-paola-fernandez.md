@@ -14,7 +14,7 @@ source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/25/hsd-employee-spotlight-paola-fernandez/
 summarized: true
 title: HSD Employee Spotlight—Paola Fernandez
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Mental Health & Counseling

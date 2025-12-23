@@ -52,7 +52,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/honoring-the-legacy-of-bill-block
 summarized: true
 title: Honoring the Legacy of Bill Block&nbsp;
-topics:
+topic_titles:
 - Food & Nutrition
 - Shelter & Housing
 ---

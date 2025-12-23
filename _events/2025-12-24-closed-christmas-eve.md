@@ -72,7 +72,7 @@ source_url: https://www.spseniors.org/calendar/pride-week-2-2/
 start_date: '2025-12-24T00:00:00-08:00'
 summarized: true
 title: Closed Christmas Eve
-topics: []
+topic_titles: []
 ---
 
 The South Park Neighborhood Center will be closed on Dec. 24, 2025, in observance of Christmas Eve. This day is significant as it marks the anticipation of Christmas Day, celebrated by many around the world. While the center will not be open for activities, community members can take this time to enjoy the holiday spirit with family and friends. The center will resume regular operations following the holiday. Please plan accordingly if you need to visit the center, located at 8201 10th Ave S, #4, Seattle, WA.

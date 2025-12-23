@@ -62,7 +62,7 @@ source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/09/2026-disability-and-health-scholarship-now-open/
 summarized: true
 title: 2026 Disability and Health Scholarship Now Open
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 ---

@@ -15,7 +15,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/help-us-shape-future-share-your-feedback-dec-5
 summarized: true
 title: 'Help us shape the future: Share your feedback by Dec. 5  '
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

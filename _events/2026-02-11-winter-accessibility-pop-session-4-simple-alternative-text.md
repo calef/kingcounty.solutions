@@ -31,7 +31,7 @@ source_url: https://washington.zoom.us/meeting/register/vKZqrJxdTh6CV_B47owlSQ
 start_date: '2026-02-11T15:00:00-08:00'
 summarized: true
 title: 'Winter Accessibility POP Session 4: Simple Alternative text'
-topics:
+topic_titles:
 - Disabilities
 ---
 

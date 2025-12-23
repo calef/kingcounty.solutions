@@ -64,7 +64,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/newport-crossroads-plans-25
 summarized: true
 title: City adopts Newport and Crossroads neighborhood plans
-topics: []
+topic_titles: []
 ---
 
 The City Council of Bellevue has adopted updated neighborhood plans for the Newport and Crossroads areas, concluding a 15-month community engagement process. These plans, part of the Great Neighborhoods program, aim to provide a community-informed vision for each of Bellevue's neighborhoods. Mayor Lynne Robinson highlighted that while Newport and Crossroads have distinct identities, they share similar priorities, and the tailored solutions reflect their unique characters while adhering to citywide goals. The council reviewed these updates following a recommendation from the Planning Commission earlier in the summer.

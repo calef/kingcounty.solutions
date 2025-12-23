@@ -7620,7 +7620,7 @@ source_url: https://nosscr.org/event/tenth-circuit-virtual-meeting/
 start_date: '2026-03-12T14:30:00-04:00'
 summarized: true
 title: Tenth Circuit Virtual Meeting
-topics: []
+topic_titles: []
 ---
 
 Join the Tenth Circuit for a virtual meeting on March 12, 2026, starting at 2:30 p.m. Eastern Time. Attendees can expect an engaging discussion on important legal topics, updates from the court, and opportunities for Q&A. This meeting is an excellent chance for legal professionals and interested community members to gain insights into the workings of the Tenth Circuit. Participants can connect from the comfort of their own homes, making it accessible to all. Don't miss this opportunity to stay informed and engage with the judicial process.

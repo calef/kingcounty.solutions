@@ -125,7 +125,7 @@ source_url: https://doh.wa.gov/newsroom/west-coast-health-alliance-wa-doh-and-le
 summarized: true
 title: West Coast Health Alliance, WA DOH, and Leading National Medical Organizations
   Continue to Recommend Hepatitis B Vaccination for Newborns
-topics:
+topic_titles:
 - Health Care
 ---
 

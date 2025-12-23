@@ -49,7 +49,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/breaking-barriers-building-stable-futures-financial-literacy-for-all
 summarized: true
 title: breaking barriers, building stable financial futures
-topics:
+topic_titles:
 - Financial Assistance
 - Employment & Job Support
 ---

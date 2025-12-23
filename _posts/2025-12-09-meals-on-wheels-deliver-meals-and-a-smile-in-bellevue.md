@@ -25,7 +25,7 @@ source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-deliver-meals-and-a-smile-in-bellevue-2/
 summarized: true
 title: 'Meals on Wheels: Deliver Meals and a Smile in Bellevue!'
-topics:
+topic_titles:
 - Food & Nutrition
 - Senior Services
 ---

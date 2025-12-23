@@ -28,7 +28,7 @@ source: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/overnight-shelter-opens-november-22/?utm_source=rss&utm_medium=rss&utm_campaign=overnight-shelter-opens-november-22
 summarized: true
 title: Overnight shelter opens November 22
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

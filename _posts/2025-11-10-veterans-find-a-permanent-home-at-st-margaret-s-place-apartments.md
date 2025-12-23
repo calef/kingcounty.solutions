@@ -81,7 +81,7 @@ source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/veterans-find-a-permanent-home-at-st-margarets-place-apartments/?utm_source=rss&utm_medium=rss&utm_campaign=veterans-find-a-permanent-home-at-st-margarets-place-apartments
 summarized: true
 title: Veterans Find a Permanent Home at St. Margaret’s Place Apartments 
-topics:
+topic_titles:
 - Shelter & Housing
 - Disabilities
 ---

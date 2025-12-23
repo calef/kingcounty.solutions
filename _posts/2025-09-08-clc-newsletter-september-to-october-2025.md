@@ -17,7 +17,7 @@ source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/clc-newsletter-september-to-october-2025/?utm_source=rss&utm_medium=rss&utm_campaign=clc-newsletter-september-to-october-2025
 summarized: true
 title: CLC Newsletter – September to October 2025
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 - Mental Health & Counseling

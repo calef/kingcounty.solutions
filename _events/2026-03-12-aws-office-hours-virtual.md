@@ -41,7 +41,7 @@ source_url: https://washington.zoom.us/j/93221107217
 start_date: '2026-03-12T14:00:00-07:00'
 summarized: true
 title: AWS Office Hours - Virtual
-topics: []
+topic_titles: []
 ---
 
 Join AWS Office Hours for a virtual session on March 12, 2026, at 2 p.m. PDT. This event is designed for individuals looking to enhance their understanding of Amazon Web Services. Attendees can expect to engage with AWS experts, ask questions, and receive guidance on a variety of topics, from cloud computing fundamentals to advanced features. Whether you are a beginner or an experienced user, this is a great opportunity to gain insights and improve your skills in AWS. Don't miss this chance to connect with the community and get your queries answered in real time.

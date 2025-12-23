@@ -44,7 +44,7 @@ source_url: https://bellevuewa.gov/city-news/waste-dropoff
 summarized: true
 title: Bellevue residents can access waste drop-off location during Republic Services
   work stoppage
-topics: []
+topic_titles: []
 ---
 
 Bellevue residents impacted by the ongoing labor dispute with Republic Services can utilize a temporary waste drop-off location. Republic Services is offering free drop-off services on specific dates this week. The locations and times are as follows:

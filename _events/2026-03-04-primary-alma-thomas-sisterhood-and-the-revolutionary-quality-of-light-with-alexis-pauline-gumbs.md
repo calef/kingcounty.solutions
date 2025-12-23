@@ -75,7 +75,7 @@ start_date: '2026-03-04T18:30:00-08:00'
 summarized: true
 title: 'Primary: Alma Thomas, Sisterhood and the Revolutionary Quality of Light with
   Alexis Pauline Gumbs'
-topics: []
+topic_titles: []
 ---
 
 Join us on March 4, 2026, at 6:30 p.m. at Town Hall Seattle for "Alma Thomas, Sisterhood and the Revolutionary Quality of Light," featuring the insightful Alexis Pauline Gumbs. This engaging event invites attendees to explore the transformative power of light through the lens of the renowned artist Alma Thomas. Gumbs will lead a thought-provoking discussion on sisterhood and the revolutionary potential of creativity, encouraging participants to reflect on their own experiences and connections. Expect an inspiring evening filled with art, dialogue, and community engagement. Don’t miss this opportunity to deepen your understanding of Thomas' legacy and its relevance today.

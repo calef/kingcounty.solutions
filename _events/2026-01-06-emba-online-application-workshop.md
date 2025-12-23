@@ -199,7 +199,7 @@ source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1
 start_date: '2026-01-06T17:30:00-08:00'
 summarized: true
 title: EMBA Online Application Workshop
-topics: []
+topic_titles: []
 ---
 
 Join the EMBA Online Application Workshop on Jan. 6, 2026, at 5:30 p.m. PST via webinar. This informative session is designed for prospective students interested in the Executive Master of Business Administration program. Attendees will gain valuable insights into the application process, including tips on crafting a strong application, understanding admission requirements, and preparing for interviews. Participants will also have the opportunity to ask questions and engage with admissions representatives. Don't miss this chance to learn how to enhance your application and take the next step in your professional journey.

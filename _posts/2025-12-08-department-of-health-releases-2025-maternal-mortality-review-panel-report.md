@@ -79,7 +79,7 @@ source: Department of Health
 source_url: https://doh.wa.gov/newsroom/department-health-releases-2025-maternal-mortality-review-panel-report
 summarized: true
 title: Department of Health Releases 2025 Maternal Mortality Review Panel Report
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

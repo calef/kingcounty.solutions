@@ -48,7 +48,7 @@ source: Samaritan Center of Puget Sound
 source_url: https://samaritanps.org/advent-devotion-joy-and-grief/
 summarized: true
 title: 'Advent Devotion: Joy and Grief'
-topics:
+topic_titles:
 - Mental Health & Counseling
 ---
 

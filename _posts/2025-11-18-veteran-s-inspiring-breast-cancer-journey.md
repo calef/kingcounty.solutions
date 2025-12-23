@@ -79,7 +79,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143326/veterans-inspiring-breast-cancer-journey/
 summarized: true
 title: Veteran’s inspiring breast cancer journey
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 ---

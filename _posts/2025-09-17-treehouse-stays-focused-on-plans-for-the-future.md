@@ -47,7 +47,7 @@ source: Treehouse
 source_url: https://www.treehouseforkids.org/treehouse-stays-focused-on-plans-for-the-future/
 summarized: true
 title: Treehouse Stays Focused on Plans for the Future
-topics:
+topic_titles:
 - Education & Learning
 ---
 

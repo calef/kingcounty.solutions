@@ -13,7 +13,7 @@ source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/construction-update-stride-bus-rapid-transit
 summarized: true
 title: 'Construction update: Stride bus rapid transit'
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

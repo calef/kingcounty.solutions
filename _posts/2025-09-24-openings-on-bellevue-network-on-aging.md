@@ -32,7 +32,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/noa-25
 summarized: true
 title: Openings on Bellevue Network on Aging
-topics:
+topic_titles:
 - Senior Services
 ---
 

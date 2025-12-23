@@ -44,7 +44,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/lake-to-lake-10-25
 summarized: true
 title: Grand Connection is focus of October Lake to Lake
-topics:
+topic_titles:
 - Transportation & Mobility
 ---
 

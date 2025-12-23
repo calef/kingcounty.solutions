@@ -36,7 +36,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/from-crisis-to-stability-kellys-journey-to-safety-and-hope-at-marys-place
 summarized: true
 title: kelly’s journey to safety and hope at mary’s place
-topics:
+topic_titles:
 - Domestic Violence
 - Shelter & Housing
 - Employment & Job Support

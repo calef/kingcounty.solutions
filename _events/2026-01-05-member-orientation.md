@@ -229,7 +229,7 @@ source_url: https://wscenter.org/event/member-orientation/2026-01-05/
 start_date: '2026-01-05T10:00:00-08:00'
 summarized: true
 title: Member Orientation
-topics:
+topic_titles:
 - Senior Services
 ---
 

@@ -40,7 +40,7 @@ source_url: https://snoqualmievalleyhealth.org/got-headaches-discover-personaliz
 summarized: true
 title: Got Headaches? Discover Personalized Treatment Options at Snoqualmie Valley
   Health
-topics:
+topic_titles:
 - Health Care
 ---
 

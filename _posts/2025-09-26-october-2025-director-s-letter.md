@@ -22,7 +22,7 @@ source: Sno-Valley Senior Center
 source_url: https://snovalleysenior.org/october-2025-directors-letter/
 summarized: true
 title: October 2025 Director’s Letter
-topics:
+topic_titles:
 - Food & Nutrition
 - Employment & Job Support
 ---

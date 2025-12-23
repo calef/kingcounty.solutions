@@ -10,7 +10,7 @@ source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/interview-with-mike-ezzo-of-resilient-hearts-animal-sanctuary/
 summarized: true
 title: Interview with Mike Ezzo of Resilient Hearts Animal Sanctuary
-topics: []
+topic_titles: []
 ---
 
 Mike Ezzo, the founder of Resilient Hearts Animal Sanctuary, shares insights into his journey of creating a safe haven for animals in need. Located in Washington, the sanctuary focuses on rescuing and rehabilitating animals facing neglect, abuse, or abandonment. Ezzo's passion for animal welfare stems from his childhood experiences with pets and a desire to provide a loving environment for those without homes.

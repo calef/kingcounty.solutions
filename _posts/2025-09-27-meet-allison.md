@@ -30,7 +30,7 @@ source: The National Children's Cancer Society - Financial Assistance
 source_url: https://thenccs.org/meet-allison/
 summarized: true
 title: Meet Allison!
-topics:
+topic_titles:
 - Financial Assistance
 - Education & Learning
 - Health Care

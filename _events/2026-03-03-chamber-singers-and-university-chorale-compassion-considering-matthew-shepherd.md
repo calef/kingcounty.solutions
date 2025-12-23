@@ -14,7 +14,7 @@ source_url: https://music.washington.edu/events/2026-03-03/chamber-singers-and-u
 start_date: '2026-03-03T19:30:00-08:00'
 summarized: true
 title: 'Chamber Singers and University Chorale: "ComPassion: Considering Matthew Shepherd"'
-topics: []
+topic_titles: []
 ---
 
 Join the Chamber Singers and University Chorale for a powerful performance of "ComPassion: Considering Matthew Shepard" on March 3, 2026, at 7:30 p.m. in Meany Hall. This poignant musical work explores themes of love, acceptance, and the impact of hate through the lens of Matthew Shepard's story. Attendees can expect an emotional and thought-provoking evening filled with beautiful choral music that encourages reflection and dialogue on important social issues. Don't miss this opportunity to experience a moving tribute that resonates with the community.

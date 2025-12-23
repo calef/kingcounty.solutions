@@ -45,7 +45,7 @@ source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/bellevue-joins-lawsuit-protect-access-federal-grant-funds
 summarized: true
 title: Bellevue joins lawsuit to protect access to federal  grant funds
-topics:
+topic_titles:
 - Shelter & Housing
 - Transportation & Mobility
 ---

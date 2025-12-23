@@ -11,7 +11,7 @@ source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/volunteer-opportunity-garden-maintenance
 summarized: true
 title: 'volunteer opportunity | garden maintenance '
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

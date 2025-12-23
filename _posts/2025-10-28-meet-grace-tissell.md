@@ -76,7 +76,7 @@ source: Inatai Foundation
 source_url: https://inatai.org/news/meet-grace-tissell/
 summarized: true
 title: Meet Grace Tissell
-topics: []
+topic_titles: []
 ---
 
 Grace Tissell has joined the Inatai Foundation as human resources operations manager, bringing with her a strong commitment to racial justice and equity. With a background in sociology, she has previously worked to support first-generation college students and foster inclusion in tech, making her transition to human resources a natural fit. Grace is inspired by Inatai's mission, which aligns with her values of advocating for justice and promoting community voices. She emphasizes the importance of unity and intentional connection in transforming communities, expressing hope for a future built on healing and peace.

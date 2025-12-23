@@ -13,7 +13,7 @@ source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/inside-northwest-harvests-fruitvale-community-market-in-yakima/
 summarized: true
 title: Inside Northwest Harvest’s Fruitvale Community Market in Yakima
-topics:
+topic_titles:
 - Food & Nutrition
 ---
 

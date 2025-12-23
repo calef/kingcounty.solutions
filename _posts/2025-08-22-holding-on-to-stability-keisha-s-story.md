@@ -51,7 +51,7 @@ source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/holding-on-to-stability-keishas-story
 summarized: true
 title: 'holding on to stability: Keisha’s story'
-topics:
+topic_titles:
 - Childcare
 - Financial Assistance
 - Shelter & Housing

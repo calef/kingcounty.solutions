@@ -26,7 +26,7 @@ source_url: https://www.tukwilawa.gov/event/christmas-day-city-offices-closed-2/
 start_date: '2025-12-25T08:00:00-08:00'
 summarized: true
 title: Christmas Day - City Offices Closed
-topics: []
+topic_titles: []
 ---
 
 City offices in Washington will be closed on Christmas Day, December 25, 2025, from 8 a.m. to 5 p.m. Residents should plan accordingly, as city services will not be available during this holiday. This closure allows city employees to celebrate the holiday with their families and communities. While the offices are closed, the spirit of the season can be enjoyed through various local festivities and gatherings.

@@ -231,7 +231,7 @@ source_url: https://wscenter.org/event/medicare-presentation-2-2/2026-01-08/
 start_date: '2026-01-08T11:00:00-08:00'
 summarized: true
 title: Medicare Presentation
-topics:
+topic_titles:
 - Health Care
 - Senior Services
 ---

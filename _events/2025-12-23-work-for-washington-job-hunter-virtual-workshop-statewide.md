@@ -269,7 +269,7 @@ source_url: https://worksourceskc.org/event/work-for-washington-job-hunter-virtu
 start_date: '2025-12-23T13:00:00-08:00'
 summarized: true
 title: Work for Washington – Job Hunter Virtual Workshop – Statewide
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

@@ -12,7 +12,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/staff-spotlight-veronica-dorazio/?utm_source=rss&utm_medium=rss&utm_campaign=staff-spotlight-veronica-dorazio
 summarized: true
 title: 'Staff Spotlight: Veronica D’Orazio'
-topics:
+topic_titles:
 - Senior Services
 - Mental Health & Counseling
 ---

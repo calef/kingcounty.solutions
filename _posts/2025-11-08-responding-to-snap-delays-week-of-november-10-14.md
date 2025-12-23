@@ -12,7 +12,7 @@ source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/responding-to-snap-delays-week-of-nov-10-14/
 summarized: true
 title: 'Responding to SNAP Delays: Week of November 10-14'
-topics:
+topic_titles:
 - Food & Nutrition
 - Financial Assistance
 ---

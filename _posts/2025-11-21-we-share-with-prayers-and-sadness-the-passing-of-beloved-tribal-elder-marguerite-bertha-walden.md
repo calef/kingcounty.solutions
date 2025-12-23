@@ -20,7 +20,7 @@ source_url: https://snoqualmietribe.us/we-share-with-prayers-and-sadness-the-pas
 summarized: true
 title: We share with prayers and sadness the passing of beloved Tribal Elder Marguerite
   Bertha Walden
-topics:
+topic_titles:
 - Food & Nutrition
 - Employment & Job Support
 ---

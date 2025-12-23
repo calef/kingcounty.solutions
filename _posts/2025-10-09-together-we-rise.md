@@ -57,7 +57,7 @@ source: YouthCare
 source_url: https://youthcare.org/blog/together-we-rise/
 summarized: true
 title: Together We Rise
-topics:
+topic_titles:
 - Shelter & Housing
 - Mental Health & Counseling
 ---

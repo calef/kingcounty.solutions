@@ -15,7 +15,7 @@ source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/11/updates-continued-flooding/
 summarized: true
 title: 'Updates: Continued Flooding'
-topics: []
+topic_titles: []
 ---
 
 Heavy rain and strong winds from an ongoing atmospheric river event are causing widespread flooding in western Washington, particularly in King County. Many rivers have reached flood stage, and water levels are expected to remain high until at least Friday, Dec. 12. King County emergency teams are actively responding to the situation, with over 50 personnel deployed to assist affected communities. Residents are urged to stay informed and take precautions as conditions continue to evolve.

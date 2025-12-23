@@ -12,7 +12,7 @@ source: Aging Wisdom
 source_url: https://agingwisdom.com/staff-spotlight-jacque-quinene/?utm_source=rss&utm_medium=rss&utm_campaign=staff-spotlight-jacque-quinene
 summarized: true
 title: 'Staff Spotlight: Jacque Quinene'
-topics:
+topic_titles:
 - Senior Services
 ---
 

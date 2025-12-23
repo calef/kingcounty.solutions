@@ -50,7 +50,7 @@ source_url: https://wscenter.org/event/get-moving/2025-12-23/
 start_date: '2025-12-23T09:30:00-08:00'
 summarized: true
 title: Get Moving!
-topics:
+topic_titles:
 - Senior Services
 - Health Care
 ---

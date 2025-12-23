@@ -33,7 +33,7 @@ source: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/08/compass-housing-alliance-receives-a-major-gift-to-invest-in-early-career-staff/
 summarized: true
 title: Compass Housing Alliance receives a major gift to invest in early career staff
-topics:
+topic_titles:
 - Employment & Job Support
 ---
 

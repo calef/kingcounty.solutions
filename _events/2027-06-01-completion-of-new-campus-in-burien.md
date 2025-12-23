@@ -10,7 +10,7 @@ source_url: https://www.marysplaceseattle.org/blog/building-love-in-burien-new-c
 start_date: '2027-06-01T00:00:00-07:00'
 summarized: true
 title: Completion of New Campus in Burien
-topics:
+topic_titles:
 - Shelter & Housing
 ---
 

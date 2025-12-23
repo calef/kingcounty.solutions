@@ -12,7 +12,7 @@ source_url: https://council.seattle.gov/2025/12/09/chair-kettle-maintaining-coll
 summarized: true
 title: 'Chair Kettle: Maintaining collaborative approach critical to continued public
   safety success in 2026 and beyond'
-topics: []
+topic_titles: []
 ---
 
 Councilmember Bob Kettle, chair of the Public Safety Committee, reflected on the committee's work during its final meeting of 2025. He emphasized the importance of collaboration in maintaining public safety as a top priority for Seattle. Kettle noted that in 2023, voters clearly indicated that public safety should be a focus for the city. He expressed pride in the progress made over the past two years, highlighting the need for continued teamwork to ensure ongoing success in public safety initiatives for 2026 and beyond.

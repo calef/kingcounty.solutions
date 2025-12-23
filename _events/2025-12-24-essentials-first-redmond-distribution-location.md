@@ -179,7 +179,7 @@ source_url: https://togethercenter.org/event/essentials-first-redmond-distributi
 start_date: '2025-12-24T10:00:00-08:00'
 summarized: true
 title: Essentials First Redmond Distribution Location
-topics:
+topic_titles:
 - Personal & Household Needs
 ---
 

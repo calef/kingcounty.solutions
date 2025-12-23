@@ -23,7 +23,7 @@ source_url: https://iacswa.org/event/early-start-maple-valley-102/
 start_date: '2025-12-31T10:00:00-08:00'
 summarized: true
 title: EARLY START Maple Valley
-topics:
+topic_titles:
 - Childcare
 - Education & Learning
 ---

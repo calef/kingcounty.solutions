@@ -18,7 +18,7 @@ source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/vaccines-the-science-behind-the-shot/
 summarized: true
 title: 'Vaccines: The Science Behind the Shot'
-topics: []
+topic_titles: []
 ---
 
 Vaccines are a crucial tool in public health, designed to prevent infectious diseases by stimulating the immune system. They contain antigens, which are weakened or inactivated parts of a pathogen, enabling the body to recognize and combat the actual disease. The immune response includes the production of antibodies that can neutralize future infections.

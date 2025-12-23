@@ -58,7 +58,7 @@ source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/preparing-for-potential-wind-storm-and-continued-effects-of-post-flooding/
 summarized: true
 title: Preparing for Potential Wind Storm and Continued Effects of Post-Flooding
-topics: []
+topic_titles: []
 ---
 
 Residents are urged to prepare for a wind advisory and ongoing post-flooding effects. To ensure safety during potential power outages, individuals should stay away from downed power lines and use flashlights instead of candles. It is important to keep refrigerator and freezer doors closed to maintain food safety. Gas ranges and indoor cookers should not be used for heating, and generators must never be operated indoors due to the risk of carbon monoxide poisoning.

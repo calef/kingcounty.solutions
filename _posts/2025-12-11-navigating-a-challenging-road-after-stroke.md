@@ -69,7 +69,7 @@ source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143768/navigating-a-challenging-road-after-stroke/
 summarized: true
 title: Navigating a challenging road after stroke
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 - Mental Health & Counseling

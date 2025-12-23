@@ -15,7 +15,7 @@ source: King County Library System
 source_url: https://kcls.org/blogs/post/elevate-customer-experiences/
 summarized: true
 title: Elevated Experiences
-topics:
+topic_titles:
 - Education & Learning
 ---
 

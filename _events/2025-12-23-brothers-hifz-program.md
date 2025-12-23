@@ -209,7 +209,7 @@ source_url: https://mapsredmond.org/event/brothers-hifz-program/2025-12-23/
 start_date: '2025-12-23T17:00:00-08:00'
 summarized: true
 title: Brothers Hifz Program
-topics:
+topic_titles:
 - Education & Learning
 ---
 

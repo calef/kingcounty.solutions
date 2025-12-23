@@ -14,7 +14,7 @@ source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27046
 summarized: true
 title: Public Hearing
-topics: []
+topic_titles: []
 ---
 
 The City of Black Diamond is hosting its annual Fall Festival on Saturday, Oct. 14, 2023, from 11 a.m. to 4 p.m. at the Black Diamond Community Center. This family-friendly event features a variety of activities, including a pumpkin patch, hayrides, and games for children. Local vendors will offer food, crafts, and other goods, while live music will entertain attendees throughout the day. The festival also includes a petting zoo and a costume contest for kids. Families are encouraged to come dressed in their favorite costumes to participate in the festivities. Admission to the Fall Festival is free, and parking is available at the community center. The event aims to bring together the community and celebrate the fall season with fun and engaging activities for all ages.

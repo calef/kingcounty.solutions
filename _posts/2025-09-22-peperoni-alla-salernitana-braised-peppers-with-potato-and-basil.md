@@ -31,7 +31,7 @@ source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/peperoni-alla-salernitana-braised-peppers-with-potato-and-basil
 summarized: true
 title: Peperoni Alla Salernitana (Braised Peppers with Potato and Basil)
-topics: []
+topic_titles: []
 ---
 
 Peperoni Alla Salernitana, or braised peppers with potato and basil, is a flavorful dish that serves four. The recipe requires four red bell peppers, four large Yukon Gold potatoes (peeled and diced), olive oil, garlic, red wine vinegar, basil leaves, and kosher salt.
