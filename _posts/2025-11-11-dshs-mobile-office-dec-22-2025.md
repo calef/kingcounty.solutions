@@ -1,7 +1,6 @@
 ---
 date: '2025-11-11T17:50:01+00:00'
-events:
-- 2025-12-22-dshs-mobile-community-services-office
+events: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/DSHS-Dec-2-791x1024.png" alt="" class="wp-image-3608"/></figure>
