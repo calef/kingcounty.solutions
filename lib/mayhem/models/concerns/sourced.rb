@@ -6,7 +6,6 @@ module Mayhem
   module Models
     module Concerns
       module Sourced
-        # TODO: check my work
         def organization
           Organization.find_by(title: organization_title)
         end

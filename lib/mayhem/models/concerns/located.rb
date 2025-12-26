@@ -10,7 +10,6 @@ module Mayhem
           self['location_titles'] || []
         end
 
-        # TODO: check my ruby
         def locations
           location_titles.map do |location_title|
             Location.find_by(title: location_title)
