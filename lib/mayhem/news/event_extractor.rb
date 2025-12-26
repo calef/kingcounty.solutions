@@ -9,6 +9,8 @@ require_relative '../front_matter/slug_generator'
 require_relative '../support/encoding_utils'
 require_relative '../content/html_normalizer'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module News
     class EventExtractor

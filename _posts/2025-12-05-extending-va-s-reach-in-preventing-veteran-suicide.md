@@ -86,7 +86,7 @@ feed_content: |-
 
 
   <p><a id="_msocom_1"></a></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

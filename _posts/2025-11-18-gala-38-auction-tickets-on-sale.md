@@ -9,7 +9,7 @@ feed_content: 'It''s Auction Season! Bid on gifts for the holidays &#38; support
   Live Auction , our first since the pandemic, is back again at the Four Season Seattle,
   and features happy hour socializing and a fun silent auction followed by a sumptuous
   gala...'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

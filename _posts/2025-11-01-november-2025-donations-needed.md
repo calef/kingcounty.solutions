@@ -29,7 +29,7 @@ feed_content: |-
   <object></object><a>11. November 2025</a><a>Download</a>
   </div>
 feed_content_checksum: 136524f5e9b1d3fb7b3b74c0b0adad2d6623a519
-image_ids:
+image_checksums:
 - 99a5da044852b4e0faa6afe7d2e20a4e55a552ae48db66ff4424cdb061fce152
 location_titles:
 - South King County

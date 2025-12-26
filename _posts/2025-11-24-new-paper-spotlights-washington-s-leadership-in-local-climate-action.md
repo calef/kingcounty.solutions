@@ -35,7 +35,7 @@ feed_content: |-
 
 
   <p>Commerce concluded its HB 1181 rulemaking this fall and will publish updated climate planning guidance in December. Learn more on our <a href="https://www.commerce.wa.gov/growth-management/climate-planning/climate-planning-guidance/">climate planning guidance webpage</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Commerce
 published: false

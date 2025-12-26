@@ -6,7 +6,7 @@ feed_content: Seattle – This week, Mayor Bruce Harrell signed the City of Seat
   2026 budget into law, totaling $8.9 billion in appropriations overall and $2.0 billion
   toward General Fund priorities.&#160; Passed unanimously by the City Council last
   week, the fin...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

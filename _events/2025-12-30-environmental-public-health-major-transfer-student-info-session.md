@@ -97,7 +97,7 @@ feed_content: "<a> Skip to main content </a> <div> <div> <div> <div> <div> <div>
   Guide - Environmental Public Health</a></div> </div> </div> </div> </div> </div>
   </section> </div> </div> </div> </article> </div> </section> </div> </div> </div>"
 feed_content_checksum: 9349ce3670d2b7ba83345d0cfe1284072d5b6190
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

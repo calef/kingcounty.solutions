@@ -96,7 +96,7 @@ feed_content: |-
 
   <p>Make this December your most meaningful yet by putting your Whole Health front and center. Connect with your nearest facility or visit <a>Whole Health</a>.</p>
 feed_content_checksum: 9ed4179f35dcae7e6b080e0fae2cd876f3ef798e
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

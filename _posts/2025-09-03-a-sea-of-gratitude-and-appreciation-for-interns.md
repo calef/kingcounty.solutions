@@ -7,7 +7,7 @@ feed_content: On a night to celebrate the accomplishments of youth from across t
   Celebration on Aug. 19 surrounded by glass containers of sea animals at the Seattle
   Aquarium. Mayor Bruce Harrell spoke at the event, offering words of encouragement
   to the youth and [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

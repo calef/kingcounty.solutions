@@ -29,7 +29,7 @@ feed_content: |-
 
   <p>On November 9th, Frank&#8217;s purpose took center stage when Boeing and the Seattle Seahawks recognized Compass Housing Alliance with the &#8220;Honoring Our Heroes&#8221; award. Frank and his colleagues will hold the U.S. flag during the national anthem at Lumen Field—a full-circle moment from serving his country, through homelessness and struggle, to now helping other veterans find their path forward.</p>
   <p>The post <a href="https://www.compasshousingalliance.org/2025/11/i-penalized-myself-by-keeping-it-in/">&#8220;I penalized myself by keeping it in.&#8221;</a> appeared first on <a href="https://www.compasshousingalliance.org">Compass Housing Alliance</a>.</p>
-image_ids:
+image_checksums:
 - 3a309fc1d9633eeeed828078067f5701396d06366e7f979a5d3c77ac579a7331
 location_titles:
 - King County

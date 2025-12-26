@@ -7,7 +7,7 @@ feed_content: Zuhoor joined the MSC team in 2023 and serves as a Community Outre
   How does your program help the community? We provide culturally and linguistically
   appropriate support to newly arrived refugees and immigrants. Clients often face
   significant challenges as they adjust to life  [...]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Multi-Service Center

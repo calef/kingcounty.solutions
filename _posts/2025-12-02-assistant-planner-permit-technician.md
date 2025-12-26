@@ -11,7 +11,7 @@ feed_content: This position is responsible for professional-level urban planning
   This position is the first point of contact for inquiries regarding the Normandy
   Park Municipal Code for building, land use, and environmental regulations, and submittal
   requirements for permit applications.
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Normandy Park
 published: false

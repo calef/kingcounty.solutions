@@ -35,7 +35,7 @@ feed_content: |-
 
   <p>Yoga helps improve the body, mind and spirit. It teaches self-awareness, patience, gratitude and inner peace. Practicing yoga can also help you feel more connected to yourself, to nature and to the world around you. Learn more about the <a>benefits of yoga.</a></p>
 feed_content_checksum: 02d8e976ef67bfa6a65988ac439e38dfc82489f7
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -6,7 +6,7 @@ feed_content: Ryan, the Seattle Police Department’s “Comfort Dog,” is stil
   boy and has been working very hard to take care of his fellow humans here in Seattle. 
   Ryan, who is a five-year-old English Labrador Retriever, has been with SPD for nearly...
 feed_content_checksum: 904ee0f8b7aa7cd56a026cc15608a8e5a16ca6e0
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

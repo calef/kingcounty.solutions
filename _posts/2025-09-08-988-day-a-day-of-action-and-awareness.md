@@ -10,7 +10,7 @@ feed_content: |-
   <p>When you contact the 988 Lifeline, you’re connected to a skilled, compassionate counselor—a real person who will listen without judgment, offer support, and share resources, if needed. The 11,000+ counselors in our 988 network are 988’s heart. In talking with people every day, they help reduce barriers and stigma around seeking mental health, suicide, and substance-use support.</p>
   <p>If you haven’t yet planned to participate today, you can grab some quick resources to post about 988 on your social media. Visit <strong><a href="https://988lifeline.org/988-day/">988DayToolkit.org</a></strong> for resources and tools.</p>
   <p>The post <a href="https://www.vibrant.org/988-day-a-day-of-action-and-awareness/">988 Day: A Day of Action and Awareness</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
-image_ids:
+image_checksums:
 - 64ae3cc118b1ec324f64155cb84dca8c84620cfda91e1af264b0c8d9f682b93c
 location_titles:
 - King County

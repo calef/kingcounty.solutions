@@ -27,7 +27,7 @@ feed_content: |-
   <p></p>
   <p>The post <a>Medical team to visit Westside Neighbors Shelter</a> appeared first on <a>Westside Neighbors Shelter</a>.</p>
 feed_content_checksum: 8a5b29f6f5a1e6bd9067e51e30e2fa23dfb2c777
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Westside Neighbors Shelter

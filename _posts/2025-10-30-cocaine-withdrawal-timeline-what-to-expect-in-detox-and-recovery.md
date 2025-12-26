@@ -160,7 +160,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   post <a href=\"https://lakesidemilam.com/blog/cocaine-withdrawal-timeline-what-to-expect-in-detox-and-recovery/\">Cocaine
   Withdrawal Timeline: What to Expect in Detox and Recovery</a> appeared first on
   <a href=\"https://lakesidemilam.com\">Lakeside-Milam Recovery Centers</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Lakeside-Milam Recovery Centers

@@ -18,7 +18,7 @@ feed_content: |-
   This month, and every month, we honor the Snoqualmie Tribe and Native peoples everywhere for their resilience, leadership, and commitment to community.
 
   The post [Celebrating Native American Heritage Month](https://snoqualmievalleyhealth.org/native-american-heritage-month/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

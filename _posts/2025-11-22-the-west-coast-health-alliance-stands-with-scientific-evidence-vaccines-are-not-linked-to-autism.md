@@ -31,7 +31,7 @@ feed_content: |-
   <p>The Alliance encourages families to seek information from trusted health care providers and reputable medical organizations, including the American Academy of Pediatrics.</p>
 
   <p class="text-align-center">###</p></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

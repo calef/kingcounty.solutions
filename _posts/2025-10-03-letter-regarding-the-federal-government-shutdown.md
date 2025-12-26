@@ -6,7 +6,7 @@ feed_content: |-
   Please use the below link to download the original PDF to read the letter.
 
   [Download the letter (PDF format)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Federal-Shutdown-Letter-to-Membership.pdf)
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

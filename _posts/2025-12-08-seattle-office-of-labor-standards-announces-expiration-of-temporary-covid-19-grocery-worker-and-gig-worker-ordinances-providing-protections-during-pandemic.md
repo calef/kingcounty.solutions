@@ -9,7 +9,7 @@ feed_content: 'For Immediate Release Contact InformationCynthia SantanaPhone: 20
   8, 2025) – The Seattle Office of Labor Standards (OLS) announces the Grocery Employee
   Hazard Pay (GEHP), Gig […]'
 feed_content_checksum: 46cd8026ab987b8143250401572a0aa048835cdc
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -7,7 +7,7 @@ feed_content: 'Thank you, City Council and Mayor Harrell, for continued funding 
   350 words | 2-minute read Seattle Mayor Bruce Harrell has signed the City of Seattle’s
   2026...'
 feed_content_checksum: a988edfc473dab1d82858cdfc04decdc259f2bd8
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

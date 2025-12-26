@@ -33,7 +33,7 @@ feed_content: |-
   Katy
 
   &nbsp;
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

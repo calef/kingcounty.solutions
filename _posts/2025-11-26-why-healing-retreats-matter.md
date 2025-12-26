@@ -40,7 +40,7 @@ feed_content: |-
   <p>A Harmony Retreat is not a cure and not a substitute for medical care. What it <em>does</em> offer is profound:<br />A circle of belonging. A moment to pause. A chance to reconnect with your body, your story, and your community.</p>
   <p>Whether you are newly diagnosed, deep in treatment, navigating survivorship, or living with metastatic cancer, the healing benefits… emotional, psychological, and physiological… are real. <strong>And you do not have to walk this path alone.</strong></p>
   <p><a href="https://www.harmonyhill.org/cancer/"><strong>Explore upcoming retreat dates and learn more about our 3-Day Cancer Retreats at Harmony Retreats.</strong></a></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

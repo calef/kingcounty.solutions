@@ -12,7 +12,7 @@ feed_content: |-
   <p>Whether you joined us in person or supported from afar, we’re grateful. Events like this remind us that when we gather with purpose, we make home possible for thousands across Georgia.</p>
   <p><a href="https://www.facebook.com/media/set/?vanity=mercyhousing&amp;set=a.1276732947830563"><em>Click here to view the full Power of Home photo gallery.</em></a></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/the-power-of-home-the-power-of-you/">The Power of Home. The Power of You.</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Mercy Housing
 published: false

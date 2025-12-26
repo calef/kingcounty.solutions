@@ -7,7 +7,7 @@ feed_content: Use of earliest publication date for determining NIH Public Access
   Effective October 1, 2025, My Bibliography &#8230; <a href="https://ncbiinsights.ncbi.nlm.nih.gov/2025/09/08/upcoming-change-my-bibliography/"
   class="more-link">Continue reading <span class="screen-reader-text">Upcoming Change
   in My Bibliography</span> <span class="meta-nav">&#8594;</span></a>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: National Center for Biotechnology Information
 published: false

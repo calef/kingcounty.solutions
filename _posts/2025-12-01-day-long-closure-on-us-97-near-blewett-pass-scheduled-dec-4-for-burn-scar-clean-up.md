@@ -4,7 +4,7 @@ feed_content: WENATCHEE – The Washington State Department of Transportation wi
   US 97 Blewett Pass between the junction of SR 970 at Lauderdale (milepost 149) and
   Ingalls Creek Road (milepost 177) to remove trees and debris in the Labor Mountain
   Fire burn scar area.
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Washington State Department of Transportation
 published: false

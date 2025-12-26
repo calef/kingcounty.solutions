@@ -16,7 +16,7 @@ feed_content: |-
 
 
   <div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 10. October 2025 (3)."></object><a id="wp-block-file--media-9a0832be-78ea-4a4c-aa21-ba0fe8e8d670" href="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf">10. October 2025 (3)</a><a href="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-9a0832be-78ea-4a4c-aa21-ba0fe8e8d670">Download</a></div>
-image_ids:
+image_checksums:
 - b8a2c8bce4a6667efc45011db7db0257ef0c6b286d214cb72ba21a8a8b04938a
 - 125335815bb476d779efdd1b58c107e5f10e781c89d67f96005a68836c268764
 - 8b70f3c293019e432bdf1ed6ad4bad87c9141df70cce37b8762701b324f6482a

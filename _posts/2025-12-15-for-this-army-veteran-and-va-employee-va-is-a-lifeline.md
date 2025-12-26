@@ -67,7 +67,7 @@ feed_content: |-
 
   <p>Today, Tracy resides in Oklahoma City with his wife and three grown children. In his free time, he enjoys woodworking and homesteading, caring for 49 chickens and a large vegetable garden.<br><br>“If I could deliver a message to my fellow Vets, it would be letting them know that, just like we were dedicated to our service, VA is full of employees dedicated to taking care of Veterans,” he added. “This is our mission, our calling and our purpose, and we are here to help.”</p>
 feed_content_checksum: 296b572967ebc204612ddea9233a8aa3d8486dab
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

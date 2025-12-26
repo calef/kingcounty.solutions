@@ -35,7 +35,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
   post <a>Christmas spirit can be found wherever Santa for Seniors team goes</a> appeared
   first on <a>LCSNW</a>.</p>"
 feed_content_checksum: cbf926679349d348780bc683522b60fd452455e0
-image_ids:
+image_checksums:
 - eac2fd0b3f7e2c02947091ccab8876062e5c2f6eab5afabb5fc36bc6f62a44dc
 location_titles:
 - King County

@@ -3,7 +3,7 @@ feed_content: Husky Health Center and all UW Medicine facilities will no longer 
   in-network for certain health insurance plans.
 feed_content_checksum: 5efb6d23c637acec64e5fe18788ba5af9b6389b7
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

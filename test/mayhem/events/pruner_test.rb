@@ -51,26 +51,26 @@ class EventsPrunerTest < Minitest::Test
     image_id = 'event-img'
     write_image_metadata(image_id)
     write_asset(image_id)
-    event_path = write_event('event-2', image_ids: [image_id])
+    event_path = write_event('event-2', image_checksums: [image_id])
     document = Mayhem::FrontMatter::Document.load(event_path)
 
     @pruner.unpublish(event_path, document)
 
     updated = Mayhem::FrontMatter::Document.load(event_path)
     refute updated.front_matter['published']
-    assert_empty updated.front_matter['image_ids']
+    assert_empty updated.front_matter['image_checksums']
     refute_path_exists File.join(@images_dir, "#{image_id}.md")
     assert_empty Dir.glob(File.join(@assets_dir, "#{image_id}.*"))
   end
 
   private
 
-  def write_event(id, image_ids: [])
+  def write_event(id, image_checksums: [])
     path = File.join(@events_dir, "#{id}.md")
     front_matter = {
       'title' => "Event #{id}",
       'start_date' => Time.now.utc.iso8601,
-      'image_ids' => image_ids,
+      'image_checksums' => image_checksums,
       'published' => true
     }
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))

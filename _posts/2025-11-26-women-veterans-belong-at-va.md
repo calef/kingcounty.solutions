@@ -102,7 +102,7 @@ feed_content: |-
 
 
   <p>You belong at VA. <a href="http://www.womenshealth.va.gov" rel="noopener">Learn more about VA women’s health care</a> or download our <a href="https://www.womenshealth.va.gov/WOMENSHEALTH/docs/Resources-Guide-Brochure-Final-2-508.pdf" rel="noopener">Guide to VA Resources brochure</a> to learn more about all the benefits of using VA.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -23,7 +23,7 @@ feed_content: "<div> <div> <div> <p>We’re excited to see you at <strong>Create
   <p>Dec 13</p> </div> </div> </div> <p> <a>&lt;&lt; Back to Events</a> </p> </div>
   </div> </div>"
 feed_content_checksum: 7d0bf9f8dafeb864cd7f50c00d5ff1650455d819
-image_ids: []
+image_checksums: []
 location: Virtual Event
 location_titles:
 - King County

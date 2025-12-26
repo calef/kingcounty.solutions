@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: At Eastside Friends of Seniors, we see aging not as a problem to solve,
   but rather as a life stage to honor. Every week, we witness...
-image_ids: []
+image_checksums: []
 location_titles:
 - Eastside
 organization_title: Eastside Friends of Seniors

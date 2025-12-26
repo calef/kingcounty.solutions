@@ -38,7 +38,7 @@ feed_content: |-
   Your attendance is always encouraged.
 
   Thank you.
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

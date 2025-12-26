@@ -142,7 +142,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachm
   post <a href=\"https://www.dav.org/learn-more/news/2025/adaptive-golf-for-veterans-the-role-of-golf-buddies-in-recovery/\">Adaptive
   golf for veterans: The role of golf buddies in recovery</a> appeared first on <a
   href=\"https://www.dav.org\">DAV</a>.</p>"
-image_ids:
+image_checksums:
 - 52075be881f89e2f03b4191e3be6556a1057d6601ef8392faecdae406dcf9004
 location_titles:
 - King County

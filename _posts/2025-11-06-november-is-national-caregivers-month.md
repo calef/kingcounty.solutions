@@ -16,7 +16,7 @@ feed_content: |-
 
   <p><span style="font-size: 18px"><span style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif"><span style="font-weight:normal;"><span style="background-color: rgb(255, 255, 255)">It’s likely that someone in your family will be caring for an aging relative—or will, themselves, need extra assistance as they grow older. Family and community relationships are the source of so much joy, meaning, and comfort. So take time in November to acknowledge, honor, and check in with a family caregiver. They will get a boost from your thoughtful contact and your gestures of support.</span></span></span></span><br><br>These organizations’ websites are among many that have resources to share and suggestions for ways to celebrate family caregiving. The <a href="https://www.ncoa.org/page/national-family-caregivers-month/">National Council on Aging</a>, <a href="https://www.caregiveraction.org/">The Caregiver Action Network</a>, <a href="https://www.caregiving.org/">The National Alliance for Caregiving</a>, and <a href="https://sharethecare.org/">Share The Care</a>.</p>
   <p>The post <a href="https://soundgenerations.org/november-is-national-caregivers-month/">November is National Caregivers Month</a> appeared first on <a href="https://soundgenerations.org">Sound Generations</a>.</p>
-image_ids:
+image_checksums:
 - ad51460a4eb6b48fcb0ab1d97bf996d1cf869d18c6aa41c67c178d49574a876e
 location_titles:
 - King County

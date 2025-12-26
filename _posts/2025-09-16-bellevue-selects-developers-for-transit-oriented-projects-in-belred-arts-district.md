@@ -58,7 +58,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-09-16T12:00:00Z\" class=\"datetime\">September
   16 2025</time>\n</div>\n      \n    </div>\n  </div>"
-image_ids:
+image_checksums:
 - 63abec4f311eac921476eaec9c04865ea20ed4acc3ba5e50c3dd0b42d1da9f49
 location_titles:
 - King County

@@ -7,7 +7,7 @@ feed_content: Community Corner highlights the work of Seattle Human Services’ 
   their amazing work on behalf of the people of Seattle. This post was provided by
   Jordan Neto...
 feed_content_checksum: b66722ad5fd7d12247a061156d56c8348879bba1
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

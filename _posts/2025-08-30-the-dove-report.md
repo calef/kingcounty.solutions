@@ -2,7 +2,7 @@
 date: '2025-08-30T01:18:07+00:00'
 feed_content: Check out DOVE's quarterly newsletter for the latest news and happenings
   at DOVE. Newsletter Link
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: The Vashon DOVE Project
 published: false

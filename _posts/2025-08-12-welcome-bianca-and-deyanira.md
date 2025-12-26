@@ -16,7 +16,7 @@ feed_content: |-
   See ELAP’s full staff team [on our website](https://elap.org/staff-and-board/).
 
   The post [Welcome Bianca and Deyanira](https://elap.org/welcome-bianca-and-deyanira/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - Eastside
 organization_title: Eastside Legal Assistance Program

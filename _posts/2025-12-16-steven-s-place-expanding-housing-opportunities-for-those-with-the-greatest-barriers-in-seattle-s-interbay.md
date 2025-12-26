@@ -41,7 +41,7 @@ feed_content: |-
 
   <p>Thanks to Commerce, DESC, and all others who made Steven’s Place possible.</p>
 feed_content_checksum: cd43995b57b9f699c97af327f7303daf61401de2
-image_ids:
+image_checksums:
 - 4f745237430fcafda7497b574643c6652e91b3ebbc2e0dd5ee05b0ede6601868
 location_titles:
 - King County

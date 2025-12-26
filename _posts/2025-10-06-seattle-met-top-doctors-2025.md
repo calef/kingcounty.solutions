@@ -71,7 +71,7 @@ feed_content: |-
   <li><a href="https://www.providence.org/doctors/urology/wa/bothell/julia-wilson-1215456439">Julia Wilson, PA-C</a></li>
   </ul>
   <p>The post <a href="https://www.pacificmedicalcenters.org/news/seattle-met-top-doctors-2025/">Seattle Met Top Doctors 2025</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Pacific Medical Centers

@@ -4,7 +4,7 @@ feed_content: We are thrilled to announce the launch of Eproval, a new online Sp
   Events permitting software that makes it easier to get a special events permit.
   This shift to a software-based application and permitting system modernizes and
   streamlines all aspe...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

@@ -6,7 +6,7 @@ feed_content: <div><p paraid="1603083217" paraeid="{b0b48f72-cdcb-42b9-93e5-f8b2
   here at Sound Transit, momentum is only ramping up toward connecting the Eastside
   and Seattle across the I-90 floating bridge as crews remain hard at work testing
   the 2 Line’s Crosslake Connection.</p></div>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Sound Transit
 published: false

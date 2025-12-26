@@ -14,7 +14,7 @@ feed_content: |-
 
 
   <p>Thursday, November 27 &#8211; &hellip;</p></a>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: The Center for Active Living
 published: false

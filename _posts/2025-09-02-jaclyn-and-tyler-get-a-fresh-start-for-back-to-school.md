@@ -51,7 +51,7 @@ feed_content: "<p class=\"\">For weeks, Jaclyn and her son, Tyler, had been expe
   </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n\n\n\n\n\n \n  <a href=\"https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&amp;utm_medium=blog&amp;utm_campaign=blogs-public&amp;c_src=blogs-public&amp;c_src2=blog\"
   class=\"sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element\"
   data-sqsp-button target=\"_blank\"\n  >\n    support our work!\n  </a>"
-image_ids:
+image_checksums:
 - cfa117e2a26e7244cead9d863a59f13fa09efb5b50663ee56df7de0e0a60ed21
 location_titles:
 - King County

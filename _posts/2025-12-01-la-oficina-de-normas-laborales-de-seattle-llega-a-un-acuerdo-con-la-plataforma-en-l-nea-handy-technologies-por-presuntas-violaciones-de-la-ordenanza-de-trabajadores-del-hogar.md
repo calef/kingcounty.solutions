@@ -5,7 +5,7 @@ feed_content: 'Casi $136.000 en recursos para 705 trabajadores Para publicación
   La Oficina de Normas Laborales de Seattle llega a un acuerdo con la plataforma en
   línea Handy Technologies por presuntas violaciones de la Ordenanza de Trabajadores
   del Hogar Casi $136.000 en recursos para 705 trabajadores Seattle, WA – (1 [&#8230;]'
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

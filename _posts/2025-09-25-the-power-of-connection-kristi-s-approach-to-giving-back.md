@@ -76,7 +76,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   for our work to end family homelessness. <em>“I believe together we're stronger
   and we can all do our part in helping “Raise the Vibe” with kindness, passion, purpose,
   connection, and community.”</em></p>"
-image_ids:
+image_checksums:
 - f913e63d0f1687246aa3e056fa5c8cdfc76aae1d23c91e7db71d89e740c07303
 - c6d344def156695d5eeb4f251c22e65fc09fc7c8a03bd269557d5640a08cace6
 location_titles:

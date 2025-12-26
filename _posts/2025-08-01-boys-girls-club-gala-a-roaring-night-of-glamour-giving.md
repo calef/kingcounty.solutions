@@ -34,7 +34,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p><img loading="lazy" decoding="async" class="aligncenter wp-image-11446" title="boys and girls club gala" src="https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-300x240.png" alt="a collage of images from the 2024 great futures gala &amp; auction" width="968" height="774" srcset="https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-300x240.png 300w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-1024x819.png 1024w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-768x614.png 768w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-1536x1229.png 1536w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-100x80.png 100w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-1200x960.png 1200w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated.png 2000w" sizes="auto, (max-width: 968px) 100vw, 968px" /></p>
   <p>The post <a href="https://positiveplace.org/boys-and-girls-club-gala/">Boys &#038; Girls Club Gala: A Roaring Night of Glamour &#038; Giving</a> appeared first on <a href="https://positiveplace.org">Boys &amp; Girls Clubs</a>.</p>
-image_ids:
+image_checksums:
 - 5ec12c2717daf9a8842ad4f14ec5440dae4153b8f78ec28e8c8c8f1eb6c763fc
 location_titles:
 - King County

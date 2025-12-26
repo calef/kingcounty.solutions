@@ -25,7 +25,7 @@ feed_content: |-
 
   <p>“Thanks to Carol and Peter Stewart, when great people come to work for Compass, we now have the resources to help their careers flourish,” added Teena Ellison, senior director of housing and services at Compass. &#8220;The staff who will benefit from their funding will not only be the rising leaders at our agency, but also create longevity in their careers in social services. When our staff grows, the care for our community grows too.&#8221;</p>
   <p>The post <a href="https://www.compasshousingalliance.org/2025/08/compass-housing-alliance-receives-a-major-gift-to-invest-in-early-career-staff/">Compass Housing Alliance receives a major gift to invest in early career staff</a> appeared first on <a href="https://www.compasshousingalliance.org">Compass Housing Alliance</a>.</p>
-image_ids:
+image_checksums:
 - 93f23e35ccdcb57d6139b74afe4098c13e93864fbc319c2347f490978fa46105
 location_titles:
 - King County

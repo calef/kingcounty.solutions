@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>After a highly competitive selection process, Seattle Indian Health Board has received major funding to support its work to improve women’s mental and physical health. More than 4,000 organizations from 119 countries applied for the Action for Women’s Health award. “We are grateful to be selected and receive this critical funding, especially during a time &#8230; <a href="https://www.sihb.org/2025/11/seattle-indian-health-board-receives-funding-to-support-indigenous-women/" class="more-link">Continue reading <span class="screen-reader-text">Seattle Indian Health Board Receives Funding to Support Indigenous Women</span></a></p>
   <p>The post <a href="https://www.sihb.org/2025/11/seattle-indian-health-board-receives-funding-to-support-indigenous-women/">Seattle Indian Health Board Receives Funding to Support Indigenous Women</a> appeared first on <a href="https://www.sihb.org">Seattle Indian Health Board</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Seattle Indian Health Board

@@ -51,7 +51,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachm
   target=\"_blank\" rel=\"noopener\">helpdav.org</a> or call 888-984-4493.</p>\n\n</div><p>The
   post <a href=\"https://www.dav.org/learn-more/news/2025/joe-mantegna-supports-americas-veterans/\">Joe
   Mantegna supports America’s veterans</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-image_ids:
+image_checksums:
 - 036b742a57d78c535ec5a3566af1459bc7e05c6478a5a6bc6c5bfbced346f04a
 location_titles:
 - King County

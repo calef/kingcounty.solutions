@@ -73,7 +73,7 @@ feed_content: |-
 
   <p>This holiday season, let us commit to caring for our military and Veteran children with the same honor, compassion and dedication their loved ones gave to our nation.</p>
 feed_content_checksum: 8b9850836cf16973c4ded730d9da61eb247de2c5
-image_ids:
+image_checksums:
 - 35caafa0d9c6ef59ea19bf090b490032759d43c406bbd145bcc420e9e9c1ddea
 location_titles:
 - King County

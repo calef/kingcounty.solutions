@@ -22,7 +22,7 @@ feed_content: |-
   Connection Angle Lake received funding from a variety of sources, including the Washington State Housing Trust Fund, King County, and [Amazon’s Housing Equity Fund](https://www.aboutamazon.com/news/community/amazon-housing-equity-fund).
 
   [You can learn more about this property and others on Mercy Housing Northwest’s website](https://www.mercyhousing.org/northwest/).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

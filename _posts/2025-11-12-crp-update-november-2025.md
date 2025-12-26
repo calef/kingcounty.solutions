@@ -44,7 +44,7 @@ feed_content: "In the coming weeks, the Community Reinvestment Program (CRP) wil
   Program team\n\nAdditional resources\n\n- [CRP Investment Plan 2025-2027 (PDF)](https://deptofcommerce.app.box.com/file/2038841116698?s=vi27blgg9qbgwqznf329ek1qjrdm1wsq)\n-
   [CRP Implementation Report 2023-2025 (PDF)](https://deptofcommerce.app.box.com/s/i5a8dxflmkupghuis6eq9ikm9m6l31ut)\n-
   [Community Feedback Results – October 2025 (PDF)](https://deptofcommerce.box.com/s/mcim9q6gt5s77i81ug8sody2ld8eq8pg)"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

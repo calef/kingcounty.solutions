@@ -49,7 +49,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p>Guest pianis
   recitals and concerto appearances in California, Kansas and Michigan in February
   and March of 2026; and recordings of Beethoven and Schubert piano works in May,
   2026.</p> </div> </div>
-image_ids: []
+image_checksums: []
 location: Music Building (MUS)
 location_titles:
 - King County

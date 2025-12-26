@@ -97,7 +97,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/11/we-have-so-much-to-be-thankful-for-and-youre-part-of-it/">We have so much to be thankful for and you&#8217;re part of it!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-image_ids:
+image_checksums:
 - a3d032154560a5a7985f8222a409a0d1d4c0e0591f2b76f26ec666839958a708
 - b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 location_titles:

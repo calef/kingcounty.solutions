@@ -71,7 +71,7 @@ feed_content: "<p class=\"\">This summer, our Hygiene Champions, a group of amaz
   1500w, https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/d1b7aa45-f408-48bb-a8dc-2b52a9301b08/528305030_1067936462118451_2541067880283278295_n.jpg?format=2500w
   2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            \n
   \         \n        \n          \n        \n\n        \n      \n        </figure>"
-image_ids:
+image_checksums:
 - b146a1d0434b674d1ce7548d3b447ea1988ef5115de890da31899f186008bc0b
 - 3b7d6693c7847bf7455a782888fb9bb2e49e15b061241e60d198baa3e972526b
 location_titles:

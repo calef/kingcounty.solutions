@@ -79,7 +79,7 @@ feed_content: '<p>Summary: Following a <a href="https://harrell.seattle.gov/wp-c
   was originally published in <a href="https://medium.com/kingcounty">KingCounty</a>
   on Medium, where people are continuing the conversation by highlighting and responding
   to this story.</p>'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County

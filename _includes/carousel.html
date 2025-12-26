@@ -40,7 +40,7 @@
             {% assign caption_source_org = site.organizations | where: "title", organization_title | first %}
           {% endif %}
           {% assign image_checksum = image_doc.data.checksum | default: image_doc.checksum | default: '' | strip %}
-          {% assign associated_posts = site.posts | where_exp: "post", "post.image_ids and post.image_ids contains image_checksum" %}
+          {% assign associated_posts = site.posts | where_exp: "post", "post.image_checksums and post.image_checksums contains image_checksum" %}
           {% if caption_text %}
             {% assign image_title = caption_text %}
           {% else %}

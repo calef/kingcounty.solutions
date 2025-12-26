@@ -72,7 +72,7 @@ feed_content: |-
   <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://fundraise.givesmart.com/form/F2Vg-g?vid=1kb22q">Donate</a></div>
   </div>
   <p>The post <a href="https://soundgenerations.org/the-benefits-of-aging-in-place-your-way/">The Benefits of Aging in place Your Way</a> appeared first on <a href="https://soundgenerations.org">Sound Generations</a>.</p>
-image_ids:
+image_checksums:
 - 874ccc59d73fbfc02d2bedc1fa09959299bc6a40cb814130f851a887f1ec6b23
 - 01deb28ec702e4791046953cb96023646afdf5216dfa0c1ccb2fa3f204dfb95f
 location_titles:

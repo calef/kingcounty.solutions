@@ -11,7 +11,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/03/a-new-voice
   with listening to you. We’re introducing our upgraded Customer Care phone system,
   designed to make it easier for you to connect with us, no matter what language you
   speak. When you call, you’ll be guided more smoothly to the right [&#8230;]'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Seattle Public Utilities

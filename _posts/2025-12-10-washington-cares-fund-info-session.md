@@ -10,7 +10,7 @@ feed_content: |-
   <p>Thursday, February 12, 10:00 am—11:30 am</p>
   <p>The post <a>Washington Cares Fund Info Session</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: fa187babd478e4272e019ba39c7c3d2eb00e1e04
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Shoreline Lake Forest Park Senior Activity Center

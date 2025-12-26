@@ -30,7 +30,7 @@ feed_content: |-
   <h2>THIRA Health offers holistic residential, PHP, and IOP intensive depression treatment in Bellevue, WA</h2>
   <p>Finding the right intensive depression treatment option for you is a crucial step in the healing process. THIRA Health’s helpful intake professionals take the guesswork out of the process for you, helping you decide which treatment program will work best for you. By offering comprehensive, holistic, DBT-based depression treatment at their residential, PHP, and IOP programs, THIRA Health ensures that you get the right care, wherever you are in your mental health journey.<a><span> Contact our intake team today</span></a> to schedule a free consultation, so you can get started on mental healthcare that will bring you lasting relief from depression.</p>
 feed_content_checksum: 56e06fca5bf288f14a392894005589fef8fd77f2
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: THIRA Health

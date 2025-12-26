@@ -26,7 +26,7 @@ feed_content: |-
   <p><span data-contrast="auto">The care Yasmin received inspired her to give back as she now hopes to become a Peer Advocate herself. “Out of all of this&#8230; the negative situation&#8230; the positive influence I’ve had is that after everything is over, I want to be an advocate also.  </span><b><span data-contrast="auto">I want to help someone else get to the finish line. That’s my calling now.”</span></b><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:240,&quot;335559739&quot;:240}"> </span></p>
   <p><span data-contrast="auto">The dynamic between Yasmin and Genessis embodies the heart of peer support—the courage to ask for help and the transformations that come from connection. This November, we honor people like them, whose compassion and lived experience prove that giving back doesn’t just come circle—it keeps it moving beyond each of us.</span></p>
   <p>The post <a href="https://www.vibrant.org/finding-inner-strength-through-peer-support/">Finding Inner Strength Through Peer Support</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
-image_ids:
+image_checksums:
 - 9b96a42650615192a1897a2b4fffbe7ff9302ebcdf9bdc9a66aa69e32409860a
 location_titles:
 - King County

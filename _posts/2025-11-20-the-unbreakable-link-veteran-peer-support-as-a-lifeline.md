@@ -80,7 +80,7 @@ feed_content: |-
 
 
   <p>You’ve had someone watch your back before, and you still do. Peer support means someone’s in your corner, ready to step in when you need it. Together, tomorrow can look a whole lot brighter.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

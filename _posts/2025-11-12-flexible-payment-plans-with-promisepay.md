@@ -6,7 +6,7 @@ feed_content: Paying your utility bill just got easier.&#160;&#160; Seattle Publ
   Utilities (SPU) offers PromisePay, a long-term payment plan that lets you catch
   up on past-due balances and stay current, with no fees, no interest, and no late
   fees. PromisePay gives...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

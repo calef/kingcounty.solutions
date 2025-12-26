@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: The Puget Sound Business Journal honored King County Metro General Manager
   Michelle Allison with a Woman of Influence award, recognizing a leader whose clarity
   of purpose, steady approach and commitment...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Metro Transit

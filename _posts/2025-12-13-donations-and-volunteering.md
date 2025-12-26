@@ -8,7 +8,7 @@ feed_content: Many people are asking how they can help by donating their time or
   are interested in volunteering, consider checking with local organizations in your
   community to see […]
 feed_content_checksum: e7a094549f6033da025e99e4d20da975ceff7897
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

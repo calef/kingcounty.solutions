@@ -633,7 +633,7 @@ feed_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co
   Green</a>.</p>The post <a href=\"https://www.solid-ground.org/building-skills-for-the-kitchen-and-beyond/\">Building
   skills for the kitchen and beyond </a> appeared first on <a href=\"https://www.solid-ground.org\">Solid
   Ground</a>."
-image_ids:
+image_checksums:
 - 26412945fa310f7ab65cd76bd0b6f3746526da0a98b37dec7706c99fab203e3c
 - 6a1a4c680d05354039b53d0903f8b2fbfa924d07d0fcb4ee2c818c21754b2d54
 - 8c98d9366eda256b319c14ac0e287651e80ee934ad3863d6583f379b4e5e5880

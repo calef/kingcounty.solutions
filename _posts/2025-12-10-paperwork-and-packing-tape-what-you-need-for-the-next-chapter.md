@@ -10,7 +10,7 @@ feed_content: |-
   <p>Wednesday, February 25, 1:30 pm—2:30 pm</p>
   <p>The post <a>Paperwork and Packing Tape: What You Need for the Next Chapter</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: 15bf11a49d69252df07389ee7e0aaaca00f307a2
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Shoreline Lake Forest Park Senior Activity Center

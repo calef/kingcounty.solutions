@@ -7,6 +7,8 @@ require 'time'
 require_relative '../logging'
 require_relative '../front_matter/document'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module Events
     class StaleEventCleaner

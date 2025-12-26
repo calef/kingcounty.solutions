@@ -54,7 +54,7 @@ feed_content: |-
   <p><strong>Media Inquiries:</strong><br><strong>Erin Burgy, Senior Director, Integrated Public Relations</strong><br><a>Erin.Burgy@OperationHomefront.org <br></a>(469) 934-7131</p>
   <p>The post <a>Steven J. Lepper Joins National Board of Directors</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 522acc3e1b3d6967649eab18772a28d77b737d3f
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Operation Homefront

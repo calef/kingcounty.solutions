@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Marking ongoing positive ridership growth, King County Metro posted
   a silver medal win among the 10 largest transit agencies nationwide. Metro had an
   estimated 63 million boardings this year through...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Metro Transit

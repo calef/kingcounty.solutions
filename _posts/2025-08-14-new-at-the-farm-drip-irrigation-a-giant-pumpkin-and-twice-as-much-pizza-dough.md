@@ -369,7 +369,7 @@ feed_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co
   class=\"tmc-caption\">All photos by Clarissa Magdich</p>The post <a href=\"https://www.solid-ground.org/new-at-the-farm-drip-irrigation-a-giant-pumpkin-and-twice-as-much-pizza-dough/\">New
   at the farm: drip irrigation, a giant pumpkin, and twice as much pizza dough </a>
   appeared first on <a href=\"https://www.solid-ground.org\">Solid Ground</a>."
-image_ids:
+image_checksums:
 - fb745890285ccd74da24dc5861ecd5afd112556ff2ee9fa6a855d50b75c0c178
 - b10f6f3275b1ceb421c8ee3206aa52bc2cc76b28c52dd4ac611bdf4a039f646a
 - c64a78cf6a313875eaebc16605e177b39aaeaa14f822686c25bd6c9db18ef88b

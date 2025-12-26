@@ -101,7 +101,7 @@ feed_content: |-
   <p>Marty Hartman, Interim CEO</p>
   <p>The post <a>YouthCare Update: Progress and Stability</a> appeared first on <a>YouthCare</a>.</p>
 feed_content_checksum: 2a4c2c51b2c6b11360bff077972c7ef6fb3005fd
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: YouthCare

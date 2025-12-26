@@ -72,7 +72,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >
   that fairness and dignity are not privileges, but guarantees.</p>\n<p>This work
   matters because our collective freedom depends on it. When equity is realized, we
   all benefit; when justice prevails, we all move closer to the world we deserve.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
-image_ids:
+image_checksums:
 - 7c307023a32d84c280831a6bc26d5f60c0023e9b91d7130e6a9e3019ab581445
 location_titles:
 - King County

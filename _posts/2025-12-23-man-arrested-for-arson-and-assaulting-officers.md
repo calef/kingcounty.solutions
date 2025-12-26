@@ -5,7 +5,7 @@ feed_content: Seattle police arrested a 29-year-old man early Tuesday morning af
   officers.    At 1:26 a.m., Tuesday morning, officers responded to an arson call
   in ...
 feed_content_checksum: 8383b2155055efedb6cfa61d656ac65de1043022
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

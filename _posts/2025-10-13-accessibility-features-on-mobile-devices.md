@@ -9,7 +9,7 @@ feed_content: |-
 
   <p>When: Wednesday, 12/3<br>1:00 pm—2:00 pm<br>Location: Exercise Room<br>Cost: FREE</p>
   <p>The post <a href="https://shorelinelfpseniorcenter.org/accessibility-features-on-mobile-devices/">Accessibility Features on Mobile Devices</a> appeared first on <a href="https://shorelinelfpseniorcenter.org">Shoreline Lake Forest Park Senior Activity Center</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Shoreline Lake Forest Park Senior Activity Center
 published: false

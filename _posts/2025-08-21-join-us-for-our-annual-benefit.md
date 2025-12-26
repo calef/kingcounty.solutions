@@ -27,7 +27,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   CarePoint’s mission and discover how we're making a difference in the Snoqualmie
   Valley. Together, we can keep the wheels turning! </p><p class=\"\"><a href=\"https://carepointclinic.networkforgood.com/events/88936-healthcare-on-the-move-annual-benefit\"
   target=\"_blank\">RESERVE YOUR TICKET HERE!</a></p>"
-image_ids:
+image_checksums:
 - ba1e40fd96f6b1348fa1985f21d659d6e293a0a65f23780425faa25a378d76df
 location_titles:
 - Snoqualmie Valley

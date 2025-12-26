@@ -6,7 +6,7 @@ feed_content: 'Many things contribute to the unique character or a neighborhood:
   local shops and restaurants, annual events, and the special landmarks. In many Seattle
   neighborhoods, Business Improvement Areas are often the on-the-ground support maintaining
   those...'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

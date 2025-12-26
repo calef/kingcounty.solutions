@@ -7,7 +7,7 @@ feed_content: The City of Seattle Human Services Department announced today the 
   a connected continuum of prevention, intervention and restoration related to community
   safety.&#160; Selected providers will offer services to reduce gun violence, stabilize
   individuals and families, and strengthen neighborhoods. The funding [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

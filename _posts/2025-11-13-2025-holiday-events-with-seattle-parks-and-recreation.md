@@ -4,7 +4,7 @@ feed_content: The holiday season is upon us, and Seattle is buzzing with festive
   or LOW-COST events for all ages! From community center celebrations to magical park
   experiences, there’s something for everyone to enjoy. Check out the lineup of activities
   below p...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

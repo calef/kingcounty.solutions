@@ -3,7 +3,7 @@ end_date: '2026-01-06T18:00:00-08:00'
 feed_content: "<div> <span>Loading</span> </div> <div><div> <span><a><span>×</span></a><span>Sorry
   to interrupt</span></span><div>CSS Error</div> <div><a>Refresh</a></div> </div></div>"
 feed_content_checksum: a90d9ff0e8656fa320584f424b7bbb1c72eb7553
-image_ids: []
+image_checksums: []
 location: Webinar
 location_titles:
 - King County

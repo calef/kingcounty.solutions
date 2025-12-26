@@ -12,7 +12,7 @@ feed_content: |-
   <p><span data-preserver-spaces="true">While the impact is clear, the path forward for many early learning programs in the community is at risk. These critical services are subject to changing federal and state budget priorities, which can affect the availability of support that families rely on. </span><span data-preserver-spaces="true">The <em>Early</em> </span>Early Childhood Education Assistance Program<span data-preserver-spaces="true"> (</span><span data-preserver-spaces="true">Early</span><span data-preserver-spaces="true"> ECEAP) for children aged one to three years old has already </span><span data-preserver-spaces="true">been eliminated</span><span data-preserver-spaces="true"> across the state, and Wellspring&#8217;s ECEAP program has also seen a substantial reduction in funding for the remaining programs going into the next school year.</span><span data-preserver-spaces="true"> But with strong community support and advocacy, programs like Wellspring&#8217;s ELC can continue to thrive, ensuring more children and families have access to the stability and support they need to succeed.</span></p>
   <p><span data-preserver-spaces="true">.</span></p>
   <p>The post <a href="https://wellspringfs.org/super-kids-super-futures-celebrating-our-2025-elc-graduates/">Super Kids, Super Futures: Celebrating Our 2025 ELC Graduates</a> appeared first on <a href="https://wellspringfs.org">Wellspring</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Wellspring Family Services

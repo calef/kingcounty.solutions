@@ -10,7 +10,7 @@ feed_content: |-
   <p>Neighborhood Builders is part of the bank’s longstanding efforts to build thriving communities by addressing issues fundamental to economic opportunity. Since 2004, Bank of America’s Neighborhood Builders program has invested more than $346 million in communities across the U.S. and trained more than 4,000 leaders at nearly 2,000 U.S. nonprofits.</p>
   <p><strong>Thank you, Bank of America, for investing in our shared vision of housing as the foundation for a thriving life.</strong></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/behavioral-health-program-gains-strength/">Behavioral Health Program Gains Strength</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Mercy Housing
 published: false

@@ -7,7 +7,7 @@ feed_content: Fatoumata Diallo and Halima Mohamed recently wrapped up a monthslo
   participants in Legal Pathways at UW-Tacoma, a new initiative funded by the Washington
   State Legislat...
 feed_content_checksum: 8ea7e9a529fa1f390f313ac9fbba9f422677c136
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

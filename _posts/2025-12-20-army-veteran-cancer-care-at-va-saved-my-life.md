@@ -77,7 +77,7 @@ feed_content: |-
 
   <p><a>Learn more about Radiation Oncology at VA</a>.</p>
 feed_content_checksum: 7d76c489194374a142aab24f22e93240826faf7e
-image_ids:
+image_checksums:
 - d9df141e26fe0b148f3a14474ad1a148e9b4a3267619aa5596c5a0a81394c899
 location_titles:
 - King County

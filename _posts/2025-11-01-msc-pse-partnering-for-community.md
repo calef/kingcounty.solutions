@@ -7,7 +7,7 @@ feed_content: Multi-Service Center and Puget Sound Energy’s partnership begin 
   the PSE HELP program provides over $24 million in annual direct benefits to clients
   in the form of credits on electricity and gas bills through MSC. Since PSE introduced
   their Bill  [...]
-image_ids: []
+image_checksums: []
 location_titles:
 - South King County
 organization_title: Multi-Service Center

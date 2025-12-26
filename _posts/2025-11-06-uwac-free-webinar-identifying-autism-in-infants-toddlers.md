@@ -123,7 +123,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   post <a href=\"https://ihdd.org/2025/11/06/uwac-free-webinar-identifying-autism-in-infants-toddlers/\">UWAC
   Free Webinar: Identifying Autism in Infants &#038; Toddlers</a> appeared first on
   <a href=\"https://ihdd.org\">UW IHDD</a>.</p>"
-image_ids:
+image_checksums:
 - 0b5bd77843c14a1074e4c2cb905d8457a33e5c4abb3d675fd2272110ef43b1d3
 location_titles:
 - King County

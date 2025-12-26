@@ -8,7 +8,7 @@ feed_content: |-
   Additional details about this process will be made available later this month if needed.
 
   [Washington DSHS FAQ on SNAP Benefits During Federal Government Shutdown (PDF)](https://snoqualmietribe.us/wp-content/uploads/2025/10/FINAL_Client_FAQ_Federal_Shutdown_SNAP-Gov.pdf)
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

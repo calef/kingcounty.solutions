@@ -26,7 +26,7 @@ feed_content: |-
   Civil legal aid continues to be a way for vulnerable, low-income people to move through life understanding their legal rights. ELAP empowers people who are furthest from justice to know how they can help their families and themselves.
 
   The post [What exactly is civil legal aid and why is it so important?](https://elap.org/what-exactly-is-civil-legal-aid-and-why-is-it-so-important/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

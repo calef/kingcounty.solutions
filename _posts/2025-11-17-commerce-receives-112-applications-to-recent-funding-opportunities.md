@@ -59,7 +59,7 @@ feed_content: |-
 
 
   <p>Email the application team at <a href="mailto:HTFApp@commerce.wa.gov">HTFApp@commerce.wa.gov</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

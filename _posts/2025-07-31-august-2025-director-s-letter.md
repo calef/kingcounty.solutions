@@ -17,7 +17,7 @@ feed_content: |-
   <p>Kira Avery, Executive Director</p>
   <p>&nbsp;</p>
   <p>The post <a href="https://snovalleysenior.org/august-2025-directors-letter/">August 2025 Director&#8217;s Letter</a> appeared first on <a href="https://snovalleysenior.org">Sno-Valley Senior Center</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Sno-Valley Senior Center

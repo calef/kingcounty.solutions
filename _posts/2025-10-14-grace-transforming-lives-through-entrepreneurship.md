@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>7 minute read My story is not just mine &mdash; it represents countless girls and young women across rural Africa. By sharing it, I&rsquo;m proving that disadvantaged girls can rise and transform their communities. Growing up in the rural areas of Chiredzi district in Zimbabwe, life was never easy. I lost both my parents at a young age and found myself on the margins, struggling to make ends meet.</p>
   <p><a href="https://camfed.org/grace-transforming-lives-through-entrepreneurship/" rel="nofollow">Source</a></p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: CAMFED - Campaign for Female Education
 published: false

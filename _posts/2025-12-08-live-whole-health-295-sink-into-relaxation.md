@@ -35,7 +35,7 @@ feed_content: |-
 
   <p>Have you ever thought about your <a>Whole Health</a>? Your body, mind and spirit, all working together can produce a healthier and happier you! Many VA health care facilities offer health and well-being coaches who can help you set goals and walk with you on the path to achieving them. Find your local <a>Whole Health team</a>.</p>
 feed_content_checksum: 149f69896f2f2b525f5e27e4626c0fbd8a85bc4b
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

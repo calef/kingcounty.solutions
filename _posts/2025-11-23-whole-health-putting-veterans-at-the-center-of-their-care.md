@@ -46,7 +46,7 @@ feed_content: |-
 
 
   <p>Your well-being is waiting—all you have to do is unlock it. Take the first step today by visiting the&nbsp;<a href="https://www.va.gov/WHOLEHEALTH/get-involved/get-started.asp" rel="noopener">VA Whole Health website</a>&nbsp;to learn more about the Whole Health Pathway and begin building a care plan centered on you. With Whole Health, every Veteran has the opportunity to live their best life—on their terms.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

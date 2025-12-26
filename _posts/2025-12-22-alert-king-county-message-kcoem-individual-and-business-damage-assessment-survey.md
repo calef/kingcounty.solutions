@@ -8,7 +8,7 @@ feed_content: 'Hello, This is King County Emergency Management. We are evaluatin
   (including renters) go to: KCOEM Residential Impact Survey and for businesses go
   to: KCOEM Business Impact Survey. For other recovery […]'
 feed_content_checksum: 3458da38d969a59d658f8a7e69ed9d52c602da7b
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

@@ -6,7 +6,7 @@ feed_content: |-
   <p>Our advocacy work doesn’t always make headlines, but it has a powerful impact on our clients and community. From early learning to immigrant rights to human services funding, these updates show how coordinated advocacy can create meaningful change. This November, Seattle voters renewed the Families and Education Preschool to Promise (FEPP) Levy for a total ... </p>
   <p class="read-more-container"><a title="Advocacy in Action" class="read-more button" href="https://nhwa.org/2025/11/29/advocacy-in-action/#more-25362" aria-label="Read more about Advocacy in Action">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/11/29/advocacy-in-action/">Advocacy in Action</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Neighborhood House

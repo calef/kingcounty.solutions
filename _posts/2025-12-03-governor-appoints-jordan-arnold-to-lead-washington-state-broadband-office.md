@@ -36,7 +36,7 @@ feed_content: |-
 
 
   <p></p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Commerce
 published: false

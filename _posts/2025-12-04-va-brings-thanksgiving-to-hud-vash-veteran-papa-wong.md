@@ -116,7 +116,7 @@ feed_content: |-
 
 
   <p>To learn more about VA’s care for Veterans who are experiencing homelessness or housing instability, visit the <a href="https://www.va.gov/homeless/housing.asp" rel="noopener">VA Homeless Veteran Program</a> website.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

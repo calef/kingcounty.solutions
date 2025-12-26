@@ -35,7 +35,7 @@ feed_content: |-
   <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
   <div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-fill"><a class="wp-block-button__link has-background has-medium-font-size has-custom-font-size wp-element-button" href="https://forms.office.com/Pages/ResponsePage.aspx?id=HCUVvUTrS0aXL_cKS-ohTUywXlvZ25tDpnxhWznUYTdUNVpHWk1BSFdUWVM5QTZGQkVYRUo5RlZQUi4u" style="border-radius:8px;background-color:#008284"><strong>RSVP HERE</strong></a></div>
   </div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Hospital District No. 1 (Valley Medical Center)

@@ -7,7 +7,7 @@ feed_content: Adult fares are changing Sept. 1, 2025, on King County Metro buses
   ORCA LIFT fares on both Water Taxi routes are also changing. Reduced fare rates
   for Senior, Disabled, Youth, and ORCA LIFT riders will remain unchanged everywhere
   else. The new adult&#8230;
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Ferry District

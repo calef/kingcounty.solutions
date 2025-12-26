@@ -13,7 +13,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   Since 2008, Energy Heroes has brought hands-on learning about electrical safety,
   renewable energy, and conservation directly to classrooms across our service area.
   This year&#8217;s achievements show the program&#8217;s [&#8230;]'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

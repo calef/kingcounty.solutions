@@ -9,7 +9,7 @@ feed_content: |-
   <p>Meeting ID:    931 6943 7365</p>
   <p>Passcode:       398267</p>
   <p>The post <a href="https://communityrootshousing.org/2025/09/special-pda-board-meeting-2/">Special PDA board meeting</a> appeared first on <a href="https://communityrootshousing.org">Community Roots Housing</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Community Roots Housing

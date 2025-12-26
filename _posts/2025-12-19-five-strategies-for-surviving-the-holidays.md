@@ -65,7 +65,7 @@ feed_content: |-
 
   <p>It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to <a>get started</a>.</p>
 feed_content_checksum: 60e29c36c0ef3dedb7033cb057480c7133c3ae06
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

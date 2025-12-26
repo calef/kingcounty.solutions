@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/2025/Natural%20Yard%20Care%20Workshop%20(744%20x%20498%20px).png"
   />Learn about Evergreen conifers, their role in our environment, and the services
   they provide in this free class.
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Burien

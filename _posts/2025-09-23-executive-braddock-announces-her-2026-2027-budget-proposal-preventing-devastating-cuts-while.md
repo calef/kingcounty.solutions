@@ -87,7 +87,7 @@ feed_content: '<h3>Executive Braddock announces her 2026–2027 budget proposal,
   width="1920" height="1080" frameborder="0" scrolling="no"><a href="https://medium.com/media/7aa146f455908341442d417e4792534e/href">https://medium.com/media/7aa146f455908341442d417e4792534e/href</a></iframe><img
   src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=3aa2bf07bbde"
   width="1" height="1" alt="">'
-image_ids:
+image_checksums:
 - f881516c601c5df1d89935bbfbf19902c550037ebaaedc5d9a80c8a17bb64ace
 - 8b9947e6ed2a9707245563558cde800315bf02af12d3d11e89804bfddd6dfa06
 location_titles:

@@ -128,7 +128,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   post <a href=\"https://ihdd.org/2025/12/02/giving-tuesday-support-the-clinic-support-program/\">Giving
   Tuesday: Support the Clinic Support Program</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
-image_ids:
+image_checksums:
 - 3ab808b20ff81e45b4d29ca4db6199a29749b32eb71fd724ba4938046670dd3b
 location_titles:
 - King County

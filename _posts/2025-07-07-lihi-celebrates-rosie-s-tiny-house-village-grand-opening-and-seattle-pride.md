@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: Rosie's Tiny House Village Grand Opening On July 2nd, a community celebration
   was held to mark the grand re-opening of Rosie’s Village....
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

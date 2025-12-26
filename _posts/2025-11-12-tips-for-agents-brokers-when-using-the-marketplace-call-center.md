@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Wed, 05 Nov 2025 20:11:49
   -0500</p><p>title: Tips for Agents &#x26; Brokers When Using the Marketplace Call
   Center</p><p>topic: Marketplace Call Center</p>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Centers for Medicare & Medicaid Services
 published: false

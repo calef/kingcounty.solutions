@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>The Seattle City Council’s budget committee unanimously passed the 2026 budget making record investments in improving safety and affordability for working families.     It focuses on affordability, homelessness, public safety, building community, and fiscal responsibility.   The mayor released his budget proposal on September 23. After two months of intensive analysis and debate, which included 17 public...</p>
   <p>The post <a rel="nofollow" href="https://council.seattle.gov/2025/11/20/seattle-city-council-passes-2026-budget-summary-of-whats-included/">Seattle City Council Passes 2026 Budget: Summary of what’s included </a> appeared first on <a rel="nofollow" href="https://council.seattle.gov/">Seattle City Council Blog</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

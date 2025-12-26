@@ -8,7 +8,7 @@ feed_content: |-
 
 
   <p>Originally from &hellip;</p></a>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: The Center for Active Living
 published: false

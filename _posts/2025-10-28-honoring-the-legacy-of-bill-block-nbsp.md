@@ -45,7 +45,7 @@ feed_content: '<p class="">Housing justice advocate, Bill Block, was a force for
   its reach and reimagining how a food bank can serve, Rainier Valley Food Bank continues
   Bill’s legacy of compassion paired with strategy—transforming systems and, in turn,
   transforming lives.&nbsp;</p>'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Rainier Valley Food Bank

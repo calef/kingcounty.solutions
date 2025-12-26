@@ -54,7 +54,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"field field--name-field-article-date field--type-datetime field--label-hidden
   field__item\"><time datetime=\"2025-11-05T12:00:00Z\" class=\"datetime\">November
   5 2025</time>\n</div>\n      \n    </div>\n  </div>"
-image_ids:
+image_checksums:
 - a7a125584e0ec4f274b0c0a43f0e6d19fd7205001536359a3783ed0aa53228b1
 location_titles:
 - King County

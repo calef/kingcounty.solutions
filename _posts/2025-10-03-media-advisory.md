@@ -6,7 +6,7 @@ feed_content: |-
   <p>FOR IMMEDIATE RELEASE Neighborhood House to Rename Rainier Vista Site as The Wilcox Center  Event honors Shirley and Louis Wilcox, community icons and lifelong volunteers   What: &#160;Neighborhood House will host a celebration to rename its Rainier Vista building as The Wilcox Center, honoring Shirley and Louis Wilcox for their extraordinary contributions to the community. The ... </p>
   <p class="read-more-container"><a title="*MEDIA ADVISORY*  " class="read-more button" href="https://nhwa.org/2025/10/03/wilcox-media-advisory/#more-25295" aria-label="Read more about *MEDIA ADVISORY*  ">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/10/03/wilcox-media-advisory/">*MEDIA ADVISORY*  </a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Neighborhood House

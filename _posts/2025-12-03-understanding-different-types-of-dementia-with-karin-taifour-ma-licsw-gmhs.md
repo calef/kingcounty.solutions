@@ -81,7 +81,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://soundgenerations.org/understanding-different-types-of-dementia-with-karin-taifour-ma-licsw-gmhs/">Understanding Different Types of Dementia with Karin Taifour, MA, LICSW, GMHS</a> appeared first on <a href="https://soundgenerations.org">Sound Generations</a>.</p>
-image_ids:
+image_checksums:
 - b678951db69a4cbeab464b508b223108c348665568bf62471ffc1ac42cb832f6
 location_titles:
 - King County

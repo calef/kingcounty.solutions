@@ -52,7 +52,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   a:hover .mk-svg-icon { fill: #ffffff !important;}</style>\n</div></section>\t</div>\n</aside>\n\n</div>\n\t</div>\n\n</div><p>The
   post <a>Save the Date: IHDD Networking Day 2026</a> appeared first on <a>UW IHDD</a>.</p>"
 feed_content_checksum: 16e09a5d89a8a9ee7c1384aa219b7c0e48c8c35a
-image_ids:
+image_checksums:
 - '0935d33b18fe5df807ed944f44f6baa59dfea58a16ff127e175eb15ffd27b670'
 location_titles:
 - King County

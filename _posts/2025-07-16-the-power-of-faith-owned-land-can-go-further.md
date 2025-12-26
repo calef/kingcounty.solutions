@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>Developing affordable housing is a years-long, multi-step process, but the changes the City of Bellevue has made to update land-use code is<span class="excerpt-hellip"> […]</span></p>
   <p>The post <a href="https://imaginehousing.org/the-power-of-faith-owned-land-can-go-further/">The Power of Faith-Owned Land Can Go Further</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Imagine Housing

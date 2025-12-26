@@ -65,7 +65,7 @@ feed_content: |-
 
   <p>If you or someone you know is in need, please reach out to the <a>Veterans Crisis Line</a>, <a>Dial 988 then Press 1</a>, <a>chat online</a> at VeteransCrisisLine.net/Chat, or text <a>838255</a>. </p>
 feed_content_checksum: ac349e901903ae2d3feafc3b7d223d0e57a138eb
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

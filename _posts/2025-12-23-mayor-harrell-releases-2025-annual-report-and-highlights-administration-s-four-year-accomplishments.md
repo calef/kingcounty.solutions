@@ -7,7 +7,7 @@ feed_content: Seattle – Today, Mayor Bruce Harrell released summary reports de
   years in office to enact his One Seattle vision of a safe, equitable, and thriving
   city.  “Whe...
 feed_content_checksum: f0e1eaca05ecf38eb89d2e21cf3ec22e26f977d9
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

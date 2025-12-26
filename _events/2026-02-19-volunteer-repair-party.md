@@ -38,7 +38,7 @@ feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-tem
   <li class="tribe-events-nav-previous"><a href="https://bikeworks.org/event/volunteer-repair-party/2026-02-16/"><span>«</span>
   Volunteer Repair Party</a></li> <li class="tribe-events-nav-next"><a href="https://bikeworks.org/event/warehouse-sale-2/2026-02-21/">Warehouse
   sale <span>»</span></a></li> </ul> </div> </div> </section>'
-image_ids: []
+image_checksums: []
 location: 'BIKE WORKS WAREHOUSE, 3715 S Hudson St #111, Seattle, Washington, 98118,
   United States'
 location_titles:

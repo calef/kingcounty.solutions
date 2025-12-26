@@ -31,7 +31,7 @@ feed_content: '<div id="skiptocontent"> <a aria-label="Skip to main content" hre
   &amp; Legal Policies</a> <a id="ot-do-not-sell" class="ot-sdk-show-settings" style="cursor:
   pointer">Do Not Sell My Personal Information</a> <a class="ot-sdk-show-settings"
   style="cursor: pointer">Cookie Preferences</a> </p> </div> </div> </div> </div>'
-image_ids: []
+image_checksums: []
 location: Online (Zoom)
 location_titles:
 - King County

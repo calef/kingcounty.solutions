@@ -4,7 +4,7 @@ feed_content: |-
   Title of Blog Post Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Back to Blog Articles [...]
 
   [Read More... from Title of Blog Post](https://iacswa.org/blog-template/)
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Indian American Community Services
 published: false

@@ -68,7 +68,7 @@ feed_content: |-
 
   <p>Learn more about DAV Patriot Boot Camp at patriotbootcamp.org.</p>
 feed_content_checksum: 28f692c71a16e5ebffd07678d75ce2ece4c5aafd
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

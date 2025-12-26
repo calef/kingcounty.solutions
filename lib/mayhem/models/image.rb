@@ -26,6 +26,8 @@ module Mayhem
       def image_url
         self['image_url']
       end
+
+      # TODO: add news and events methods to look up news and events that reference this image
     end
   end
 end

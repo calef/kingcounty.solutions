@@ -1431,7 +1431,7 @@ feed_content: "<p class=\"\">On Sunday September 7th, 2025, neighbors and commun
   data-load=\"false\" data-image-id=\"68d2b56f0266445ca7be56d4\" data-type=\"image\"
   src=\"https://images.squarespace-cdn.com/content/v1/61c3b06eab6b64568d0ec740/1758639477054-FARWKF80I1W6ZM2D9PWM/DSC03720.jpg?format=1000w\"
   /><br>"
-image_ids:
+image_checksums:
 - 9b31a607200cb16ecb22522b708bf8cbd389d6e0174d791bb3d11a56b29f8c23
 - 36c5c81c7815ab7e3dc12d9b7748d72c8f430a84e7663330711802904ad73af6
 - d8d1913e5c90a41de2be20dd49ff90864187de28e8fe2bcb3dda62199ecfbd1d

@@ -47,7 +47,7 @@ feed_content: |-
 
   <figure></figure><p>The post <a>From AFW Passenger Amelia </a> first appeared on <a>Angel Flight West</a>.</p>
 feed_content_checksum: 5b2e538bcd0d4f00386ce8c426b38f2d36e6f8a6
-image_ids:
+image_checksums:
 - 991f5e2d009eebb133e1cfccb4db8a5fd4a2d20f852e798e50a64cc87164ebb3
 - 3b405cb25b630c4bb5fc5e694e40a84a8c12bc0d9a7e6665ceda16f527034bc1
 - 7ebfaa0356aa11744f7670d4d8ff1d5b5fd1cea222630dc058d1e676f7346058

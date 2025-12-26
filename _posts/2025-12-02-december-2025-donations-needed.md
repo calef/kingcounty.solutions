@@ -21,7 +21,7 @@ feed_content: |-
   <object></object><a>_December 2025</a><a>Download</a>
   </div>
 feed_content_checksum: fc97f73cbff3287c158edd63de9ec07a8edeb171
-image_ids:
+image_checksums:
 - 5259fbe1f791a3d887555a105ab493be14c1e1629b8933526ced3a2224141d38
 location_titles:
 - South King County

@@ -22,7 +22,7 @@ feed_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</sp
   </div> </div> </div> </div> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://normandyparkwa.gov/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>
 feed_content_checksum: 82526c4ff702210afdb5c15a8914d883747c4145
-image_ids: []
+image_checksums: []
 location: City Hall, 801 SW 174th Street, Normandy Park, WA, 98166, United States
 location_titles:
 - King County

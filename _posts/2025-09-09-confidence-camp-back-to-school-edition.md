@@ -67,7 +67,7 @@ feed_content: "![](https://encompassnw.org/wp-content/uploads/2025/09/Confidence
   more or register: [https://bit.ly/3I3dJFe](https://bit.ly/3I3dJFe)**\n\nThe post
   [Confidence Camp: Back-to-School Edition](https://encompassnw.org/confidence-camp-back-to-school-edition/)
   first appeared on [Encompass](https://encompassnw.org)."
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Encompass

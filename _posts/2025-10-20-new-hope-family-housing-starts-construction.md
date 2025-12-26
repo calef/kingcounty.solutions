@@ -8,7 +8,7 @@ feed_content: "New Hope West Building - Rendering by Weber Thompson Seattle, WA 
   \uFEFF The housing will be built on two properties owned by the New Hope Missionary
   Baptist Church at 114 and 123 21st Ave. in Seattle’s Central Area. The buildings
   will face each other across 21st Ave. and include a mix of studio, one, and two-bedroom..."
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

@@ -7,7 +7,7 @@ feed_content: Community Corner highlights the work of Seattle Human Services’ 
   their amazing work on behalf of the people of Seattle. This post was provided by
   Arthur Acuario at Southwest Youth &#38; Family Services (also follow on Facebook,
   Instagram and LinkedIn). [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

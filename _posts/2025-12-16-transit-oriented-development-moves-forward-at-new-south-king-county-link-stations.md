@@ -8,7 +8,7 @@ feed_content: |-
   <p>It also opened the door to new opportunities to create walkable, vibrant station areas with housing, services, and community amenities just steps from transit.</p>
   </div></div>
 feed_content_checksum: 5321dc880d8a9a8300b00b9b99b2e2e7a420e239
-image_ids: []
+image_checksums: []
 location_titles:
 - South King County
 organization_title: Sound Transit

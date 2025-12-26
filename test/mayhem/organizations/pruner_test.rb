@@ -91,7 +91,7 @@ class OrganizationsPrunerTest < Minitest::Test
     image_id = 'test-image'
     write_image_metadata(image_id)
     write_asset(image_id)
-    write_post('post-with-image.md', 'Test Organization', image_ids: [image_id])
+    write_post('post-with-image.md', 'Test Organization', image_checksums: [image_id])
 
     result = @pruner.prune_organization_content('Test Organization')
 
@@ -145,13 +145,13 @@ class OrganizationsPrunerTest < Minitest::Test
     path
   end
 
-  def write_post(filename, organization_title, image_ids: [], events: [])
+  def write_post(filename, organization_title, image_checksums: [], events: [])
     front_matter = {
       'title' => 'Test Post',
       'date' => Time.now.utc.iso8601,
       'organization_title' => organization_title,
       'source_url' => 'https://example.com',
-      'image_ids' => image_ids,
+      'image_checksums' => image_checksums,
       'events' => events,
       'published' => true
     }
@@ -160,13 +160,13 @@ class OrganizationsPrunerTest < Minitest::Test
     path
   end
 
-  def write_event(id, organization_title, image_ids: [])
+  def write_event(id, organization_title, image_checksums: [])
     path = File.join(@events_dir, "#{id}.md")
     front_matter = {
       'title' => "Event #{id}",
       'start_date' => Time.now.utc.iso8601,
       'organization_title' => organization_title,
-      'image_ids' => image_ids,
+      'image_checksums' => image_checksums,
       'published' => true
     }
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))

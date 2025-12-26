@@ -15,7 +15,7 @@ feed_content: "<span>King County Investigation into Dec. 12, 2025 officer-involv
   below.</span></p>\n</div>\n      \n\n            <div>\n<time>December 16 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
 feed_content_checksum: fab8b6222f8100953e813e0653b0cba44467ec66
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Bellevue

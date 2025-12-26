@@ -7,7 +7,7 @@ feed_content: The City of Seattle will continue its commitment to food equity by
   organizations deliver free meals, share traditional food knowledge, support elders
   and yout...
 feed_content_checksum: d114b1c4507c9464615d8484a89f7ff4d1316719
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

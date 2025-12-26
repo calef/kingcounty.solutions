@@ -7,7 +7,7 @@ feed_content: DESC&#8217;s annual benefit concert and program spotlight, Gimme S
   to learn about our work to end homelessness in Seattle, connect with dedicated community
   members, and enjoy local live music!&#160; We&#8217;re kicking off the evening with
   a FREE Program Spotlight focused [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: DESC

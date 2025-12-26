@@ -15,7 +15,7 @@ feed_content: |-
   <p>Omnivorous is a celebration of the people, cultures, and creativity that make Seattle special. It is a reminder that everyone should be able to live, work, and grow here. <strong>Join us to taste a bite of Seattle’s diverse food scene and get to know the people that make it possible</strong>—all while building a community that is accessible and affordable to all.</p>
   <p class="lead"><strong><a class="”btn" href="”https://communityrootshousing.org/events/omnivorous/”">BUY TICKETS</a></strong></p>
   <p>The post <a href="https://communityrootshousing.org/2025/08/omnivorous-keybank-help-micro-businesses/">Omnivorous and KeyBank help micro-businesses access new customers</a> appeared first on <a href="https://communityrootshousing.org">Community Roots Housing</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Community Roots Housing

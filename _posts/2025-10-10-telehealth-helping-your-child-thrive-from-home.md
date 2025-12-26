@@ -55,7 +55,7 @@ feed_content: "### ![](https://encompassnw.org/wp-content/uploads/2025/10/Telehe
   disorders. Journal of Developmental & Behavioral Pediatrics, 43(9), 569–585. https://doi.org/10.1097/DBP.0000000000001064\n\nThe
   post [Telehealth: Helping Your Child Thrive—From Home!](https://encompassnw.org/telehealth-helping-your-child-thrive-from-home/)
   first appeared on [Encompass](https://encompassnw.org)."
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Encompass

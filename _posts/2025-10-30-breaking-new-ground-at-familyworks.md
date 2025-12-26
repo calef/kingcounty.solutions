@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>Even amid a challenging moment for so many families losing SNAP benefits, our recent Groundbreaking Ceremony at the Wallingford Food Bank was a powerful reminder of our community’s resilience and [&#8230;]</p>
   <p>The post <a href="https://www.familyworksseattle.org/breaking-new-ground-at-familyworks/">Breaking New Ground at FamilyWorks</a> appeared first on <a href="https://www.familyworksseattle.org">FamilyWorks Seattle</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: FamilyWorks Seattle

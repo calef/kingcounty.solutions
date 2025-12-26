@@ -39,11 +39,11 @@ module Mayhem
 
         client = FakeClient.new(
           'choices' => [
-            { 'message' => { 'content' => '["Food"]' } }
+            { 'message' => { 'content' => ['Food'] } }
           ]
         )
 
-        classifier = Classifier.new(topic_repo: @repo, client: client)
+        classifier = Classifier.new(client: client, topic_repo: @repo)
 
         assert_equal ['Food'], classifier.classify('A weekly recap mentions community meals and food assistance.')
         assert_equal 1, client.call_count
@@ -52,7 +52,7 @@ module Mayhem
       def test_returns_empty_when_text_blank
         create_topic('Safety', 'Articles about safety nets.')
         client = FakeClient.new('choices' => [{ 'message' => { 'content' => '["Safety"]' } }])
-        classifier = Classifier.new(topic_repo: @repo, client: client)
+        classifier = Classifier.new(client: client, topic_repo: @repo)
 
         assert_empty classifier.classify('   ')
         assert_equal 0, client.call_count
@@ -60,7 +60,7 @@ module Mayhem
 
       def test_returns_empty_when_no_topics_available
         client = FakeClient.new('choices' => [{ 'message' => { 'content' => '["Safety"]' } }])
-        classifier = Classifier.new(topic_repo: @repo, client: client)
+        classifier = Classifier.new(client: client, topic_repo: @repo)
 
         assert_empty classifier.classify('New content about safety.')
         assert_equal 0, client.call_count

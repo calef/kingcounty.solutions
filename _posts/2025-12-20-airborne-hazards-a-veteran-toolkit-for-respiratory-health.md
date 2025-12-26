@@ -107,7 +107,7 @@ feed_content: |-
 
   <p>Access the companion <a>Provider Deployment-Related Respiratory Disease toolkit</a>.</p>
 feed_content_checksum: bdd83b005071267744845216bd0e5b90bd06cdd0
-image_ids:
+image_checksums:
 - fd8b6038e332053b53720ef0379585bc3d28c02d2d21c20680673ffbd0eaf5c1
 location_titles:
 - King County

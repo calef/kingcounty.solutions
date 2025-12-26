@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: At this year’s Celebration of Youth Foster Care event, Autumn Liner-Sanders
   took home our raffle prize, two Diamond Club Mariners...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Friends of Youth

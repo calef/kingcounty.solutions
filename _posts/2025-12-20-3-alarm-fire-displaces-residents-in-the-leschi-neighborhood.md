@@ -7,7 +7,7 @@ feed_content: Seattle — At 7:38 p.m., the Seattle Fire Department’s Fire Ala
   in the 500 block of 34th Ave. in the Leschi neighborhood. Engine 6 arrived first
   on scene ...
 feed_content_checksum: 73d968357bc4f893f8a8597d146fd90cc5e3a59b
-image_ids: []
+image_checksums: []
 location_titles:
 - Seattle
 organization_title: City of Seattle

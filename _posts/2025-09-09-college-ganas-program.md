@@ -155,7 +155,7 @@ feed_content: |-
   </div>
   </div>
   <p>The post <a href="https://www.elcentrodelaraza.org/college-ganas-program/">College GANAS Program</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
-image_ids:
+image_checksums:
 - 01a2b18d1828e9e744151ac028d8dbf1628b20a7d9b72599b20bc05acebe2c13
 - 9b94f1b278d7a91a6e0ba84e2fe6c64d86cb3232c51e03b5b8441762ec6f8b43
 location_titles:

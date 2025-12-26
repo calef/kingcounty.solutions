@@ -15,7 +15,7 @@ feed_content: "<script type=\"text/javascript\">\n\t\t\t\t\t\tvar map_fusion_map
   14,\n\t\t\t\t\t\t\t\tzoom_control: true,\n\t\t\t\t\t\t\t} );\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\tgoogle.maps.event.addDomListener(window,
   'load', fusion_run_map_fusion_map_69210e326ab66);\n\t\t\t\t\t</script>\n\t\t\t\t\t<div
   class=\"shortcode-map fusion-google-map fusion-maps-js-type\" id=\"fusion_map_69210e326ab66\"></div>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: NOSSCR Referral Service
 published: false

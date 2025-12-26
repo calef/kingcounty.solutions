@@ -54,7 +54,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"18973\" 
   Valley Health Adds Allergy, Neurology &amp; Rheumatology Services to Expand Specialty
   Care Access</a> appeared first on <a href=\"https://snoqualmievalleyhealth.org\">Snoqualmie
   Valley Hospital</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

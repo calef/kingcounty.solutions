@@ -6,7 +6,7 @@ feed_content: |-
   <p>Emma Riahi July is Disability Pride Month — a time to honor the history, achievements, and contributions of people with disabilities, while also recognizing the ongoing work toward inclusion and accessibility. It’s a celebration of identity and visibility, and a reminder that disability is a natural part of human diversity. At Neighborhood House, we’re proud ... </p>
   <p class="read-more-container"><a title="Celebrating Disability Pride Month" class="read-more button" href="https://nhwa.org/2025/06/30/celebrating-disability-pride-month/#more-25140" aria-label="Read more about Celebrating Disability Pride Month">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/06/30/celebrating-disability-pride-month/">Celebrating Disability Pride Month</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Neighborhood House

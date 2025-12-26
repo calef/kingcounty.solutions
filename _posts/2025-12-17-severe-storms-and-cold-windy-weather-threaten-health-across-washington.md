@@ -49,7 +49,7 @@ feed_content: "<span>Severe storms and cold, windy weather threaten health acros
   healthy.  </p>\n\n<p>Our <a>website</a> is your source for a healthy dose of information.
   Get updates by following us on <a>social media</a>.</p>\n\n<p>###</p>\n</div>"
 feed_content_checksum: b35c1cc68a986f5628fab9e1231e6afdf95d3d33
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

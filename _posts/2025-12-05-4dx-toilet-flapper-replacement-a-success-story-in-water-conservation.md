@@ -14,7 +14,7 @@ feed_content: |-
   <p>By tackling an often-overlooked source of water waste, we’re conserving millions of gallons of water while driving meaningful cost savings for our properties. This success was made possible through the hard work and commitment of property staff throughout the portfolio, and the utility savings 4DX team.</p>
   <p>Thank you to everyone who dedicated their time to this project!</p>
   <p>The post <a href="https://www.mercyhousing.org/2025/12/4dx-toilet-flapper-replacement-a-success-story-in-water-conservation/">4DX Toilet Flapper Replacement: A Success Story in Water Conservation</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Mercy Housing

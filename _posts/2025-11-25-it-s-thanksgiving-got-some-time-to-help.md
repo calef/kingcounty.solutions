@@ -9,7 +9,7 @@ feed_content: |-
 
   <p class="">Are you able to make stuffing or mashed potatoes? Roast a turkey? Drop off a pie? Help serve the dinner on Thursday night? Please contact Cinda Stegner at cstegner49@gmail.com. Thank you!</p>
   <p>The post <a href="https://westsideneighborsshelter.org/its-thanksgiving-got-some-time-to-help/">It&#8217;s Thanksgiving! Got some time to help?</a> appeared first on <a href="https://westsideneighborsshelter.org">Westside Neighbors Shelter</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - Burien
 - South King County

@@ -2,6 +2,7 @@
 
 require 'fmrepo'
 require_relative 'abstract_content'
+require_relative 'news'
 
 module Mayhem
   module Models
@@ -28,6 +29,10 @@ module Mayhem
 
       def location
         self['location']
+      end
+
+      def news
+        News.find_by(source_url: source_url)
       end
 
       def start_date

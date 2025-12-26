@@ -6,7 +6,7 @@ feed_content: Around the world, people may know Seattle because of the Space Nee
   Orcas, Pike Place Market, or even the Mariners. Locally, Seattle is known for the
   character and charm of its many neighborhoods. From Lake City to Rainier View, Broadview
   to Highlan...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

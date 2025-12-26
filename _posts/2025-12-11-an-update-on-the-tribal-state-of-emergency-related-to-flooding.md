@@ -23,7 +23,7 @@ feed_content: |-
   <p>Tribal Members or Tribal Staff who need non-emergency assistance can call the Public Safety non-emergency number at 425-765-6623.</p>
   <p>If you’re experiencing a flood emergency, please call 911.</p>
 feed_content_checksum: b0d56b03612b70e3d276d03f6ec5ab1255bd033d
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

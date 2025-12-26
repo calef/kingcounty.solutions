@@ -83,7 +83,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA West Texas Health care System site </a> and has been edited for style and clarity.  </p>
 feed_content_checksum: 5078cc4f7bae9e18e482bd8e8ce5a4db9f01892c
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

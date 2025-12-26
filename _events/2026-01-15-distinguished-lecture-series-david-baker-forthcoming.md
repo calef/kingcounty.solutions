@@ -21,7 +21,7 @@ feed_content: <article id="post-61726" class="post-61726 page type-page status-p
   in biochemistry with Randy Schekman at the University of California, Berkeley, and
   conducted postdoctoral research in biophysics with David Agard at UCSF.</p> <p>This
   lecture will be streamed live and recorded.</p> </div> </article>
-image_ids: []
+image_checksums: []
 location: Gates Center (CSE2), G20 | Amazon Auditorium
 location_titles:
 - King County

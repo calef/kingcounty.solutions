@@ -2,7 +2,7 @@
 date: '2025-11-25T01:07:00+00:00'
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/26_Auburn@Play_Winter_337x234%20Banner.png"
   />
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Auburn
 published: false

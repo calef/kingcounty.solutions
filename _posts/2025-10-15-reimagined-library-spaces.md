@@ -9,7 +9,7 @@ feed_content: |-
   We have now entered the planning stage with key updates underway to develop high-impact, cost-effective design solutions for existing library buildings, establishing a standard for innovation, inclusion, and community impact. New paint and carpets are being replaced, walkways are being updated with accessible designs, technology is being upgraded, and renewed children’s and teen areas are being enhanced to encourage more play-based learning.&nbsp;
 
   The first refresh was completed at Valley View Library in October 2025, with Auburn Library next. Kent, Des Moines, and South Center Libraries have all been selected for projects in 2026.&nbsp;
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Library System

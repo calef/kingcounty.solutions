@@ -6,7 +6,7 @@ feed_content: |-
   <p>Big ideas, real conversations, and moments that hit home.  Written by: Rose M. &#8211; Housing Advocate&#160; I had the amazing opportunity to attend HousingWA2025 in Bellevue, WA, and it was unforgettable! From inspiring speakers to real, emotional conversations about housing legislation, every moment made me stop and reflect. I even teared up, thinking about my ... </p>
   <p class="read-more-container"><a title="From Inspiration to Action: My Takeaways from HousingWA2005" class="read-more button" href="https://nhwa.org/2025/10/29/housing-washington-2025/#more-25325" aria-label="Read more about From Inspiration to Action: My Takeaways from HousingWA2005">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/10/29/housing-washington-2025/">From Inspiration to Action: My Takeaways from HousingWA2005</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Neighborhood House

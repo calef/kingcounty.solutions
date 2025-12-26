@@ -9,7 +9,7 @@ feed_content: <p data-start="308" data-end="376">The countdown is on — <a href
   data-start="378" data-end="673">If you’re new to Link (or just need a refresher),
   here’s how to pay, how to transfer, and how to make your ride smooth from start
   to finish.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - South King County
 organization_title: Sound Transit

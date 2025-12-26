@@ -71,7 +71,7 @@ feed_content: '<p class="">The holidays are just around the corner! Explore thes
   meal. Free; please bring a dish to share if possible. RSVP recommended.&nbsp;</p></li><li><p
   class="">Contact: 206-783-2244&nbsp;</p></li><li><p class=""><a href="https://www.phinneycenter.org/event/thanksgiving-potluck-at-phinney-center-2/2025-11-27/"
   target="_blank">More Information&gt;&gt;</a> </p></li></ul>'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Rainier Valley Food Bank

@@ -7,6 +7,8 @@ require_relative '../events/pruner'
 require_relative '../news/pruner'
 require_relative '../images/pruner'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module Organizations
     class Pruner

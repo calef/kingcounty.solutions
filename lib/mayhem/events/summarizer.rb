@@ -13,6 +13,8 @@ require_relative '../feed/discovery'
 require_relative '../support/encoding_utils'
 require_relative '../summarizer/helpers'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module Events
     class EventSummarizer
@@ -27,7 +29,6 @@ module Mayhem
 
       def initialize(
         events_dir: EVENTS_DIR,
-        topic_repo: nil,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         client: nil,
@@ -46,7 +47,6 @@ module Mayhem
         @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
-                              topic_repo: topic_repo,
                               client: @client,
                               logger: @logger
                             )

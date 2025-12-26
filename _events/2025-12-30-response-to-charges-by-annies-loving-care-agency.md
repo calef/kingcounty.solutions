@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: Annies Loving Care Agency, Sammamish, WA
 location_titles:
 - King County

@@ -9,6 +9,8 @@ require_relative '../images/pruner'
 require_relative '../news/pruner'
 require_relative '../front_matter/document'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module News
     class ContentAgeEnforcer
@@ -72,8 +74,8 @@ module Mayhem
           remove_file(entry[:path])
         end
 
-        removed_image_ids = @news_pruner.prune_images(
-          posts.flat_map { |entry| entry[:image_ids] }.uniq,
+        removed_image_checksums = @news_pruner.prune_images(
+          posts.flat_map { |entry| entry[:image_checksums] }.uniq,
           excluded_paths: excluded_paths
         )
 
@@ -81,7 +83,7 @@ module Mayhem
         prune_generated_events(removed_event_ids) if removed_event_ids.any?
 
         @logger.info "Removed #{posts.size} post#{'s' unless posts.size == 1} older than #{max_age_days} days."
-        @logger.info "Removed #{removed_image_ids.size} image metadata entr#{removed_image_ids.size == 1 ? 'y' : 'ies'}."
+        @logger.info "Removed #{removed_image_checksums.size} image metadata entr#{removed_image_checksums.size == 1 ? 'y' : 'ies'}."
       end
 
       private
@@ -115,7 +117,7 @@ module Mayhem
 
           memo << {
             path: path,
-            image_ids: @news_pruner.collect_image_ids(document.front_matter),
+            image_checksums: @news_pruner.collect_image_checksums(document.front_matter),
             events: collect_event_ids(document.front_matter)
           }
         end

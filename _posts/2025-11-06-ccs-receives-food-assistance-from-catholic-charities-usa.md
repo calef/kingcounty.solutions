@@ -27,7 +27,7 @@ feed_content: |-
 
 
   <p>&#8220;At The Community Kitchen in Olympia, Kitchen Supervisor Christian Serrania has led a dedicated team of volunteers in assembling food boxes filled with donated ingredients. Each box includes recipe cards designed to help recipients prepare nutritious meals using the provided items. In response to the recent loss in SNAP benefits, 200 food boxes were distributed this week to Catholic Community Services clients across Thurston County, offering vital support to households facing increased food insecurity.  This effort will be fortified by the CCUSA donations.&#8221; &#8211; Gabe Ash, Director of Housing and Homeless Services Southwest</p>The post <a href="https://ccsww.org/ccs-receives-food-assistance-from-ccusa/">CCS Receives Food Assistance from Catholic Charities USA</a> first appeared on <a href="https://ccsww.org">Catholic Community Services of Western Washington</a>.
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Catholic Community Services of Western Washington

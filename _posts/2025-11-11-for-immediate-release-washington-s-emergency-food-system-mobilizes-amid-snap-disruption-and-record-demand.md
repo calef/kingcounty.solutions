@@ -28,7 +28,7 @@ feed_content: |-
   <p>To request an interview with a Northwest Harvest subject matter expert, or for general information and resources, please visit our <a>Media Hub &gt;</a></p>
   <p>The post <a>FOR IMMEDIATE RELEASE: Washington’s Emergency Food System Mobilizes Amid SNAP Disruption and Record Demand</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: 63977241537ad60bf46748114246f08107fb7778
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Northwest Harvest

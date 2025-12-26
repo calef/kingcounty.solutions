@@ -47,7 +47,7 @@ feed_content: |-
   - **Immediate help:** If you or your loved one is not safe, Call **911** or the **SVH Emergency Department** for psychiatric help and monitoring.
 
   The post [Suicide Prevention Month: Warning Signs, Resources & How to Help](https://snoqualmievalleyhealth.org/suicide-prevention-month-2/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

@@ -6,7 +6,7 @@ feed_content: |-
   IACS’s Approach to Crisis and Care Like the phones of the other IACS staff, Tara’s phone can be found ringing every other minute. With tousled hair and a purposeful stride, [...]
 
   [Read More... from IACS’s Approach to Crisis and Care](https://iacswa.org/iacss-approach-to-crisis-and-care/)
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Indian American Community Services

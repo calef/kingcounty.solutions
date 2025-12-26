@@ -6,7 +6,7 @@ feed_content: The Federal Way Senior Center Food Bank was proud to join South Ki
   Fire &amp; Rescue once again for the beloved Santa Parade and Canned Food Drive!
   On a crisp […]
 feed_content_checksum: 6b674175c8fd0a985be17d308953f8c6cb121ece
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Federal Way Senior Center

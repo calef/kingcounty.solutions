@@ -8,7 +8,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   the Mercer Island Youth and Family Services (MIYFS) Foundation to bolster food security
   efforts and mitigate the impact of recent federal reductions to the Supplemental
   Nutrition Assistance Program (SNAP).</span></span></span></p></div></div></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Mercer Island

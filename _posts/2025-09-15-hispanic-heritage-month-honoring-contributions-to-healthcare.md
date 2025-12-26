@@ -27,7 +27,7 @@ feed_content: "Hispanic Heritage Month is a time to honor the histories, culture
   keep us healthy.\n\nThe post [Hispanic Heritage Month: Honoring Contributions to
   Healthcare](https://snoqualmievalleyhealth.org/hispanic-heritage-month/) appeared
   first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org)."
-image_ids: []
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

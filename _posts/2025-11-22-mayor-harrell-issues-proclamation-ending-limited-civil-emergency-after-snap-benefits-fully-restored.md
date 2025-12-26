@@ -6,7 +6,7 @@ feed_content: Mayor Harrell’s directive provided three weeks of emergency food
   totaling up to $3 million in response to SNAP funding uncertainty during federal
   government shutdown  Seattle—Yesterday, Mayor Bruce Harrell proclaimed the end of
   the City’s Li...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -12,7 +12,7 @@ feed_content: |-
 
 
   <p>At The &hellip;</p></a>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: The Center for Active Living

@@ -7,7 +7,7 @@ feed_content: Seattle and the surrounding region may be impacted by high winds a
   today through Wednesday, leading to potential for flooding and landslides. The City
   of Seattle is pla...
 feed_content_checksum: fd38742dc9ab879047382b6b1e071242888219ac
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

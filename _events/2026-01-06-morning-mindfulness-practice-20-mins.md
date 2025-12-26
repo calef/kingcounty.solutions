@@ -160,7 +160,7 @@ feed_content: <meta><meta><meta><meta><meta><link><link><link><link><link><meta>
   src="https://c.microsoft.com/trans_pixel.aspx"></noscript><script>var isModernBrowser="fetch"in
   window&&"assign"in Object&&"Set"in window,scriptErrorLogs=[];"globalThis"in window||(window.globalThis=window),isModernBrowser||(window.location.href="https://www.microsoft.com/en-us/microsoft-teams/download-app"),window.addEventListener("error",(function(o,r,i,n,s){scriptErrorLogs.push({message:o,source:r,line:i,col:n,error:s})}))</script><script></script>
 feed_content_checksum: ef7252953ee173c895dd9b419e95f577cf409789
-image_ids: []
+image_checksums: []
 location: ''
 location_titles: []
 organization_title: University of Washington

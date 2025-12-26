@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: SPOKANE – Public and active transportation users are invited to take
   part in the second season of community conversations surrounding the North Spokane
   Corridor’s final connection project.
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Washington State Department of Transportation
 published: false

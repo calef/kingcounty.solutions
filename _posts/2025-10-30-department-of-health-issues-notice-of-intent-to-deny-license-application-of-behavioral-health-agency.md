@@ -38,7 +38,7 @@ feed_content: |-
 
   <p class="text-align-center"><br>
   ###</p></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

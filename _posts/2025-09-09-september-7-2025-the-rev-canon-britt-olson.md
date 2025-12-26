@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>Thirteenth Sunday after Pentecost / Proper 18, Year C The Apostle Paul’s letter to Philemon has three main characters.&#160; There is Paul, a Jewish convert to Christianity, a former persecutor &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/09/09/september-7-2025-the-rev-canon-britt-olson/" aria-label="September 7, 2025 &#8212; The Rev Canon Britt Olson">Read More</a></p>
   <p>The post <a href="https://stlukesseattle.org/2025/09/09/september-7-2025-the-rev-canon-britt-olson/">September 7, 2025 &#8212; The Rev Canon Britt Olson</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

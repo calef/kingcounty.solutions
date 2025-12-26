@@ -18,7 +18,7 @@ feed_content: |-
   Making a will is about more than planning—it’s about caring for the people and causes that matter most to you. This month, take the time to protect your legacy and strengthen our community.
 
   The post [Plan for the future with a will](https://elap.org/plan-for-the-future-with-a-will/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

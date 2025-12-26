@@ -6,7 +6,7 @@ feed_content: Seattle IT’s Old Tech Drive, held in partnership with PCs for Pe
   on October 7 and 8 at the Seattle Municipal Tower, proved to be a fantastic partnership
   that offered Seattle employees the opportunity to upcycle their old technology and
   donate it to...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

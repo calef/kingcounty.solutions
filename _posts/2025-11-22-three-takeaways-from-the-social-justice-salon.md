@@ -90,7 +90,7 @@ feed_content: |-
   <p class="tmc-caption" style="padding-left: 40px;"><strong><span style="color: #ed7a09;" data-contrast="auto">1) <span style="color: #595959;">New York Times:</span> </span></strong><a href="https://www.nytimes.com/2025/11/12/us/politics/trump-homeless-funding.html"><span data-contrast="none">Trump Administration Expected to Drastically Cut Housing Grants</span></a><span data-ccp-props="{}"> </span></p>
   <p class="tmc-caption" style="padding-left: 40px;"><span style="color: #ed7a09;"><strong>2) <span style="color: #595959;">New York Times:</span> </strong></span><a href="https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html"><span data-contrast="none">These Words Are Disappearing in the New Trump Administration</span></a><span data-ccp-props="{}"> </span></p>
   <p class="tmc-caption"><strong>All photos by Clarissa Magdich</strong></p>The post <a href="https://www.solid-ground.org/three-takeaways-from-the-social-justice-salon/">Three takeaways from the Social Justice Salon </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-image_ids:
+image_checksums:
 - e8235522f37c0262ad1d34ab74788ce46e0982a9320aae2b60fd1f2370c35595
 - '069dbdcb7a756e4ad98318128c738cdded42f386712a997429779100d614c7af'
 - 4af2db0fe41e7893671f141f6b59af6170b1cd9654471984b3d2dfd5650d9f62

@@ -43,7 +43,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   29 @ 10:00 am</span> - <span>5:00 pm</span> </div> </li> </ul> </div> <p> <a> Back
   to events</a> </p> </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: 77d00fb24f6ec3dd5d0aa91096813219d1384611
-image_ids: []
+image_checksums: []
 location: Virtual/Online, United States
 location_titles:
 - King County

@@ -117,7 +117,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
   post <a>We’re Hiring: Shelter Meal Manager</a> appeared first on <a>Hunger Intervention
   Program</a>.</p>"
 feed_content_checksum: 17cfb5af01408a4db3a6312677721d94e3849a2a
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Hunger Intervention Program

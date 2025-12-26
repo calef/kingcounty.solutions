@@ -6,7 +6,7 @@ feed_content: |-
   <p>[KING5] A look inside Northwest Harvest’s Fruitvale Community Market in Yakima, as the need for food assistance grows across the country.</p>
   <p>The post <a>Inside Northwest Harvest’s Fruitvale Community Market in Yakima</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: cce76e0d545becdaf37a3c3ce40b34383e4322e4
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Northwest Harvest
 published: false

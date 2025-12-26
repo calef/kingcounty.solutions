@@ -27,7 +27,7 @@ feed_content: |-
   <p><strong><span>Tacoma – </span></strong><span><a>Bluebeard Coffee on 6th Avenue </a></span><span><strong>–</strong> <a>(2201 6th Ave, Tacoma, WA 98403)</a></span></p>
   <p><strong><span>Vancouver – </span></strong><span><a>River Maiden Coffee</a> <strong>– </strong></span><span>(5301 E Mill Plain Blvd, Vancouver, WA 98661)</span></p>
 feed_content_checksum: 2e5a42aaa98bb5fc512002d2f3418b439ddc64de
-image_ids:
+image_checksums:
 - a5caf5ca45f3267ee7b911c0d7343b4876e448d31bae73926fd69caf2eb7a4a2
 location_titles:
 - King County

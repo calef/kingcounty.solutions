@@ -5,7 +5,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>Th
   their Winter Quarter concert, performing music by Julie Giroux, John Philip Sousa,
   Percy Grainger, Johan de Meij, Frank Ticheli, Aaron Perrine, and others.</p> <h3>Director
   Biographies</h3> </div> </div>
-image_ids: []
+image_checksums: []
 location: Meany Hall (MNY)
 location_titles:
 - King County

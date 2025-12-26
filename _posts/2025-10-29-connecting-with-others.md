@@ -38,7 +38,7 @@ feed_content: "<p>The holidays are around the corner and can stir up many emotio
   Lifeline is with you — offering compassion, community, and care to help you find
   light, even on the shortest days.</p>\n<p><strong>Because no one should face cancer
   alone.</strong></p>\n<p> </p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

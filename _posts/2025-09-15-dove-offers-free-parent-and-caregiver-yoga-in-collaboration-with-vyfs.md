@@ -130,7 +130,7 @@ feed_content: |-
   <!--/$-->
   </div>
   </div></div></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - Vashon
 organization_title: The Vashon DOVE Project

@@ -171,7 +171,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA Milwaukee Health care System site </a>and has been edited for style and clarity.  </p>
 feed_content_checksum: fb90c43400a18d0a11edb8cd1237f002b4efa84c
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

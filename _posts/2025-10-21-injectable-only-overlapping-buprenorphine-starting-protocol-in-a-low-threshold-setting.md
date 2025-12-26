@@ -7,7 +7,7 @@ feed_content: DESC’s innovative new method for administering opioid use disord
   buprenorphine starting protocol in a low-threshold outpatient setting among individuals
   using fentanyl, this study evaluated 95 patients with moderate to severe opioid
   use disorder. The study shows that this new protocol has [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: DESC

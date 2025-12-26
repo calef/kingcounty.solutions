@@ -81,7 +81,7 @@ feed_content: "<div>\n\n    \n    <figure><img src=\"https://www.dav.org/wp-cont
   post <a>Walking through fire: Gulf War veteran fights for early detection</a> appeared
   first on <a>DAV</a>.</p>"
 feed_content_checksum: fa1c757eeaae28da5e6515159b3a4180de92a868
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Disabled American Veterans

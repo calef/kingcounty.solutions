@@ -10,7 +10,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   celebrate our collective mission: to provide safe, reliable, and affordable power
   to the communities we serve. From our field crews and engineers to our essential
   teams in customer service, finance, utility technology and beyond, each plays [&#8230;]'
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City Light Bill Assistance Programs
 published: false

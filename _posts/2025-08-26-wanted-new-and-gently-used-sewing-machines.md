@@ -45,7 +45,7 @@ feed_content: "<p class=\"\">Sewing machines are needed to accommodate the growi
   1500w, https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/abe612c9-d74c-4ccb-b8f1-de3873061201/533683886_1075715481340549_114320793488421605_n.jpg?format=2500w
   2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            \n
   \         \n        \n          \n        \n\n        \n      \n        </figure>"
-image_ids:
+image_checksums:
 - 52871b2cd8c1267017523dc6f53682b58ecfd117bc1ebf4da894ed98ffffd79a
 - 329ed2b5e5f5ec1b587dd9bb444fd75c5d87465fdaeb15c53d6424b3c997687a
 location_titles:

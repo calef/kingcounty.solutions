@@ -20,7 +20,7 @@ feed_content: "<p><strong>Position: </strong>Alternate Delivery Driver      �
   to get started!</strong></p><p>The post <a href=\"https://soundgenerations.org/meals-on-wheels-make-a-difference-in-federal-way/\">Meals
   on Wheels: Deliver Meals and a Smile in Federal Way!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Sound Generations

@@ -78,7 +78,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   expiring Jan. 1, 2030.</p></div>\n      \n\n            <div class=\"field field--name-field-article-date
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-12-04T12:00:00Z\"
   class=\"datetime\">December 4 2025</time>\n</div>\n      \n    </div>\n  </div>"
-image_ids:
+image_checksums:
 - 68407eadeeb9a22e88f3e779a3262c887ba954a9017f6384e2bc1c45c50a5b3c
 location_titles:
 - King County

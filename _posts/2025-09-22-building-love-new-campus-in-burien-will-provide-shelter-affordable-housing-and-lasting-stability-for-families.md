@@ -123,7 +123,7 @@ feed_content: "<p class=\"\">On&nbsp;Friday, September 19, 2025, Mary’s Place 
   class=\"sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element\"
   data-sqsp-button target=\"_blank\"\n  >\n    sign up here to receive updates about
   this project\n  </a>"
-image_ids:
+image_checksums:
 - 9f7ce5e2d5fa9ff65d4d1461e6f243125e6e78bc665a8e47e1ce34658563be32
 - 50184272493ba42cbdc505429f4dc3bc4c447f968f8dfde3d8b2fb41ec74fae2
 - 9e9d4937681200cc8a35e4b67219a4b6b66cd5030a81761e275eb2968bea6376

@@ -31,7 +31,7 @@ feed_content: |-
   <p>Our <a href="https://www.doh.wa.gov/">website</a> is your source for <em>a healthy dose of information</em>. Get updates by following us on <a href="https://doh.wa.gov/about-us/contact-us/social-media">social media</a>.</p>
 
   <p class="text-align-center">###</p></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

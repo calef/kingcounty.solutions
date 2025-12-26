@@ -33,6 +33,8 @@ module Mayhem
         self['events_ical_url']
       end
 
+      # TODO: add news, events, and images defs to enable traversal to related model objects
+
       def news_rss_url
         self['news_rss_url']
       end

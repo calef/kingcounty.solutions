@@ -8,7 +8,7 @@ feed_content: The Seattle Department of Education &amp; Early Learning is hostin
   and education, with events offering free dinner and activities for children. RSVP
   is required due to limited space.
 feed_content_checksum: 3a16fd29547fb09992435c003aa799ae788364ae
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County School Health

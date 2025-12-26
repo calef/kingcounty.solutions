@@ -8,7 +8,7 @@ feed_content: 'Rainfall and flooding have caused sewage overflows in many areas 
   If there is still standing water, turn off power before re-entering (do NOT touch
   electrical equipment while […]'
 feed_content_checksum: 16fac661362e53ef3ce8e474c1a2bf72551b28f4
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

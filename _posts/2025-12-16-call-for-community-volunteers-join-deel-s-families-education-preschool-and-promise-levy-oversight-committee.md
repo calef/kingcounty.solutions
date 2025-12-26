@@ -7,7 +7,7 @@ feed_content: The City of Seattle is now accepting applications for volunteers t
   Committee (LOC). The LOC plays a key role in shaping education programs and policies
   that support Seattl...
 feed_content_checksum: d1f1d1ef574ed9163335dda63164b613b65951e1
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

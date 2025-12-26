@@ -39,7 +39,7 @@ feed_content: |-
 
 
   <p></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - South King County
 organization_title: Hospital District No. 1 (Valley Medical Center)

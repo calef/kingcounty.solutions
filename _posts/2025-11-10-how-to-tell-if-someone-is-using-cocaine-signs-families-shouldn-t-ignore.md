@@ -121,7 +121,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   <a href=\"https://lakesidemilam.com/blog/how-to-tell-if-someone-is-using-cocaine-signs-families-shouldnt-ignore/\">How
   to Tell if Someone Is Using Cocaine: Signs Families Shouldn’t Ignore</a> appeared
   first on <a href=\"https://lakesidemilam.com\">Lakeside-Milam Recovery Centers</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Lakeside-Milam Recovery Centers

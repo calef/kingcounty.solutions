@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: LIHI is pleased to announce the grand opening of the new location of
   Rosie’s Village, a tiny house village that was originally located in...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

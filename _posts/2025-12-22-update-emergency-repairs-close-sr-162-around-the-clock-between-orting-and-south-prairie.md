@@ -3,7 +3,7 @@ date: '2025-12-22T11:45:31-08:00'
 feed_content: ORTING - State Route 162 has reopened between Orting and South Prairie
   following emergency repair work.
 feed_content_checksum: 90d943f9e9140d69a65b13e939198b853c1d8e8a
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Washington State Department of Transportation
 original_source_html: ORTING - State Route 162 has reopened between Orting and South

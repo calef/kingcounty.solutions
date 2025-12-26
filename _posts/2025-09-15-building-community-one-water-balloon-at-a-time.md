@@ -61,7 +61,7 @@ feed_content: |-
   <p style="text-align: center;"><a class="btn btn-md btn-info" href="https://www.solid-ground.org/donate/">Learn About Ways to Give to Solid Ground</a>
   </div>
   <p class="tmc-caption"><strong>All images by Rachael Green</strong></p>The post <a href="https://www.solid-ground.org/building-community-one-water-balloon-at-a-time/">Building community, one water balloon at a time </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-image_ids:
+image_checksums:
 - 78452c620499bef2349b2eceb5488e1589ddf2dfa7e8ee134d5f51817b1894ae
 location_titles:
 - King County

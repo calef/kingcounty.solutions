@@ -5,7 +5,7 @@ feed_content: What makes a neighborhood thrive? Connection. Pride. Shared storie
   one-day, community-powered experience designed to celebrate the vibrancy and culture
   of Seattle’s ne...
 feed_content_checksum: d1f8705c0503d0be2bfd7f171a5657448e2e62d3
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

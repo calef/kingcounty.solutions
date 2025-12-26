@@ -7,7 +7,7 @@ feed_content: Upward Bound scholars and families gather to learn about college o
   Beach High Schools gathered with family and Upward Bound (UB) staff to hear from
   program ...
 feed_content_checksum: 59afa4673792c48c1f1845408e61848c27d26ab5
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

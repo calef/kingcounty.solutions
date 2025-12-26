@@ -89,7 +89,7 @@ feed_content: "<p>At Mary’s Place, our mission is simple but urgent: <strong>
   Moment interview:</strong></h4>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n
   \ \n\n\n\n\n\n\n\n\n  <iframe></iframe>"
 feed_content_checksum: e4459aa4fd9eb4583af02c8822e8ba7deb0f9108
-image_ids:
+image_checksums:
 - 53e786401d0d5a611bf9f1046f74a712ae4cf64e3566a64b68a92fa1fbb85280
 - 293e5241ba196d292e63998ea579bf30fb464dfb6f8c9dea48fb54d6e8bfcfd0
 location_titles:

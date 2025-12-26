@@ -6,7 +6,7 @@ feed_content: 'Blog stats: 250 words &#124; 2-minute read Seattle, get ready! So
   Transit, the transportation agency that manages the Link light rail system, is opening
   three new 1 Line stations in the greater Seattle area on Saturday, December 6. While
   the Seattle...'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

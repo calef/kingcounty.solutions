@@ -43,7 +43,7 @@ feed_content: |-
   <p>It is especially important that people who may have exposure to domestic or wild birds get a seasonal flu vaccine. While the seasonal flu vaccine will not prevent bird flu infection, it reduces the risk of becoming sick with both human and avian influenza viruses at the same time. Though unlikely, infection with both viruses could result in the emergence of an avian influenza virus that is more easily transmitted from person to person. Seasonal flu vaccine is recommended for everyone six months and older.</p>
 
   <p>Our <a href="https://www.doh.wa.gov/" target="_blank">website</a> is your source for a healthy dose of information. Get updates by following us on <a href="https://doh.wa.gov/about-us/contact-us/social-media" target="_blank">social media</a>.</p></div>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Health
 published: false

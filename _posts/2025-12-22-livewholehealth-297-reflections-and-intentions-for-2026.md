@@ -49,7 +49,7 @@ feed_content: |-
 
   <hr>
 feed_content_checksum: 28e4e02d6deddeb28192fa2bdab2cbdce1cfce5f
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

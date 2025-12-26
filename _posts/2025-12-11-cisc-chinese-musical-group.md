@@ -14,7 +14,7 @@ feed_content: |-
   <p></p>
   <p>The post <a>CISC Chinese Musical Group</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: 6bc5e113279987150ff345d484de45ffd37557fa
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Shoreline Lake Forest Park Senior Activity Center

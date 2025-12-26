@@ -13,6 +13,8 @@ module Mayhem
         slug = FMRepo.slugify(slug_source)
         "_topics/#{slug}.md"
       end
+
+      # TODO: add organizations, news, events def to get all models associated with this topic
     end
   end
 end

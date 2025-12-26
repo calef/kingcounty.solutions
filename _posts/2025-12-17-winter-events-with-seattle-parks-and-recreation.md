@@ -7,7 +7,7 @@ feed_content: Check out the exciting winter events and teen programs happening a
   &amp; Cultural Gatherings Family &amp; Kid-Friendly Fun Teen Programs Garfield CC
   Miller CC Raven...
 feed_content_checksum: 152474509c1be438a114cc06eb82e231a9879a9b
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -12,7 +12,7 @@ feed_content: |-
   <p><span class="cf0">We are grateful for this generous grant and our community partners in helping residents access food and increase their knowledge of healthy cooking. </span></p>
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/10/fighting-food-insecurity/">Fighting food insecurity with meal kits &#038; cooking classes</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Mercy Housing
 published: false

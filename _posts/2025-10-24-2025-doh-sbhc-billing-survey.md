@@ -7,7 +7,7 @@ feed_content: The Washington State Department of Health seeks participation in t
   health centers. Responses will help identify challenges, improve support, and enhance
   financial sustainability. The online survey is available until January 31, 2026,
   with a chance to win a $250 e-gift card.
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County School Health

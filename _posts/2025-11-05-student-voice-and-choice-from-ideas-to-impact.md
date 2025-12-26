@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: 'November 2025: Olympic View students learn the power of their voice
   by advocating for new extracurricular activities.'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Technology Access Foundation

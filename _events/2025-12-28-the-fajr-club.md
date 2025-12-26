@@ -17,7 +17,7 @@ feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1
   Urdu Class</a></li> <li><a>MCRC Seattle Office Hours <span>»</span></a></li> </ul>
   </div> </div> </div> </div> </div> </div>"
 feed_content_checksum: 1d61b7fe65ebd1cd48bab53676517b4abfcab47e
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

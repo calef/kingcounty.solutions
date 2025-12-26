@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>It’s Falls Prevention Week, an opportunity to refresh our knowledge of falls risk and how best to prevent them. Why is this important? According to the Centers for Disease Control and Prevention, falls are the most common reason for visits to the emergency department (ED), as well as the leading cause of fatal and nonfatal [&#8230;]</p>
   <p>The post <a href="https://agingwisdom.com/falls-prevention-prioritize-exercise-vision-and-honest-conversations/">Falls Prevention: Prioritize exercise, vision, and honest conversations</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Aging Wisdom

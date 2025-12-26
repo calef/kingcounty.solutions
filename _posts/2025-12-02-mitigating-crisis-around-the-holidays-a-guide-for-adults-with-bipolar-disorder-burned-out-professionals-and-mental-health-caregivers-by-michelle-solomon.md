@@ -171,7 +171,7 @@ feed_content: "<p>While holidays and the end of the year are often associated wi
   Crisis Around the Holidays: A Guide for Adults with Bipolar Disorder, Burned Out
   Professionals, and Mental Health Caregivers | By: Michelle Solomon</a> appeared
   first on <a href=\"https://nami-eastside.org\">Nami-Eastside WA</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: National Alliance on Mental Illness Eastside

@@ -6,7 +6,7 @@ feed_content: |-
   <p>[Seattle’s Child] Local restaurants, organizations, and community members have launched into action, organizing grassroots efforts to make sure that anyone who needs food can access it.</p>
   <p>The post <a>How to help Seattle families impacted by SNAP cuts</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: fce162f499d236a76d30f17c1877f05c700ee560
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Northwest Harvest

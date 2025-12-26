@@ -7,7 +7,7 @@ feed_content: |-
   <p><span><span><span>Francesca Zager</span></span></span><br />
   <span><span><span>Sr. Administrative Assistant</span></span></span></p>
   <p><span><span><strong><span>Notice:</span></strong></span></span></p></div></div></div>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Mercer Island
 published: false

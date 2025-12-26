@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>KCRHA is in the process of assessing the potential impacts of the executive order signed by President Trump on July 24, 2025. The order directs the U.S. Attorney General (AG), U.S. Department of Housing and Urban Development (HUD), and the U.S. Department of Health and Human Services (HHS) to take the numerous actions related to homelessness.</p>
   <p>The post <a href="https://kcrha.org/news-executive-order-regarding-homelessness/">Executive Order Regarding Homelessness</a> appeared first on <a href="https://kcrha.org">KCRHA</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

@@ -4,7 +4,7 @@ feed_content: |-
   <p>7 minute read As an educated leader and passionate health advocate, I am transforming lives and shaping a better, healthier future for generations to come. Growing up in rural Ghana, my parents depended on farming to support our family of seven children. This required a lot of hard work and perseverance, and life was tough at times. I went to live with my older sister, so I could attend a…</p>
   <p><a>Source</a></p>
 feed_content_checksum: d4c802a89a1f47dc9cb19ec3fbb8a241aa1b1776
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: CAMFED - Campaign for Female Education
 published: false

@@ -6,7 +6,7 @@ feed_content: '<img src="https://powerlines.seattle.gov/wp-content/uploads/sites
   Tell us about your role. What does your job entail? I’ve been around for a long
   time, so I work on a plethora […]'
 feed_content_checksum: ed8d29abda640bf9240ac86b814511e05f6768f8
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>What is your role at Aging Wisdom? I’m the Accounting Manager. Right now, my focus is on streamlining and consolidating our systems, reducing redundancies, and keeping cash flowing smoothly. I’ve helped lower our average accounts receivable balance by staying on top of client payments and improving follow-up processes. I also partner closely with Lisa to [&#8230;]</p>
   <p>The post <a href="https://agingwisdom.com/staff-spotlight-jacque-quinene/">Staff Spotlight: Jacque Quinene</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Aging Wisdom
 published: false

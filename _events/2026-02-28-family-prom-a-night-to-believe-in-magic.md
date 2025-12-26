@@ -72,7 +72,7 @@ feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-tem
   tribe-events-meta-value"> <a href="https://itallhappenshere.org/" target="_self"
   rel="external">View Venue Website</a> </span> </li> </ul> </div> </div> </div> </div>
   </section>'
-image_ids: []
+image_checksums: []
 location: Federal Way Community Center, 876 South 333rd Street, Federal Way, WA, 98003,
   United States
 location_titles:

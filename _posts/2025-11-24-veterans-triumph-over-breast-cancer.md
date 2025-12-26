@@ -51,7 +51,7 @@ feed_content: |-
 
 
   <p>After the event concluded, many of the Veteran breast cancer survivors in attendance stood around talking and laughing, sharing their stories and exchanging phone numbers with other Veterans. “Having cancer can make you feel alone,” Holman said. “Connecting with other Veterans and knowing that VA is in my corner has been life-changing.”  </p>
-image_ids:
+image_checksums:
 - 40d3c1102db2bbe4ad8d996bce359492e7fe522ddafd322a98946f552230dbe7
 location_titles:
 - King County

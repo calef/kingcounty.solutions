@@ -201,7 +201,7 @@ feed_content: '<a class="skip-link screen-reader-text" href="#content">Skip to c
   <a class="elementor-button elementor-button-link elementor-size-sm" href="https://familyworksseattle.org/donate/">
   <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Donate</span>
   </span> </a> </div> </div> </div> </div> </div> </div> </section> </div>'
-image_ids: []
+image_checksums: []
 location: Wallingford Food Bank (Temporary Location), 4318 Stone Way North, Seattle,
   WA, 98103, United States
 location_titles:

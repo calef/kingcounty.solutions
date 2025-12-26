@@ -24,7 +24,7 @@ feed_content: |-
 
 
   <p>To explore available items and place your order, visit the <a href="https://www.shopredbrickclothing.com/redbrickclothing/groupproducts.php?prodgroup_id=31250&amp;prodgroupbypass=true" rel="noopener">National Veterans Golden Age Games Online Store</a> today. Do not miss your chance to gear up and show your support for our incredible Veteran athletes.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

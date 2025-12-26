@@ -6,7 +6,7 @@ feed_content: Seattle police detectives have arrested a 17-year-old boy for atta
   an 80-year-old man who confronted him while the teen was scrawling graffiti onto
   the side of the Ballard Bridge earlier this week. The victim was driving on Nov.
   17 when he saw fou...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -146,7 +146,7 @@ feed_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/walla-walla-health-care/stories/how-to-get-better-sleep/" rel="noopener">VA Walla Walla Health care System site </a> and has been edited for style and clarity.  </p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

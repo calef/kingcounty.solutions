@@ -4,6 +4,7 @@ require_relative 'abstract_jekyll_collection'
 require_relative 'concerns/located'
 require_relative 'concerns/sourced'
 require_relative 'concerns/topical'
+require_relative 'image'
 
 module Mayhem
   module Models
@@ -20,8 +21,14 @@ module Mayhem
         self['feed_content_checksum']
       end
 
-      def image_ids
-        self['image_ids'] || []
+      def image_checksums
+        self['image_checksums'] || []
+      end
+
+      def images
+        image_checksums.map do |checksum|
+          Image.find_by(checksum:)
+        end
       end
 
       def locked

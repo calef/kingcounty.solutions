@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: The City of Seattle has allocated $5.9 million in its 2025 budget to
   cover the permitting, construction, and operational costs for new...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

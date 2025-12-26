@@ -62,7 +62,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-11-26T12:00:00Z\" class=\"datetime\">November
   26 2025</time>\n</div>\n      \n    </div>\n  </div>"
-image_ids:
+image_checksums:
 - 4e04b3e7a890f468bd7d991f8cbc885a5aa9c3727001f698176fe3ee3ffb898b
 location_titles:
 - Bellevue

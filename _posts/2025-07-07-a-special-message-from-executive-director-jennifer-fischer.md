@@ -20,7 +20,7 @@ feed_content: |-
 
 
   <p></p><p>The post <a href="https://www.bellevuelifespring.org/impact/special-message/">A special message from Executive Director Jennifer Fischer</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/impact/special-message/">A special message from Executive Director Jennifer Fischer</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Bellevue LifeSpring

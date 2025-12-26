@@ -9,7 +9,7 @@ feed_content: Friends of Youth has officially opened Bridge Pointe Housing, a he
   President and CEO, Paul Lwali; Friends of Youth Senior Director of Youth and Family
   Services, Brooke Drennon; Friends of Youth Senior Director of Homeless Youth Services,
   Eric...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Friends of Youth

@@ -7,7 +7,7 @@ feed_content: This information in available in other languages. Select your desi
   información está disponible en otros idiomas. Seleccione el idioma deseado del menú
   desplegable en la esquina superior derecha de este sitio web.
 feed_content_checksum: abe1754c6e58fd67fdcf6fa694a2b07bf1bdd7de
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

@@ -4,6 +4,8 @@ require 'fileutils'
 
 require_relative '../front_matter/document'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module Images
     class Pruner
@@ -17,8 +19,8 @@ module Mayhem
         @logger = logger
       end
 
-      def collect_image_ids(front_matter)
-        Array(front_matter['image_ids']).map(&:to_s).map(&:strip).reject(&:empty?)
+      def collect_image_checksums(front_matter)
+        Array(front_matter['image_checksums']).map(&:to_s).map(&:strip).reject(&:empty?)
       end
 
       def remaining_image_counts(excluded_paths = Set.new)
@@ -30,7 +32,7 @@ module Mayhem
           document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
-          collect_image_ids(document.front_matter).each { |id| counts[id] += 1 }
+          collect_image_checksums(document.front_matter).each { |id| counts[id] += 1 }
         end
 
         if @events_dir
@@ -40,23 +42,23 @@ module Mayhem
             document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
             next unless document
 
-            collect_image_ids(document.front_matter).each { |id| counts[id] += 1 }
+            collect_image_checksums(document.front_matter).each { |id| counts[id] += 1 }
           end
         end
 
         counts
       end
 
-      def prune(image_ids, excluded_paths: Set.new)
+      def prune(image_checksums, excluded_paths: Set.new)
         remaining_refs = remaining_image_counts(excluded_paths)
-        prune_images(image_ids, remaining_refs)
+        prune_images(image_checksums, remaining_refs)
       end
 
       private
 
-      def prune_images(image_ids, remaining_refs)
+      def prune_images(image_checksums, remaining_refs)
         removed = []
-        image_ids.each do |id|
+        image_checksums.each do |id|
           next if remaining_refs[id]&.positive?
 
           removed << id

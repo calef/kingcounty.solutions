@@ -5,7 +5,7 @@ feed_content: 2025 City Council Wrap-Up. The last City Council meeting of 2025 w
   take this opportunity to highlight some of our successes that will benefit residents
   as we get ready to move into 2026.
 feed_content_checksum: f4ef02901f22cbf61f469986db64d430891e03de
-image_ids: []
+image_checksums: []
 location_titles:
 - Normandy Park
 organization_title: City of Normandy Park

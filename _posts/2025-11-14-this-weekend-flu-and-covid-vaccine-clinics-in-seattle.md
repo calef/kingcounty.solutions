@@ -6,7 +6,7 @@ feed_content: Seattle Public Schools, in collaboration with the Seattle Visiting
   Association, is hosting community flu and COVID vaccine clinics open to all. The
   clinics are on November 15 and 16, 2025, at Whitman Middle School, Ingraham High
   School, and Madison Middle School, operating from 9:00 a.m. to 3:00 p.m.
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County School Health

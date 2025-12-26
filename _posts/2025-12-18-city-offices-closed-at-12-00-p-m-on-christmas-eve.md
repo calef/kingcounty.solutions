@@ -4,7 +4,7 @@ feed_content: "<div>\n  \n      \n    <span>12/24/2025 - 12:00pm</span>\n      <
   \ \n      \n    <p>City offices will close at 12:00 p.m. on Christmas Eve.</p>\n
   \     </div>"
 feed_content_checksum: 6d587261bdb8250247eecdcf449c3563036992fd
-image_ids: []
+image_checksums: []
 location_titles:
 - Black Diamond
 organization_title: City of Black Diamond

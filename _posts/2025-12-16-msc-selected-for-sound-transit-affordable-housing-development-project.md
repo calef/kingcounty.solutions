@@ -8,7 +8,7 @@ feed_content: Sound Transit recently issued a Notice of Intent to Award to MSC a
   Downtown Station.    "MSC is honored to be chosen for this project as we continue
   to advance our mission  [...]
 feed_content_checksum: 9d64b69ed68c3bfd86fa9c7314d1b2f7c7feae72
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Multi-Service Center

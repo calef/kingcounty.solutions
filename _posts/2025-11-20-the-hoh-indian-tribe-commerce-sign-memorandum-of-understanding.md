@@ -46,7 +46,7 @@ feed_content: |-
 
 
   <p>To learn more and follow Commerce’s work with tribal nations and communities within Washington, visit the <a href="https://www.commerce.wa.gov/tribal-relations/">Office of Tribal Relations webpage</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Commerce
 published: false

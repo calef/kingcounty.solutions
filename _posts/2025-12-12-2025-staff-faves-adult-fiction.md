@@ -17,7 +17,7 @@ feed_content: |-
   <p>The word “tilt” may also refer to your to-be-read pile after reviewing our staff faves! Happy reading!</p>
   <p><em>~ posted by Eric G.</em></p>
 feed_content_checksum: 9adf025264cac1f9566ab564f266b84d19ccc840
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: The Seattle Public Library

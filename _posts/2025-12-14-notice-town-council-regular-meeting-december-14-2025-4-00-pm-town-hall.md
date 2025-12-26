@@ -40,7 +40,7 @@ feed_content: |-
   <p>Next regular Town Council Meeting: January 13, 2025, at 4:00 pm</p>
   <p> </p>
 feed_content_checksum: 00545b0cedff127bd626bb61f7f105f7ee501ff8
-image_ids: []
+image_checksums: []
 location_titles:
 - Eastside
 organization_title: Town of Yarrow Point

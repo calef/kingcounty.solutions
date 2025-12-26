@@ -8,7 +8,7 @@ feed_content: <p class="">As of July 7, 2025 Essentials First Redmond has re-loc
   Redmond, WA 98052. This location will be open Monday-Friday 10 AM-2 PM; during these
   hours, community members are welcome on a walk-in basis and can receive essential
   hygiene kits, snack packs, and ORCA cards.&nbsp;</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Essentials First

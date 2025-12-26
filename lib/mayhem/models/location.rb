@@ -29,6 +29,9 @@ module Mayhem
       def parent_location?
         !parent_location.nil?
       end
+
+      # TODO: add news and events defs that look up the news and events that reference this location via
+      # news.location_titles equals location.title and event.location_titles equals location.title
     end
   end
 end

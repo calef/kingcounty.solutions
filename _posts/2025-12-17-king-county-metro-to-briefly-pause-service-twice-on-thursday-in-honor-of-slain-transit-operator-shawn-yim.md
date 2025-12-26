@@ -4,7 +4,7 @@ feed_content: This week we will solemnly mark the anniversary of the murder of K
   County Metro Transit Operator Shawn Yim. Among other ceremonies, we will honor Shawn
   on Thursday, Dec. 18,...
 feed_content_checksum: 947b1c6dab0af8d3c4e33981f53637bb7d474d67
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Metro Transit

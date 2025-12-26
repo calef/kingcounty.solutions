@@ -29,7 +29,7 @@ feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Locati
   post <a href=\"https://soundgenerations.org/meals-on-wheels-help-make-a-difference-in-federal-way/\">Meals
   on Wheels: Help make a difference in Federal Way!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Sound Generations

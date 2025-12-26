@@ -4,7 +4,7 @@ feed_content: WAPATO – The 2025 highway construction season is winding down in
   Yakima Valley. The Washington State Department of Transportation completed projects
   on US 12 near Rimrock and State Route 821 in East Selah. Work at US 97 and Lateral
   A in Wapato will pause for the winter and pick back up next spring.
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Washington State Department of Transportation
 published: false

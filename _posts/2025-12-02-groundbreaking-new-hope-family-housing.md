@@ -9,7 +9,7 @@ feed_content: On November 30th, friends, family, and congregation members along 
   for families and individuals earning up to 50% and 60% of the Area Median Income.
   located on two properties owned by New Hope Missionary Baptist Church at 114 and
   123 - 21st Ave....
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

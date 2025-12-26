@@ -67,7 +67,7 @@ feed_content: "<p class=\"\">Thousands of King County residents struggle to affo
   1500w, https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/4363f478-3abd-437b-ae76-0f79e1e28a64/ACTIONALERT_KCBudget2627+%281%29.png?format=2500w
   2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            \n
   \         \n        \n          \n        \n\n        \n      \n        </figure>"
-image_ids:
+image_checksums:
 - fdeef3207d36ffb4c16b09e078eba32db9a771f854d378087f13733f283346b4
 location_titles:
 - King County

@@ -85,7 +85,7 @@ feed_content: |-
 
   <figure><img src="https://www.bellevuelifespring.org/wp-content/uploads/2025/12/Volunteers-5-1-edited-1-1200x800.jpg"><figcaption>Volunteers help make the gift room experience magical for families. </figcaption></figure><p>The post <a>Spreading Joy: Highlights from the ‘Tis the Season Holiday Giving Program</a> first appeared on <a>Bellevue LifeSpring</a>.</p><p>The post <a>Spreading Joy: Highlights from the ‘Tis the Season Holiday Giving Program</a> appeared first on <a>Bellevue LifeSpring</a>.</p>
 feed_content_checksum: 68b1b65631359ab2a26af856e9e00654a840d805
-image_ids:
+image_checksums:
 - e29d0d1e36687e82f2e739df1f36aff0b3c39cd9ce81cf251cbbea2b18be852e
 - 60adcc8e1b235b622e197f5336bfcb2de140dd8db032850f7990ebe6d936724d
 - def349af7820c2a4842a0a335aec6938cacf099cbf3a764acc27d5d6b7f5d88f

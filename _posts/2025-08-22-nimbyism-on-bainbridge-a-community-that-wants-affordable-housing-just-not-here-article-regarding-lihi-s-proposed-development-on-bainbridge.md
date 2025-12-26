@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: 'Link to full article:  A housing project that''s showing the island''s
   true colors, one way or the other | Opinion piece in Kitsap Sun...'
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Low Income Housing Institute
 published: false

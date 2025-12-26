@@ -330,7 +330,7 @@ feed_content: "<div class=\"shell\" lang=\"en-US\" dir=\"ltr\" style=\"backgroun
   data-track=\"false\" style=\"color: inherit;\">Constant Contact Data Notice</a></span>
   </p> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </td> </tr> </tbody>
   </table> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </div>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Jubilee Women's Center

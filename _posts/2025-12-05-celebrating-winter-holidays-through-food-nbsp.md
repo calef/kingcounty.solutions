@@ -93,7 +93,7 @@ feed_content: '<p class="">We believe that food brings people together across cu
   data-rte-preserve-empty="true" class=""></p><p class="">Around the world, winter
   holiday traditions and foods show how deeply food and culture are intertwined, and
   how sharing them brings connection, community, and joy to the season.</p>'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Rainier Valley Food Bank
