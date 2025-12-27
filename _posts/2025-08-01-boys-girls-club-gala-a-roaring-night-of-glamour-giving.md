@@ -1,6 +1,6 @@
 ---
 date: '2025-08-01T19:42:41+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h1 style="text-align: center;"><strong style="color: #ad001a;">Our online silent auction is open!</strong></h1>

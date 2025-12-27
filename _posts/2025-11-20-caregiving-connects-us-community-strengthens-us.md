@@ -1,6 +1,6 @@
 ---
 date: '2025-11-20T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">A journey of resilience, love and the power of support</h2>

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-15T22:18:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p></p>\n\n\n\n<p><strong>Take Action: Show Up for Community Change</strong></p>\n\n\n\n<p>Social
   change happens when everyday people show up—<strong>locally, consistently, and together</strong>.

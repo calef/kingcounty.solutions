@@ -1,6 +1,6 @@
 ---
 date: '2025-09-29T21:43:10+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>At this year’s annual Paths to Possibility Gala in San Francisco, Juma’s supporters and staff came together to celebrate the achievements of Juma youth and raise funds in support of [&#8230;]</p>

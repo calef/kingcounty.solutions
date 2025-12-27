@@ -1,6 +1,6 @@
 ---
 date: '2025-11-28T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">How VA’s “Getting Veterans Off the Streets” initiative helped support unsheltered Veterans</h2>

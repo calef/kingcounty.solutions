@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T22:01:43+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Dear Supporter,</p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-09-05T18:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="">Tonight at 5 pm! </p>

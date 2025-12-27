@@ -1,6 +1,6 @@
 ---
 date: '2025-08-08T21:06:51+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>In late July, Ballard Boys &amp; Girls Club field was full of excitement as youth, staff, and special guests gathered for an unforgettable afternoon of reading, fun, and inspiration. Hosted in partnership with Amazon, the NFL’s Inspire Change initiative, Boys &amp; Girls Clubs of America, and the Smithsonian, TNF For Good brought literacy to life for dozens of Club youth in King County.</p>

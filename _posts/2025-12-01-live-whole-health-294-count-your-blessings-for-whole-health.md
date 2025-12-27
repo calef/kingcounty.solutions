@@ -1,6 +1,6 @@
 ---
 date: '2025-12-01T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Are you ready to count your blessings? Even if you’re not feeling particularly grateful this year, this season offers us a chance to stop and think about what really matters to us. Taking “inventory” of your blessings can be good for your <a href="https://www.va.gov/WHOLEHEALTH/index.asp" rel="noopener">Whole Health</a>.</p>

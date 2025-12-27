@@ -1,6 +1,6 @@
 ---
 date: '2025-11-18T11:35:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/City%20Chat%20ED-HS%20-%20FE.png"
   />Join us for free light refreshments at our "City Chat" on Thursday, November 20

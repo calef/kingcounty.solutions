@@ -1,6 +1,6 @@
 ---
 date: '2025-12-13T21:46:41+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Severe flooding across Washington state has displaced thousands of residents, forcing families and individuals to leave their homes with little notice. Access to safe, temporary housing is an urgent need facing people across the state.</p>

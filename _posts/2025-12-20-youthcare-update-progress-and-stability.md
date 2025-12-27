@@ -1,6 +1,6 @@
 ---
 date: '2025-12-20T00:24:30+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Two months ago, we shared our strategic direction to bring sharper focus to the heart of our work: providing direct service and critical support ensuring unhoused young people are connected to the services and support they need. Today, we want to update you on the progress we’re making and the stability we’re building for the young people we serve.</p>

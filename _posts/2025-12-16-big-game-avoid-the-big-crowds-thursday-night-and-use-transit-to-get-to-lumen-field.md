@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T19:44:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Are you ready for a little Thursday Night football?? Rams… Seahawks…
   The battle for first place in the NFC West and possible home field throughout the

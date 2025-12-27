@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>If you’re looking for a work environment where your physician career can flourish right from the onset, there’s no place like the Department of Veterans Affairs (VA). From serving those who so nobly served our country to generous leave policies, there are many benefits that make a VA career worth exploring. Let’s take a look at five reasons why you should start your physician career at VA.  </p>

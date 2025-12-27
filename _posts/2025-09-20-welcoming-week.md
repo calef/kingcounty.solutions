@@ -1,6 +1,6 @@
 ---
 date: '2025-09-20T13:10:57+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Guillermo Rivera, [guillermo@eastsideforall.org](mailto:guillermo@eastsideforall.org)

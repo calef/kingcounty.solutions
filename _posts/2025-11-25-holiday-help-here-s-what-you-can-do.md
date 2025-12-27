@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T00:04:29+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading"><strong>Adopt a Resident</strong>:</h2>

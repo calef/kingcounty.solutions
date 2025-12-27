@@ -1,6 +1,6 @@
 ---
 date: '2025-10-20T17:41:17+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">State disciplines health care providers (10-20-2025)</span>

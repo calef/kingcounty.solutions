@@ -1,6 +1,6 @@
 ---
 date: '2025-07-22T21:25:31+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-image"><img decoding="async" src="https://assets.littlegreenlight.com/media/W1siZiIsIjIwMjUvMDcvMTYvNDNjc2hidmM0Nl9fMl9zdW1tZXJfYXBwZWFsX2VtYWlsX2Jhbm5lci5qcGciXV0?sha=885963653823b5cf" alt="#2 Summer camps collage"/></figure>

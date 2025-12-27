@@ -1,6 +1,6 @@
 ---
 date: '2025-11-17T23:45:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">

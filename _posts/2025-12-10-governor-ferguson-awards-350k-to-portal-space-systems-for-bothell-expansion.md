@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T17:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Aerospace company builds the Supernova, the first commercial next-gen spacecraft; expansion will create 700 high-wage jobs over the next five years</p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T16:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The Seattle Department of Education &amp; Early Learning is hosting
   Community Conversations in December about the renewal of the Families, Education,

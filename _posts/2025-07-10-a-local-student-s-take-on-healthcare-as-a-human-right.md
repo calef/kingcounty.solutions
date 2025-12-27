@@ -1,6 +1,6 @@
 ---
 date: '2025-07-10T19:14:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p data-rte-preserve-empty="true">Healthcare : A Fundamental Right</p>

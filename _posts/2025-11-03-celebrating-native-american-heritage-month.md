@@ -1,6 +1,6 @@
 ---
 date: '2025-11-03T19:20:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Each November, we recognize Native American Heritage Month—a time to honor the history, culture, and ongoing contributions of Native peoples across the country. Here in the Snoqualmie Valley, this month holds special meaning as we live and work on the ancestral lands of the Snoqualmie Tribe.

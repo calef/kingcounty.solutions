@@ -1,6 +1,6 @@
 ---
 date: '2025-08-08T20:51:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>&nbsp;<strong>FOR IMMEDIATE RELEASE&nbsp;</strong></p>

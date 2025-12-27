@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>How an Army Veteran rated for Individual Unemployability took control of his life and now holds the title Doctor</h2>

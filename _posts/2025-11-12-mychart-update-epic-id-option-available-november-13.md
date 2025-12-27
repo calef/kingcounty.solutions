@@ -1,6 +1,6 @@
 ---
 date: '2025-11-12T22:45:19+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/11/MyChart-Central_Blog-Header-2-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://blog.valleymed.org/wp-content/uploads/2025/11/MyChart-Central_Blog-Header-2-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/11/MyChart-Central_Blog-Header-2-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2025/11/MyChart-Central_Blog-Header-2-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2025/11/MyChart-Central_Blog-Header-2.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></p>

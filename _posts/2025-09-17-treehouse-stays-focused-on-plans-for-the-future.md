@@ -1,6 +1,6 @@
 ---
 date: '2025-09-17T23:14:31+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div class='author-name' style='font-size: 18px; width: 100%; padding: .5em 0;'><p>By Dawn Rains</p></div><p><span data-contrast="auto"><img decoding="async" class="aligncenter wp-image-195975 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/09/Dawn-Speaking-at-Champions-25-1024x636.png" alt="" width="1024" height="636" />For nearly 40 years, Treehouse has walked alongside children and youth in foster care with the clear mission to ensure they complete high school and step into adulthood with the tools, support, and confidence they need to thrive.</span><span data-ccp-props="{}"> </span></p>

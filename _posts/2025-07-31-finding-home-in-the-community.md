@@ -1,6 +1,6 @@
 ---
 date: '2025-07-31T23:27:25+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Finding Home in the Community The truth of being a part of a diaspora is best described in the words of the author Salman Rushdie, who writes — “sometimes we [...]

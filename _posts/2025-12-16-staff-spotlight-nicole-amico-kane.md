@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T06:00:46+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>What is your role at Aging Wisdom? Director of Care Management What made you want to work in the field of aging? Like many new social workers, I started my career in child and family services.  After a few years I was already feeling burned out and then serendipitously recruited to work for a hospice […]</p>

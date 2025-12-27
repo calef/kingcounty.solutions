@@ -1,6 +1,6 @@
 ---
 date: '2025-10-20T06:00:52+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>What is your role at Aging Wisdom? I’m the Accounting Manager. Right now, my focus is on streamlining and consolidating our systems, reducing redundancies, and keeping cash flowing smoothly. I’ve helped lower our average accounts receivable balance by staying on top of client payments and improving follow-up processes. I also partner closely with Lisa to [&#8230;]</p>

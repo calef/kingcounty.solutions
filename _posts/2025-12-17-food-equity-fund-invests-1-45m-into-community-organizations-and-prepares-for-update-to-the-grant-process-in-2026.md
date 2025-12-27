@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T18:33:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The City of Seattle will continue its commitment to food equity by investing
   more than $1.45 million in a diverse group of 23 community partners for 2026. These

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-19T18:38:39+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>When Hayley first joined Juma, she was juggling more than most people her age. As a young mother navigating housing instability, every day brought a new challenge. She wanted something [&#8230;]</p>

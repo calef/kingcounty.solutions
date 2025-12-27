@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T18:03:04+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>Disability
   and Research (D2/R3) Study Opportunity</h2>\n\n\t<div></div>\n</div>\n\n\t</div>\n\t<div>\n\n<div>\n\n\t\n\t<p>The

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Morphinism and the National Homes, 1880-1916</h2>

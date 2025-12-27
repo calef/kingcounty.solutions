@@ -1,6 +1,6 @@
 ---
 date: '2025-09-23T21:26:51+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: '<h3>Executive Braddock announces her 2026–2027 budget proposal, preventing
   devastating cuts while further investing in public safety, housing, homelessness

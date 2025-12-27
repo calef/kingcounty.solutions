@@ -1,6 +1,6 @@
 ---
 date: '2025-11-24T21:36:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p data-start="213" data-end="640"><em>We’re proud to share that Youth Eastside Services (YES) is once again being featured as one of the nonprofits supported by The Seattle Times Fund for Those in Need campaign. This year’s kickoff article highlights the rising need for services across our region and includes a look at how programs like Latino H.E.A.T. are creating safe, supportive spaces for immigrant youth during a time of growing pressure and uncertainty.</em></p>

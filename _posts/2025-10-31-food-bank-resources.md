@@ -1,6 +1,6 @@
 ---
 date: '2025-10-31T18:54:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"wp-block-image\">\n<figure class=\"alignright size-large
   is-resized\"><img fetchpriority=\"high\" decoding=\"async\" width=\"600\" height=\"384\"

@@ -1,6 +1,6 @@
 ---
 date: '2025-10-01T19:26:38+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">When Shifali moved to Seattle, she was looking for a
   place to volunteer where she could give back, build relationships, and become part

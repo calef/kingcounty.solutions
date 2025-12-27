@@ -1,6 +1,6 @@
 ---
 date: '2025-10-20T22:52:48+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "New Hope West Building - Rendering by Weber Thompson Seattle, WA –
   The New Hope Community Development Institute ( NHCDI) and Low Income Housing Institute

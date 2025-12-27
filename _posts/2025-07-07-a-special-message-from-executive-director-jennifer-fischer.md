@@ -1,6 +1,6 @@
 ---
 date: '2025-07-07T16:00:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">

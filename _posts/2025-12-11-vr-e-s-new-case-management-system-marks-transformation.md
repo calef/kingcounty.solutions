@@ -1,6 +1,6 @@
 ---
 date: '2025-12-11T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>The Department of Veterans Affairs successfully completed phase 1 of the Readiness and Employment System (RES) deployment nearly a month ahead of schedule, modernizing the case management platform for the <a>Veteran Readiness and Employment (VR&amp;E) program</a>. </p>

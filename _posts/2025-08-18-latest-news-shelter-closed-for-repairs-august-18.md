@@ -1,6 +1,6 @@
 ---
 date: '2025-08-18T03:04:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="">A main sewer line between the Legion Hall and 37th Avenue SW has broken. Repairs are scheduled to begin 6:30 am Monday, August 18. Unfortunately, the Warm Up Center and breakfast will need to be canceled until the problem can be fixed. Signs will be posted to alert clients, and we&#8217;ll keep everyone updated on when the shelter is expected to reopen.</p>

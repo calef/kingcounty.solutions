@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T18:37:49+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<h4><strong>Facing winter outside</strong></h4><p>When Nicole, a single
   mother living with Multiple Sclerosis (MS), lost her home, she felt the ground shift

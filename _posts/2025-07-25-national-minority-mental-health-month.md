@@ -1,6 +1,6 @@
 ---
 date: '2025-07-25T17:18:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>July marks National Minority Mental Health Month, a time to acknowledge
   and address the unique mental health challenges faced by communities of color. While

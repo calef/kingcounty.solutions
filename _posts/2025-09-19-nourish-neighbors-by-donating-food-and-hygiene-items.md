@@ -1,6 +1,6 @@
 ---
 date: '2025-09-19T14:45:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Nourish
   neighbors by donating food and hygiene items</span>\n<span class=\"field field--name-uid

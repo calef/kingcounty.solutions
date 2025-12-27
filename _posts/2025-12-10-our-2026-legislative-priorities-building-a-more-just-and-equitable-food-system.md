@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T22:18:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Washington’s 2026 Legislative Session is right around the corner! Over the coming months, we’ll be sharing updates from Olympia and creating opportunities for you to make your voice heard. Together, we can shape policies that move Washington closer to a hunger-free future.</p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-09-27T18:53:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Repeated thefts could mean at least a month in jail</span>\n<span class=\"field

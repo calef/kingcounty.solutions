@@ -1,6 +1,6 @@
 ---
 date: '2025-11-07T20:30:06+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Seattle Department of Neighborhoods (DON) is excited to announce a partnership
   with Seattle Information Technology Department (Seattle IT) to support the Technology

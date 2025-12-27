@@ -1,6 +1,6 @@
 ---
 date: '2025-08-22T16:54:06+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: <p>The post <a href="https://www.kcsarc.org/en/lessons-from-surviving-ohio-state/">Lessons
   from &#8220;Surviving Ohio State&#8221;</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>

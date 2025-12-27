@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T00:09:31+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Across Washington, many communities are facing severe flooding—bringing evacuations, road closures, and disruptions to daily life. At Northwest Harvest, we are closely monitoring the situation and mobilizing support where it’s needed most.</p>

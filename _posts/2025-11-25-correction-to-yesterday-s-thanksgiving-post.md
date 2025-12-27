@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T15:02:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="">If you&#8217;d like to help the shelter for Thanksgiving, the contact person is Cinda Stenger, cstenger49@gmail.com.</p>

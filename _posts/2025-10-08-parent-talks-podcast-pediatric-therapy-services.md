@@ -1,6 +1,6 @@
 ---
 date: '2025-10-08T19:28:53+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   This week, our Encompass It All Series takes a closer look at Encompass Pediatric Therapy Services. Providing over 2000 visits each month, our therapies are tailored to meet the unique needs of each child to help them reach their developmental milestones in a supportive environment.

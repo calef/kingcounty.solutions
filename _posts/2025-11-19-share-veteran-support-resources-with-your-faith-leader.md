@@ -1,6 +1,6 @@
 ---
 date: '2025-11-19T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Toolkit helps faith leaders support Veterans and start conversations about mental health</h2>

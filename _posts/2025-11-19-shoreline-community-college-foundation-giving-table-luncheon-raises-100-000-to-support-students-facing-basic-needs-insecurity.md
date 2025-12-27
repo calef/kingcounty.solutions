@@ -1,6 +1,6 @@
 ---
 date: '2025-11-19T08:39:28+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 600px
   !important;padding-top: 0.75em;"><img width="400" height="300" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/11/IMG_3859-3-scaled.jpg?fit=400%2C300&amp;ssl=1"

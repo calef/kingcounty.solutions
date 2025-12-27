@@ -1,6 +1,6 @@
 ---
 date: '2025-08-28T17:25:35+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>50 Years! Can you believe it? Sno-Valley Senior Center is 50 years old this month!</p>

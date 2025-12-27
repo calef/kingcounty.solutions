@@ -1,6 +1,6 @@
 ---
 date: '2025-09-15T15:01:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "Hispanic Heritage Month is a time to honor the histories, cultures,
   and contributions of Americans whose ancestry traces back to Spain, Mexico, the

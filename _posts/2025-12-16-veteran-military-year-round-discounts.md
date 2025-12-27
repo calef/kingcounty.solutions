@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T21:04:26+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Researching veteran discounts often means dodging outdated information, misleading sites, or even malware—some require paid memberships, too. We’ve created a reliable list: no fees, and fully vetted, we’ve got your six.</p>

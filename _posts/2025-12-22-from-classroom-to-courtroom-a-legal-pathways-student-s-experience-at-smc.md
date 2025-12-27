@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T18:48:19+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Fatoumata Diallo and Halima Mohamed recently wrapped up a monthslong
   job shadowing opportunity with Seattle Municipal Court (SMC) employees. They were

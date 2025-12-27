@@ -1,6 +1,6 @@
 ---
 date: '2025-12-15T18:37:12+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <a><p>Consider a year-end gift to support The Center for Active Living!</p>

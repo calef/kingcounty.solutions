@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Radiology professionals at VA connect diagnoses with treatment to enable the highly personalized care Veterans deserve. From capturing images on state-of-the-art equipment to collaborating with clinical teams on the proper treatment, radiology specialists at VA play a vital role in delivering high-quality care to those who served our nation. Keep reading to learn more about radiology at VA and see if a career caring for Veterans is right for you. </p>

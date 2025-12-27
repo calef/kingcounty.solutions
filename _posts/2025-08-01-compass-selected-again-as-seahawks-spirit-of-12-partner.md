@@ -1,6 +1,6 @@
 ---
 date: '2025-08-01T22:21:31+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<figure class=\"wp-block-image size-full\"><a href=\"https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-62.png\"><img
   loading=\"lazy\" decoding=\"async\" width=\"600\" height=\"300\" src=\"https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-62.png\"

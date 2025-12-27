@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T17:47:39+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>AFW passenger Gabe has been flying with AFW since early 2024 to reach his essential care at Children’s Hospital LA. Gabe’s mother, Jadie, shares:</p>

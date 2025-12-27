@@ -1,6 +1,6 @@
 ---
 date: '2025-07-09T16:41:21+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Six months into 2025, we continue to center our communities as we navigate
   the impacts of policies on our clients, services, and our agency. In these moments,

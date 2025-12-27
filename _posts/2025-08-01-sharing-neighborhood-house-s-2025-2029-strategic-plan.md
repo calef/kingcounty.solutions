@@ -1,6 +1,6 @@
 ---
 date: '2025-08-01T17:11:29+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Neighborhood House’s 2025 Strategic Plan marks a critical juncture in our enduring mission to advance equity, opportunity, and community well-being across King County. At a time when the political landscape is increasingly volatile—marked by rising hostility toward immigrants and refugees, and growing threats to public funding—we remain steadfast in our commitment to our neighbors furthest ... </p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-23T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Health care that doesn’t prioritize the person is a thing of the past. At VA, we’re in a new era of care—one that emphasizes what matters to you, not just what is the matter with you. This approach is called <a href="https://www.va.gov/WHOLEHEALTH/get-involved/get-started.asp" rel="noopener">Whole Health</a>, and it puts Veterans at the center of their own health journey.</p>

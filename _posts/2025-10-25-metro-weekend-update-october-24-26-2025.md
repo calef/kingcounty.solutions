@@ -1,6 +1,6 @@
 ---
 date: '2025-10-25T01:15:51+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Weekend Service Impacts Construction Route 8 is rerouted off E Denny
   Way between Fairview Avenue N and E Olive Way on Saturday, October 25 at 1 a.m.

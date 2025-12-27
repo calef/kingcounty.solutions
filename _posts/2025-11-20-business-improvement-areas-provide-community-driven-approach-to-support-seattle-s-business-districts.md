@@ -1,6 +1,6 @@
 ---
 date: '2025-11-20T17:57:12+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Many things contribute to the unique character or a neighborhood: the
   local shops and restaurants, annual events, and the special landmarks. In many Seattle

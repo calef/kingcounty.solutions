@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T19:36:38+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Last month, thanks to the efforts of local elected officials and in partnership with Lake City Partners (LCP), Low Income Housing Institute (LIHI), Salvation Army, and Urban League, we were able to open the first four seasonal shelters in Seattle. </p>

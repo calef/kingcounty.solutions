@@ -1,6 +1,6 @@
 ---
 date: '2025-10-06T19:42:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>How do you fix a broken pumpkin?</strong></p>

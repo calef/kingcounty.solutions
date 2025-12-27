@@ -1,6 +1,6 @@
 ---
 date: '2025-10-29T15:13:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><!--StartFragment --></p>

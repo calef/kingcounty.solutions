@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T18:26:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Rev Lawrence Willis of Love-To presents gifts to Sharon Lee, LIHI Executive
   Director. LIHI's Gala &amp; Auction  on Friday evening at the Four Seasons, plus

@@ -1,7 +1,7 @@
 ---
 date: '2025-10-15T17:11:24+00:00'
-events:
-- 2026-01-01-des-moines-library-redesign
+event_ids:
+- 2026-01-01-des-moines-library-redesign.md
 events_extracted: true
 feed_content: |-
   Upgraded spaces are designed to meet the expectations of modern users, with accessibility, flexibility and evolving community needs a primary focus. KCLS engaged an architecture firm that specializes in libraries to assist with the development of five design packages that can be used over the next ten years to reimagine spaces with scalability to apply to varying-sized locations.&nbsp;&nbsp;

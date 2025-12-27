@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T19:45:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div><figure><img src="https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png"></figure></div>

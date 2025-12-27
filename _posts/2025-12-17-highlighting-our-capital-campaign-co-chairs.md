@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T20:37:21+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>As our <a>Room for All capital campaign</a> that brought about our
   new Community Food Hub comes closer to completion, we’re reflecting on all of the

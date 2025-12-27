@@ -1,6 +1,6 @@
 ---
 date: '2025-11-27T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">VA medical providers team up to provide CPR</h2>

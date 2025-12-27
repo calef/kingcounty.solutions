@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T16:35:32+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'For Immediate Release Contact InformationCynthia SantanaPhone: 206-256-5219Email:
   cynthia.santana@seattle.gov Seattle Office of Labor Standards Announces Expiration

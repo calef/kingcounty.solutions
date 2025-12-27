@@ -1,6 +1,6 @@
 ---
 date: '2025-09-11T22:48:59+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><span data-contrast="auto"><img loading="lazy" decoding="async" class="aligncenter wp-image-195933 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/09/Untitled-design-7-1024x665.png" alt="" width="1024" height="665" />The back-to-school sales are over, and students are settling into their new seats. But paving the way to educational success is work that never stops. That&#8217;s especially true for students experiencing foster care, who are at the center of a crowded, chaotic hub of bureaucratic systems—child welfare, legal, education, and others depending on the circumstances. Ironically, it’s easy for youth in foster care to get overlooked in the mix.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0}"> </span></p>

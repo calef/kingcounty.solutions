@@ -1,6 +1,6 @@
 ---
 date: '2025-12-11T21:56:07+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span>State revokes, suspends licenses, certifications, registrations
   of health care providers (12-11-2025)</span>\n\n            <div>\n<time>December

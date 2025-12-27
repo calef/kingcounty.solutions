@@ -1,6 +1,6 @@
 ---
 date: '2025-11-18T20:01:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'It''s Auction Season! Bid on gifts for the holidays &#38; support LIHI!
   Virtual Auction:  Nov 19 - Dec 3 Gala &#38; Live Auction:  Dec 5th at the Four Seasons

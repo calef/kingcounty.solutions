@@ -1,6 +1,6 @@
 ---
 date: '2025-11-05T21:19:04+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>TACOMA, Wash. —  Brandon Mencini has been named president of <a href="https://www.multicare.org/location/auburn-medical-center/" data-wpel-link="internal">MultiCare Auburn</a> and <a href="https://www.multicare.org/location/covington-medical-center/" data-wpel-link="internal">MultiCare Covington</a> medical centers and market leader for South King County. He joins MultiCare Health System from Asante Rogue Regional Medical Center and Asante Ashland Community Hospital in southern Oregon, where he served as chief executive officer.</p>

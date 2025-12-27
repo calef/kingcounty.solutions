@@ -1,6 +1,6 @@
 ---
 date: '2025-09-22T21:45:35+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">On&nbsp;Friday, September 19, 2025, Mary’s Place and
   <a href=\"https://www.mercyhousing.org/northwest/\" target=\"_blank\">Mercy Housing

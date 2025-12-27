@@ -1,6 +1,6 @@
 ---
 date: '2025-10-02T18:09:02+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">For Craig, home had always been the apartment where he
   was raising his two kids, Tanner and Ellie. It was where the kids’ height was marked

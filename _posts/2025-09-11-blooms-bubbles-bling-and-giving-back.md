@@ -1,6 +1,6 @@
 ---
 date: '2025-09-11T21:57:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This past August, Bellevue LifeSpring’s Fairweather Circle hosted a unique summer fundraiser called Blooms, Bubbles, and Bling. Neighbors and friends spent the afternoon in Fairweather Circle Member Denise Lane’s award-winning one-acre garden browsing new and gently used jewelry, sipping bubbles, and supporting a powerful cause: preventing hunger and homelessness for Bellevue children.</p>

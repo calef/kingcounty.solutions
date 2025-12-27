@@ -1,6 +1,6 @@
 ---
 date: '2025-08-05T00:23:09+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">A resounding THANK YOU to everyone who joined us on Saturday
   for the culmination of our EF Hygiene Champions Summer Youth Program. This youth-led

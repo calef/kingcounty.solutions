@@ -1,6 +1,6 @@
 ---
 date: '2025-12-11T16:17:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Due to the weather conditions, the Senior Center will be closed today.
   The Foodbank will operate on the usual schedule.

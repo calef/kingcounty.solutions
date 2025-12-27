@@ -1,6 +1,6 @@
 ---
 date: '2025-11-06T04:40:06+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'We are thrilled to share a wonderful feature article from the Federal
   Way Mirror spotlighting our esteemed Executive Director, Shelley Puariea. The article,

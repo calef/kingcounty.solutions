@@ -1,6 +1,6 @@
 ---
 date: '2025-09-23T14:58:43+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">On Sunday September 7th, 2025, neighbors and community
   members gathered to celebrate the Grand Opening of our new community food hub.  It

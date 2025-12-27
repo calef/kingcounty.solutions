@@ -1,6 +1,6 @@
 ---
 date: '2025-10-23T23:16:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>CHS is immensely grateful to Verdant Health Commission for their generosity and partnership during an incredibly challenging time. Following the devastating fire that destroyed our Lynnwood office this summer, Verdant’s emergency funding and generous donation of interim office space have provided us a lifeline as we recover and rebuild. Verdant has been a continued partner of CHS, specifically our work to improve access to mental health services in south Snohomish County. We are especially grateful for their support in this difficult time.</p>

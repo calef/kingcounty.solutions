@@ -1,6 +1,6 @@
 ---
 date: '2025-11-12T19:09:15+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "In the coming weeks, the Community Reinvestment Program (CRP) will
   be launching three funding opportunities. Commerce is taking a regional approach

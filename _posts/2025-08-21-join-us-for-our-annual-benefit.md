@@ -1,6 +1,6 @@
 ---
 date: '2025-08-21T18:23:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a

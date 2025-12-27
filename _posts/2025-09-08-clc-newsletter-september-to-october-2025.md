@@ -1,6 +1,6 @@
 ---
 date: '2025-09-08T18:21:04+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   CISC is a provider in the Community Living Connections (CLC) network in King County. Periodically, we produce a CLC Newsletter that provides helpful information and resources for older adults.

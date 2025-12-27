@@ -1,6 +1,6 @@
 ---
 date: '2025-08-22T18:03:24+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>When families feel surrounded by people who care, children step into the classroom with more than pencils and paper. They walk in with confidence, hope, and a sense of belonging.</p>

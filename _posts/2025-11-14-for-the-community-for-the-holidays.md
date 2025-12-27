@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14T04:08:15+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>As Glover Empower Mentoring prepares for its 15th Annual Thanksgiving Celebration, CEO Kendrick Glover said that the event, which features free food and gifts to the community, has added significance this year. &ldquo;I think what it means to me personally and professionally is being able to meet the needs of our community, especially in trying times we are facing during our economic downfall/</p>

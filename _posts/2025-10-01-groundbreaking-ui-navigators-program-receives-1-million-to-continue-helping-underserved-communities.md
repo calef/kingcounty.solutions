@@ -1,6 +1,6 @@
 ---
 date: '2025-10-01T21:17:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Via Employment Security Department, Washington State &#8220;OLYMPIA – In the past 16 months, community organizations have helped more than 7,000 people in underserved communities better understand the unemployment benefits they had available. Thanks to $1 million from the state Legislature, the Employment Security Department’s groundbreaking Unemployment Insurance (UI) Navigator program will continue for another year. ... </p>

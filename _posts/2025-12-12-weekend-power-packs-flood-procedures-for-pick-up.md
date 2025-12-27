@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T01:27:10+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Empower Youth Network will be distributing Weekend Power Packs to Riverview students who normally receive them on Friday, December 12, from 10 a.m. – 12 p.m. at two <a></a>locations:</p>

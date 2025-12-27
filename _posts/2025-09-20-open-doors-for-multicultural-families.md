@@ -1,6 +1,6 @@
 ---
 date: '2025-09-20T13:27:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Angela Weikel, [angelaw@opendoorswa.org](mailto:angelaw@opendoorswa.org)

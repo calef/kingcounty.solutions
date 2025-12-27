@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T21:26:01+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Seattle police detectives have arrested a 17-year-old boy for attacking
   an 80-year-old man who confronted him while the teen was scrawling graffiti onto

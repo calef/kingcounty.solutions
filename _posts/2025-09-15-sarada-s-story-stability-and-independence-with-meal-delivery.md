@@ -1,6 +1,6 @@
 ---
 date: '2025-09-15T18:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Every other Thursday, Sarada looks forward to hearing a familiar knock at her door. It’s Eileen, her Home Delivered Meals diver from Catholic Community Services (CCS), bringing not only a two-week supply of meals, but also a moment of connection and care.&nbsp;&nbsp;</p>

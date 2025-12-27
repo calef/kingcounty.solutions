@@ -1,6 +1,6 @@
 ---
 date: '2025-09-09T19:07:59+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><em>This article was published in the September issue of the Bellevue Neighborhood News newsletter on September 3rd, 2025.</em></p>

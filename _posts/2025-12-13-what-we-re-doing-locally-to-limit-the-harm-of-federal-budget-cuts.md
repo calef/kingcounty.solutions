@@ -1,6 +1,6 @@
 ---
 date: '2025-12-13T01:36:37+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><img src="https://s14621.pcdn.co/wp-content/uploads/2025/12/Advocacy-PhoenicaZhang-KC-Council-11.12.25-361x255.jpg"></p><p>As the Trump administration continues to slash the safety net programs that millions of Americans rely on to get the housing, food, and healthcare they need, Solid Ground and our local coalition partners have been working hard to help safeguard these and other critical programs in Seattle and King Country.</p>

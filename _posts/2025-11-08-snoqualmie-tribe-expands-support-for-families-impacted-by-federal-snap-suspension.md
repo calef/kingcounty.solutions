@@ -1,6 +1,6 @@
 ---
 date: '2025-11-08T16:30:03+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   _The Tribe donated $130,000 to community organizations providing food services and has expanded efforts in partnership with the Snoqualmie Casino & Resort and Snoqualmie Valley Food Bank_

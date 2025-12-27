@@ -1,6 +1,6 @@
 ---
 date: '2025-10-20T18:50:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/Legislative%20Agenda.png"
   />

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-11T22:16:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h3>Shutdown delays and new SNAP rules further strain Washington’s emergency food system.</h3>

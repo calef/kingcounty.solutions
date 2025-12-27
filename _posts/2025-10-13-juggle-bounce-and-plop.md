@@ -1,6 +1,6 @@
 ---
 date: '2025-10-13T19:11:21+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Juggling is back! Improve coordination, range of motion, and upper body strength while having fun and laughing together with juggling! This class involves a variety of juggling exercises which involve bouncing, tossing, and catching balls in groups and independently. No juggling experience required. You may participate seated or standing. Call the Reception Desk to register.</p>

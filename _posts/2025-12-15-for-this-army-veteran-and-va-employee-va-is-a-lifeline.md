@@ -1,6 +1,6 @@
 ---
 date: '2025-12-15T17:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>At some point, everyone needs an advocate—a lifeline to provide support and guidance during life’s most challenging moments. Advocates help people navigate difficult situations, facilitate more effective communication, and make sure their voices are heard and their needs are addressed.</p>

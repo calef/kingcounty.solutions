@@ -1,6 +1,6 @@
 ---
 date: '2025-11-30T18:42:02+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Small Chef Salad, Veggie Noodle Soup &amp; Fruit </p>

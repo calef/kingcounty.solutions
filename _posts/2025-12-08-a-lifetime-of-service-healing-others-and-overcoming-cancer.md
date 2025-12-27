@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Mark Denney is a physician assistant at <a>Oklahoma City VA Health Care System (OKCVA)</a>. When something felt wrong in his throat, he turned to the same place where he helps fellow Veterans heal.</p>

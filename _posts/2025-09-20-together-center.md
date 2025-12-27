@@ -1,6 +1,6 @@
 ---
 date: '2025-09-20T13:29:46+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   - Thanks for attending our Community Resource Extravaganza! Over 350 community members attended and enjoyed food, music, and connection with onsite resources! We will have a brainstorming session at a future TC Advisory Council meeting to discuss what you would like to see at our future annual event.

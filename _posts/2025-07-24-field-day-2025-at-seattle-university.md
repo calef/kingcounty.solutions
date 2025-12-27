@@ -1,6 +1,6 @@
 ---
 date: '2025-07-24T18:31:04+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p data-start="156" data-end="361"><img loading="lazy" decoding="async" class="size-full wp-image-11368 aligncenter" src="https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent.png" alt="" width="500" height="500" srcset="https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent.png 500w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-300x300.png 300w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-150x150.png 150w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-60x60.png 60w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-100x100.png 100w" sizes="auto, (max-width: 500px) 100vw, 500px" /></p>

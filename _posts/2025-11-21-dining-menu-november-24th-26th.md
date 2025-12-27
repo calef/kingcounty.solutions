@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T23:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Grilled Roast Beef &amp; Cheddar Sandwich, Veggie Barley Soup, Fruit &amp; Cookie</p>

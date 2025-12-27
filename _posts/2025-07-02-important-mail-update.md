@@ -1,6 +1,6 @@
 ---
 date: '2025-07-02T22:51:31+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="2048" height="1366" src="https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/Dear-1.png" alt="" class="wp-image-3730" srcset="https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/Dear-1.png 2048w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/Dear-1-768x512.png 768w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></figure>

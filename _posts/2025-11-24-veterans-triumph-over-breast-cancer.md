@@ -1,6 +1,6 @@
 ---
 date: '2025-11-24T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Strength and resilience of Veterans in face of adversity</h2>

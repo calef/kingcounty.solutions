@@ -1,6 +1,6 @@
 ---
 date: '2025-11-22T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Every year, nearly 8,000 Veterans are diagnosed with <a href="https://news.va.gov/?s=lung+cancer">lung cancer</a>, a staggering reminder of the disease’s frequency. VA’s emphasis on early detection is changing lives by providing every eligible Veteran with systematic, integrated and equitable access to high-quality lung cancer screening.</p>

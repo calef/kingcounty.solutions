@@ -1,6 +1,6 @@
 ---
 date: '2025-07-25T18:46:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"9394\" class=\"elementor
   elementor-9394\">\n\t\t\t\t<div class=\"elementor-element elementor-element-7f3e859

@@ -1,6 +1,6 @@
 ---
 date: '2025-09-02T22:39:04+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>When Mia and Max moved their young family from Brooklyn to the Seattle area, they knew life would be different. What they didn’t expect was just how hard the transition would hit their 3-year-old son, Gus*.</p>

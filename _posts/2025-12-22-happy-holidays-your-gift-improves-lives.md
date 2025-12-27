@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T18:44:47+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Dear Friend of LIHI, We wish you and your family Happy Holidays! We
   are so grateful to you for helping low-income and homeless women, men and children

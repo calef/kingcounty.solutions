@@ -1,6 +1,6 @@
 ---
 date: '2025-10-13T21:41:48+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   In 2021 Perkins Coie launched a Racial Justice Fellowship to provide an opportunity for first- and second-year associates to spend six months doing full time pro bono legal work at a community-based organization. As part of that prestigious program, Evan Molineux has joined the ELAP team, and we are excited to have him on board as a Domestic Violence Staff Attorney for the next half year.

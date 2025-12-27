@@ -1,6 +1,6 @@
 ---
 date: '2025-08-08T00:01:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Proper 13, Year C Just as I did last Sunday, I need to take a few minutes before the main focus of my sermon, to address the powerful images found &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/08/08/august-3-2025-the-rev-canon-britt-olson/" aria-label="August 3, 2025 &#8212; The Rev Canon Britt Olson">Read More</a></p>

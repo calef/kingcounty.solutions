@@ -1,6 +1,6 @@
 ---
 date: '2025-08-27T17:58:11+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 data-start="308" data-end="340">From One District to Another</h2>

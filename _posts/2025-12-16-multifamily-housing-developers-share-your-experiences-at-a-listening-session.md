@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T17:27:15+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Commerce will host listening sessions on Dec. 18 and 19 on Teams</strong></p>

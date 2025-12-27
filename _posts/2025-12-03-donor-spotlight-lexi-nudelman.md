@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T21:27:50+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2><strong>Donor Spotlight: Lexi Nudelman &#8211; A Legacy of Care</strong></h2>

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-23T00:58:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Loyal Heights Community Center still has space in several winter classes
   and programs! Don’t miss your chance—check out the available options and sign up

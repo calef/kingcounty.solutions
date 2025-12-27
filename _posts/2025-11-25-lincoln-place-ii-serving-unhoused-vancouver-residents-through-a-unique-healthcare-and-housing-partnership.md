@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T19:28:26+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="has-medium-font-size"><strong>Apple Health and Homes dollars will help house residents who benefit from supportive services after experiencing homelessness</strong></p>

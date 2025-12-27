@@ -1,6 +1,6 @@
 ---
 date: '2025-08-13T21:29:53+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>“By writing this poem, I found freedom.”</h2>

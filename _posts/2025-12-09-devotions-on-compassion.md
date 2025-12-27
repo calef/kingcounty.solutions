@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T00:11:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n<div><div><div><div><div><div></div></div></div></div></div></div>\n<div><div><div>\n<div><div><div>\n\t<div>\n\t\t\n\t\t<figure>\n\t\t\t<div><img
   src=\"https://samaritanps.org/wp-content/uploads/Holiday-Appeal-2025-Photo-450x300.png\"></div>\n\t\t</figure>\n\t</div>\n</div></div></div>\n<div><div><div>\n\t<div>\n\t\t<div>\n\t\t\t<h4><span>Praise

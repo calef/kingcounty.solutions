@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T00:00:11+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Sound Transit recently issued a Notice of Intent to Award to MSC and
   our housing development partner, Shelter Resources Inc., to develop approximately

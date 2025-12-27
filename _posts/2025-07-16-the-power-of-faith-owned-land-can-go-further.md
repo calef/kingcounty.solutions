@@ -1,6 +1,6 @@
 ---
 date: '2025-07-16T22:09:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Developing affordable housing is a years-long, multi-step process, but the changes the City of Bellevue has made to update land-use code is<span class="excerpt-hellip"> […]</span></p>

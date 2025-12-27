@@ -1,6 +1,6 @@
 ---
 date: '2025-11-13T00:48:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Alysun Deckert and Mike Bailey are caring neighbors! And they inspire, lead, and collaborate with many other caring neighbors to provide a lovingly prepared dinner meal for families and individuals at Compass Broadview.  </p>

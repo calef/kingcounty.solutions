@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Army Veteran Jim Williams is now leading a healthier life</h2>

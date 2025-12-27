@@ -1,6 +1,6 @@
 ---
 date: '2025-10-01T16:59:49+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>The Seattle Times recently published an article <em><a href="https://www.seattletimes.com/seattle-news/politics/how-a-seattle-immigration-leader-is-reacting-to-trumps-agenda/">How a Seattle immigration leader is reacting to Trump’s agenda</a></em> highlighting how a local Seattle immigration leader, Hamdi Mohamed is responding to shifting federal agendas. The piece talks about what many of us know well &#8211; when national policies change, immigrant and refugee families feel the impact, from job insecurity to fear of family separation.</p>

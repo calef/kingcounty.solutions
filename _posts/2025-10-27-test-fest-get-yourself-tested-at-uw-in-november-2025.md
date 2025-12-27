@@ -1,6 +1,6 @@
 ---
 date: '2025-10-27T17:25:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Husky Health Center and ASUW are excited to bring a free event available to ALL UW Seattle campus students. More than 70% of chlamydia and gonorrhea cases can go undetected.* Don’t Wait Until Symptoms Begin. Get Yourself Tested Before They Start. &gt; When: November 4th through 18th, 2025 &gt; Where: Husky Health Center &gt; Who: Available for all currently enrolled University of Washington…</p>

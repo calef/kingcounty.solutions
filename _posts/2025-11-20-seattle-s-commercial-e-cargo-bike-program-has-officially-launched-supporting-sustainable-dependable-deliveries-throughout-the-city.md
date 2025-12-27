@@ -1,6 +1,6 @@
 ---
 date: '2025-11-20T19:20:57+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Blog stats: 1,200 words &#124; 6-minute read Summary: Addressing the
   challenge of more deliveries in Seattle In the Puget Sound region, deliveries of

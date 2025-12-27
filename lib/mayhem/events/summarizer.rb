@@ -224,8 +224,8 @@ module Mayhem
         if should_unpublish
           @event_pruner.unpublish(file_path, document)
           if generated_from_post
-            event_slug = File.basename(file_path, '.md')
-            removed_refs = remove_event_references(event_slug)
+            event_id = File.basename(file_path)
+            removed_refs = remove_event_references(event_id)
             stats[:events_unlinked] += removed_refs if removed_refs&.positive?
           end
         end
@@ -308,23 +308,23 @@ module Mayhem
         nil
       end
 
-      def remove_event_references(event_slug)
+      def remove_event_references(event_id)
         updated_posts = 0
         Dir.glob(File.join(POSTS_DIR, '*.md')).each do |post_path|
           document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
           next unless document
 
           front_matter = document.front_matter
-          events = front_matter['events']
-          next unless events.is_a?(Array)
-          next unless events.include?(event_slug)
+          event_ids = front_matter['event_ids']
+          next unless event_ids.is_a?(Array)
+          next unless event_ids.include?(event_id)
 
-          updated_events = events.reject { |id| id == event_slug }
-          front_matter['events'] = updated_events.empty? ? [] : updated_events
+          updated_events = event_ids.reject { |id| id == event_id }
+          front_matter['event_ids'] = updated_events.empty? ? [] : updated_events
           document.front_matter = front_matter
           document.save
           updated_posts += 1
-          @logger.info "Removed event #{event_slug} from #{post_path}"
+          @logger.info "Removed event #{event_id} from #{post_path}"
         end
         updated_posts
       end

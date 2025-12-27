@@ -1,6 +1,6 @@
 ---
 date: '2025-07-08T23:12:58+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>The DJC reported last spring that St. Andrew&#8217;s Lutheran Church in Bellevue was exploring the possibility of co-developing a large affordable housing<span class="excerpt-hellip"> […]</span></p>

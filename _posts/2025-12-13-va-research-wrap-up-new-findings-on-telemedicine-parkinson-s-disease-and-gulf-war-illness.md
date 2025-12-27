@@ -1,6 +1,6 @@
 ---
 date: '2025-12-13T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>VA’s Office of Research and Development recently published three <a>News Briefs</a> highlighting research finding on telemedicine use in nursing homes, the effect of obstructive sleep apnea on Parkinson’s disease risk and Gulf War illness.</p>

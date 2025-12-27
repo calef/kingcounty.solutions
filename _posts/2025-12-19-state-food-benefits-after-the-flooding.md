@@ -1,6 +1,6 @@
 ---
 date: '2025-12-19T03:47:01+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Disaster Cash Assistance is available Dec. 17, 2025, to Jan. 15, 2026,
   for eligible households affected by flooding in specific counties. Those counties

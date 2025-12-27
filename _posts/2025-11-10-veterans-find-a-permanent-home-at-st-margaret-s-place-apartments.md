@@ -1,6 +1,6 @@
 ---
 date: '2025-11-10T22:30:52+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This November, Catholic Community Services’ (CCS)&nbsp;St. Margaret’s&nbsp;Place&nbsp;Apartments celebrates two years since opening, and residents who&nbsp;moved in at opening are celebrating two years of permanent affordable housing.&nbsp;&nbsp;</p>

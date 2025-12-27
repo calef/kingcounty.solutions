@@ -1,6 +1,6 @@
 ---
 date: '2025-09-23T22:31:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The City of Seattle Human Services Department announced today the launch
   a Request for Proposals (RFP) process that will provide nearly $15 million to advance

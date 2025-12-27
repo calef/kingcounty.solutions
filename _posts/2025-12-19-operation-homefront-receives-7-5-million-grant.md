@@ -1,6 +1,6 @@
 ---
 date: '2025-12-19T14:16:39+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>s</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>

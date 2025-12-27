@@ -1,6 +1,6 @@
 ---
 date: '2025-08-12T18:29:01+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Last month, Recycle &amp; Reuse Director Steve Gadingan<a href="https://bikeworks.org/steves-manifesto/"> wrote an essay</a> about the increasingly wasteful bicycle industry and the concept of a forever bike, a bike that is resistant to wear and tear and if treated well, will last, well, forever. What follows is the story of a Bike Works customer and his purple forever bike. </strong></p>

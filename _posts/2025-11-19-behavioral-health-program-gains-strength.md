@@ -1,6 +1,6 @@
 ---
 date: '2025-11-19T21:38:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>As one of the nation’s leading philanthropic initiatives, Bank of America’s Neighborhood Builders program strengthens nonprofit leadership nationwide and supplies multiyear flexible funding annually to organizations driving community impact.</p>

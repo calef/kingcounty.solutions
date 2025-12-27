@@ -1,6 +1,6 @@
 ---
 date: '2025-08-29T18:14:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Location:</strong>
   Vashon<br /><strong>Schedule:</strong> Tuesday mornings<br /><strong>Duration:</strong> Ongoing<br

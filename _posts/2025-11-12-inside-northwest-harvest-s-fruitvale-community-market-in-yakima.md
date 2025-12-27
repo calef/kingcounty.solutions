@@ -1,6 +1,6 @@
 ---
 date: '2025-11-12T00:01:32+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>[KING5] A look inside Northwest Harvest’s Fruitvale Community Market in Yakima, as the need for food assistance grows across the country.</p>

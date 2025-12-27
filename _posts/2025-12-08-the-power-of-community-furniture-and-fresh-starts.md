@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T18:43:40+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>At Mary’s Place, our mission is simple but urgent: <strong>ensure
   that no child sleeps outside</strong>. Every day, we work toward that vision through

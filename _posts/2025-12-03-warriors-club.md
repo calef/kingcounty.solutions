@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T14:03:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>For more than a century,
   DAV has stood strong for America’s veterans and their families. T<strong>hat strength

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-11T20:15:06+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>The Snoqualmie River is still at Phase 4 (severe flooding) with some residential areas experiencing dangerously high velocities and flooding of homes. The South Fork Skykomish River and Issaquah Creek are at Phase 3 (moderate flooding). The Tolt River is at Phase 2 (minor flooding). As we’ve experienced throughout this event, Issaquah Creek and the Tolt River can rise and change rapidly, so if you live in this area, please continue to be alert.</p>

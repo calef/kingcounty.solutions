@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T22:37:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: As the days grow shorter and Seattle settles into its season of clouds
   and early sunsets, many of us start to feel our energy dip. For older adults especially,

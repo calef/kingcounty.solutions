@@ -1,6 +1,6 @@
 ---
 date: '2025-08-20T14:45:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" width="1200" height="1553" src="https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline-scaled-1-1200x1553.png" alt="" class="wp-image-9378" srcset="https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline-scaled-1-1200x1553.png 1200w, https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline-scaled-1-309x400.png 309w, https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline-scaled-1-768x994.png 768w, https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline-scaled-1-1187x1536.png 1187w, https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline-scaled-1-1582x2048.png 1582w, https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline-scaled-1.png 1978w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>

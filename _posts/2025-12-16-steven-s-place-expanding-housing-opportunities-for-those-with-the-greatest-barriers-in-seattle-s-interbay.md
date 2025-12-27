@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T17:31:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>A new multifamily property located in Seattle’s Interbay neighborhood will provide 109 studio units and five respite units for those recovering from inpatient medical care.</p>

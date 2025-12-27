@@ -1,6 +1,6 @@
 ---
 date: '2025-12-05T19:06:48+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>As part of our ambitious 4DX goals, Mercy Housing embarked on the 4DX Toilet Flapper Replacement project early this year. This initiative aimed to replace all toilet flappers across the entire portfolio. While toilet flappers may not seem significant, their performance has a surprisingly large impact on water consumption. Leaking or aging flappers are one of the most common causes of water waste in buildings, often going unnoticed until significant losses have already occurred.</p>

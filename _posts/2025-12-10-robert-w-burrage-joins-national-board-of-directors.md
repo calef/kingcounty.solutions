@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T11:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Robert W. Burrage Joins Operation Homefront’s National Board of Directors</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>

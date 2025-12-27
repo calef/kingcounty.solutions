@@ -1,6 +1,6 @@
 ---
 date: '2025-11-04T20:06:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>[Seattle’s Child] Local restaurants, organizations, and community members have launched into action, organizing grassroots efforts to make sure that anyone who needs food can access it.</p>

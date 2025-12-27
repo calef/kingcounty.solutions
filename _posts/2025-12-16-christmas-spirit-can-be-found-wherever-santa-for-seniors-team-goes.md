@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T22:51:25+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\t<h1>Christmas
   spirit can be found wherever Santa for Seniors team goes</h1>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p>By

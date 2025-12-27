@@ -1,6 +1,6 @@
 ---
 date: '2025-09-03T15:25:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Media Contacts:</strong><br />

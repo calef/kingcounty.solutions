@@ -1,6 +1,6 @@
 ---
 date: '2025-07-07T20:23:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: <p class="">As of July 7, 2025 Essentials First Redmond has re-located
   to a different area of The Together Center. </p><p class="">Th Essentials First

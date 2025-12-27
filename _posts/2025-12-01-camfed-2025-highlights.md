@@ -1,6 +1,6 @@
 ---
 date: '2025-12-01T09:19:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Thank you to everyone who supported CAMFED in 2025. You have helped us navigate a year marked by uncertainty and change. You are part of a powerful movement committed to ensuring that children can learn today, young women can lead tomorrow, and communities can thrive for generations: This year alone, 44,000 school graduates joined our CAMFED Association, meaning there are now 350,000 girls&rsquo;&#8230;</p>

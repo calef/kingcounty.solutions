@@ -1,6 +1,6 @@
 ---
 date: '2025-08-25T21:52:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">This summer, our Hygiene Champions, a group of amazing
   middle and high school students, stepped up to lead a community fundraiser supporting

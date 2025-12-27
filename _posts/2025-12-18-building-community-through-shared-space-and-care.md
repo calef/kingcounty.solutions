@@ -1,6 +1,6 @@
 ---
 date: '2025-12-18T18:31:51+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: At Friends of Youth, we believe community grows stronger when people
   have space to gather, connect, and care for one another. Recently, we were honored

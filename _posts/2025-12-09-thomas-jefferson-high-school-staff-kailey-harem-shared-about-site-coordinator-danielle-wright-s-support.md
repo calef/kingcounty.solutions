@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T07:44:09+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>“We had a big ask, and everyone came through amazingly. Thank you all SO MUCH for your generosity; between the financial and physical contributions, we were able to support 25 families through our Communities in Schools! Ms. D might seem all tough, but she definitely had some big, sappy feelings this morning.<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f600.png"> And if all the food in that one photo isn’t enough, there’s also all the food that went out to 5 ECEAP families last Thursday.” </p>

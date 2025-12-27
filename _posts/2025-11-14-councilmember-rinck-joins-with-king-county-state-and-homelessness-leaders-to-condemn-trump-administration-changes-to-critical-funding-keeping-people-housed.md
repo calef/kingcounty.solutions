@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14T20:14:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Nearly 4,500 Seattle and King County households now stand to lose housing and essential services under the changes to HUD’s Continuum of Care program without regional collaboration and intervention On Tuesday, Nov. 13, the Trump Regime released the long-awaited Notice of Funding Opportunity (NOFO) for the Continuum of Care (CoC) program within the U.S. Department...</p>

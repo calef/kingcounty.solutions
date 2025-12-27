@@ -1,6 +1,6 @@
 ---
 date: '2025-12-14T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Trained caregiver provides care and services</h2>

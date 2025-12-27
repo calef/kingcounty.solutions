@@ -1,6 +1,6 @@
 ---
 date: '2025-12-06T00:33:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">West
   Coast Health Alliance, WA DOH, and Leading National Medical Organizations Continue

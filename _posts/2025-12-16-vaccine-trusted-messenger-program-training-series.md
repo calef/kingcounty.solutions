@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T16:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The Washington Department of Health announces the launch of the first
   module in the Trusted Messenger Program Training Series, titled “Maximizing Trust

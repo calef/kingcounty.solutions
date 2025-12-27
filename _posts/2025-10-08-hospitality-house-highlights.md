@@ -1,6 +1,6 @@
 ---
 date: '2025-10-08T20:08:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1545" height="2000" src="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1.png" alt="" class="wp-image-3913" srcset="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1.png 1545w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-232x300.png 232w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-791x1024.png 791w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-116x150.png 116w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-768x994.png 768w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-1187x1536.png 1187w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-294x380.png 294w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-425x550.png 425w" sizes="(max-width: 1545px) 100vw, 1545px" /></figure>

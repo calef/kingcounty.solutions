@@ -1,6 +1,6 @@
 ---
 date: '2025-11-06T02:32:43+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   takes action to address immediate nutrition needs in community</span>\n<span class=\"field

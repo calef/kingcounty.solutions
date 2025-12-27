@@ -1,6 +1,6 @@
 ---
 date: '2025-12-04T19:45:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="has-medium-font-size">Ballmer Group and the Bezos Family Foundation co-fund state Child Care Partnership planning grants to support 13 local organizations serving communities with limited child care options</p>

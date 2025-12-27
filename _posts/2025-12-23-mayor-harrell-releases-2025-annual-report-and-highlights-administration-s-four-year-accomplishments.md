@@ -1,6 +1,6 @@
 ---
 date: '2025-12-23T22:30:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Seattle – Today, Mayor Bruce Harrell released summary reports detailing
   his administration’s achievements in 2025 and accomplishments over the last four

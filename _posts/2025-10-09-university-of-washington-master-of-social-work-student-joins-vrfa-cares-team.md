@@ -1,6 +1,6 @@
 ---
 date: '2025-10-09T16:13:30+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Join us in welcoming Emily Robinson to the VRFA CARES Team!

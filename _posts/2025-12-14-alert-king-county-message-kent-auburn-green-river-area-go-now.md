@@ -1,6 +1,6 @@
 ---
 date: '2025-12-14T07:52:37+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Hello, This is King County Emergency Management. As of Saturday evening,
   December 13, residents in the Kent/Auburn border area on the Green River are advised

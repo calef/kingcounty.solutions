@@ -1,6 +1,6 @@
 ---
 date: '2025-10-28T22:00:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>The ongoing federal government shutdown is putting thousands of families right here in Seattle in jeopardy. Hundreds of thousands of low-income Washingtonians could lose access to food benefits in just [&#8230;]</p>

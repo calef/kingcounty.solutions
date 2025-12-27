@@ -1,6 +1,6 @@
 ---
 date: '2025-11-08T02:05:48+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Weekend Service Impacts Route 181 will be rerouted off of E Main Street
   in Downtown Auburn on Saturday, November 8 from 5 a.m. to 4 p.m. during the Veterans

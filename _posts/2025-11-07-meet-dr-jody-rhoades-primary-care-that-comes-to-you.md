@@ -1,6 +1,6 @@
 ---
 date: '2025-11-07T18:36:41+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h3><strong>Wherever Life Takes You, Care Is Just a Click Away</strong></h3>

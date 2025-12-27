@@ -26,10 +26,9 @@ module Mayhem
         self['date']
       end
 
-      # TODO: change from events to event_ids and add events def that looks up the events by their id;
-      # although we may want to rename to event.token to avoid confusion with FMRepo ids.
-      def events
-        self['events'] || []
+      # TODO: add events def that looks up the events by their id
+      def event_ids
+        self['event_ids'] || []
       end
 
       def events_extracted

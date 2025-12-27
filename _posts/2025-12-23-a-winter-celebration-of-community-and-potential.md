@@ -1,6 +1,6 @@
 ---
 date: '2025-12-23T23:45:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Upward Bound scholars and families gather to learn about college opportunities
   and celebrate the holiday season On December 19, scholars from Garfield and Rainier

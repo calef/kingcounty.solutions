@@ -1,7 +1,7 @@
 ---
 date: '2025-12-10T18:32:59+00:00'
-events:
-- 2026-01-01-behavioral-health-support-groups-for-youth-and-caregivers
+event_ids:
+- 2026-01-01-behavioral-health-support-groups-for-youth-and-caregivers.md
 events_extracted: true
 feed_content: Odessa Brown Children's Clinic offers behavioral health groups for youth
   and caregivers starting in 2026. Groups include Behavioral Activation for teens,

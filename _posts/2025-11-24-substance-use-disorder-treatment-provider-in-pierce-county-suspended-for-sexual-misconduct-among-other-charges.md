@@ -1,6 +1,6 @@
 ---
 date: '2025-11-24T23:23:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Substance use disorder treatment provider in Pierce County suspended for sexual misconduct among other charges</span>

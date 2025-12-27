@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Wounds, opioids and addiction treatment for WWI Veterans</h2>

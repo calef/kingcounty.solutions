@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14T17:47:46+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Program:</strong> Meals on Wheels<br />

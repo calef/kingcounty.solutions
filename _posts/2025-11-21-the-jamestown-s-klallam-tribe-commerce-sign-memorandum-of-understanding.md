@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T19:45:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="has-medium-font-size">MOU will memorialize government-to-government relations between the sovereign nation and state agency</p>

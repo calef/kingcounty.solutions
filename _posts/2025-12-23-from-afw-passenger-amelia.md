@@ -1,6 +1,6 @@
 ---
 date: '2025-12-23T16:29:17+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>For 17 years, Amelia’s sons, Jamisen and Cian, relied on AFW flights to access the specialized care they needed at Children’s Hospital Los Angeles. Amelia shares their story below, grateful that other families will continue to find hope and support through the gift of flight. </p>

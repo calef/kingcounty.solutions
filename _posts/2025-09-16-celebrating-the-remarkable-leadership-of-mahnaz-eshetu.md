@@ -1,6 +1,6 @@
 ---
 date: '2025-09-16T22:27:24+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>On Wednesday, September 3, 2025, Refugee Women’s Alliance (ReWA) gathered to honor and celebrate the extraordinary contributions of Executive Director, Mahnaz Eshetu, as she prepared for her well-deserved retirement.</p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-11T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>The journey of Sergeant First Class Chris Scott</h2>

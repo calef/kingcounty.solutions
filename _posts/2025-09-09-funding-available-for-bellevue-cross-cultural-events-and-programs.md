@@ -1,6 +1,6 @@
 ---
 date: '2025-09-09T21:16:23+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Funding
   available for Bellevue cross-cultural events and programs</span>\n<span class=\"field

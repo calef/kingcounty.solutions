@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T22:27:41+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Today Councilmember Bob Kettle (District 7), chair of the Public Safety Committee, announced a number of critical public safety priorities included as part of Seattle’s 2026 budget, adopted by the City Council. “Our work on this budget cycle has wrapped up, but my strategic priorities remain steadfast: advancing public safety, port and maritime investment, and advocating for constituents,”...</p>

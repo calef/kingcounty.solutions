@@ -1,6 +1,6 @@
 ---
 date: '2025-08-22T16:23:15+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Celebrate
   Welcoming Week with interactive, cross-cultural events</span>\n<span class=\"field

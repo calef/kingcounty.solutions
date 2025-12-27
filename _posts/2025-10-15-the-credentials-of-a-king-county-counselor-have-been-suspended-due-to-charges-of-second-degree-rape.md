@@ -1,6 +1,6 @@
 ---
 date: '2025-10-15T15:25:57+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">The credentials of a King County counselor have been suspended due to charges of second-degree rape</span>

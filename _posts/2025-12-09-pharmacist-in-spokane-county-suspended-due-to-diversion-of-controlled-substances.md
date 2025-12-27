@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T16:22:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span>Pharmacist in Spokane County suspended due to diversion of controlled substances</span>

@@ -1,6 +1,6 @@
 ---
 date: '2025-07-15T22:18:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>St. Peter’s Methodist Church and Imagine Housing want to build a 108-unit multifamily community at the church’s 4.6-acre property in Bellevue’s Crossroads<span class="excerpt-hellip"> […]</span></p>

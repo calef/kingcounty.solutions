@@ -1,6 +1,6 @@
 ---
 date: '2025-12-02T21:49:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: On November 30th, friends, family, and congregation members along with
   affordable housing supporters, gathered to celebrate the groundbreaking of New Hope

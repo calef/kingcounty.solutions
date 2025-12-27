@@ -1,6 +1,6 @@
 ---
 date: '2025-08-25T19:49:24+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This September, Community Roots Housing is hosting <a href="https://communityrootshousing.org/events/omnivorous/">Omnivorous</a>, our annual tasting benefit celebrating Seattle’s vibrant food scene. The event brings together local bars, bakeries, distilleries, pop-ups, and beloved neighborhood staples to support affordable housing.</p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-15T15:22:02+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div>

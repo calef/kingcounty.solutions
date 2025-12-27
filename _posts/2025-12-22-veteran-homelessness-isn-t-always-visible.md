@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Recognizing the different ways Veteran homelessness presents and how VA services offer pathways to stability</h2>

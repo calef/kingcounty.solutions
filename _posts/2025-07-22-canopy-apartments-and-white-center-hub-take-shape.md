@@ -1,6 +1,6 @@
 ---
 date: '2025-07-22T22:14:40+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Canopy Apartments are a welcoming community rooted in White Center, offering high-quality, affordable housing surrounded by health and family service providers. The community is designed to help individuals and households of all sizes grow, thrive, and feel a sense of belonging.</p>

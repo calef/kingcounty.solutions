@@ -1,6 +1,6 @@
 ---
 date: '2025-12-05T16:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'International Community Health Services (ICHS) is hiring for three
   key positions: Community Health Worker – School Based, Mobile Clinic Coordinator,

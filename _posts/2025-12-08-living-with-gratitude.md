@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T22:00:56+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Complete the form below for instant access to your copy of our free eBook.</p>

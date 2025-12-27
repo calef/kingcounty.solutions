@@ -1,6 +1,6 @@
 ---
 date: '2025-10-15T16:55:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   In 2025, we expanded library hours, streamlined service delivery, and prepared for the replacement of our 20-year-old central sorter machine. The new sorter, arriving in 2026, will use 85% less energy and significantly reduce wait times for materials.&nbsp; In response to community requests, we expanded hours at the Mercer Island, Vashon Island and Sammamish libraries while keeping within our existing operational costs. We also upgraded patron and staff computers at many libraries.&nbsp;

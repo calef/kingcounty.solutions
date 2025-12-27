@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T15:06:50+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>What a wonderful year it has been. As usual, it flies by quickly. I’ve had the good fortune of partnering with the United Way of King County for almost five months. I continue to be impressed by the team’s commitment to the community. We all believe in the value of United Way to the community and want to secure the legacy of this great work for years to come. One of the many things I enjoy…</p>

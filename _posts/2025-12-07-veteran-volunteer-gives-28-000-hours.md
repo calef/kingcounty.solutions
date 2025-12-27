@@ -1,6 +1,6 @@
 ---
 date: '2025-12-07T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Veteran and volunteer gives back through art</h2>

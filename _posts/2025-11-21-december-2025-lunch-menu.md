@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T18:26:03+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: '<figure class="wp-block-image size-large"><img fetchpriority="high"
   decoding="async" width="791" height="1024" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu-791x1024.png"

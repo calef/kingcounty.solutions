@@ -1,6 +1,6 @@
 ---
 date: '2025-06-30T22:39:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">Every day, the King County Family Intake Line, operated
   by Mary’s Place, receives an average of  <strong>50-60 calls from families seeking

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-23T01:51:24+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p><img src=\"https://s14621.pcdn.co/wp-content/uploads/2025/12/VolunteerServices-KIA-RG-12.05.2025-FEATURED-361x255.jpg\"></p><p><span>On
   a recent gray Friday morning in Seattle, Solid Ground’s offices were filled with

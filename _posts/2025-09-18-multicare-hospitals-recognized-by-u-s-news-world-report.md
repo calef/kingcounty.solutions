@@ -1,6 +1,6 @@
 ---
 date: '2025-09-18T18:58:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>TACOMA, Wash. — Six MultiCare Health System hospitals have been recognized by U.S. News &amp; World Report in its 2025–2026 edition of Best Hospitals, earning distinctions in both overall and specialty care:</p>

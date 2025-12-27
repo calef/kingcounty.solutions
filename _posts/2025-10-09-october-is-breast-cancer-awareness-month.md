@@ -1,6 +1,6 @@
 ---
 date: '2025-10-09T15:37:01+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Breast Cancer Awareness Month is a time to reflect, learn, and take action. Every October, communities around the world come together to raise awareness of breast cancer, honor those who have been impacted, and emphasize the importance of early detection. At Snoqualmie Valley Health, we are proud to support this mission by offering advanced screening technology close to home.

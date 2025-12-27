@@ -1,6 +1,6 @@
 ---
 date: '2025-12-01T16:13:53+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Nearly $136,000 in Remedies to 705 Workers For Immediate Release Contact:
   Cynthia Santana/Communications Manager206-256-5219cynthia.santana@seattle.gov Seattle

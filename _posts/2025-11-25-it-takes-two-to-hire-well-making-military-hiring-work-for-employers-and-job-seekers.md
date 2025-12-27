@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>The sharing of non-VA information does not constitute an endorsement
   of products or services by the Department of Veterans Affairs. Veterans should always

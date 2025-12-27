@@ -31,7 +31,7 @@ module Mayhem
       end
 
       def delete(path, document = nil)
-        event_id = File.basename(path, '.md')
+        event_id = File.basename(path)
 
         # If document is provided, collect and prune images
         if document
@@ -64,15 +64,15 @@ module Mayhem
           next unless document
 
           front_matter = document.front_matter
-          events = front_matter['events']
-          next unless events.is_a?(Array)
-          next if events.empty?
+          event_ids = front_matter['event_ids']
+          next unless event_ids.is_a?(Array)
+          next if event_ids.empty?
 
-          original_size = events.size
-          updated_events = events.reject { |event_id| removed_set.include?(event_id) }
+          original_size = event_ids.size
+          updated_events = event_ids.reject { |event_id| removed_set.include?(event_id) }
           next unless updated_events.size < original_size
 
-          front_matter['events'] = updated_events
+          front_matter['event_ids'] = updated_events
           document.front_matter = front_matter
           document.save
           posts_updated += 1

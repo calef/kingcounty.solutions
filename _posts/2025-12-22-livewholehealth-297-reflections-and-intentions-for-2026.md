@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>I don’t know about you, but for me this year has had many ups and downs, and I try to lean on reflection and meditation practices to help me get through it. At the end of the year, I like to reflect on the past year and set intentions for the year ahead. I think about what went well, what didn’t go so well and areas I would like to focus on. I ask myself what I can let go of that no longer serves me to make more room for what does.</p>

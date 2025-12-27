@@ -1,6 +1,6 @@
 ---
 date: '2025-07-15T18:58:32+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><span data-preserver-spaces="true">On June 27, Wellspring&#8217;s Community Room transformed into a place of joy, pride, and tiny capes as 11 young learners marched across the stage in caps, gowns, and superhero masks. It was a momentous day for our 2025 graduates and their families, marking the culmination of their journey in Wellspring&#8217;s Early Learning Center (ELC), where early education meets stability and wraparound support for the whole family.</span></p>

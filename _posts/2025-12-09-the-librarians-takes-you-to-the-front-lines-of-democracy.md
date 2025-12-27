@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T22:51:25+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>“I never imagined that what’s happening right now could ever happen. It didn’t dawn on us that we would come under attack.”</p>

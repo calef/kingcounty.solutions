@@ -1,6 +1,6 @@
 ---
 date: '2025-11-06T20:33:12+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   hires director for human resources and diversity, equity and inclusion work</span>\n<span

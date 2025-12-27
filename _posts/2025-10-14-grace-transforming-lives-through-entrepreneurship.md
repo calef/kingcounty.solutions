@@ -1,6 +1,6 @@
 ---
 date: '2025-10-14T09:46:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>7 minute read My story is not just mine &mdash; it represents countless girls and young women across rural Africa. By sharing it, I&rsquo;m proving that disadvantaged girls can rise and transform their communities. Growing up in the rural areas of Chiredzi district in Zimbabwe, life was never easy. I lost both my parents at a young age and found myself on the margins, struggling to make ends meet.</p>

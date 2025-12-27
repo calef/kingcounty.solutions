@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T18:58:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Check out the exciting winter events and teen programs happening at
   your local community centers this season. There’s something fun for everyone! Creative

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-13T18:48:38+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="p1">The holiday season is an intense time of year. There’s a lot of pressure to enjoy yourself, to spend time with people (even if you have a difficult relationship the rest of the year), and to cram your schedule with activities. Many of us have complicated feelings or painful memories about the holidays;<a href="https://www.va.gov/marion-health-care/stories/surviving-the-holidays-how-to-mind-our-mental-health/"><span class="s1"> it is a time of year that has a negative impact</span></a> on the mental health of a lot of people, especially those who already struggle with anxiety and depression.</p>

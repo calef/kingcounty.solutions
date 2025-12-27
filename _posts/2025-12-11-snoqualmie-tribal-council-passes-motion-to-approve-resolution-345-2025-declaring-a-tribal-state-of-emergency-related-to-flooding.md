@@ -1,6 +1,6 @@
 ---
 date: '2025-12-11T03:30:37+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>In an emergency Council Meeting, Tribal Council passed the following motions:</p>

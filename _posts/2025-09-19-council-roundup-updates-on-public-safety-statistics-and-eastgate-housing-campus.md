@@ -1,6 +1,6 @@
 ---
 date: '2025-09-19T23:55:46+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Updates on public safety statistics and Eastgate Housing Campus</span>\n<span

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-10T17:23:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>[Seattle Times] It has been a frenzied week for those who rely on federal benefits to feed themselves and their families — and for the food banks and pantries that provide groceries and meals to thousands of Washingtonians each month.</p>

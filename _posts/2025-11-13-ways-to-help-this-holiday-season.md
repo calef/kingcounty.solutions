@@ -1,6 +1,6 @@
 ---
 date: '2025-11-13T21:41:40+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div id=\"preheader\" style=\"color: transparent; display: none; font-size:
   1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;\"><span

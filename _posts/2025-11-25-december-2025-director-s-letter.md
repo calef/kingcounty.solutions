@@ -1,8 +1,8 @@
 ---
 date: '2025-11-25T16:55:51+00:00'
-events:
-- 2026-01-28-annual-member-meeting
-- 2026-01-05-reopening-after-holiday-closure
+event_ids:
+- 2026-01-28-annual-member-meeting.md
+- 2026-01-05-reopening-after-holiday-closure.md
 events_extracted: true
 feed_content: |-
   <p>Happy Holidays!</p>

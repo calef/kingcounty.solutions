@@ -1,6 +1,6 @@
 ---
 date: '2025-09-02T20:38:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">For weeks, Jaclyn and her son, Tyler, had been experiencing
   homelessness. The summer heat made every day unbearable - there was no escape from

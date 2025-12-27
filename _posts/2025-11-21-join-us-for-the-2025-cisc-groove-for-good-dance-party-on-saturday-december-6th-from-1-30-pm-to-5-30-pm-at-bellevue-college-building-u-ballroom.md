@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T23:44:04+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This high-energy event supports CISC’s Early Learning &amp; Family Resource Programs — and it’s all about dancing your way, at your pace, and having FUN! Enjoy an energizing dance experience and learn new moves from Zumba, line dance, and salsa instructors! We’ll also feature social dance music and designate a portion of the ballroom for open dancing.</p>

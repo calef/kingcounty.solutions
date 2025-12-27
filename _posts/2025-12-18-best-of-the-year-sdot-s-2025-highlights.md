@@ -1,6 +1,6 @@
 ---
 date: '2025-12-18T17:20:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Blog stats: 1,000 words | 5-minute read 2025 was another major year
   for the Seattle Department of Transportation (SDOT) as we served your everyday travel

@@ -1,6 +1,6 @@
 ---
 date: '2025-10-17T21:13:03+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div class="wp-block-uagb-image uagb-block-db8ab62f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" src="https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-4-1.png" alt="" class="uag-image-9367" width="768" height="256" title="Fund Dev Newsletter Banners (4)" loading="lazy" role="img" /></figure></div>

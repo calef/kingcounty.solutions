@@ -1,6 +1,6 @@
 ---
 date: '2025-12-11T23:24:50+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><em><strong>“Anyone who has ever struggled with poverty knows how extremely expensive it is to be poor” – James Baldwin</strong></em></p>

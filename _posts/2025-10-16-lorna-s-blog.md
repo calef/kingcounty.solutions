@@ -1,6 +1,6 @@
 ---
 date: '2025-10-16T17:21:04+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: <p>The post <a href="https://www.kcsarc.org/en/lornas-blog-2/">Lorna&#8217;s
   Blog</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>

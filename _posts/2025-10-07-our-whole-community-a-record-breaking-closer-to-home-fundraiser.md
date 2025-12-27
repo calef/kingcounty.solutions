@@ -1,6 +1,6 @@
 ---
 date: '2025-10-07T16:31:52+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: On September 25, 2025, more than 750 neighbors, partners, and friends of
   Bellwether Housing filled the Westin Seattle ballroom for...

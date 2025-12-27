@@ -1,6 +1,6 @@
 ---
 date: '2025-10-03T21:30:49+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Happy October! <img loading="lazy" decoding="async" height="16" width="16" alt="&#x1f342;" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t89/1/16/1f342.png"> The weather is changing, and so are our needs for residents. Items in bold are things we&#8217;re really low on, our out of! <img loading="lazy" decoding="async" height="16" width="16" alt="&#x1f628;" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t14/1/16/1f628.png"> Here&#8217;s how you can help:</p>

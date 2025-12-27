@@ -1,6 +1,6 @@
 ---
 date: '2025-11-19T18:19:46+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Earlier this year, a new presence at Sacramento’s Empress Tavern turned on the lights in the historic venue with a vision for a neighborhood-centric event space. Alchemist Community Development Corporation, [&#8230;]</p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T21:27:28+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Transforming Age Community,</p>

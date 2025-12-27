@@ -1,6 +1,6 @@
 ---
 date: '2025-09-08T00:00:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Today is the second annual <strong><a href="https://988lifeline.org/988-day/">988 Day</a></strong>, a day of action to raise awareness and excitement about the <a href="https://988lifeline.org/">988 Suicide &amp; Crisis Lifeline</a> (988 Lifeline/988) through creative activities led by communities, organizations, and individuals. This year’s theme, <em>Compassionate Help. Anytime. Anywhere.</em>, conveys what the 988 Lifeline is all about: <strong>empathy, accessibility, and reliability.</strong></p>

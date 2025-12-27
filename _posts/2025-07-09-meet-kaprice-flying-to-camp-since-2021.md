@@ -1,6 +1,6 @@
 ---
 date: '2025-07-09T10:18:49+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>In 2016, then nine-year-old Kaprice was playing outside with his two brothers when he was hit by a speeding car. “He was dragged down the street,” Kaprice’s mother Krista tearfully remembers. Suffering severe burns from road rash and other critical injuries, Kaprice was on life support for a week and spent three months in the hospital. “The first thing the doctor said, recalls Krista, was, ‘Kaprice is a miracle.’”&nbsp;&nbsp;</p>

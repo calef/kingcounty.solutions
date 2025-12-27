@@ -1,6 +1,6 @@
 ---
 date: '2025-12-04T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>At 82 years old, Papa Wong is a man whose life story reflects resilience, service and deep gratitude. </p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T12:00:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>What are the advantages of inpatient mental health treatment?</h2>

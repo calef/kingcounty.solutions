@@ -1,6 +1,6 @@
 ---
 date: '2025-11-18T20:42:57+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The Center for Digital Government (CDG) awarded the City of Seattle
   4th-place honors in the 25th Annual Digital Cities Survey today. Seattle follows

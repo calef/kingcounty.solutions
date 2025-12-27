@@ -1,6 +1,6 @@
 ---
 date: '2025-08-05T19:17:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>In times of crisis–natural disasters, public health emergencies, acts of violence–our first instinct often turns to physical safety: food, water, shelter. But what about emotional safety? How do we prepare our minds and hearts for the unexpected?</h2>

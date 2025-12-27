@@ -1,6 +1,6 @@
 ---
 date: '2025-10-16T04:03:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Grand
   Connection is focus of October Lake to Lake</span>\n<span class=\"field field--name-uid

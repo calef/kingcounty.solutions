@@ -1,6 +1,6 @@
 ---
 date: '2025-10-15T16:13:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="p1">Anxiety symptoms are often loud and impossible to ignore. At its best, <a href="https://www.nimh.nih.gov/health/topics/anxiety-disorders%23:~:text=Anxiety%2520disorder%2520symptoms%2520can%2520interfere%2520with%2520daily,encounters,%2520or%2520refuse%2520to%2520leave%2520their%2520home."><span class="s1">anxiety can keep us alert and prepared</span></a>—like the nerves that sharpen focus before a test or the quick response that helps us avoid danger. But when anxiety lingers too long or shows up too often, it stops being useful. Instead, it becomes disruptive, exhausting, and overwhelming.</p>

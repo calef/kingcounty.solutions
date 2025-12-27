@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T16:49:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'The Public Health&#8211;Seattle &#38; King County Immunizations program
   is hiring for an Administrative Specialist to support their Mobile Vaccine Response

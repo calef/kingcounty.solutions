@@ -1,6 +1,6 @@
 ---
 date: '2025-08-11T11:49:21+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Six graduates in the CAMFED Association of women leaders educated with CAMFED support in Tanzania and Zimbabwe are leading research into how young women build thriving enterprises. Following a rigorous selection process, they recently participated in a week&#x2d;long Youth Researchers Academy in Harare to hone their expertise for qualitative and quantitative research methods.</p>

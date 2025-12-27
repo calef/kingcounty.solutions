@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T18:37:43+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Hello, This is King County Emergency Management. We are evaluating
   impacts from the recent flooding. Please submit an impact survey if you experienced

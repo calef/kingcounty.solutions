@@ -1,6 +1,6 @@
 ---
 date: '2025-12-11T22:03:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>The ‘Tis the Season Holiday Giving Program,</strong> in partnership with our friends at the Boys &amp; Girls Club of Bellevue and Rainier Athletes, is one of our favorite times of the year because it brings community members together in a festive spirit of generosity, celebration, and care.</p>

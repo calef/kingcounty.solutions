@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T20:09:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>Yesterday’s annual Share Your Blessings event brought our community
   together for a shared meal and time well spent Thank you to everyone who joined

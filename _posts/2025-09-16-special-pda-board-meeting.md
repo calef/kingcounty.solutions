@@ -1,6 +1,6 @@
 ---
 date: '2025-09-16T23:12:38+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Community Roots Housing has scheduled a special PDA Board Meeting to be held electronically on Thursday, September 18, 2025, from 9:00 a.m. to 9:30 a.m. The meeting information is below.</p>

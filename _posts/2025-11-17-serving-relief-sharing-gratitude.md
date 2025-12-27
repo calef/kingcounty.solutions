@@ -1,6 +1,6 @@
 ---
 date: '2025-11-17T11:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong><strong>Serving Relief, Sharing Gratitude: Holiday Meals for Military® Helps Families Weather Growing Financial Strain</strong></strong></p>

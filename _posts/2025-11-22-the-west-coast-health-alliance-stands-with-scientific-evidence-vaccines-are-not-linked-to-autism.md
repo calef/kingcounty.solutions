@@ -1,6 +1,6 @@
 ---
 date: '2025-11-22T02:11:19+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">The West Coast Health Alliance Stands with Scientific Evidence: Vaccines Are Not Linked to Autism</span>

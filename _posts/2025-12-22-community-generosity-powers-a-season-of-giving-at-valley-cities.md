@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T21:12:13+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>As seen in the Federal Way Mirror</p>

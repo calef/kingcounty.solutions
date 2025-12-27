@@ -1,6 +1,6 @@
 ---
 date: '2025-09-30T23:05:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>On a cool September morning along the southern waters of Hood Canal,
   the rhythm of paddles striking water carried more than momentum — it carried prayers.

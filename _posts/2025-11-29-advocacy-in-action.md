@@ -1,6 +1,6 @@
 ---
 date: '2025-11-29T00:48:13+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Our advocacy work doesn’t always make headlines, but it has a powerful impact on our clients and community. From early learning to immigrant rights to human services funding, these updates show how coordinated advocacy can create meaningful change. This November, Seattle voters renewed the Families and Education Preschool to Promise (FEPP) Levy for a total ... </p>

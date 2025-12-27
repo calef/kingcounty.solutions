@@ -1,6 +1,6 @@
 ---
 date: '2025-11-13T20:39:26+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Grays Harbor County resident tests preliminarily positive for avian influenza</span>

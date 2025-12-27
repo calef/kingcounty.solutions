@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T19:17:03+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Throughout 2025, Mercy Community Capital (MCC) continued to support developers who were relatively new to affordable housing or had limited access to traditional debt sources.</p>

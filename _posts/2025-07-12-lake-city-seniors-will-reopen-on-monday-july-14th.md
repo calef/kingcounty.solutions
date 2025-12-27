@@ -1,6 +1,6 @@
 ---
 date: '2025-07-12T00:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Lake City Seniors will reopen on Monday, July 14th at 9am for regular programming. We appreciate your understanding and support during our closure. Thank you for being part of our community.</p>

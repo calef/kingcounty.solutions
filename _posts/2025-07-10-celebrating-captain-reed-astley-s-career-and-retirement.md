@@ -1,6 +1,6 @@
 ---
 date: '2025-07-10T15:57:24+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Join us in celebrating Captain Reed Astley as he embarks on his well-deserved retirement from the Valley Regional Fire Authority!

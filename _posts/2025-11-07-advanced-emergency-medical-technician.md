@@ -1,6 +1,6 @@
 ---
 date: '2025-11-07T01:40:28+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"6743\" class=\"elementor
   elementor-6743\" data-elementor-post-type=\"pima_oncampus_prog\">\n\t\t\t\t\t\t<section
@@ -653,14 +653,14 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"6743\" c
   id=\"wp-dom-ready-js\"></script>\n<script type=\"text/javascript\" src=\"https://pmi.edu/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6\"
   id=\"wp-hooks-js\"></script>\n<script type=\"text/javascript\" src=\"https://pmi.edu/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6\"
   id=\"wp-i18n-js\"></script>\n<script type=\"text/javascript\" id=\"wp-i18n-js-after\">\n/*
-  <![CDATA[ */\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\n/*
+  <![CDATA[ */\nwp.i18n.setLocaleData( { 'text direction\x04ltr': [ 'ltr' ] } );\n/*
   ]]&gt; */\n</script>\n<script type=\"text/javascript\" src=\"https://pmi.edu/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14\"
   id=\"wp-a11y-js\"></script>\n<script type=\"text/javascript\" src=\"https://pmi.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1\"
   id=\"jquery-core-js\"></script>\n<script type=\"text/javascript\" src=\"https://pmi.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1\"
   id=\"jquery-migrate-js\"></script>\n<script type=\"text/javascript\" defer='defer'
   src=\"https://pmi.edu/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.10\"
   id=\"gform_json-js\"></script>\n<script type=\"text/javascript\" id=\"gform_gravityforms-js-extra\">\n/*
-  <![CDATA[ */\nvar gf_global = {\"gf_currency_config\":{\"name\":\"U.S. Dollar\",\"symbol_left\":\"$\",\"symbol_right\":\"\",\"symbol_padding\":\"\",\"thousand_separator\":\",\",\"decimal_separator\":\".\",\"decimals\":2,\"code\":\"USD\"},\"base_url\":\"https:\\/\\/pmi.edu\\/wp-content\\/plugins\\/gravityforms\",\"number_formats\":[],\"spinnerUrl\":\"https:\\/\\/pmi.edu\\/wp-content\\/plugins\\/gravityforms\\/images\\/spinner.svg\",\"version_hash\":\"e3a8e33011d3ac95037346f7e5f5b35f\",\"strings\":{\"newRowAdded\":\"New
+  <![CDATA[ */\nvar gf_global = {\"gf_currency_config\":{\"name\":\"U.S. Dollar\",\"symbol_left\":\"$\",\"symbol_right\":\"\",\"symbol_padding\":\"\",\"thousand_separator\":\",\",\"decimal_separator\":\".\",\"decimals\":2,\"code\":\"USD\"},\"base_url\":\"https://pmi.edu/wp-content/plugins/gravityforms\",\"number_formats\":[],\"spinnerUrl\":\"https://pmi.edu/wp-content/plugins/gravityforms/images/spinner.svg\",\"version_hash\":\"e3a8e33011d3ac95037346f7e5f5b35f\",\"strings\":{\"newRowAdded\":\"New
   row added.\",\"rowRemoved\":\"Row removed\",\"formSaved\":\"The form has been saved.
   \ The content contains the link to return and complete the form.\"}};\n/* ]]&gt;
   */\n</script>\n<script type=\"text/javascript\" defer='defer' src=\"https://pmi.edu/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.9.10\"

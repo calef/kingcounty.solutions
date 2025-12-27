@@ -1,6 +1,6 @@
 ---
 date: '2025-07-07T17:00:15+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Rosie's Tiny House Village Grand Opening On July 2nd, a community celebration
   was held to mark the grand re-opening of Rosie’s Village....

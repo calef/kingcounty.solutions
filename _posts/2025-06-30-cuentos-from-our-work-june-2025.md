@@ -1,6 +1,6 @@
 ---
 date: '2025-06-30T14:08:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Seattle No Kings Rally and March</strong> &#8211; June 16th, 2025</p>

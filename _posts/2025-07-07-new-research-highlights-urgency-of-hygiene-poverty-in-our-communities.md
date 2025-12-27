@@ -1,6 +1,6 @@
 ---
 date: '2025-07-07T22:40:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">In their paper “Access to Dignity: Policy and Advocacy
   Opportunities for Ending Hygiene Poverty in Washington State”, the authors explore

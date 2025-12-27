@@ -1,6 +1,6 @@
 ---
 date: '2025-07-03T21:46:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">

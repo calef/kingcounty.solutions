@@ -1,6 +1,6 @@
 ---
 date: '2025-11-13T23:56:29+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>TACOMA, Wash. — MultiCare Health System has awarded $800,000 in grants to 53 nonprofit organizations across Washington state through its Community Partnership Fund grant program, reinforcing its commitment to improving the health and well-being of local communities.</p>

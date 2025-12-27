@@ -1,6 +1,6 @@
 ---
 date: '2025-07-02T14:39:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm in the
   Winter**\n\n![Local elected officials, as well as representatives from the Washington

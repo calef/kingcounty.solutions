@@ -1,6 +1,6 @@
 ---
 date: '2025-11-24T21:56:43+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><a href="https://www.energy.gov/lpo/articles/doe-announces-availability-10-billion-loan-authority-automotive-manufacturing">U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program</a></p>

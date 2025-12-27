@@ -64,12 +64,13 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
 
-    {% if page.events and page.events.size > 0 %}
+    {% if page.event_ids and page.event_ids.size > 0 %}
       <section class="related-events">
         <h2>Related Events</h2>
         <ul>
-          {% for event_id in page.events %}
-            {% assign event_doc = site.events | where: "slug", event_id | first %}
+          {% for event_id in page.event_ids %}
+            {% assign event_path = '_events/' | append: event_id %}
+            {% assign event_doc = site.events | where: "relative_path", event_path | first %}
             {% if event_doc %}
               <li>
                 <a href="{{ event_doc.url | relative_url }}">{{ event_doc.title }}</a>

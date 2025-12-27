@@ -1,6 +1,6 @@
 ---
 date: '2025-09-02T22:51:13+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: There have been recent claims about the work DESC is doing at Bloomside,
   our permanent supportive housing site in Burien. We want to make sure our supporters

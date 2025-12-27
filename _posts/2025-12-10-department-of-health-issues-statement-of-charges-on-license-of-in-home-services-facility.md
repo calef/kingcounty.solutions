@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T19:30:02+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span>Department of Health issues statement of charges on license of
   in-home services facility</span>\n\n            <div>\n<time>December 10, 2025 -

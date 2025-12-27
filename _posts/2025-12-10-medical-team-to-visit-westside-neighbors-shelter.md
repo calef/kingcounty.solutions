@@ -1,7 +1,7 @@
 ---
 date: '2025-12-10T20:07:09+00:00'
-events:
-- 2026-01-03-medical-care-at-american-legion-hall
+event_ids:
+- 2026-01-03-medical-care-at-american-legion-hall.md
 events_extracted: true
 feed_content: |-
   <p>Great news! Harborview Medical Center Street Medicine will provide medical care to our clients at the American Legion Hall on the following dates:</p>

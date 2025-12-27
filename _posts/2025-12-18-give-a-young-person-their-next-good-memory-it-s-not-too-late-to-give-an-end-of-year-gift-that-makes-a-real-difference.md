@@ -1,6 +1,6 @@
 ---
 date: '2025-12-18T19:02:21+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Food is more than nourishment—it’s memory, dignity, and hope . For Sam,
   his first holiday without a home could have been unbearably lonely. But at Friends of

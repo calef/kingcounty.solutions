@@ -1,6 +1,6 @@
 ---
 date: '2025-08-26T16:56:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>At its heart, <a href="https://kcdrc.org/core/">CoRE™</a>, Conflict Resolution for Everyone, is about people. The emphasis is on everyone. Each person brings their own history, values, and lived experiences into the room. When we slow down, listen, and learn from each other, conflict resolution becomes less about fixing problems and more about building understanding.</p>

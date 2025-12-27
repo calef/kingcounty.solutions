@@ -1,6 +1,6 @@
 ---
 date: '2025-10-28T19:30:17+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This year, state legislators made major cuts to many critical statewide early learning programs, leaving countless children and families without access to high-quality care. However, Seattle voters still have the opportunity to protect and expand early learning opportunities within the city by renewing the Family, Education, Preschool, and Promise (FEPP) levy in November.</p>

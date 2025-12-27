@@ -1,6 +1,6 @@
 ---
 date: '2025-08-22T05:55:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   _By Annika Hauer, ELAP Intern_

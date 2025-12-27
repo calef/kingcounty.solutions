@@ -1,6 +1,6 @@
 ---
 date: '2025-11-18T18:35:50+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>[Non Stop Local – Yakima] Northwest Harvest, a nonprofit founded in 1967, has been making significant strides in combating food insecurity across Washington. The organization distributed over 20 million pounds of food in the 2024 fiscal year.</p>

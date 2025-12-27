@@ -1,6 +1,6 @@
 ---
 date: '2025-12-19T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Learn how to navigate the season when you’re already experiencing challenges</h2>

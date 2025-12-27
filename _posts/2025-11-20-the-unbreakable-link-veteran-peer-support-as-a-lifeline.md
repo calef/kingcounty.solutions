@@ -1,6 +1,6 @@
 ---
 date: '2025-11-20T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Because sometimes the best support comes from a peer</h2>

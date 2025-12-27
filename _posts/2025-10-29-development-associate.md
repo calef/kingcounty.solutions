@@ -1,6 +1,6 @@
 ---
 date: '2025-10-29T16:39:23+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Opportunity We are seeking a Development Associate to join our mission-driven team. This role will help drive revenue growth by engaging individual donors, cultivating corporate sponsors, and supporting grant writing efforts. The ideal candidate is organized, proactive, and passionate about fundraising and donor stewardship, and shares our commitment to providing quality, compassionate healthcare to underserved communities […]</p>

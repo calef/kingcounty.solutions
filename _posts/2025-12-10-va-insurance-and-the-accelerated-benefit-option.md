@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>VA has announced an amendment to the <a>Servicemembers’ Group Life Insurance</a> (SGLI), Family SGLI (FSGLI), and Veterans’ Group Life Insurance (VGLI) Accelerated Benefit Option (ABO) <a>regulation</a>.</p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T20:46:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure><a><img src="https://www.compasshousingalliance.org/wp-content/uploads/2025/12/We-are-hiring-FB-Facebook-Post-6.png"></a></figure>

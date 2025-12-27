@@ -1,6 +1,6 @@
 ---
 date: '2025-11-10T18:39:18+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row row\"><div
   class=\"vc_column_container col-md-12\"><div class=\"wpb_wrapper vc_column-inner\">\n\t<div

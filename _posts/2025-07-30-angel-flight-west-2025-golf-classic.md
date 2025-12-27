@@ -1,6 +1,6 @@
 ---
 date: '2025-07-30T12:01:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="768" src="https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-1024x768.jpg" alt="" class="wp-image-61922" style="width:639px;height:auto" srcset="https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-1024x768.jpg 1024w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-300x225.jpg 300w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-768x576.jpg 768w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-1536x1152.jpg 1536w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>

@@ -1,6 +1,6 @@
 ---
 date: '2025-10-31T16:01:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   seeks opioid education and prevention provider </span>\n<span class=\"field field--name-uid

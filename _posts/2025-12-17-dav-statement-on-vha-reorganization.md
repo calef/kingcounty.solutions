@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T18:27:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/uploads/Coleman_Nee_WashingtonPost_Statement.jpg\">DAV
   believes that America’s veterans have earned the right to high-quality, veteran-centric,

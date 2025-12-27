@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T19:29:58+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The Seattle Police Department was proud to join forces with the Seattle
   CARE Department, Accenture, and Operation Warm to bring warmth and hope to students

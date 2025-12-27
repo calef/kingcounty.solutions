@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14T02:54:38+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Council draws $600,000 from its contingency to support urgent community

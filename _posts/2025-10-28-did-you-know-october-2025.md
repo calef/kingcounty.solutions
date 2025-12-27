@@ -1,6 +1,6 @@
 ---
 date: '2025-10-28T21:49:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Indigenous Peoples’ Day Speech</strong> By Paula Matta Marroquin Mapuche </p>

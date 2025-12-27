@@ -1,6 +1,6 @@
 ---
 date: '2025-07-21T22:38:18+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Become
   community facilitator for Affordable Housing Strategy Update</span>\n<span class=\"field

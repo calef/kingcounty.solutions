@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T14:45:18+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_48533\"
   aria-describedby=\"caption-attachment-48533\" style=\"width: 300px\" class=\"wp-caption

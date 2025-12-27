@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T22:26:17+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>As of 1pm on Friday, December 12, 2025, the Snoqualmie River Flood Phase has receded to Phase 2 (Minor flooding with some road closures and increased monitoring).</p>

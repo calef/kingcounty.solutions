@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T16:25:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
   decoding=\"async\" class=\"size-full wp-image-55468 alignleft\" src=\"https://www.dav.org/wp-content/uploads/PBC_Group.jpg\"

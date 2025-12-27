@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T21:44:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/Empty%20Bowls%20photo%20for%20website.jpg">Fundraiser
   for area food banks.

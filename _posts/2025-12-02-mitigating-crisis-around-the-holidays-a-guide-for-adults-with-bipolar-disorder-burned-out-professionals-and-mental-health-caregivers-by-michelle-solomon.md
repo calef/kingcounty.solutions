@@ -1,6 +1,6 @@
 ---
 date: '2025-12-02T21:34:09+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>While holidays and the end of the year are often associated with
   celebration, connection with loved ones, traditions, and planning for the year ahead,

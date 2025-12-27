@@ -38,13 +38,13 @@ class EventsPrunerTest < Minitest::Test
 
   def test_delete_removes_file_and_cleans_post_references
     event_path = write_event('event-1')
-    write_post('post.md', ['event-1'])
+    write_post('post.md', ['event-1.md'])
 
     @pruner.delete(event_path)
 
     refute_path_exists event_path
     updated = Mayhem::FrontMatter::Document.load(File.join(@posts_dir, 'post.md'))
-    assert_empty updated.front_matter['events']
+    assert_empty updated.front_matter['event_ids']
   end
 
   def test_unpublish_removes_images
@@ -77,12 +77,12 @@ class EventsPrunerTest < Minitest::Test
     path
   end
 
-  def write_post(filename, events)
+  def write_post(filename, event_ids)
     front_matter = {
       'title' => 'Test Post',
       'date' => Time.now.utc.iso8601,
       'source_url' => 'https://example.com',
-      'events' => events
+      'event_ids' => event_ids
     }
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))

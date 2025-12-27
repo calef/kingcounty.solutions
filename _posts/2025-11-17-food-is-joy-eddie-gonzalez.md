@@ -1,6 +1,6 @@
 ---
 date: '2025-11-17T20:49:30+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h4>Eddie Gonzalez</h4>

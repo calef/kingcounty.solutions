@@ -1,6 +1,6 @@
 ---
 date: '2025-09-18T01:05:09+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><em>$275,000 invested since 2008 enhances accessibility and independence for Veterans and individuals</em></p>

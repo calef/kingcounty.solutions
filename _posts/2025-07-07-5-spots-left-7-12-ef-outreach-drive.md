@@ -1,6 +1,6 @@
 ---
 date: '2025-07-07T21:55:15+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">Join us for a day of in-person community-building and
   connection! Come help distribute hygiene kits and snack bags to our unhoused neighbors

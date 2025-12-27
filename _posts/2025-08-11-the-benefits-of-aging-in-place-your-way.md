@@ -1,6 +1,6 @@
 ---
 date: '2025-08-11T21:46:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-post-featured-image"><img data-recalc-dims="1" decoding="async" width="704" height="470" src="https://i0.wp.com/soundgenerations.org/wp-content/uploads/iStock-1486141559.jpg?resize=704%2C470&#038;ssl=1" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Senior man playing with dog at home" style="object-fit:cover;" srcset="https://i0.wp.com/soundgenerations.org/wp-content/uploads/iStock-1486141559.jpg?w=1253&amp;ssl=1 1253w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/iStock-1486141559.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/iStock-1486141559.jpg?resize=982%2C655&amp;ssl=1 982w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/iStock-1486141559.jpg?resize=260%2C174&amp;ssl=1 260w" sizes="(max-width: 704px) 100vw, 704px" /></figure>

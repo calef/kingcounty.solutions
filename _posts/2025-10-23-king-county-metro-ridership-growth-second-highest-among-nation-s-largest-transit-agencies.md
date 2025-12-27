@@ -1,6 +1,6 @@
 ---
 date: '2025-10-23T18:04:46+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Marking ongoing positive ridership growth, King County Metro posted
   a silver medal win among the 10 largest transit agencies nationwide. Metro had an

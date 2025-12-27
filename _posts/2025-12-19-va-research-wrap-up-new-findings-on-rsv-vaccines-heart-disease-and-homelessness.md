@@ -1,6 +1,6 @@
 ---
 date: '2025-12-19T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>VA’s Office of Research and Development recently published three <a>News Briefs</a> highlighting research findings on respiratory syncytial virus vaccines, a potential heart disease treatment, and health care for homeless Veterans.</p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-10-29T23:30:23+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>We have all been hit with an unplanned bill or put in an unexpected financial situation at what seems like the worst possible time. When the impact is great enough — especially for those living on low incomes — it can cause someone to miss their next rent payment, or worse: it can kickstart a spiral into homelessness.</p>

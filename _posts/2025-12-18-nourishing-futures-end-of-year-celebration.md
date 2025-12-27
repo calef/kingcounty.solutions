@@ -1,6 +1,6 @@
 ---
 date: '2025-12-18T09:15:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: This month, Friends of Youth hosted our first End-of-Year Celebration  at
   Novelty Hill – Januik Winery , bringing together community members, partners, and

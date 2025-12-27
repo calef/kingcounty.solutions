@@ -1,6 +1,6 @@
 ---
 date: '2025-10-14T20:53:58+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>On October 4, neighbors and friends gathered to celebrate the final Uncork the Night gala, a celebration of wine and giving. </strong>The farewell evening featured wine tastings from renowned local wineries, a spirited auction filled with friendly, competitive bidding, laughter, generosity, and a magnetic energy that filled the room during every toast and paddle raise.</p>

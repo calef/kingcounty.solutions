@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T22:28:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Head to the Library in December for stirring author talks, artist tours, a special community celebration at the Douglass-Truth Branch, a screening of “The Librarians” and more!</p>

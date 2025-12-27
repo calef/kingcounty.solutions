@@ -1,6 +1,6 @@
 ---
 date: '2025-12-18T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>VA offers many ways to manage your care</h2>

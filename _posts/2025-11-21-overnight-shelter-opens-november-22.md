@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T15:09:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="">Westside Neighbors Shelter will open for overnight stays on Saturday, November 22, with some operational changes and a new partnership.</p>

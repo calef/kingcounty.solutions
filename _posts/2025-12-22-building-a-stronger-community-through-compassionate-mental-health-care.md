@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T21:09:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><em><strong>As Seen in Seattle Weekly</strong></em></p>

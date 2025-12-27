@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>A century of service</h2>

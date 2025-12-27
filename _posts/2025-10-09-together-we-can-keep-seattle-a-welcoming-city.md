@@ -1,6 +1,6 @@
 ---
 date: '2025-10-09T21:48:06+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div class="wp-block-image">

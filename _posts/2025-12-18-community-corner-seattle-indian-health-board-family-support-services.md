@@ -1,6 +1,6 @@
 ---
 date: '2025-12-18T19:30:32+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Community Corner highlights the work of Seattle Human Services’ community
   partners in their own words. Our goal is to gather stories and photos that illustrate

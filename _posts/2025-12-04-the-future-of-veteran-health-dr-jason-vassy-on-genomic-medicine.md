@@ -1,6 +1,6 @@
 ---
 date: '2025-12-04T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">The role of genomics in guiding better health decision for Veterans</h2>

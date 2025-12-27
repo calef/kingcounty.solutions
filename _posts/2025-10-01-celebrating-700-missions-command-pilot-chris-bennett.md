@@ -1,6 +1,6 @@
 ---
 date: '2025-10-01T16:23:35+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Chris Bennett joined Angel Flight West on February 6, 2014, completing his orientation just three days later and flying his very first mission on February 14. Since then, he has completed an extraordinary 705 missions, flying a Diamond Star 40 out of San Jose (SJC).&nbsp;</p>

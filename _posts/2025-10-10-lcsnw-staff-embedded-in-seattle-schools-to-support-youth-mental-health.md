@@ -1,6 +1,6 @@
 ---
 date: '2025-10-10T22:37:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"et_pb_section et_pb_section_5 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row

@@ -1,6 +1,6 @@
 ---
 date: '2025-07-07T20:49:10+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Internship and Work-Study Programs </strong></p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-19T18:55:59+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Today, Michelle and Brent have a warm apartment to call home where&nbsp;their&nbsp;9-month-old son&nbsp;has space to play and explore.&nbsp;But less than two years ago,&nbsp;the couple was living unsheltered,&nbsp;battling&nbsp;substance use&nbsp;disorder, and uncertain about their future.&nbsp;Through&nbsp;determination&nbsp;and&nbsp;commitment, they have&nbsp;created&nbsp;stability and security&nbsp;for themselves and their growing family.&nbsp;</p>

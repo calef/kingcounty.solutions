@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>VA’s Office of Research and Development recently published three <a>News Briefs</a> highlighting research advances on a potential new treatment for gastric cancer, the needs of Veterans with chronic kidney disease and multiple sclerosis.</p>

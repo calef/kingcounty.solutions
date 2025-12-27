@@ -1,6 +1,6 @@
 ---
 date: '2025-09-29T17:26:58+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Equity and inclusion live in our daily choices, our relationships, and
   the way we show up for one another .   Across our community,...

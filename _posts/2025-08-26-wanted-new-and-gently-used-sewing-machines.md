@@ -1,6 +1,6 @@
 ---
 date: '2025-08-26T21:45:51+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">Sewing machines are needed to accommodate the growing
   number of students in the EF Essential Skills program. </p><p class=\"\">Essential

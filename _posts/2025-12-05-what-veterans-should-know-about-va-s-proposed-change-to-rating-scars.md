@@ -1,6 +1,6 @@
 ---
 date: '2025-12-05T19:53:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>Veterans are guided
   by a mindset of strength and discipline. Going the extra mile in uniform—literally,

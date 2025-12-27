@@ -1,6 +1,6 @@
 ---
 date: '2025-07-08T15:00:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-image aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1030" height="582" src="https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-1030x582.jpg" alt="Backpack Program Maple Valley Food Bank" class="wp-image-1030" style="width:261px;height:auto" srcset="https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-1030x582.jpg 1030w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-300x169.jpg 300w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-768x434.jpg 768w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-1536x868.jpg 1536w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-1500x847.jpg 1500w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-705x398.jpg 705w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2.jpg 1540w" sizes="(max-width: 1030px) 100vw, 1030px" /></figure>

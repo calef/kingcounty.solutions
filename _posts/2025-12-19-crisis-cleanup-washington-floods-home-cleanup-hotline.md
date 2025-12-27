@@ -1,6 +1,6 @@
 ---
 date: '2025-12-19T17:51:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "(844) 965-1386 If you need assistance with damage from the Washington
   Floods, call the number above to ask for help. Crisis Cleanup will connect you with

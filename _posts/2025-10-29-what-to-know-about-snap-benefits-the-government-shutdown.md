@@ -1,6 +1,6 @@
 ---
 date: '2025-10-29T19:51:41+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   ## What to Know About SNAP Benefits & the Government Shutdown

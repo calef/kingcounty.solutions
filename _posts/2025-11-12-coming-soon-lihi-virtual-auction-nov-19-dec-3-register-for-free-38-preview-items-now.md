@@ -1,6 +1,6 @@
 ---
 date: '2025-11-12T22:21:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: LIHI's Virtual Auction  is our big annual public fundraiser for Tiny
   Houses and Urban Rest Stops. Get ready to support these programs and have a blast

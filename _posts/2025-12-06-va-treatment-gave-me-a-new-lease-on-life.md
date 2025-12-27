@@ -1,6 +1,6 @@
 ---
 date: '2025-12-06T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">93-year-old Virginia Veteran is home and thriving after VA treatment</h2>

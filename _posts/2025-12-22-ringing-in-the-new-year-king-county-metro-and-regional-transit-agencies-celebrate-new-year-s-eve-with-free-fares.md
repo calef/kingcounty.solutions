@@ -1,7 +1,7 @@
 ---
 date: '2025-12-22T18:34:13+00:00'
-events:
-- 2025-12-31-free-rides-on-new-years-eve
+event_ids:
+- 2025-12-31-free-rides-on-new-years-eve.md
 events_extracted: true
 feed_content: King County Executive Girmay Zahilay announced today that Metro will
   join other regional transit agencies to provide free rides this New Year’s Eve,

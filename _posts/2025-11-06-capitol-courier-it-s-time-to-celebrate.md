@@ -1,6 +1,6 @@
 ---
 date: '2025-11-06T18:49:09+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>We are ecstatic to announce that <strong>Proposal 1 was passed</strong> and the renewal and expansion of the <strong>Family, Education, Preschool, and Promise (FEPP) Levy was approved&nbsp;</strong>by Seattle voters!</p>

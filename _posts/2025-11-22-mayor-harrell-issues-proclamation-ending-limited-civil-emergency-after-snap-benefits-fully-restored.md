@@ -1,6 +1,6 @@
 ---
 date: '2025-11-22T19:41:25+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Mayor Harrell’s directive provided three weeks of emergency food assistance
   totaling up to $3 million in response to SNAP funding uncertainty during federal

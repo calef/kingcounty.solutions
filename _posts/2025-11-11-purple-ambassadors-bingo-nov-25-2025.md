@@ -1,6 +1,6 @@
 ---
 date: '2025-11-11T18:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/Purple-Ambassadors-Bingo-791x1024.png" alt="" class="wp-image-3633"/></figure>

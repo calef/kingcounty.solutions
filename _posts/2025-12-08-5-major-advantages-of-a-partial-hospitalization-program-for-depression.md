@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T14:41:39+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>In a<a><span> partial hospitalization program (PHP) for depression</span></a>, participants spend a full day, often 8-9 hours, in a communal therapeutic setting, five days a week, while spending evenings, overnights, and weekends at home. Treatment typically takes 6-8 weeks, though this may be adjusted based on individual treatment plans.</p>

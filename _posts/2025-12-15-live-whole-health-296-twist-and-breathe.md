@@ -1,6 +1,6 @@
 ---
 date: '2025-12-15T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Nothing to shout about here! Yoga can be a gentle way to stretch and move the body while practicing gentle breathing. Are you ready to give it a try? Join Katie Herring from the VA New York Harbor Health Care System for gentle introduction to yoga.</p>

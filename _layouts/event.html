@@ -146,7 +146,7 @@ END:VCALENDAR
 <article class="event-detail h-event" itemscope itemtype="http://schema.org/Event">
   {% capture event_action %}
 - Set `published: false` in the event front matter so it no longer appears in listings.
-- Check if any posts in `_posts/` have this event in their `events` array and remove those references. If all events are removed from a post, set the `events` array to empty ([]).
+- Check if any posts in `_posts/` have this event in their `event_ids` array and remove those references. If all events are removed from a post, set the `event_ids` array to empty ([]).
 - Remove any image metadata or files that are no longer referenced by any _posts or _events.
   {% endcapture %}
   {% assign event_action = event_action | strip %}

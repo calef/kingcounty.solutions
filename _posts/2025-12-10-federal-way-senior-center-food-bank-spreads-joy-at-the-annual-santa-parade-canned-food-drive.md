@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T18:05:25+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The Federal Way Senior Center Food Bank was proud to join South King
   Fire &amp; Rescue once again for the beloved Santa Parade and Canned Food Drive!

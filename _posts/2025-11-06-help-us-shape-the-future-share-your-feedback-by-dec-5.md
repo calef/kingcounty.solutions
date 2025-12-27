@@ -1,6 +1,6 @@
 ---
 date: '2025-11-06T13:10:00-08:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: <div><p paraid="260982536" paraeid="{d5cba2c4-b8cd-4807-ab49-ea24a892632b}{11}">Sound
   Transit’s 2025 Passenger Experience Survey opens Nov. 6, and we want to hear your

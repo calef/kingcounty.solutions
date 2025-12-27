@@ -1,6 +1,6 @@
 ---
 date: '2025-09-05T20:56:25+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: According to AARP, nearly 80% of adults want to remain in their own
   homes as they grow older—and for good reason. Aging in place supports...

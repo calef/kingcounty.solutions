@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T19:55:09+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="has-text-align-center"><strong>January 14th, 2026</strong><br><strong>8:30am-12:00pm PDT</strong></p>

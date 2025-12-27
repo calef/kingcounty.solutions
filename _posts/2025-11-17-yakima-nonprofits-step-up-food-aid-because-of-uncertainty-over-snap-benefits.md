@@ -1,6 +1,6 @@
 ---
 date: '2025-11-17T17:04:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>[Yakima Herald] For Annaleise Flowers, getting SNAP benefits has been a waiting game. Until recently, Flowers had been receiving $59 a month in Supplemental Nutrition Assistance Program benefits, or food stamps, in Oklahoma.</p>

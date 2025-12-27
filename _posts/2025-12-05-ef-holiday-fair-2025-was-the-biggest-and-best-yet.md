@@ -1,6 +1,6 @@
 ---
 date: '2025-12-05T20:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>Holiday Fair 2025 provided resources, gifts, meals, and community
   for over 400 neighbors and brought together more than 30 community partners to make

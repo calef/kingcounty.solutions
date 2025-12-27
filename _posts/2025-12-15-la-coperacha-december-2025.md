@@ -1,6 +1,6 @@
 ---
 date: '2025-12-15T22:34:10+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<h2>You Have Until January 1 to Give: Light the World with El Centro
   de la Raza</h2>\n\n\n\n<p>The end of the year is a powerful moment to show up for

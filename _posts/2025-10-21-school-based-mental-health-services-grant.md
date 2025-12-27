@@ -1,6 +1,6 @@
 ---
 date: '2025-10-21T14:42:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The SBMH program offers competitive grants of $1,500,000 to State and
   local educational agencies, as well as LEA consortia, to enhance the availability

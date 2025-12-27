@@ -1,6 +1,6 @@
 ---
 date: '2025-09-05T06:45:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   We are unable to meet the current demand in our family law clinics. Help us fill these critical slots by signing up to be a pro bono attorney!

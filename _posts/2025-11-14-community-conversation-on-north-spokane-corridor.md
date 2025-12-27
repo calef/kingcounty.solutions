@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14T10:54:01-08:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: SPOKANE – Public and active transportation users are invited to take
   part in the second season of community conversations surrounding the North Spokane

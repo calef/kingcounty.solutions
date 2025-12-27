@@ -1,6 +1,6 @@
 ---
 date: '2025-10-22T17:06:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Multi-Service Center has been chosen by the Gesa Community Foundation
   as a recipient of Gesa Credit Union’s Local Heroes Grant Award, receiving $10,000

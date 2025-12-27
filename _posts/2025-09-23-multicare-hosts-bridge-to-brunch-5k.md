@@ -1,6 +1,6 @@
 ---
 date: '2025-09-23T16:59:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>SPOKANE, Wash. — MultiCare’s annual Bridge to Brunch 5K run/walk returns for its eighth year on Saturday, Oct. 11, at 8:30 a.m.</p>

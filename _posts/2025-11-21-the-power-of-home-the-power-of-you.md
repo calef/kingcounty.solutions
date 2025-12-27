@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T18:08:40+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This year’s <em>Power of Home</em> celebration was our most successful yet, and it’s all because of you! Together, we had an evening filled with joy, community, and a renewed commitment to ensuring everyone has a stable, affordable place to call home. We raised more than $100,000 to support resident services as we packed the Pantry.</p>

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T19:23:57+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: When SNAP benefits were disrupted November 1 amid the federal shutdown,
   tens of thousands of Seattle residents were suddenly left scared and wondering how

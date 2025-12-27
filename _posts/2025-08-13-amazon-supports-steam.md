@@ -1,6 +1,6 @@
 ---
 date: '2025-08-13T21:03:39+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Partnering with Amazon has significantly enriched ReWA’s Youth Program by integrating advanced robotics into our STEAM curriculum. Through hands-on learning with the Path-Following Robot, students &#8211; many of whom lack access to such technology &#8211; are gaining essential 21st-century skills in coding, engineering, and automation.</p>

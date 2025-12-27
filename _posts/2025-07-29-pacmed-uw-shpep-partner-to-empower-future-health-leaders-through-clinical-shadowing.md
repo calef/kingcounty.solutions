@@ -1,6 +1,6 @@
 ---
 date: '2025-07-29T17:56:12+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure id="attachment_11452" aria-describedby="caption-attachment-11452" style="width: 257px" class="wp-caption alignleft"><img decoding="async" class="wp-image-11452" src="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/UW-SHPEP-225x300.png" alt="" width="257" height="343" /><figcaption id="caption-attachment-11452" class="wp-caption-text">From left to right: <a href="https://www.providence.org/doctors/family-medicine/wa/renton/sonja-maddox-1295732113">Dr. Sonja Maddox</a> with student Jamila Pend Gomez, and student Shalom Ayele with <a href="https://www.providence.org/doctors/family-medicine/wa/renton/soumya-choudhury-1871117754">Dr. Soumya Choudhury</a>.</figcaption></figure>

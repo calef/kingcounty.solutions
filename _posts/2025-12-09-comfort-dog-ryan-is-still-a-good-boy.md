@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T20:19:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Ryan, the Seattle Police Department’s “Comfort Dog,” is still a good
   boy and has been working very hard to take care of his fellow humans here in Seattle. 

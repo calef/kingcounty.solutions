@@ -1,6 +1,6 @@
 ---
 date: '2025-10-06T23:21:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Boze Elementary Students work together through a math worksheet. In
   a project-based learning environment, students are encouraged to lean on one another

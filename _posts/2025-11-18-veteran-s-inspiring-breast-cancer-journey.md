@@ -1,6 +1,6 @@
 ---
 date: '2025-11-18T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>“I was one of those lost souls from a broken family,” said Suzanne Clark, a Navy and Army Veteran and breast cancer survivor. “The military was a way for me to save myself without being a burden to society. It was about survival.”&nbsp;</p>

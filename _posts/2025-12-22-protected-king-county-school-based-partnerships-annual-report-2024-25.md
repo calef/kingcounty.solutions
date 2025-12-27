@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T19:19:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: There is no excerpt because this is a protected post.
 feed_content_checksum: e09bb42c231903f0af8988968926ba3d691ae993

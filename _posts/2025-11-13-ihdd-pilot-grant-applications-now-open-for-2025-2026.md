@@ -1,7 +1,7 @@
 ---
 date: '2025-11-13T19:20:05+00:00'
-events:
-- 2026-01-01-ihdd-pilot-grant-application-deadline
+event_ids:
+- 2026-01-01-ihdd-pilot-grant-application-deadline.md
 events_extracted: true
 feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false

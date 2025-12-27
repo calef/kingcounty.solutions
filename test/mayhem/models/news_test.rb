@@ -15,7 +15,7 @@ class NewsModelTest < Minitest::Test
           'topic_titles' => ['Health Care', 'Education & Learning'],
           'location_titles' => ['King County'],
           'image_checksums' => [],
-          'events' => [],
+          'event_ids' => [],
           'events_extracted' => true,
           'feed_content' => 'Test feed content',
           'feed_content_checksum' => 'feed-checksum',
@@ -35,7 +35,7 @@ class NewsModelTest < Minitest::Test
       assert_equal ['Health Care', 'Education & Learning'], record.topic_titles
       assert_equal ['King County'], record.location_titles
       assert_equal [], record.image_checksums
-      assert_equal [], record.events
+      assert_equal [], record.event_ids
       assert_equal true, record.events_extracted
       assert record.events_extracted?
       assert_equal 'Test feed content', record.feed_content

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T14:52:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
   decoding=\"async\" class=\"alignleft wp-image-55497 size-full\" src=\"https://www.dav.org/wp-content/uploads/VolNewsletter-2025.jpg\"

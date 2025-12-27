@@ -1,6 +1,6 @@
 ---
 date: '2025-08-12T19:10:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Raise a glass! Tickets are officially on sale (and going fast!) for the grand finale of <em><a href="https://www.bellevuelifespring.org/event/uncorkthenight/" target="_blank" rel="noreferrer noopener">Uncork the Night</a></em>. Our final celebration of wine and giving is happening on October 4 at the W Bellevue, and we hope you can make it.</strong></p>

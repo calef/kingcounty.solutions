@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T19:14:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p><!--
   divi:paragraph --><strong>Full-Time, Hourly</strong><br><strong>Reports to: Co-Executive

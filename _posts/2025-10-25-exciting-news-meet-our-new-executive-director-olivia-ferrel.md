@@ -1,6 +1,6 @@
 ---
 date: '2025-10-25T23:27:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>We are pleased to share that <strong>Olivia Ferrel</strong> has
   been appointed as the new Executive Director of Hospitality House.</p>\n\n\n\n<p>Guided

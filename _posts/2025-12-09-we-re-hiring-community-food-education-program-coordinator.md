@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T18:51:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p><!--
   divi:paragraph --><strong>Part-Time (30 hours/week), Temporary (1 year), Benefited</strong><br><strong>Reports

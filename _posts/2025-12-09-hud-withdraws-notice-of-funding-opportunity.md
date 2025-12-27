@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T01:28:17+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>December 10, 2025 KCRHA is indefinitely pausing the local requests for proposals and application submission processes related to the FY2025 Notice of Funding Opportunity (NOFO). On […]</p>

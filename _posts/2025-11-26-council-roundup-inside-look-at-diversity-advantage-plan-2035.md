@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T22:30:52+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Inside look at Diversity Advantage Plan 2035 </span>\n<span class=\"field

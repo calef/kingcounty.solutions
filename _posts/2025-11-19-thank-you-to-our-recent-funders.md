@@ -1,6 +1,6 @@
 ---
 date: '2025-11-19T18:42:47+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>We are grateful for the generous support we’ve received this quarter. Because of your support, our youth are able to realize personal and social change through earning an income, learning [&#8230;]</p>

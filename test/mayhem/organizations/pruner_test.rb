@@ -103,7 +103,7 @@ class OrganizationsPrunerTest < Minitest::Test
 
   def test_prune_organization_content_removes_event_links_from_posts
     write_event('event-1', 'Test Organization')
-    write_post('post-with-event.md', 'Other Organization', events: ['event-1'])
+    write_post('post-with-event.md', 'Other Organization', event_ids: ['event-1.md'])
 
     result = @pruner.prune_organization_content('Test Organization')
 
@@ -111,7 +111,7 @@ class OrganizationsPrunerTest < Minitest::Test
 
     # Verify event link is removed from post
     updated_post = Mayhem::FrontMatter::Document.load(File.join(@posts_dir, 'post-with-event.md'))
-    assert_empty updated_post.front_matter['events']
+    assert_empty updated_post.front_matter['event_ids']
   end
 
   def test_prune_organization_content_no_matches_returns_zero
@@ -145,14 +145,14 @@ class OrganizationsPrunerTest < Minitest::Test
     path
   end
 
-  def write_post(filename, organization_title, image_checksums: [], events: [])
+  def write_post(filename, organization_title, image_checksums: [], event_ids: [])
     front_matter = {
       'title' => 'Test Post',
       'date' => Time.now.utc.iso8601,
       'organization_title' => organization_title,
       'source_url' => 'https://example.com',
       'image_checksums' => image_checksums,
-      'events' => events,
+      'event_ids' => event_ids,
       'published' => true
     }
     path = File.join(@posts_dir, filename)

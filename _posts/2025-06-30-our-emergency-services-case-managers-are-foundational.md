@@ -1,6 +1,6 @@
 ---
 date: '2025-06-30T21:09:53+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Our Compass Housing Alliance emergency services case managers work with our guests to help them achieve their goals. This assistance can take many forms, from housing search assistance to securing vital documents, all while treating each person with dignity and respect.</p>

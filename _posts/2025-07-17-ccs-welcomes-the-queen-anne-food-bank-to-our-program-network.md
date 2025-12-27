@@ -1,6 +1,6 @@
 ---
 date: '2025-07-17T16:42:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>On a warm July afternoon, the Queen Anne Food Bank opens its doors wide to a line of neighbors that winds through the parking lot and down the block. Everyone is welcomed with a smile by Food Bank staff and volunteers, leaving with a nourishing bag of groceries handed to them by a member of the Food Bank team.&nbsp;</p>
