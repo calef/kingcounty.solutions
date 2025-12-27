@@ -6,6 +6,7 @@ CONTAINER_NAME="${DEV_CONTAINER_NAME:-kingcounty-solutions-dev}"
 SSH_PORT="${DEV_CONTAINER_SSH_PORT:-2222}"
 SSH_USER="${DEV_CONTAINER_USER:-developer}"
 SSH_KEY_PATH="${DEV_CONTAINER_SSH_KEY_PATH:-${HOME}/.ssh/id_ed25519}"
+KNOWN_HOSTS_PATH="${DEV_CONTAINER_KNOWN_HOSTS_PATH:-${HOME}/.ssh/known_hosts}"
 SSH_IDENTITY_ARGS=()
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -13,6 +14,30 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 if [ -f "$SSH_KEY_PATH" ]; then
   SSH_IDENTITY_ARGS=(-i "$SSH_KEY_PATH")
 fi
+
+refresh_known_host() {
+  if [ "${DEV_CONTAINER_SSH_REFRESH_HOST_KEY:-true}" != "true" ]; then
+    return 0
+  fi
+
+  if ! command -v ssh-keygen >/dev/null 2>&1; then
+    return 0
+  fi
+
+  local host_entry
+  host_entry="[127.0.0.1]:${SSH_PORT}"
+
+  if ! mkdir -p "$(dirname "$KNOWN_HOSTS_PATH")"; then
+    return 0
+  fi
+
+  if ! touch "$KNOWN_HOSTS_PATH"; then
+    return 0
+  fi
+
+  # Drop stale entries so StrictHostKeyChecking=accept-new can add the current key.
+  ssh-keygen -R "$host_entry" -f "$KNOWN_HOSTS_PATH" >/dev/null 2>&1 || true
+}
 
 if ! command -v podman >/dev/null 2>&1; then
   echo "Error: podman is not installed or not on PATH." >&2
@@ -31,6 +56,8 @@ if [ "$(podman inspect -f '{{.State.Running}}' "$CONTAINER_NAME" 2>/dev/null || 
     exit 1
   fi
 fi
+
+refresh_known_host
 
 SSH_OPTIONS=(
   -p "$SSH_PORT"
