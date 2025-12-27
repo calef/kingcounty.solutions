@@ -2,7 +2,6 @@
 
 require 'fmrepo'
 require_relative 'abstract_content'
-require_relative 'event'
 
 module Mayhem
   module Models
@@ -32,6 +31,7 @@ module Mayhem
       end
 
       def events
+        require_relative 'event'
         event_ids.map do |event_id|
           Event.find(event_id)
         end
