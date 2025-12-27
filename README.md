@@ -61,6 +61,8 @@ The start script prints a generated password if `DEV_CONTAINER_SSH_PASSWORD` is 
 
 The start script also installs your SSH public key for passwordless logins. By default it uses `~/.ssh/id_ed25519.pub`, generating an ed25519 keypair if it doesn't exist. Override the key path with `DEV_CONTAINER_SSH_KEY_PATH`.
 
+If `OPENAI_API_KEY` is set on the host when you run `script/dev-container/start`, the container exports it for all login shells so Codex and the import scripts can use it.
+
 ### SSH into the container
 
 ```sh

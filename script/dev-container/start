@@ -9,6 +9,7 @@ SSH_PORT="${DEV_CONTAINER_SSH_PORT:-2222}"
 SSH_USER="${DEV_CONTAINER_USER:-developer}"
 SSH_KEY_PATH="${DEV_CONTAINER_SSH_KEY_PATH:-${HOME}/.ssh/id_ed25519}"
 SSH_PUBLIC_KEY_PATH="${SSH_KEY_PATH}.pub"
+OPENAI_PROFILE_SCRIPT="/etc/profile.d/dev-container-openai.sh"
 
 if ! command -v podman >/dev/null 2>&1; then
   echo "Error: podman is not installed or not on PATH." >&2
@@ -69,6 +70,28 @@ ensure_passwordless_ssh() {
   fi
 }
 
+configure_openai_api_key() {
+  if [ "$(podman inspect -f '{{.State.Running}}' "$CONTAINER_NAME")" != "true" ]; then
+    return 0
+  fi
+
+  if [ -n "${OPENAI_API_KEY:-}" ]; then
+    local escaped_key
+    if ! escaped_key="$(printf '%s' "$OPENAI_API_KEY" | sed 's/\\/\\\\/g; s/\"/\\\"/g')" ||
+      ! podman exec "$CONTAINER_NAME" sh -c "cat >'$OPENAI_PROFILE_SCRIPT' <<'EOF'
+#!/bin/sh
+export OPENAI_API_KEY=\"$escaped_key\"
+EOF
+chmod 644 '$OPENAI_PROFILE_SCRIPT'"; then
+      echo "Warning: failed to propagate OPENAI_API_KEY into $CONTAINER_NAME." >&2
+    fi
+  else
+    if ! podman exec "$CONTAINER_NAME" rm -f "$OPENAI_PROFILE_SCRIPT"; then
+      echo "Warning: failed to remove OPENAI_API_KEY from $CONTAINER_NAME." >&2
+    fi
+  fi
+}
+
 container_exists=false
 if podman ps -a --format "{{.Names}}" | grep -qx "$CONTAINER_NAME"; then
   container_exists=true
@@ -96,6 +119,7 @@ if [ "$container_exists" = "true" ]; then
   if ! ensure_passwordless_ssh; then
     echo "Skipping SSH key installation; password authentication remains available." >&2
   fi
+  configure_openai_api_key
   echo "SSH: ssh -p ${SSH_PORT} ${SSH_USER}@127.0.0.1"
   exit 0
 fi
@@ -138,6 +162,7 @@ podman run "${PODMAN_ARGS[@]}" "$IMAGE_NAME"
 if ! ensure_passwordless_ssh; then
   echo "Skipping SSH key installation; password authentication remains available." >&2
 fi
+configure_openai_api_key
 
 echo "Container started."
 echo "SSH: ssh -p ${SSH_PORT} ${SSH_USER}@127.0.0.1"

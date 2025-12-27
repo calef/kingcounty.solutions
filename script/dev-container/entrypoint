@@ -10,6 +10,19 @@ export RUBOCOP_CACHE_ROOT="${RUBOCOP_CACHE_ROOT:-/work/tmp}"
 
 USER_NAME="${DEV_CONTAINER_USER:-developer}"
 PASSWORD="${DEV_CONTAINER_SSH_PASSWORD:-}"
+OPENAI_PROFILE_SCRIPT="/etc/profile.d/dev-container-openai.sh"
+
+if [ -n "${OPENAI_API_KEY:-}" ]; then
+  # Make the API key available to login shells when provided.
+  escaped_key="$(printf '%s' "$OPENAI_API_KEY" | sed 's/\\/\\\\/g; s/\"/\\\"/g')"
+  cat >"$OPENAI_PROFILE_SCRIPT" <<EOF
+#!/bin/sh
+export OPENAI_API_KEY="$escaped_key"
+EOF
+  chmod 644 "$OPENAI_PROFILE_SCRIPT"
+else
+  rm -f "$OPENAI_PROFILE_SCRIPT"
+fi
 
 if ! id "$USER_NAME" >/dev/null 2>&1; then
   useradd -m -s /bin/bash "$USER_NAME"
