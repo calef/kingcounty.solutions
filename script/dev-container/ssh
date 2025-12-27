@@ -39,7 +39,7 @@ SSH_OPTIONS=(
 )
 REMOTE_HOST="${SSH_USER}@127.0.0.1"
 if [ "$#" -eq 0 ]; then
-  REMOTE_COMMAND='cd /work && exec ${SHELL:-/bin/bash} -l'
+  REMOTE_COMMAND="cd /work && exec \${SHELL:-/bin/bash} -l"
   exec ssh "${SSH_OPTIONS[@]}" -t "$REMOTE_HOST" "$REMOTE_COMMAND"
 else
   exec ssh "${SSH_OPTIONS[@]}" "$REMOTE_HOST" "$@"
