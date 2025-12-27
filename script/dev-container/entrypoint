@@ -13,6 +13,28 @@ if [ -n "$PASSWORD" ]; then
   echo "${USER_NAME}:${PASSWORD}" | chpasswd
 fi
 
+# Start interactive shells in the workspace root. Ensure login shells also honor /work.
+USER_HOME="$(getent passwd "$USER_NAME" | cut -d: -f6)"
+if [ -n "$USER_HOME" ] && [ -d "$USER_HOME" ]; then
+  ensure_workdir_in_shell() {
+    local shell_file="$1"
+    if [ -z "$shell_file" ]; then
+      return 0
+    fi
+    if [ ! -f "$shell_file" ]; then
+      touch "$shell_file"
+      chown "$USER_NAME":"$USER_NAME" "$shell_file"
+    fi
+    if ! grep -q 'cd /work' "$shell_file"; then
+      printf '\nif [ -d /work ]; then\n  cd /work\nfi\n' >> "$shell_file"
+      chown "$USER_NAME":"$USER_NAME" "$shell_file"
+    fi
+  }
+
+  ensure_workdir_in_shell "$USER_HOME/.bashrc"
+  ensure_workdir_in_shell "$USER_HOME/.profile"
+fi
+
 mkdir -p /var/run/sshd
 ssh-keygen -A >/dev/null
 
