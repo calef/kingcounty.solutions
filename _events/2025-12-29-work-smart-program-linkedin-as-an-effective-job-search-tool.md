@@ -1,18 +1,18 @@
 ---
 end_date: '2025-12-29T15:00:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/","url":"https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/","name":"Work
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/","url":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/","name":"Work
   Smart Program &#8211; LinkedIn as an Effective Job Search Tool - WorkSource Seattle-King
-  County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-21T00:33:02+00:00","description":"&#8220;So
+  County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-21T00:33:08+00:00","dateModified":"2025-12-22T14:34:30+00:00","description":"&#8220;So
   if you attended the &#8220;Introduction to LinkedIn&#8221; workshop and now have
-  the &#8220;perfect profile,&#8221; what happens next?","breadcrumb":{"@id":"https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/"]}]},{"@type":"BreadcrumbList","@id":"https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Work
+  the &#8220;perfect profile,&#8221; what happens next?","breadcrumb":{"@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Work
   Smart Program &#8211; LinkedIn as an Effective Job Search Tool"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Work
   Smart Program &#8211; LinkedIn as an Effective Job Search Tool","description":"&#8220;So
   if you attended the &#8220;Introduction to LinkedIn&#8221; workshop and now have
-  the &#8220;perfect profile,&#8221; what happens next? It&#8217;s important&hellip;","url":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-29T13:00:00-08:00","endDate":"2025-12-29T15:00:00-08:00","@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/#event","mainEntityOfPage":{"@id":"https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/"}}]}</script>
+  the &#8220;perfect profile,&#8221; what happens next? It&#8217;s important&hellip;","url":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-29T13:00:00-08:00","endDate":"2025-12-29T15:00:00-08:00","@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/"}}]}</script>
   <title>Work Smart Program – LinkedIn as an Effective Job Search Tool – WorkSource
   Seattle-King County</title> <a>Skip to main content</a> <header> <div> <div> <div>
   <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li>
@@ -66,25 +66,25 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   go to LinkedIn.com and follow the set-up prompts: email, a <u>new</u> password,
   location, industry, reason for joining, etc. <strong><u>prior to the workshop.</u></strong>
   </div> </div> </div> </section> </div> </section> </div> </div>'
-feed_content_checksum: b92061f14e6246cf76aee81bfcbb3cc0f0133c3e
+feed_content_checksum: d6e805a8929b6093c540ade9ec53fddc1bc64bb0
 image_checksums: []
 location: ''
 location_titles:
 - King County
 organization_title: WorkSource Seattle-King County
 original_source_html: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/","url":"https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/","name":"Work
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/","url":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/","name":"Work
   Smart Program &#8211; LinkedIn as an Effective Job Search Tool - WorkSource Seattle-King
-  County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-21T00:33:02+00:00","description":"&#8220;So
+  County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-21T00:33:08+00:00","dateModified":"2025-12-22T14:34:30+00:00","description":"&#8220;So
   if you attended the &#8220;Introduction to LinkedIn&#8221; workshop and now have
-  the &#8220;perfect profile,&#8221; what happens next?","breadcrumb":{"@id":"https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/"]}]},{"@type":"BreadcrumbList","@id":"https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Work
+  the &#8220;perfect profile,&#8221; what happens next?","breadcrumb":{"@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Work
   Smart Program &#8211; LinkedIn as an Effective Job Search Tool"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Work
   Smart Program &#8211; LinkedIn as an Effective Job Search Tool","description":"&#8220;So
   if you attended the &#8220;Introduction to LinkedIn&#8221; workshop and now have
-  the &#8220;perfect profile,&#8221; what happens next? It&#8217;s important&hellip;","url":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-29T13:00:00-08:00","endDate":"2025-12-29T15:00:00-08:00","@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/#event","mainEntityOfPage":{"@id":"https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/"}}]}</script>
+  the &#8220;perfect profile,&#8221; what happens next? It&#8217;s important&hellip;","url":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-29T13:00:00-08:00","endDate":"2025-12-29T15:00:00-08:00","@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/"}}]}</script>
   <title>Work Smart Program – LinkedIn as an Effective Job Search Tool – WorkSource
   Seattle-King County</title> <a>Skip to main content</a> <header> <div> <div> <div>
   <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li>
@@ -138,7 +138,7 @@ original_source_html: '<div> <div> <section> <title>WorkSource Seattle-King Coun
   go to LinkedIn.com and follow the set-up prompts: email, a <u>new</u> password,
   location, industry, reason for joining, etc. <strong><u>prior to the workshop.</u></strong>
   </div> </div> </div> </section> </div> </section> </div> </div>'
-source_url: https://www.worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1840/
+source_url: https://worksourceskc.org/event/work-smart-program-linkedin-as-an-effective-job-search-tool-1841/
 start_date: '2025-12-29T13:00:00-08:00'
 summarized: true
 title: Work Smart Program – LinkedIn as an Effective Job Search Tool
@@ -146,6 +146,6 @@ topic_titles:
 - Employment & Job Support
 ---
 
-Join the WorkSource Seattle-King County for the "Work Smart Program – LinkedIn as an Effective Job Search Tool" on December 29, 2025, from 1 p.m. to 3 p.m. This online workshop is designed for individuals who have completed the "Introduction to LinkedIn" and want to leverage their profiles for job searching. Participants will learn how to actively use LinkedIn to enhance their job search efforts.
+Join the WorkSource Seattle-King County for the Work Smart Program on Dec. 29 from 1 to 3 p.m. This online workshop, "LinkedIn as an Effective Job Search Tool," is designed for those who have completed the "Introduction to LinkedIn" workshop and want to take their job search to the next level. Attendees will learn how to actively use LinkedIn to enhance their job search strategies.
 
-To attend, you must have a general understanding of computers, internet, and email, as well as access to your LinkedIn account during the session. Registration is required, and a waitlist will be available. Ensure you create a WorkSource account before attending. The workshop will be conducted via Zoom, and access details will be sent via email one day prior. For accommodations, please contact the facilitators in advance.
+Participants should have general computer and internet skills, as well as access to their LinkedIn accounts during the session. If you don’t have a LinkedIn account, please create one before attending. Registration is required, and a waitlist will be available if the event reaches capacity. For more information or accommodation requests, contact Marvin Stern at marvin@tracassoc.com.

@@ -153,6 +153,7 @@ module Mayhem
           if article_text.to_s.empty?
             @logger.warn "Skipping #{file_path}: no usable content to summarize"
             stats[:failed_summary] += 1
+            mark_unsummarizable(document, front_matter)
             return
           end
           if article_text.length > MAX_ARTICLE_CHARS
@@ -290,6 +291,16 @@ module Mayhem
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
         @logger.info "News summarization complete: #{summary_text}"
+      end
+
+      # Ensure required fields are present even when we cannot summarize due to missing content
+      def mark_unsummarizable(document, front_matter)
+        front_matter['summarized'] = true
+        front_matter['topic_titles'] = []
+        front_matter['location_titles'] = []
+        document.front_matter = front_matter
+        document.save
+        @news_pruner.unpublish(document.path, document)
       end
 
       def prefer_fallback_body?(scraped_text, fallback_body)
