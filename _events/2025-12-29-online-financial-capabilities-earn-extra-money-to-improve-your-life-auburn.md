@@ -1,18 +1,18 @@
 ---
 end_date: '2025-12-30T15:30:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/","url":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/","name":"ONLINE
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/","url":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/","name":"ONLINE
   Financial Capabilities: Earn Extra Money to Improve Your Life (Auburn) - WorkSource
-  Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-02T09:17:25+00:00","description":"Class
+  Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-02T09:17:33+00:00","dateModified":"2025-12-27T22:33:52+00:00","description":"Class
   times: 1:30-3:30 pm (Classes are Mondays and Tuesdays)Earn extra money to improve
-  your lifeLearn the pitfalls of debt and ways to increase your","breadcrumb":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  your lifeLearn the pitfalls of debt and ways to increase your","breadcrumb":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
   Financial Capabilities: Earn Extra Money to Improve Your Life (Auburn)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
   Financial Capabilities: Earn Extra Money to Improve Your Life (Auburn)","description":"Class
   times: 1:30-3:30 pm (Classes are Mondays and Tuesdays) Earn extra money to improve
-  your life Learn the pitfalls of&hellip;","url":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-29T13:30:00-08:00","endDate":"2025-12-30T15:30:00-08:00","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/"}}]}</script>
+  your life Learn the pitfalls of&hellip;","url":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-29T13:30:00-08:00","endDate":"2025-12-30T15:30:00-08:00","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/"}}]}</script>
   <title>ONLINE Financial Capabilities: Earn Extra Money to Improve Your Life (Auburn)
   – WorkSource Seattle-King County</title> <a>Skip to main content</a> <header> <div>
   <div> <div> <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff
@@ -60,25 +60,25 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   extra money to improve your life</strong><p>Learn the pitfalls of debt and ways
   to increase your monthly income.</p> </div> </div> </div> </section> </div> </section>
   </div> </div>'
-feed_content_checksum: 8cc4eda372854b1b0c9c0f45c2729ced83bd9ddf
+feed_content_checksum: 1959c3e73bfaa1084564dc64a0815d4b8259c074
 image_checksums: []
 location: ''
 location_titles:
 - King County
 organization_title: WorkSource Seattle-King County
 original_source_html: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/","url":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/","name":"ONLINE
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/","url":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/","name":"ONLINE
   Financial Capabilities: Earn Extra Money to Improve Your Life (Auburn) - WorkSource
-  Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-02T09:17:25+00:00","description":"Class
+  Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-02T09:17:33+00:00","dateModified":"2025-12-27T22:33:52+00:00","description":"Class
   times: 1:30-3:30 pm (Classes are Mondays and Tuesdays)Earn extra money to improve
-  your lifeLearn the pitfalls of debt and ways to increase your","breadcrumb":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  your lifeLearn the pitfalls of debt and ways to increase your","breadcrumb":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
   Financial Capabilities: Earn Extra Money to Improve Your Life (Auburn)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
   Financial Capabilities: Earn Extra Money to Improve Your Life (Auburn)","description":"Class
   times: 1:30-3:30 pm (Classes are Mondays and Tuesdays) Earn extra money to improve
-  your life Learn the pitfalls of&hellip;","url":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-29T13:30:00-08:00","endDate":"2025-12-30T15:30:00-08:00","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/"}}]}</script>
+  your life Learn the pitfalls of&hellip;","url":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-29T13:30:00-08:00","endDate":"2025-12-30T15:30:00-08:00","@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/"}}]}</script>
   <title>ONLINE Financial Capabilities: Earn Extra Money to Improve Your Life (Auburn)
   – WorkSource Seattle-King County</title> <a>Skip to main content</a> <header> <div>
   <div> <div> <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff
@@ -126,7 +126,7 @@ original_source_html: '<div> <div> <section> <title>WorkSource Seattle-King Coun
   extra money to improve your life</strong><p>Learn the pitfalls of debt and ways
   to increase your monthly income.</p> </div> </div> </div> </section> </div> </section>
   </div> </div>'
-source_url: https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-563/
+source_url: https://worksourceskc.org/event/online-financial-capabilities-earn-extra-money-to-improve-your-life-auburn-564/
 start_date: '2025-12-29T13:30:00-08:00'
 summarized: true
 title: 'ONLINE Financial Capabilities: Earn Extra Money to Improve Your Life (Auburn)'
@@ -135,6 +135,6 @@ topic_titles:
 - Financial Assistance
 ---
 
-Join the ONLINE Financial Capabilities workshop series, "Earn Extra Money to Improve Your Life," hosted by WorkSource Seattle-King County. This six-week program begins on December 29, 2025, and runs every Monday and Tuesday from 1:30 p.m. to 3:30 p.m. Participants will learn essential skills to make informed financial decisions, understand the pitfalls of debt, and explore ways to increase their monthly income. Each session is flexible and can be taken individually or combined for a more comprehensive experience.
+Join WorkSource Seattle-King County for an online workshop series, "Financial Capabilities: Earn Extra Money to Improve Your Life," starting December 29, 2025, from 1:30 p.m. to 3:30 p.m. This six-week series meets twice a week, empowering participants to make informed financial decisions and learn strategies to increase monthly income while avoiding common debt pitfalls. Each session is customizable, allowing attendees to combine units for a personalized experience.
 
-To attend, please register in advance, as space is limited. After registration, participants will receive a Zoom link via email. For any accommodations, contact Erik Hontz at erik.hontz@esd.wa.gov. Don't miss this opportunity to enhance your financial capabilities and improve your life.
+To participate, register in advance and create an account at WorkSourceWA.com. If the class is full, waitlisted registrations will be evaluated based on specific criteria. For accommodations, contact Erik Hontz at erik.hontz@esd.wa.gov. Don’t miss this opportunity to enhance your financial skills and improve your life.
