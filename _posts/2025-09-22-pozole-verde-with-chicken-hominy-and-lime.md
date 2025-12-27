@@ -20,7 +20,7 @@ feed_content: '<p class="">Recipe adapted from Ana Sainz</p><p class="">Recipe s
   the cotija cheese and then plate each garnish individually. </p><p class="">Refrigerate
   everything except for the tostadas until ready to serve.</p><p class="">- Garnish
   as desired and enjoy. </p>'
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Rainier Valley Food Bank
 published: false

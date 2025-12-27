@@ -1,12 +1,12 @@
 ---
 date: '2025-12-13T17:20:28+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: As efforts turn from response to recovery after this week’s heavy rain
   and historic floods, King County Emergency Management offers tips and information
   for residents dealing with the aftermath.
 feed_content_checksum: e14d6f2baecdfe18f8c2321db09ce73e001ff725
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

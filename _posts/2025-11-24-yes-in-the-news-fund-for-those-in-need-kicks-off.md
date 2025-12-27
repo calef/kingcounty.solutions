@@ -1,6 +1,6 @@
 ---
 date: '2025-11-24T21:36:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p data-start="213" data-end="640"><em>We’re proud to share that Youth Eastside Services (YES) is once again being featured as one of the nonprofits supported by The Seattle Times Fund for Those in Need campaign. This year’s kickoff article highlights the rising need for services across our region and includes a look at how programs like Latino H.E.A.T. are creating safe, supportive spaces for immigrant youth during a time of growing pressure and uncertainty.</em></p>
@@ -40,7 +40,7 @@ feed_content: |-
   <p>Last year, Roddewig-Díaz took his dad to a Latino HEAT graduation celebration. This year, it’ll be him taking the stage.</p>
   <p><span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.seattletimes.com/seattle-news/fund-for-those-in-need-kicks-off-as-nonprofits-face-year-like-no-others/">Read the full article on The Seattle Times »</a></span></p>
   <p>The post <a href="https://www.youtheastsideservices.org/yes-in-the-news-fund-for-those-in-need-kicks-off/">YES in the News: Fund for Those in Need kicks off</a> appeared first on <a href="https://www.youtheastsideservices.org">Youth Eastside Services</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Youth Eastside Services

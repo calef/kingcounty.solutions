@@ -6,7 +6,7 @@ feed_content: Due to a high volume of requests for information about the specifi
   however it is being updated with accurate information. Addresses can be put into
   the search bar at the […]
 feed_content_checksum: 72a3ccbaab3054251664edc3b19c03adacc72eef
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

@@ -1,13 +1,13 @@
 ---
 date: '2025-10-21T22:24:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: DESC’s innovative new method for administering opioid use disorder treatment
   was published in JAMA Network Open. Assessing the outcomes associated with an injectable-only
   buprenorphine starting protocol in a low-threshold outpatient setting among individuals
   using fentanyl, this study evaluated 95 patients with moderate to severe opioid
   use disorder. The study shows that this new protocol has [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: DESC

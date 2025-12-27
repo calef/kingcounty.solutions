@@ -8,7 +8,7 @@ feed_content: '<p><img fetchpriority="high" decoding="async" class="alignnone si
   791w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/2025-Argosy-Christmas-Ship-Flyer-768x994.jpg
   768w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/2025-Argosy-Christmas-Ship-Flyer-1187x1536.jpg
   1187w" sizes="(max-width: 1275px) 100vw, 1275px" /></p>'
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

@@ -1,6 +1,6 @@
 ---
 date: '2025-09-20T13:29:46+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   - Thanks for attending our Community Resource Extravaganza! Over 350 community members attended and enjoyed food, music, and connection with onsite resources! We will have a brainstorming session at a future TC Advisory Council meeting to discuss what you would like to see at our future annual event.
@@ -10,7 +10,7 @@ feed_content: |-
   - The TC Garage will NOT be closed on Friday 9/19 and Saturday 9/20. The housing team had to shift the dates, the garage closure is now set for November 28 & 29. We will share more information as we get closer to the closure date.
 
   The post [Together Center](https://togethercenter.org/2025/09/20/together-center/) appeared first on [Together Center](https://togethercenter.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Together Center

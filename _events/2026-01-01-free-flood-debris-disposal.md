@@ -2,7 +2,7 @@
 feed_content: King County is offering free flood debris disposal on weekends.
 feed_content_checksum: a86751e81fd52f231d58ab23b56eb64098145302
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: King County
 location_titles:
 - King County

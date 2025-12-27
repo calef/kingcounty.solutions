@@ -5,7 +5,7 @@ feed_content: Earlier this month, the Seattle Police Department’s Harbor Patro
   response effort beginning in October. SPD, along with the Department of Natural
   Resources (DN...
 feed_content_checksum: 63b85f0178322353c2097b1dc89cbf7691eb5638
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

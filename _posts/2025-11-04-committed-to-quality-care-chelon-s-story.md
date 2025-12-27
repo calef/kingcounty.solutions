@@ -1,6 +1,6 @@
 ---
 date: '2025-11-04T20:46:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Chelon Jackson is a child care provider who exemplifies what it means to provide high-quality early learning experiences. Chelon is the owner and preschool teacher at Lovable Nest, an in-home family child care center serving children from birth to age 5. She has been providing care for children in her community for over 30 years.</p>
@@ -117,7 +117,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/11/committed-to-quality-care-chelons-story/">Committed to Quality Care: Chelon’s Story</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: BrightSpark

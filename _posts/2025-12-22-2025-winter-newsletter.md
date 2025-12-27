@@ -3,7 +3,7 @@ date: '2025-12-22T18:49:58+00:00'
 feed_content: The Seattle Office for Civil Rights’ (SOCR) winter newsletter highlights
   our work this year and amplifies civil rights resources for businesses.
 feed_content_checksum: 2598dedc40e7f1bfb46e0af0001188632d507fb7
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -27,7 +27,7 @@ feed_content: |-
   <li aria-setsize="-1" data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="2" data-aria-level="1"><a href="https://seattle.bibliocommons.com/v2/list/display/73413760/2898672365"><span data-contrast="none">Seattle Staff Faves 2025: Kids Chapter Books, Graphic Novels &amp; Nonfiction</span></a><span data-ccp-props="{}"> </span></li>
   </ul>
   <p><span data-contrast="auto">Happy Reading and Sharing!</span><span data-ccp-props="{}"> </span></p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: The Seattle Public Library
 published: false

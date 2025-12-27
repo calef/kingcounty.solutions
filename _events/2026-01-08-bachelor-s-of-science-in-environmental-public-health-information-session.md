@@ -112,7 +112,7 @@ feed_content: '<a> Skip to main content </a> <div> <div> <div> <div> <div> <div>
   Zoom or phone.</p> <p><a>Make an appointment</a></p> </div> </div> </section> </div>
   </div> </section> </div> </section> </div> </div> </div>'
 feed_content_checksum: 241bc6ab07dcfa27c6249d6442cf1b0f7e82af13
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

@@ -48,7 +48,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
   post <a>Remembering Bruce: Portland-based early leader of LCSNW passes away</a>
   appeared first on <a>LCSNW</a>.</p>"
 feed_content_checksum: 6bf3d7deb7b36eaa179febf08b03a859845117a4
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Lutheran Community Services Northwest
 original_source_html: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\t<h1>Remembering

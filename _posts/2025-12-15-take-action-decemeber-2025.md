@@ -1,6 +1,6 @@
 ---
 date: '2025-12-15T22:18:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p></p>\n\n\n\n<p><strong>Take Action: Show Up for Community Change</strong></p>\n\n\n\n<p>Social
   change happens when everyday people show up—<strong>locally, consistently, and together</strong>.
@@ -34,7 +34,7 @@ feed_content: "<p></p>\n\n\n\n<p><strong>Take Action: Show Up for Community Chan
   and heard.</p>\n\n\n\n<p><a>Register here!</a></p>\n\n\n\n<figure><img src=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/12/Free-Pet-Clinic-2-843x707.jpg\"></figure>\n<p>The
   post <a>Take Action: Decemeber 2025</a> appeared first on <a>El Centro de la Raza</a>.</p>"
 feed_content_checksum: 51d9a0d9c19684de07f76766faa6586b847519df
-image_ids:
+image_checksums:
 - a34046900d037876d81650c0aa92ca53519f980497a4fa168cd52f06a8c3c89d
 - ded6c7ca08a3a1ece23872397d3fd9bd37bb407609f69af84b5d32fc7a5bd940
 - 0a895114229c4c1bd7554950699070183ebe385a7d76e51b8145e50728cd4567

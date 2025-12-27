@@ -76,7 +76,7 @@ feed_content: |-
   <p>Do you have an event that you would like to see featured in the ArtSci Roundup? Connect with Lauren Zondag (zondagld@uw.edu).uw.edu).</p>
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 312d52084547d7c0e28ecac829d195c1a8c5085b
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: University of Washington

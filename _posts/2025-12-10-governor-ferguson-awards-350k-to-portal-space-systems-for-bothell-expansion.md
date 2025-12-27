@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T17:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Aerospace company builds the Supernova, the first commercial next-gen spacecraft; expansion will create 700 high-wage jobs over the next five years</p>
@@ -69,7 +69,7 @@ feed_content: |-
 
   <p>Portal Space Systems was founded in 2021 by former SpaceX VP Jeff Thornburg. It is a next-generation spacecraft company headquartered in Bothell, Washington. The company builds reconfigurable, maneuverable spacecraft designed to support defense and commercial missions on operational timelines.</p>
 feed_content_checksum: dbe1772ff7fbb08eeef081965ac38a5d618bd5ed
-image_ids:
+image_checksums:
 - e9484e8618a9a379075b718f16b62e317b0dca407623d59bc579c082784a309b
 - c35028cd60309df26236c1470c9e7ff7d2e2bbe24a2a93a0405b97ffe0912bae
 location_titles:

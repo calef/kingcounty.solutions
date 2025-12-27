@@ -1,13 +1,13 @@
 ---
 date: '2025-12-18T17:20:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Blog stats: 1,000 words | 5-minute read 2025 was another major year
   for the Seattle Department of Transportation (SDOT) as we served your everyday travel
   needs while working to maintain and modernize our city streets, sidewalks, bridges,
   and more....'
 feed_content_checksum: 37969fb524146af11f432eb923fbd1115be8320b
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-13T16:37:17-08:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
   class="field-items"><div class="field-item even" property="content:encoded"><p>Over
@@ -8,7 +8,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   Department of Youth and Family Services (YFS) about the threat to food security
   caused by the reduction in SNAP (Supplemental Nutrition Assistance Program) distributions
   due to the prolonged shutdown of the federal government.  </p></div></div></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Mercer Island

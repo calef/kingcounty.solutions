@@ -1,6 +1,6 @@
 ---
 date: '2025-12-19T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>VA’s Office of Research and Development recently published three <a>News Briefs</a> highlighting research findings on respiratory syncytial virus vaccines, a potential heart disease treatment, and health care for homeless Veterans.</p>
@@ -45,7 +45,7 @@ feed_content: |-
 
   <p>For more Office of Research and Development updates, visit <a>ORD online</a> or go to https://www.research.va.gov/news_briefs/.</p>
 feed_content_checksum: 51587ccbc939eacdde6edb04039ed26579795440
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

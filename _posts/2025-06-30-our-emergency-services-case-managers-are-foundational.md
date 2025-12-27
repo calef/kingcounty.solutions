@@ -1,6 +1,6 @@
 ---
 date: '2025-06-30T21:09:53+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Our Compass Housing Alliance emergency services case managers work with our guests to help them achieve their goals. This assistance can take many forms, from housing search assistance to securing vital documents, all while treating each person with dignity and respect.</p>
@@ -67,7 +67,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.compasshousingalliance.org/2025/06/our-emergency-services-case-managers-are-foundational/">Our emergency services Case Managers are foundational</a> appeared first on <a href="https://www.compasshousingalliance.org">Compass Housing Alliance</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Compass Housing Alliance

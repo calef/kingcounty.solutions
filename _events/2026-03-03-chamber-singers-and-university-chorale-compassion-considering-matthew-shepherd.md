@@ -4,7 +4,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p>Chamber Sing
   and University Chorale collaborate with Seattle University Choirs (Leann Conley-Holcom,
   director) in performing <em>Considering Matthew Shepard,</em> a profound tale of
   discrimination, cruelty, death, yet with themes of hope.</p> <h2> </h2> </div> </div>
-image_ids: []
+image_checksums: []
 location: Meany Hall (MNY)
 location_titles:
 - King County

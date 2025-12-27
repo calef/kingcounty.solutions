@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T12:33:06+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/uploads/JuliusCaregivers_NovDec2025-Mag.png\">Imagine
   being handed the keys to a brand-new sports car with an invitation to drive a couple
@@ -35,7 +35,7 @@ feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/u
   now you have the keys. It’s up to you to put the pedal to the metal.</p>\n\n</div><p>The
   post <a>Take DAV Caregivers Support for a spin</a> appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: 0ca8354ebb1a9aaaf83b4462cceabfe209fd550a
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Disabled American Veterans

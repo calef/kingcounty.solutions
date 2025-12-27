@@ -5,7 +5,7 @@ feed_content: Artists at the Center is a multi-year collaboration between Seattl
   Culture Coalition and the communities adjacent to Seattle Center campus. The project
   is made possib...
 feed_content_checksum: 622f13a3e7ce3d4007376112545e5981f87d3340
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

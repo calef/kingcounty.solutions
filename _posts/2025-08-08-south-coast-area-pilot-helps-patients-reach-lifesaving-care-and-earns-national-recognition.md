@@ -1,6 +1,6 @@
 ---
 date: '2025-08-08T20:51:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>&nbsp;<strong>FOR IMMEDIATE RELEASE&nbsp;</strong></p>
@@ -72,7 +72,7 @@ feed_content: |-
 
 
   <p></p><p>The post <a href="https://angelflightwest.org/news/south-coast-area-pilot-helps-patients-reach-lifesaving-care-and-earns-national-recognition/"> South Coast-Area Pilot Helps Patients Reach Lifesaving Care and Earns National Recognition</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Angel Flight West
 published: false

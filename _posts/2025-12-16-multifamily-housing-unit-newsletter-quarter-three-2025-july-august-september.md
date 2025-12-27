@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T17:30:43+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure><img src="https://www.commerce.wa.gov/wp-content/uploads/2025/12/Fall-sunset-1024x495.jpeg"></figure>
@@ -389,7 +389,7 @@ feed_content: |-
 
   <p><strong>Do you have ideas for this newsletter? </strong>We want to showcase valuable and actionable information relevant to Commerce contractors, perspective developers, property managers, and more! If you have an idea for newsletter content, please <a>email Tim Marshall</a>.</p>
 feed_content_checksum: 7530b54c882d5f4c5b62216525838f5388dce9e7
-image_ids:
+image_checksums:
 - e9097d7e5180242a87693f3890af14cebf9038b494a7f905078a0379a072407c
 - b9d6aec21704042c129e4805129c1f2543ab1dc757f2aed3ce9774abca17e449
 - 70a702fe2d3ecb1401946a65e14bd079570ba3c459c872baae80720c26e20972

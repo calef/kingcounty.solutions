@@ -1,6 +1,6 @@
 ---
 date: '2025-11-13T20:39:26+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Grays Harbor County resident tests preliminarily positive for avian influenza</span>
@@ -51,7 +51,7 @@ feed_content: |-
   <p>Our&nbsp;<a href="https://www.doh.wa.gov/" target="_blank">website</a>&nbsp;is your source for a healthy dose of information. Get updates by following us on&nbsp;<a href="https://doh.wa.gov/about-us/contact-us/social-media" target="_blank">social media</a>.&nbsp;</p>
 
   <p class="text-align-center">###</p></div>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Health
 published: false

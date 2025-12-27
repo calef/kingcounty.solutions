@@ -5,7 +5,7 @@ feed_content: The Seattle Department of Neighborhoods’ (DON) P-Patch Community
   Section 3.35.060 authorizes the Director of the Department of Neighborhoods to adjust
   base P-Pat...
 feed_content_checksum: 07d237b84f5d1d822f43140d3f106204b6567a68
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

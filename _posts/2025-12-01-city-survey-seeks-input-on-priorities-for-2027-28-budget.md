@@ -1,6 +1,6 @@
 ---
 date: '2025-12-01T23:19:53+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   survey seeks input on priorities for 2027–28 budget</span>\n<span class=\"field
@@ -61,7 +61,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-12-01T12:00:00Z\" class=\"datetime\">December
   1 2025</time>\n</div>\n      \n    </div>\n  </div>"
-image_ids:
+image_checksums:
 - bac2132fad8b97a7cff2984bd9e67e54815ee9bc0e93fce0b1d1e9cbbc3d11ba
 location_titles:
 - Bellevue

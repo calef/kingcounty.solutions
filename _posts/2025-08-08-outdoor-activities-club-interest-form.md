@@ -3,7 +3,7 @@ date: '2025-08-08T16:52:39+00:00'
 feed_content: |-
   <p><br>Are you looking to connect with people at First Church interested in enjoying the great outdoors of the Pacific Northwest? Do you like to kayak, hike, canoe, walk, run, cycle, or participate in other outdoor activities? With just a few weeks of summer left, we know many are still hoping to get outdoors as much as possible. We hope to help set-up an informal group that can communicate with one another about their upcoming outdoor activity plans. Fill out this form to note your interests and we&#8217;ll help connect you!: <a href="https://firstchurchseattle.breezechms.com/form/be361e">https://firstchurchseattle.breezechms.com/form/be361e</a></p>
   <p>The post <a href="https://firstchurchseattle.org/outdoor-activities-club-interest-form/">Outdoor Activities Club Interest Form</a> appeared first on <a href="https://firstchurchseattle.org">First Church Seattle</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: First Church Seattle
 published: false

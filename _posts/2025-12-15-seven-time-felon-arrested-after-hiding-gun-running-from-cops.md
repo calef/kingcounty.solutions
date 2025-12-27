@@ -5,7 +5,7 @@ feed_content: Seattle police officers arrested a 27-year-old felon after hiding 
   1:50 a.m., patrol officers responded to reports of a physical fight near 2nd Avenue
   South and South ...
 feed_content_checksum: baaad0624c4ece053af9f0a0d8d09f9441e70e3c
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

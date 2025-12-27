@@ -70,7 +70,7 @@ feed_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/hines-health-care/stories/local-boy-scout-gives-back-to-the-veteran-community/" rel="noopener">VA Hines Health care System site </a> and has been edited for style and clarity.  </p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

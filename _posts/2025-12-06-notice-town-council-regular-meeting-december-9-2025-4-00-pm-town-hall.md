@@ -18,7 +18,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>Your attendance is always encouraged.</p>
   <p>Mayor Katy Kinney Harris</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

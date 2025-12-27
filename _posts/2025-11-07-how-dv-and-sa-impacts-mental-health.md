@@ -1,6 +1,6 @@
 ---
 date: '2025-11-07T16:33:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Mental Health Awareness Month serves as a crucial time to shed light on the various factors that can profoundly impact our emotional and psychological well-being. Among these, domestic violence (DV) and sexual assault (SA) stand out as deeply traumatizing experiences that can leave lasting scars on survivors </p>
@@ -88,7 +88,7 @@ feed_content: |-
 
 
   <p>It is so important to recognize how people’s mental health is impacted, every one and individual has different experiences, it’s important to get the help we need.&nbsp;</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: The Deaf Hotline

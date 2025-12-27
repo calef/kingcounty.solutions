@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T20:29:35+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div><figure><img src="https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png"></figure></div>
@@ -89,7 +89,7 @@ feed_content: |-
   <p></p>
   <p>The post <a>Warm Holiday Wishes and an Invitation to Sustain Bright Futures!</a> appeared first on <a>BrightSpark</a>.</p>
 feed_content_checksum: 7d9e810ae8868a4e626e5863be1376a8c9edce0c
-image_ids:
+image_checksums:
 - 7ee3364ff40d5c217dd243955552293a535ded4c4392dbe59ff36e2e0163233a
 - b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 location_titles:

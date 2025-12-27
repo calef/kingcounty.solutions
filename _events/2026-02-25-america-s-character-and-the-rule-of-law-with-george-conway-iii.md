@@ -50,7 +50,7 @@ feed_content: '<article id="post-3855" class="post-3855 uw_oplevents type-uw_opl
   a widely read political opinion platform. </span><span data-ccp-props=''{"134233117":false,"134233118":false,"335559738":240,"335559739":240}''> </span></p>
   </div> </div> <p class="sponsor-dept"><strong>Sponsoring Departments:</strong> The
   Graduate School</p> </div> </article>'
-image_ids: []
+image_checksums: []
 location: Town Hall Seattle
 location_titles:
 - King County

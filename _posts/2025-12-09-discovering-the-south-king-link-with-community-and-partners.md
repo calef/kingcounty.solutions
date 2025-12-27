@@ -6,7 +6,7 @@ feed_content: |-
   <p>It kicked off with a ribbon cutting ceremony from 9:30 a.m. to 11 a.m. at the Federal Way Downtown Station, which also hosted a community street fair by the FW Black Collective featuring music, food trucks, and kids' activities. </p>
   </div>
 feed_content_checksum: bac471ee3fa1e9e9b307363f6cb4a4f147bf0531
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Sound Transit
 published: false

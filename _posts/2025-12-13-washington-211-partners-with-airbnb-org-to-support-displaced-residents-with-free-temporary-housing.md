@@ -1,6 +1,6 @@
 ---
 date: '2025-12-13T21:46:41+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Severe flooding across Washington state has displaced thousands of residents, forcing families and individuals to leave their homes with little notice. Access to safe, temporary housing is an urgent need facing people across the state.</p>
@@ -54,7 +54,7 @@ feed_content: |-
   </div>
   <p>The post <a>Washington 211 Partners with Airbnb.org to Support Displaced Residents with Free Temporary Housing</a> appeared first on <a>Crisis Connections</a>.</p>
 feed_content_checksum: 3297d6575968bab329809e62366c32afcf19aa6e
-image_ids:
+image_checksums:
 - fdce014f25353708b91e1d388294cab2beafb76415426a0d8897cd05d2f162cd
 - 64299428cb436295b96d8eb4f2a03634def062fbb96b9dc196cd190181e921c2
 location_titles:

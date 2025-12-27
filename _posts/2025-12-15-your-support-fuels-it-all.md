@@ -1,6 +1,6 @@
 ---
 date: '2025-12-15T18:37:12+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <a><p>Consider a year-end gift to support The Center for Active Living!</p>
@@ -9,7 +9,7 @@ feed_content: |-
 
   <p>From nutritious meals and counseling to dancing, art and social activities, your donation makes it possible for our community …</p></a>
 feed_content_checksum: 73300ad391a8150f63c78b63b5edca77f5b8558f
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: The Center for Active Living

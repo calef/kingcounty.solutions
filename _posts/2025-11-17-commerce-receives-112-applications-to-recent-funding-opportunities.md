@@ -1,7 +1,7 @@
 ---
 date: '2025-11-17T18:16:35+00:00'
-events:
-- 2026-01-01-award-decisions-for-housing-funding
+event_ids:
+- 2026-01-01-award-decisions-for-housing-funding.md
 events_extracted: true
 feed_content: |-
   <p class="has-medium-font-size"><strong>Applications for 6,791 housing units came from 23 counties.</strong></p>
@@ -59,7 +59,7 @@ feed_content: |-
 
 
   <p>Email the application team at <a href="mailto:HTFApp@commerce.wa.gov">HTFApp@commerce.wa.gov</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

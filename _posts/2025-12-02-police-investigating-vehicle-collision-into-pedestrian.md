@@ -4,7 +4,7 @@ feed_content: Seattle police officers are investigating a vehicle collision into
   pedestrian in the Interbay neighborhood last night. On Dec. 1 at 8:35 p.m., patrol
   officers responded to car crash involving a pedestrian on 15th Avenue West near
   West Emerson Street....
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-05T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Rebuilding strength through meaningful work</h2>
@@ -88,7 +88,7 @@ feed_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/salt-lake-city-health-care/stories/compensated-work-therapy-a-steppingstone-to-stability-for-veterans-facing-chronic-unemployment/" rel="noopener">VA Salt Lake City Health Care site</a> and has been edited for style and clarity.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

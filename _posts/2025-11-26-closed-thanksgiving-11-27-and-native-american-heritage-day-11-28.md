@@ -1,12 +1,12 @@
 ---
 date: '2025-11-26T23:15:38+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Husky Health Center is closed November 27th and 28th in observation of Thanksgiving Day and Native American Heritage Day. HHC will resume regular business hours on Monday, December 1. Husky Health follows the University of Washington official holiday calendar: https://hr.uw.edu/time-absence/holidays/calendar/</p>
   <p><a>Source</a></p>
 feed_content_checksum: 8a15cd26fdbe1974bc771726393e813ae66d6e7c
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: UW Well-Being for Students

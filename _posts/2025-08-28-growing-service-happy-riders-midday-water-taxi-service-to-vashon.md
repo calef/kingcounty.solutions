@@ -1,13 +1,13 @@
 ---
 date: '2025-08-28T21:00:21+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: On June 27, 2024, riders sailed from Vashon Island to downtown Seattle
   carrying the Vashon flag on the M/V Sally Fox, named for the celebrated advocate
   of passenger-only ferry service to Vashon. The trip recognized the historic introduction
   of midday water taxi service to the island, which officially began on July 1, 2024.
   The expansion&#8230;
-image_ids: []
+image_checksums: []
 location_titles:
 - Vashon
 organization_title: King County Ferry District

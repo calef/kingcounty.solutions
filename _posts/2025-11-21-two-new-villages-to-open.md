@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T18:18:02+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: LIHI staff and volunteers are busily at work setting up two new villages: Olympic
   Hills Village in Seattle and Church By the Side of the Road Village (CBSR) in Tukwila.
@@ -8,7 +8,7 @@ feed_content: LIHI staff and volunteers are busily at work setting up two new vi
   houses. LIHI will operate the village with the New Hope Missionary Baptist Church
   serving as the religious sponsor. The village will open before Christmas. Funding
   is provided by the City of Seattle and KCRHA. The CBSR Village is located at 4820...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

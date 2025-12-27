@@ -72,7 +72,7 @@ feed_content: |-
   <p>Media Inquiries: <br>Erin Burgy, Senior Director, Integrated Public Relations<br><a>Email Erin</a> or (469) 934-7131</p>
   <p>The post <a>OH and CSX Ease Burden for Military Families</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 07f360e2877fd3d985c9bb5cb6d6341388ecb2f8
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Operation Homefront
 original_source_html: |-

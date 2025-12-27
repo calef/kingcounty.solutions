@@ -1,13 +1,13 @@
 ---
 date: '2025-12-23T00:58:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Loyal Heights Community Center still has space in several winter classes
   and programs! Don’t miss your chance—check out the available options and sign up
   today. For Kids and Families Pre-Ballet (Ages 6–8)Barcode: #84785Mondays, 1/5–2/9,
   4–4:45pmCost: $...'
 feed_content_checksum: 4cad79740ab2bf5d7fcab9395684f15e4cf44d6a
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

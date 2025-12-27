@@ -1,13 +1,13 @@
 ---
 date: '2025-12-05T16:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'International Community Health Services (ICHS) is hiring for three
   key positions: Community Health Worker – School Based, Mobile Clinic Coordinator,
   and Community Services Manager. The roles focus on connecting youth and families
   to healthcare, coordinating mobile health services, and overseeing school-based
   health initiatives to improve community health access and equity.'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County School Health

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T22:18:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Washington’s 2026 Legislative Session is right around the corner! Over the coming months, we’ll be sharing updates from Olympia and creating opportunities for you to make your voice heard. Together, we can shape policies that move Washington closer to a hunger-free future.</p>
@@ -18,7 +18,7 @@ feed_content: |-
   <p>Thank you for being part of the movement for food justice!</p>
   <p>The post <a>Our 2026 Legislative Priorities: Building a More Just and Equitable Food System</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: 3db795c3760ba80f9360811e04263111b960043d
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Northwest Harvest

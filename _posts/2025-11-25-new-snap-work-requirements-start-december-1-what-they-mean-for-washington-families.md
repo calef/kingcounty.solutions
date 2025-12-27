@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T18:17:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>On December 1, 2025, new federal work requirements for the Supplemental Nutrition Assistance Program (SNAP) will take effect statewide. These rules, passed under H.R. 1 (the “Big Beautiful Bill”), expand who must demonstrate that they are working to keep their benefits.</p>
@@ -66,7 +66,7 @@ feed_content: |-
   </ul>
   <p>The post <a>New SNAP Work Requirements Start December 1: What They Mean for Washington Families</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: 8f18d7b30f20a2322d888a421dca14820e578170
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Northwest Harvest

@@ -1,6 +1,6 @@
 ---
 date: '2025-10-22T19:46:28+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Are you a registered voter in Seattle? The Prop 1 will be on your ballot this November. This proposition renews the Family, Education, Preschool, and Promise (FEPP) Levy for the next seven years. Funds from the FEPP Levy support the Seattle Preschool Program and help families access child care as well as support the Seattle Promise for K-12 educational supports.</p>
@@ -103,7 +103,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/capitol-courier-join-us-for-a-community-conversation-about-prop-1-and-the-fepp-levy/">Capitol Courier: Join us for a Community Conversation about Prop 1 and the FEPP Levy</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: BrightSpark

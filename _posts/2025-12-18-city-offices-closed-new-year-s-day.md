@@ -2,7 +2,7 @@
 date: '2025-12-18T19:36:18+00:00'
 feed_content: "<div>\n  \n      \n    <span>01/01/2026 (All day)</span>\n      </div>"
 feed_content_checksum: 12fd907c574e4e3b0d6008d22f679bd97977a2a4
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Black Diamond

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-21T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>A bond forged in service</h2>
@@ -65,7 +65,7 @@ feed_content: |-
 
   <p>It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to <a>get started</a>.</p>
 feed_content_checksum: 947a2b15e7756d8c6e5a0e502302fbff47b1db34
-image_ids:
+image_checksums:
 - f41a1dd64b5c718238574757187cab00c0039c9fc3ccda2fb2c7330ab4b6e022
 location_titles:
 - King County

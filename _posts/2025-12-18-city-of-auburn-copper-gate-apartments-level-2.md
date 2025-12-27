@@ -6,7 +6,7 @@ feed_content: 'UPDATED: December 17, 2025 – 4:30 p.m. The Copper Gate Apartmen
   to evacuate again if conditions change. Some homes, businesses and areas between
   B Street […]'
 feed_content_checksum: f3353622daaafaf25bfa2a04cc1d7ef2c5c53a18
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

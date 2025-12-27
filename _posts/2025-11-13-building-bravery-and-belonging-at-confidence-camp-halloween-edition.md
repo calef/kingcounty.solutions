@@ -1,6 +1,6 @@
 ---
 date: '2025-11-13T19:44:07+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><img fetchpriority="high" decoding="async" class="size-medium wp-image-25621 alignleft" src="https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02-300x300.jpg" alt="" width="300" height="300" srcset="https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02-300x300.jpg 300w, https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02-1024x1024.jpg 1024w, https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02-150x150.jpg 150w, https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02-768x768.jpg 768w, https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" />Halloween can be full of excitement, surprises, and sometimes a few spooky nerves, especially for neurodiverse kids navigating the sounds, textures, and social moments of trick-or-treating. This year’s <strong>Confidence Camp: Halloween Edition</strong> offered a fun and therapeutic way to prepare children ages 3–10 for the big night, helping them feel more confident, calm, and connected.</p>
@@ -11,7 +11,7 @@ feed_content: |-
   <p><img decoding="async" class="size-medium wp-image-25619 alignright" src="https://encompassnw.org/wp-content/uploads/2025/11/1-225x300.jpg" alt="" width="225" height="300" srcset="https://encompassnw.org/wp-content/uploads/2025/11/1-225x300.jpg 225w, https://encompassnw.org/wp-content/uploads/2025/11/1-768x1024.jpg 768w, https://encompassnw.org/wp-content/uploads/2025/11/1-1152x1536.jpg 1152w, https://encompassnw.org/wp-content/uploads/2025/11/1-1536x2048.jpg 1536w, https://encompassnw.org/wp-content/uploads/2025/11/1-scaled.jpg 1920w" sizes="(max-width: 225px) 100vw, 225px" />The group then took on the “<strong>Spooky Decorations Walk</strong>,” exploring different levels of Halloween spookiness while learning coping strategies like deep breathing, grounding through the five senses, and checking in with a trusted adult when things felt “too spooky.”</p>
   <p>The session ended in a joyful <strong>Halloween Parade</strong>, where children showed off costumes, practiced their new skills by trick-or-treating around the Encompass office, and reflected on one thing they felt confident doing this Halloween.</p>
   <p><strong>Confidence Camp: Halloween Edition</strong> reminded families that every child can shine on Halloween when they have the tools to communicate, self-regulate, and set boundaries. Most importantly, it created space for kids to celebrate exactly who they are.</p><p>The post <a href="https://encompassnw.org/building-bravery-and-belonging-at-confidence-camp-halloween-edition/">Building Bravery and Belonging at Confidence Camp: Halloween Edition</a> first appeared on <a href="https://encompassnw.org">Encompass</a>.</p>
-image_ids:
+image_checksums:
 - 3b78e36104794a6048f1fc06ff6d3b3870bc12c2d25c247ee9145778af3ab8bb
 location_titles:
 - King County

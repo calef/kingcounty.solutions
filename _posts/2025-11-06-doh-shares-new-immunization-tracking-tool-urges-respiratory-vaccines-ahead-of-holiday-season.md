@@ -1,6 +1,6 @@
 ---
 date: '2025-11-06T16:34:51+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">DOH shares new immunization tracking tool, urges respiratory vaccines ahead of holiday season</span>
@@ -39,7 +39,7 @@ feed_content: |-
   <p>Our <a href="https://www.doh.wa.gov/">website</a> is your source for a healthy dose of information. Get updates by following us on <a href="https://doh.wa.gov/about-us/contact-us/social-media">social media</a>.</p>
 
   <p class="text-align-center">###</p></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

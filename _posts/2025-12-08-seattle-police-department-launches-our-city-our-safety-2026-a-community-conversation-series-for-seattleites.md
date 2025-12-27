@@ -5,7 +5,7 @@ feed_content: On January 14, the Seattle Police Department will launch the first
   with each gathering designed to influence how the department will approach safety
   neighborhood by...
 feed_content_checksum: f254ed30dc30be2d331c4d84364bc2fb28e983f9
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

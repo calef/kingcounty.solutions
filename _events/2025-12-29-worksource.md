@@ -26,7 +26,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   and Mandarin</a></h3> <span>December 23 @ 9:00 am</span> - <span>5:00 pm</span>
   </div> </li> </ul> </div> </div> </section> </div>"
 feed_content_checksum: ec8d972abd40191e87197aa9109991da7b4368f7
-image_ids: []
+image_checksums: []
 location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond, WA,
   98052, United States
 location_titles:

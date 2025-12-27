@@ -6,7 +6,7 @@ feed_content: What’s better than signing up for emergency alerts during a cris
   King County  helps you stay informed about potential hazards and threats in your
   area. It […]
 feed_content_checksum: 57aa2796f3e5ae5e27f1fcff37054171a80a75ad
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

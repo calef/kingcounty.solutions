@@ -1,6 +1,6 @@
 ---
 date: '2025-12-11T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>The Department of Veterans Affairs successfully completed phase 1 of the Readiness and Employment System (RES) deployment nearly a month ahead of schedule, modernizing the case management platform for the <a>Veteran Readiness and Employment (VR&amp;E) program</a>. </p>
@@ -29,7 +29,7 @@ feed_content: |-
 
   <p>VA will continue with the RES rollout with phase 2 having started in November 2025. This will expand the system incrementally to include remaining VR&amp;E active cases, including re-applicants and Veterans with a 10% service-connected disability ratings. Phase 3 will follow, covering applicants for educational and career counseling. <a>VR&amp;E</a> helps Veterans with service-connected disabilities that limit their ability to work explore employment options and address career development needs, aiming for lifelong success and independence.</p>
 feed_content_checksum: 98bdde90127ebb21caf4fd7b825df776baafaa17
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

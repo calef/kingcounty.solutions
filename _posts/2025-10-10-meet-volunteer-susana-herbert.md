@@ -1,6 +1,6 @@
 ---
 date: '2025-10-10T15:42:58+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <a href="https://wscenter.org/meet-volunteer-susana-herbert/"><p>With a passion for learning and a heart for service, Susana Herbert guides people through the often-intimidating world of personal electronics in her volunteer role at The Center. </p>
@@ -8,7 +8,7 @@ feed_content: |-
 
 
   <p>Originally from &hellip;</p></a>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: The Center for Active Living
 published: false

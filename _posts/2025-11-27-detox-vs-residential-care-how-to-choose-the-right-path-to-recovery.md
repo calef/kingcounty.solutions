@@ -1,6 +1,6 @@
 ---
 date: '2025-11-27T05:35:23+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row row\"><div
   class=\"vc_column_container col-md-12\"><div class=\"wpb_wrapper vc_column-inner\">\n\t<div
@@ -132,7 +132,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   post <a href=\"https://lakesidemilam.com/blog/detox-vs-residential-care-how-to-choose-the-right-path-to-recovery/\">Detox
   vs. Residential Care: How to Choose the Right Path to Recovery</a> appeared first
   on <a href=\"https://lakesidemilam.com\">Lakeside-Milam Recovery Centers</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Lakeside-Milam Recovery Centers

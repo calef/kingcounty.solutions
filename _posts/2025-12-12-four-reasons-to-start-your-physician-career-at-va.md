@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>If you’re looking for a work environment where your physician career can flourish right from the onset, there’s no place like the Department of Veterans Affairs (VA). From serving those who so nobly served our country to generous leave policies, there are many benefits that make a VA career worth exploring. Let’s take a look at five reasons why you should start your physician career at VA.  </p>
@@ -45,7 +45,7 @@ feed_content: |-
 
   <p>We’re always looking for the next generation of physicians to bring their skills and passion into a career of service for Veterans. Visit <a>VA Careers</a> to learn more and apply. </p>
 feed_content_checksum: 2c43e3ff4fda93f125267208070e8d56d9f56427
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

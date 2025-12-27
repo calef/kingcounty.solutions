@@ -1,6 +1,6 @@
 ---
 date: '2025-10-31T18:54:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"wp-block-image\">\n<figure class=\"alignright size-large
   is-resized\"><img fetchpriority=\"high\" decoding=\"async\" width=\"600\" height=\"384\"
@@ -124,7 +124,7 @@ feed_content: "<div class=\"wp-block-image\">\n<figure class=\"alignright size-l
   Here for More Food Bank Locations</a></div>\n</div>\n<p>The post <a href=\"https://www.rewa.org/food-bank-resources/\">Food
   Bank Resources</a> appeared first on <a href=\"https://www.rewa.org\">Refugee Women&#039;s
   Alliance</a>.</p>"
-image_ids:
+image_checksums:
 - 247574ba3dc5de1f82fe04272317e2b297ca0267bdb36fe5ebd7918fab51c1e0
 location_titles:
 - King County

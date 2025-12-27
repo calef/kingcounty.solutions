@@ -12,7 +12,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

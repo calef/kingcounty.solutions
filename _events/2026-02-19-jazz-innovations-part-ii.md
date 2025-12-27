@@ -4,7 +4,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>UW
   Studies students perform in small combos over two consecutive nights of original
   tunes, homage to the greats of jazz, and experiments in composing and arranging. </p>
   <h2>Director Biographies</h2> </div> </div>
-image_ids: []
+image_checksums: []
 location: Music Building (MUS)
 location_titles:
 - King County

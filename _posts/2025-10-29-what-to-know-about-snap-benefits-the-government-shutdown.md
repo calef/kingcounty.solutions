@@ -1,6 +1,6 @@
 ---
 date: '2025-10-29T19:51:41+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   ## What to Know About SNAP Benefits & the Government Shutdown
@@ -50,7 +50,7 @@ feed_content: |-
   1. **[Join the Circle of Hope](https://www.hopelink.org/ways-to-help/monthly-giving/):&nbsp;**By giving a set amount each month, Circle of Hope members provide sustainable support throughout the year.&nbsp;
 
   To learn more about the growing needs in our region, explore&nbsp;Hopelink’s&nbsp;recently released&nbsp;[2025 Community Needs Assessment](https://www.hopelink.org/wp-content/uploads/2023/03/Hopelink-2025-Community-Needs-Assessment-Report.pdf).&nbsp;
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Hopelink

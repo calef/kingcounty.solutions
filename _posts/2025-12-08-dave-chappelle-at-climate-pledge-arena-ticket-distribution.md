@@ -49,7 +49,7 @@ feed_content: |-
   </tbody>
   </table>
 feed_content_checksum: e8c1a49958b33f65a5c1c8d4e9892d75c7cfb276
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

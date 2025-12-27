@@ -5,7 +5,7 @@ feed_content: Most of us take time in December to reflect and look back at the l
   on how our year went, but our projects don’t follow a fiscal year or Gregorian calendar.
   They mo...
 feed_content_checksum: a246edef9f9ed88cc21ef509dacb5c7502ae78ca
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

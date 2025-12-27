@@ -146,7 +146,7 @@ END:VCALENDAR
 <article class="event-detail h-event" itemscope itemtype="http://schema.org/Event">
   {% capture event_action %}
 - Set `published: false` in the event front matter so it no longer appears in listings.
-- Check if any posts in `_posts/` have this event in their `events` array and remove those references. If all events are removed from a post, set the `events` array to empty ([]).
+- Check if any posts in `_posts/` have this event in their `event_ids` array and remove those references. If all events are removed from a post, set the `event_ids` array to empty ([]).
 - Remove any image metadata or files that are no longer referenced by any _posts or _events.
   {% endcapture %}
   {% assign event_action = event_action | strip %}
@@ -235,9 +235,9 @@ END:VCALENDAR
   <div class="event-content e-content" itemprop="description">
     {{ content }}
 
-    {% if page.image_ids and page.image_ids.size > 0 %}
+    {% if page.image_checksums and page.image_checksums.size > 0 %}
       {% assign event_carousel_images = '' | split: '' %}
-      {% for image_id in page.image_ids %}
+      {% for image_id in page.image_checksums %}
         {% assign normalized_id = image_id | append: '' | strip %}
         {% assign image_doc = site.images | where: "checksum", normalized_id | first %}
         {% assign image_url = "" %}

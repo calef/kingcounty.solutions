@@ -1,6 +1,6 @@
 ---
 date: '2025-11-05T19:52:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_row et_pb_row_2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
@@ -57,7 +57,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\" >
   vibrant traditional Mexican celebrations. Most of all, we have the most authentic
   Mexican food in the state. You cannot find lengua, tripa, and cabeza tacos and menudo
   in just any city in Washington.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Inatai Foundation
 published: false

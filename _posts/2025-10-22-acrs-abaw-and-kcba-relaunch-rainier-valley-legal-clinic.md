@@ -1,10 +1,10 @@
 ---
 date: '2025-10-22T14:01:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "&lt;p&gt;ACRS, ABAW, and KCBA relaunch Rainier Valley Legal Clinic.&lt;/p&gt;"
 feed_content_checksum: db28d7f7cc99cf8b4c443cd66504076de9668aba
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Bar Association

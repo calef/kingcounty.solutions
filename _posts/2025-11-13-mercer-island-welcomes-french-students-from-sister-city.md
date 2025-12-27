@@ -8,7 +8,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   of the families, tour points of interest throughout the region, and attend classes
   at Mercer Island High School, falls on the 25<sup>th</sup> anniversary of the two
   cities’ relationship. </span></span></span></p></div></div></div>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Mercer Island
 published: false

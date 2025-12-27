@@ -1,6 +1,6 @@
 ---
 date: '2025-11-22T02:11:19+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">The West Coast Health Alliance Stands with Scientific Evidence: Vaccines Are Not Linked to Autism</span>
@@ -31,7 +31,7 @@ feed_content: |-
   <p>The Alliance encourages families to seek information from trusted health care providers and reputable medical organizations, including the American Academy of Pediatrics.</p>
 
   <p class="text-align-center">###</p></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

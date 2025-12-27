@@ -1,6 +1,6 @@
 ---
 date: '2025-09-11T22:48:59+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><span data-contrast="auto"><img loading="lazy" decoding="async" class="aligncenter wp-image-195933 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/09/Untitled-design-7-1024x665.png" alt="" width="1024" height="665" />The back-to-school sales are over, and students are settling into their new seats. But paving the way to educational success is work that never stops. That&#8217;s especially true for students experiencing foster care, who are at the center of a crowded, chaotic hub of bureaucratic systems—child welfare, legal, education, and others depending on the circumstances. Ironically, it’s easy for youth in foster care to get overlooked in the mix.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0}"> </span></p>
@@ -39,7 +39,7 @@ feed_content: |-
   <p data-ccp-border-bottom="0px none #000000" data-ccp-padding-bottom="0px" data-ccp-border-between="0px none #000000" data-ccp-padding-between="0px"><span data-contrast="none">“Even though we&#8217;re not directly working with young people, we&#8217;re making just as huge an impact,” says Amber. “We get to provide resources to the adults, so then they can help other young people in their care, on their caseloads, and in their schools.”</span><span data-ccp-props="{&quot;335572071&quot;:0,&quot;335572072&quot;:0,&quot;335572073&quot;:0,&quot;335572075&quot;:0,&quot;335572076&quot;:0,&quot;335572077&quot;:0,&quot;335572079&quot;:0,&quot;335572080&quot;:0,&quot;335572081&quot;:0,&quot;335572083&quot;:0,&quot;335572084&quot;:0,&quot;335572085&quot;:0,&quot;335572087&quot;:0,&quot;335572088&quot;:0,&quot;335572089&quot;:0,&quot;469789798&quot;:&quot;nil&quot;,&quot;469789802&quot;:&quot;nil&quot;,&quot;469789806&quot;:&quot;nil&quot;,&quot;469789810&quot;:&quot;nil&quot;,&quot;469789814&quot;:&quot;nil&quot;}"> </span></p>
   <h5 data-ccp-border-between="0px none #000000" data-ccp-padding-between="0px"><strong><i>Join our </i><a href="https://www.treehouseforkids.org/take-action/advocate/advocacy-action-center/#/signup/go/" target="_blank" rel="noopener"><i>Advocacy Action Center</i></a><i> to stay updated on education policies Treehouse supports.</i> </strong></h5>
   <p>The post <a href="https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/">Keeping Students in Foster Care on Track</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
-image_ids:
+image_checksums:
 - b5b70577939aa2ab3a47f8edd60c6711df8b63942e26a50df4bcb4cdd08d1431
 - 7f7e04552d1c9929d5d2c048852b7b88a403b7124ba3570a0a7ac668be687998
 location_titles:

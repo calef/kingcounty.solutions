@@ -1,11 +1,11 @@
 ---
 date: '2025-11-26T01:50:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>From Giving Tuesday on December 2 to the end of the year, United Way is hosting our Year&#x2d;End Giving Campaign, titled &ldquo;Hope Doesn&rsquo;t Quit, Neither Do We.&rdquo; Our campaign provides an opportunity for our community to support families facing hunger. Every donation makes a difference in giving groceries, hot meals, and emergency food assistance to our neighbors. Our goal is to direct resources to&#8230;</p>
   <p><a href="https://www.uwkc.org/breaking-the-cycle-of-poverty-news/meeting-our-neighbors-needs-with-home-grocery-delivery/" rel="nofollow">Source</a></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: United Way of King County

@@ -119,7 +119,7 @@ feed_content: '<a href="#main-content" class="element-invisible element-focusabl
   Ove Andsnes Instagram</a>| <a href="https://www.youtube.com/user/LeifOveAndsnesTV">Leif
   Ove Andsnes YouTube</a> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div>'
-image_ids: []
+image_checksums: []
 location: Meany Hall (MNY)
 location_titles:
 - King County

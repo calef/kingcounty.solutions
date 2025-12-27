@@ -1,6 +1,6 @@
 ---
 date: '2025-10-30T17:42:40+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Complete the form below for instant access to your copy of our free eBook.</p>
@@ -17,7 +17,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://transformingage.org/blog/technology-for-all-33/">Technology for all.</a> appeared first on <a href="https://transformingage.org">Transforming Age | Senior Housing, Community Services, Philanthropy, Technology &amp; Partnerships</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Transforming Age

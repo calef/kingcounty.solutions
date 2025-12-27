@@ -1,6 +1,6 @@
 ---
 date: '2025-08-27T18:04:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7
   wp-block-group-is-layout-flex\">\n<p><strong>Child &amp; Family Services – ParentChild+
@@ -17,7 +17,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   and togetherness.</p>\n\n\n\n<p>We are deeply grateful to our partners—the Seattle
   Public Library, King County Library, and Seattle Parks and Rec—for their partnership
   and support in making this special milestone possible.</p>\n</div>\n\n\n\n<figure
-  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-august-2025\\/\"}'
+  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\"}'
   \ class=\"wp-block-gallery has-nested-images columns-3 is-cropped is-style-rectangular
   wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image
   size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"566\" height=\"707\"
@@ -114,7 +114,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   96w, https://www.elcentrodelaraza.org/wp-content/uploads/2025/08/Parents-as-Teachers-1-768x960.jpg
   768w, https://www.elcentrodelaraza.org/wp-content/uploads/2025/08/Parents-as-Teachers-1.jpg
   1080w\" sizes=\"auto, (max-width: 566px) 100vw, 566px\" /></figure>\n</figure>\n\n\n\n<div
-  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-august-2025\\/\"}'
+  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:33.33333%\"><figure class=\"tiled-gallery__item\"><img
@@ -185,7 +185,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   food stamps, Medicaid, Medicare, and more</strong>—empowering them to navigate complex
   systems with confidence.</p>\n\n\n\n<p>This collaboration demonstrated the power
   of community partnerships in expanding access to care, breaking down barriers, and
-  strengthening health equity for all.</p>\n\n\n\n<figure data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-august-2025\\/\"}'
+  strengthening health equity for all.</p>\n\n\n\n<figure data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\"}'
   \ class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6
   is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image
   size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"942\" height=\"707\"
@@ -226,7 +226,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   thrive</strong>.</p>\n\n\n\n<p>Your partnership and generosity make a real difference
   for hundreds of families! If you&#8217;d like to help too, please check out our
   <strong><a href=\"https://www.amazon.com/hz/wishlist/ls/14N681WHO7LRC?ref_=wl_share\">Amazon
-  Wishlist for Back-to-School</a></strong></p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-august-2025\\/\"}'
+  Wishlist for Back-to-School</a></strong></p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:66.74580%\"><figure class=\"tiled-gallery__item\"><img
@@ -386,7 +386,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   movies while exploring delicious meals and treats from our <strong>Business Opportunity
   Center Food Incubator Program’s food cart vendors</strong>, filling the plaza with
   flavor and fun. These gatherings highlighted the power of community, connection,
-  and summer joy for all ages.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-august-2025\\/\"}'
+  and summer joy for all ages.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:66.74580%\"><figure class=\"tiled-gallery__item\"><img
@@ -620,7 +620,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   community-rooted service</strong>.</p>\n\n\n\n<p>We’re proud to partner with <strong>Bank
   of America’s Student Leaders® Program</strong>, which has supported youth leadership
   and economic mobility since 2004. Together, we’re cultivating the next generation
-  of thoughtful, community-driven leaders.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-august-2025\\/\"}'
+  of thoughtful, community-driven leaders.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:53.04181%\"><figure class=\"tiled-gallery__item\"><img
@@ -694,7 +694,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   session, gaining a clear picture of what college life looks like. Experiences like
   this help students <strong>move from dreaming about their future to confidently
   envisioning it</strong>, empowering them to pursue their academic and personal goals.</p>\n\n\n\n<div
-  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-august-2025\\/\"}'
+  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:31.97663%\"><figure class=\"tiled-gallery__item\"><img
@@ -803,7 +803,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   culture. Their efforts culminated in a <strong>dynamic research poster presentation</strong>,
   showcasing their knowledge and dedication. More than just a project, this experience
   equips students with the <strong>tools and confidence to navigate higher education
-  and pursue their dreams</strong>.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-august-2025\\/\"}'
+  and pursue their dreams</strong>.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:25.00000%\"><figure class=\"tiled-gallery__item\"><img
@@ -941,7 +941,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   Community</strong>.</p>\n\n\n\n<p>This tour wasn’t just a behind-the-scenes experience—it
   was a chance to <strong>grow networks, strengthen leadership skills, and be part
   of a community movement</strong>. Thank you to everyone who joined us and helped
-  make it a success!</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-august-2025\\/\"}'
+  make it a success!</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:36.02307%\"><figure class=\"tiled-gallery__item\"><img
@@ -1075,7 +1075,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   highlighted the strength of community, as families honored one another’s accomplishments
   and the shared journey of learning and growth.<br>Congratulations to all the families
   who completed the program—your dedication continues to inspire and uplift our community.</p>\n\n\n\n<div
-  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-august-2025\\/\"}'
+  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:25.00000%\"><figure class=\"tiled-gallery__item\"><img
@@ -1387,7 +1387,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   post <a href=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\">Cuentos
   from Our Work: August 2025</a> appeared first on <a href=\"https://www.elcentrodelaraza.org\">El
   Centro de la Raza</a>.</p>"
-image_ids:
+image_checksums:
 - cbe8cbcd761a59d867953a97dae902c9d62c07d8695884a0faaf67a95750e4d6
 - 70fda73808200aa7fee7cf632197fb3a650008d03fb841e336d47bbb59cbf8be
 - 28771e491afa7642fd4848a50ab046cad74346a9243367f4319e86a959f9e7b7

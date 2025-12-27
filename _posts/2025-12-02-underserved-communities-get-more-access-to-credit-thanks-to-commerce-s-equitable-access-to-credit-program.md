@@ -1,6 +1,6 @@
 ---
 date: '2025-12-02T19:45:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="has-medium-font-size">Program awards $5.6 million to 11 CFDIs in Washington in 2025; 2024 awards helped historically disadvantaged business owners thrive</p>
@@ -158,7 +158,7 @@ feed_content: |-
 
 
   <p></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

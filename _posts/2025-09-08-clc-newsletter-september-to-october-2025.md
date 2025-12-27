@@ -1,6 +1,6 @@
 ---
 date: '2025-09-08T18:21:04+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   CISC is a provider in the Community Living Connections (CLC) network in King County. Periodically, we produce a CLC Newsletter that provides helpful information and resources for older adults.
@@ -10,7 +10,7 @@ feed_content: |-
   &nbsp;
 
   The post [CLC Newsletter – September to October 2025](https://cisc-seattle.org/clc-newsletter-september-to-october-2025/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Chinese Information & Service Center

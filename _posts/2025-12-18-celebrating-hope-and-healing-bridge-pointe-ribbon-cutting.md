@@ -1,7 +1,7 @@
 ---
 date: '2025-12-18T19:15:37+00:00'
-events:
-- 2026-01-01-opening-of-second-bridge-pointe-home
+event_ids:
+- 2026-01-01-opening-of-second-bridge-pointe-home.md
 events_extracted: true
 feed_content: Last month, Friends of Youth welcomed community members to our Kirkland
   campus for a very special occasion—the ribbon cutting ceremony for Bridge Pointe
@@ -10,7 +10,7 @@ feed_content: Last month, Friends of Youth welcomed community members to our Kir
   our first Bridge Pointe house and celebrated the upcoming opening of our second
   home  as we look ahead to 2026. The ceremony brought together local leaders, funders,...
 feed_content_checksum: c7218afca3d53f8463a76765280657ed62924d37
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Friends of Youth

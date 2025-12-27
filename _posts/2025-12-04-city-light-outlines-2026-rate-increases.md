@@ -11,7 +11,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   the communities we serve. Effective January 1, 2026, you will see the previously
   approved average rate increase of 5.4% start appearing on your bill. Residential
   customers can anticipate an increase of around $4 per month; those enrolled in [&#8230;]'
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City Light Bill Assistance Programs
 published: false

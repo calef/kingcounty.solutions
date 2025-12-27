@@ -1,6 +1,6 @@
 ---
 date: '2025-09-30T17:12:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Back in June, Henry Ehrnman received the Sophie Theriault Empower Youth Voice Scholarship at Rise and Shine, an annual volunteer celebration EYN hosts each June. He was a Snoqualmie Valley School District (SVSD) student K-12 and a 2025 Mount Si High School (MSHS) graduate. Over the years, his dedication to serving his community is nothing short of inspiring.
@@ -42,7 +42,7 @@ feed_content: |-
   In terms of Henry continuing to find his own pathway, he aspires to go into banking, then potentially starting his own business. He hopes to be ‘running his own ship one day’–steering it to give back, supporting more nonprofits, all the while continuing to sit on more boards. He’s also ready to live in the moment as well, “I’m excited to go into this next chapter, seeing what else I might enjoy, finding what sticks, and figuring out how to make it all work out,” Henry said.
 
   _Empower Youth Network (EYN) thanks_ Henry Erhnman _for all his service over the years to empower and inspire youth in Snoqualmie Valley. EYN wishes him all the best in his studies at the University of Washington._
-image_ids: []
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Empower Youth Network

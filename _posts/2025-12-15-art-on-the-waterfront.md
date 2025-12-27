@@ -5,7 +5,7 @@ feed_content: Publicly-sited artwork projects anchor the new Waterfront Park alo
   waterfront can view 9 site-specific artwork projects and two fountain re-installations
   that ...
 feed_content_checksum: 4ec5af2383623cd1ed8161b2080fdfdcce03f8e2
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

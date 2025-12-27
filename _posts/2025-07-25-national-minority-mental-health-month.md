@@ -1,6 +1,6 @@
 ---
 date: '2025-07-25T17:18:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>July marks National Minority Mental Health Month, a time to acknowledge
   and address the unique mental health challenges faced by communities of color. While
@@ -68,7 +68,7 @@ feed_content: "<p>July marks National Minority Mental Health Month, a time to ac
   and Kamera Museau is the Supportive Care Project Manager at The Sheri and Les Biller
   Family Foundation. This piece originally appeared in </em><a href=\"https://www.essence.com/health-and-wellness/supportive-cancer-care/\"
   target=\"_blank\" rel=\"noreferrer noopener\"><em>Essence</em></a><em>. </em></p>\r\n\r\n\r\n\r\n<p>&nbsp;</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

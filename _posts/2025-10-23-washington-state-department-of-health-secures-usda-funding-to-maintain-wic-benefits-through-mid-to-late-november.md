@@ -1,6 +1,6 @@
 ---
 date: '2025-10-23T21:47:58+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Washington State Department of Health secures USDA funding to maintain WIC benefits through mid-to-late November</span>
@@ -29,7 +29,7 @@ feed_content: |-
   <p><a href="https://www.doh.wa.gov/">The DOH website</a>&nbsp;is your source for a healthy dose of information. Get updates by following <a href="https://doh.wa.gov/about-us/contact-us/social-media">DOH on&nbsp;social media</a>.</p>
 
   <p class="text-align-center">###</p></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

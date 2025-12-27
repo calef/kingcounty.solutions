@@ -80,7 +80,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_6 et_section_regular\" >
   style=\"font-weight: 400;\">Your vote will help to break down the barriers to City
   Hall, create a more representative city council, hold politicians accountable, and
   ensure all communities have a seat at the table.</span></p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Inatai Foundation
 published: false

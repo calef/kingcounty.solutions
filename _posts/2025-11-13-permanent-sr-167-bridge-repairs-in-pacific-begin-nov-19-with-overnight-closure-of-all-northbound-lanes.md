@@ -5,7 +5,7 @@ feed_content: PACIFIC – Permanent repairs are set to begin on the northbound S
   by an over-height vehicle. To set up the work zone, all northbound lanes of the
   highway between Stewart and Ellingson roads will close Wednesday night, Nov. 19.
   When traffic reopens the next morning, there will be just one northbound lane.
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Washington State Department of Transportation
 published: false

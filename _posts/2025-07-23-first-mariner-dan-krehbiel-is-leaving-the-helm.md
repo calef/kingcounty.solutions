@@ -4,7 +4,7 @@ feed_content: Growing up in Alaska, Hawai’i and the Northwest, Dan Krehbiel ha
   on or near the water most of his life. While working at his parent’s fuel depot
   in Juneau, Alaska, he thought he could “make a living on the water.” After decades
   of piloting tour boats and fast ferries from Trinidad and the Caribbean&#8230;
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: King County Ferry District
 published: false

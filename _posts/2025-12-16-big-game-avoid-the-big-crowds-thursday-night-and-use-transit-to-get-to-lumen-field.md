@@ -1,12 +1,12 @@
 ---
 date: '2025-12-16T19:44:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Are you ready for a little Thursday Night football?? Rams… Seahawks…
   The battle for first place in the NFC West and possible home field throughout the
   playoffs comes to Lumen...
 feed_content_checksum: a34c7fa23b9d7f37a78ea898fe9ec558897d6e2b
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 locked: true

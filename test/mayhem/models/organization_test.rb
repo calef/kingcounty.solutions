@@ -2,6 +2,9 @@
 
 require_relative '../../test_helper'
 require 'mayhem/models/organization'
+require 'mayhem/models/news'
+require 'mayhem/models/event'
+require 'mayhem/models/image'
 
 class OrganizationModelTest < Minitest::Test
   def test_creates_and_reads_organizations
@@ -138,6 +141,91 @@ class OrganizationModelTest < Minitest::Test
       )
 
       assert_equal ['https://example.org/sitemap.xml'], record.website_xml_sitemap_urls
+    end
+  end
+
+  def test_related_content_lookups
+    FMRepo::TestHelpers.with_temp_repo(role: :organizations) do
+      FMRepo::TestHelpers.with_temp_repo(role: :news) do
+        FMRepo::TestHelpers.with_temp_repo(role: :events) do
+          FMRepo::TestHelpers.with_temp_repo(role: :images) do
+            org = Mayhem::Models::Organization.create!(
+              { 'title' => 'Alpha Org', 'type' => 'Agency' },
+              body: 'Alpha org.'
+            )
+            other = Mayhem::Models::Organization.create!(
+              { 'title' => 'Other Org', 'type' => 'Agency' },
+              body: 'Other org.'
+            )
+
+            news = Mayhem::Models::News.create!(
+              {
+                'title' => 'Alpha News',
+                'date' => '2025-06-23T17:54:03+00:00',
+                'organization_title' => 'Alpha Org',
+                'summarized' => true
+              },
+              body: 'Alpha news.'
+            )
+            other_news = Mayhem::Models::News.create!(
+              {
+                'title' => 'Other News',
+                'date' => '2025-06-24T10:00:00+00:00',
+                'organization_title' => 'Other Org',
+                'summarized' => true
+              },
+              body: 'Other news.'
+            )
+
+            event = Mayhem::Models::Event.create!(
+              {
+                'title' => 'Alpha Event',
+                'start_date' => '2025-12-20T09:00:00-08:00',
+                'organization_title' => 'Alpha Org'
+              },
+              body: 'Alpha event.'
+            )
+            other_event = Mayhem::Models::Event.create!(
+              {
+                'title' => 'Other Event',
+                'start_date' => '2025-12-21T09:00:00-08:00',
+                'organization_title' => 'Other Org'
+              },
+              body: 'Other event.'
+            )
+
+            image = Mayhem::Models::Image.create!(
+              {
+                'checksum' => 'abc123',
+                'date' => '2025-12-20T07:54:25+00:00',
+                'image_url' => '/assets/images/abc123.webp',
+                'organization_title' => 'Alpha Org',
+                'source_url' => 'https://example.com/alpha.png',
+                'title' => 'Alpha Image'
+              },
+              body: ''
+            )
+            other_image = Mayhem::Models::Image.create!(
+              {
+                'checksum' => 'def456',
+                'date' => '2025-12-21T07:54:25+00:00',
+                'image_url' => '/assets/images/def456.webp',
+                'organization_title' => 'Other Org',
+                'source_url' => 'https://example.com/other.png',
+                'title' => 'Other Image'
+              },
+              body: ''
+            )
+
+            assert_equal [news.id], org.news.map(&:id).sort
+            assert_equal [event.id], org.events.map(&:id).sort
+            assert_equal [image.id], org.images.map(&:id).sort
+            assert_equal [other_news.id], other.news.map(&:id).sort
+            assert_equal [other_event.id], other.events.map(&:id).sort
+            assert_equal [other_image.id], other.images.map(&:id).sort
+          end
+        end
+      end
     end
   end
 end

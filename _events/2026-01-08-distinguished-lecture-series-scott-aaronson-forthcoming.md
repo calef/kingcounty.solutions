@@ -14,7 +14,7 @@ feed_content: <article id="post-61726" class="post-61726 page type-page status-p
   href="https://www.youtube.com/@uwcse">YouTube channel</a> (<a href="https://www.youtube.com/@uwcse">https://www.youtube.com/@uwcse</a>),
   unless otherwise noted. The link will be available on that page one hour prior to
   the event.</p> </div> </article>
-image_ids: []
+image_checksums: []
 location: Gates Center (CSE2), G20 | Amazon Auditorium
 location_titles:
 - King County

@@ -1,7 +1,7 @@
 ---
 date: '2025-12-15T21:06:15+00:00'
-events:
-- 2026-05-11-ihdd-networking-day-2026
+event_ids:
+- 2026-05-11-ihdd-networking-day-2026.md
 events_extracted: true
 feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>Save
   the Date: IHDD Networking Day 2026</h2>\n<p><img src=\"https://ihdd.org/wp-content/uploads/2024/03/photo-2023-research-day-researcher-presentation.jpg\"></p>\n<p>Join
@@ -52,7 +52,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   a:hover .mk-svg-icon { fill: #ffffff !important;}</style>\n</div></section>\t</div>\n</aside>\n\n</div>\n\t</div>\n\n</div><p>The
   post <a>Save the Date: IHDD Networking Day 2026</a> appeared first on <a>UW IHDD</a>.</p>"
 feed_content_checksum: 16e09a5d89a8a9ee7c1384aa219b7c0e48c8c35a
-image_ids:
+image_checksums:
 - '0935d33b18fe5df807ed944f44f6baa59dfea58a16ff127e175eb15ffd27b670'
 location_titles:
 - King County

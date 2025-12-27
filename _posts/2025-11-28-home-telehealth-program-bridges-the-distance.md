@@ -1,6 +1,6 @@
 ---
 date: '2025-11-28T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">The VA Home Telehealth Program in West Texas helps Veterans stay connected</h2>
@@ -80,7 +80,7 @@ feed_content: |-
 
 
   <p></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

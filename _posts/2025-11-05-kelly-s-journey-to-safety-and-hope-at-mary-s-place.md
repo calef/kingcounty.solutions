@@ -1,6 +1,6 @@
 ---
 date: '2025-11-05T03:17:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">When Kelly arrived at&nbsp;Mary’s Place&nbsp;with her
   two young sons, Cole and Jayce, they had nothing but the clothes on their backs.
@@ -29,7 +29,7 @@ feed_content: "<p class=\"\">When Kelly arrived at&nbsp;Mary’s Place&nbsp;with
   class=\"sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element\"
   data-sqsp-button target=\"_blank\"\n  >\n    Make a gift to support families like
   kelly's\n  </a>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Mary's Place

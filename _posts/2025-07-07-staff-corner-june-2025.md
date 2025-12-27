@@ -1,6 +1,6 @@
 ---
 date: '2025-07-07T20:49:10+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Internship and Work-Study Programs </strong></p>
@@ -44,7 +44,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.elcentrodelaraza.org/staff-corner-june-2025/">Staff Corner: June 2025</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
-image_ids:
+image_checksums:
 - ef90d0d359f88f129564b23d39c519fc63d1f2079792ff41bac4ad2bad6a613b
 - feadd195dfdb37c60ca994486e67b21dc72a3253b2eaae870178c1b235966aa1
 - bd0388d6702b850377ea4b4c6b23019dbfb42001e6db12a9718002042ba60758

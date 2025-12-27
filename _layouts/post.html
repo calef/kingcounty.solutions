@@ -6,7 +6,7 @@ layout: default
   {% assign post_url = page.url | absolute_url %}
   {% capture post_action %}
 - Set `published: false` in the post front matter so the article is removed from feeds, pagination, and lists.
-- Set the image_ids front matter attribute to [].
+- Set the image_checksums front matter attribute to [].
 - Delete any image metadata and image files no longer referenced by any posts as a result of taking down this post.
   {% endcapture %}
   {% assign post_action = post_action | strip %}
@@ -64,12 +64,13 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
 
-    {% if page.events and page.events.size > 0 %}
+    {% if page.event_ids and page.event_ids.size > 0 %}
       <section class="related-events">
         <h2>Related Events</h2>
         <ul>
-          {% for event_id in page.events %}
-            {% assign event_doc = site.events | where: "slug", event_id | first %}
+          {% for event_id in page.event_ids %}
+            {% assign event_path = '_events/' | append: event_id %}
+            {% assign event_doc = site.events | where: "relative_path", event_path | first %}
             {% if event_doc %}
               <li>
                 <a href="{{ event_doc.url | relative_url }}">{{ event_doc.title }}</a>
@@ -85,9 +86,9 @@ layout: default
       </section>
     {% endif %}
 
-    {% if page.image_ids and page.image_ids.size > 0 %}
+    {% if page.image_checksums and page.image_checksums.size > 0 %}
       {% assign post_carousel_images = '' | split: '' %}
-      {% for image_id in page.image_ids %}
+      {% for image_id in page.image_checksums %}
         {% assign normalized_id = image_id | append: '' | strip %}
         {% assign image_doc = site.images | where: "checksum", normalized_id | first %}
         {% assign image_url = "" %}

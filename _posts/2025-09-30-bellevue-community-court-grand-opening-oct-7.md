@@ -1,6 +1,6 @@
 ---
 date: '2025-09-30T18:23:43+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   Community Court grand opening Oct. 7</span>\n<span class=\"field field--name-uid
@@ -50,7 +50,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   field--name-field-article-date field--type-datetime field--label-hidden field__item\"><time
   datetime=\"2025-09-30T12:00:00Z\" class=\"datetime\">September 30 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Bellevue

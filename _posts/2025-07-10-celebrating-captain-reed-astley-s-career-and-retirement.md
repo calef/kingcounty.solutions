@@ -1,6 +1,6 @@
 ---
 date: '2025-07-10T15:57:24+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Join us in celebrating Captain Reed Astley as he embarks on his well-deserved retirement from the Valley Regional Fire Authority!
@@ -12,7 +12,7 @@ feed_content: |-
   Thank you, Captain Astley, for your unwavering dedication to our communities! We wish you all the best in this exciting new chapter of your life!
 
   The post [Celebrating Captain Reed Astley’s Career and Retirement](https://www.vrfa.org/2025/07/celebrating-captain-reed-astleys-career-and-retirement/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - South King County
 organization_title: Valley Regional Fire Authority

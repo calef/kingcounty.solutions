@@ -1,7 +1,7 @@
 ---
 end_date: '2026-01-03T11:00:00-08:00'
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: American Legion Hall
 location_titles:
 - King County

@@ -6,7 +6,7 @@ feed_content: |-
 
 
   <p><strong><em>A Christmas Story</em></strong> is a 1983 comedy, that follows a young boy, Ralphie Parker, and his family&#8217;s misadventures during Christmas time in December 1940. Ralphie attempts to convince his parents, teacher and Santa Claus, that a Red Ryder Range 200 Shot BB gun really is the perfect Christmas gift.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Wallingford Community Senior Center
 published: false

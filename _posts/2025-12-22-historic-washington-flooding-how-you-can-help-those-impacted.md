@@ -1,7 +1,7 @@
 ---
 date: '2025-12-22T21:39:00+00:00'
-events:
-- 2026-01-01-free-flood-debris-disposal
+event_ids:
+- 2026-01-01-free-flood-debris-disposal.md
 events_extracted: true
 feed_content: |-
   <div>
@@ -163,7 +163,7 @@ feed_content: |-
 
   <div></div>
 feed_content_checksum: d6c86631a7c30ed1242f2a76ba35280dd6310a2a
-image_ids:
+image_checksums:
 - 1de16532169679fab8a284fe259be3c5acbf8a285adbdfd86943564262185e9d
 - f05269ae560d03a2c2bf536282047cb746d8ae2b4de0920a32825b25bf8a5a29
 location_titles:

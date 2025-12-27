@@ -1,6 +1,6 @@
 ---
 date: '2025-07-02T20:55:02+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">Too often, navigating the banking system, budgeting,
   and building credit can feel overwhelming. These skills are usually not taught in
@@ -42,7 +42,7 @@ feed_content: "<p class=\"\">Too often, navigating the banking system, budgeting
   class=\"sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element\"
   data-sqsp-button target=\"_blank\"\n  >\n    donate to support programs at Mary's
   Place\n  </a>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Mary's Place

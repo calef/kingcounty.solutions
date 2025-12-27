@@ -4,7 +4,7 @@ feed_content: Seattle – Today, Mayor Bruce Harrell released the following stat
   after the passing of Lenny Wilkens:&#160; “I am deeply saddened by the passing of
   Lenny Wilkens, a trailblazing Seattle icon and legendary figure in the history of
   basketball. One of...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

@@ -3,7 +3,7 @@ end_date: '2026-02-17T16:00:00-08:00'
 feed_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>UW voice
   students of Thomas Harper and Carrie Shaw perform art songs and arias from the vocal
   repertoire. </p> <h2>Biographies</h2> </div> </div>
-image_ids: []
+image_checksums: []
 location: Music Building (MUS)
 location_titles:
 - King County

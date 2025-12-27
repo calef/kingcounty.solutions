@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T16:35:32+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'For Immediate Release Contact InformationCynthia SantanaPhone: 206-256-5219Email:
   cynthia.santana@seattle.gov Seattle Office of Labor Standards Announces Expiration
@@ -9,7 +9,7 @@ feed_content: 'For Immediate Release Contact InformationCynthia SantanaPhone: 20
   8, 2025) – The Seattle Office of Labor Standards (OLS) announces the Grocery Employee
   Hazard Pay (GEHP), Gig […]'
 feed_content_checksum: 46cd8026ab987b8143250401572a0aa048835cdc
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

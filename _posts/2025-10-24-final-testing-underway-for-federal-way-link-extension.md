@@ -1,6 +1,6 @@
 ---
 date: '2025-10-24T06:49:11-07:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: <div><p paraid="1335489336" paraeid="{9790bcc5-73d6-4f92-ac30-a107d48d5975}{7}">The
   Federal Way Link Extension is in the home stretch. For light rail transit that means
@@ -8,7 +8,7 @@ feed_content: <div><p paraid="1335489336" paraeid="{9790bcc5-73d6-4f92-ac30-a107
   — every eight to 15 minutes depending on the day and time — south of Angle Lake
   to the Federal Way Downtown Station, stopping at Kent Des Moines and Star Lake stations
   along the way.</p></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Sound Transit

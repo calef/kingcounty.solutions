@@ -7,6 +7,8 @@ require_relative '../logging'
 require_relative '../front_matter/document'
 require_relative '../models/topic'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module Topics
     class OrganizationAudit

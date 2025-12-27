@@ -1,13 +1,13 @@
 ---
 date: '2025-07-10T19:14:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p data-rte-preserve-empty="true">Healthcare : A Fundamental Right</p>
 
 
     <p class="">Mount Si High School senior Sophia Long created this short video for the 2025 C-SPAN StudentCam Challenge, exploring healthcare as a fundamental right. Sophia is a passionate advocate for rural health and human-centered innovation, we’re proud to share her work with our community.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: CarePoint Clinic

@@ -225,7 +225,7 @@ feed_content: '<article id="post-14534" class="post-14534 page type-page status-
   href="https://evans.uw.edu/faculty-research/expertise/social-policy-poverty-and-social-welfare/"
   title="Social Policy: Poverty and Social Welfare">Social Policy</a></h4> </div>
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </article>'
-image_ids: []
+image_checksums: []
 location: Zoom
 location_titles:
 - King County

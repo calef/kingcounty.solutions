@@ -10,7 +10,7 @@ feed_content: '<script type="application/ld+json"> { "@context": "https://schema
   "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location":
   {"@type":"VirtualLocation","url":"https://events.uw.edu/event/958eec2c-bf2a-42cf-bfad-5547356c64da"}
   } </script>'
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

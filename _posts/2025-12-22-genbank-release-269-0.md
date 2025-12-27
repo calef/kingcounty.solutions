@@ -7,7 +7,7 @@ feed_content: GenBank release 269.0 (12/16/2025) is now available on the NCBI FT
   pairs of sequence data 1,033,885,396 bulk-oriented TSA records containing 878,730,431,459
   base pairs of … <a>Continue reading <span>GenBank Release 269.0</span> <span>→</span></a>
 feed_content_checksum: 30cb2530e0e3979e5e1764109f5a7984b7029d3b
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: National Center for Biotechnology Information
 original_source_html: GenBank release 269.0 (12/16/2025) is now available on the NCBI

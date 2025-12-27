@@ -7701,7 +7701,7 @@ feed_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-he
   .author{margin-top:1.5rem;font-size:18px;text-align:center;letter-spacing:2px}.fusion-testimonials.clean
   .author a{text-decoration:none}.fusion-testimonials.clean .avatar-above .testimonial-thumbnail{margin-bottom:1.5rem}.fusion-testimonials.clean
   .avatar-below .testimonial-thumbnail{margin-top:1.5rem}.fusion-text{--awb-content-alignment:initial;--awb-font-size:inherit;--awb-line-height:inherit;--awb-letter-spacing:inherit;--awb-text-transform:inherit;--awb-text-color:inherit;--awb-text-font-family:inherit;--awb-text-font-style:inherit;--awb-text-font-weight:inherit;--awb-colu'
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

@@ -1,13 +1,13 @@
 ---
 date: '2025-07-28T22:52:32+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Adult fares are changing Sept. 1, 2025, on King County Metro buses,
   Metro Flex, both Seattle Streetcar lines and both King County Water Taxi routes.
   ORCA LIFT fares on both Water Taxi routes are also changing. Reduced fare rates
   for Senior, Disabled, Youth, and ORCA LIFT riders will remain unchanged everywhere
   else. The new adult&#8230;
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Ferry District

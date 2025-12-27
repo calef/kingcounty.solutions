@@ -71,7 +71,7 @@ feed_content: |-
 
   <p>If you’re All About Veterans like Nurse Wesbey, consider a rewarding career at VA. Read more of Nurse Wesbey’s interview on <a>VA Careers</a>.  </p>
 feed_content_checksum: 0672a1a71233b72addec92818c9d1b0664583928
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: |-

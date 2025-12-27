@@ -5,7 +5,7 @@ feed_content: The holidays are over, but your Christmas tree doesn’t have to e
   other holiday greens for free through January 31. Composting your Christmas tree
   is an easy way ...
 feed_content_checksum: 54a1727512ed3e40ceb5240831254070631f9074
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

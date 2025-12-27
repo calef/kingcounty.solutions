@@ -1,6 +1,6 @@
 ---
 date: '2025-10-13T19:34:18+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>The Center is excited to host a dental clinic offered in partnership with Medical Teams International. The clinic will provide urgent dental care services, including fillings, extractions, and comprehensive exams, all at no cost. Thanks to the support of Cambia Health Foundation, they are focused on serving seniors as part of their priority area, Healthy and Connected Aging.</p>
@@ -17,7 +17,7 @@ feed_content: |-
 
   <p>Day: Friday, 12/5<br>Time: 9:00 am–2:00 pm</p>
   <p>The post <a href="https://shorelinelfpseniorcenter.org/mobile-dental-clinic/">Mobile Dental Clinic</a> appeared first on <a href="https://shorelinelfpseniorcenter.org">Shoreline Lake Forest Park Senior Activity Center</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Shoreline Lake Forest Park Senior Activity Center

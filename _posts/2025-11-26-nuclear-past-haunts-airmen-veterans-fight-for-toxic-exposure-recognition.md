@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T14:45:18+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_48533\"
   aria-describedby=\"caption-attachment-48533\" style=\"width: 300px\" class=\"wp-caption
@@ -48,7 +48,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachm
   post <a href=\"https://www.dav.org/learn-more/news/2025/nuclear-past-haunts-airmen-veterans-fight-for-toxic-exposure-recognition/\">Nuclear
   past haunts airmen: Veterans fight for toxic exposure recognition</a> appeared first
   on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-image_ids:
+image_checksums:
 - 53f1d8f6219b06261156dab116b0a7e36a3d2ed8981b2fe0ac16e12ebfd3bf07
 location_titles:
 - King County

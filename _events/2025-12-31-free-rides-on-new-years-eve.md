@@ -4,7 +4,7 @@ feed_content: King County Metro and regional transit agencies will offer free ri
   Eve.
 feed_content_checksum: f5f10bc2ec29eac0b5f543cdac6ba724860332ce
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: King County, Washington
 location_titles:
 - King County

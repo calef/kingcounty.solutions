@@ -1,6 +1,6 @@
 ---
 date: '2025-09-09T18:54:29+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "![](https://encompassnw.org/wp-content/uploads/2025/09/Confidence-Camp-Square-300x300.png)When
   a new school year approaches, many kids experience a whirlwind of mixed emotions.
@@ -67,7 +67,7 @@ feed_content: "![](https://encompassnw.org/wp-content/uploads/2025/09/Confidence
   more or register: [https://bit.ly/3I3dJFe](https://bit.ly/3I3dJFe)**\n\nThe post
   [Confidence Camp: Back-to-School Edition](https://encompassnw.org/confidence-camp-back-to-school-edition/)
   first appeared on [Encompass](https://encompassnw.org)."
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Encompass

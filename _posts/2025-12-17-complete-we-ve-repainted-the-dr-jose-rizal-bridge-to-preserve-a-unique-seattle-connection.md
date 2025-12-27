@@ -5,7 +5,7 @@ feed_content: 'Blog stats: 600 words | 3-minute read We recently finished repain
   and Beacon Hill. Unlike previous painting and maintenance efforts, this is the first
   time we ...'
 feed_content_checksum: dc944a8c20e602f9dfaa9e30b0f2a75087f25690
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

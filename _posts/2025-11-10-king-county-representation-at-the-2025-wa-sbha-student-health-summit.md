@@ -1,13 +1,13 @@
 ---
 date: '2025-11-10T16:26:18+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: On November 7, the Washington School Based Health Alliance hosted its
   annual Student Health Summit at Western Washington University, attracting nearly
   100 attendees. Representatives from King County's health organizations presented
   their initiatives, including student health councils and local health jurisdiction
   support, fostering networking and collaboration among peers across the state.
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County School Health

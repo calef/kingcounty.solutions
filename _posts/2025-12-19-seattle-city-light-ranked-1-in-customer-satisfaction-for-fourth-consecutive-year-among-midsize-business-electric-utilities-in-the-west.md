@@ -6,7 +6,7 @@ feed_content: 'We are pleased to announce that we have been ranked #1 in custome
   50,000–99,999 business customers, according to the J.D. Power 2025 U.S. Electric
   Utility Business Customer Satisfaction […]'
 feed_content_checksum: 58ca14b508ce0ae6ea80469f4f75f883e1b96727
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

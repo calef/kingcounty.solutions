@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T17:47:39+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>AFW passenger Gabe has been flying with AFW since early 2024 to reach his essential care at Children’s Hospital LA. Gabe’s mother, Jadie, shares:</p>
@@ -64,7 +64,7 @@ feed_content: |-
 
 
   <figure class="wp-block-video"><video controls src="https://angelflightwest.org/wp-content/uploads/2025/12/Video.mov"></video></figure><p>The post <a href="https://angelflightwest.org/news/meet-afw-passenger-gabe/">Meet AFW Passenger Gabe</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Angel Flight West
 published: false

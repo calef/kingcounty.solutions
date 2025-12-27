@@ -4,7 +4,7 @@ feed_content: 'As we head into the holiday season, we want to share some importa
   reminders about our collection services. Garbage, recycling, and food and yard waste
   will NOT be collected on these upcoming holidays: If your regular collection day
   falls on one of th...'
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

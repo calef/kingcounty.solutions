@@ -1,6 +1,6 @@
 ---
 date: '2025-12-19T17:51:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "(844) 965-1386 If you need assistance with damage from the Washington
   Floods, call the number above to ask for help. Crisis Cleanup will connect you with
@@ -8,7 +8,7 @@ feed_content: "(844) 965-1386 If you need assistance with damage from the Washin
   who may be able to assist with: All services are free, but service is not guaranteed
   due to the […]"
 feed_content_checksum: 2a0b2fa9f5a2c71cca7a2471a8e35d9f30581513
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

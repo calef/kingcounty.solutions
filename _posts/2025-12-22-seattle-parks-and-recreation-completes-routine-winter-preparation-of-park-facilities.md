@@ -5,7 +5,7 @@ feed_content: Many park bathrooms and water fountains are closed for the winterÂ
   many park bathrooms and drinking fountains for the winter season to prevent pipes
   from free...
 feed_content_checksum: c75a3678e9c5ccb1e9c4cbab9b7f65cf8486b71d
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,10 +1,10 @@
 ---
 date: '2025-09-22T21:24:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Fifteen years ago, Loretta was searching for support after being diagnosed
   with a degenerative eye condition that meant she had to give...
-image_ids: []
+image_checksums: []
 location_titles:
 - Eastside
 organization_title: Eastside Friends of Seniors

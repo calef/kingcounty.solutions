@@ -1,13 +1,13 @@
 ---
 date: '2025-11-13T17:20:15+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: November is often the time of year when we reflect on what we can be
   grateful and thankful for. This year, many folks in our community are facing uncertainty
   around access to SNAP food benefits, increasing healthcare premiums, furloughs,
   and other challenges. Recognizing multiple things can be true – we reflect on the
   hard  [...]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Multi-Service Center

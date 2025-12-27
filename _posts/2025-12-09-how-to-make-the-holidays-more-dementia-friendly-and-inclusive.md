@@ -1,12 +1,12 @@
 ---
 date: '2025-12-09T06:00:39+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>The year-end holidays are here and often include get-togethers with family and friends, lively conversation, good food, gift exchanges, and festive merrymaking. For someone living with Alzheimer’s disease or another form of dementia, however, the activities, engagement, and added stimulation can be disorienting. The holidays can also interfere with daily routines, causing stress and confusion. […]</p>
   <p>The post <a>How to make the holidays more dementia-friendly and -inclusive</a> appeared first on <a>Aging Wisdom</a>.</p>
 feed_content_checksum: b3d46bfff4435e66a5b606d77f2b3f99dca98cfa
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Aging Wisdom

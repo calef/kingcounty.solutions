@@ -66,7 +66,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   when they say customer service, workplace diversity, team building and professionalism</li>
   </ul> </div> </div> </div> </section> </div> </section> </div> </div>'
 feed_content_checksum: ea03daa41df300111ad7ae7ec4c0d3662130d782
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

@@ -5,7 +5,7 @@ feed_content: A 28-year-old woman is behind bars following her arrest last night
   On Dec. 22 at about 5:45p.m., patrol officers responded to 10805 Pacific Highway
   South to meet wit...
 feed_content_checksum: 1a5d2bae077bcdb5243d2a7538f00af79ed2d976
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle
