@@ -2,6 +2,7 @@
 
 require 'fmrepo'
 require_relative 'abstract_content'
+require_relative 'event'
 
 module Mayhem
   module Models
@@ -26,9 +27,14 @@ module Mayhem
         self['date']
       end
 
-      # TODO: add events def that looks up the events by their id
       def event_ids
         self['event_ids'] || []
+      end
+
+      def events
+        event_ids.map do |event_id|
+          Event.find(event_id)
+        end
       end
 
       def events_extracted
