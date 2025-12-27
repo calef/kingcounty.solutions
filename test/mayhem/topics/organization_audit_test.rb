@@ -1,9 +1,6 @@
 # frozen_string_literal: true
 
 require_relative '../../test_helper'
-require 'fileutils'
-require 'minitest/autorun'
-require 'tmpdir'
 require_relative '../../../lib/mayhem/topics/organization_audit'
 
 class OrganizationAuditTest < Minitest::Test
@@ -14,19 +11,11 @@ class OrganizationAuditTest < Minitest::Test
   end
 
   def setup
-    @tmp_dirs = Array.new(3) { Dir.mktmpdir }
     client = FakeClient.new
     @audit = Mayhem::Topics::OrganizationAudit.new(
       client: client,
-      org_dir: @tmp_dirs[0],
-      topic_repo: @tmp_dirs[1],
-      posts_dir: @tmp_dirs[2],
       logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
     )
-  end
-
-  def teardown
-    @tmp_dirs.each { |d| FileUtils.remove_entry(d) }
   end
 
   def test_normalize_response_strips_triple_backtick_json
