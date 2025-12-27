@@ -36,10 +36,14 @@ GEM
       multipart-post (~> 2.0)
     faraday-net_http (3.4.2)
       net-http (~> 0.5)
+    ffi (1.17.2-aarch64-linux-gnu)
     ffi (1.17.2-arm64-darwin)
     ffi (1.17.2-x86_64-linux-gnu)
     fileutils (1.8.0)
     forwardable-extended (2.6.0)
+    google-protobuf (4.33.2-aarch64-linux-gnu)
+      bigdecimal
+      rake (>= 13)
     google-protobuf (4.33.2-arm64-darwin)
       bigdecimal
       rake (>= 13)
@@ -123,6 +127,8 @@ GEM
     net-http (0.9.1)
       uri (>= 0.11.1)
     netrc (0.11.0)
+    nokogiri (1.18.10-aarch64-linux-gnu)
+      racc (~> 1.4)
     nokogiri (1.18.10-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.18.10-x86_64-linux-gnu)
@@ -199,6 +205,8 @@ GEM
       faraday-multipart (>= 1)
     ruby-progressbar (1.13.0)
     safe_yaml (1.0.5)
+    sass-embedded (1.97.0-aarch64-linux-gnu)
+      google-protobuf (~> 4.31)
     sass-embedded (1.97.0-arm64-darwin)
       google-protobuf (~> 4.31)
     sass-embedded (1.97.0-x86_64-linux-gnu)
@@ -225,6 +233,7 @@ GEM
     yaml (0.4.0)
 
 PLATFORMS
+  aarch64-linux
   arm64-darwin
   x86_64-linux
 
@@ -260,4 +269,4 @@ DEPENDENCIES
   yaml
 
 BUNDLED WITH
-  4.0.2
+   2.6.9
