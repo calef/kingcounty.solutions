@@ -7,8 +7,20 @@ if [ "$OS" == "Darwin" ]; then
   ./script/ensure-homebrew
   brew install podman
   podman machine list
-  podman machine init
-  podman machine start
+
+  machine_name="podman-machine-default"
+  if podman machine list --format '{{.Name}}' | tr -d '*' | grep -qx "$machine_name"; then
+    echo "podman machine '$machine_name' already exists"
+  else
+    podman machine init
+  fi
+
+  if podman machine list --format '{{.Name}} {{.Running}}' | tr -d '*' | awk -v name="$machine_name" '$1 == name {print $2}' | grep -q true; then
+    echo "podman machine '$machine_name' already running"
+  else
+    podman machine start
+  fi
+
   podman build -f Containerfile -t kingcounty-solutions-dev .
 else
   echo "podman support only on MacOS"
