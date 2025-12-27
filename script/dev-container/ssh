@@ -8,6 +8,8 @@ SSH_USER="${DEV_CONTAINER_USER:-developer}"
 SSH_KEY_PATH="${DEV_CONTAINER_SSH_KEY_PATH:-${HOME}/.ssh/id_ed25519}"
 SSH_IDENTITY_ARGS=()
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 if [ -f "$SSH_KEY_PATH" ]; then
   SSH_IDENTITY_ARGS=(-i "$SSH_KEY_PATH")
 fi
@@ -18,8 +20,16 @@ if ! command -v podman >/dev/null 2>&1; then
 fi
 
 if [ "$(podman inspect -f '{{.State.Running}}' "$CONTAINER_NAME" 2>/dev/null || true)" != "true" ]; then
-  echo "Container $CONTAINER_NAME is not running. Start it with script/dev-container/start." >&2
-  exit 1
+  echo "Container $CONTAINER_NAME is not running. Starting it with script/dev-container/start." >&2
+  if ! "$SCRIPT_DIR/start"; then
+    echo "Failed to start $CONTAINER_NAME." >&2
+    exit 1
+  fi
+
+  if [ "$(podman inspect -f '{{.State.Running}}' "$CONTAINER_NAME" 2>/dev/null || true)" != "true" ]; then
+    echo "Container $CONTAINER_NAME could not be started." >&2
+    exit 1
+  fi
 fi
 
 exec ssh -p "$SSH_PORT" \
