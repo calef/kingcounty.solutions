@@ -2,6 +2,12 @@
 
 set -euo pipefail
 
+# Ensure SSH sessions always receive the UTF-8 locale and RuboCop cache defaults.
+export LANG="${LANG:-C.UTF-8}"
+export LANGUAGE="${LANGUAGE:-C.UTF-8}"
+export LC_ALL="${LC_ALL:-C.UTF-8}"
+export RUBOCOP_CACHE_ROOT="${RUBOCOP_CACHE_ROOT:-/work/tmp}"
+
 USER_NAME="${DEV_CONTAINER_USER:-developer}"
 PASSWORD="${DEV_CONTAINER_SSH_PASSWORD:-}"
 

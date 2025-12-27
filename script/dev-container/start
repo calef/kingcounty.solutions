@@ -69,7 +69,22 @@ ensure_passwordless_ssh() {
   fi
 }
 
+container_exists=false
 if podman ps -a --format "{{.Names}}" | grep -qx "$CONTAINER_NAME"; then
+  container_exists=true
+fi
+
+if [ "$container_exists" = "true" ]; then
+  desired_image_id="$(podman inspect -f '{{.Id}}' "$IMAGE_NAME")"
+  current_image_id="$(podman inspect -f '{{.Image}}' "$CONTAINER_NAME")"
+  if [ "$desired_image_id" != "$current_image_id" ]; then
+    echo "Recreating $CONTAINER_NAME because the image ($IMAGE_NAME) has been rebuilt."
+    podman rm -f "$CONTAINER_NAME"
+    container_exists=false
+  fi
+fi
+
+if [ "$container_exists" = "true" ]; then
   if [ "$(podman inspect -f '{{.State.Running}}' "$CONTAINER_NAME")" = "true" ]; then
     echo "Container $CONTAINER_NAME is already running."
   else
