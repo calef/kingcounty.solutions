@@ -1,6 +1,6 @@
 ---
 date: '2025-11-30T18:42:02+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Small Chef Salad, Veggie Noodle Soup &amp; Fruit </p>
@@ -33,7 +33,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-december-1st-5th/">Dining Menu December 1st &#8211; 5th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 published: false

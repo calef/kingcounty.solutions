@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T21:27:12+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>If staying in your home is becoming daunting, moving in with adult children is not practical, and living in a retirement facility is too costly/not appealing, come explore another option: cohousing. Imagine a small group of peers who design and create their own community of homes and common amenities where they mutually support and enhance each other’s lives as they age. This is cohousing.</p>
@@ -18,7 +18,7 @@ feed_content: |-
   <p></p>
   <p>The post <a>Is CoHousing Right for You?</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: 957a41e66da0cef8eddce86110a77e141e261077
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Shoreline Lake Forest Park Senior Activity Center

@@ -6,7 +6,7 @@ feed_content: 'Evacuation alerts can be overwhelming to receive. This is why Kin
   aware of danger in the area. Emergency officials are asking you to start preparing
   […]'
 feed_content_checksum: 72dede4ac444533e14eae4a8d85e9c08d4d4d2e2
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

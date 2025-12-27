@@ -18,7 +18,7 @@ feed_content: |-
   <p> </p>
   <p> </p>
 feed_content_checksum: 3260a36e1dd79b50df14eb917c1f1338f02fe629
-image_ids: []
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Snoqualmie Indian Tribe

@@ -1,6 +1,6 @@
 ---
 date: '2025-08-12T18:36:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>TACOMA, Wash. — Seattle Magazine has honored over 60 MultiCare physicians in its 25th annual “Top Doctors” issue. The list names the best physicians in the Puget Sound region.</p>
@@ -84,7 +84,7 @@ feed_content: |-
   <li><a href="https://www.multicare.org/provider/brian-j-schoos/" data-wpel-link="internal">Brian Schoos, MD</a>: pediatrics; Woodcreek Pediatrics, Bonney Lake</li>
   </ul>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/08/seattle-magazine-top-doctors-2025/" data-wpel-link="internal">More than 60 MultiCare physicians named ‘Top Doctors’ by Seattle Magazine</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: MultiCare

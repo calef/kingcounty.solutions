@@ -38,7 +38,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   </div> </li> </ul> </div> <p> <a> Back to events</a> </p> </div> </section> </div>
   </div> </div> </section>"
 feed_content_checksum: 599d289e3e05bd15b9aa835c9d723c644ee20566
-image_ids: []
+image_checksums: []
 location: Virtual/Online, United States
 location_titles:
 - King County

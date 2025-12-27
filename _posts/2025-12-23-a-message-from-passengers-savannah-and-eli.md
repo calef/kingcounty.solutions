@@ -33,7 +33,7 @@ feed_content: |-
   <figure><img src="https://angelflightwest.org/wp-content/uploads/2025/12/IMG_7456-1-768x1024.jpeg"></figure>
   </figure><p>The post <a>A Message From Passengers Savannah and Eli </a> first appeared on <a>Angel Flight West</a>.</p>
 feed_content_checksum: 2959f09a55c20e071e28d02f72ab34defd73feb6
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Angel Flight West
 original_source_html: |-

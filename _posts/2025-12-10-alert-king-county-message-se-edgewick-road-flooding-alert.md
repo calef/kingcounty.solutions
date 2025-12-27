@@ -5,7 +5,7 @@ feed_content: Due to severe weather conditions and damage to the roads, as of to
   The road may need to be closed completely. Crews will work on the road beginning
   Dec. 10, and there will be intermittent closures. Your safety is […]
 feed_content_checksum: b88c1843148a3a7f7868625f00575a17b3476684
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

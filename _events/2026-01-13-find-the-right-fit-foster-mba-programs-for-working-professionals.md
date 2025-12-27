@@ -7,7 +7,7 @@ feed_content: <div class="auraMsgBox auraLoadingBox" id="auraLoadingBox"> <span>
   aria-label="Cancel and close"><span aria-hidden="true">×</span></a><span id="auraErrorTitle">Sorry
   to interrupt</span></span><div id="auraErrorMessage">CSS Error</div> <div class="auraErrorFooter"><a
   role="button" href="?" id="auraErrorReload">Refresh</a></div> </div></div>
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

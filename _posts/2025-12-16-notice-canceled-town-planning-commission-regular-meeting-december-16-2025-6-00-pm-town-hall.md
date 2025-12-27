@@ -6,7 +6,7 @@ feed_content: |-
   <p>Thank you.</p>
   <p> </p>
 feed_content_checksum: 5731169888cc89849716d21a2eece7d5b09e43a0
-image_ids: []
+image_checksums: []
 location_titles:
 - Yarrow Point
 organization_title: Town of Yarrow Point

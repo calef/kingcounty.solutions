@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T20:37:21+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>As our <a>Room for All capital campaign</a> that brought about our
   new Community Food Hub comes closer to completion, we’re reflecting on all of the
@@ -55,7 +55,7 @@ feed_content: "<p>As our <a>Room for All capital campaign</a> that brought about
   \               \n                <img src=\"https://images.squarespace-cdn.com/content/v1/61c3b06eab6b64568d0ec740/99c49ea0-96d6-4315-9e6d-5aeb02adfe0a/5-+IMG_9293.jpg?format=1000w\">\n\n
   \           \n          \n        \n          \n        \n\n        \n      \n        </figure>"
 feed_content_checksum: 402675f80992166f9c06a6cfbf707e80009f9e07
-image_ids:
+image_checksums:
 - 38b65651034bec7d73971730da7eb7b0f4d9897e7e43ca296442ce36804186aa
 - e57ed7c75d8c74811ff1795939bebfab7f561867719bfe0b6f371050baa62f45
 location_titles:

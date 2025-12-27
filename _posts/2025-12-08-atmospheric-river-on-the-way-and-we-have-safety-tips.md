@@ -1,13 +1,13 @@
 ---
 date: '2025-12-08T23:38:09+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: By now, you have probably heard about the heavy winds and rain in the
   forecast. Just step outside, you’ll feel the gusts. There’s clearly a storm rolling
   in. To help you best prepare for your afternoon and morning commutes during this
   major “atmospheri...
 feed_content_checksum: 5f1711c8a76a6e3b7a99459ba4fc0d1afef412bb
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

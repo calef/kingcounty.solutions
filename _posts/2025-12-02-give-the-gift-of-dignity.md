@@ -1,7 +1,7 @@
 ---
 date: '2025-12-02T21:03:00+00:00'
-events:
-- 2026-01-26-essentials-first-day-of-action
+event_ids:
+- 2026-01-26-essentials-first-day-of-action.md
 events_extracted: true
 feed_content: "<p><a><strong>Your gift today</strong></a><strong> makes a direct,
   life-changing impact for the 28% of Washingtonians who cannot afford basic hygiene
@@ -59,7 +59,7 @@ feed_content: "<p><a><strong>Your gift today</strong></a><strong> makes a direct
   you choose to give, thank you for taking the time to learn about the urgent and
   often invisible work being done to ensure <strong>hygiene access for all</strong>.</p>"
 feed_content_checksum: 93f85140b0f9750b9593f1106d2e4037d5e810a4
-image_ids:
+image_checksums:
 - f55c4aeb9c4bc72fe180a9edf7b7ae2ae9a21baed592a41042329223973105fd
 location_titles:
 - King County

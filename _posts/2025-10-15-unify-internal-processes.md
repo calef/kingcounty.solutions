@@ -6,7 +6,7 @@ feed_content: |-
   LOPS and LISMs have started planning to update programming systems, setting the foundation for clearer communication that will continue to evolve in 2026. We have also taken major steps in ensuring consistent collection of data to track the success of our programs and projects by developing consistent dashboards.&nbsp;
 
   Looking ahead to 2026, we’ll continue to refine our systems with the Equity Impact Tool, ensuring decisions and policies are informed by equity at every level. These changes are laying the groundwork for a more unified, efficient, and equitable organization.&nbsp;
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: King County Library System
 published: false

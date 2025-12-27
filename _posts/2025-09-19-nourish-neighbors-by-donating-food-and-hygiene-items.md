@@ -1,6 +1,6 @@
 ---
 date: '2025-09-19T14:45:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Nourish
   neighbors by donating food and hygiene items</span>\n<span class=\"field field--name-uid
@@ -49,7 +49,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-09-19T12:00:00Z\" class=\"datetime\">September
   19 2025</time>\n</div>\n      \n    </div>\n  </div>"
-image_ids:
+image_checksums:
 - a7a125584e0ec4f274b0c0a43f0e6d19fd7205001536359a3783ed0aa53228b1
 location_titles:
 - King County

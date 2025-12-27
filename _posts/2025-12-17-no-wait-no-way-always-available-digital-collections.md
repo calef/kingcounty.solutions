@@ -22,7 +22,7 @@ feed_content: |-
   <p>To explore these collections, check out our <a>Always Available</a> page on the library’s OverDrive website, or the Libby app.</p>
   <p><em>~Posted by Frank</em></p>
 feed_content_checksum: 295fd5bbf705145efb33573eec094ad90633c73e
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: The Seattle Public Library

@@ -1,13 +1,13 @@
 ---
 date: '2025-09-17T16:58:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'The turning of the fall leaves welcomes a new tradition for the residents
   of Vashon: Saturday water taxi service. The water taxi will operate eight extra
   round-trips between Pier 50 in downtown Seattle and the Vashon Ferry Terminal beginning
   Oct. 11.    &#160;“Vashon Island was the first water taxi route for King County,
   and residents&#8230;'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Ferry District

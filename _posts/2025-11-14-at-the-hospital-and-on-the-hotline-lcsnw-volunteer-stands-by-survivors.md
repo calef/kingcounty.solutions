@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14T00:20:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p><div class=\"et_pb_section et_pb_section_0 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
@@ -100,7 +100,7 @@ feed_content: "<p><div class=\"et_pb_section et_pb_section_0 blog-post-type et_s
   post <a href=\"https://lcsnw.org/2025/11/lcsnw-volunteer-stands-by-survivors/\">At
   the hospital and on the hotline, LCSNW volunteer stands by survivors</a> appeared
   first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Lutheran Community Services Northwest
 published: false

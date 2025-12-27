@@ -12,11 +12,17 @@ module Mayhem
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-5.1'))
       DEFAULT_TEMPERATURE = 0.2
 
-      def initialize(topic_repo: nil, topic_model: Mayhem::Models::Topic, model: DEFAULT_MODEL, client: nil,
-                     chat_client: nil, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+      def initialize(
+        model: DEFAULT_MODEL,
+        topic_repo: nil,
+        topic_model: Mayhem::Models::Topic,
+        client: nil,
+        chat_client: nil,
+        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+      )
+        @model = model
         @topic_repo = topic_repo
         @topic_model = topic_model
-        @model = model
         @logger = logger
         @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(client: client, logger: @logger)
       end
@@ -24,12 +30,12 @@ module Mayhem
       def classify(text)
         return [] if text.to_s.strip.empty?
 
-        catalog = load_topic_catalog
+        catalog = @topic_model.relation(repo: @topic_repo).to_a
         return [] if catalog.empty?
 
-        allowed_titles = catalog.map { |topic| topic['title'] }
+        allowed_titles = catalog.map(&:title)
         catalog_lines = catalog.map do |topic|
-          summary = topic['summary']
+          summary = topic.body
           "- #{topic['title']}: #{summary&.empty? ? 'No summary provided.' : summary}"
         end
 
@@ -76,19 +82,6 @@ module Mayhem
       rescue StandardError => e
         @logger.warn "Topic classification failed: #{e.message}"
         []
-      end
-
-      private
-
-      def load_topic_catalog
-        relation = @topic_model.relation(repo: @topic_repo)
-        relation.to_a.filter_map do |topic|
-          title = topic.title
-          next unless title
-
-          summary = topic.body.to_s.strip
-          { 'title' => title, 'summary' => summary }
-        end
       end
     end
   end

@@ -1,6 +1,6 @@
 ---
 date: '2025-08-08T19:42:47+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p><div class=\"et_pb_section et_pb_section_7 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
@@ -85,7 +85,7 @@ feed_content: "<p><div class=\"et_pb_section et_pb_section_7 blog-post-type et_s
   post <a href=\"https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/\">Former
   LCSNW employee, now volunteer, is a champion for immigrants</a> appeared first on
   <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-image_ids:
+image_checksums:
 - aee9befd6ba48493a1a03904e7fce1a3a13d45ab28e36dc9afde24c88b9f2bc0
 location_titles:
 - King County

@@ -1,6 +1,6 @@
 ---
 date: '2025-09-02T18:58:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>When you enter Hospitality House, one of the first thing you&#8217;ll see are bins of items generously donated by YOU! Items purchased from our Amazon Donations Needed list are sent directly to Hospitality House, processed, and stored where they are available for residents to &#8220;shop,&#8221; giving them the autonomy and dignity they so deserve.</p>
@@ -40,7 +40,7 @@ feed_content: |-
 
 
   <p></p>
-image_ids:
+image_checksums:
 - 30c19eb6bcaea188db48545bf896a07279869f6ea3d9978db0bbd2c992908275
 - 9b6caa7a1a77314c6c99b9a4c1ae839994ffb92b6941ec252a5b03914e54ea8f
 - 061011d1b46f02fdb203146350fee691ce9b1f250f22071f1f5cd78539a84893

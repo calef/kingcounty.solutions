@@ -1,6 +1,6 @@
 ---
 date: '2025-12-19T19:17:24+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span>State disciplines health care providers (12-19-2025)</span>\n\n
   \           <div>\n<time>December 19, 2025 - 11:08am</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>December
@@ -132,7 +132,7 @@ feed_content: "<span>State disciplines health care providers (12-19-2025)</span>
   \     \n  <div>\n    <div>News Author</div>\n              <div>Washington State
   Department of Health</div>\n          </div>"
 feed_content_checksum: 2aaee7101070e2e110bf4b73fdac3c97edae2152
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

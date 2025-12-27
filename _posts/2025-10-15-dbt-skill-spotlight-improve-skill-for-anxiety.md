@@ -1,6 +1,6 @@
 ---
 date: '2025-10-15T16:13:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="p1">Anxiety symptoms are often loud and impossible to ignore. At its best, <a href="https://www.nimh.nih.gov/health/topics/anxiety-disorders%23:~:text=Anxiety%2520disorder%2520symptoms%2520can%2520interfere%2520with%2520daily,encounters,%2520or%2520refuse%2520to%2520leave%2520their%2520home."><span class="s1">anxiety can keep us alert and prepared</span></a>—like the nerves that sharpen focus before a test or the quick response that helps us avoid danger. But when anxiety lingers too long or shows up too often, it stops being useful. Instead, it becomes disruptive, exhausting, and overwhelming.</p>
@@ -31,7 +31,7 @@ feed_content: |-
   <h2 class="p3">THIRA Health offers Seattle-based anxiety treatment that can help you IMPROVE the moment</h2>
   <p class="p6">IMPROVE is one of many distress tolerance DBT skills that are used in THIRA Health anxiety treatment program, alongside DBT skills that support mindfulness, interpersonal effectiveness, and emotional regulation to reduce the impact anxiety has on your life.</p>
   <p class="p6">If you or a loved one are struggling with anxiety, <a href="https://thirahealth.com/contact/"><span class="s1">contact THIRA Health today</span></a> to start working with our expert therapists. At THRIA Health’s Bellevue mental health treatment center, our comprehensive DBT programs <a href="https://thirahealth.com/2024/10/09/how-do-holistic-mental-health-treatments-help/"><span class="s1">take a holistic approach to mental health</span></a>, using DBT, mindful movement, family support, community involvement, and artistic expression to help you not only cope with the extremes of anxiety but to thrive.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: THIRA Health

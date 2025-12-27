@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Explore VA&#8217;s innovation, patient-centered pharmacy</h2>
@@ -44,7 +44,7 @@ feed_content: |-
 
 
   <p></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

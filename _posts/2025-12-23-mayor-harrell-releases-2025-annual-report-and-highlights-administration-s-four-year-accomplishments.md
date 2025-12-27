@@ -1,13 +1,13 @@
 ---
 date: '2025-12-23T22:30:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Seattle – Today, Mayor Bruce Harrell released summary reports detailing
   his administration’s achievements in 2025 and accomplishments over the last four
   years in office to enact his One Seattle vision of a safe, equitable, and thriving
   city.  “Whe...
 feed_content_checksum: f0e1eaca05ecf38eb89d2e21cf3ec22e26f977d9
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

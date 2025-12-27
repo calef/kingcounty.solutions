@@ -524,7 +524,7 @@ feed_content: '<div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:WYd;G
   jsaction="click:dQ6O0c;" data-abuse-reporting-widget-proto=''%.@.null,"https://sites.google.com/uw.edu/schoolofenvironmentalandforest/home"]''><div
   role="button" class="U26fgb kpPxtd J7BuEb" jsshadow aria-label="Report abuse" aria-disabled="false"
   tabindex="0">Report abuse</div></div> </div> </div> </div> </div></div> </div> </div></div>'
-image_ids: []
+image_checksums: []
 location: Denny Hall (DEN)
 location_titles:
 - King County

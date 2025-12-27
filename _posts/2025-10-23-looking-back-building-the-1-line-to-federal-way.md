@@ -1,13 +1,13 @@
 ---
 date: '2025-10-23T09:26:44-07:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: <div><p paraid="1754074966" paraeid="{727f9510-5ab4-4246-a6fb-aaf925c8c5ae}{13}">It’s
   been a long journey from groundbreaking to nearly opening day! As we count down
   to Dec. 6, when the <a href="https://www.soundtransit.org/southkinglink" data-entity-type="external">1
   Line will officially extend to Kent Des Moines, Star Lake, and Federal Way Downtown</a>,
   we’re taking a look back at the years of progress that brought us here.&nbsp;</p></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Sound Transit

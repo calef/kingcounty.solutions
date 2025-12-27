@@ -76,7 +76,7 @@ feed_content: |-
 
 
   <p><a href="https://islandrootshousing.org/">You can learn more about Island Roots Housing on their website</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Commerce
 published: false

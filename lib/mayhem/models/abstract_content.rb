@@ -20,8 +20,16 @@ module Mayhem
         self['feed_content_checksum']
       end
 
-      def image_ids
-        self['image_ids'] || []
+      def image_checksums
+        self['image_checksums'] || []
+      end
+
+      def images
+        require_relative 'image'
+
+        image_checksums.map do |checksum|
+          Image.find_by(checksum:)
+        end
       end
 
       def locked

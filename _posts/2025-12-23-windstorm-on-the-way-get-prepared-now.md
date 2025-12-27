@@ -6,7 +6,7 @@ feed_content: The National Weather Service in Seattle has forecast the potential
   and power lines. A High Wind Watch has been issued for the entire Puget Sound region,
   […]
 feed_content_checksum: b28c4b27022984f83951193b822e9a474c31f4fe
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

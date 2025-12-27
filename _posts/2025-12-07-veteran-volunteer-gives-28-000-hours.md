@@ -1,6 +1,6 @@
 ---
 date: '2025-12-07T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Veteran and volunteer gives back through art</h2>
@@ -49,7 +49,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA Minneapolis Health care System site </a> and has been edited for style and clarity.  </p>
 feed_content_checksum: b9617c3e4594563357f6858302fd157ecdc994fa
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

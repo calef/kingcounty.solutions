@@ -24,7 +24,7 @@ feed_content: |-
   <p><i><span>For more information, contact Rao at </span></i><a><i><span>rao@cs.washington.edu</span></i></a><i><span>.</span></i></p>
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 891a213eba33c1e38750c3ee3b761d212b5878ee
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: University of Washington

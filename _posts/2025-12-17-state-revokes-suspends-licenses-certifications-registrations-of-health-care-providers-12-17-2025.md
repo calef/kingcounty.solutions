@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T23:13:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span>State revokes, suspends licenses, certifications, registrations
   of health care providers (12-17-2025)</span>\n\n            <div>\n<time>December
@@ -105,7 +105,7 @@ feed_content: "<span>State revokes, suspends licenses, certifications, registrat
   \   <div>News Author</div>\n              <div>Washington State Department of Health</div>\n
   \         </div>"
 feed_content_checksum: 3112957b07c0ba8d19f6b51560bb0b0ccc9c4ef9
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-24T21:56:43+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><a href="https://www.energy.gov/lpo/articles/doe-announces-availability-10-billion-loan-authority-automotive-manufacturing">U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program</a></p>
@@ -70,7 +70,7 @@ feed_content: |-
 
 
   <p>For a list of previous and future funding opportunities please refer to the <a href="https://deptofcommerce.app.box.com/s/vz1hswfpvgp814de8q85vs2jpaxk1kjg">EV Council Program Catalog.</a></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

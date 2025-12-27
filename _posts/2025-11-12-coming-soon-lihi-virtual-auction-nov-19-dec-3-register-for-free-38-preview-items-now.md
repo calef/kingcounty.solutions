@@ -1,6 +1,6 @@
 ---
 date: '2025-11-12T22:21:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: LIHI's Virtual Auction  is our big annual public fundraiser for Tiny
   Houses and Urban Rest Stops. Get ready to support these programs and have a blast
@@ -9,7 +9,7 @@ feed_content: LIHI's Virtual Auction  is our big annual public fundraiser for Ti
   19th and run through Wednesday, December 3rd. It's not too late to donate an item
   to the auction. Please visit Donate an Auction Item . There is also still time to
   sponsor. Please...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

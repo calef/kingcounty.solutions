@@ -52,7 +52,7 @@ feed_content: '<a>Skip to main content</a> <div> <div> <section> <div> <div> <ar
   School business education is significant and growing.", "sameAs": ["https://www.facebook.com/UWFosterSchool","https://twitter.com/UWFosterSchool","https://www.instagram.com/uwfosterschool/","https://www.youtube.com/user/UWFosterSchool","https://www.linkedin.com/school/university-of-washington-foster-school-of-business/"]
   } </script>'
 feed_content_checksum: f0724b75111d946111ab1ac3bd6fdc3aef58d711
-image_ids: []
+image_checksums: []
 location: PACCAR Hall (PCAR)
 location_titles:
 - King County

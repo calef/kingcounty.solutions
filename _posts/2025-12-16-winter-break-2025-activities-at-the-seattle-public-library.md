@@ -1,13 +1,11 @@
 ---
 date: '2025-12-16T21:16:57+00:00'
-events:
-- 2025-12-23-winter-break-make-build
-- 2025-12-23-mini-canvas-and-watercolor-craft-session
-- 2025-12-27-magic-show-featuring-louie-foxx
-- 2025-12-29-winter-celebration
-- 2025-12-29-board-games
-- 2025-12-30-reading-party
-- 2025-12-31-craft-events-for-new-year-s-celebrations
+event_ids:
+- 2025-12-27-magic-show-featuring-louie-foxx.md
+- 2025-12-29-winter-celebration.md
+- 2025-12-29-board-games.md
+- 2025-12-30-reading-party.md
+- 2025-12-31-craft-events-for-new-year-s-celebrations.md
 events_extracted: true
 feed_content: |-
   <p>Looking for family fun and community while the kids are on winter break? Our libraries have planned board game bashes, crafternoons, maker events and early New Year’s parties. We are also hosting regular <a>story times</a> and other family programming.</p>
@@ -32,7 +30,7 @@ feed_content: |-
   <p><strong><a>Winter Break Crafts</a>. Wednesday, Dec. 31, from 2 p.m. to 5 p.m. </strong>Broadview Branch. Families are invited to join us in making simple crafts during winter break.</p>
   <p><strong><a>Nuestra Euforia / Our Euphoria Exhibit</a>. Through Jan. 10. Central Library Level 8 – Gallery. </strong>Curated by our Artist in Residence, Vaquero Azul, Nuestra Euforia/Our Euphoria celebrates trans and gender non-conforming community members past and present. <strong>This exhibit is in English and Spanish.</strong></p>
 feed_content_checksum: 101bc471e400ce2e65ce09b82697a9235df31f1d
-image_ids:
+image_checksums:
 - ba6a108785b21a184b50194cc4aa512ef2f6409f1228fbcfb0e0295fda40747a
 - 860563d83f68e60f8a9831e6940326f419da9a3c8b495793d3a18e6c92a7aefd
 location_titles:

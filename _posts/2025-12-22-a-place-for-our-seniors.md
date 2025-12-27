@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T20:46:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure><a><img src="https://www.compasshousingalliance.org/wp-content/uploads/2025/12/We-are-hiring-FB-Facebook-Post-6.png"></a></figure>
@@ -36,7 +36,7 @@ feed_content: |-
   <p>You can be a part of Eugenia’s story by sending a gift to Compass today. Please consider giving to help support a place for Seniors where they can continue to find dignity, love, and respect. Your support means so much to us.</p>
   <p>The post <a>A place for our Seniors</a> appeared first on <a>Compass Housing Alliance</a>.</p>
 feed_content_checksum: 81f178a8c767025d2235743374d8295ebbcf452b
-image_ids:
+image_checksums:
 - 247923f38b4ea699bb770b078865a8109cab1ab5fb07136ddf0f995196aa1981
 location_titles:
 - King County

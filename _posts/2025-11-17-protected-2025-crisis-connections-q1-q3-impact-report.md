@@ -1,6 +1,6 @@
 ---
 date: '2025-11-17T17:10:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <form action="https://www.crisisconnections.org/wp-login.php?action=postpass&#038;wpe-login=true" class="post-password-form" method="post"><input type="hidden" name="redirect_to" value="https://www.crisisconnections.org/2025-crisis-connections-impact-report/" /></p>
@@ -8,7 +8,7 @@ feed_content: |-
   <p><label for="pwbox-90996">Password: <input name="post_password" id="pwbox-90996" type="password" spellcheck="false" required size="20" /></label> <input type="submit" name="Submit" value="Enter" /></p>
   </form>
   <p>The post <a href="https://www.crisisconnections.org/2025-crisis-connections-impact-report/">Protected: 2025 Crisis Connections Q1-Q3 Impact Report</a> appeared first on <a href="https://www.crisisconnections.org">Crisis Connections</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Crisis Connections

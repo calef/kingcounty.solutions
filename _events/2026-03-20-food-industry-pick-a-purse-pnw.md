@@ -94,7 +94,7 @@ feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path
   <!-- Client analytics --> <!-- Google Tag Manager (noscript) --> <noscript><iframe></iframe></noscript>
   <!-- End Google Tag Manager (noscript) --> <script></script><script></script>  '
 feed_content_checksum: ec52cc8f00178fa542b70255d9049e39e18630d7
-image_ids: []
+image_checksums: []
 location: Hilton Downtown Portland, 921 SW 6th Ave, Portland, OR, 97204, United States
 location_titles: []
 organization_title: Olive Crest

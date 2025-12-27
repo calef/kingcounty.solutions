@@ -1,10 +1,10 @@
 ---
 date: '2025-09-26T20:03:12+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: For older adults, isolation can have serious consequences. Studies show
   that loneliness can lead to depression, cognitive decline, and...
-image_ids: []
+image_checksums: []
 location_titles:
 - Eastside
 organization_title: Eastside Friends of Seniors

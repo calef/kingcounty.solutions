@@ -4,7 +4,7 @@ feed_content: |-
   <p>Contact information: <a>davelcarlton@gmail.com</a></p>
   <p>Location: Pinellas Park, Florida</p>
 feed_content_checksum: 399ac4b91296d76795deb210d9567f21f4f5830a
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: NOSSCR Referral Service
 published: false

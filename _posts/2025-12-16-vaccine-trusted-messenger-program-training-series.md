@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T16:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The Washington Department of Health announces the launch of the first
   module in the Trusted Messenger Program Training Series, titled “Maximizing Trust
@@ -8,7 +8,7 @@ feed_content: The Washington Department of Health announces the launch of the fi
   and equips healthcare providers with strategies to enhance communication, manage
   resistance, and improve patient trust. Additional modules are forthcoming.
 feed_content_checksum: 9988b96174f4534f0cdd66ff102692efd01d078f
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County School Health

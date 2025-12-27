@@ -1,12 +1,12 @@
 ---
 date: '2025-11-21T17:22:11+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Zulhumor (Zulya) Halmamatova serves as a Senior Grants &#038; Contracts
   Specialist in the Homelessness division of the Human Service Department. She writes
   about how teamwork and the mission of keeping people housed and supported motivate
   her every day....
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,6 +1,6 @@
 ---
 date: '2025-10-01T21:29:58+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/10/Blog-FB-Post_goldencare-seminars-2025-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/10/Blog-FB-Post_goldencare-seminars-2025-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/10/Blog-FB-Post_goldencare-seminars-2025-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2025/10/Blog-FB-Post_goldencare-seminars-2025-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2025/10/Blog-FB-Post_goldencare-seminars-2025.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
@@ -69,7 +69,7 @@ feed_content: |-
 
 
   <p>RSVP today at 425.690.3150, option 2, or email <a href="mailto:pgunther@psbenefits.net" data-type="mailto" data-id="mailto:pgunther@psbenefits.net">pgunther@psbenefits.net</a> to reserve your spot and make the most of this enrollment season!</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Hospital District No. 1 (Valley Medical Center)

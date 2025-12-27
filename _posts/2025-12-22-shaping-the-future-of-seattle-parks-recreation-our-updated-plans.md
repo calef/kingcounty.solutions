@@ -5,7 +5,7 @@ feed_content: Today we are pleased to release an Updated 2020-2032 Strategic Pla
   a new 2025-2028 Action Plan. Check them out here.  Updated 2020-2032 Strategic Plan 
   Our...
 feed_content_checksum: 9bb82101fb5fdbac1b1f8bf5f52e61a0df8cf58d
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

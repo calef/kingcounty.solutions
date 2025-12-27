@@ -5,7 +5,7 @@ feed_content: The West Seattle Water Taxi is preparing to transition into the fa
   Seattle and West Seattle’s Seacrest Park in over six years. “It was great to see
   people taking advantage of the extended weekend service as well as the special sailings
   throughout the&#8230;
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: King County Ferry District
 published: false

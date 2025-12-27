@@ -6,7 +6,7 @@ feed_content: As of December 23 at 10 a.m., all evacuation notices near the Gree
   unsafe to return. Evacuation levels may change with little notice. Check updates
   and […]
 feed_content_checksum: f33780277725af775b7cb40c906c818041cfb406
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

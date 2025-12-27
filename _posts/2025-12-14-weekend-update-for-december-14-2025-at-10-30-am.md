@@ -10,7 +10,7 @@ feed_content: |-
   <p><i> </i>SR203 from Duvall North to Monroe appears to be back open. Many Roads across western Washington still remain closed due to water over roadways, erosion, and landslides.</p>
   <p>The Snoqualmie River is currently at Phase 0. There are projections showing that could change to Phase 3 at 34000cfs around Wednesday December 17, 2025.</p>
 feed_content_checksum: c0c14b74673169b306c71fc2e1ea961c7e37d5a7
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

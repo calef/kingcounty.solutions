@@ -2,7 +2,7 @@
 feed_content: Various craft events leading up to New Year’s celebrations.
 feed_content_checksum: ecf9615fed38f49b48824c6073a2d100232c42a5
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

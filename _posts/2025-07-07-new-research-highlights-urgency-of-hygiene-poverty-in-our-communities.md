@@ -1,6 +1,6 @@
 ---
 date: '2025-07-07T22:40:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">In their paper “Access to Dignity: Policy and Advocacy
   Opportunities for Ending Hygiene Poverty in Washington State”, the authors explore
@@ -63,7 +63,7 @@ feed_content: "<p class=\"\">In their paper “Access to Dignity: Policy and Adv
   team at the UW Evans School of Policy and authors of this paper for their hard work
   and dedication:</p><p class=\"\">Mara Bloom, MPA</p><p class=\"\">Olivia Ruuska,
   MPA</p><p class=\"\">Saleena Salango, MPA</p><p class=\"\">Matt Stoia, MSW, MPA</p>"
-image_ids:
+image_checksums:
 - 1877427c1fd462797be3d3e4b835a99e3d72254f9f4a072265d1f32e860c27d5
 location_titles:
 - King County

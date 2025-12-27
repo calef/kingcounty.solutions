@@ -1,6 +1,6 @@
 ---
 date: '2025-11-20T12:59:53+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_55407\"
   aria-describedby=\"caption-attachment-55407\" style=\"width: 300px\" class=\"wp-caption
@@ -80,7 +80,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachm
   and negotiating those 13 pesky stairs is a thing of the past, all thanks to DAV.</p>\n\n</div><p>The
   post <a href=\"https://www.dav.org/learn-more/news/2025/veteran-wins-fight-for-safer-home-after-va-denials/\">Veteran
   wins fight for safer home after VA denials</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-image_ids:
+image_checksums:
 - df0b7c9eaff2db9ab28cf72f8324841917027fd87e12c2960baf5ab82e47cece
 location_titles:
 - King County

@@ -17,7 +17,7 @@ feed_content: |-
   <p><a>Find this booklist in our library catalog: While You Wait: Heated Rivalry</a></p>
   <p><em>~ posted by Robin</em></p>
 feed_content_checksum: 19ec8e696f81a599bac7c78039985c7b6ac9ab99
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: The Seattle Public Library

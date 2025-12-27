@@ -68,6 +68,8 @@ module Mayhem
         check_events
       end
 
+      # TODO: migrate from Mayhem::FrontMatter::Document to the appropriate Mayhem::Models::* classes
+
       private
 
       def check_posts

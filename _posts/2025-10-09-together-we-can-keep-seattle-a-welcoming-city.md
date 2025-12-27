@@ -1,6 +1,6 @@
 ---
 date: '2025-10-09T21:48:06+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div class="wp-block-image">
@@ -136,7 +136,7 @@ feed_content: |-
   <li>Catholic Community Services of Western Washington</li>
   </ul>
   <p>The post <a href="https://www.rewa.org/together-we-can-keep-seattle-a-welcoming-city/">Together, We Can Keep Seattle a Welcoming City</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
-image_ids:
+image_checksums:
 - '07934d6346971be3d69900292d1cc9b96ab0820c7ec74a1e86516d1626a0c9d0'
 - c1f2d2bc9bd291fe36e4b8f0c16b41052d8886e60b552d8d9abb12e6a12a4c19
 location_titles:

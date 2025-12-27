@@ -36,7 +36,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"field field--name-field-article-date field--type-datetime field--label-hidden
   field__item\"><time datetime=\"2025-07-15T12:00:00Z\" class=\"datetime\">July 15
   2025</time>\n</div>\n      \n    </div>\n  </div>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Bellevue
 published: false

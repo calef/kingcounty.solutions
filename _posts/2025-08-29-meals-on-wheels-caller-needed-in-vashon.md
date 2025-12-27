@@ -1,6 +1,6 @@
 ---
 date: '2025-08-29T18:14:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Location:</strong>
   Vashon<br /><strong>Schedule:</strong> Tuesday mornings<br /><strong>Duration:</strong> Ongoing<br
@@ -20,7 +20,7 @@ feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Locati
   Patrol background check and be over the age of 18.</p>\r\n<p>The post <a href=\"https://soundgenerations.org/meals-on-wheels-caller-needed-in-vashon/\">Meals
   on Wheels: Caller needed in Vashon!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - Vashon
 organization_title: Sound Generations

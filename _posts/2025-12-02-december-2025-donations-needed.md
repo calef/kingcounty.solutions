@@ -1,6 +1,6 @@
 ---
 date: '2025-12-02T00:26:25+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Shop directly from our Amazon wishlist! Items disappear from the list when they’ve been purchased in the quantity we need, so if it’s still there, we still need it! <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png"><a>https://a.co/9eo400U</a></p>
@@ -21,7 +21,7 @@ feed_content: |-
   <object></object><a>_December 2025</a><a>Download</a>
   </div>
 feed_content_checksum: fc97f73cbff3287c158edd63de9ec07a8edeb171
-image_ids:
+image_checksums:
 - 5259fbe1f791a3d887555a105ab493be14c1e1629b8933526ced3a2224141d38
 location_titles:
 - South King County

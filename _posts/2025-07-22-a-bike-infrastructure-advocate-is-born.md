@@ -1,6 +1,6 @@
 ---
 date: '2025-07-22T21:25:31+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-image"><img decoding="async" src="https://assets.littlegreenlight.com/media/W1siZiIsIjIwMjUvMDcvMTYvNDNjc2hidmM0Nl9fMl9zdW1tZXJfYXBwZWFsX2VtYWlsX2Jhbm5lci5qcGciXV0?sha=885963653823b5cf" alt="#2 Summer camps collage"/></figure>
@@ -69,7 +69,7 @@ feed_content: |-
 
   <p>Bike Works Development Director</p>
   <p>The post <a href="https://bikeworks.org/a-bike-infrastructure-advocate-is-born/">A bike infrastructure advocate is born</a> appeared first on <a href="https://bikeworks.org">Bike Works</a>.</p>
-image_ids:
+image_checksums:
 - 253789c2d07b6ea878fd5d2129ff0fb15c3a27f244d57051250f2e436c9c1759
 - c440c39fe63b51962b23880286eafa5bb4f6151f0ce66bd56856fda77531eedb
 - 38c7a44bbe3df8e7c0d05908a849d895d0419bc5d8165178dd8d2e6442846b1d

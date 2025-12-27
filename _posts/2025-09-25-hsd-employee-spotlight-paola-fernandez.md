@@ -1,13 +1,13 @@
 ---
 date: '2025-09-25T19:02:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Paola Fernandez joined the Human Services Department&#8217;s Aging and
   Disability Services division in 2024. As we celebrate National Hispanic Heritage
   Month, Paola writes about her passion for guiding clients—many of whom have language
   barriers—and helping them believe in their own power and potential. What is your
   role at Seattle Human Services? As a Counselor/Case Manager [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

@@ -4,7 +4,7 @@ feed_content: The Cascade foothills are home to the small but important South Fo
   Tolt Hydroelectric Project. We are currently in the process of renewing the project’s
   license with the Federal Energy Regulatory Commission (FERC). This process takes
   several years. A...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

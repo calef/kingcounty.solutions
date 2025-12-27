@@ -1,6 +1,6 @@
 ---
 date: '2025-12-23T01:51:24+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p><img src=\"https://s14621.pcdn.co/wp-content/uploads/2025/12/VolunteerServices-KIA-RG-12.05.2025-FEATURED-361x255.jpg\"></p><p><span>On
   a recent gray Friday morning in Seattle, Solid Ground’s offices were filled with
@@ -83,7 +83,7 @@ feed_content: "<p><img src=\"https://s14621.pcdn.co/wp-content/uploads/2025/12/V
   post <a>Creating love and warmth, 1,540 times over</a> appeared first on <a>Solid
   Ground</a>."
 feed_content_checksum: b8544fb4a43cece7fb755ee8459d272c65e9138c
-image_ids:
+image_checksums:
 - 4a01b9d81cf3f2e214929783df26d430b98a783ecf93f14f3da6c291293a8577
 location_titles:
 - King County

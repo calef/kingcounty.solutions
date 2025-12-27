@@ -1,6 +1,6 @@
 ---
 date: '2025-10-28T21:55:51+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>What is AA?</h2>
@@ -70,7 +70,7 @@ feed_content: |-
   <li><strong>1 year</strong> – Honors a full year of continuous sobriety, a significant milestone.</li>
   </ul>
   <p>The post <a href="https://www.residencexii.org/alcoholic-anonymous-meetings-katy/">Alcoholic Anonymous Meetings in Texas, Harris, Katy, USA</a> appeared first on <a href="https://www.residencexii.org">Residence XII</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Residence XII
 published: false

@@ -1,6 +1,6 @@
 ---
 date: '2025-10-15T16:25:09+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="p1">You probably remember your own teenage years, and may even breathe a sigh of relief that those days are behind you. The drama, the pressure to fit in, the constant juggling of school, friendships, and figuring out who you were becoming—it wasn’t easy.</p>
@@ -29,7 +29,7 @@ feed_content: |-
   <p class="p1">At home, your role is to strike the balance between support and independence. Encourage your teen to take the lead in managing their mental health, while continuing to reinforce their use of DBT skills. This combination allows them to experience the confidence of personal responsibility while still benefiting from the safety of family support.</p>
   <p class="p1">Together with the therapists at THIRA Health, you play a vital part in helping your teen create and sustain “a life worth living.” Your involvement not only supports their immediate progress but also strengthens the foundation for long-term mental well-being.</p>
   <p class="p5">If you’re ready to <a href="https://thirahealth.com/contact/"><span class="s1">get started with THIRA Health</span></a>, we welcome you to get in touch today.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: THIRA Health

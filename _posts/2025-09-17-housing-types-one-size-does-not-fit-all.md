@@ -1,11 +1,11 @@
 ---
 date: '2025-09-17T18:23:15+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Individuals and families who are experiencing homelessness come from a plethora of backgrounds and have varied and unique immediate and long-term needs. If we are [&#8230;]</p>
   <p>The post <a href="https://kcrha.org/news-housing-types-one-size-does-not-fit-all/">Housing Types: One Size Does Not Fit All</a> appeared first on <a href="https://kcrha.org">KCRHA</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

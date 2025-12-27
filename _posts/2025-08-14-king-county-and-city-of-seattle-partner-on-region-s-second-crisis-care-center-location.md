@@ -1,6 +1,6 @@
 ---
 date: '2025-08-14T22:19:28+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: '<p>Summary: Following a <a href="https://harrell.seattle.gov/wp-content/uploads/sites/23/2025/08/COS-CCC-Letter.pdf">letter
   of conditional support</a> from Mayor Bruce Harrell outlining a launch plan, Executive
@@ -79,7 +79,7 @@ feed_content: '<p>Summary: Following a <a href="https://harrell.seattle.gov/wp-c
   was originally published in <a href="https://medium.com/kingcounty">KingCounty</a>
   on Medium, where people are continuing the conversation by highlighting and responding
   to this story.</p>'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County

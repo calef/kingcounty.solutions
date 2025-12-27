@@ -14,7 +14,7 @@ class EventModelTest < Minitest::Test
           'feed_content' => '<p>Event details.</p>',
           'feed_content_checksum' => 'abc123',
           'generated_from_post' => '2025-12-01-example',
-          'image_ids' => ['https://example.com/image.jpg'],
+          'image_checksums' => ['abcd1234'],
           'location' => 'Community Center',
           'location_titles' => ['Seattle'],
           'locked' => true,
@@ -36,7 +36,7 @@ class EventModelTest < Minitest::Test
       assert_equal 'abc123', record.feed_content_checksum
       assert_equal '2025-12-01-example', record.generated_from_post
       assert_equal false, record.generated_from_post?
-      assert_equal ['https://example.com/image.jpg'], record.image_ids
+      assert_equal ['abcd1234'], record.image_checksums
       assert_equal 'Community Center', record.location
       assert_equal ['Seattle'], record.location_titles
       assert_equal true, record.locked

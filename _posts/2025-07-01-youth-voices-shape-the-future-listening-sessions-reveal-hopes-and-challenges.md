@@ -1,6 +1,6 @@
 ---
 date: '2025-07-01T15:21:04+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p><div class=\"et_pb_section et_pb_section_9 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
@@ -171,7 +171,7 @@ feed_content: "<p><div class=\"et_pb_section et_pb_section_9 blog-post-type et_s
   et_pb_column_49  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n<p>The
   post <a href=\"https://lcsnw.org/2025/07/nextgen/\">Youth voices shape the future:
   Listening sessions reveal hopes and challenges</a> appeared first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Lutheran Community Services Northwest
 published: false

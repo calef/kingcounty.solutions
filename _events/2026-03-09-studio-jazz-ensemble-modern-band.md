@@ -16,7 +16,7 @@ feed_content: "<div> <div> <p> </p> <p>The Studio Jazz Ensemble (Jacob Zimmerma
   Summers - trumpetJaiden Garcia - tromboneAJ Marto - bassRiley Tobin - bassThomas
   Jennings - guitar</p> <h2>Biographies</h2> </div> </div>"
 feed_content_checksum: c3945259497a89b888b2b268d13280f4143184a5
-image_ids: []
+image_checksums: []
 location: Meany Hall (MNY)
 location_titles:
 - King County

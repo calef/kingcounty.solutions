@@ -5,7 +5,7 @@ feed_content: |-
   <p><span>Please check in with your direct supervisor to confirm your remote work assignments and ensure continuity of operations.</span></p>
   <p><span>Your safety is paramount, please avoid any non-essential travel in affected areas and follow local emergency recommendations. We appreciate your flexibility and commitment as we navigate these weather-related challenges together in this state of emergency.</span></p>
 feed_content_checksum: 771486ff2966ddbe6caac5e649ecad4eee932fc3
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

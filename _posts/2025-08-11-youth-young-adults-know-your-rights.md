@@ -1,6 +1,6 @@
 ---
 date: '2025-08-11T21:57:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Navigating the immigration system can be overwhelming—especially for youth and young adults who may be facing it for the first time.
@@ -19,7 +19,7 @@ feed_content: |-
   ELAP is a King County-based nonprofit that provides free legal help and resources to people who can’t afford a lawyer. Find out if you qualify for legal help at **[elap.org/get-help](http://elap.org/get-help)**.
 
   The post [Youth & young adults: Know your rights](https://elap.org/youth-young-adults-know-your-rights/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

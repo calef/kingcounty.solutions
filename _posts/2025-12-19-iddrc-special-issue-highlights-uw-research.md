@@ -1,6 +1,6 @@
 ---
 date: '2025-12-19T22:47:07+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>IDDRC
   Special Issue Highlights UW Research</h2>\n<p>The Journal of Neurodevelopmental
@@ -50,7 +50,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   a:hover .mk-svg-icon { fill: #ffffff !important;}</style>\n</div></section>\t</div>\n</aside>\n\n</div>\n\t</div>\n\n</div><p>The
   post <a>IDDRC Special Issue Highlights UW Research</a> appeared first on <a>UW IHDD</a>.</p>"
 feed_content_checksum: 74081842341958c82d37cae1921edffc95a28338
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

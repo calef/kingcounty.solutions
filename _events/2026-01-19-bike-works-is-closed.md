@@ -10,7 +10,7 @@ feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events <
   Navigation</h3> <ul> <li><a><span>«</span> Warehouse sale</a></li> <li><a>Volunteer
   Repair Party <span>»</span></a></li> </ul> </div> </div> </section>"
 feed_content_checksum: abf47f684b7305945385bdef8b16156b5c5601cc
-image_ids: []
+image_checksums: []
 location: ''
 location_titles: []
 organization_title: Bike Works

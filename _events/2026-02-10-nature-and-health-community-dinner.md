@@ -8,7 +8,7 @@ feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "n
   N 34th St","@type":"PostalAddress","postalCode":"98103","addressLocality":"Seattle","addressRegion":"WA"},"@type":"Place","name":"Fremont
   Brewing''s Urban Beer Garden"} } </script>'
 feed_content_checksum: fa1a525b716611b942717ab2aa6fab412b66fd9a
-image_ids: []
+image_checksums: []
 location: 1050 N 34th St, Seattle, WA 98103
 location_titles: []
 organization_title: University of Washington

@@ -14,6 +14,8 @@ require_relative '../feed/discovery'
 require_relative '../summarizer/helpers'
 require_relative '../content/article_body_extractor'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module News
     class PostSummarizer
@@ -37,12 +39,10 @@ module Mayhem
 
       def initialize(
         posts_dir: POSTS_DIR,
-        topic_repo: nil,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         events_dir: EVENTS_DIR,
         client: nil,
-        topic_model: DEFAULT_TOPIC_MODEL,
         http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         topic_classifier: nil,
@@ -56,8 +56,6 @@ module Mayhem
         @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
-                              topic_repo: topic_repo,
-                              model: topic_model,
                               client: @client,
                               logger: @logger
                             )

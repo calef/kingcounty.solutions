@@ -1,6 +1,6 @@
 ---
 date: '2025-09-18T17:27:10+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false
   \    js-master-row \">\n\t\t\n\t\t\t\n<div style=\"\" class=\"vc_col-sm-12 wpb_column
@@ -54,7 +54,7 @@ feed_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  at
   Clinic</a>.</p><p>The post <a rel=\"nofollow\" href=\"https://www.boyercc.org/events/golf-tournament-2026/\">&#8220;Swing
   Fore the Kids&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.boyercc.org\">Boyer
   Children&#039;s Clinic</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Boyer Children's Clinic
 published: false

@@ -1,12 +1,12 @@
 ---
 date: '2025-11-26T19:33:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Over 8,800 food boxes distributed to families at 98 Seattle Public Schools
   sites When federal funding for the Supplemental Nutrition Assistance Program (SNAP)
   abruptly lapsed on Nov. 1 due to the Trump administration’s refusal to release dollars
   from S...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

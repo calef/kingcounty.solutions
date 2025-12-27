@@ -50,21 +50,21 @@ class SourceUrlCheckerTest < Minitest::Test
     image_id = 'image123'
     write_image_metadata(image_id)
     write_asset(image_id)
-    post_path = write_post_with_image_ids('2025-01-01-test.md', 'https://example.com/missing', [image_id])
+    post_path = write_post_with_image_checksums('2025-01-01-test.md', 'https://example.com/missing', [image_id])
 
     checker = build_checker(http_client: ->(_url) { :not_found })
     checker.run
 
     document = Mayhem::FrontMatter::Document.load(post_path)
 
-    assert_empty document.front_matter['image_ids'], 'Image IDs array should be cleared'
+    assert_empty document.front_matter['image_checksums'], 'Image IDs array should be cleared'
   end
 
   def test_not_found_url_removes_unreferenced_images
     unique_image = 'unique456'
     write_image_metadata(unique_image)
     write_asset(unique_image)
-    write_post_with_image_ids('2025-01-01-test.md', 'https://example.com/missing', [unique_image])
+    write_post_with_image_checksums('2025-01-01-test.md', 'https://example.com/missing', [unique_image])
 
     checker = build_checker(http_client: ->(_url) { :not_found })
     checker.run
@@ -77,8 +77,8 @@ class SourceUrlCheckerTest < Minitest::Test
     shared_image = 'shared789'
     write_image_metadata(shared_image)
     write_asset(shared_image)
-    write_post_with_image_ids('2025-01-01-test.md', 'https://example.com/missing', [shared_image])
-    write_post_with_image_ids('2025-01-02-other.md', 'https://example.com/valid', [shared_image])
+    write_post_with_image_checksums('2025-01-01-test.md', 'https://example.com/missing', [shared_image])
+    write_post_with_image_checksums('2025-01-02-other.md', 'https://example.com/valid', [shared_image])
 
     checker = build_checker(http_client: lambda { |url|
       url.include?('missing') ? :not_found : :success
@@ -118,8 +118,9 @@ class SourceUrlCheckerTest < Minitest::Test
 
   def test_deleted_event_removed_from_post_references
     event_id = 'event789'
+    event_filename = "#{event_id}.md"
     write_event(event_id, 'https://example.com/missing-event')
-    post_path = write_post_with_events('2025-01-01-test.md', 'https://example.com/valid', [event_id])
+    post_path = write_post_with_event_ids('2025-01-01-test.md', 'https://example.com/valid', [event_filename])
 
     checker = build_checker(http_client: lambda { |url|
       url.include?('missing-event') ? :not_found : :success
@@ -127,9 +128,9 @@ class SourceUrlCheckerTest < Minitest::Test
     checker.run
 
     document = Mayhem::FrontMatter::Document.load(post_path)
-    events = document.front_matter['events'] || []
+    events = document.front_matter['event_ids'] || []
 
-    refute_includes events, event_id, 'Event reference should be removed from post'
+    refute_includes events, event_filename, 'Event reference should be removed from post'
   end
 
   def test_post_without_source_url_is_not_checked
@@ -209,8 +210,8 @@ class SourceUrlCheckerTest < Minitest::Test
     write_event('event1', 'https://example.com/missing1')
     write_event('event2', 'https://example.com/missing2')
     write_event('event3', 'https://example.com/valid')
-    post_path = write_post_with_events('2025-01-01-test.md', 'https://example.com/valid',
-                                       %w[event1 event2 event3])
+    post_path = write_post_with_event_ids('2025-01-01-test.md', 'https://example.com/valid',
+                                       %w[event1.md event2.md event3.md])
 
     checker = build_checker(http_client: lambda { |url|
       url.include?('missing') ? :not_found : :success
@@ -218,14 +219,14 @@ class SourceUrlCheckerTest < Minitest::Test
     checker.run
 
     document = Mayhem::FrontMatter::Document.load(post_path)
-    events = document.front_matter['events'] || []
+    events = document.front_matter['event_ids'] || []
 
-    assert_equal ['event3'], events, 'Only valid event should remain'
+    assert_equal ['event3.md'], events, 'Only valid event should remain'
   end
 
   def test_post_with_only_deleted_events_has_empty_events_array
     write_event('event1', 'https://example.com/missing')
-    post_path = write_post_with_events('2025-01-01-test.md', 'https://example.com/valid', ['event1'])
+    post_path = write_post_with_event_ids('2025-01-01-test.md', 'https://example.com/valid', ['event1.md'])
 
     checker = build_checker(http_client: lambda { |url|
       url.include?('missing') ? :not_found : :success
@@ -233,7 +234,7 @@ class SourceUrlCheckerTest < Minitest::Test
     checker.run
 
     document = Mayhem::FrontMatter::Document.load(post_path)
-    events = document.front_matter['events'] || []
+    events = document.front_matter['event_ids'] || []
 
     assert_empty events, 'Events array should be empty'
   end
@@ -289,7 +290,7 @@ class SourceUrlCheckerTest < Minitest::Test
       'title' => 'Test Post',
       'date' => '2025-01-01T00:00:00Z',
       'source_url' => source_url,
-      'image_ids' => [],
+      'image_checksums' => [],
       'topic_titles' => []
     }
     path = File.join(@posts_dir, filename)
@@ -297,12 +298,12 @@ class SourceUrlCheckerTest < Minitest::Test
     path
   end
 
-  def write_post_with_image_ids(filename, source_url, image_ids)
+  def write_post_with_image_checksums(filename, source_url, image_checksums)
     front_matter = {
       'title' => 'Test Post',
       'date' => '2025-01-01T00:00:00Z',
       'source_url' => source_url,
-      'image_ids' => image_ids,
+      'image_checksums' => image_checksums,
       'topic_titles' => []
     }
     path = File.join(@posts_dir, filename)
@@ -310,13 +311,13 @@ class SourceUrlCheckerTest < Minitest::Test
     path
   end
 
-  def write_post_with_events(filename, source_url, events)
+  def write_post_with_event_ids(filename, source_url, event_ids)
     front_matter = {
       'title' => 'Test Post',
       'date' => '2025-01-01T00:00:00Z',
       'source_url' => source_url,
-      'image_ids' => [],
-      'events' => events,
+      'image_checksums' => [],
+      'event_ids' => event_ids,
       'topic_titles' => []
     }
     path = File.join(@posts_dir, filename)
@@ -328,7 +329,7 @@ class SourceUrlCheckerTest < Minitest::Test
     front_matter = {
       'title' => 'Test Post',
       'date' => '2025-01-01T00:00:00Z',
-      'image_ids' => [],
+      'image_checksums' => [],
       'topic_titles' => []
     }
     path = File.join(@posts_dir, filename)

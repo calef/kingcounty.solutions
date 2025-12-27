@@ -1,6 +1,6 @@
 ---
 date: '2025-08-26T16:56:16+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>At its heart, <a href="https://kcdrc.org/core/">CoRE™</a>, Conflict Resolution for Everyone, is about people. The emphasis is on everyone. Each person brings their own history, values, and lived experiences into the room. When we slow down, listen, and learn from each other, conflict resolution becomes less about fixing problems and more about building understanding.</p>
@@ -27,7 +27,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p><a href="https://kcdrc.org/newsletters/"><em>This article was originally featured in our newsletter.</em></a></p>
   <p>The post <a href="https://kcdrc.org/conflict-resolution-for-everyone-stories-from-core/">Conflict Resolution for Everyone: Stories from CoRE™</a> appeared first on <a href="https://kcdrc.org">Dispute Resolution Center of King County</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Dispute Resolution Center of King County

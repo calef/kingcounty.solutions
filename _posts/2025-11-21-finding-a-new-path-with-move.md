@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<h2 class=\"wp-block-heading\">Veteran Shaunelle Tharpe transforms
   her life and health through VA’s MOVE! program</h2>\n\n\n\n<p>Veteran and employee
@@ -52,7 +52,7 @@ feed_content: "<h2 class=\"wp-block-heading\">Veteran Shaunelle Tharpe transform
   this story and read about other Veterans and their weight management success on
   the <a href=\"https://www.move.va.gov/MOVE/Stories/index.asp\" rel=\"noopener\">MOVE!
   webpage</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -40,7 +40,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   9:30 am</span> - <span>11:00 am</span> </div> </li> </ul> </div> <p> <a> Back to
   events</a> </p> </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: f7cea852a27248849d1c80902263129ac9c30c50
-image_ids: []
+image_checksums: []
 location: Foster High School, 4242 S 144th St, Tukwila, 98188
 location_titles:
 - King County

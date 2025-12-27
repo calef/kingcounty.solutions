@@ -1,11 +1,11 @@
 ---
 date: '2025-09-30T19:48:12+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Did you know that September is Hunger Action Month? This month, we’ve been bringing attention to the issue of food insecurity in our community and sharing ways that you can [&#8230;]</p>
   <p>The post <a href="https://www.familyworksseattle.org/2025-hunger-action-month-recap/">2025 Hunger Action Month Recap</a> appeared first on <a href="https://www.familyworksseattle.org">FamilyWorks Seattle</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: FamilyWorks Seattle

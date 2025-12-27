@@ -1,6 +1,6 @@
 ---
 date: '2025-10-30T19:29:35+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Department of Health issues notice of intent to deny license application of Behavioral Health Agency</span>
@@ -38,7 +38,7 @@ feed_content: |-
 
   <p class="text-align-center"><br>
   ###</p></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

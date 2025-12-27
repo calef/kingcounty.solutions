@@ -329,7 +329,7 @@ feed_content: |-
 
   <p><em>This column was <a>originally published</a> in the Seattle Times as part of our monthly column, and is reprinted here with permission.</em></p>
 feed_content_checksum: 0d2879eab35a63e898a04612cffa30e2a549aef5
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: The Seattle Public Library

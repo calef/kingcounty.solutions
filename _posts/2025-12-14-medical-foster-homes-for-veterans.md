@@ -1,6 +1,6 @@
 ---
 date: '2025-12-14T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Trained caregiver provides care and services</h2>
@@ -77,7 +77,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA Southern Arizona Health care System site </a> and has been edited for style and clarity.  </p>
 feed_content_checksum: 33e45a8ef0ab911bcec4e77d4edf63385c709e01
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

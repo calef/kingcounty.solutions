@@ -1,6 +1,6 @@
 ---
 date: '2025-09-30T23:05:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>On a cool September morning along the southern waters of Hood Canal,
   the rhythm of paddles striking water carried more than momentum — it carried prayers.
@@ -37,7 +37,7 @@ feed_content: "<p>On a cool September morning along the southern waters of Hood 
   Canal is the ancestral territory of the Twana (Skokomish) people. The traditional
   name for this body of water is “tuwaduq sidaqʷ” [too-wah-duke SEE-dock], which means
   &#8216;the Twana people&#8217;s saltwater&#8217;.</p>\r\n<p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

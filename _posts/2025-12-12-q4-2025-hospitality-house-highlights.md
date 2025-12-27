@@ -1,13 +1,13 @@
 ---
 date: '2025-12-12T19:06:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div>
   <object></object><a>Q4 2025-1</a><a>Download</a>
   </div>
 feed_content_checksum: 1746e0c26f43724b304ecea28ed0135e9f7e69be
-image_ids: []
+image_checksums: []
 location_titles:
 - South King County
 organization_title: Hospitality House

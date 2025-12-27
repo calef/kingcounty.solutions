@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T09:37:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: This is King County Emergency Management on Tuesday, December 16. This
   an evacuation notification for residents and businesses near 3rd Ave SE and Spencer
@@ -8,7 +8,7 @@ feed_content: This is King County Emergency Management on Tuesday, December 16. 
   this area is under a GO NOW evacuation notice. Leave immediately if you are in this
   area. […]
 feed_content_checksum: daa19eb447b8aa53960c0b47a61498052af99d52
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T00:48:49+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Property damage caused by flooding can feel overwhelming and stressful.
   King County’s priority is keeping you safe and supporting your recovery. The information
@@ -8,7 +8,7 @@ feed_content: Property damage caused by flooding can feel overwhelming and stres
   that may become available to help you.   Visit the Flood recovery resources – King
   County, Washington […]
 feed_content_checksum: dcd4ca6437a16627320fd8c146b38271fc394998
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

@@ -1,6 +1,6 @@
 ---
 date: '2025-07-29T17:56:12+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure id="attachment_11452" aria-describedby="caption-attachment-11452" style="width: 257px" class="wp-caption alignleft"><img decoding="async" class="wp-image-11452" src="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/UW-SHPEP-225x300.png" alt="" width="257" height="343" /><figcaption id="caption-attachment-11452" class="wp-caption-text">From left to right: <a href="https://www.providence.org/doctors/family-medicine/wa/renton/sonja-maddox-1295732113">Dr. Sonja Maddox</a> with student Jamila Pend Gomez, and student Shalom Ayele with <a href="https://www.providence.org/doctors/family-medicine/wa/renton/soumya-choudhury-1871117754">Dr. Soumya Choudhury</a>.</figcaption></figure>
@@ -11,7 +11,7 @@ feed_content: |-
   <p>The following clinicians generously participated in this summer’s shadowing initiative: <a href="https://www.providence.org/doctors/urology/wa/bothell/alexander-cantrell-1356605729">Alexander Cantrell, MD</a>, <a href="https://www.providence.org/doctors/family-medicine/wa/renton/soumya-choudhury-1871117754">Soumya Choudhury, MD</a>, <a href="https://www.providence.org/doctors/medical-oncology/wa/bothell/vik-dabhi-1609923879">Vik Dabhi, MD, PhD</a>, <a href="https://www.providence.org/doctors/family-medicine/wa/seattle/ari-gilmore-1750544532">Ari Gilmore, MD</a>, <a href="https://www.providence.org/doctors/internal-medicine/wa/seattle/samantha-greaney-1861021321">Samantha Greaney, MD</a>, <a href="https://www.providence.org/doctors/pediatrics/wa/bothell/alexander-hamling-1538379326">Alexander Hamling, MD</a>, <a href="https://www.providence.org/doctors/family-medicine/wa/renton/sonja-maddox-1295732113">Sonja Maddox, MD</a>, <a href="https://www.providence.org/doctors/orthopedic-surgery/wa/seattle/chad-marion-1679603401">Chad Marion, MD</a>, <a href="https://www.providence.org/doctors/internal-medicine/wa/seattle/lisa-oswald-1487643912">Lisa Oswald, MD</a>, Pathmaja Paramsothy, MD, <a href="https://www.providence.org/doctors/sleep-medicine/wa/renton/elham-rezvanian-1518292788">Elham Rezvanian, MD</a>, <a href="https://www.providence.org/doctors/internal-medicine/wa/seattle/christopher-smith-1871584938">Christopher Smith, MD</a>, and <a href="https://www.providence.org/doctors/internal-medicine/wa/seattle/mindy-zeitz-chua-1184187023">Mindy Zeitz-Chua, MD</a>.</p>
   <p>By opening its clinics to SHPEP scholars, PacMed is helping bridge the gap between classroom learning and real-world clinical experience. This partnership not only supports students’ academic and professional journeys but also strengthens the pipeline of diverse talent entering the health professions. It is a powerful example of how mentorship and community investment can shape the future of medicine—one student at a time.</p>
   <p>The post <a href="https://www.pacificmedicalcenters.org/news/pacmed-uw-shpep-partner-to-empower-future-health-leaders-through-clinical-shadowing/">PacMed &#038; UW SHPEP Partner to Empower Future Health Leaders Through Clinical Shadowing</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Pacific Medical Centers

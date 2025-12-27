@@ -1,6 +1,6 @@
 ---
 date: '2025-06-30T14:08:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Seattle No Kings Rally and March</strong> &#8211; June 16th, 2025</p>
@@ -93,7 +93,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.elcentrodelaraza.org/cuentos-from-our-work-june-2025/">Cuentos from Our Work: June 2025</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
-image_ids:
+image_checksums:
 - c2bccff762b7fa8182a899a1d13ae7f454495f56e2d2a87d1ad6d50845937817
 - 85a254cd8acd129d1099bbd803a55e863097c4fe3abc6a1803aa90e48f18f6ce
 - 5497d0d81d1b4fbd0d43b4b35e5deda9ec50f0d392acbc50c661db4c4911abe6

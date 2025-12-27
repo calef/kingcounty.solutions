@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T15:09:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="">Westside Neighbors Shelter will open for overnight stays on Saturday, November 22, with some operational changes and a new partnership.</p>
@@ -21,7 +21,7 @@ feed_content: |-
 
   <p class="">We are grateful for the help from the folks at BSWS and for the continued support from our community!</p>
   <p>The post <a href="https://westsideneighborsshelter.org/overnight-shelter-opens-november-22/">Overnight shelter opens November 22</a> appeared first on <a href="https://westsideneighborsshelter.org">Westside Neighbors Shelter</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Westside Neighbors Shelter

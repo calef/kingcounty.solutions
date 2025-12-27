@@ -1,6 +1,6 @@
 ---
 date: '2025-08-29T18:09:11+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>What is a tree’s least favorite month?</strong><br><strong>Sep-timber!</strong><br><br><strong>John will be out of office on Friday September 12th. There will be no tech help and no tech 101 class that day.</strong><br><br>A reminder that we will not hold any programming on <strong>Monday, September 1st</strong> in observation of Labor Day. There will also be no meals served so please plan accordingly.<br><br>On <strong>October 8<sup>th</sup></strong> we will have a Medicare/Medicaid expert at the center to answer your questions. If you have any specific questions that you would like to discuss during the presentation, please let Syl know ahead of time to make sure we cover that topic. You can reach him at 206-268-6707.<br><br>Here’s a look at the programming we have going on this month:</p>
@@ -83,7 +83,7 @@ feed_content: |-
 
   <p>We look forward to seeing everyone at the program! For more information on our programming, calendar, and lunch menu, please follow the links to the right of the page.</p>
   <p>The post <a href="https://lakecityseniors.org/september-2025-update/">September 2025 Update</a> appeared first on <a href="https://lakecityseniors.org">Lake City Seniors</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Lake City Seniors

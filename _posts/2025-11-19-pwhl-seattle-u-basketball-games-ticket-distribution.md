@@ -156,7 +156,7 @@ feed_content: |-
   </tr>
   </tbody>
   </table>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

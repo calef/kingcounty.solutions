@@ -1,6 +1,6 @@
 ---
 date: '2025-11-03T16:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/03/a-new-voice-for-you/"
   title="A New Voice for You" rel="nofollow"><img width="150" height="150" src="https://atyourservice.seattle.gov/wp-content/uploads/sites/15/2025/10/8.27.25-Customer-Care-Photoshoot-017-150x150.jpg"
@@ -11,7 +11,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/03/a-new-voice
   with listening to you. We’re introducing our upgraded Customer Care phone system,
   designed to make it easier for you to connect with us, no matter what language you
   speak. When you call, you’ll be guided more smoothly to the right [&#8230;]'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Seattle Public Utilities

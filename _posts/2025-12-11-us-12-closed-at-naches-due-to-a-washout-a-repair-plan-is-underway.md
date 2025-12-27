@@ -3,7 +3,7 @@ date: '2025-12-11T05:53:51-08:00'
 feed_content: NACHES – A section of US 12 at the east entrance of Naches is closed
   due to a washout. A detour is available via local roads.
 feed_content_checksum: a940d7241ab85651af9804d34010b1d95761534a
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Washington State Department of Transportation
 published: false

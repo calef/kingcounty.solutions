@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T16:10:57+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><span><span><strong>Author:</strong></span></span><em><span><span> Mistee Denson, </span></span><span><span>NYC 988 Clinical Supervisor</span></span></em><span><em><span> </span></em><br></span></p>
@@ -82,7 +82,7 @@ feed_content: |-
   <p><span>Grief is not a problem to solve; it is a part of life to be honored. This Grief Awareness Week, we remember those we’ve lost, support those still mourning, and hold space for healing, however long it takes.</span></p>
   <p>The post <a>Grief Awareness Week: Honoring Loss, Making Space for Healing</a> appeared first on <a>Vibrant Emotional Health</a>.</p>
 feed_content_checksum: 75b703b21ef3a1661d6b325c03c4197a6df5040b
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Vibrant Emotional Health

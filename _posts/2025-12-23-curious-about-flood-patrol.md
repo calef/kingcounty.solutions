@@ -6,7 +6,7 @@ feed_content: King County’s Flood Patrol has provided on-the-ground monitoring
   video and get more information from the county’s Department of Natural Resources
   and Parks.
 feed_content_checksum: 21bbf2c30f5ea9a411100085ee04f9f12f7b88a7
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

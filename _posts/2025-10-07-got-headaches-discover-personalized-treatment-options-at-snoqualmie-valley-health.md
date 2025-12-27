@@ -1,6 +1,6 @@
 ---
 date: '2025-10-07T16:44:39+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   While many headaches are short-lived, for some people they can become frequent, severe, and disruptive to daily life. In fact, headaches are the number one reason patients seek neurological care—highlighting just how common and impactful they are. The most frequent types are primary headache syndromes, such as migraine and tension-type headaches. Less common but equally important to recognize are the trigeminal autonomic cephalalgias, a group of rare but extremely painful disorders that include cluster headaches. By contrast, secondary headaches arise from another medical issue or injury and require careful evaluation to identify the underlying cause.
@@ -32,7 +32,7 @@ feed_content: |-
   &nbsp;
 
   The post [Got Headaches? Discover Personalized Treatment Options at Snoqualmie Valley Health](https://snoqualmievalleyhealth.org/got-headaches-discover-personalized-treatment-options-at-snoqualmie-valley-health/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

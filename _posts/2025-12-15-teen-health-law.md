@@ -1,13 +1,13 @@
 ---
 date: '2025-12-15T20:17:36+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Teen Health Law is a project by the National Center for Youth Law that
   provides comprehensive information on minor consent and confidentiality laws across
   all 50 states. Its goal is to enhance young people's access to healthcare by informing
   providers about legal impacts. For inquiries, contact NCYL at health@youthlaw.org.
 feed_content_checksum: b8b99e65ae72c8e33494b0bae254776530d21afa
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County School Health

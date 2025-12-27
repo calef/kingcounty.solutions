@@ -10,7 +10,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/04/use-water-w
   water supply. As rain returns to our region, our outlook remains optimistic. Recently,
   we’ve had significant rainfall in the mountain reservoirs that collect and store
   our drinking water (thanks, atmospheric river!). After a dry summer, we are [&#8230;]'
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Seattle Public Utilities
 published: false

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T17:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>The sharing of non-VA information does not constitute an endorsement of products or services by the Department of Veterans Affairs. Veterans should always verify information with the organization offering the program.</p>
@@ -73,7 +73,7 @@ feed_content: |-
 
   <p>This holiday season, let us commit to caring for our military and Veteran children with the same honor, compassion and dedication their loved ones gave to our nation.</p>
 feed_content_checksum: 8b9850836cf16973c4ded730d9da61eb247de2c5
-image_ids:
+image_checksums:
 - 35caafa0d9c6ef59ea19bf090b490032759d43c406bbd145bcc420e9e9c1ddea
 location_titles:
 - King County

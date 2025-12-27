@@ -1,6 +1,6 @@
 ---
 date: '2025-10-28T20:22:41+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container
   is-layout-constrained wp-block-group-is-layout-constrained\">\n<div class=\"wp-block-group
@@ -15,7 +15,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   students who couldn’t attend, because every child deserves the tools to succeed.</p>\n\n\n\n<p>This
   event was more than just skating—it was about empowering our youth and reminding
   them that their community is behind them every step of the way.</p>\n</div>\n\n\n\n<figure
-  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-october-2025\\/\"}'
+  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/\"}'
   \ class=\"wp-block-gallery has-nested-images columns-3 is-cropped is-style-rectangular
   wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image
   size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1060\" height=\"707\"
@@ -88,7 +88,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   a bilingual poem by José Martí, this joyful piece celebrates our children, culture,
   and dual-language program. Thanks to Sound Transit for helping bring warmth and
   light back to the playground, and to Angelina—once a JMCDC student herself—for inspiring
-  the next generation through art.</p>\n\n\n\n<figure data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-october-2025\\/\"}'
+  the next generation through art.</p>\n\n\n\n<figure data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/\"}'
   \ class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3
   is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image
   size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1060\" height=\"707\"
@@ -132,7 +132,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   free and reduced ORCA cards, including youth ORCAs, and information on local services.</p>\n\n\n\n<p>Events
   like this showcase the power of community—connecting people, sharing resources,
   and strengthening our region.</p>\n\n\n\n<p>Plan your next trip: <a href=\"https://www.soundtransit.org/\">Sound
-  Transit</a></p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-october-2025\\/\"}'
+  Transit</a></p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:50.00000%\"><figure class=\"tiled-gallery__item\"><img
@@ -189,7 +189,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   Lasting Impact!</strong></p>\n\n\n\n<p>Honoring the dedicated individuals whose
   time, energy, and heart make our mission possible—our volunteers are the foundation
   of the Gala’s success and the spirit behind building the Beloved Community.</p>\n\n\n\n<div
-  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-october-2025\\/\"}'
+  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:100.00000%\"><figure class=\"tiled-gallery__item\"><img
@@ -228,14 +228,14 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   storms.</p>\n\n\n\n<p>Congratulations to our 2025 Roberto Felipe Maestas Legacy
   Scholarship Recipients, and heartfelt thanks to, emcee Enrique Cerna, guest speaker
   Leticia Lucero, and auctioneer Fred Granados for making the night unforgettable.</p>\n\n\n\n<div
-  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-october-2025\\/\"}'
+  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:66.74574%\"><figure class=\"tiled-gallery__item\"><img
   decoding=\"async\" data-attachment-id=\"21436\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_902_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_902_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760242016&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760242016&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;90&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_902_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_902_s-467x311.jpg\"
@@ -243,7 +243,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21436\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_902_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_902_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760242016&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760242016&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;90&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_902_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_902_s-467x311.jpg\"
@@ -259,7 +259,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21437\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_875_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_875_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760241702&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760241702&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;108&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_875_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_875_s-467x311.jpg\"
@@ -267,7 +267,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21437\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_875_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_875_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760241702&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760241702&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;108&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_875_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_875_s-467x311.jpg\"
@@ -282,7 +282,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   decoding=\"async\" data-attachment-id=\"21441\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_824_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_824_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.2&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760240854&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760240854&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;93&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_824_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_824_s-467x311.jpg\"
@@ -290,7 +290,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21441\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_824_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_824_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.2&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760240854&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760240854&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;93&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_824_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_824_s-467x311.jpg\"
@@ -306,7 +306,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   decoding=\"async\" data-attachment-id=\"21438\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_600_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_600_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236836&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236836&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;135&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_600_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_600_s-467x311.jpg\"
@@ -314,7 +314,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21438\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_600_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_600_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236836&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236836&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;135&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_600_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_600_s-467x311.jpg\"
@@ -330,7 +330,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21440\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_576_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_576_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236638&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236638&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;33&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.04&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_576_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_576_s-467x311.jpg\"
@@ -338,7 +338,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21440\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_576_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_576_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236638&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236638&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;33&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.04&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_576_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_576_s-467x311.jpg\"
@@ -354,7 +354,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21439\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_569_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_569_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236505&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236505&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;140&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_569_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_569_s-467x311.jpg\"
@@ -362,7 +362,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21439\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_569_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_569_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236505&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236505&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;140&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_569_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_569_s-467x311.jpg\"
@@ -378,7 +378,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   decoding=\"async\" data-attachment-id=\"21442\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_562_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_562_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236409&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236409&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;200&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_562_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_562_s-467x311.jpg\"
@@ -386,7 +386,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21442\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_562_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_562_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236409&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760236409&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;200&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_562_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_562_s-467x311.jpg\"
@@ -401,7 +401,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   decoding=\"async\" data-attachment-id=\"21444\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_493_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_493_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 6D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760210287&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 6D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760210287&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;40&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.05&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_493_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_493_s-467x311.jpg\"
@@ -409,7 +409,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21444\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_493_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_493_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 6D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760210287&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 6D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760210287&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;40&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.05&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_493_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_493_s-467x311.jpg\"
@@ -425,7 +425,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21443\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_459_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_459_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760235216&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760235216&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;80&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_459_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_459_s-467x311.jpg\"
@@ -433,7 +433,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21443\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_459_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_459_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760235216&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760235216&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;80&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_459_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_459_s-467x311.jpg\"
@@ -449,7 +449,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   decoding=\"async\" data-attachment-id=\"21445\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_435_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_435_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.2&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760234848&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760234848&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;185&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_435_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_435_s-467x311.jpg\"
@@ -457,7 +457,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21445\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_435_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_435_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.2&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760234848&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760234848&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;185&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_435_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_435_s-467x311.jpg\"
@@ -473,7 +473,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21446\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_416_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_416_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233996&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233996&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;46&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_416_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_416_s-467x311.jpg\"
@@ -481,7 +481,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21446\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_416_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_416_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233996&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233996&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;46&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_416_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_416_s-467x311.jpg\"
@@ -497,7 +497,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   decoding=\"async\" data-attachment-id=\"21447\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_404_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_404_s.jpg\"
   data-orig-size=\"683,1024\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233657&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233657&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;31&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.04&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_404_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_404_s-233x350.jpg\"
@@ -505,7 +505,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21447\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_404_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_404_s.jpg\"
   data-orig-size=\"683,1024\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233657&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233657&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;31&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.04&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_404_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_404_s-233x350.jpg\"
@@ -520,7 +520,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21448\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_403_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_403_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233440&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233440&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;54&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_403_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_403_s-467x311.jpg\"
@@ -528,7 +528,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21448\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_403_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_403_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233440&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233440&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;54&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_403_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_403_s-467x311.jpg\"
@@ -543,7 +543,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   decoding=\"async\" data-attachment-id=\"21449\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_391_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_391_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233060&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233060&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;56&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_391_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_391_s-467x311.jpg\"
@@ -551,7 +551,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21449\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_391_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_391_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233060&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760233060&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;56&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_391_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_391_s-467x311.jpg\"
@@ -566,7 +566,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   decoding=\"async\" data-attachment-id=\"21450\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_389_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_389_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232912&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232912&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;33&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_389_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_389_s-467x311.jpg\"
@@ -574,7 +574,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21450\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_389_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_389_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232912&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232912&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;33&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_389_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_389_s-467x311.jpg\"
@@ -590,7 +590,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   decoding=\"async\" data-attachment-id=\"21451\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_385_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_385_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232791&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232791&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;29&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_385_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_385_s-467x311.jpg\"
@@ -598,7 +598,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21451\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_385_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_385_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232791&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232791&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;29&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_385_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_385_s-467x311.jpg\"
@@ -614,7 +614,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21452\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_378_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_378_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232694&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232694&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;42&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_378_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_378_s-467x311.jpg\"
@@ -622,7 +622,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   data-attachment-id=\"21452\" data-permalink=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/20251011_elc_378_s/\"
   data-orig-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_378_s.jpg\"
   data-orig-size=\"1024,683\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Copyright
-  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232694&quot;,&quot;copyright&quot;:&quot;\\u00a9
+  2025 William P. Wright&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760232694&quot;,&quot;copyright&quot;:&quot;©
   2025 William P. Wright: All Rights Reserved: WilliamWrightPhoto.com&quot;,&quot;focal_length&quot;:&quot;42&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
   data-image-title=\"20251011_elc_378_s\" data-image-description=\"\" data-image-caption=\"\"
   data-medium-file=\"https://www.elcentrodelaraza.org/wp-content/uploads/2025/10/20251011_elc_378_s-467x311.jpg\"
@@ -644,7 +644,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   Strength,”&nbsp;celebrated the color, culture, and unity that define our community.</p>\n\n\n\n<p>The
   two-day event at Seattle Center&nbsp;featured live performances, cultural exhibits,
   delicious food, and free health screenings. The celebration was free and open to
-  the public.</p>\n</div></div>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-october-2025\\/\"}'
+  the public.</p>\n</div></div>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:37.08974%\"><figure class=\"tiled-gallery__item\"><img
@@ -820,7 +820,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   post <a href=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/\">Cuentos
   from Our Work: OCTOBER 2025</a> appeared first on <a href=\"https://www.elcentrodelaraza.org\">El
   Centro de la Raza</a>.</p>"
-image_ids:
+image_checksums:
 - 37f46900c857f6d6a6fc4a87a06be1244ec3498ee48da2f1b4deb9b5c42fff56
 - f80dcb8a95662a733a02f5094028f2cfb6df14299da31722fccc13631a754aea
 - e0778eb419f66c83cd192355a605b0d564b5d926622d0b8718b4a393988d6d0d

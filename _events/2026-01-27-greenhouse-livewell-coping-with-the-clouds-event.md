@@ -6,7 +6,7 @@ feed_content: "   <title> Calendly </title> <meta> <meta> <meta> <meta> <meta> <
   <script> window.WEBPACK_PUBLIC_PATH = '//assets.calendly.com/assets/' </script>
   <link> <script></script>   <div> </div> <div></div>  "
 feed_content_checksum: 568a37b1a53bb30977fdb0ad35f824e312e5c00c
-image_ids: []
+image_checksums: []
 location: ''
 location_titles: []
 organization_title: University of Washington

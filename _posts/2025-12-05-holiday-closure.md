@@ -6,7 +6,7 @@ feed_content: |-
 
 
   <p>Wednesday, December 24: The &hellip;</p></a>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: The Center for Active Living
 published: false

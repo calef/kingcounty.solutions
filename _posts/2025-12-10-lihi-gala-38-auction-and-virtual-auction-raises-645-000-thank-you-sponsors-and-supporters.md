@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T18:26:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Rev Lawrence Willis of Love-To presents gifts to Sharon Lee, LIHI Executive
   Director. LIHI's Gala &amp; Auction  on Friday evening at the Four Seasons, plus
@@ -10,7 +10,7 @@ feed_content: Rev Lawrence Willis of Love-To presents gifts to Sharon Lee, LIHI 
   bidding on exciting auction items, playing games, dashing for delicious desserts,
   listening to...
 feed_content_checksum: 1712320a070700662035b81d368bbfe6612b853c
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

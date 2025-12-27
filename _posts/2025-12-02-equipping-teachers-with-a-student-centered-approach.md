@@ -1,13 +1,13 @@
 ---
 date: '2025-12-02T00:09:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: December 2025 Across Washington state, there is a stark disparity between
   the demographics of students and the educators who serve them. Many students go
   through their K-12 school experience without being taught by someone who shares
   or understands their racial, ethnic, or cultural backgrounds.   Why does this matter?
   Research and lived experience show student success [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Technology Access Foundation

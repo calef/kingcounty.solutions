@@ -1,6 +1,6 @@
 ---
 date: '2025-11-30T22:25:35+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div class="wp-block-uagb-image uagb-block-db8ab62f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" src="https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png" alt="" class="uag-image-9593" width="768" height="256" title="Fund Dev Newsletter Banners (5)" loading="lazy" role="img" /></figure></div>
@@ -105,7 +105,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/11/join-us-for-giving-tuesday-and-help-make-a-difference-for-kids-and-communities/">Join us for Giving Tuesday and help make a difference for kids and communities!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-image_ids:
+image_checksums:
 - 129373fcebfe8f05e4765f9f8a7364540d702739cda35cb5be81b380f3e87c7c
 - b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 location_titles:

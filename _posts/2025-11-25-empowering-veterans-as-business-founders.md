@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T16:25:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
   decoding=\"async\" class=\"size-full wp-image-55468 alignleft\" src=\"https://www.dav.org/wp-content/uploads/PBC_Group.jpg\"
@@ -41,7 +41,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriorit
   Applications are open year-round, but the deadline to be considered for DAV’s annual
   employer awards is Feb. 28.</em></p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/empowering-veterans-as-business-founders/\">Empowering
   veterans as business founders</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Disabled American Veterans

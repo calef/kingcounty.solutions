@@ -31,10 +31,10 @@ class ImagePrunerTest < Minitest::Test
     FileUtils.remove_entry(@tmpdir)
   end
 
-  def test_collect_image_ids_handles_missing_values
-    front_matter = { 'image_ids' => ['foo', nil, '  bar '] }
+  def test_collect_image_checksums_handles_missing_values
+    front_matter = { 'image_checksums' => ['foo', nil, '  bar '] }
 
-    assert_equal %w[foo bar], @pruner.collect_image_ids(front_matter)
+    assert_equal %w[foo bar], @pruner.collect_image_checksums(front_matter)
   end
 
   def test_remaining_image_counts_excludes_path
@@ -61,11 +61,11 @@ class ImagePrunerTest < Minitest::Test
 
   private
 
-  def write_post(filename, image_ids)
+  def write_post(filename, image_checksums)
     front_matter = {
       'title' => 'Test Post',
       'date' => Time.now.utc.iso8601,
-      'image_ids' => image_ids,
+      'image_checksums' => image_checksums,
       'source_url' => 'https://example.com'
     }
     path = File.join(@posts_dir, filename)

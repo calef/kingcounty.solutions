@@ -1,11 +1,11 @@
 ---
 date: '2025-09-22T22:33:11+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>More than 200 girls from Zambia, Malawi, and Zimbabwe took part in CAMFED&rsquo;s STEM (Science, Technology, Engineering and Mathematics) camps, gaining hands&#x2d;on experience while sparking creativity and innovation. In partnership with Ministries of Education and the National Inventors Hall of Fame (NIHF), CAMFED co&#x2d;hosted STEM camps in Lilongwe, Malawi (11&ndash;15 August), and Lusaka, Zambia (18&ndash;22 August)&#8230;</p>
   <p><a href="https://camfed.org/stem-camps/" rel="nofollow">Source</a></p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: CAMFED - Campaign for Female Education
 published: false

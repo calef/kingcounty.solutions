@@ -1,13 +1,13 @@
 ---
 date: '2025-12-11T21:06:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Our licensed childcare programs are ready to provide fun, engaging,
   supportive &amp; safe opportunities during school breaks. Our dedicated staff work
   daily to create a welcoming environment that honors diversity through offering fun
   and active experie...
 feed_content_checksum: eaffef01d6bf13107877d98423615ed11e3bbe4c
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

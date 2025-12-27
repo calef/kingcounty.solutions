@@ -1,13 +1,13 @@
 ---
 date: '2025-12-12T20:15:37+00:00'
-events:
-- 2026-01-01-change-in-health-insurance-network-status
+event_ids:
+- 2026-01-01-change-in-health-insurance-network-status.md
 events_extracted: true
 feed_content: |-
   <p>Do you or your dependents currently have health insurance coverage through any of the plans listed below? This change could impact your access to in-network care at Husky Health Center and all UW Medicine facilities in 2026. UW Medicine facilities, including Husky Health Center, will no longer be in-network with certain coverages under the following plans, effective January 1, 2026…</p>
   <p><a>Source</a></p>
 feed_content_checksum: dfc8482009365b5f71cc11e6d5ebb7f813741757
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: UW Well-Being for Students

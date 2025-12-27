@@ -61,7 +61,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   is your source for a healthy dose of information. Get updates by following us on
   <a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"793e85b5-17aa-40fb-8ac5-3d5b44f34363\"
   href=\"/about-us/contact-us/social-media\">social media</a>.</p>\n\n<p class=\"text-align-center\">###</p></div>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Health
 published: false

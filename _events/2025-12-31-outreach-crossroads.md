@@ -14,7 +14,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
   <span>United States</span> </span> </address> </li> </ul> </div> </div> </div> </div>
   </section> </div>"
 feed_content_checksum: 6da4352b2661d3d404f8d880b35e9470fb4b2acb
-image_ids: []
+image_checksums: []
 location: Crossroads, Bellevue, WA, United States
 location_titles:
 - King County

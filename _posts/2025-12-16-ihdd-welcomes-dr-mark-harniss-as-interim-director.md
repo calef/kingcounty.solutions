@@ -48,7 +48,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   post <a>IHDD Welcomes Dr. Mark Harniss as Interim Director</a> appeared first on
   <a>UW IHDD</a>.</p>"
 feed_content_checksum: 000434750320afb3f854d32ad354978c842c475b
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Institute on Human Development and Disability
 original_source_html: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>IHDD

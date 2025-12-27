@@ -1,6 +1,6 @@
 ---
 date: '2025-09-18T21:24:31+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "It’s been a big month for our team at ELAP.\n\nWe recently received
   two (!) awards commemorating our work.\n\n![\U0001F3C6](https://s.w.org/images/core/emoji/14.0.0/72x72/1f3c6.png)
@@ -12,7 +12,7 @@ feed_content: "It’s been a big month for our team at ELAP.\n\nWe recently rece
   So these honors are much appreciated and remind us of our “why.”\n\nThe post [Award-winning
   work](https://elap.org/award-winning-work/) appeared first on [Eastside Legal Assistance
   Program](https://elap.org)."
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

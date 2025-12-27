@@ -4,7 +4,7 @@ feed_content: Throughout the month of December, the Seattle Police Department Tr
   Section will have officers on the streets watching for impaired drivers. Every night
   this month officers will be across the city, watching busy streets and paying close
   attention t...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

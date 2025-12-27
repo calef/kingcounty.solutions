@@ -4,7 +4,7 @@ feed_content: The Seattle police SWAT team arrested a 51-year-old man for homici
   after a lengthy standoff in North Seattle this afternoon. At 11:45 a.m., patrol
   officers responded to reports of threats with a knife in the 1100 block of North
   84th Street. There, po...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

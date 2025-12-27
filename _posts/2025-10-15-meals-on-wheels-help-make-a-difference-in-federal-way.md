@@ -1,6 +1,6 @@
 ---
 date: '2025-10-15T16:05:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Location:</strong> Federal
   Way<br /><strong>Duration:</strong> Ongoing<br /><strong>Group or Individual:</strong> Individual<br
@@ -29,7 +29,7 @@ feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Locati
   post <a href=\"https://soundgenerations.org/meals-on-wheels-help-make-a-difference-in-federal-way/\">Meals
   on Wheels: Help make a difference in Federal Way!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Sound Generations

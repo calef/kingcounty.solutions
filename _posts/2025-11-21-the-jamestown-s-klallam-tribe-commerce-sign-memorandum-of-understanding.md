@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T19:45:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="has-medium-font-size">MOU will memorialize government-to-government relations between the sovereign nation and state agency</p>
@@ -56,7 +56,7 @@ feed_content: |-
 
 
   <p>To learn more and follow Commerce’s work with tribal nations and communities within Washington, visit the <a href="https://www.commerce.wa.gov/tribal-relations/">Office of Tribal Relations webpage</a>.</p>
-image_ids:
+image_checksums:
 - 9a9d7a74882eee35b4fdf069f5a99d67debf50cdf77c1530475b42840b28c4bd
 - 6525220e0e2dd7742262d399ae154a8a3f3eb049101dbbd30cb4fa761cd7b799
 location_titles:

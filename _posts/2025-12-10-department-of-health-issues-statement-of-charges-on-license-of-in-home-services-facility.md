@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T19:30:02+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span>Department of Health issues statement of charges on license of
   in-home services facility</span>\n\n            <div>\n<time>December 10, 2025 -
@@ -42,7 +42,7 @@ feed_content: "<span>Department of Health issues statement of charges on license
   \     \n  <div>\n    <div>News Author</div>\n              <div>Washington State
   Department of Health</div>\n          </div>"
 feed_content_checksum: 01f58586b175a8cbfa3a69d2a396326e8d21578d
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

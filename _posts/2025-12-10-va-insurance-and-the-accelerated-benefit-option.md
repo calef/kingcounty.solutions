@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>VA has announced an amendment to the <a>Servicemembers’ Group Life Insurance</a> (SGLI), Family SGLI (FSGLI), and Veterans’ Group Life Insurance (VGLI) Accelerated Benefit Option (ABO) <a>regulation</a>.</p>
@@ -31,7 +31,7 @@ feed_content: |-
 
   <p>This change comes as an update to the ABO that’s been in effect since 1998 when only the member could apply. Visit <a>VA benefits</a> for more information, or to apply.<a></a></p>
 feed_content_checksum: 5a717346a8e8976122e304376f88628f94b3e978
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

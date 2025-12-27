@@ -1,6 +1,6 @@
 ---
 date: '2025-11-19T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Toolkit helps faith leaders support Veterans and start conversations about mental health</h2>
@@ -82,7 +82,7 @@ feed_content: |-
 
 
   <p>If you’re a Veteran in crisis or concerned about one, contact the Veterans Crisis Line to receive 24/7 confidential support. You don’t have to be enrolled in VA benefits or health care to connect. To reach responders,&nbsp;<a href="tel:988">Dial&nbsp;988 then Press 1</a>, chat online at VeteransCrisisLine.net/Chat, or text&nbsp;838255<strong>.</strong></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-06T02:37:26+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">When Mohit and Ojaswani Suley first began hosting their
   annual&nbsp;Diwali celebration in Seattle, they never imagined it would grow into
@@ -31,7 +31,7 @@ feed_content: "<p class=\"\">When Mohit and Ojaswani Suley first began hosting t
   class=\"sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element\"
   data-sqsp-button target=\"_blank\"\n  >\n    Make a gift to join the Suleys in supporting
   Mary's Place!\n  </a>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Mary's Place

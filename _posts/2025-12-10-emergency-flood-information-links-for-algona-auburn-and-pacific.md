@@ -9,7 +9,7 @@ feed_content: |-
   <p>City of Pacific Website: <a>https://www.pacificwa.gov/</a></p>
   <p>The post <a>Emergency Flood Information Links for Algona, Auburn and Pacific</a> appeared first on <a>Valley Regional Fire Authority (VRFA)</a>.</p>
 feed_content_checksum: 43ec4fec1a9cbc51fe5ac45d12cf99fc50a8fb81
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Valley Regional Fire Authority
 published: false

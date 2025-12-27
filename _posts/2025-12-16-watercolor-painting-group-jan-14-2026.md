@@ -7,7 +7,7 @@ feed_content: |-
 
   <p>Join Barbara every 2nd and 4th Wednesday to explore the art of watercolor painting with other artists of all levels- no experience necessary! Share ideas and create beautiful artwork in a fun, relaxed environment. Supplies are provided but feel free to bring your own. RSVPs appreciated</p>
 feed_content_checksum: 50642de36bbd491399e5030a37654d3ec7782272
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: |-

@@ -1,13 +1,13 @@
 ---
 date: '2025-10-31T15:46:07+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Approximately 200 people gathered at Seattle City Hall on Oct. 28 to
   commemorate Domestic Violence Awareness Month and honor survivors of gender-based
   violence, as well as service providers and advocates.   Titled “Giving Flowers,”
   the event focused on cultivating healing and lifting up stories of resilience. It
   was hosted by the Human Service Department (HSD)’s Mayor’s [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

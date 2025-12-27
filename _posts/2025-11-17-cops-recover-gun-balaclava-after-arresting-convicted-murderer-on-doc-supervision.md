@@ -4,7 +4,7 @@ feed_content: Seattle police officers arrested armed, convicted murderer on acti
   Department of Corrections (DOC) Supervision sleeping next to bottle of liquor in
   South Lake Union. On Nov. 13, at about 8:43 a.m., patrol officers responded to reports
   of a man armed ...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

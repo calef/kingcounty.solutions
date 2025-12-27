@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T14:19:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <a href="https://wscenter.org/mark-your-calendar-for-giving-tuesday/"><p>The biggest annual day of giving is coming up soon! </p>
@@ -12,7 +12,7 @@ feed_content: |-
 
 
   <p>At The &hellip;</p></a>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: The Center for Active Living

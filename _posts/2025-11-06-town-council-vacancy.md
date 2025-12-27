@@ -41,7 +41,7 @@ feed_content: "**Notice: Town Council Vacancy**\n\n[Application for Appointment 
   it is a public record. Application materials received from all candidates who meet
   the minimum requirements of state law will be presented as part of the public meeting
   to select an appointee.\n\nThank you for your interest in serving our community."
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

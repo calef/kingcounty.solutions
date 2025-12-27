@@ -31,7 +31,7 @@ feed_content: <div class="container"> <section id="tribe-events-pg-template" cla
   <span class="tribe-events-meta-value"> <abbr class="tribe-events-abbr tribe-events-start-date
   published dtstart" title="2026-02-19"> February 19, 2026 </abbr> </span> </li> </ul>
   </div> </div> </div> </div> </section> </div>
-image_ids: []
+image_checksums: []
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

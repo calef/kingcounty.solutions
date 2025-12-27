@@ -1,6 +1,6 @@
 ---
 date: '2025-11-18T21:45:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><!--StartFragment --></p>
@@ -15,7 +15,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/finding-hope-at-heritage-gardens/">Finding Hope at Heritage Gardens</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-image_ids:
+image_checksums:
 - aac57f02114eca29a417f9a6266f6d0a9ca61c3d44f171c82457f00702828f1b
 location_titles:
 - King County

@@ -38,7 +38,7 @@ feed_content: "<div> <div> <div><div> <div> <div> <div> <div><h1>In the Line of 
   14 · 3:30 PM PST</span> </div> </div></div></div></div></div></div></div> </div></div>
   </div> </div>"
 feed_content_checksum: 20d302c3d4bf7d3f39dfb977d9c70fd8f4e10605
-image_ids: []
+image_checksums: []
 location: Communications Building (CMU)
 location_titles:
 - King County

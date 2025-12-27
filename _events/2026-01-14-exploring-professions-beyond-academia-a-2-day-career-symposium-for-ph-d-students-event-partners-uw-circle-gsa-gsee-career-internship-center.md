@@ -2,7 +2,7 @@
 end_date: '2026-01-14T18:30:00-08:00'
 feed_content: "<div> <div> <div> <div>Loading…</div> </div> </div> </div>"
 feed_content_checksum: a1e32cc93d5fed3cd66da173545d64a00645bcfd
-image_ids: []
+image_checksums: []
 location: Student Union Building (HUB)
 location_titles:
 - King County

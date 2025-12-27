@@ -35,7 +35,7 @@ feed_content: |-
   <p><i><span>For more information, contact <a>proactivehearing@cs.washington.edu </a></span></i></p>
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 14770966ac71d13a7d0e1d7782c0c5a4ad310bc6
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: University of Washington
 published: false

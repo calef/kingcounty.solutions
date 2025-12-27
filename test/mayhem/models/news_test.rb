@@ -2,6 +2,7 @@
 
 require_relative '../../test_helper'
 require 'mayhem/models/news'
+require 'mayhem/models/event'
 
 class NewsModelTest < Minitest::Test
   def test_creates_and_reads_news
@@ -14,8 +15,8 @@ class NewsModelTest < Minitest::Test
           'source_url' => 'https://example.com/article',
           'topic_titles' => ['Health Care', 'Education & Learning'],
           'location_titles' => ['King County'],
-          'image_ids' => [],
-          'events' => [],
+          'image_checksums' => [],
+          'event_ids' => [],
           'events_extracted' => true,
           'feed_content' => 'Test feed content',
           'feed_content_checksum' => 'feed-checksum',
@@ -34,8 +35,8 @@ class NewsModelTest < Minitest::Test
       assert_equal 'https://example.com/article', record.source_url
       assert_equal ['Health Care', 'Education & Learning'], record.topic_titles
       assert_equal ['King County'], record.location_titles
-      assert_equal [], record.image_ids
-      assert_equal [], record.events
+      assert_equal [], record.image_checksums
+      assert_equal [], record.event_ids
       assert_equal true, record.events_extracted
       assert record.events_extracted?
       assert_equal 'Test feed content', record.feed_content
@@ -71,6 +72,41 @@ class NewsModelTest < Minitest::Test
 
       assert_equal '_posts/2025-07-15-another-test-article.md', record.id
       assert_equal 'Another Test Article', record.title
+    end
+  end
+
+  def test_events_lookup_by_event_ids
+    FMRepo::TestHelpers.with_temp_repo(role: :events) do
+      FMRepo::TestHelpers.with_temp_repo(role: :news) do
+        event = Mayhem::Models::Event.create!(
+          {
+            'title' => 'Test Event',
+            'start_date' => '2025-12-20T09:00:00-08:00',
+            'organization_title' => 'Test Organization'
+          },
+          body: 'Test event.'
+        )
+        other_event = Mayhem::Models::Event.create!(
+          {
+            'title' => 'Other Event',
+            'start_date' => '2025-12-21T09:00:00-08:00',
+            'organization_title' => 'Test Organization'
+          },
+          body: 'Other event.'
+        )
+        record = Mayhem::Models::News.create!(
+          {
+            'title' => 'News With Events',
+            'date' => '2025-06-23T17:54:03+00:00',
+            'organization_title' => 'Test Organization',
+            'event_ids' => [event.id, other_event.id],
+            'summarized' => true
+          },
+          body: 'News mentioning events.'
+        )
+
+        assert_equal [event.id, other_event.id], record.events.map(&:id)
+      end
     end
   end
 

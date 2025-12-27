@@ -1,6 +1,6 @@
 ---
 date: '2025-11-20T13:00:01+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="p1">The fall and winter holidays are full of contradictions. They are cheerful and bright in a time of year that is often cold and dark. They are a celebration of togetherness and family, and can feel alienating and isolating for many. They are a time when we welcome people, and where people often feel left out. They offer gifts, joy, and abundance, as well as demands, pressure, and fear of falling short. They are secular and religious. They are a time that some people adore, and a time some people truly hate.</p>
@@ -49,7 +49,7 @@ feed_content: |-
   </ul>
   <h2 class="p4">The holidays are easier to handle when you have extra support from THIRA Health</h2>
   <p class="p1">Facing the contradictions and emotional intensity of the holiday season alone can feel overwhelming. Depression treatment with THIRA Health can help. Dialectical thinking, alongside mindfulness, emotional regulation, distress tolerance, and interpersonal effectiveness, offers healthy, effective ways to cope with difficult seasons in life. Our wide variety of programs provides holistic support that fits your individual needs, including residential, partial hospitalization (PHP) and intensive outpatient therapy (IOP). <a href="https://thirahealth.com/contact/"><span class="s1">Connect with us today</span></a> to see how our comprehensive, DBT-focused treatment for mental health can help teens and adults in Bellevue, Washington.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: THIRA Health

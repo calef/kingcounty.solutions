@@ -1,12 +1,12 @@
 ---
 date: '2025-10-29T16:39:23+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Opportunity We are seeking a Development Associate to join our mission-driven team. This role will help drive revenue growth by engaging individual donors, cultivating corporate sponsors, and supporting grant writing efforts. The ideal candidate is organized, proactive, and passionate about fundraising and donor stewardship, and shares our commitment to providing quality, compassionate healthcare to underserved communities […]</p>
   <p>The post <a>Development Associate</a> appeared first on <a>Lahai Health</a>.</p>
 feed_content_checksum: c17e19db1d02c797cfe473aec4dd634918956423
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Lahai Health

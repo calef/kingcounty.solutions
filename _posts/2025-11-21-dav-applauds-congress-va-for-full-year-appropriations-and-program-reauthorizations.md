@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T16:17:19+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_54651\"
   aria-describedby=\"caption-attachment-54651\" style=\"width: 300px\" class=\"wp-caption
@@ -25,7 +25,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachm
   America’s veterans.</p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/dav-applauds-congress-va-for-full-year-appropriations-and-program-reauthorizations/\">DAV
   applauds Congress &amp; VA for full year appropriations and program reauthorizations</a>
   appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-image_ids:
+image_checksums:
 - db94e72c4837a19cae513d61ded92a68f2f4398f61c148a290f153f1250849af
 location_titles:
 - King County

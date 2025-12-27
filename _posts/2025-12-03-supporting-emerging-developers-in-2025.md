@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T19:17:03+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Throughout 2025, Mercy Community Capital (MCC) continued to support developers who were relatively new to affordable housing or had limited access to traditional debt sources.</p>
@@ -11,7 +11,7 @@ feed_content: |-
   <p>MCC is proud of this work and looks to continue to support emerging developers in 2026 and beyond.</p>
   <p>&nbsp;</p>
   <p>The post <a href="https://www.mercyhousing.org/2025/12/supporting-emerging-developers-in-2025/">Supporting Emerging Developers In 2025</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Mercy Housing
