@@ -4,7 +4,7 @@ feed_content: Funding Available for Digital Equity Projects–Apply Now! The Cit
   Seattle announces that the application for the 2026 Technology Matching Fund (TMF)
   is now open! Non-profit organizations and community groups with projects or programs
   focused on clos...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

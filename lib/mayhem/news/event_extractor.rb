@@ -9,6 +9,8 @@ require_relative '../front_matter/slug_generator'
 require_relative '../support/encoding_utils'
 require_relative '../content/html_normalizer'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module News
     class EventExtractor
@@ -96,7 +98,7 @@ module Mayhem
         if events.empty?
           # Mark as extracted even if no events found
           front_matter['events_extracted'] = true
-          front_matter['events'] = []
+          front_matter['event_ids'] = []
           document.front_matter = front_matter
           document.save
           stats[:no_events_found] += 1
@@ -120,7 +122,7 @@ module Mayhem
 
         # Update post with event links
         front_matter['events_extracted'] = true
-        front_matter['events'] = event_ids
+        front_matter['event_ids'] = event_ids
         document.front_matter = front_matter
         document.save
 
@@ -236,7 +238,7 @@ module Mayhem
         # Check if event already exists
         if File.exist?(filename)
           stats[:duplicate_events] += 1
-          return File.basename(filename, '.md')
+          return File.basename(filename)
         end
 
         # Create event frontmatter
@@ -272,7 +274,7 @@ module Mayhem
         stats[:events_created] += 1
         @logger.info "Created event #{filename}"
 
-        File.basename(filename, '.md')
+        File.basename(filename)
       rescue StandardError => e
         @logger.error "Failed to create event: #{e.message}"
         stats[:event_creation_failed] += 1

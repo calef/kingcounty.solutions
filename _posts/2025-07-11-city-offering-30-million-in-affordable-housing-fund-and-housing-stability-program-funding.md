@@ -1,6 +1,6 @@
 ---
 date: '2025-07-11T16:13:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   offering $30 million in Affordable Housing Fund and Housing Stability Program funding</span>\n<span
@@ -49,7 +49,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   or 425-229-6511.</p></div>\n      \n\n            <div class=\"field field--name-field-article-date
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-07-11T12:00:00Z\"
   class=\"datetime\">July 11 2025</time>\n</div>\n      \n    </div>\n  </div>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Bellevue

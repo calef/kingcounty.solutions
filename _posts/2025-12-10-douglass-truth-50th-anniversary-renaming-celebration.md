@@ -5,7 +5,7 @@ feed_content: Everyone is invited to join The Seattle Public Library’s Douglas
   being renamed to reflect its community. Enjoy all-ages activities such as a Garfield
   Jazz Quartet p...
 feed_content_checksum: 239f8c518a947e4e5ba172fcc8f7864e88ec47a7
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

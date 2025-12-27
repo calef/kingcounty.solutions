@@ -1,12 +1,12 @@
 ---
 date: '2025-11-10T17:23:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>[Seattle Times] It has been a frenzied week for those who rely on federal benefits to feed themselves and their families — and for the food banks and pantries that provide groceries and meals to thousands of Washingtonians each month.</p>
   <p>The post <a>SNAP uncertainty piles on stress at local food banks</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: 9e525495f96761be76c225a2ea2481e98134dfb3
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Northwest Harvest

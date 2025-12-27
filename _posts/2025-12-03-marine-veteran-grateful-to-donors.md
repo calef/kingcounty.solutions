@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T11:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Marine Veteran Grateful to Operation Homefront Donors</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
@@ -68,7 +68,7 @@ feed_content: |-
   <p>“I think I speak for a lot of veterans when I say to the donors to Operation Homefront that we are very grateful,” he said.  </p>
   <p>The post <a>Marine Veteran Grateful to Donors </a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 9382c4efaa823efc23b8da7aa9bf3d5b9044da84
-image_ids:
+image_checksums:
 - 1256c3561529e03fcecf0cb3046e1753072f31a5f2e50516008e97d81855e153
 location_titles:
 - King County

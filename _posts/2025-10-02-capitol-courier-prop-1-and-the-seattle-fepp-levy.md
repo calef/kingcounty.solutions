@@ -1,6 +1,6 @@
 ---
 date: '2025-10-02T23:12:53+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This year, the Seattle Family, Education, Preschool, and Promise (FEPP) Levy is up for renewal. This means that on Election Day, Seattle voters will have the chance to vote whether or not to extend this levy for 7 more years. This levy funds many critical early learning programs throughout the city, most notably the Seattle Preschool Program (SPP).</p>
@@ -105,7 +105,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/capitol-courier-prop-1-and-the-seattle-fepp-levy/">Capitol Courier: Prop 1 and the Seattle FEPP Levy</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: BrightSpark

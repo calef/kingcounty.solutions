@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T19:14:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p><!--
   divi:paragraph --><strong>Full-Time, Hourly</strong><br><strong>Reports to: Co-Executive
@@ -117,7 +117,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
   post <a>We’re Hiring: Shelter Meal Manager</a> appeared first on <a>Hunger Intervention
   Program</a>.</p>"
 feed_content_checksum: 17cfb5af01408a4db3a6312677721d94e3849a2a
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Hunger Intervention Program

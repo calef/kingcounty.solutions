@@ -1,6 +1,6 @@
 ---
 date: '2025-10-21T22:22:31+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h4 class="wp-block-heading"><strong>Washington Smile Survey 2023–2024: Tracking Trends in Children’s Oral Health</strong></h4>
@@ -85,7 +85,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://arcorafoundation.org/smile-survey/">Smile Survey</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
-image_ids:
+image_checksums:
 - 596b3bb8797565f3d97f4d83a9e334646442834fe6f09ea35f58a048827f1924
 location_titles:
 - King County

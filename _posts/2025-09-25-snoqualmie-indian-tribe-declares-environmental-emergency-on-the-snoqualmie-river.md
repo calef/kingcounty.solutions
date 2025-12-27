@@ -10,7 +10,7 @@ feed_content: |-
   [Read the full declaration here](https://snoqualmietribe.us/wp-content/uploads/2025/09/Declaration-of-Environmental-Emergency-1.pdf). The persistent and recurring critical conditions and ongoing uses of water pose a serious threat to the health, safety, and welfare of the members of the Snoqualmie Tribe and the ecosystems that sustain them; interfere with Snoqualmie Tribal Members’ exercise of their rights; and, impede the Tribal Council’s sovereign regulation of and jurisdiction over its own affairs.
 
   _The Snoqualmie Indian Tribe is a federally recognized tribe in the Puget Sound region of Washington State. Known as the People of the Moon, Snoqualmie were signatories to the Treaty of Point Elliott in 1855. For more information visit www.snoqualmietribe.us_
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

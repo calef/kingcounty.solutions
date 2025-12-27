@@ -4,7 +4,7 @@ feed_content: "<a><p>There are so many reasons to love spending time at The Cent
   one of the best is the people you meet and the stories they share. Someone with
   great stories …</p></a>"
 feed_content_checksum: f74d5a5cc6dad320b341b8f95b3e4d611fa21ae8
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: The Center for Active Living

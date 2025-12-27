@@ -1,13 +1,13 @@
 ---
 date: '2025-12-17T18:33:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The City of Seattle will continue its commitment to food equity by investing
   more than $1.45 million in a diverse group of 23 community partners for 2026. These
   organizations deliver free meals, share traditional food knowledge, support elders
   and yout...
 feed_content_checksum: d114b1c4507c9464615d8484a89f7ff4d1316719
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

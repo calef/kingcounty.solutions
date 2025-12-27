@@ -1,6 +1,6 @@
 ---
 date: '2025-07-30T18:32:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>PacMed is proud to share that <strong>44 outstanding clinicians</strong> have been named to <em><strong>Seattle Magazine’s</strong></em><strong> 2025 Top Doctors list</strong>! These physicians represent a wide range of specialties and exemplify the highest standards of care, compassion, and clinical excellence.</p>
@@ -107,7 +107,7 @@ feed_content: |-
   <li><a href="https://www.providence.org/doctors/urology/wa/issaquah/john-mullen-1013982636">John Mullen, MD</a></li>
   </ul>
   <p>The post <a href="https://www.pacificmedicalcenters.org/news/pacmed-clinicians-honored-in-seattle-magazines-2025-top-doctors-list/">PacMed Clinicians Honored in Seattle Magazine&#8217;s 2025 Top Doctors List</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Pacific Medical Centers

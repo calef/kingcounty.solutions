@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T21:49:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure><img src="https://i0.wp.com/soundgenerations.org/wp-content/uploads/mealsonwheels_0267.jpg?resize=704%2C469&amp;ssl=1"></figure>
@@ -31,7 +31,7 @@ feed_content: |-
   </div>
   <p>The post <a>Delivering More Than Meals This Holiday Season</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: a0012a1f0b0a8021d0ec8a040b2f89334acb5741
-image_ids:
+image_checksums:
 - a08a4987a2fd24e597e3ccc9e52b96ea3ac2af7bc309bf35ad1f0bf4af7979c7
 - c235df7dc31ba7917a2532ccfeb82eb6c87e18bd09097afb5052ffdfbb984422
 location_titles:

@@ -66,7 +66,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   Services For more detailed information.see: <em><strong> <a>esd.wa.gov…</a></strong></em>
   </div> </div> </div> </section> </div> </section> </div> </div>'
 feed_content_checksum: d984ca774561112029c9a98fec0daf56391f7747
-image_ids: []
+image_checksums: []
 location: ''
 location_titles: []
 organization_title: WorkSource Seattle-King County

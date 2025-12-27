@@ -1,12 +1,12 @@
 ---
 date: '2025-12-12T19:50:29+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Call for Artists: Moving Stories As King County’s population grows,
   Metro is expanding its RapidRide system to help meet rider needs. With this expansion
   comes an opportunity to highlight the...'
 feed_content_checksum: c77a5da8e9212299c51bf347d1e41027ea594adf
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Metro Transit

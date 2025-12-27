@@ -3,7 +3,7 @@ date: '2025-12-19T04:07:04-08:00'
 feed_content: ENUMCLAW – Emergency work to repair the roadway on State Route 410 in
   Enumclaw will begin as early as Monday, Dec. 21.
 feed_content_checksum: 343be6d8a01fa8a69600d9c9d2e075264c5f0bec
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Washington State Department of Transportation

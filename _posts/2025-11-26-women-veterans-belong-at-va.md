@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>You served with dedication and strength. Now, you deserve health care that recognizes your service and supports your whole health. At VA, our mission is to provide care designed for Veterans—including women Veterans—at every stage of life.</p>
@@ -102,7 +102,7 @@ feed_content: |-
 
 
   <p>You belong at VA. <a href="http://www.womenshealth.va.gov" rel="noopener">Learn more about VA women’s health care</a> or download our <a href="https://www.womenshealth.va.gov/WOMENSHEALTH/docs/Resources-Guide-Brochure-Final-2-508.pdf" rel="noopener">Guide to VA Resources brochure</a> to learn more about all the benefits of using VA.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

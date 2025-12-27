@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: Myrtle Beach
 location_titles: []
 organization_title: Disabled American Veterans

@@ -1,6 +1,6 @@
 ---
 date: '2025-07-21T20:40:50+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><img decoding="async" class="alignright wp-image-11438" src="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a-300x169.jpg" alt="" width="360" height="203" srcset="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a-300x169.jpg 300w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a.jpg 553w" sizes="(max-width: 360px) 100vw, 360px" /></p>
@@ -26,7 +26,7 @@ feed_content: |-
   </ul>
   <p>Your health and time matter to us—thank you for your patience as we navigate this together.</p>
   <p>The post <a href="https://www.pacificmedicalcenters.org/news/major-i-5-construction/">Major I-5 Construction Impacting Patient Northbound Travel to Seattle</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Pacific Medical Centers

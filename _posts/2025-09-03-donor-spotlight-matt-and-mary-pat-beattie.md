@@ -1,6 +1,6 @@
 ---
 date: '2025-09-03T20:52:32+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>For Matt and Mary-Pat Beattie, supporting YES is deeply personal. Their connection to YES began years ago when their son Jack, 13 at the time, was referred by his school for early substance use counseling. What started as a one-time visit became a lasting relationship with the organization that offered Jack and his entire family a safe place through his <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.youtheastsideservices.org/services/substance-use-treatment/">journey with substance use</a></span> and mental health challenges.</p>
@@ -17,7 +17,7 @@ feed_content: |-
   <p><a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&amp;id=64"><img decoding="async" class="lazyloaded aligncenter wp-image-11851 ls-is-cached " src="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png" alt="donate to youth mental health" width="528" height="132" data-src="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png" srcset="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png 960w, https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header-300x75.png 300w, https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header-768x192.png 768w" sizes="(max-width: 528px) 100vw, 528px" /></a></p>
   <p>&nbsp;</p>
   <p>The post <a href="https://www.youtheastsideservices.org/beattie-story/">Donor Spotlight: Matt and Mary-Pat Beattie</a> appeared first on <a href="https://www.youtheastsideservices.org">Youth Eastside Services</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Youth Eastside Services

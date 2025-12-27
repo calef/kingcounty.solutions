@@ -4,7 +4,7 @@ feed_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div>
   <p><span><span><strong><span>CITY OF MERCER ISLAND – NOTICE OF APPLICATION AND NOTICE OF PUBLIC HEARING</span></strong></span></span></p>
   <p><span><span><strong><span>SEP25-017 &amp; RZN25-001 – Public Hearing November 19, 2025</span></strong></span></span></p></div></div></div></div>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Mercer Island
 published: false

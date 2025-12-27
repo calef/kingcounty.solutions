@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T20:09:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>Yesterday’s annual Share Your Blessings event brought our community
   together for a shared meal and time well spent Thank you to everyone who joined
@@ -35,7 +35,7 @@ feed_content: "<p>Yesterday’s annual Share Your Blessings event brought our co
   \           \n          \n        \n\n        \n\n        \n          \n        \n
   \     \n        \n          \n            \n              <img src=\"https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/1766088977872-FYP9H6GX61IG7Z6PDOT0/589569358_18085161796997225_1852421533956026609_n.jpg?format=1000w\"><br>"
 feed_content_checksum: eb6341aed3e0b41a0011868de23b0f60ebaae449
-image_ids:
+image_checksums:
 - c8850eab5fa80ebed104b3762825a022497623f284dc54a86bc4388f5b95475b
 - 9078ced09620224e7bf8b131475ef0016a2a56293d9f3e3f526688c7f01132e3
 - b87aa7396f3765f43821164ec97d8e63e0555f7a5e429d54ad789a928e639950

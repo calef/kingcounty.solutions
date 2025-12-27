@@ -5,7 +5,7 @@ feed_content: "<p>Join Karina to experience an unconventional, intuitive approac
   collage, etc), discover new techniques.  ignite your creativity, and embrace imperfection.
   Prepare to play and create using text, abstract shapes, and building upon layers
   as you tap into a deeper level of creativity and expression. RSVPs required, free!</p>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Wallingford Community Senior Center
 published: false

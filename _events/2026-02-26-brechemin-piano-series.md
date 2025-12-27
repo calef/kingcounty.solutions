@@ -2,7 +2,7 @@
 end_date: '2026-02-26T19:30:00-08:00'
 feed_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>UW keyboard students
   perform music from the piano repertoire. </p> <p> </p> <p> </p> </div> </div>
-image_ids: []
+image_checksums: []
 location: Music Building (MUS)
 location_titles:
 - King County

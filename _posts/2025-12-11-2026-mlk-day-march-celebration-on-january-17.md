@@ -5,7 +5,7 @@ feed_content: Join Seattle Parks and Recreation as we come together to honor the
   and community action will be highlighted by a youth-led march and celebration, guided
   by th...
 feed_content_checksum: a2519006105ae56f5e9e7bdc1c9ee80fb35f87f0
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

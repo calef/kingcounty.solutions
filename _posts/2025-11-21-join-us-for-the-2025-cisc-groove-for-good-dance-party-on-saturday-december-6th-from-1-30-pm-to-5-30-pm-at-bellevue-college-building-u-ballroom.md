@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T23:44:04+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This high-energy event supports CISC’s Early Learning &amp; Family Resource Programs — and it’s all about dancing your way, at your pace, and having FUN! Enjoy an energizing dance experience and learn new moves from Zumba, line dance, and salsa instructors! We’ll also feature social dance music and designate a portion of the ballroom for open dancing.</p>
@@ -18,7 +18,7 @@ feed_content: |-
   or Text 2025DPticket to 91999</p>
   <p>&nbsp;</p>
   <p>The post <a href="https://cisc-seattle.org/join-us-for-the-2025-cisc-groove-for-good-dance-party-on-saturday-december-6th-from-130-pm-to-530-pm-at-bellevue-college-building-u-ballroom/">Join us for the 2025 CISC Groove for Good Dance Party on Saturday, December 6th, from 1:30 PM to 5:30 PM at Bellevue College, Building U Ballroom!</a> appeared first on <a href="https://cisc-seattle.org">Chinese Information and Service Center</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Chinese Information & Service Center

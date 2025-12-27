@@ -1,6 +1,6 @@
 ---
 date: '2025-11-06T05:19:53+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-post-featured-image"><img data-recalc-dims="1" fetchpriority="high" decoding="async" width="704" height="469" src="https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?resize=704%2C469&#038;ssl=1" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" srcset="https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?resize=982%2C655&amp;ssl=1 982w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?resize=260%2C173&amp;ssl=1 260w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?w=1408&amp;ssl=1 1408w" sizes="(max-width: 704px) 100vw, 704px" /></figure>
@@ -16,7 +16,7 @@ feed_content: |-
 
   <p><span style="font-size: 18px"><span style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif"><span style="font-weight:normal;"><span style="background-color: rgb(255, 255, 255)">It’s likely that someone in your family will be caring for an aging relative—or will, themselves, need extra assistance as they grow older. Family and community relationships are the source of so much joy, meaning, and comfort. So take time in November to acknowledge, honor, and check in with a family caregiver. They will get a boost from your thoughtful contact and your gestures of support.</span></span></span></span><br><br>These organizations’ websites are among many that have resources to share and suggestions for ways to celebrate family caregiving. The <a href="https://www.ncoa.org/page/national-family-caregivers-month/">National Council on Aging</a>, <a href="https://www.caregiveraction.org/">The Caregiver Action Network</a>, <a href="https://www.caregiving.org/">The National Alliance for Caregiving</a>, and <a href="https://sharethecare.org/">Share The Care</a>.</p>
   <p>The post <a href="https://soundgenerations.org/november-is-national-caregivers-month/">November is National Caregivers Month</a> appeared first on <a href="https://soundgenerations.org">Sound Generations</a>.</p>
-image_ids:
+image_checksums:
 - ad51460a4eb6b48fcb0ab1d97bf996d1cf869d18c6aa41c67c178d49574a876e
 location_titles:
 - King County

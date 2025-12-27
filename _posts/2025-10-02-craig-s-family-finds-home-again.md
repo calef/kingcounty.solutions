@@ -1,6 +1,6 @@
 ---
 date: '2025-10-02T18:09:02+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">For Craig, home had always been the apartment where he
   was raising his two kids, Tanner and Ellie. It was where the kids’ height was marked
@@ -56,7 +56,7 @@ feed_content: "<p class=\"\">For Craig, home had always been the apartment where
   class=\"sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element\"
   data-sqsp-button target=\"_blank\"\n  >\n    give today to support families like
   craig's\n  </a>"
-image_ids:
+image_checksums:
 - 75a1637b9041eba2a14a5983c17a7af3fa77b5a38c627baafa06484ca9e6a25f
 location_titles:
 - King County

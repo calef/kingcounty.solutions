@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T14:19:28+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n\n    \n    <figure><img src=\"https://www.dav.org/wp-content/uploads/Slotnick-near-tank.png\"><figcaption>Jeff
   Slotnick served as an Army combat engineer and deployed all over the world, including
@@ -81,7 +81,7 @@ feed_content: "<div>\n\n    \n    <figure><img src=\"https://www.dav.org/wp-cont
   post <a>Walking through fire: Gulf War veteran fights for early detection</a> appeared
   first on <a>DAV</a>.</p>"
 feed_content_checksum: fa1c757eeaae28da5e6515159b3a4180de92a868
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Disabled American Veterans

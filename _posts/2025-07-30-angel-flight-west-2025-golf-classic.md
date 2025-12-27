@@ -1,6 +1,6 @@
 ---
 date: '2025-07-30T12:01:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="768" src="https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-1024x768.jpg" alt="" class="wp-image-61922" style="width:639px;height:auto" srcset="https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-1024x768.jpg 1024w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-300x225.jpg 300w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-768x576.jpg 768w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-1536x1152.jpg 1536w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
@@ -48,7 +48,7 @@ feed_content: |-
 
 
   <p><br><strong>Media Contact:</strong> <br>Jessica Hayes <br>Sr. Communications Manager <br>(323) 332-1610 <br><a href="mailto:jessicah@angelflightwest.org" target="_blank" rel="noreferrer noopener">jessicah@angelflightwest.org</a>  <br>angelflightwest.org  </p><p>The post <a href="https://angelflightwest.org/news/angel-flight-west-2025-golf-classic/">Angel Flight West 2025 Golf Classic</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Angel Flight West
 published: false

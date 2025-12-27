@@ -1,6 +1,6 @@
 ---
 date: '2025-09-08T19:28:30+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<h2 data-start=\"924\" data-end=\"1111\">32 in Review:  Looking Back
   to Where it All Began</h2>\n<p data-start=\"924\" data-end=\"1111\">Thirty-two years
@@ -33,7 +33,7 @@ feed_content: "<h2 data-start=\"924\" data-end=\"1111\">32 in Review:  Looking 
   has now impacted hundreds across our community.</p>\n<h4 data-start=\"1384\" data-end=\"1441\">Together,
   we are 32 Strong. Together, we begin Year 33.</h4>\n<h3>Link to: <a href=\"https://secure.lglforms.com/form_engine/s/pnZT4f_ZJ6H6U9hDXMAi4A\">Give
   Today</a></h3>"
-image_ids: []
+image_checksums: []
 location_titles:
 - Eastside
 organization_title: PorchLight

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T18:21:51+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>If your friend told you she’s pregnant, you might be at a loss for what to say. The truth is, she’s probably not looking for the right answer to her situation. She just wants someone who she trusts to confide in and listen to her. </p>
@@ -141,7 +141,7 @@ feed_content: |-
 
   <p></p><p>The post <a>My friend is unexpectedly pregnant, how can I be there for her?</a> first appeared on <a>Care Net of Puget Sound</a>.</p>
 feed_content_checksum: df1438867e82eea65c23dddc65c826c1a0f932db
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Care Net of Puget Sound

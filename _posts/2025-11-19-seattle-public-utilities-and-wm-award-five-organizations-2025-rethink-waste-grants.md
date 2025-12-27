@@ -1,12 +1,12 @@
 ---
 date: '2025-11-19T18:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: On November 19, Seattle Public Utilities (SPU) and WM announced the
   recipients of the 2025 ReThink Waste Grants, supporting community-based projects
   that are designed to prevent waste, promote recycling, composting and advance a
   circular economy in Sea...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

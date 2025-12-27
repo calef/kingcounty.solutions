@@ -1,6 +1,6 @@
 ---
 date: '2025-09-03T22:41:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>For decades, glass artist Sonja Blomdahl worked in her Seattle studio, creating luminous vessels that caught light and color in a way that seemed to hold hope inside them. She was no stranger to discipline, teamwork, and the physicality of creation. But nothing prepared her for the physical and emotional intensity of a cancer diagnosis.</p>
@@ -25,7 +25,7 @@ feed_content: |-
   <p><strong><em>“I’m learning what it means to live with cancer, not just past it. I try to be real about it—not pretending everything is fine, but not letting it stop me from living either.”</em></strong></p>
   <p>Sonja’s story is one of courage, persistence, and openness. In saying yes—to treatment, to support, and to community—she has found her own light shining through uncertainty.<strong> </strong>And in sharing her journey, she reminds us all: listen to your body, pursue regular screenings, and never stop seeking the care and connection you deserve.</p>
   <p>Would you like to share your Cancer Lifeline or Harmony Retreats story with us? <a href="mailto:victrinia@harmonyhill.org" target="_blank" rel="noreferrer noopener">Contact Our Communications Team</a></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

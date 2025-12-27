@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T19:45:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div><figure><img src="https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png"></figure></div>
@@ -93,7 +93,7 @@ feed_content: |-
   <p></p>
   <p>The post <a>Many Ways to Give This Season! Find What Works for You!</a> appeared first on <a>BrightSpark</a>.</p>
 feed_content_checksum: d1f7cb26038c8a0fc337645378109c35daefcd8e
-image_ids:
+image_checksums:
 - 4d89cb5684e2436c8296f58e52352211a7511e5d83116565095acc16c0a59326
 - b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 location_titles:

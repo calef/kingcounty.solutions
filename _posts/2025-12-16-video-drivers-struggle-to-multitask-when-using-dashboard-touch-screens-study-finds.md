@@ -31,7 +31,7 @@ feed_content: |-
   <p><i><span>For more information, contact Wobbrock at </span></i><a><i><span>wobbrock@uw.edu</span></i></a><i><span> and Fogarty at </span></i><a><i><span>jfogarty@cs.washington.edu</span></i></a><i><span>.</span></i></p>
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 6ba298fe944e0e65162fb56e9d0ad722d93b9a8c
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: University of Washington

@@ -3,7 +3,7 @@ date: '2025-12-22T11:45:31-08:00'
 feed_content: ORTING - State Route 162 closes around the clock between Orting and
   South Prairie for emergency repair work.
 feed_content_checksum: ce5cda279864a2f45be3a78ac7195c2af4f9488c
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Washington State Department of Transportation
 original_source_html: ORTING - State Route 162 closes around the clock between Orting

@@ -350,7 +350,7 @@ feed_content: '<div id="main-wrapper"> <div id="mainContentDiv" class="container
   lunch, and breaks (available with Exhibitor badge)</p></li> </ul> <p>*To claim CME
   credit, you must register as as a non-exhibiting industry professional</p> </td></tr>
   </tbody></table></div> </div> </div> </div> </div> </div> </div> </div>'
-image_ids: []
+image_checksums: []
 location: University Of Washington Tower Building O (UWTO)
 location_titles:
 - King County

@@ -1,11 +1,11 @@
 ---
 date: '2025-11-27T01:42:46+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Weekend Service Impacts Routes 3, 10, 11, 12, and 49 will be rerouted
   during testing for The Seattle Tree Lighting &#38; Fireworks from 6 p.m. to 10 p.m.
   on Wednesday, November...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Metro Transit

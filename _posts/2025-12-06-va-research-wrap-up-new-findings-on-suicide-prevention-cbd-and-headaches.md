@@ -1,6 +1,6 @@
 ---
 date: '2025-12-06T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>VA’s Office of Research and Development recently published three&nbsp;<a href="https://www.research.va.gov/news_briefs/default.cfm" rel="noopener">News Briefs</a>&nbsp;highlighting research findings on a decision aid to prevent suicide, how CBD affects the kidneys, and brain stimulation to reduce headaches.</p>
@@ -44,7 +44,7 @@ feed_content: |-
 
 
   <p>For more Office of Research and Development updates, visit&nbsp;<a href="https://www.research.va.gov/" rel="noopener">ORD online</a>&nbsp;or go to https://www.research.va.gov/news_briefs/.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

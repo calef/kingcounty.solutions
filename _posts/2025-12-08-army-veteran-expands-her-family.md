@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>With the support of VA’s reproductive health services</h2>
@@ -57,7 +57,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA Madison Health care System site</a> and has been edited for style and clarity.  </p>
 feed_content_checksum: a9215aadbbe39eac429dd9e574fa9f5ea888db68
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

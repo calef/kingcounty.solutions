@@ -1,6 +1,6 @@
 ---
 date: '2025-09-15T18:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Every other Thursday, Sarada looks forward to hearing a familiar knock at her door. It’s Eileen, her Home Delivered Meals diver from Catholic Community Services (CCS), bringing not only a two-week supply of meals, but also a moment of connection and care.&nbsp;&nbsp;</p>
@@ -98,7 +98,7 @@ feed_content: |-
 
 
   <p></p>The post <a href="https://ccsww.org/saradas-story-stability-and-independence-with-meal-delivery/">Sarada’s Story: Stability and Independence with Meal Delivery </a> first appeared on <a href="https://ccsww.org">Catholic Community Services of Western Washington</a>.
-image_ids:
+image_checksums:
 - 88660ade4a815d9648d123543b5a045730a57f38504cccd2bb63e5b723579675
 - a7b66aded8d7ae566ec714030120d89f446be8adfcefe0a5ac21337cae92e874
 location_titles:

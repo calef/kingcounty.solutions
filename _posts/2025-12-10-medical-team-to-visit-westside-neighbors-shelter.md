@@ -1,7 +1,7 @@
 ---
 date: '2025-12-10T20:07:09+00:00'
-events:
-- 2026-01-03-medical-care-at-american-legion-hall
+event_ids:
+- 2026-01-03-medical-care-at-american-legion-hall.md
 events_extracted: true
 feed_content: |-
   <p>Great news! Harborview Medical Center Street Medicine will provide medical care to our clients at the American Legion Hall on the following dates:</p>
@@ -27,7 +27,7 @@ feed_content: |-
   <p></p>
   <p>The post <a>Medical team to visit Westside Neighbors Shelter</a> appeared first on <a>Westside Neighbors Shelter</a>.</p>
 feed_content_checksum: 8a5b29f6f5a1e6bd9067e51e30e2fa23dfb2c777
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Westside Neighbors Shelter

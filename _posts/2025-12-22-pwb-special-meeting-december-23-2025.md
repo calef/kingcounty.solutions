@@ -17,7 +17,7 @@ feed_content: |-
 
   <p></p>
 feed_content_checksum: 7e9539ebc36c6adb66bc369bdc7f1c992c074233
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

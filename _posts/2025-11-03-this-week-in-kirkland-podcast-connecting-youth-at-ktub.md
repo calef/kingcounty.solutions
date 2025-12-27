@@ -1,6 +1,6 @@
 ---
 date: '2025-11-03T23:30:07+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p data-start="161" data-end="670"><em>We’re excited to share that YES Counselor at the <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.kirklandwa.gov/Government/Departments/Parks-and-Community-Services/Kirkland-Teen-Union-Building" target="_blank" rel="noopener">Kirkland Teen Union Building (KTUB</a></span>), Katelyn Mullinkin, was featured on the City of Kirkland’s &#8220;This Week in Kirkland&#8221; podcast, and it is such a fun listen. The episode is full of laughter, quick banter, surprising insights, and genuinely animated conversation about teen life, creativity, connectedness, and how KTUB provides a space where young people can belong, be themselves, and access mental health support right in their own neighborhood.</em></p>
@@ -61,7 +61,7 @@ feed_content: |-
   <p>Thanks to donations like yours, <strong>no family is turned away</strong> because they can’t afford to pay for services.</p>
   <p><a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&amp;id=64"><img fetchpriority="high" decoding="async" class="lazyloaded aligncenter wp-image-11851 ls-is-cached " src="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png" alt="donate to youth mental health" width="528" height="132" data-src="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png" srcset="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png 960w, https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header-300x75.png 300w, https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header-768x192.png 768w" sizes="(max-width: 528px) 100vw, 528px" /></a></p>
   <p>The post <a href="https://www.youtheastsideservices.org/podcast-ktub/">&#8220;This Week in Kirkland&#8221; Podcast: Connecting Youth at KTUB</a> appeared first on <a href="https://www.youtheastsideservices.org">Youth Eastside Services</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Youth Eastside Services

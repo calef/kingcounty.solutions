@@ -1,6 +1,6 @@
 ---
 date: '2025-07-31T20:51:46+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: <p class="">We’re thrilled to share that we have raised $16 million
   towards our campaign to renovate our former warehouse space into a thriving food
@@ -45,7 +45,7 @@ feed_content: <p class="">We’re thrilled to share that we have raised $16 mill
   class="">“We were always going to expand,” Hatcher-Mays said. “That’s what we do.
   We grow to meet our neighbors’ needs. But now our growth is more important than
   ever.”</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Rainier Valley Food Bank

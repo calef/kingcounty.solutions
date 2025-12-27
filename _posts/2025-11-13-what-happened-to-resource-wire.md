@@ -7,7 +7,7 @@ feed_content: |-
   <p><span data-contrast="none">For many years, Resource Wire has been published as blog post as well, but we stopped last month so we could make the newsletter even more useful for the more than three thousand people who subscribe. If you’re not already one of them, just go to </span><a href="https://www.solid-ground.org/get-help/resource-wire-signup/"><b><span data-contrast="none">Resource Wire Signup</span></b></a><span data-contrast="none"> to get yours!</span><span data-ccp-props="{}"> </span></p>
   <p><b><i><span data-contrast="none">Questions</span></i></b><b><i><span data-contrast="none">? Have a resource you think other people should know about? Email us at </span></i></b><a href="mailto:resourcewire@solid-ground.org"><b><i><span data-contrast="none">resourcewire@solid-ground.org</span></i></b></a><b><i><span data-contrast="none">.</span></i></b></p>
   <p><span data-ccp-props="{}"> </span></p>The post <a href="https://www.solid-ground.org/what-happened-to-resource-wire/">What happened to Resource Wire? </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Solid Ground
 published: false

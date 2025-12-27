@@ -1,6 +1,6 @@
 ---
 date: '2025-11-18T15:48:37+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
@@ -146,7 +146,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   class=\"mk-padding-divider jupiter-donut-  jupiter-donut-clearfix\"></div>\r\n\r\n</span></div></section>\t</div>\r\n</aside>\r\n\r\n</div>\r\n\t</div>\r\n\n</div><p>The
   post <a href=\"https://ihdd.org/2025/11/18/honoring-the-life-of-alice-wong/\">Honoring
   the Life of Alice Wong</a> appeared first on <a href=\"https://ihdd.org\">UW IHDD</a>.</p>"
-image_ids:
+image_checksums:
 - e67c7b8075f94ebd6915a3df724c8257227e71271078307215548603203f68fd
 location_titles:
 - King County

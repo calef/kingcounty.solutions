@@ -5,7 +5,7 @@ feed_content: Do you want to learn more about doing business with the City? Do y
   businesses? Do you have questions about working with unions on City construction
   projects? Do you want ...
 feed_content_checksum: c8755670e4cab22a2da78eb547a8f75796796d18
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

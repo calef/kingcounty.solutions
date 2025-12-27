@@ -17,7 +17,7 @@ feed_content: |-
 
   <p></p>
 feed_content_checksum: b186bc7463de4b11f6711cda90153db57c9690af
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Commerce
 original_source_html: |-

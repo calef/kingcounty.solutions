@@ -1,6 +1,6 @@
 ---
 date: '2025-09-26T21:43:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Ahoy! The Sno-Valley Senior Center Gala &amp; Auction is coming up on Saturday, October 11 and the theme is Timeless Treasures! We are so excited to be hosting this event at The Club at Snoqualmie Ridge and have some great items to bid on, including a stay at Willows Lodge, 6-Nights in Cortona Italy, Sno-Valley Winery Tour for 10, and so much more!</p>
@@ -15,7 +15,7 @@ feed_content: |-
   <p>Kira Avery, Executive Director</p>
   <p>&nbsp;</p>
   <p>The post <a href="https://snovalleysenior.org/october-2025-directors-letter/">October 2025 Director&#8217;s Letter</a> appeared first on <a href="https://snovalleysenior.org">Sno-Valley Senior Center</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Sno-Valley Senior Center

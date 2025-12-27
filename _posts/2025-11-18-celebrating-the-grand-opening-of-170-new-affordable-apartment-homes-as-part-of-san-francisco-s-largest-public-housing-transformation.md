@@ -18,7 +18,7 @@ feed_content: |-
   <p><a href="https://www.commercial.mercyhousing.org/2025-holiday-gift-guide">Shop the Sunnydale Holiday Gift Guide to support local, community-serving small businesses, and strengthen the Sunnydale Neighborhood »</a></p>
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/grand-opening-170-affordable-apartments/">Celebrating the Grand Opening of 170 New Affordable Apartment Homes as Part of San Francisco’s Largest Public Housing Transformation</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Mercy Housing
 published: false

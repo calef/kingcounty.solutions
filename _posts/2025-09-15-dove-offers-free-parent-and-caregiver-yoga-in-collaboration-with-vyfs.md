@@ -1,6 +1,6 @@
 ---
 date: '2025-09-15T14:03:17+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div id="SITE_PAGES" class="JsJXaX SITE_PAGES"><div id="SITE_PAGES_TRANSITION_GROUP" class="AnQkDU"><div id="i0c4g" class="dBAkHi i0c4g">
@@ -130,7 +130,7 @@ feed_content: |-
   <!--/$-->
   </div>
   </div></div></div>
-image_ids: []
+image_checksums: []
 location_titles:
 - Vashon
 organization_title: The Vashon DOVE Project

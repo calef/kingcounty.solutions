@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: Broadway and Pine, Capitol Hill
 location_titles:
 - King County

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-11T18:27:31+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span>Department of Health issues notice of intent on licenses of health
   care facilities</span>\n\n            <div>\n<time>December 11, 2025 - 10:22am</time>\n</div>\n
@@ -41,7 +41,7 @@ feed_content: "<span>Department of Health issues notice of intent on licenses of
   media</a>.</p>\n\n<p>###</p>\n</div>\n      \n  <div>\n    <div>News Author</div>\n
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: d6326c9690b2041ac454e72e998aff313479e613
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

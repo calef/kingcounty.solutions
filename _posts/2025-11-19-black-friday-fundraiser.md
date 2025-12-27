@@ -1,7 +1,7 @@
 ---
 date: '2025-11-19T00:00:00-08:00'
 feed_content: <summary type="html"></summary>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Rootstock Northwest
 published: false

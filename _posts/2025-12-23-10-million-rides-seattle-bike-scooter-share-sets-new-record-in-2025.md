@@ -1,13 +1,13 @@
 ---
 date: '2025-12-23T21:21:25+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Blog stats: 1,700 words | 9-minute read At-a-glance: Seattle’s bike
   and scooter share program just reached a record-breaking 10 million trips in 2025
   alone, with a couple weeks still left to go in the year.   That’s over 60% more
   trips t...'
 feed_content_checksum: dc5de1b1e59974e1cb65992397f526c60cddf7c8
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,6 +1,6 @@
 ---
 date: '2025-08-12T18:29:01+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Last month, Recycle &amp; Reuse Director Steve Gadingan<a href="https://bikeworks.org/steves-manifesto/"> wrote an essay</a> about the increasingly wasteful bicycle industry and the concept of a forever bike, a bike that is resistant to wear and tear and if treated well, will last, well, forever. What follows is the story of a Bike Works customer and his purple forever bike. </strong></p>
@@ -76,7 +76,7 @@ feed_content: |-
 
   <p>“Some of my former students now work at Rainier Beach, and some of them are now parents themselves.” Mark says he remembers being in the classroom with them and catching their attention for four minutes here and there. “Now, my former students are teaching. But kids have always been the best teachers.”&nbsp;</p>
   <p>The post <a href="https://bikeworks.org/mark-and-the-purple-bike/">Mark and the purple bike</a> appeared first on <a href="https://bikeworks.org">Bike Works</a>.</p>
-image_ids:
+image_checksums:
 - ad87ac70308ef8061067946ed8c46011cfead35c5bc67485080c0f292691a7be
 location_titles:
 - King County

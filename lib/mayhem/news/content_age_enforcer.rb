@@ -9,6 +9,8 @@ require_relative '../images/pruner'
 require_relative '../news/pruner'
 require_relative '../front_matter/document'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module News
     class ContentAgeEnforcer
@@ -65,15 +67,15 @@ module Mayhem
         excluded_paths = posts.to_set { |entry| entry[:path] }
 
         # Collect event IDs from posts being removed
-        removed_event_ids = posts.flat_map { |entry| entry[:events] }.uniq.compact
+        removed_event_ids = posts.flat_map { |entry| entry[:event_ids] }.uniq.compact
 
         posts.each do |entry|
           @logger.info "Removing post #{File.basename(entry[:path])}"
           remove_file(entry[:path])
         end
 
-        removed_image_ids = @news_pruner.prune_images(
-          posts.flat_map { |entry| entry[:image_ids] }.uniq,
+        removed_image_checksums = @news_pruner.prune_images(
+          posts.flat_map { |entry| entry[:image_checksums] }.uniq,
           excluded_paths: excluded_paths
         )
 
@@ -81,7 +83,7 @@ module Mayhem
         prune_generated_events(removed_event_ids) if removed_event_ids.any?
 
         @logger.info "Removed #{posts.size} post#{'s' unless posts.size == 1} older than #{max_age_days} days."
-        @logger.info "Removed #{removed_image_ids.size} image metadata entr#{removed_image_ids.size == 1 ? 'y' : 'ies'}."
+        @logger.info "Removed #{removed_image_checksums.size} image metadata entr#{removed_image_checksums.size == 1 ? 'y' : 'ies'}."
       end
 
       private
@@ -115,8 +117,8 @@ module Mayhem
 
           memo << {
             path: path,
-            image_ids: @news_pruner.collect_image_ids(document.front_matter),
-            events: collect_event_ids(document.front_matter)
+            image_checksums: @news_pruner.collect_image_checksums(document.front_matter),
+            event_ids: collect_event_ids(document.front_matter)
           }
         end
       end
@@ -131,7 +133,7 @@ module Mayhem
       end
 
       def collect_event_ids(front_matter)
-        Array(front_matter['events']).map(&:to_s).map(&:strip).reject(&:empty?)
+        Array(front_matter['event_ids']).map(&:to_s).map(&:strip).reject(&:empty?)
       end
 
       def remove_file(path)
@@ -146,7 +148,7 @@ module Mayhem
         remaining_event_refs = remaining_event_references
 
         event_ids.each do |event_id|
-          event_path = File.join(@events_dir, "#{event_id}.md")
+          event_path = File.join(@events_dir, event_id)
           next unless File.exist?(event_path)
 
           # Only remove events that were generated from posts
@@ -174,10 +176,10 @@ module Mayhem
           document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
-          events = document.front_matter['events']
-          next unless events.is_a?(Array)
+          event_ids = document.front_matter['event_ids']
+          next unless event_ids.is_a?(Array)
 
-          events.each { |event_id| counts[event_id] += 1 }
+          event_ids.each { |event_id| counts[event_id] += 1 }
         end
         counts
       end

@@ -1,6 +1,6 @@
 ---
 date: '2025-08-01T22:21:31+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<figure class=\"wp-block-image size-full\"><a href=\"https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-62.png\"><img
   loading=\"lazy\" decoding=\"async\" width=\"600\" height=\"300\" src=\"https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-62.png\"
@@ -29,7 +29,7 @@ feed_content: "<figure class=\"wp-block-image size-full\"><a href=\"https://www.
   HAWKS! GO COMPASS!</strong></p>\n<p>The post <a href=\"https://www.compasshousingalliance.org/2025/08/compass-selected-again-as-seahawks-spirit-of-12-partner/\">Compass
   selected AGAIN as Seahawks &#8220;Spirit of 12&#8221; Partner!</a> appeared first
   on <a href=\"https://www.compasshousingalliance.org\">Compass Housing Alliance</a>.</p>"
-image_ids:
+image_checksums:
 - e1b9f07559bc8d2a2e34f622c5978627ef0386d99b0c1b9634301295d8f6922a
 location_titles:
 - King County

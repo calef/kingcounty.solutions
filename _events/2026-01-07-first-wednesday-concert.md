@@ -5,7 +5,7 @@ feed_content: "<div> <div> <p>We recently reorganized our site, so the page you 
   map</a>, or <a>site search</a>.  You can also <a>contact us</a> and we'll help you
   out.  Thanks for your patience.</p> </div> </div>"
 feed_content_checksum: bffd64ee4505a4f269f7779705ae09e7d3d5f847
-image_ids: []
+image_checksums: []
 location: Allen Library (ALB)
 location_titles:
 - King County

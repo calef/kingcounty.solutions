@@ -30,6 +30,11 @@ module Mayhem
         self['location']
       end
 
+      def news
+        require_relative 'news'
+        News.find_by(source_url: source_url)
+      end
+
       def start_date
         self['start_date']
       end

@@ -34,7 +34,7 @@ class PostSummarizerTest < Minitest::Test
     write_post('2025-01-01-test.md', { 'source_url' => 'http://bad', 'summarized' => false, 'feed_content' => '<p>body</p>' }, 'body')
     http_stub = Object.new
     def http_stub.fetch(*) = { body: '', 'content-type' => 'text/plain', final_url: 'http://ok' }
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_repo: @tmp_topics,
+    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts,
                                                   http_client: http_stub, logger: @logger, client: Object.new)
     def summarizer.fetch_article_html(_url)
       raise StandardError, 'boom'
@@ -59,7 +59,7 @@ class PostSummarizerTest < Minitest::Test
       { 'choices' => [{ 'message' => { 'content' => '["Alpha"]' } }] }
     end
 
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_repo: @tmp_topics,
+    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts,
                                                   http_client: Object.new, logger: @logger, client: client)
     # stub generate_summary to skip OpenAI call
     def summarizer.generate_summary(*) = 'summary'
@@ -86,7 +86,7 @@ class PostSummarizerTest < Minitest::Test
     # Use a summarizer with a client object that will raise once then return
     http_stub = Object.new
     def http_stub.fetch(*) = { body: 'abc', 'content-type' => 'text/plain', final_url: 'http://ok' }
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_repo: @tmp_topics,
+    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts,
                                                   http_client: http_stub, logger: @logger, client: client)
     def summarizer.fetch_article_text(_url) = 'abc'
 
@@ -115,7 +115,6 @@ class PostSummarizerTest < Minitest::Test
 
     summarizer = Mayhem::News::PostSummarizer.new(
       posts_dir: @tmp_posts,
-      topic_repo: @tmp_topics,
       http_client: http_stub,
       logger: @logger,
       client: client
@@ -139,11 +138,11 @@ class PostSummarizerTest < Minitest::Test
                  'summarized' => true,
                  'published' => false,
                  'topic_titles' => [],
-                 'image_ids' => ['https://example.com/image.jpg']
+                 'image_checksums' => ['https://example.com/image.jpg']
                }, 'Summarized post without locations')
 
     # For unpublished posts, we should not call the classifier
-    # It should just set location_titles to [] and clear image_ids
+    # It should just set location_titles to [] and clear image_checksums
     location_classifier = Object.new
     def location_classifier.classify(*)
       raise 'Should not be called for unpublished posts'
@@ -151,7 +150,6 @@ class PostSummarizerTest < Minitest::Test
 
     summarizer = Mayhem::News::PostSummarizer.new(
       posts_dir: @tmp_posts,
-      topic_repo: @tmp_topics,
       http_client: Object.new,
       logger: @logger,
       client: Object.new,
@@ -164,7 +162,7 @@ class PostSummarizerTest < Minitest::Test
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-04-test.md'), logger: @logger)
 
     assert_empty document.front_matter['location_titles']
-    assert_empty document.front_matter['image_ids']
+    assert_empty document.front_matter['image_checksums']
   end
 
   def test_run_skips_classification_when_topic_titles_and_location_titles_explicitly_empty
@@ -187,7 +185,6 @@ class PostSummarizerTest < Minitest::Test
 
     summarizer = Mayhem::News::PostSummarizer.new(
       posts_dir: @tmp_posts,
-      topic_repo: @tmp_topics,
       http_client: Object.new,
       logger: @logger,
       client: Object.new,

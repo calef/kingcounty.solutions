@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T22:26:17+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>As of 1pm on Friday, December 12, 2025, the Snoqualmie River Flood Phase has receded to Phase 2 (Minor flooding with some road closures and increased monitoring).</p>
@@ -17,7 +17,7 @@ feed_content: |-
   <p>Tribal Members or Tribal Staff who need non-emergency assistance can call the Public Safety non-emergency number at 425-765-6623.</p>
   <p>If you’re experiencing a flood emergency, please call 911.</p>
 feed_content_checksum: 999a4d059380414fd4c8a460e1cc55b572008639
-image_ids: []
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Snoqualmie Indian Tribe

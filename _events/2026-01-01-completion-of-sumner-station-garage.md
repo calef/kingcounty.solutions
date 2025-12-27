@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: Sumner Station
 location_titles: []
 organization_title: Sound Transit

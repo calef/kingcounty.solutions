@@ -5,7 +5,7 @@ feed_content: The Neighborhood Matching Fund (NMF) is currently seeking 7-9 dedi
   reviewer, you will play a crucial role in making funding recommendations that directly
   impac...
 feed_content_checksum: ab7d3ed0ef6c0acacf26d9ebae3ee0ecd44fd278
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

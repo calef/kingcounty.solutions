@@ -110,7 +110,7 @@ feed_content: "<section class=\"elementor-section elementor-top-section elemento
   1920w\" sizes=\"(max-width: 800px) 100vw, 800px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\nThe
   post [Reimagining October 5 Presentation](https://redmondumc.org/reimagining-october-5-presentation/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Redmond United Methodist Church - Social Ministries
 published: false

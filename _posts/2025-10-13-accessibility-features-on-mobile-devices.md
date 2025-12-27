@@ -1,6 +1,6 @@
 ---
 date: '2025-10-13T18:10:25+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This is an interactive workshop covering features on Apple and Android devices. We will discuss use features for hearing, vision, and speech along with other impairments. We will guide you through settings so you can customize them to make your mobile device easier to use! Please call the Reception Desk to register.</p>
@@ -9,7 +9,7 @@ feed_content: |-
 
   <p>When: Wednesday, 12/3<br>1:00 pm—2:00 pm<br>Location: Exercise Room<br>Cost: FREE</p>
   <p>The post <a href="https://shorelinelfpseniorcenter.org/accessibility-features-on-mobile-devices/">Accessibility Features on Mobile Devices</a> appeared first on <a href="https://shorelinelfpseniorcenter.org">Shoreline Lake Forest Park Senior Activity Center</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Shoreline Lake Forest Park Senior Activity Center
 published: false

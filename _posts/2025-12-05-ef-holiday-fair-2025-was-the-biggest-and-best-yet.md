@@ -1,6 +1,6 @@
 ---
 date: '2025-12-05T20:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>Holiday Fair 2025 provided resources, gifts, meals, and community
   for over 400 neighbors and brought together more than 30 community partners to make
@@ -18,7 +18,7 @@ feed_content: "<p>Holiday Fair 2025 provided resources, gifts, meals, and commun
   \               \n                <img src=\"https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/3e7f5e65-774d-4796-b340-413f8a2d8aef/EFHolidayFair25_Flier_V8+%281%29.png?format=1000w\">\n\n
   \           \n          \n        \n          \n        \n\n        \n      \n        </figure>"
 feed_content_checksum: 6f777bc1d0f1045297e67831efdbff2a8a4cb3fc
-image_ids:
+image_checksums:
 - c0c44a57fa3d0ab531d0bdd7852953caeed446f90c209bb7389ec6c7879760fd
 - 7c8d9ea0e67ff06dad6201d0d8fcaa471563f4ccff737f366d3dcbeabe7ced5d
 location_titles:

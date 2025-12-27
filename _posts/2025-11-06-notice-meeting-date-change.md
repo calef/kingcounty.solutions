@@ -4,7 +4,7 @@ feed_content: |-
   In observance of the Veterans Day holiday on November 11th, the VRFA’s November Board of Governance meeting will be rescheduled to Wednesday, November 12th, beginning at 5:00 PM at VRFA Station 31.
 
   The post [Notice- Meeting Date Change](https://www.vrfa.org/2025/11/notice-meeting-date-change/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Valley Regional Fire Authority
 published: false

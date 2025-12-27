@@ -1,11 +1,11 @@
 ---
 date: '2025-12-02T21:07:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Today is Giving Tuesday, a worldwide day of generosity that takes place on the first Tuesday after Thanksgiving, the Black Friday launch of the holiday shopping season, and the Cyber Monday promotional effort that encourages people to shop online. According to the Giving Tuesday website, the global movement began in 2012 in New York City at the 92nd Street Y and its Belfer Center for&#8230;</p>
   <p><a href="https://www.uwkc.org/access-to-resources/in-a-giving-tuesday-mood-five-reasons-to-support-united-way/" rel="nofollow">Source</a></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: United Way of King County

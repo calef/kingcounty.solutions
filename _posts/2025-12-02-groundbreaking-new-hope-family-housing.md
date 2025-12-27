@@ -1,6 +1,6 @@
 ---
 date: '2025-12-02T21:49:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: On November 30th, friends, family, and congregation members along with
   affordable housing supporters, gathered to celebrate the groundbreaking of New Hope
@@ -9,7 +9,7 @@ feed_content: On November 30th, friends, family, and congregation members along 
   for families and individuals earning up to 50% and 60% of the Area Median Income.
   located on two properties owned by New Hope Missionary Baptist Church at 114 and
   123 - 21st Ave....
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

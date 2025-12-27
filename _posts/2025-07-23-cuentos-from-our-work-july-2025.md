@@ -1,6 +1,6 @@
 ---
 date: '2025-07-23T20:28:23+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; July
   16-19, 2025</p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7
@@ -12,7 +12,7 @@ feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; Jul
   community members were able to access the services they needed—right in their own
   neighborhood.</p>\n\n\n\n<p>Together, we helped bring government services closer
   to the people who need them most. ¡Gracias a todos los que participaron!</p>\n</div>\n\n\n\n<figure
-  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-july-2025\\/\"}'
+  data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/\"}'
   \ class=\"wp-block-gallery has-nested-images columns-3 is-cropped is-style-rectangular
   wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image
   size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"943\" height=\"707\"
@@ -99,7 +99,7 @@ feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; Jul
   June 23–August 13, Monday–Friday | 9:30 AM–3:30 PM, Échale Ganas is designed to
   prevent summer learning loss while building confidence, curiosity, and community.</p>\n\n\n\n<p>Huge
   thanks to our youth and families for showing up each day ready to grow, learn, and
-  lead. ¡Échale ganas!</p>\n\n\n\n<figure data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-july-2025\\/\"}'
+  lead. ¡Échale ganas!</p>\n\n\n\n<figure data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/\"}'
   \ class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-8
   is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image
   size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"943\" height=\"707\"
@@ -171,7 +171,7 @@ feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; Jul
   Luecke, Joanna Valeri, Amanda Wright,&nbsp;Desmond Brown and Brooke Belman&nbsp;for
   helping turn this vision into reality.</p>\n\n\n\n<p>With 68 students across 4 classrooms,
   this mural is more than paint on a wall—it’s a symbol of our enduring belief in
-  the power of arts, culture, and community.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-july-2025\\/\"}'
+  the power of arts, culture, and community.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:66.73699%\"><figure class=\"tiled-gallery__item\"><img
@@ -242,7 +242,7 @@ feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; Jul
   lifestyle changes—from nutrition and exercise to setting “action plans” that put
   learning into practice. Thanks to new funding from the City of Seattle, we’re excited
   to expand this transformative program and offer two full cohorts this year.<br>Because
-  la salud es poder—health is power.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-july-2025\\/\"}'
+  la salud es poder—health is power.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:100.00000%\"><figure class=\"tiled-gallery__item\"><img
@@ -279,7 +279,7 @@ feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; Jul
   now they’re starting a new chapter together.&nbsp;</p>\n\n\n\n<p>At El Centro de
   la Raza, our&nbsp;<strong>Veterans of Color Pathfinders Program</strong>&nbsp;supports
   veterans and their families through advocacy, outreach, and connection to services—with
-  heart.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-july-2025\\/\"}'
+  heart.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:50.00000%\"><figure class=\"tiled-gallery__item\"><img
@@ -320,7 +320,7 @@ feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; Jul
   Humanity Seattle-King County, Technology Access Foundation, and the The Museum of
   Flight—to support these driven students as they gain real-world experience and build
   a more equitable future.</p>\n\n\n\n<p>Thank you, Bank of America, for investing
-  in youth and community.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-july-2025\\/\"}'
+  in youth and community.</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:33.33333%\"><figure class=\"tiled-gallery__item\"><img
@@ -392,7 +392,7 @@ feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; Jul
   and community groups to celebrate bold leadership in building a more sustainable
   and inclusive region.</p>\n\n\n\n<p>Thank you to the VISION 2050 Awards Selection
   Committee for recognizing the transformative impact of community-driven development.
-  \U0001F49B</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-july-2025\\/\"}'
+  \U0001F49B</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:53.04181%\"><figure class=\"tiled-gallery__item\"><img
@@ -466,7 +466,7 @@ feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; Jul
   celebration of Latinx identity, culture, and love. From music and dance to community
   connection, this vibrant event—organized by @SomosSeattle—continues to uplift and
   unite.</p>\n\n\n\n<p>Gracias to everyone who showed up with pride and purpose.  ¡Pa’lante
-  siempre!</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https:\\/\\/www.elcentrodelaraza.org\\/cuentos-from-our-work-july-2025\\/\"}'
+  siempre!</p>\n\n\n\n<div data-carousel-extra='{\"blog_id\":1,\"permalink\":\"https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/\"}'
   \ class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div
   class=\"\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div
   class=\"tiled-gallery__col\" style=\"flex-basis:34.34358%\"><figure class=\"tiled-gallery__item\"><img
@@ -611,7 +611,7 @@ feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; Jul
   post <a href=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/\">Cuentos
   from Our Work: July 2025</a> appeared first on <a href=\"https://www.elcentrodelaraza.org\">El
   Centro de la Raza</a>.</p>"
-image_ids:
+image_checksums:
 - 9a63d9e1f9e171082eb10d41fcfee81f4d611b50c4fce9e639fd5d437e007181
 - 60630784a990529a02cdcd536993441fbb96752e5b9a1fed2437a91c68fb0211
 - e981a330d32a6f69d872280744c6a7805b34e3b646d94e1897f94364bc3c7d1f

@@ -1,6 +1,6 @@
 ---
 date: '2025-09-20T13:10:57+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Guillermo Rivera, [guillermo@eastsideforall.org](mailto:guillermo@eastsideforall.org)
@@ -18,7 +18,7 @@ feed_content: |-
   - 9/18 5:30-7:30pm @ Redmond Senior & Community Center – One Table, Many Stories [Flyer attached]
 
   The post [Welcoming Week](https://togethercenter.org/2025/09/20/welcoming-week/) appeared first on [Together Center](https://togethercenter.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Together Center

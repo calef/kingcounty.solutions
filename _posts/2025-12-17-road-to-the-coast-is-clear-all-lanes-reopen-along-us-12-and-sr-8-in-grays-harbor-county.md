@@ -4,7 +4,7 @@ feed_content: ELMA - All lanes are now open along US 12 and State Route 8 betwee
   Montesano and the Thurston County line following a multi-year fish passage project
   at five locations in Grays Harbor County.
 feed_content_checksum: 627775429d5975d4ee44cb8c3b87026bd4fed6a6
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Washington State Department of Transportation
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:

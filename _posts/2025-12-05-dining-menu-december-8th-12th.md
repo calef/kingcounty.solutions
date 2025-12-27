@@ -1,6 +1,6 @@
 ---
 date: '2025-12-05T23:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Crispy Chicken Wrap w/lettuce, tom &amp; cheese, Soup &amp; Fruit</p>
@@ -29,7 +29,7 @@ feed_content: |-
 
   <p><a href="https://ballardseniorcenter.org/coming-up/wednesday-happy-hour-dinner-bingo/"><strong>Wednesday Night Dinner </strong>(RSVP Required)</a> ~ BBQ Chicken, Mac &amp; Cheese, Garden Salad &amp; Dessert</p>
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-december-8th-12th/">Dining Menu December 8th &#8211; 12th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 published: false

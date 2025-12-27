@@ -2,7 +2,7 @@
 end_date: '2026-01-01T12:00:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
   <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/strategies-for-success-4-personal-strength-builders-rainier-672/","url":"https://worksourceskc.org/event/strategies-for-success-4-personal-strength-builders-rainier-672/","name":"Strategies
-  for Success 4: Personal Strength Builders (Rainier) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-02T09:17:24+00:00","dateModified":"2025-12-24T13:34:03+00:00","description":"Personal
+  for Success 4: Personal Strength Builders (Rainier) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-02T09:17:24+00:00","dateModified":"2025-12-27T03:35:34+00:00","description":"Personal
   strength builders &#8211; What makes you shine? Explore the skills it takes for
   work-place success (and grow the ones you already have)! Learn","breadcrumb":{"@id":"https://worksourceskc.org/event/strategies-for-success-4-personal-strength-builders-rainier-672/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/strategies-for-success-4-personal-strength-builders-rainier-672/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/strategies-for-success-4-personal-strength-builders-rainier-672/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Strategies
   for Success 4: Personal Strength Builders (Rainier)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
@@ -64,15 +64,15 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   flexibility and adaptability </li> <li>Get hold of your finances by forming good
   spending habits, getting rid of bad behaviors and become financially literate</li>
   </ul> </div> </div> </div> </section> </div> </section> </div> </div>'
-feed_content_checksum: 296d4a6d37ad63272de45f9cc8d73fd0fd9c38f1
-image_ids: []
+feed_content_checksum: 95582da6df2bbc39a7f87358003e357b05d08920
+image_checksums: []
 location: ''
 location_titles:
 - King County
 organization_title: WorkSource Seattle-King County
 original_source_html: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
   <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/strategies-for-success-4-personal-strength-builders-rainier-672/","url":"https://worksourceskc.org/event/strategies-for-success-4-personal-strength-builders-rainier-672/","name":"Strategies
-  for Success 4: Personal Strength Builders (Rainier) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-02T09:17:24+00:00","dateModified":"2025-12-24T13:34:03+00:00","description":"Personal
+  for Success 4: Personal Strength Builders (Rainier) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-02T09:17:24+00:00","dateModified":"2025-12-27T03:35:34+00:00","description":"Personal
   strength builders &#8211; What makes you shine? Explore the skills it takes for
   work-place success (and grow the ones you already have)! Learn","breadcrumb":{"@id":"https://worksourceskc.org/event/strategies-for-success-4-personal-strength-builders-rainier-672/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/strategies-for-success-4-personal-strength-builders-rainier-672/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/strategies-for-success-4-personal-strength-builders-rainier-672/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Strategies
   for Success 4: Personal Strength Builders (Rainier)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
@@ -142,6 +142,6 @@ topic_titles:
 - Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for "Strategies for Success 4: Personal Strength Builders" on December 29, 2025, from 9 a.m. to noon at the Rainier location. This workshop focuses on enhancing personal strengths essential for workplace success. Attendees will explore skills such as motivation, time management, and financial literacy while learning to project self-worth and adaptability.
+Join WorkSource Seattle-King County for "Strategies for Success 4: Personal Strength Builders" on December 29 from 9 a.m. to noon at the Rainier location. This engaging workshop focuses on enhancing personal strengths crucial for workplace success. Attendees will explore skills such as motivation, time management, and financial literacy while learning to project self-worth and adaptability.
 
-This workshop is part of a series of life-skills sessions designed to be flexible and customizable, allowing participants to take modules in any order. Registration is required, and interested individuals should create a job-seeker account at WorkSourceWA.com prior to attending. For questions or accommodation requests, contact Deitra Garrett at 206-721-7290 or via email.
+The workshop is part of a series designed to be flexible, allowing participants to customize their experience by taking modules in any order. Registration is required, and the event is open to all. If you need accommodations to participate, please contact Deitra Garrett at 206-721-7290. Don't miss this opportunity to develop skills that will help you shine in your career.

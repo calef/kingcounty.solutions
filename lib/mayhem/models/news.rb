@@ -26,8 +26,15 @@ module Mayhem
         self['date']
       end
 
+      def event_ids
+        self['event_ids'] || []
+      end
+
       def events
-        self['events'] || []
+        require_relative 'event'
+        event_ids.map do |event_id|
+          Event.find(event_id)
+        end
       end
 
       def events_extracted

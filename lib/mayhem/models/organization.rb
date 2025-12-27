@@ -33,6 +33,21 @@ module Mayhem
         self['events_ical_url']
       end
 
+      def news
+        require_relative 'news'
+        related_records(Mayhem::Models::News)
+      end
+
+      def events
+        require_relative 'event'
+        related_records(Mayhem::Models::Event)
+      end
+
+      def images
+        require_relative 'image'
+        related_records(Mayhem::Models::Image)
+      end
+
       def news_rss_url
         self['news_rss_url']
       end
@@ -65,6 +80,15 @@ module Mayhem
 
       def website_xml_sitemap_urls
         self['website_xml_sitemap_urls'] || []
+      end
+
+      private
+
+      def related_records(model)
+        title_value = title.to_s.strip
+        return [] if title_value.empty?
+
+        model.all.select { |record| record.organization_title == title_value }
       end
     end
   end

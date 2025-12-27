@@ -1,6 +1,6 @@
 ---
 date: '2025-10-30T03:48:32+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "## Additional Food Resources\n\n![Hopelink Food Resources 10.30.25](https://www.hopelink.org/wp-content/uploads/2025/10/Hopelink_Food-Resources_10.30.25.png
   \"A family sits down to open a present.\")\n\nThis list highlights community partners
@@ -382,7 +382,7 @@ feed_content: "## Additional Food Resources\n\n![Hopelink Food Resources 10.30.2
   defer>\n\t\t(() => {\n\t\t\tlet article = document.querySelector('.block8816230550032');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Hopelink

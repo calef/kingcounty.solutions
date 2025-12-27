@@ -87,7 +87,7 @@ feed_content: |-
 
   <p></p>
 feed_content_checksum: e860990321ca63ba41f9051d2c1858c86ab2ceaf
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: |-

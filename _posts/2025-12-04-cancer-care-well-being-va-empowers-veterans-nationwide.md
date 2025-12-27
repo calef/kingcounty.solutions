@@ -1,6 +1,6 @@
 ---
 date: '2025-12-04T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>In pursuit of VA’s commitment to providing high-quality and Veteran-first care, VA’s National Oncology Program recognizes the significance of a whole health approach to cancer care. Faced with the challenges of cancer, maintaining well-being is truly critical. VA has a wealth of resources, guidance and real-world perspectives that empower Veterans, protect Veteran well-being and foster resilience.</p>
@@ -92,7 +92,7 @@ feed_content: |-
 
 
   <p>Visit&nbsp;<a href="https://www.myhealth.va.gov/mhv-portal-web/home" rel="noopener">My HealtheVet</a>&nbsp;to learn tips and tools to help you partner with your health care team, so together, you may work to manage your health.&nbsp;</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

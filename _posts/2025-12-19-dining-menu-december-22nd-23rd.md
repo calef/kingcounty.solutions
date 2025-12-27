@@ -16,7 +16,7 @@ feed_content: |-
   <div></div>
   <p>The post <a>Dining Menu December 22nd &amp; 23rd</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: ed77d98b483d8ed84dd974710c8dbf85b195ea43
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 original_source_html: |-

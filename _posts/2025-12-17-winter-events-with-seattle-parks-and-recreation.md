@@ -1,13 +1,13 @@
 ---
 date: '2025-12-17T18:58:08+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Check out the exciting winter events and teen programs happening at
   your local community centers this season. There’s something fun for everyone! Creative
   &amp; Cultural Gatherings Family &amp; Kid-Friendly Fun Teen Programs Garfield CC
   Miller CC Raven...
 feed_content_checksum: 152474509c1be438a114cc06eb82e231a9879a9b
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

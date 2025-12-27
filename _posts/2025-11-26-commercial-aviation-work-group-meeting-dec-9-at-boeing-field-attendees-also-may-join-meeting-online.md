@@ -3,7 +3,7 @@ date: '2025-11-26T06:29:52-08:00'
 feed_content: OLYMPIA – The state Commercial Aviation Work Group evaluating future
   commercial aviation and transportation needs will host its fifth public hybrid meeting
   of 2025 at 10 a.m. Tuesday, Dec. 9, at Boeing Field in Seattle.
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Washington State Department of Transportation
 published: false

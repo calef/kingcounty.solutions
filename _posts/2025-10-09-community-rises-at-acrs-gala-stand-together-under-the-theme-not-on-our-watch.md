@@ -1,6 +1,6 @@
 ---
 date: '2025-10-09T17:24:19+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p data-start="431" data-end="723"><strong data-start="431" data-end="468">BELLEVUE, Wash. — October 6, 2025</strong> — More than 350 community members, advocates, and supporters gathered for the <strong data-start="547" data-end="595">Asian Counseling and Referral Service (ACRS)</strong> Annual Benefit Gala on <strong data-start="619" data-end="632">October 4</strong> at the <strong data-start="640" data-end="666">Hyatt Regency Bellevue</strong>, coming together under the theme <em data-start="700" data-end="721">“Not on Our Watch.”</em></p>
@@ -28,7 +28,7 @@ feed_content: |-
   <div id="attachment_13142" style="width: 310px" class="wp-caption alignleft"><a href="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29.jpg"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13142" class="size-medium wp-image-13142" src="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29-300x200.jpg" alt="" width="300" height="200" srcset="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29-300x200.jpg 300w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29-1024x683.jpg 1024w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29-768x512.jpg 768w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29.jpg 1500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><p id="caption-attachment-13142" class="wp-caption-text">The program concluded with a performance by the Massive Monkees, the award-winning breakdance crew from Seattle’s Beacon Hill. Photo credit: Charissa Soriano</p></div>
   <div id="attachment_13146" style="width: 310px" class="wp-caption alignleft"><a href="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25.jpg"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13146" class="size-medium wp-image-13146" src="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-300x200.jpg" alt="" width="300" height="200" srcset="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-300x200.jpg 300w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-1024x683.jpg 1024w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-768x512.jpg 768w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25.jpg 1500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><p id="caption-attachment-13146" class="wp-caption-text">Photo credit: Charissa Soriano</p></div>
   <p>The post <a href="https://acrs.org/community-rises-at-2025-acrs-gala-as-ceo-kendee-yamaguchi-announces-relaunch-of-legal-clinic/">Community Rises at ACRS Gala, Stand Together Under the Theme ‘Not On Our Watch’</a> appeared first on <a href="https://acrs.org">ACRS</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Asian Counseling and Referral Service

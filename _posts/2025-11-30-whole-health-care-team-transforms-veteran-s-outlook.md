@@ -1,6 +1,6 @@
 ---
 date: '2025-11-30T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Veteran finds that and more in VA health care</h2>
@@ -96,7 +96,7 @@ feed_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/salisbury-health-care/stories/salisbury-va-whole-health-care-team-transforms-veterans-outlook/" rel="noopener">VA Salisbury Health care System site </a>and has been edited for style and clarity.  </p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

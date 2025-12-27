@@ -8,7 +8,7 @@ feed_content: |-
   <p>To qualify for the distinction as a Top Hospital, hospitals must rank top among peers on the Leapfrog Hospital Survey, which assesses hospital performance on the highest standards for quality and patient safety, and achieve top performance in their category. Visit the Leapfrog Group to see the full list of institutions honored as <a>2025 Top Hospitals.<span></span></a></p>
   <p>The post <a>MultiCare Valley Hospital recognized with Top Hospital honors</a> appeared first on <a>MultiCare</a>.</p>
 feed_content_checksum: b3e9bcba7ce3cf5f2d915984840df0ee1d28b6b0
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: MultiCare
 original_source_html: |-

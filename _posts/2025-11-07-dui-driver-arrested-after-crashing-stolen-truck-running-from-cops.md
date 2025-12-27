@@ -4,7 +4,7 @@ feed_content: Seattle police officers arrested a 31-year-old man for crashing a 
   truck and running from the cops in West Seattle last night. On Nov. 6, at about
   11:30 p.m., a patrol officer near Fauntleroy Way Southwest and Southwest Juneau
   Street saw a truck ...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

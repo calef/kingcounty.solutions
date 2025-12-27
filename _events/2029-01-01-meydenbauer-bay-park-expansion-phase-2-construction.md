@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: Meydenbauer Bay Park
 location_titles:
 - King County

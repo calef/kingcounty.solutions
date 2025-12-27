@@ -6,7 +6,7 @@ feed_content: |-
 
 
   <p><a href=""></a></p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Commerce
 published: false

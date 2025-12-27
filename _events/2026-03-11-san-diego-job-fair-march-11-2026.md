@@ -8,7 +8,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>San Dieg
   Details </h2> <ul> <li> <span>Date:</span> <span> <abbr> March 11, 2026 </abbr>
   </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: fdf2fee1a6c25981a44aa3b20af8364cd02a75f9
-image_ids: []
+image_checksums: []
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

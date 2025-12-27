@@ -1,6 +1,6 @@
 ---
 date: '2025-12-09T00:11:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n<div><div><div><div><div><div></div></div></div></div></div></div>\n<div><div><div>\n<div><div><div>\n\t<div>\n\t\t\n\t\t<figure>\n\t\t\t<div><img
   src=\"https://samaritanps.org/wp-content/uploads/Holiday-Appeal-2025-Photo-450x300.png\"></div>\n\t\t</figure>\n\t</div>\n</div></div></div>\n<div><div><div>\n\t<div>\n\t\t<div>\n\t\t\t<h4><span>Praise
@@ -35,7 +35,7 @@ feed_content: "<div>\n<div><div><div><div><div><div></div></div></div></div></di
   Center Therapist</span></h5>\n\n\t\t</div>\n\t</div>\n</div></div></div>\n</div></div></div>\n<div><div><div><div><div><div>\n<div><span></span></div>\n<div>\n<span><span></span></span><span><span></span></span>\n</div>\n<div><span></span></div>\n</div></div></div></div></div></div>\n<div><div><div><div><div><div>\n\t<div>\n\t\t<div>\n\t\t\t<h3>Another
   devotion coming soon!</h3>\n\n\t\t</div>\n\t</div>\n</div></div></div></div></div></div>\n</div>"
 feed_content_checksum: 1597cca8145775a0ae80b2062d48aa6ee6935d7d
-image_ids:
+image_checksums:
 - 416fdc2586bd16667fd2804f432c536df5037b35f82ec14bdeb889ba1dd1e1a4
 - c787eae2756633f95c699796e5fdfed49f65171f1a89a2917632c9fb6f977437
 location_titles:

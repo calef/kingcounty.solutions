@@ -1,6 +1,6 @@
 ---
 date: '2025-08-29T17:09:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Sunshine Garden offers older adults culturally relevant activities that promote food and nutrition, health, wellness, and fitness, education, recreation, and socialization, and personal growth.
@@ -16,7 +16,7 @@ feed_content: |-
   &nbsp;
 
   The post [Sunshine Garden Activity Schedule – September](https://cisc-seattle.org/sunshine-garden-activity-schedule-september/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Chinese Information & Service Center

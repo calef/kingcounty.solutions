@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T21:28:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This is an estate planning and lifestyle transitions talk. Join us for a practical, engaging talk on preparing for the emotional and practical aspects of lifestyle transitions. Learn about essential documents, wills and power of attorney, with a roadmap for decluttering, downsizing and selling your home with ease and confidence, whether you’re planning ahead or helping a loved one. Lynda Pack Dowell is a Senior Home Coach™ and senior real estate transition specialist. Free</p>
@@ -10,7 +10,7 @@ feed_content: |-
   <p>Wednesday, February 25, 1:30 pm—2:30 pm</p>
   <p>The post <a>Paperwork and Packing Tape: What You Need for the Next Chapter</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: 15bf11a49d69252df07389ee7e0aaaca00f307a2
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Shoreline Lake Forest Park Senior Activity Center

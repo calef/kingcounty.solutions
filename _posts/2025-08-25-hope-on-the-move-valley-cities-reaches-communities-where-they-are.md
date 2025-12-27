@@ -1,6 +1,6 @@
 ---
 date: '2025-08-25T19:29:10+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>As seen in the Kent and Renton Reporters</p>
@@ -18,7 +18,7 @@ feed_content: |-
   <p>Valley Cities Behavioral Health Care accepts one-time, monthly and legacy donations to help sustain and expand its services throughout King County. Learn how you can support Valley Cities at <a href="https://www.wagives.org/organization/ValleyCitiesBehavioralHealthCare" target="_blank" rel="nofollow noopener" data-mrf-link="https://www.wagives.org/organization/ValleyCitiesBehavioralHealthCare">valleycities.org</a>.</p>
   <p><em>If you or someone you know is currently struggling with mental health and/or addiction, contact the Valley Cities team by phone at 253-833-7444 or in person at your local Valley Cities location. You can also call the 24 hour crisis line at 206-461-3222 or toll free at 866-427-4747.</em></p>
   <span class="et_bloom_bottom_trigger"></span><p>The post <a href="https://valleycities.org/hope-on-the-move-valley-cities-reaches-communities-where-they-are/">Hope on the move: Valley Cities reaches communities where they are</a> appeared first on <a href="https://valleycities.org">Valley Cities Behavioral Health Care</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Valley Cities Behavioral Health Care

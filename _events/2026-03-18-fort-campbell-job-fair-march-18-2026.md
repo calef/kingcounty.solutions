@@ -8,7 +8,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Cam
   <div> <h2> Details </h2> <ul> <li> <span>Date:</span> <span> <abbr> March 18, 2026
   </abbr> </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 117d0fc267ed7535bf07ed9db61675441fe50410
-image_ids: []
+image_checksums: []
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

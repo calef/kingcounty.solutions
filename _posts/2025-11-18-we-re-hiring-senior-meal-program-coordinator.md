@@ -1,6 +1,6 @@
 ---
 date: '2025-11-18T06:26:50+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Full-Time, Hourly, Non-Exempt</strong><br><strong>Reports to: Senior Meal Program Manager<br>$26 &#8211; $29.25/ hour DOE<br>Seattle, Washington</strong></p>
@@ -241,7 +241,7 @@ feed_content: |-
 
   <p><em>Disclaimer: This job description is not to be construed as an exhaustive list of all responsibilities, duties, and skills required for this position. All HIP employees may be required to perform duties outside of their normal responsibilities from time to time, as needed, to meet the ongoing needs of the organization.</em></p>
   <p>The post <a href="https://hungerintervention.org/2025/11/17/senior-meal-program-coordinator/">We&#8217;re Hiring: Senior Meal Program Coordinator</a> appeared first on <a href="https://hungerintervention.org">Hunger Intervention Program</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Hunger Intervention Program

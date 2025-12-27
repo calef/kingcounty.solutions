@@ -1,6 +1,6 @@
 ---
 date: '2025-07-31T21:29:29-07:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: July 2025We are so grateful for your generosity in providing all of
   the essential items needed to welcome a new family to Sacha's House. Because of
@@ -9,7 +9,7 @@ feed_content: July 2025We are so grateful for your generosity in providing all o
   at Sacha's House happens before a new family moves in. The current families write
   welcome letters to remind them they're not alone and they are deeply supported:"I
   have been
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Lighthouse NW

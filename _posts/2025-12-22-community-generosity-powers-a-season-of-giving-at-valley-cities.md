@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T21:12:13+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>As seen in the Federal Way Mirror</p>
@@ -44,7 +44,7 @@ feed_content: |-
   <div></div>
   <span></span><p>The post <a>Community generosity powers a season of giving at Valley Cities</a> appeared first on <a>Valley Cities Behavioral Health Care</a>.</p>
 feed_content_checksum: 0c9da4a4ae0a048b9dfb493ecf6212c7fef3df4e
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Valley Cities Behavioral Health Care

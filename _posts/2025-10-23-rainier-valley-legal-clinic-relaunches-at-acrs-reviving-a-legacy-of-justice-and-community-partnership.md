@@ -1,6 +1,6 @@
 ---
 date: '2025-10-23T19:21:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p data-start="541" data-end="1247"><strong data-start="541" data-end="571">SEATTLE — October 22, 2025</strong> — The return of the <strong data-start="592" data-end="623">Rainier Valley Legal Clinic</strong> at Asian Counseling and Referral Service (ACRS) quietly marked a powerful milestone in community justice. On its opening night, three volunteer attorneys from the <strong data-start="787" data-end="833">Asian Bar Association of Washington (ABAW)</strong> and <strong data-start="838" data-end="876">King County Bar Association (KCBA)</strong> met one-on-one with clients seeking free legal advice — from housing and family issues to consumer concerns — in private rooms at ACRS’s main office. Joined by ACRS CEO <strong data-start="1046" data-end="1066">Kendee Yamaguchi</strong> and Deputy Director <strong data-start="1087" data-end="1102">G De Castro</strong>, the evening reflected the heart of the clinic’s mission: restoring access to justice through compassion, expertise, and cultural understanding.</p>
@@ -35,7 +35,7 @@ feed_content: |-
   </li>
   </ul>
   <p>The post <a href="https://acrs.org/rainier-valley-legal-clinic-relaunches-at-acrs-reviving-a-legacy-of-justice-and-community-partnership/">Rainier Valley Legal Clinic Relaunches at ACRS, Reviving a Legacy of Justice and Community Partnership</a> appeared first on <a href="https://acrs.org">ACRS</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Asian Counseling and Referral Service

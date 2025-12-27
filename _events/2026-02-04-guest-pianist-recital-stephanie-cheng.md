@@ -32,7 +32,7 @@ feed_content: '<div class="field-items"> <div class="field-item"> <p>The UW Keyb
   Arts, Inc., a nonprofit organization that supports young artists. She is also on
   faculty at the Euro Arts Music Festival in Szczecin, Poland. In October 2025, she
   will be inducted into the Steinway &amp; Sons Teacher Hall of Fame.</p> </div> </div>'
-image_ids: []
+image_checksums: []
 location: Music Building (MUS)
 location_titles:
 - King County

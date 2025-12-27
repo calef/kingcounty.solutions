@@ -3,7 +3,7 @@ feed_content: Free rides offered by Metro and regional transit agencies to encou
   safe travel during New Year’s Eve celebrations.
 feed_content_checksum: 5688f1ac5a07c1ac700d359b515243a2f0167abc
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: King County Metro, Sound Transit, Community Transit, Everett Transit, Pierce
   Transit, Seattle Streetcar
 location_titles:

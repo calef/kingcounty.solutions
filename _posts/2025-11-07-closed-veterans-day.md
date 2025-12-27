@@ -4,7 +4,7 @@ feed_content: |-
   <p>Husky Health Center is closed on Tuesday, November 11th in observation of Veterans Day. HHC will resume regular business hours on Wednesday…</p>
   <p><a>Source</a></p>
 feed_content_checksum: 1084757e20899319d818e77954c5d7ca8a12fccf
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: UW Well-Being for Students

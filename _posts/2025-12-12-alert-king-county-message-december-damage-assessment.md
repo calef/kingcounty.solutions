@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T18:37:43+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Hello, This is King County Emergency Management. We are evaluating
   impacts from the recent flooding. Please submit an impact survey if you experienced
@@ -8,7 +8,7 @@ feed_content: 'Hello, This is King County Emergency Management. We are evaluatin
   individual impacts (including renters) go to: KCOEM Residential Impact Survey and
   for business impacts go to: KCOEM Business Impact Survey. […]'
 feed_content_checksum: 42f3ceccd712047dc144aaa48711b1bd42dbfd8e
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

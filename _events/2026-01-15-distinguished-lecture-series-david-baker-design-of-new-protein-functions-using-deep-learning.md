@@ -40,7 +40,7 @@ feed_content: 'Event interval: Single day event Campus room: Gates Center (CSE2)
   contact the Disability Services Office at least ten days in advance of the event
   at: (206) 543-6450/V, (206) 543-6452/TTY, (206) 685-7264 (FAX), or email at dso@u.washington.edu.'
 feed_content_checksum: f70c2a4ca14e35befa4a1efb0231393d1c8c0514
-image_ids: []
+image_checksums: []
 location: Gates Center (CSE2), G20 | Amazon Auditorium
 location_titles:
 - King County

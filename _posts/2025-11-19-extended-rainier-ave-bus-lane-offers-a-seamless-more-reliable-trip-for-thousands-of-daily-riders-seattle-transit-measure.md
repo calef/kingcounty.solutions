@@ -1,12 +1,12 @@
 ---
 date: '2025-11-19T19:56:23+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'Blog stats: 800 words &#124; 4-minute read At-a-glance: Attention,
   all Route 7 riders. We’re now arriving at the next stop of our citywide investment
   in transit: completion of the Rainier Ave S Bus Lane project! In this second phase,
   we extended the re...'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

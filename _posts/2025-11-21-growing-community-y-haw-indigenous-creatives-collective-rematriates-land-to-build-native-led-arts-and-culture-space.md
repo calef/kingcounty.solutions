@@ -1,12 +1,12 @@
 ---
 date: '2025-11-21T22:54:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "” A long time ago, the sky was too low. Tall people kept bumping their
   heads. Many different communities gathered to do something about it. They spoke
   different languages but realized they only needed to know one word in common to
   understand each other..."
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

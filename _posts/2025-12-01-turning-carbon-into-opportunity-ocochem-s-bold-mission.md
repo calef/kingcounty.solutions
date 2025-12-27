@@ -96,7 +96,7 @@ feed_content: |-
 
 
   <p>Visit the <a href="https://ocochem.com/">OCOchem website</a> to learn more about the company and its mission.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Commerce
 published: false

@@ -1,12 +1,12 @@
 ---
 date: '2025-11-25T17:03:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Community Corner highlights the work of Seattle Human Services’ community
   partners in their own words. Our goal is to gather stories and photos that illustrate
   their amazing work on behalf of the people of Seattle. This post was provided by
   Kathleen Wi...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

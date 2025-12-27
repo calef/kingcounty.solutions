@@ -1,6 +1,6 @@
 {%- assign primary_image_id = include.image_id -%}
-{%- if (primary_image_id == nil or primary_image_id == '') and include.post.image_ids -%}
-  {%- assign primary_image_id = include.post.image_ids | first -%}
+{%- if (primary_image_id == nil or primary_image_id == '') and include.post.image_checksums -%}
+  {%- assign primary_image_id = include.post.image_checksums | first -%}
 {%- endif -%}
 {%- assign primary_image = nil -%}
 {%- if primary_image_id -%}

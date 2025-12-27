@@ -1,6 +1,6 @@
 ---
 date: '2025-10-24T22:48:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><em>Written by Elham Rezvanian, MD &#8212; Neurology and Sleep Medicine specialist at PacMed</em></p>
@@ -38,7 +38,7 @@ feed_content: |-
   <li><strong>Keep blood sugar levels in check</strong>, especially if you&#8217;re at risk for diabetes.</li>
   </ol>
   <p>The post <a href="https://www.pacificmedicalcenters.org/healthy-every-day/how-to-reduce-your-risk-of-dementia/">How to Reduce Your Risk of Dementia</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Pacific Medical Centers

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-19T08:39:28+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 600px
   !important;padding-top: 0.75em;"><img width="400" height="300" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/11/IMG_3859-3-scaled.jpg?fit=400%2C300&amp;ssl=1"
@@ -22,7 +22,7 @@ feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 60
   too many face barriers like the rising costs of food, housing, transportation, and
   healthcare, that threaten their ability to stay in school and complete their goals.
   These challenges make it difficult for students &#8230;'
-image_ids:
+image_checksums:
 - b0e997764bd3bd8c5c5616c633329a4980ea252a94a50a24acf4e3b589e77f8f
 location_titles:
 - King County

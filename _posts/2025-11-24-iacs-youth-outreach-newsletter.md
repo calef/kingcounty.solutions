@@ -1,10 +1,10 @@
 ---
 date: '2025-11-24T17:52:10+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: '[...]<p><a class="btn btn-secondary understrap-read-more-link" href="https://iacswa.org/iacs-youth-outreach-newsletter/">Read
   More...<span class="screen-reader-text"> from IACS YOUTH OUTREACH NEWSLETTER</span></a></p>'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Indian American Community Services

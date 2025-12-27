@@ -1,6 +1,6 @@
 ---
 date: '2025-11-18T12:51:41+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img decoding=\"async\"
   class=\"alignleft wp-image-55225 size-full\" src=\"https://www.dav.org/wp-content/uploads/Mag_2025_NovDec-LegSpotlight.jpg\"
@@ -47,7 +47,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img decoding=\"a
   post <a href=\"https://www.dav.org/learn-more/news/2025/dav-backs-bill-to-modernize-transportation-equipment-for-disabled-veterans/\">DAV
   backs bill to modernize transportation equipment for disabled veterans</a> appeared
   first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Disabled American Veterans

@@ -1,13 +1,13 @@
 ---
 date: '2025-10-22T17:06:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Multi-Service Center has been chosen by the Gesa Community Foundation
   as a recipient of Gesa Credit Union’s Local Heroes Grant Award, receiving $10,000
   in funding. With the award money, MSC plans to do upgrade technology and replace
   some furniture in community common areas.   “At Gesa, we are honored to support
   the Local Heroes  [...]
-image_ids: []
+image_checksums: []
 location_titles:
 - South King County
 organization_title: Multi-Service Center

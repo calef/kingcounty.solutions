@@ -11,7 +11,7 @@ feed_content: |-
 
   <p></p>
 feed_content_checksum: d1a5678c0f4d4e2c8a4daaa3caf9f7d5e76392c5
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

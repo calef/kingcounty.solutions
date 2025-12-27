@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T00:30:01+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Mid-bi budget adopted</span>\n<span class=\"field field--name-uid field--type-entity-reference
@@ -64,7 +64,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"field field--name-field-article-date field--type-datetime field--label-hidden
   field__item\"><time datetime=\"2025-11-20T12:00:00Z\" class=\"datetime\">November
   20 2025</time>\n</div>\n      \n    </div>\n  </div>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Bellevue

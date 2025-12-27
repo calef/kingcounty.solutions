@@ -16,6 +16,8 @@ require_relative '../content/content_utils'
 require_relative '../front_matter/publish_guard'
 require_relative '../content/html_normalizer'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module Events
     class IcalImporter

@@ -1,6 +1,6 @@
 ---
 date: '2025-07-02T14:39:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm in the
   Winter**\n\n![Local elected officials, as well as representatives from the Washington
@@ -103,7 +103,7 @@ feed_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm in t
   able to offer a well-rounded, one-stop service that helps clients both upgrade their
   systems and manage their ongoing energy costs.”\n\nTo find out if getting a heat
   pump is right for you, head to the [Energy Smart Eastside website](https://www.energysmarteastside.org/).&nbsp;&nbsp;"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Hopelink

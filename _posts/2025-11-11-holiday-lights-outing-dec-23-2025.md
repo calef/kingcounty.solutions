@@ -6,7 +6,7 @@ feed_content: |-
 
 
   <p>Join us on a drive around Candy Cane Lane! Meet at WCSC for some cookies and hot chocolate beforehand, and then hop on the van to view the famous street of holiday lights. $2 for members, $4 for non-members</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Wallingford Community Senior Center
 published: false

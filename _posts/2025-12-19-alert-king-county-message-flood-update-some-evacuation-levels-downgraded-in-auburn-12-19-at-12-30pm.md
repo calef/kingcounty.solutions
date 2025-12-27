@@ -5,7 +5,7 @@ feed_content: Posted December 19, 2025 at 2:20 p.m. Hello, 12/19 at 12:30 – Al
   READY). Residents who left out of caution may return home but should remain alert
   and prepared if conditions change. As you return home you may notice […]
 feed_content_checksum: 7d8dd8d4fbf537296bb94375657d4491692de06c
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

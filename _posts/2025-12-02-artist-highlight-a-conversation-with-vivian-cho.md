@@ -4,7 +4,7 @@ feed_content: We spoke with 2025 Bridge Artist in Residence Vivian Cho about the
   background and insights into their unique residency at the University Bridge. Read
   on to learn more!&#160; Vivian Cho (she/they/he) is an interdisciplinary visual
   designer and artist ...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

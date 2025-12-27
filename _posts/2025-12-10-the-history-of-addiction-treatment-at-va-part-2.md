@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Morphinism and the National Homes, 1880-1916</h2>
@@ -101,7 +101,7 @@ feed_content: |-
 
   <p>Civil War Veterans continued to manage addiction long after their service, while heroin at home and overseas opium fueled a perfect storm for Veterans returning from Southeast Asia at the turn of the century. Historical analysis demonstrates the scale of the issue and provides clues for how the National Homes responded to America’s second opioid crisis.</p>
 feed_content_checksum: 568814b35c77b257a02b4267c592cf7a42b193f8
-image_ids:
+image_checksums:
 - 6d66557350fd796fbdff9e911b090d609fb3280ea08ffb90cf18f5c2f6e117f5
 - 139ce653a8e98f15ba6d23d8e6e23e90e4f58d738ef39e476cace0e032735ea8
 - 5fd2255e7c5bdc77068dce00b45a7291500be4ff2ec00546e3dcfa66499a8dbd

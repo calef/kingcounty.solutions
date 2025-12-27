@@ -34,7 +34,7 @@ feed_content: "<article> <header> <h1>Welcome</h1> </header> <div> <div> <div> <
   through December 2024.</p> <h2>Questions?</h2> <p>Please refer to Frequently Asked
   Questions or contact us:  <a>tbi-bh@uw.edu</a></p> </div> </article>"
 feed_content_checksum: 9c00498701408debe802543b0322dc44f98ab09d
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County
