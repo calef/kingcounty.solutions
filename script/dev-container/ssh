@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+CONTAINER_NAME="${DEV_CONTAINER_NAME:-kingcounty-solutions-dev}"
+SSH_PORT="${DEV_CONTAINER_SSH_PORT:-2222}"
+SSH_USER="${DEV_CONTAINER_USER:-developer}"
+SSH_KEY_PATH="${DEV_CONTAINER_SSH_KEY_PATH:-${HOME}/.ssh/id_ed25519}"
+SSH_IDENTITY_ARGS=()
+
+if [ -f "$SSH_KEY_PATH" ]; then
+  SSH_IDENTITY_ARGS=(-i "$SSH_KEY_PATH")
+fi
+
+if ! command -v podman >/dev/null 2>&1; then
+  echo "Error: podman is not installed or not on PATH." >&2
+  exit 1
+fi
+
+if [ "$(podman inspect -f '{{.State.Running}}' "$CONTAINER_NAME" 2>/dev/null || true)" != "true" ]; then
+  echo "Container $CONTAINER_NAME is not running. Start it with script/dev-container/start." >&2
+  exit 1
+fi
+
+exec ssh -p "$SSH_PORT" \
+  "${SSH_IDENTITY_ARGS[@]}" \
+  -o StrictHostKeyChecking=accept-new \
+  "${SSH_USER}@127.0.0.1" "$@"

@@ -1,0 +1,128 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
+IMAGE_NAME="${DEV_CONTAINER_IMAGE:-kingcounty-solutions-dev}"
+CONTAINER_NAME="${DEV_CONTAINER_NAME:-kingcounty-solutions-dev}"
+SSH_PORT="${DEV_CONTAINER_SSH_PORT:-2222}"
+SSH_USER="${DEV_CONTAINER_USER:-developer}"
+SSH_KEY_PATH="${DEV_CONTAINER_SSH_KEY_PATH:-${HOME}/.ssh/id_ed25519}"
+SSH_PUBLIC_KEY_PATH="${SSH_KEY_PATH}.pub"
+
+if ! command -v podman >/dev/null 2>&1; then
+  echo "Error: podman is not installed or not on PATH." >&2
+  exit 1
+fi
+
+ensure_passwordless_ssh() {
+  if [ ! -f "$SSH_KEY_PATH" ] || [ ! -f "$SSH_PUBLIC_KEY_PATH" ]; then
+    if ! command -v ssh-keygen >/dev/null 2>&1; then
+      echo "Error: ssh-keygen is required to generate an SSH key for passwordless access." >&2
+      return 1
+    fi
+
+    if ! mkdir -p "$(dirname "$SSH_KEY_PATH")"; then
+      return 1
+    fi
+
+    if [ ! -f "$SSH_KEY_PATH" ]; then
+      if ! ssh-keygen -t ed25519 -N "" -f "$SSH_KEY_PATH"; then
+        return 1
+      fi
+    fi
+
+    if [ ! -f "$SSH_PUBLIC_KEY_PATH" ]; then
+      if ! ssh-keygen -y -f "$SSH_KEY_PATH" >"$SSH_PUBLIC_KEY_PATH"; then
+        return 1
+      fi
+    fi
+  fi
+
+  local pubkey
+  if ! pubkey="$(cat "$SSH_PUBLIC_KEY_PATH")"; then
+    return 1
+  fi
+
+  if ! podman exec "$CONTAINER_NAME" mkdir -p "/home/$SSH_USER/.ssh"; then
+    return 1
+  fi
+
+  if ! podman exec "$CONTAINER_NAME" sh -c "touch /home/$SSH_USER/.ssh/authorized_keys"; then
+    return 1
+  fi
+
+  if ! printf '%s\n' "$pubkey" | podman exec -i "$CONTAINER_NAME" sh -c "while IFS= read -r line; do grep -qxF \"\$line\" /home/$SSH_USER/.ssh/authorized_keys || echo \"\$line\" >> /home/$SSH_USER/.ssh/authorized_keys; done"; then
+    return 1
+  fi
+
+  if ! podman exec "$CONTAINER_NAME" chown -R "$SSH_USER":"$SSH_USER" "/home/$SSH_USER/.ssh"; then
+    return 1
+  fi
+
+  if ! podman exec "$CONTAINER_NAME" chmod 700 "/home/$SSH_USER/.ssh"; then
+    return 1
+  fi
+
+  if ! podman exec "$CONTAINER_NAME" chmod 600 "/home/$SSH_USER/.ssh/authorized_keys"; then
+    return 1
+  fi
+}
+
+if podman ps -a --format "{{.Names}}" | grep -qx "$CONTAINER_NAME"; then
+  if [ "$(podman inspect -f '{{.State.Running}}' "$CONTAINER_NAME")" = "true" ]; then
+    echo "Container $CONTAINER_NAME is already running."
+  else
+    podman start "$CONTAINER_NAME"
+  fi
+  if [ -n "${DEV_CONTAINER_SSH_PASSWORD:-}" ]; then
+    printf '%s:%s\n' "$SSH_USER" "$DEV_CONTAINER_SSH_PASSWORD" | podman exec -i "$CONTAINER_NAME" chpasswd
+  fi
+  if ! ensure_passwordless_ssh; then
+    echo "Skipping SSH key installation; password authentication remains available." >&2
+  fi
+  echo "SSH: ssh -p ${SSH_PORT} ${SSH_USER}@127.0.0.1"
+  exit 0
+fi
+
+if ! podman image exists "$IMAGE_NAME" 2>/dev/null; then
+  echo "Error: image $IMAGE_NAME not found. Build it with:" >&2
+  echo "  podman build -f Containerfile -t $IMAGE_NAME ." >&2
+  exit 1
+fi
+
+if [ -z "${DEV_CONTAINER_SSH_PASSWORD:-}" ]; then
+  if command -v openssl >/dev/null 2>&1; then
+    DEV_CONTAINER_SSH_PASSWORD="$(openssl rand -base64 24 | tr -dc 'A-Za-z0-9' | head -c 16)"
+  else
+    DEV_CONTAINER_SSH_PASSWORD="$(LC_ALL=C tr -dc 'A-Za-z0-9' </dev/urandom | head -c 16)"
+  fi
+  export DEV_CONTAINER_SSH_PASSWORD
+  echo "Generated DEV_CONTAINER_SSH_PASSWORD=$DEV_CONTAINER_SSH_PASSWORD"
+fi
+
+PODMAN_ARGS=(
+  -d
+  --name "$CONTAINER_NAME"
+  --hostname "$CONTAINER_NAME"
+  -p "4000:4000"
+  -p "${SSH_PORT}:22"
+  -v "$ROOT_DIR:/work:rw"
+  -w /work
+  -e DEV_CONTAINER_USER="$SSH_USER"
+  -e DEV_CONTAINER_SSH_PASSWORD="$DEV_CONTAINER_SSH_PASSWORD"
+  -e OPENAI_API_KEY
+)
+
+if [ -n "${DEV_CONTAINER_USERNS:-}" ]; then
+  PODMAN_ARGS+=(--userns "$DEV_CONTAINER_USERNS")
+fi
+
+podman run "${PODMAN_ARGS[@]}" "$IMAGE_NAME"
+
+if ! ensure_passwordless_ssh; then
+  echo "Skipping SSH key installation; password authentication remains available." >&2
+fi
+
+echo "Container started."
+echo "SSH: ssh -p ${SSH_PORT} ${SSH_USER}@127.0.0.1"

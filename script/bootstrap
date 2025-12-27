@@ -4,3 +4,5 @@ set -euo pipefail
 
 ./script/ensure-bundler
 bundle install
+
+./script/ensure-podman

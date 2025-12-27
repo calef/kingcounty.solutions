@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+set -e # exit if any command fails
+
+OS="$(uname)"
+if [ "$OS" == "Darwin" ]; then
+  ./script/ensure-homebrew
+  brew install podman
+  podman machine list
+  podman machine init
+  podman machine start
+  podman build -f Containerfile -t kingcounty-solutions-dev .
+else
+  echo "podman support only on MacOS"
+fi

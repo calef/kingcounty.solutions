@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+USER_NAME="${DEV_CONTAINER_USER:-developer}"
+PASSWORD="${DEV_CONTAINER_SSH_PASSWORD:-}"
+
+if ! id "$USER_NAME" >/dev/null 2>&1; then
+  useradd -m -s /bin/bash "$USER_NAME"
+fi
+
+if [ -n "$PASSWORD" ]; then
+  echo "${USER_NAME}:${PASSWORD}" | chpasswd
+fi
+
+mkdir -p /var/run/sshd
+ssh-keygen -A >/dev/null
+
+exec /usr/sbin/sshd -D -e
