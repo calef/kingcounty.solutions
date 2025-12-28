@@ -11,6 +11,8 @@ require_relative '../support/http_status_resolver'
 module Mayhem
   module Content
     class SourceUrlChecker
+      include Mayhem::Loggable
+
       POSTS_DIR = '_posts'
       EVENTS_DIR = '_events'
       IMAGES_DIR = '_images'
@@ -21,7 +23,6 @@ module Mayhem
         events_dir: EVENTS_DIR,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         http_client: nil,
         http_status_resolver: nil,
         news_pruner: nil,
@@ -34,10 +35,8 @@ module Mayhem
       )
         @posts_dir = posts_dir
         @events_dir = events_dir
-        @logger = logger
         @user_agent = user_agent
         @http_status_resolver = http_status_resolver || Mayhem::Support::HttpStatusResolver.new(
-          logger: @logger,
           user_agent: @user_agent,
           http_client: http_client
         )
@@ -46,21 +45,18 @@ module Mayhem
                            posts_dir: posts_dir,
                            events_dir: events_dir,
                            images_dir: images_dir,
-                           assets_dir: assets_dir,
-                           logger: logger
+                           assets_dir: assets_dir
                          )
         @news_pruner = news_pruner ||
                        Mayhem::News::Pruner.new(
                          posts_dir: posts_dir,
-                         images_pruner: @images_pruner,
-                         logger: logger
+                         images_pruner: @images_pruner
                        )
         @events_pruner = events_pruner ||
                          Mayhem::Events::Pruner.new(
                            posts_dir: posts_dir,
                            events_dir: events_dir,
-                           images_pruner: @images_pruner,
-                           logger: logger
+                           images_pruner: @images_pruner
                          )
         @news_model = news_model
         @events_model = events_model

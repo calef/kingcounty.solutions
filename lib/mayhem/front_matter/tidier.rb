@@ -7,9 +7,7 @@ require 'mayhem/front_matter/spacing_normalizer'
 module Mayhem
   module FrontMatter
     class Tidier
-      def initialize(logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
-        @logger = logger
-      end
+      include Mayhem::Loggable
 
       # Rewrites every Markdown target (file or directory) so the front matter
       # keys are alphabetically ordered and the document is wrapped with a single

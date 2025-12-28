@@ -6,11 +6,12 @@ require_relative '../logging'
 module Mayhem
   module OpenAI
     class ChatClient
+      include Mayhem::Loggable
+
       DEFAULT_TEMPERATURE = 0.3
 
-      def initialize(client: nil, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+      def initialize(client: nil)
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-        @logger = logger
       end
 
       def call(messages:, model:, temperature: DEFAULT_TEMPERATURE)

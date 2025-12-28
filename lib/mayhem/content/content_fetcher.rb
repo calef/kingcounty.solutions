@@ -6,19 +6,20 @@ require_relative 'content_utils'
 require_relative '../feed/discovery'
 require_relative '../support/url_utils'
 require_relative '../support/url_normalizer'
+require_relative '../logging'
 
 module Mayhem
   module Content
     class ContentFetcher
+      include Mayhem::Loggable
+
       def initialize(
         http_client:,
-        logger:,
         selectors: ArticleBodySelectors::SELECTORS,
         accept: Mayhem::FeedDiscovery::ACCEPT_HTML,
         max_bytes: Mayhem::FeedDiscovery::HTML_MAX_BYTES
       )
         @http_client = http_client
-        @logger = logger
         @selectors = selectors
         @accept = accept
         @max_bytes = max_bytes
