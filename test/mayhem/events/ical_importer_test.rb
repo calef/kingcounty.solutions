@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 require_relative '../../test_helper'
-require 'fileutils'
-require 'tmpdir'
 require_relative '../../../lib/mayhem/events/ical_importer'
+require 'mayhem/models/event'
+require 'mayhem/models/organization'
 
 class IcalImporterTest < Minitest::Test
   ICS_BODY = <<~ICS
@@ -107,18 +107,21 @@ class IcalImporterTest < Minitest::Test
   end
 
   def setup
-    @org_dir = Dir.mktmpdir
-    @events_dir = Dir.mktmpdir
+    @org_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :organizations)
+    @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
+    @org_repo = Mayhem::Models::Organization.repo
+    @events_repo = Mayhem::Models::Event.repo
+    @org_dir = @org_repo.root.join('_organizations').to_s
+    @events_dir = @events_repo.root.join('_events').to_s
 
-    org_md = <<~MD
-      ---
-      title: Test Organization
-      website: https://example.org/
-      events_ical_url: https://example.org/events.ics
-      ---
-    MD
-
-    File.write(File.join(@org_dir, 'test-organization.md'), org_md)
+    Mayhem::Models::Organization.create!(
+      {
+        'title' => 'Test Organization',
+        'website_url' => 'https://example.org/',
+        'events_ical_url' => 'https://example.org/events.ics'
+      },
+      body: ''
+    )
     @http = StubHttpClient.new(
       'https://example.org/events.ics' => { body: ICS_BODY, content_type: 'text/calendar' },
       'https://example.org/events/test' => { body: HTML_BODY, content_type: 'text/html' }
@@ -132,8 +135,8 @@ class IcalImporterTest < Minitest::Test
   end
 
   def teardown
-    FileUtils.remove_entry(@org_dir)
-    FileUtils.remove_entry(@events_dir)
+    @org_repo_override.cleanup if @org_repo_override
+    @event_repo_override.cleanup if @event_repo_override
   end
 
   def test_imports_single_event
@@ -159,23 +162,21 @@ class IcalImporterTest < Minitest::Test
   end
 
   def test_respects_locked_flag
-    locked_path = File.join(@events_dir, '2024-02-12-test-event.md')
-    File.write(
-      locked_path,
-      <<~MD
-        ---
-        title: Locked Event
-        organization_title: Locked Org
-        start_date: '2024-02-12T18:00:00+00:00'
-        end_date: '2024-02-12T20:00:00+00:00'
-        location: Anywhere
-        source_url: https://example.org/events/locked
-        feed_content: '<p>Locked</p>'
-        locked: true
-        ---
-        Locked body
-      MD
+    locked_record = Mayhem::Models::Event.create!(
+      {
+        'title' => 'Locked Event',
+        'organization_title' => 'Locked Org',
+        'start_date' => '2024-02-12T18:00:00+00:00',
+        'end_date' => '2024-02-12T20:00:00+00:00',
+        'location' => 'Anywhere',
+        'source_url' => 'https://example.org/events/locked',
+        'feed_content' => '<p>Locked</p>',
+        'locked' => true,
+        'slug' => '2024-02-12-test-event'
+      },
+      body: 'Locked body'
     )
+    locked_path = locked_record.path.to_s
 
     frozen_content = File.read(locked_path)
     @importer.run
@@ -234,14 +235,15 @@ class IcalImporterTest < Minitest::Test
 
   def test_skips_duplicate_when_canonical_exists
     canonical = 'https://example.org/events/test?utm=existing'
-    existing_path = File.join(@events_dir, '2024-02-12-existing.md')
-    File.write(existing_path, <<~MD)
-      ---
-      title: Existing Event
-      source_url: #{canonical}
-      ---
-      Existing body
-    MD
+    existing_record = Mayhem::Models::Event.create!(
+      {
+        'title' => 'Existing Event',
+        'source_url' => canonical,
+        'slug' => '2024-02-12-existing'
+      },
+      body: 'Existing body'
+    )
+    existing_path = existing_record.path.to_s
 
     @http = StubHttpClient.new(
       'https://example.org/events.ics' => { body: ICS_BODY, content_type: 'text/calendar' },
