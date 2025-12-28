@@ -1,11 +1,6 @@
 # frozen_string_literal: true
 
-require 'net/http'
-require 'openssl'
 require 'uri'
-require 'time'
-require 'nokogiri'
-require 'open-uri'
 require 'mayhem/logging'
 require_relative 'env_utils'
 require_relative 'http_client/response_body_reader'
@@ -35,11 +30,9 @@ module Mayhem
       }.freeze
 
       RETRYABLE_ERRORS = [
-        OpenURI::HTTPError,
+        Faraday::ConnectionFailed,
+        Faraday::TimeoutError,
         SocketError,
-        Net::OpenTimeout,
-        Net::ReadTimeout,
-        Net::HTTPBadResponse,
         Timeout::Error,
         EOFError,
         Errno::ECONNRESET,
@@ -73,13 +66,27 @@ module Mayhem
       end
 
       class ForbiddenError < StandardError
-        attr_reader :url, :origin_url, :operation
+        attr_reader :url, :origin_url, :operation, :status
 
-        def initialize(url:, origin_url:, operation:)
-          super("HTTP 403 Forbidden for #{url}")
+        def initialize(url:, origin_url:, operation:, status: 403)
+          super("HTTP #{status} for #{url}")
           @url = url
           @origin_url = origin_url
           @operation = operation
+          @status = status
+        end
+      end
+
+      class HttpError < StandardError
+        attr_reader :url, :origin_url, :operation, :status, :response
+
+        def initialize(url:, origin_url:, operation:, status:, response: nil)
+          super("HTTP #{status} for #{url}")
+          @url = url
+          @origin_url = origin_url
+          @operation = operation
+          @status = status
+          @response = response
         end
       end
 
@@ -126,7 +133,7 @@ module Mayhem
         )
       end
 
-      def fetch(url, accept:, max_bytes:)
+      def fetch(url, accept:)
         attempt = 0
         max_attempts = @max_retries + 1
         begin
@@ -134,7 +141,6 @@ module Mayhem
           _response, payload = @request_flow.fetch_with_redirects(
             url,
             accept,
-            max_bytes,
             origin_url: url,
             operation: 'content_fetch'
           )
@@ -206,7 +212,7 @@ module Mayhem
         end
       end
 
-      def response_for(url, accept: HTML_ACCEPT, max_bytes: 0)
+      def response_for(url, accept: HTML_ACCEPT)
         attempt = 0
         max_attempts = @max_retries + 1
         begin
@@ -214,12 +220,11 @@ module Mayhem
           response, payload = @request_flow.fetch_with_redirects(
             url,
             accept,
-            max_bytes,
             origin_url: url,
             operation: 'status_check'
           )
           {
-            status: response.code.to_i,
+            status: response.status.to_i,
             final_url: payload[:final_url],
             response: response
           }

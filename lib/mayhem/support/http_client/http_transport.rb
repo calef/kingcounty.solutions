@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-require 'net/http'
-require 'openssl'
+require 'faraday'
+require 'faraday/typhoeus'
 require 'uri'
 
 module Mayhem
@@ -9,6 +9,12 @@ module Mayhem
     class HttpClient
       # Handles raw HTTP transport operations (connections, request execution)
       class HttpTransport
+        HTTP_VERSIONS = [
+          { label: '2', option: 'httpv2_0' },
+          { label: '1.1', option: 'httpv1_1' },
+          { label: '1.0', option: 'httpv1_0' }
+        ].freeze
+
         def initialize(user_agent:, open_timeout:, read_timeout:, allow_insecure_fallback:, logger:, operation_delay_manager:)
           @user_agent = user_agent
           @open_timeout = open_timeout
@@ -20,115 +26,101 @@ module Mayhem
 
         def execute_get(uri, accept, operation: nil, &)
           @operation_delay_manager.apply_delay(operation, uri)
-          perform_http_request(uri, accept, OpenSSL::SSL::VERIFY_PEER, &)
-        rescue OpenSSL::SSL::SSLError => e
-          retry_without_verification(uri, accept, e, &)
-        rescue Net::HTTPBadResponse => e
-          raise unless chunked_response_error?(e)
-
-          @logger.warn "Bad chunked response for #{uri}, retrying with HTTP/1.0"
-          perform_http_request(
-            uri,
-            accept,
-            OpenSSL::SSL::VERIFY_PEER,
-            http_version: '1.0',
-            close_connection: true,
-            &
-          )
+          perform_with_fallbacks(:get, uri, accept, &)
         end
 
         def execute_head(uri, operation: nil)
           @operation_delay_manager.apply_delay(operation, uri)
-          perform_http_head(uri, OpenSSL::SSL::VERIFY_PEER)
-        rescue OpenSSL::SSL::SSLError => e
-          retry_without_verification_head(uri, e)
+          perform_with_fallbacks(:head, uri, nil)
         end
 
         private
 
-        def perform_http_request(uri, accept, verify_mode, http_version: nil, close_connection: false, &block)
-          http = build_http_connection(uri, verify_mode)
-          response = nil
-          http.start do |connection|
-            request = build_request(uri, accept, http_version: http_version, close_connection: close_connection)
-            response = if block_given?
-                         connection.request(request) do |http_response|
-                           block.call(http_response)
-                         end
-                       else
-                         connection.request(request)
+        def perform_with_fallbacks(method, uri, accept, &)
+          HTTP_VERSIONS.each_with_index do |version, index|
+            return perform_request(method, uri, accept, verify: true, http_version: version[:option].to_sym, &)
+          rescue Faraday::SSLError => e
+            return retry_without_verification(method, uri, accept, e, http_version: version[:option].to_sym, &)
+          rescue Faraday::ConnectionFailed, Faraday::TimeoutError => e
+            next_version = HTTP_VERSIONS[index + 1]
+            if next_version
+              @logger.warn(
+                "HTTP/#{version[:label]} failed for #{uri} (#{e.class}: #{e.message}), " \
+                "retrying with HTTP/#{next_version[:label]}"
+              )
+              next
+            end
+            raise
+          end
+        end
+
+        def perform_request(method, uri, accept, verify:, http_version:, &)
+          connection = build_connection(uri, verify: verify, http_version: http_version)
+          response = case method
+                     when :get
+                       connection.get(uri.to_s) do |request|
+                         apply_get_headers(request, accept)
                        end
-          end
+                     when :head
+                       connection.head(uri.to_s) do |request|
+                         apply_head_headers(request)
+                       end
+                     else
+                       raise ArgumentError, "Unsupported method #{method}"
+                     end
+          yield response if block_given?
           response
         end
 
-        def perform_http_head(uri, verify_mode)
-          http = build_http_connection(uri, verify_mode)
-          response = nil
-          http.start do |connection|
-            request = build_head_request(uri)
-            response = connection.request(request)
-          end
-          response
-        end
-
-        def build_http_connection(uri, verify_mode)
-          Net::HTTP.new(uri.host, uri.port).tap do |http|
-            http.use_ssl = uri.scheme == 'https'
-            configure_timeouts(http)
-            configure_ssl(http, verify_mode)
+        def build_connection(uri, verify:, http_version:)
+          Faraday.new(
+            url: base_url_for(uri),
+            ssl: { verify: verify },
+            request: request_options
+          ) do |builder|
+            builder.adapter :typhoeus, http_version: http_version
           end
         end
 
-        def configure_timeouts(http)
-          http.read_timeout = @read_timeout
-          http.open_timeout = @open_timeout
-        end
-
-        def configure_ssl(http, verify_mode)
-          return unless http.use_ssl?
-
-          http.verify_mode = verify_mode
-          http.cert_store = OpenSSL::X509::Store.new.tap(&:set_default_paths)
-        end
-
-        def build_request(uri, accept, http_version: nil, close_connection: false)
-          Net::HTTP::Get.new(uri).tap do |request|
-            request['User-Agent'] = @user_agent
-            request['Accept'] = accept
-            request['Accept-Encoding'] = 'identity'
-            request['Connection'] = 'close' if close_connection
-            request.version = http_version if http_version
+        def base_url_for(uri)
+          default_port = uri.scheme == 'https' ? 443 : 80
+          if uri.port && uri.port != default_port
+            "#{uri.scheme}://#{uri.host}:#{uri.port}"
+          else
+            "#{uri.scheme}://#{uri.host}"
           end
         end
 
-        def build_head_request(uri)
-          Net::HTTP::Head.new(uri).tap do |request|
-            request['User-Agent'] = @user_agent
-          end
+        # Sets default timeouts for all requests made with this connection.
+        # timeout: maximum time for the entire request (reading response)
+        # open_timeout: maximum time to establish the connection
+        def request_options
+          {
+            timeout: @read_timeout,
+            open_timeout: @open_timeout
+          }
         end
 
-        def retry_without_verification(uri, accept, error, &)
+        def apply_get_headers(request, accept)
+          request.headers['User-Agent'] = @user_agent
+          request.headers['Accept'] = accept
+          request.headers['Accept-Encoding'] = 'identity'
+        end
+
+        def apply_head_headers(request)
+          request.headers['User-Agent'] = @user_agent
+        end
+
+        def retry_without_verification(method, uri, accept, error, http_version:, &)
           return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback
 
           @logger.warn "SSL error (#{error.message}), retrying without verification for #{uri}"
-          perform_http_request(uri, accept, OpenSSL::SSL::VERIFY_NONE, &)
-        end
-
-        def retry_without_verification_head(uri, error)
-          return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback
-
-          @logger.warn "SSL error (#{error.message}), retrying HEAD without verification for #{uri}"
-          perform_http_head(uri, OpenSSL::SSL::VERIFY_NONE)
+          perform_request(method, uri, accept, verify: false, http_version: http_version, &)
         end
 
         def handle_terminal_ssl_error(uri, error)
           @logger.warn "SSL error for #{uri}: #{error.message}"
           raise error
-        end
-
-        def chunked_response_error?(error)
-          error.message.to_s.include?('wrong chunk size line')
         end
       end
     end

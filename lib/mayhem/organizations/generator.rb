@@ -4,7 +4,6 @@ require 'fileutils'
 require 'fmrepo'
 require 'json'
 require 'nokogiri'
-require 'open-uri'
 require 'ruby/openai'
 require 'uri'
 require_relative '../logging'
@@ -143,7 +142,7 @@ module Mayhem
       end
 
       def fetch_page(url)
-        page = @http.fetch(url, accept: FeedDiscovery::ACCEPT_HTML, max_bytes: FeedDiscovery::HTML_MAX_BYTES)
+        page = @http.fetch(url, accept: FeedDiscovery::ACCEPT_HTML)
         Nokogiri::HTML(page[:body])
       rescue StandardError => e
         @logger.warn "Skipping #{url}: #{e.class} #{e.message}"

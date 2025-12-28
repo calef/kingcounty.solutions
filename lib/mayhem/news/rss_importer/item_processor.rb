@@ -1,8 +1,5 @@
 # frozen_string_literal: true
 
-require 'net/http'
-require 'open-uri'
-require 'openssl'
 require_relative '../../support/http_client'
 require_relative '../../support/url_normalizer'
 
@@ -118,8 +115,16 @@ module Mayhem
         rescue Mayhem::Support::HttpClient::NotFoundError => e
           @logger.warn "Article URL returned 404 (#{url}): #{e.message}"
           { html: '', canonical_url: url, not_found: true }
-        rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError,
-               Net::OpenTimeout, Net::ReadTimeout => e
+        rescue Mayhem::Support::HttpClient::HttpError,
+               Mayhem::Support::HttpClient::TooManyRequestsError,
+               Faraday::Error,
+               SocketError,
+               Timeout::Error,
+               EOFError,
+               Errno::ECONNRESET,
+               Errno::ECONNREFUSED,
+               Errno::EHOSTUNREACH,
+               Errno::ETIMEDOUT => e
           @logger.warn "Failed to fetch article body (#{url}): #{e.message}"
           { html: '', canonical_url: nil }
         rescue StandardError => e

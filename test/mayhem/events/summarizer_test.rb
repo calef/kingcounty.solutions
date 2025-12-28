@@ -42,8 +42,8 @@ class EventSummarizerTest < Minitest::Test
       @requests = []
     end
 
-    def fetch(url, accept:, max_bytes:)
-      @requests << { url: url, accept: accept, max_bytes: max_bytes }
+    def fetch(url, accept:)
+      @requests << { url: url, accept: accept }
       @response
     end
   end
