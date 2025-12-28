@@ -93,8 +93,8 @@ class IcalImporterTest < Minitest::Test
       @calls = []
     end
 
-    def fetch(url, accept:, max_bytes:)
-      @calls << { url: url, accept: accept, max_bytes: max_bytes }
+    def fetch(url, accept:)
+      @calls << { url: url, accept: accept }
       response = @responses[url]
       raise "Missing stub response for #{url}" unless response
 

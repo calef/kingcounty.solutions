@@ -63,10 +63,10 @@ class HttpClientTest < Minitest::Test
   # Public API: response_for
 
   def test_response_for_returns_hash_with_status_and_url
-    response = Struct.new(:code) { def [](key); nil; end }
+    response = Struct.new(:status, :headers)
     payload = { final_url: 'https://example.com' }
-    @request_flow.stub(:fetch_with_redirects, [response.new('200'), payload]) do
-      result = @client.response_for('https://example.com', accept: 'text/plain', max_bytes: 1)
+    @request_flow.stub(:fetch_with_redirects, [response.new(200, {}), payload]) do
+      result = @client.response_for('https://example.com', accept: 'text/plain')
       assert_equal 200, result[:status]
       assert_equal 'https://example.com', result[:final_url]
     end
@@ -100,9 +100,9 @@ class HttpClientTest < Minitest::Test
       content_type: 'text/html',
       final_url: 'https://example.com'
     }
-    response = Struct.new(:code) { def [](key); nil; end }
-    @request_flow.stub(:fetch_with_redirects, [response.new('200'), payload]) do
-      result = @client.fetch('https://example.com', accept: 'text/html', max_bytes: 0)
+    response = Struct.new(:status, :headers)
+    @request_flow.stub(:fetch_with_redirects, [response.new(200, {}), payload]) do
+      result = @client.fetch('https://example.com', accept: 'text/html')
       assert_equal payload, result
     end
   end
@@ -117,14 +117,14 @@ class HttpClientTest < Minitest::Test
     
     call_count = 0
     payload = { body: 'success', content_type: 'text/html', final_url: 'https://example.com' }
-    response = Struct.new(:code) { def [](key); nil; end }
+    response = Struct.new(:status, :headers)
     
     @request_flow.stub(:fetch_with_redirects, proc do
       call_count += 1
       raise error if call_count == 1
-      [response.new('200'), payload]
+      [response.new(200, {}), payload]
     end) do
-      result = @client.fetch('https://example.com', accept: 'text/html', max_bytes: 0)
+      result = @client.fetch('https://example.com', accept: 'text/html')
       assert_equal payload, result
       assert_equal 2, call_count
     end
@@ -140,7 +140,7 @@ class HttpClientTest < Minitest::Test
     
     @request_flow.stub(:fetch_with_redirects, proc { raise error }) do
       assert_raises(Mayhem::Support::HttpClient::TooManyRequestsError) do
-        @client.fetch('https://example.com', accept: 'text/html', max_bytes: 0)
+        @client.fetch('https://example.com', accept: 'text/html')
       end
     end
   end

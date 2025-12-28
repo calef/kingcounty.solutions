@@ -61,7 +61,7 @@ class SupportHttpStatusResolverTest < Minitest::Test
         @error = error
       end
 
-      def response_for(_url, accept:, max_bytes:)
+      def response_for(_url, accept:)
         raise @error if @error
         return nil unless @status
 

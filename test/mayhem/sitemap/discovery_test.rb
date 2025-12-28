@@ -13,7 +13,7 @@ class SitemapDiscoveryTest < Minitest::Test
       @responses = responses
     end
 
-    def fetch(url, accept:, max_bytes:)
+    def fetch(url, accept:)
       response = @responses.fetch(url) do
         raise Mayhem::Support::HttpClient::NotFoundError.new(
           url: url,

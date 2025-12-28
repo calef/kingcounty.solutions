@@ -19,7 +19,7 @@ module Mayhem
         uri = URI.parse(url)
         return nil unless %w[http https].include?(uri.scheme) && uri.host && !uri.host.empty?
 
-        page = http_client.fetch(uri.to_s, accept: Mayhem::FeedDiscovery::ACCEPT_FEED, max_bytes: 2_097_152)
+        page = http_client.fetch(uri.to_s, accept: Mayhem::FeedDiscovery::ACCEPT_FEED)
         ext = validator.image_extension(uri, page[:content_type])
         unless validator.allowed_extension?(ext)
           logger.info "Skipping #{url}: unsupported image type (#{ext || 'unknown'})"

@@ -13,8 +13,8 @@ class ContentFetcherTest < Minitest::Test
       @calls = []
     end
 
-    def fetch(url, accept:, max_bytes:)
-      @calls << { url: url, accept: accept, max_bytes: max_bytes }
+    def fetch(url, accept:)
+      @calls << { url: url, accept: accept }
       {
         body: @body,
         final_url: @final_url
