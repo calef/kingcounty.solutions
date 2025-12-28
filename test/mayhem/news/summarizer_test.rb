@@ -196,4 +196,25 @@ class PostSummarizerTest < Minitest::Test
 
     assert_equal 0, stats[:updated]
   end
+
+  def test_unpublishes_when_summary_missing_even_with_topics_and_locations
+    write_post('2025-01-07-test.md', {
+                 'summarized' => true,
+                 'topic_titles' => ['Health'],
+                 'location_titles' => ['Seattle']
+               }, '')
+
+    summarizer = Mayhem::News::PostSummarizer.new(
+      posts_dir: @tmp_posts,
+      http_client: Object.new,
+      logger: @logger,
+      client: Object.new
+    )
+
+    stats = summarizer.run
+
+    assert_equal 1, stats[:updated]
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-07-test.md'), logger: @logger)
+    assert_equal false, document.front_matter['published']
+  end
 end

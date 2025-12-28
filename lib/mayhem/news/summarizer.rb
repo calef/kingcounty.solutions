@@ -119,10 +119,12 @@ module Mayhem
           return
         end
 
+        existing_summary = document.body&.strip
         needs_summary = front_matter['summarized'] != true
         needs_topic_titles = needs_classification?(front_matter, 'topic_titles')
         needs_location_titles = needs_classification?(front_matter, 'location_titles')
-        return unless needs_summary || needs_topic_titles || needs_location_titles
+        summary_missing = front_matter['summarized'] == true && existing_summary.to_s.empty?
+        return unless needs_summary || needs_topic_titles || needs_location_titles || summary_missing
 
         source_url = front_matter['source_url']
         if needs_summary && source_url.nil?
@@ -174,6 +176,7 @@ module Mayhem
         end
 
         summary_text ||= document.body&.strip || ''
+        summary_missing = summary_text.to_s.strip.empty?
 
         if needs_topic_titles
           classified_topic_titles = @topic_classifier.classify(summary_text)
@@ -198,7 +201,8 @@ module Mayhem
         end
 
         # Set published to false if either topic titles or location titles are empty
-        should_unpublish = (needs_topic_titles && Array(front_matter['topic_titles']).empty?) ||
+        should_unpublish = summary_missing ||
+                           (needs_topic_titles && Array(front_matter['topic_titles']).empty?) ||
                            (needs_location_titles && Array(front_matter['location_titles']).empty?)
 
         document.front_matter = front_matter
