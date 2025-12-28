@@ -66,13 +66,14 @@ module Mayhem
       end
 
       class ForbiddenError < StandardError
-        attr_reader :url, :origin_url, :operation
+        attr_reader :url, :origin_url, :operation, :status
 
         def initialize(url:, origin_url:, operation:)
           super("HTTP 403 Forbidden for #{url}")
           @url = url
           @origin_url = origin_url
           @operation = operation
+          @status = 403
         end
       end
 
