@@ -43,7 +43,7 @@ module Mayhem
         @events_dir = events_dir
         @model = model
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-        @http = http_client || Mayhem::Support::HttpClient.new(@logger)
+        @http = http_client || Mayhem::Support::HttpClient.new
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
                               client: @client
@@ -79,7 +79,7 @@ module Mayhem
       private
 
       def process_event(file_path, stats)
-        document = Mayhem::FrontMatter::Document.load(file_path(@logger))
+        document = Mayhem::FrontMatter::Document.load(file_path)
         unless document
           stats[:skipped_no_frontmatter] += 1
           return
@@ -307,7 +307,7 @@ module Mayhem
       def remove_event_references(event_id)
         updated_posts = 0
         Dir.glob(File.join(POSTS_DIR, '*.md')).each do |post_path|
-          document = Mayhem::FrontMatter::Document.load(post_path(@logger))
+          document = Mayhem::FrontMatter::Document.load(post_path)
           next unless document
 
           front_matter = document.front_matter

@@ -84,7 +84,7 @@ module Mayhem
         @duplicate_tracker = DuplicateTracker.new(news_model: @news_model)
         @canonicalizer = Canonicalizer.new(http_client: @http)
         @post_writer = PostWriter.new(news_model: @news_model)
-        @item_parser = ItemParser.new(@logger)
+        @item_parser = ItemParser.new
         @item_processor = ItemProcessor.new(
           item_parser: @item_parser,
           canonicalizer: @canonicalizer,
@@ -93,7 +93,7 @@ module Mayhem
           post_writer: @post_writer,
           max_item_age_days: @config.max_item_age_days
         )
-        @feed_sanitizer = FeedSanitizer.new(@logger)
+        @feed_sanitizer = FeedSanitizer.new
         @feed_runner = FeedRunner.new(
           http_client: @http,
           feed_sanitizer: @feed_sanitizer,

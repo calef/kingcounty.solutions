@@ -11,6 +11,8 @@ module Mayhem
     # YAML front matter. Centralizing the parsing logic ensures scripts share
     # consistent behavior and makes unit testing easier.
     class Document
+      include Mayhem::Loggable
+      
       PERMITTED_CLASSES = [Date, Time].freeze
 
       ParseResult = Struct.new(:front_matter, :body, :raw, keyword_init: true)
@@ -28,10 +30,10 @@ module Mayhem
             new(path:, front_matter: result.front_matter, body: result.body)
           end
         rescue Errno::ENOENT
-          Mayhem::Logging.logger.trace("Missing file: #{path}") if defined?(Mayhem::Logging)
+          logger.trace("Missing file: #{path}") if defined?(logger)
           nil
         rescue ParseError => e
-          Mayhem::Logging.logger.warn("Failed to parse #{path}: #{e.message}") if defined?(Mayhem::Logging)
+          logger.warn("Failed to parse #{path}: #{e.message}") if defined?(logger)
           nil
         end
 

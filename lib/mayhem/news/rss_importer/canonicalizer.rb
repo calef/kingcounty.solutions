@@ -9,8 +9,6 @@ module Mayhem
       include Mayhem::Loggable
 
       class Canonicalizer
-        include Mayhem::Loggable
-
         CANONICAL_REDIRECT_HOSTS = %w[
           pubmed.ncbi.nlm.nih.gov
         ].freeze

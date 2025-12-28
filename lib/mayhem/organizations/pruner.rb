@@ -83,7 +83,7 @@ module Mayhem
       def prune_events(organization_title)
         deleted_count = 0
         Dir.glob(File.join(@events_dir, '*.md')).each do |event_path|
-          document = Mayhem::FrontMatter::Document.load(event_path(@logger))
+          document = Mayhem::FrontMatter::Document.load(event_path)
           next unless document
 
           event_org = document.front_matter['organization_title']
@@ -99,7 +99,7 @@ module Mayhem
       def prune_news(organization_title)
         deleted_count = 0
         Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
-          document = Mayhem::FrontMatter::Document.load(post_path(@logger))
+          document = Mayhem::FrontMatter::Document.load(post_path)
           next unless document
 
           source = document.front_matter['organization_title']
@@ -115,7 +115,7 @@ module Mayhem
 
       def delete?(organization_title)
         Dir.glob(File.join(@organizations_dir, '*.md')).each do |org_path|
-          document = Mayhem::FrontMatter::Document.load(org_path(@logger))
+          document = Mayhem::FrontMatter::Document.load(org_path)
           next unless document
 
           title = document.front_matter['title']

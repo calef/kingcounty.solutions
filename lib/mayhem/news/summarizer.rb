@@ -51,7 +51,7 @@ module Mayhem
       )
         @posts_dir = posts_dir
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-        @http = http_client || Mayhem::Support::HttpClient.new(@logger)
+        @http = http_client || Mayhem::Support::HttpClient.new
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
                               client: @client
@@ -86,7 +86,7 @@ module Mayhem
       private
 
       def process_post(file_path, stats)
-        document = Mayhem::FrontMatter::Document.load(file_path(@logger))
+        document = Mayhem::FrontMatter::Document.load(file_path)
         unless document
           stats[:skipped_no_frontmatter] += 1
           return

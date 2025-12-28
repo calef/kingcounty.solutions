@@ -8,8 +8,6 @@ module Mayhem
       include Mayhem::Loggable
 
       class Config
-        include Mayhem::Loggable
-
         MAX_ITEM_AGE_DAYS = 365
 
         def initialize(max_item_age_days:, config_path:)

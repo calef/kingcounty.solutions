@@ -68,7 +68,7 @@ module Mayhem
       private
 
       def event_times_for(path)
-        document = Mayhem::FrontMatter::Document.load(path(@logger))
+        document = Mayhem::FrontMatter::Document.load(path)
         return unless document
 
         front_matter = document.front_matter
@@ -110,7 +110,7 @@ module Mayhem
         posts_updated = 0
 
         Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
-          document = Mayhem::FrontMatter::Document.load(post_path(@logger))
+          document = Mayhem::FrontMatter::Document.load(post_path)
           next unless document
 
           front_matter = document.front_matter

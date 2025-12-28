@@ -6,6 +6,8 @@ module Mayhem
   module FrontMatter
     # Utility helpers for determining whether a Markdown document is purposely hidden.
     module PublishGuard
+      extend Mayhem::Loggable
+      
       module_function
 
       def unpublished?(path)
@@ -14,7 +16,7 @@ module Mayhem
         document = Mayhem::FrontMatter::Document.load(path)
         document && document.front_matter['published'] == false
       rescue StandardError => e
-        Mayhem::Logging.logger.warn("Failed to inspect #{path} for published flag: #{e.message}")
+        logger.warn("Failed to inspect #{path} for published flag: #{e.message}")
         false
       end
     end

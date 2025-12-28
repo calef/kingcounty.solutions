@@ -30,7 +30,7 @@ module Mayhem
         @posts_dir = posts_dir
         @events_dir = events_dir
         @model = model
-        @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(@logger)
+        @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new
       end
 
       def run
@@ -45,7 +45,7 @@ module Mayhem
       private
 
       def process_post(file_path, stats)
-        document = Mayhem::FrontMatter::Document.load(file_path(@logger))
+        document = Mayhem::FrontMatter::Document.load(file_path)
         unless document
           stats[:skipped_no_frontmatter] += 1
           return
