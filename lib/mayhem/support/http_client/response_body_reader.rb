@@ -3,7 +3,7 @@
 module Mayhem
   module Support
     class HttpClient
-      # Handles reading HTTP response bodies with optional size limits
+      # Handles reading HTTP response bodies without applying size limits
       class ResponseBodyReader
         def self.read(response)
           return read_streaming(response) if response.respond_to?(:read_body)
