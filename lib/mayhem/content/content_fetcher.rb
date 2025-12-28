@@ -14,14 +14,12 @@ module Mayhem
         http_client:,
         logger:,
         selectors: ArticleBodySelectors::SELECTORS,
-        accept: Mayhem::FeedDiscovery::ACCEPT_HTML,
-        max_bytes: Mayhem::FeedDiscovery::HTML_MAX_BYTES
+        accept: Mayhem::FeedDiscovery::ACCEPT_HTML
       )
         @http_client = http_client
         @logger = logger
         @selectors = selectors
         @accept = accept
-        @max_bytes = max_bytes
       end
 
       NON_HTML_CONTENT_TYPES = %w[
@@ -36,7 +34,7 @@ module Mayhem
       ].freeze
 
       def fetch(url)
-        page = @http_client.fetch(url, accept: @accept, max_bytes: @max_bytes)
+        page = @http_client.fetch(url, accept: @accept)
         return skipped_response(page) if non_html_response?(page)
 
         document = Nokogiri::HTML(page[:body])

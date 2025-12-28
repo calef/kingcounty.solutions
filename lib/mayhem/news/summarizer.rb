@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'json'
-require 'open-uri'
 require 'ruby/openai'
 require_relative '../logging'
 require_relative '../topics/classifier'
@@ -273,7 +272,7 @@ module Mayhem
       def fetch_article_html(url)
         return nil unless url
 
-        page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML, max_bytes: MAX_ARTICLE_CHARS)
+        page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML)
         Mayhem::Support::EncodingUtils.ensure_utf8(page[:body])
       rescue StandardError => e
         @logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"

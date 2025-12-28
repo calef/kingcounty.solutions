@@ -34,7 +34,7 @@ class RssImporterMethodsTest < Minitest::Test
       @fetch_called = false
     end
 
-    def fetch(_url, accept:, max_bytes:)
+    def fetch(_url, accept:)
       @fetch_called = true
       response || { body: '', content_type: 'text/xml' }
     end

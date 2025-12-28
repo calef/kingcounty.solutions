@@ -17,8 +17,6 @@ module Mayhem
       '/sitemap.xml.gz'
     ].freeze
     ROBOTS_PATH = '/robots.txt'
-    ROBOTS_MAX_BYTES = 262_144
-    SITEMAP_MAX_BYTES = 1_048_576
     GZIP_SNIFF_BYTES = 65_536
     ACCEPT_ROBOTS = 'text/plain,*/*;q=0.1'
     ACCEPT_XML = 'application/xml,text/xml,application/rss+xml;q=0.9,*/*;q=0.1'
@@ -63,7 +61,7 @@ module Mayhem
         robots_url = Mayhem::Support::UrlUtils.absolutize(base_url, ROBOTS_PATH)
         return [] unless robots_url
 
-        body = fetch_body(robots_url, accept: ACCEPT_ROBOTS, max_bytes: ROBOTS_MAX_BYTES)
+        body = fetch_body(robots_url, accept: ACCEPT_ROBOTS)
         return [] if body.nil?
 
         extract_robots_sitemaps(body, base_url)
@@ -108,7 +106,7 @@ module Mayhem
       end
 
       def verify_candidate(candidate)
-        response = @http.fetch(candidate, accept: ACCEPT_XML, max_bytes: SITEMAP_MAX_BYTES)
+        response = @http.fetch(candidate, accept: ACCEPT_XML)
         return nil unless sitemap_like?(response[:body], response[:content_type])
 
         normalize_candidate(response[:final_url] || candidate, candidate)
@@ -117,8 +115,8 @@ module Mayhem
         nil
       end
 
-      def fetch_body(url, accept:, max_bytes:)
-        response = @http.fetch(url, accept: accept, max_bytes: max_bytes)
+      def fetch_body(url, accept:)
+        response = @http.fetch(url, accept: accept)
         response[:body]
       rescue StandardError => e
         @logger.debug "Robots fetch failed for #{url}: #{e.message}"

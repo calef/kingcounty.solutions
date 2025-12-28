@@ -14,8 +14,8 @@ class FeedFinderTest < Minitest::Test
       @requests = []
     end
 
-    def fetch(url, accept:, max_bytes:)
-      @requests << { url: url, accept: accept, max_bytes: max_bytes }
+    def fetch(url, accept:)
+      @requests << { url: url, accept: accept }
       response = @responses.fetch(url) { raise "Unexpected request for #{url}" }
       response.respond_to?(:call) ? response.call : response
     end

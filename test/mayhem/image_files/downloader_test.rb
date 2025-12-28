@@ -11,7 +11,7 @@ class ImageFilesDownloaderTest < Minitest::Test
   class DummyHttp
     attr_accessor :response
 
-    def fetch(_url, accept:, max_bytes:)
+    def fetch(_url, accept:)
       response || raise(StandardError, 'no response configured')
     end
   end
