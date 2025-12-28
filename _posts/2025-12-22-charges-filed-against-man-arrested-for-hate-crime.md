@@ -5,7 +5,7 @@ feed_content: The King County Prosecuting Attorney’s Office (KCPAO) filed crim
   ago. On Dec. 12, at about 9:30 p.m., patrol officers responded to reports of threats
   against a religio...
 feed_content_checksum: e38728a1271da671a44fe3cecef4da9649ad50ce
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

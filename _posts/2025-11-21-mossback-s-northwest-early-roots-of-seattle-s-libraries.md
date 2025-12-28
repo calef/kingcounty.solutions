@@ -11,7 +11,7 @@ feed_content: |-
   <p>Go to the <a href="https://www.spl.org/books-and-media/unique-collections/seattle-room-collections">Seattle Room webpage</a> to find out more.</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Homework Help
 published: false

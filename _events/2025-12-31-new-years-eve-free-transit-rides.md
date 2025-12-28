@@ -3,7 +3,7 @@ feed_content: Free rides on King County Metro, Sound Transit, Community Transit,
   Transit, Pierce Transit, and the Seattle Streetcar to celebrate New Year's Eve.
 feed_content_checksum: 9b559cbc573fbaba389e36004d3ae56298e0446b
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: King County Metro and regional transit agencies
 location_titles:
 - King County

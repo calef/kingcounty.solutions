@@ -198,7 +198,7 @@ class ImageDocumentsTest < Minitest::Test
     references_with_default = Hash.new { |hash, key| hash[key] = Set.new }
     Dir['_posts/*.md'].each do |path|
       data = load_front_matter(path)
-      Array(data['image_ids']).each do |checksum|
+      Array(data['image_checksums']).each do |checksum|
         next unless checksum.is_a?(String)
 
         normalized = checksum.strip

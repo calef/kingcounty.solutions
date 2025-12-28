@@ -52,7 +52,7 @@ feed_content: |-
 
 
   <p>If you’re interested in exploring vegetarian cooking or any other nutrition-related topics, contact your <a href="https://www.va.gov/find-locations/" rel="noopener">local VA</a> to speak with a <a href="https://news.va.gov/129475/va-dietitians-food-and-nutrition-experts/">registered dietitian</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

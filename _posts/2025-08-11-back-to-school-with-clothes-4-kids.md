@@ -1,6 +1,6 @@
 ---
 date: '2025-08-11T16:58:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Every August, students across Bellevue get ready to return to the classroom</strong>—some with nervous energy, others with excitement, and all with hopes of starting the school year on the right foot.&nbsp;</p>
@@ -44,7 +44,7 @@ feed_content: |-
 
 
   <p>Thank you for helping make back-to-school season a time of joy and possibility. Together, we&#8217;re making it possible for every Bellevue child to start the school year with the opportunity to thrive.&nbsp;&nbsp;</p><p>The post <a href="https://www.bellevuelifespring.org/general/back-to-school-with-clothes-4-kids/">Back to school with Clothes-4-Kids</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/general/back-to-school-with-clothes-4-kids/">Back to school with Clothes-4-Kids</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Bellevue LifeSpring

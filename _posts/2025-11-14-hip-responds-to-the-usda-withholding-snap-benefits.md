@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14T22:26:07+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_row et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
@@ -104,7 +104,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >
   post <a href=\"https://hungerintervention.org/2025/11/14/hip-responds-to-the-usda-witholding-snap-benefits/\">HIP
   Responds to the USDA Withholding SNAP Benefits</a> appeared first on <a href=\"https://hungerintervention.org\">Hunger
   Intervention Program</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Hunger Intervention Program

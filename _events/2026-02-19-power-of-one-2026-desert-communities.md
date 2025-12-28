@@ -131,7 +131,7 @@ feed_content: '<!DOCTYPE html> <html lang="en" id="ng-app" xmlns:ng="http://angu
   integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ=="
   data-cf-beacon=''{"rayId":"9a908f181b228386","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.9.1","token":"ba24d07dcbc24f8dad41bd6f62f56d32"}''
   crossorigin="anonymous"></script> </body> </html>'
-image_ids: []
+image_checksums: []
 location: Tommy Bahama Miramonte Resort and Spa, 45000 Indian Wells Lane, Indian Wells,
   CA, 92210, United States
 location_titles: []

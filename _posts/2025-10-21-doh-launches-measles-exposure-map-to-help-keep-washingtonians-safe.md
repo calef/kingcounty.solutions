@@ -1,6 +1,6 @@
 ---
 date: '2025-10-21T20:40:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">DOH
   Launches Measles Exposure Map to Help Keep Washingtonians Safe</span>\n\n            <div
@@ -58,7 +58,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   href=\"https://www.doh.wa.gov/\">website</a>&nbsp;is your source for a healthy dose
   of information. Get updates by following us on&nbsp;<a href=\"https://doh.wa.gov/about-us/contact-us/social-media\">social
   media</a>.</p>\n\n<p class=\"text-align-center\">###</p></div>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

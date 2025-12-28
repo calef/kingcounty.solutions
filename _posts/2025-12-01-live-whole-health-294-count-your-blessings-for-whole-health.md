@@ -1,6 +1,6 @@
 ---
 date: '2025-12-01T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Are you ready to count your blessings? Even if you’re not feeling particularly grateful this year, this season offers us a chance to stop and think about what really matters to us. Taking “inventory” of your blessings can be good for your <a href="https://www.va.gov/WHOLEHEALTH/index.asp" rel="noopener">Whole Health</a>.</p>
@@ -68,7 +68,7 @@ feed_content: |-
   <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
   <div class="video-shortcode"><iframe title="#LiveWholeHealth: A season of gratitude" width="1400" height="788" src="https://www.youtube.com/embed/o7DhHcj1jE4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div></figure>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

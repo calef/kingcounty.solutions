@@ -1,13 +1,13 @@
 ---
 date: '2025-11-06T05:24:13+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Increased Need for Food Support During the Government Shutdown The Rainier
   Foothills Wellness Foundation has always believed that no one in our community should
   go hungry — especially our children and families. This fall, that mission has become
   more urgent than ever. With the ongoing government shutdown and soaring food prices,
   many local families are&#8230;
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Rainier Foothills Wellness Foundation

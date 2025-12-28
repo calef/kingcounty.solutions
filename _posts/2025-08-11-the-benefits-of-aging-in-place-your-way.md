@@ -1,6 +1,6 @@
 ---
 date: '2025-08-11T21:46:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-post-featured-image"><img data-recalc-dims="1" decoding="async" width="704" height="470" src="https://i0.wp.com/soundgenerations.org/wp-content/uploads/iStock-1486141559.jpg?resize=704%2C470&#038;ssl=1" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Senior man playing with dog at home" style="object-fit:cover;" srcset="https://i0.wp.com/soundgenerations.org/wp-content/uploads/iStock-1486141559.jpg?w=1253&amp;ssl=1 1253w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/iStock-1486141559.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/iStock-1486141559.jpg?resize=982%2C655&amp;ssl=1 982w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/iStock-1486141559.jpg?resize=260%2C174&amp;ssl=1 260w" sizes="(max-width: 704px) 100vw, 704px" /></figure>
@@ -72,7 +72,7 @@ feed_content: |-
   <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://fundraise.givesmart.com/form/F2Vg-g?vid=1kb22q">Donate</a></div>
   </div>
   <p>The post <a href="https://soundgenerations.org/the-benefits-of-aging-in-place-your-way/">The Benefits of Aging in place Your Way</a> appeared first on <a href="https://soundgenerations.org">Sound Generations</a>.</p>
-image_ids:
+image_checksums:
 - 874ccc59d73fbfc02d2bedc1fa09959299bc6a40cb814130f851a887f1ec6b23
 - 01deb28ec702e4791046953cb96023646afdf5216dfa0c1ccb2fa3f204dfb95f
 location_titles:

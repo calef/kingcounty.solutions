@@ -1,10 +1,10 @@
 ---
 date: '2025-07-02T16:33:56+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Rendering by Runberg Architecture Group LIHI is pleased to announce
   that construction is set to start on 125th Senior Housing, a 90-unit,...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

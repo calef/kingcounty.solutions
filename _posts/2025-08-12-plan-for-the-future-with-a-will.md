@@ -1,6 +1,6 @@
 ---
 date: '2025-08-12T16:21:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   August is National Make-A-Will Month, so it’s a good time to double-check that you have an up-to-date will.
@@ -18,7 +18,7 @@ feed_content: |-
   Making a will is about more than planning—it’s about caring for the people and causes that matter most to you. This month, take the time to protect your legacy and strengthen our community.
 
   The post [Plan for the future with a will](https://elap.org/plan-for-the-future-with-a-will/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

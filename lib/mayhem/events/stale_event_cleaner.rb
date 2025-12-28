@@ -7,6 +7,8 @@ require 'time'
 require_relative '../logging'
 require_relative '../front_matter/document'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module Events
     class StaleEventCleaner
@@ -47,7 +49,7 @@ module Mayhem
           next unless start_time
           next unless self.class.stale?(start_time: start_time, end_time: end_time, cutoff_date: cutoff_date)
 
-          event_id = File.basename(path, '.md')
+          event_id = File.basename(path)
           remove_file(path)
           removed << event_id
           @logger.info "Removed past event #{File.basename(path)}"
@@ -112,16 +114,16 @@ module Mayhem
           next unless document
 
           front_matter = document.front_matter
-          events = front_matter['events']
-          next unless events.is_a?(Array)
-          next if events.empty?
+          event_ids = front_matter['event_ids']
+          next unless event_ids.is_a?(Array)
+          next if event_ids.empty?
 
-          original_size = events.size
-          updated_events = events.reject { |event_id| removed_set.include?(event_id) }
+          original_size = event_ids.size
+          updated_events = event_ids.reject { |event_id| removed_set.include?(event_id) }
 
           next unless updated_events.size < original_size
 
-          front_matter['events'] = updated_events
+          front_matter['event_ids'] = updated_events
           document.front_matter = front_matter
           document.save
           posts_updated += 1

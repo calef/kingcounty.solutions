@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T04:31:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div>
@@ -168,7 +168,7 @@ feed_content: |-
   </div></div></div></div>
   <p>The post <a>Cuentos from Our Work: DECEMBER 2025</a> appeared first on <a>El Centro de la Raza</a>.</p>
 feed_content_checksum: 65f9680851b677bad01eb42e1547a1b545c359ba
-image_ids:
+image_checksums:
 - 052e58144b0ffe41497b6bb86c5d97052fdf736c35297886ff8580424e7df2cd
 - fca1f0ab2c175400be90e3553e378d8623793c4342da4cfe4f43a861bd928062
 - 90d4634b0fd52c050d389547f58d0779e83d9eef0dda1d8ef656e467a71a1f6e

@@ -1,13 +1,13 @@
 ---
 date: '2025-10-28T20:36:53+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Community Corner highlights the work of Seattle Human Services’ community
   partners in their own words. Our goal is to gather stories and photos that illustrate
   their amazing work on behalf of the people of Seattle. This post was provided by
   Julia Smiljanic at Rainier Valley Food Bank (also follow on Facebook, Instagram,
   and LinkedIn).  When [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

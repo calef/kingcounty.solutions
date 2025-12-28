@@ -16,7 +16,7 @@ feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events <
   </div> <div> <h3>Event Navigation</h3> <ul> <li><a><span>«</span> Open Shop</a></li>
   <li><a>Volunteer Repair Party <span>»</span></a></li> </ul> </div> </div> </section>"
 feed_content_checksum: 881353da0abff1c8ec911d0a02a464f4d839163e
-image_ids: []
+image_checksums: []
 location: 'Bike works warehouse, 3715 S Hudson St #111, Seattle, Washington, 98118,
   United States'
 location_titles:

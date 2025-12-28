@@ -1,6 +1,6 @@
 ---
 date: '2025-11-17T20:46:40+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="x_elementToProof" data-olk-copy-source="MessageBody">Our NYC-based community programs, including the <strong>Adolescent Skills Centers</strong> and <a href="https://www.vibrant.org/what-we-do/community-programs/parents-caregivers/family-youth-peer-support-services/"><strong>Family and Youth Peer Support Services</strong></a>, are collecting gently used or new coats to support youth and families this winter. If you’re looking for a way to help young people and families be ready to take on the cold, consider delivering or shipping donated coats to Vibrant <b>through December 15</b>.</p>
@@ -13,7 +13,7 @@ feed_content: |-
   New York, NY, 10005</p>
   <p class="x_elementToProof">Thank you for helping us spread warmth, kindness, and joy this season. We appreciate your generosity!</p>
   <p>The post <a href="https://www.vibrant.org/support-youth-and-families-this-winter/">Support Youth and Families This Winter</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Vibrant Emotional Health

@@ -13,7 +13,7 @@ feed_content: City Council Meeting Roundup. On Tuesday, December 9th, the Norman
   $76.59 per person. Even with the increase, Sunnyside remains the most cost-effective
   option compared to other available jail contracts.
 feed_content_checksum: 3740c24dec92ef5141ef37c284d8f4f7ae50174c
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Normandy Park

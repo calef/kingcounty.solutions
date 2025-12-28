@@ -1,6 +1,6 @@
 ---
 date: '2025-10-31T23:54:58+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>When Tonia Bartz was diagnosed with Acute Myeloid Leukemia in 2021,
   everything changed overnight.<strong> “I went to the ER knowing something was off,
@@ -24,7 +24,7 @@ feed_content: "<p>When Tonia Bartz was diagnosed with Acute Myeloid Leukemia i
   meet people where they are.” <strong>Now she gives back by facilitating classes
   herself, helping others find what she found: a community that heals together, one
   day at a time.</strong></p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

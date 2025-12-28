@@ -1,6 +1,6 @@
 ---
 date: '2025-09-04T20:42:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Community Roots Housing has scheduled a special PDA Board Meeting to be held electronically on Friday, September 5, 2025, from 3:00 p.m. to 3:35 p.m. The meeting information is below.</p>
@@ -9,7 +9,7 @@ feed_content: |-
   <p>Meeting ID:    931 6943 7365</p>
   <p>Passcode:       398267</p>
   <p>The post <a href="https://communityrootshousing.org/2025/09/special-pda-board-meeting-2/">Special PDA board meeting</a> appeared first on <a href="https://communityrootshousing.org">Community Roots Housing</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Community Roots Housing

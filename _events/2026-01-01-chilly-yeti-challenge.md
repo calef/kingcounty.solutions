@@ -54,7 +54,7 @@ feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-tem
   class="tribe-events-meta-item"> <span class="tribe-organizer-url tribe-events-meta-value">
   <a href="https://www.challengenorthwest.com/" target="_self" rel="external">View
   Organizer Website</a> </span> </li> </ul> </div> </div> </div> </div> </section>'
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

@@ -15,6 +15,8 @@ require_relative '../sitemap/discovery'
 require_relative '../support/http_client'
 require_relative '../support/url_utils'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module Organizations
     class Generator

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T17:31:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>A new multifamily property located in Seattle’s Interbay neighborhood will provide 109 studio units and five respite units for those recovering from inpatient medical care.</p>
@@ -41,7 +41,7 @@ feed_content: |-
 
   <p>Thanks to Commerce, DESC, and all others who made Steven’s Place possible.</p>
 feed_content_checksum: cd43995b57b9f699c97af327f7303daf61401de2
-image_ids:
+image_checksums:
 - 4f745237430fcafda7497b574643c6652e91b3ebbc2e0dd5ee05b0ede6601868
 location_titles:
 - King County

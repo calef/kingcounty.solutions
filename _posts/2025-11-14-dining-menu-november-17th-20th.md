@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14T23:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Sweet &amp; Sour Chicken w/brown rice, Eggroll &amp; Fruit<strong> </strong> </p>
@@ -33,7 +33,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-november-17th-20th/">Dining Menu November 17th &#8211; 20th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 published: false

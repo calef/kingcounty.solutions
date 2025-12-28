@@ -4,7 +4,7 @@ feed_content: |-
   <p>The following information is provided by the Events Department to assist with parking for this coming Saturday’s Snoqualmie Tribe Christmas Party.</p>
   <p><a>Download the flier, with map, here</a></p>
 feed_content_checksum: 7be656cdad4503ed83217bab8037b3ea206ff72b
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

@@ -4,7 +4,7 @@ feed_content: 'Join us at ARTS at King Street Station on December 4 for Pioneer 
   First Thursday Artwalk! We&#8217;ll be celebrating the opening of Living &#038;
   Loving Under the Carceral State, and getting another look at Welcome to Paradise:
   ¡Viva Puerto Rico...'
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

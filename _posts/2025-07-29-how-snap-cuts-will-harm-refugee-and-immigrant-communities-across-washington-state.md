@@ -1,6 +1,6 @@
 ---
 date: '2025-07-29T15:55:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading" style="font-size:20px;font-style:italic;font-weight:300"><strong>– A response to Assistant Secretary Carla Reyes ESA Express Quarterly Newsletter</strong></h2>
@@ -41,7 +41,7 @@ feed_content: |-
 
   <p>As we continue to support our clients the best we can, we ask for your support. Raise your voice and advocate for policies that center around compassion, equity, and justice. Call your elected officials and share this message. Let them know that our communities deserve better!</p>
   <p>The post <a href="https://www.rewa.org/snap-cuts/">How SNAP Cuts Will Harm Refugee and Immigrant Communities Across Washington State</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Refugee Women's Alliance

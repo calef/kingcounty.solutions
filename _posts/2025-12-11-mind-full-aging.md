@@ -1,7 +1,7 @@
 ---
 date: '2025-12-11T19:28:06+00:00'
-events:
-- 2026-01-06-mind-full-aging-support-series
+event_ids:
+- 2026-01-06-mind-full-aging-support-series.md
 events_extracted: true
 feed_content: |-
   <p>Join Mental health provider Christine Vervitsiotis for group support for aging-related anxiety and depression. In this 8-week series, we will talk about how the brain works, experiment with new coping skills, practice techniques that strengthen emotional wellness, build connections, and share tips and strategies with people who understand. </p>
@@ -15,7 +15,7 @@ feed_content: |-
   <p></p>
   <p>The post <a>Mind(full) Aging</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: 1a870e7b99a636f43fe334503aec5483b9e5d903
-image_ids: []
+image_checksums: []
 location_titles:
 - Shoreline
 organization_title: Shoreline Lake Forest Park Senior Activity Center

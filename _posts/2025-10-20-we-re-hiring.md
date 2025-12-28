@@ -1,6 +1,6 @@
 ---
 date: '2025-10-20T23:15:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>If you or someone you know would be a great fit for our team, share this description with them. Resumes (no cover letter) should be sent to olivia@hospitalityhousesouthking.org, with &#8220;Program Office Assistant&#8221; in the subject line. </p>
@@ -12,7 +12,7 @@ feed_content: |-
 
 
   <p></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - South King County
 organization_title: Hospitality House

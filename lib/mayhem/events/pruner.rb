@@ -5,6 +5,8 @@ require 'fileutils'
 require_relative '../front_matter/document'
 require_relative '../images/pruner'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module Events
     class Pruner
@@ -19,23 +21,23 @@ module Mayhem
         front_matter = document.front_matter
 
         front_matter['published'] = false
-        image_ids = @images_pruner.collect_image_ids(front_matter)
-        front_matter['image_ids'] = []
+        image_checksums = @images_pruner.collect_image_checksums(front_matter)
+        front_matter['image_checksums'] = []
 
         document.front_matter = front_matter
         document.save
 
-        @images_pruner.prune(image_ids, excluded_paths: Set[path]) if image_ids.any?
+        @images_pruner.prune(image_checksums, excluded_paths: Set[path]) if image_checksums.any?
       end
 
       def delete(path, document = nil)
-        event_id = File.basename(path, '.md')
+        event_id = File.basename(path)
 
         # If document is provided, collect and prune images
         if document
-          image_ids = @images_pruner.collect_image_ids(document.front_matter)
+          image_checksums = @images_pruner.collect_image_checksums(document.front_matter)
           delete_file(path)
-          @images_pruner.prune(image_ids, excluded_paths: Set[path]) if image_ids.any?
+          @images_pruner.prune(image_checksums, excluded_paths: Set[path]) if image_checksums.any?
         else
           delete_file(path)
         end
@@ -43,12 +45,12 @@ module Mayhem
         prune_event_links([event_id])
       end
 
-      def prune_images(image_ids, excluded_paths:)
-        @images_pruner.prune(image_ids, excluded_paths: excluded_paths)
+      def prune_images(image_checksums, excluded_paths:)
+        @images_pruner.prune(image_checksums, excluded_paths: excluded_paths)
       end
 
-      def collect_image_ids(front_matter)
-        @images_pruner.collect_image_ids(front_matter)
+      def collect_image_checksums(front_matter)
+        @images_pruner.collect_image_checksums(front_matter)
       end
 
       private
@@ -62,15 +64,15 @@ module Mayhem
           next unless document
 
           front_matter = document.front_matter
-          events = front_matter['events']
-          next unless events.is_a?(Array)
-          next if events.empty?
+          event_ids = front_matter['event_ids']
+          next unless event_ids.is_a?(Array)
+          next if event_ids.empty?
 
-          original_size = events.size
-          updated_events = events.reject { |event_id| removed_set.include?(event_id) }
+          original_size = event_ids.size
+          updated_events = event_ids.reject { |event_id| removed_set.include?(event_id) }
           next unless updated_events.size < original_size
 
-          front_matter['events'] = updated_events
+          front_matter['event_ids'] = updated_events
           document.front_matter = front_matter
           document.save
           posts_updated += 1

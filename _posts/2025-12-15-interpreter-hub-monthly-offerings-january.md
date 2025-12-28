@@ -44,7 +44,7 @@ feed_content: |-
   <p><a>Link to Register</a></p>
   <p><strong>Questions?</strong> Contact Melissa Klindtworth at melissa.klindtworth@cdhy.wa.gov</p>
 feed_content_checksum: 793e32d99399fcfe36af04216b4ee81420bc72af
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Washington Center for Deaf and Hard of Hearing Youth

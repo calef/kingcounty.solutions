@@ -1,6 +1,6 @@
 ---
 date: '2025-11-30T23:26:17+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="">Our fearless Commander, Keith Hughes, requests your attention and generosity for Giving Tuesday. The shelter faces a challenging winter, but good news: The Burien Severe Weather Shelter, operated by <a href="http://www.highlineunitedmethodistchurch.org/">Highline United Methodist Church</a> (13015 1st Ave S), is working in cooperation with Westside Neighbors Shelter to provide overnight staffing and security for the 2025-2026 winter season. For the past seven winters, Burien SWS has provided overnight shelter with trained staff at Highline UMC during severe weather events.</p>
@@ -25,7 +25,7 @@ feed_content: |-
 
   <p class="">DONATE <a href="https://donorbox.org/support-westside-neighbors-shelter">HERE!</a></p>
   <p>The post <a href="https://westsideneighborsshelter.org/giving-tuesday-is-december-2-2025/">Giving Tuesday is December 2, 2025!</a> appeared first on <a href="https://westsideneighborsshelter.org">Westside Neighbors Shelter</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Westside Neighbors Shelter

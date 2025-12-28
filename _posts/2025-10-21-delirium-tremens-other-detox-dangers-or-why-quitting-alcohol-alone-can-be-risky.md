@@ -1,6 +1,6 @@
 ---
 date: '2025-10-21T17:36:14+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row row\"><div
   class=\"vc_column_container col-md-12\"><div class=\"wpb_wrapper vc_column-inner\">\n\t<div
@@ -126,7 +126,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   Tremens &#038; Other Detox Dangers … or Why Quitting Alcohol Alone Can Be Risky</a>
   appeared first on <a href=\"https://lakesidemilam.com\">Lakeside-Milam Recovery
   Centers</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Lakeside-Milam Recovery Centers

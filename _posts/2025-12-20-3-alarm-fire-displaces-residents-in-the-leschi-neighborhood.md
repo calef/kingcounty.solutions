@@ -1,13 +1,13 @@
 ---
 date: '2025-12-20T10:08:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Seattle — At 7:38 p.m., the Seattle Fire Department’s Fire Alarm Center
   received 911 calls reporting an exterior fire on the back deck of a two-story house
   in the 500 block of 34th Ave. in the Leschi neighborhood. Engine 6 arrived first
   on scene ...
 feed_content_checksum: 73d968357bc4f893f8a8597d146fd90cc5e3a59b
-image_ids: []
+image_checksums: []
 location_titles:
 - Seattle
 organization_title: City of Seattle

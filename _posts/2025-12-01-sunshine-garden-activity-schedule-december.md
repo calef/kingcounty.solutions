@@ -10,7 +10,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>The post <a href="https://cisc-seattle.org/sunshine-garden-activity-schedule-december/">Sunshine Garden Activity Schedule – December</a> appeared first on <a href="https://cisc-seattle.org">Chinese Information and Service Center</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Chinese Information & Service Center
 published: false

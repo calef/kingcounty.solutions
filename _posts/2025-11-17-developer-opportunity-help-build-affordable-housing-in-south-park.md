@@ -1,12 +1,12 @@
 ---
 date: '2025-11-17T19:29:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: We are excited to announce a new opportunity for development partners
   to help create affordable rental housing in the South Park neighborhood. We are
   seeking qualified affordable housing developers to partner with us on the Henderson
   Street development...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

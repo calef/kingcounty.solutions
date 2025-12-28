@@ -1,6 +1,6 @@
 ---
 date: '2025-12-06T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">93-year-old Virginia Veteran is home and thriving after VA treatment</h2>
@@ -128,7 +128,7 @@ feed_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/salem-health-care/stories/va-gave-me-a-new-lease-on-life-93-year-old-virginia-veteran-home-and-thriving-after-va-treatment/" rel="noopener">VA Salem Health Care site</a> and has been edited for style and clarity.  </p>
-image_ids:
+image_checksums:
 - 7a6efde449c1aa8ddf79fbb495add927063ca55d2d34e84c130f348d4e20f22e
 - c3b1c5d7f9cccb076aa7ee8603667eb7d6ba02b27afa9f0848e1f9a1d93585b4
 location_titles:

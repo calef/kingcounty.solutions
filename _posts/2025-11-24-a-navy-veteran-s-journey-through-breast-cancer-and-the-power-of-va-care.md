@@ -1,6 +1,6 @@
 ---
 date: '2025-11-24T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">“The Navy saved my life first. Then VA did it again.”</h2>
@@ -166,7 +166,7 @@ feed_content: |-
 
 
   <p><a id="_msocom_1"></a></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

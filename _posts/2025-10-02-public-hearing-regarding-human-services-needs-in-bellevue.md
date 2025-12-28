@@ -1,6 +1,6 @@
 ---
 date: '2025-10-02T18:06:58+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Public
   hearing regarding human services needs in Bellevue</span>\n<span class=\"field field--name-uid
@@ -46,7 +46,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   &nbsp;</p></div>\n      \n\n            <div class=\"field field--name-field-article-date
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-10-02T12:00:00Z\"
   class=\"datetime\">October 2 2025</time>\n</div>\n      \n    </div>\n  </div>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Bellevue

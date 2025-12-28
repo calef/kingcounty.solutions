@@ -5,7 +5,7 @@ feed_content: Seattle police arrested a 25-year-old man for Driving Under the In
   Saturday night. On Dec. 6 at about 11:40 p.m., patrol officers responded to a vehicle
   colli...
 feed_content_checksum: 5c543a64d0a154c02f239b113f36b99552d59c0a
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

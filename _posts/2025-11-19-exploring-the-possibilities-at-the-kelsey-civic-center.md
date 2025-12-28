@@ -1,6 +1,6 @@
 ---
 date: '2025-11-19T20:28:47+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>At Mercy Housing California, we build communities with residents in mind. Places where people of all abilities can thrive, connect, and feel at home.</p>
@@ -12,7 +12,7 @@ feed_content: |-
   <p>&#8220;My neighbors are friendly, and they’ve helped me settle into the community. We have many different kinds of people living here. It’s important for people with and without disabilities to be neighbors because it gives people a chance to get to know each other.</p>
   <p>Rory’s words reflect the heart of what we strive to create: inclusive, welcoming communities where everyone belongs.</p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/exploring-the-possibilities-at-the-kelsey-civic-center/">Exploring the possibilities at The Kelsey Civic Center</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Mercy Housing
 published: false

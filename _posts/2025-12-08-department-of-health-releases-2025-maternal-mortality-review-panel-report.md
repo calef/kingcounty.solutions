@@ -1,6 +1,6 @@
 ---
 date: '2025-12-08T17:09:53+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span>Department of Health Releases 2025 Maternal Mortality Review
   Panel Report</span>\n\n            <div>\n<time>December 8, 2025 - 9:03am</time>\n</div>\n
@@ -72,7 +72,7 @@ feed_content: "<span>Department of Health Releases 2025 Maternal Mortality Revie
   your source for a healthy dose of information. Get updates by following us on <a>social
   media</a>.</p>\n\n<p>###</p>\n</div>"
 feed_content_checksum: d07aae10643bc3b1423d61c3d33d516a0eff5ef0
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

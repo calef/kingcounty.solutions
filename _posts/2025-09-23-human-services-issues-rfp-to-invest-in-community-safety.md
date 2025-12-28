@@ -1,13 +1,13 @@
 ---
 date: '2025-09-23T22:31:42+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The City of Seattle Human Services Department announced today the launch
   a Request for Proposals (RFP) process that will provide nearly $15 million to advance
   a connected continuum of prevention, intervention and restoration related to community
   safety.&#160; Selected providers will offer services to reduce gun violence, stabilize
   individuals and families, and strengthen neighborhoods. The funding [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

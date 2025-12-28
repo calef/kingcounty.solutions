@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10T11:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Robert W. Burrage Joins Operation Homefront’s National Board of Directors</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
@@ -54,7 +54,7 @@ feed_content: |-
   <p><strong>Media Inquiries:</strong><br><strong>Erin Burgy, Senior Director, Integrated Public Relations</strong><br><a>Erin.Burgy@OperationHomefront.org <br></a>(469) 934-7131</p>
   <p>The post <a>Robert W. Burrage Joins National Board of Directors</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 5577118bccc266500eeecdad8c11429464830f70
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Operation Homefront

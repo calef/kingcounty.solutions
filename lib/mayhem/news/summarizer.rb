@@ -14,6 +14,8 @@ require_relative '../feed/discovery'
 require_relative '../summarizer/helpers'
 require_relative '../content/article_body_extractor'
 
+# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+
 module Mayhem
   module News
     class PostSummarizer
@@ -37,12 +39,10 @@ module Mayhem
 
       def initialize(
         posts_dir: POSTS_DIR,
-        topic_repo: nil,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         events_dir: EVENTS_DIR,
         client: nil,
-        topic_model: DEFAULT_TOPIC_MODEL,
         http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         topic_classifier: nil,
@@ -56,8 +56,6 @@ module Mayhem
         @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
-                              topic_repo: topic_repo,
-                              model: topic_model,
                               client: @client,
                               logger: @logger
                             )
@@ -121,10 +119,12 @@ module Mayhem
           return
         end
 
+        existing_summary = document.body&.strip
         needs_summary = front_matter['summarized'] != true
         needs_topic_titles = needs_classification?(front_matter, 'topic_titles')
         needs_location_titles = needs_classification?(front_matter, 'location_titles')
-        return unless needs_summary || needs_topic_titles || needs_location_titles
+        summary_missing = front_matter['summarized'] == true && existing_summary.to_s.empty?
+        return unless needs_summary || needs_topic_titles || needs_location_titles || summary_missing
 
         source_url = front_matter['source_url']
         if needs_summary && source_url.nil?
@@ -155,6 +155,7 @@ module Mayhem
           if article_text.to_s.empty?
             @logger.warn "Skipping #{file_path}: no usable content to summarize"
             stats[:failed_summary] += 1
+            mark_unsummarizable(document, front_matter)
             return
           end
           if article_text.length > MAX_ARTICLE_CHARS
@@ -175,6 +176,7 @@ module Mayhem
         end
 
         summary_text ||= document.body&.strip || ''
+        summary_missing = summary_text.to_s.strip.empty?
 
         if needs_topic_titles
           classified_topic_titles = @topic_classifier.classify(summary_text)
@@ -199,7 +201,8 @@ module Mayhem
         end
 
         # Set published to false if either topic titles or location titles are empty
-        should_unpublish = (needs_topic_titles && Array(front_matter['topic_titles']).empty?) ||
+        should_unpublish = summary_missing ||
+                           (needs_topic_titles && Array(front_matter['topic_titles']).empty?) ||
                            (needs_location_titles && Array(front_matter['location_titles']).empty?)
 
         document.front_matter = front_matter
@@ -292,6 +295,16 @@ module Mayhem
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
         @logger.info "News summarization complete: #{summary_text}"
+      end
+
+      # Ensure required fields are present even when we cannot summarize due to missing content
+      def mark_unsummarizable(document, front_matter)
+        front_matter['summarized'] = true
+        front_matter['topic_titles'] = []
+        front_matter['location_titles'] = []
+        document.front_matter = front_matter
+        document.save
+        @news_pruner.unpublish(document.path, document)
       end
 
       def prefer_fallback_body?(scraped_text, fallback_body)

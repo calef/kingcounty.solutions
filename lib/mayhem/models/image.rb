@@ -26,6 +26,27 @@ module Mayhem
       def image_url
         self['image_url']
       end
+
+      def news
+        require_relative 'news'
+        related_records(Mayhem::Models::News)
+      end
+
+      def events
+        require_relative 'event'
+        related_records(Mayhem::Models::Event)
+      end
+
+      private
+
+      def related_records(model)
+        checksum_value = checksum.to_s.strip
+        return [] if checksum_value.empty?
+
+        model.all.select do |record|
+          Array(record.image_checksums).map(&:to_s).map(&:strip).include?(checksum_value)
+        end
+      end
     end
   end
 end

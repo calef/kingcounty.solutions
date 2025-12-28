@@ -5,7 +5,7 @@ feed_content: The City of Auburn Emergency Management issued a Level 2 (Get Set)
   St. NE east of M St. NE and north of 4th St. NE and surrounding neighborhoods. And,
   residents on the east side of Green River along […]
 feed_content_checksum: 96288b5ce0ed010a87e3b3e2c969eadda8090eda
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

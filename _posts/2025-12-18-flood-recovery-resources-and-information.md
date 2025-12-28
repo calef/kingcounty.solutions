@@ -1,6 +1,6 @@
 ---
 date: '2025-12-18T00:03:17+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Recovering from this month’s flooding may be overwhelming and stressful.
   King County’s priority is keeping you safe and supporting your needs after the disaster.
@@ -8,7 +8,7 @@ feed_content: Recovering from this month’s flooding may be overwhelming and st
   that will be vital in the days and weeks ahead. Please visit kingcounty.gov/flood-recovery
   to learn more.
 feed_content_checksum: 2f51448ca90ab65a3f3bc6ce2ceac2e214316424
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

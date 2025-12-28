@@ -4,7 +4,7 @@ feed_content: |-
   <p>Did you know that before it was Seattle’s first city park, Denny Park was Seattle’s first municipal cemetery? Created on land donated by David and Louisa Denny, burials started in the 1860s and continued until 1884 when Mayor Henry G. Struve signed Ordinance 571 to convert Seattle Cemetery into a public park. Commissioners were appointed […]</p>
   <p>The post <a>Seattle Cemetery Removal/Reburial Register</a> appeared first on <a>Primary Sources</a>.</p>
 feed_content_checksum: a46899371bd4715ab78f7265136f4796ebbe911d
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -41,7 +41,7 @@ feed_content: '<a id="main-content" href="#main_content" class="screen-reader-sh
   class="ab-item ab-empty-item" tabindex="-1" role="menuitem"><form action="https://sites.uw.edu/uwisc/"
   method="get" id="adminbarsearch"> <label for="adminbar-search" class="screen-reader-text">Search</label>
   </form></div></li> </ul> </div> </div>'
-image_ids: []
+image_checksums: []
 location: Gowen Hall (GWN)
 location_titles:
 - King County

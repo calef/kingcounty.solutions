@@ -1,6 +1,6 @@
 ---
 date: '2025-12-23T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This year brought many changes to the federal job application process, transforming how candidates navigate applying to careers in public service. In this edition of the Year in Review, we’re taking another look at 2025’s biggest application changes and what they mean for job seekers. </p>
@@ -67,7 +67,7 @@ feed_content: |-
 
   <p></p>
 feed_content_checksum: b8205a4cc40e4a67426fcb054d907b65ee4b530a
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

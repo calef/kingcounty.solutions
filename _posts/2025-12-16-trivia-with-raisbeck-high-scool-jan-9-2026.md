@@ -7,7 +7,7 @@ feed_content: |-
 
   <p>Come in and test your knowledge with trivia hosted by students from Raisbeck High School! You never know what odd facts and figures may come in handy for different questions and categories, so try your luck! RSVPs appreciated. </p>
 feed_content_checksum: 3aa049ce1b6be3bdddc2af150b4768d59e428e60
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: |-

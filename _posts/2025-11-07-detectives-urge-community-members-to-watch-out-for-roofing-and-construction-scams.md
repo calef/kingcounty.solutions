@@ -1,12 +1,12 @@
 ---
 date: '2025-11-07T22:35:58+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Seattle police detectives urge community members to be wary of fraudulent
   roofing and construction scammers that recently stole $74,000 from a Seattle resident.&#160;
   On Oct. 27, a 53-year-old developmentally delayed victim living near the Ravenna
   neig...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

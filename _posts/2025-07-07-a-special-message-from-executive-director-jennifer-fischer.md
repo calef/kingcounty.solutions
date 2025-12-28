@@ -1,6 +1,6 @@
 ---
 date: '2025-07-07T16:00:20+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
@@ -20,7 +20,7 @@ feed_content: |-
 
 
   <p></p><p>The post <a href="https://www.bellevuelifespring.org/impact/special-message/">A special message from Executive Director Jennifer Fischer</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/impact/special-message/">A special message from Executive Director Jennifer Fischer</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Bellevue LifeSpring

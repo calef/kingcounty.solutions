@@ -1,12 +1,12 @@
 ---
 date: '2025-12-17T19:36:38+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Last month, thanks to the efforts of local elected officials and in partnership with Lake City Partners (LCP), Low Income Housing Institute (LIHI), Salvation Army, and Urban League, we were able to open the first four seasonal shelters in Seattle. </p>
   <p>The post <a>Why Seasonal Shelter is Necessary </a> appeared first on <a>KCRHA</a>.</p>
 feed_content_checksum: 012ed001d27fbc6e9a5e65308cd2dab56c23ae14
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

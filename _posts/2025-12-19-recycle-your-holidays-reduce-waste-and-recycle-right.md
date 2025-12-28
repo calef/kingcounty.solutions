@@ -5,7 +5,7 @@ feed_content: The holidays bring celebration, connection, and a lot of extra stu
   less waste and a greener season. Seattle Public Utilities is here to help you recycle
   right, prevent ...
 feed_content_checksum: 934096acb115a0ca80ab494645fc81d7b89950dc
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -125,7 +125,7 @@ class EventSummarizerTest < Minitest::Test
                   'feed_content' => '<article>Body text</article>',
                   'feed_content_checksum' => 'abc'
                 }, '')
-    write_post('post-one', { 'events' => [slug] })
+    write_post('post-one', { 'event_ids' => ["#{slug}.md"] })
 
     summarizer = build_summarizer(
       client_response: { 'choices' => [{ 'message' => { 'content' => 'Refined summary.' } }] },
@@ -147,7 +147,7 @@ class EventSummarizerTest < Minitest::Test
     assert_empty Array(document.front_matter['location_titles'])
     post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'), logger: @logger)
 
-    assert_empty Array(post_doc.front_matter['events'])
+    assert_empty Array(post_doc.front_matter['event_ids'])
   end
 
   def test_run_records_original_source_html_for_generated_event
@@ -264,7 +264,7 @@ class EventSummarizerTest < Minitest::Test
                   'start_date' => '2025-06-06',
                   'location' => 'Virtual',
                   'summarized' => true,
-                  'image_ids' => ['https://example.com/event.jpg']
+                  'image_checksums' => ['https://example.com/event.jpg']
                 }, 'This event has no relevant locations.')
 
     summarizer = build_summarizer(
@@ -279,7 +279,7 @@ class EventSummarizerTest < Minitest::Test
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
 
     assert_empty document.front_matter['location_titles']
-    assert_empty document.front_matter['image_ids']
+    assert_empty document.front_matter['image_checksums']
     refute document.front_matter['published']
   end
 

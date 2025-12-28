@@ -394,7 +394,7 @@ feed_content: '<a href="#main_content" class="screen-reader-shortcut">Skip to ma
   target="_blank">Sustainability Action Plan</a></div> <div><a class="uw-btn" href="/newsletters"
   target="_blank">Newsletter Signup</a></div> </section> </div> </aside> </aside>
   </div> </div> </section> </div> </div> </div> </div>'
-image_ids: []
+image_checksums: []
 location: Student Union Building (HUB)
 location_titles:
 - King County

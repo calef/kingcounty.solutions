@@ -6,7 +6,7 @@ feed_content: As of Wednesday morning, December 10, multiple roads are closed th
   closures and restrictions in unincorporated King County, go to kingcounty.gov/mycommute.
   For state roads and highways, go […]
 feed_content_checksum: 845f429a294f3c977fae22ce7fbc73c2acdc51d6
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

@@ -5,7 +5,7 @@ feed_content: Seattle police officers arrested a 34-year-old man for Residential
   officers responded to an in-progress burglary in the 10700 block of Exeter Avenue
   Northeast. Acc...
 feed_content_checksum: b7e163414ca05f66d5d4a626fef048a1273ffd61
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

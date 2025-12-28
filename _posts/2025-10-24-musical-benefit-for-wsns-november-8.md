@@ -1,6 +1,6 @@
 ---
 date: '2025-10-24T02:58:04+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="">It&#8217;s more than music!</p>
@@ -17,7 +17,7 @@ feed_content: |-
 
   <p class=""></p>
   <p>The post <a href="https://westsideneighborsshelter.org/musical-benefit-for-wsns-november-8/">Musical benefit for WSNS November 8</a> appeared first on <a href="https://westsideneighborsshelter.org">Westside Neighbors Shelter</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Westside Neighbors Shelter

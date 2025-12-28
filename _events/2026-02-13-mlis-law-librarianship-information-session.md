@@ -3,7 +3,7 @@ end_date: '2026-02-13T17:00:00-08:00'
 feed_content: Developing a startup from the ground up can feel intimidating, especially
   while navigating the uncertainty and pressure of entrepreneurship.After receiving
   his Master of Science in Information Management, Nishit Bhasin, ‘24,...
-image_ids: []
+image_checksums: []
 location: Zoom
 location_titles:
 - King County

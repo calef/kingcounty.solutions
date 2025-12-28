@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T19:55:09+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="has-text-align-center"><strong>January 14th, 2026</strong><br><strong>8:30am-12:00pm PDT</strong></p>
@@ -81,7 +81,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://soundgenerations.org/understanding-different-types-of-dementia-with-karin-taifour-ma-licsw-gmhs/">Understanding Different Types of Dementia with Karin Taifour, MA, LICSW, GMHS</a> appeared first on <a href="https://soundgenerations.org">Sound Generations</a>.</p>
-image_ids:
+image_checksums:
 - b678951db69a4cbeab464b508b223108c348665568bf62471ffc1ac42cb832f6
 location_titles:
 - King County

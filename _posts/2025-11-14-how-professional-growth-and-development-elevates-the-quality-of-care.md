@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14T23:24:34+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>For child care providers and early learning educators, serving the children and families in their community requires a commitment to lifelong learning. To elevate the quality of their care, it is important that providers have access to holistic, engaging, and culturally relevant continuous learning opportunities.</p>
@@ -49,7 +49,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/11/elevating-the-quality-of-care-how-access-to-professional-growth-and-development-opportunities-positively-impacts-providers/">How Professional Growth and Development Elevates the Quality of Care</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: BrightSpark

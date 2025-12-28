@@ -27,7 +27,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   Life Center Gym</p><p class=\"\">September10, 2025  9a-3p</p><p class=\"\">Sign
   up <a href=\"https://donate.bloodworksnw.org/donor/schedules/drive_schedule/95470\"
   target=\"_blank\">HERE</a></p>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: CarePoint Clinic
 published: false

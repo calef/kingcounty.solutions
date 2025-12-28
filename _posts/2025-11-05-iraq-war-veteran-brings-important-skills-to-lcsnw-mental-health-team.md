@@ -1,6 +1,6 @@
 ---
 date: '2025-11-05T23:30:06+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"et_pb_section et_pb_section_3 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
@@ -69,7 +69,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_3 blog-post-type et_sect
   post <a href=\"https://lcsnw.org/2025/11/iraq-veteran-mental-health-counselor/\">Iraq
   War veteran brings important skills to LCSNW Mental Health team</a> appeared first
   on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Lutheran Community Services Northwest
 published: false

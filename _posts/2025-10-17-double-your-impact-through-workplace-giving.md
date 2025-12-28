@@ -1,6 +1,6 @@
 ---
 date: '2025-10-17T21:13:03+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div class="wp-block-uagb-image uagb-block-db8ab62f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" src="https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-4-1.png" alt="" class="uag-image-9367" width="768" height="256" title="Fund Dev Newsletter Banners (4)" loading="lazy" role="img" /></figure></div>
@@ -61,7 +61,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/double-your-impact-through-workplace-giving/">Double Your Impact Through Workplace Giving!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-image_ids:
+image_checksums:
 - b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
 location_titles:
 - King County

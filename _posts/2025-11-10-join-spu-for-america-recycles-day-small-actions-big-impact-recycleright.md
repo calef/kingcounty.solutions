@@ -4,7 +4,7 @@ feed_content: Happy America Recycles Day! While it’s always important to recyc
   November 15th is a great day to give it some special attention and celebrate our
   planet. Here at SPU, we’ll be celebrating with you and sharing tips and tricks to
   help you recycle righ...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

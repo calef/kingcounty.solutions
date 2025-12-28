@@ -1,6 +1,6 @@
 ---
 date: '2025-10-10T17:28:10+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "### ![](https://encompassnw.org/wp-content/uploads/2025/10/Telehealth_1-300x300.png)Therapy
   That Works with Your Life\n\n#### ![❄](https://s.w.org/images/core/emoji/16.0.1/72x72/2744.png)
@@ -49,13 +49,13 @@ feed_content: "### ![](https://encompassnw.org/wp-content/uploads/2025/10/Telehe
   A randomized trial. JAMA Pediatrics, 174(5), 427–434. https://doi.org/10.1001/jamapediatrics.2020.0230\n\nSivaraman,
   S., & Fahnhorst, S. (2020). Comparison of in-person and telepractice service delivery
   for school-age children with speech sound disorders: A pilot study. American Journal
-  of Speech-Language Pathology, 29(4), 2382–2390. https://doi.org/10.1044/2020\\_AJSLP-20-00199\n\nKnutsen,
+  of Speech-Language Pathology, 29(4), 2382–2390. https://doi.org/10.1044/2020 AJSLP-20-00199\n\nKnutsen,
   J., Wolfe, A., Burke, B. L., Hepburn, S., Lindgren, S., & Coury, D. (2022). A systematic
   review of telehealth interventions for children and adolescents with neurodevelopmental
   disorders. Journal of Developmental & Behavioral Pediatrics, 43(9), 569–585. https://doi.org/10.1097/DBP.0000000000001064\n\nThe
   post [Telehealth: Helping Your Child Thrive—From Home!](https://encompassnw.org/telehealth-helping-your-child-thrive-from-home/)
   first appeared on [Encompass](https://encompassnw.org)."
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Encompass

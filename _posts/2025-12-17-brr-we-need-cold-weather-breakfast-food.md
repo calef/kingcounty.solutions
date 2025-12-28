@@ -1,6 +1,6 @@
 ---
 date: '2025-12-17T02:34:06+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Hot chocolate packs are one of the most-requested items at our morning warmup center. With just a little hot water, our clients can warm up inside as well as outside. Also popular are the big pot of self-serve oatmeal we make each morning, and the pancakes we serve with breakfast.</p>
@@ -60,7 +60,7 @@ feed_content: |-
   <p>Thank you!</p>
   <p>The post <a>Brr! We need cold-weather breakfast food!</a> appeared first on <a>Westside Neighbors Shelter</a>.</p>
 feed_content_checksum: b8a584700b90b941dfc6c5c4366b3f360f2ee701
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Westside Neighbors Shelter

@@ -8,6 +8,8 @@ require 'mayhem/images/pruner'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
+# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
+
 class NewsPrunerTest < Minitest::Test
   def setup
     @tmpdir = Dir.mktmpdir('news-pruner')
@@ -42,19 +44,19 @@ class NewsPrunerTest < Minitest::Test
 
     updated = Mayhem::FrontMatter::Document.load(post_path)
     refute updated.front_matter['published']
-    assert_empty updated.front_matter['image_ids']
+    assert_empty updated.front_matter['image_checksums']
     refute_path_exists File.join(@images_dir, "#{image_id}.md")
     assert_empty Dir.glob(File.join(@assets_dir, "#{image_id}.*"))
   end
 
   private
 
-  def write_post(filename, image_ids)
+  def write_post(filename, image_checksums)
     front_matter = {
       'title' => 'Test Post',
       'date' => Time.now.utc.iso8601,
       'source_url' => 'https://example.com',
-      'image_ids' => image_ids,
+      'image_checksums' => image_checksums,
       'published' => true
     }
     path = File.join(@posts_dir, filename)

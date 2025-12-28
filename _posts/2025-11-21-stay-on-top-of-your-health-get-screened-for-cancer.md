@@ -1,6 +1,6 @@
 ---
 date: '2025-11-21T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Screening requirements vary by cancer type</h2>
@@ -64,7 +64,7 @@ feed_content: |-
 
 
   <p><a href="https://www.prevention.va.gov/Healthy_Living/Get_Recommended_Screening_Tests_and_Immunizations_for_Women.asp" rel="noopener">Recommendations for women</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

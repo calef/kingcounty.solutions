@@ -1,11 +1,11 @@
 ---
 date: '2025-12-06T02:19:49+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Weekend Service Impacts Events Routes 50 and RapidRide C Line will be
   rerouted of SW Alaska Street between Fauntleroy Way SW and California Avenue SW
   from 9 a.m. to 10 p.m....
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Metro Transit

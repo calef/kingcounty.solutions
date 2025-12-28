@@ -1,6 +1,6 @@
 ---
 date: '2025-10-17T16:29:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: 'LIHI and other nonprofit housing providers are calling on the City
   of Seattle to add $10 million for tenant-based rental assistance - and we need your
@@ -9,7 +9,7 @@ feed_content: 'LIHI and other nonprofit housing providers are calling on the Cit
   care, transportation, child care, and other basic needs. With an eviction notice
   on their door, tenants are faced with the impossible decision to pay rent or to
   feed their...'
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

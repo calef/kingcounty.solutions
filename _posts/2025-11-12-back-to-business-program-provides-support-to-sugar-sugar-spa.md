@@ -1,12 +1,12 @@
 ---
 date: '2025-11-12T21:00:03+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: For Claudia McGinnis, her career in skincare started as a job, but quickly
   developed into passion. It started in 2008, when she started working at a dermatology
   clinic. She says that was where she fell in love with the industry. “What I love
   the most i...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

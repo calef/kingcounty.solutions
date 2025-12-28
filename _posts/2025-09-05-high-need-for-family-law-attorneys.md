@@ -1,6 +1,6 @@
 ---
 date: '2025-09-05T06:45:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   We are unable to meet the current demand in our family law clinics. Help us fill these critical slots by signing up to be a pro bono attorney!
@@ -14,7 +14,7 @@ feed_content: |-
   If you’re interested, learn more and sign up on our website: [elap.org/pro-bono](http://elap.org/pro-bono).
 
   The post [High need for family law attorneys](https://elap.org/high-need-for-family-law-attorneys/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

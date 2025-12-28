@@ -4,7 +4,7 @@ feed_content: Based on the Seattle Police Department’s exit from the Federal C
   Decree in September 2025, the Seattle Police Department must now adhere to Washington
   State law for any use of deadly force by an officer. In these situations, the department
   is sub...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

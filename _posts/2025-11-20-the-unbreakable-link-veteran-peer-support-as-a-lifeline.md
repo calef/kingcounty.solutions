@@ -1,6 +1,6 @@
 ---
 date: '2025-11-20T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Because sometimes the best support comes from a peer</h2>
@@ -80,7 +80,7 @@ feed_content: |-
 
 
   <p>You’ve had someone watch your back before, and you still do. Peer support means someone’s in your corner, ready to step in when you need it. Together, tomorrow can look a whole lot brighter.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

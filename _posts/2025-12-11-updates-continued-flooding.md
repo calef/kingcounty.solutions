@@ -6,7 +6,7 @@ feed_content: The atmospheric river event continues, with heavy rain and wind ac
   around the clock to support you and your communities, with more than 50 personnel
   from King County […]
 feed_content_checksum: cdbb9b99cd59c5bbb9d229d107e21c5824bd5603
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

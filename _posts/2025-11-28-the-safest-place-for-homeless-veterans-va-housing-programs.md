@@ -1,6 +1,6 @@
 ---
 date: '2025-11-28T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">How VA’s “Getting Veterans Off the Streets” initiative helped support unsheltered Veterans</h2>
@@ -103,7 +103,7 @@ feed_content: |-
 
 
   <p>Learn how to <a href="https://www.va.gov/HOMELESS/featuredarticles/so-you-wanna-house-homeless-Veterans.asp" rel="noopener">get involved with housing homeless Veterans</a>.</p>
-image_ids:
+image_checksums:
 - 22319f93a0fcf7df5976044ad21815d1b2c225578ab134330a260032e0a6815f
 location_titles:
 - King County

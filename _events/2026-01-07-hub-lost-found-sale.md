@@ -140,7 +140,7 @@ feed_content: '<a id="main-content" href="#main_content" class="screen-reader-sh
   of Washington Division of Student Life</a> <a href="http://www.washington.edu/boundless/"><h3
   class="be-boundless">Be boundless</h3></a> <h4>Connect with The HUB:</h4> <p>© 2025
   University of Washington | Seattle, WA</p> </div> </div> </div>'
-image_ids: []
+image_checksums: []
 location: Student Union Building (HUB)
 location_titles:
 - King County

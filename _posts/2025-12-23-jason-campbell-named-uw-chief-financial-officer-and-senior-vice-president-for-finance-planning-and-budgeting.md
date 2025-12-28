@@ -15,7 +15,7 @@ feed_content: |-
   <p><span>Campbell received his bachelor’s degree from the University of California, Santa Barbara, and a master’s degree in accounting from California State University, Sacramento.  </span></p>
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: a82cd3b7c98145e71eb44ac9b870b3c9dca304ae
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: University of Washington

@@ -1,6 +1,6 @@
 ---
 date: '2025-11-04T18:08:12+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: As the days grow shorter and the air turns crisp, November invites us
   to slow down and take stock of what really matters. Yet it’s often easier to notice
@@ -9,7 +9,7 @@ feed_content: As the days grow shorter and the air turns crisp, November invites
   Road , and it’s amazing how quickly that road can darken our mood. Gratitude, on
   the other hand, is like taking a detour in the best possible direction. It doesn’t
   erase...
-image_ids: []
+image_checksums: []
 location_titles:
 - Eastside
 organization_title: Eastside Friends of Seniors

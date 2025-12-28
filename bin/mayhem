@@ -112,7 +112,7 @@ module Mayhem
           default_max_posts: Mayhem::Topics::OrganizationAudit::DEFAULT_MAX_POSTS
         }
         options = parse_audit_topics_options(args, **defaults)
-        client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        client = ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         audit = Mayhem::Topics::OrganizationAudit.new(
           client: client,
           model: options[:model],

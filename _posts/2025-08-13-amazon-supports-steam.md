@@ -1,6 +1,6 @@
 ---
 date: '2025-08-13T21:03:39+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Partnering with Amazon has significantly enriched ReWA’s Youth Program by integrating advanced robotics into our STEAM curriculum. Through hands-on learning with the Path-Following Robot, students &#8211; many of whom lack access to such technology &#8211; are gaining essential 21st-century skills in coding, engineering, and automation.</p>
@@ -57,7 +57,7 @@ feed_content: |-
   </div>
   </div>
   <p>The post <a href="https://www.rewa.org/amazon-support-steam/">Amazon Supports STEAM</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
-image_ids:
+image_checksums:
 - 77d3b9655da06438e3592ef119b6baab332dd2636fd758579c857c9c5b1a408d
 - 13962a00b731a4247afe8a6c6149a0632d6dbb30d6b6dd6934175be97859050a
 - c1c7f193143a361a4fda79b7db3aefb4021cba3fa26cb1e0e4a2d835869e2c06

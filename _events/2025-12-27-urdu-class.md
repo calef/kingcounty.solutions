@@ -18,7 +18,7 @@ feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1
   <h3>Event Navigation</h3> <ul> <li><a><span>«</span> Urdu Class</a></li> <li><a>The
   Fajr Club <span>»</span></a></li> </ul> </div> </div> </div> </div> </div> </div>"
 feed_content_checksum: 6ed4ba07e81c867d5466a04b6322acc557b0e8c8
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

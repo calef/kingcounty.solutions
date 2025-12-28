@@ -1,6 +1,6 @@
 ---
 date: '2025-08-01T22:13:44+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-full"><a href="https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-57.png"><img loading="lazy" decoding="async" width="600" height="300" src="https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-57.png" alt="" class="wp-image-12384" srcset="https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-57.png 600w, https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-57-300x150.png 300w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></figure>
@@ -25,7 +25,7 @@ feed_content: |-
 
   <p>“Thanks to Carol and Peter Stewart, when great people come to work for Compass, we now have the resources to help their careers flourish,” added Teena Ellison, senior director of housing and services at Compass. &#8220;The staff who will benefit from their funding will not only be the rising leaders at our agency, but also create longevity in their careers in social services. When our staff grows, the care for our community grows too.&#8221;</p>
   <p>The post <a href="https://www.compasshousingalliance.org/2025/08/compass-housing-alliance-receives-a-major-gift-to-invest-in-early-career-staff/">Compass Housing Alliance receives a major gift to invest in early career staff</a> appeared first on <a href="https://www.compasshousingalliance.org">Compass Housing Alliance</a>.</p>
-image_ids:
+image_checksums:
 - 93f23e35ccdcb57d6139b74afe4098c13e93864fbc319c2347f490978fa46105
 location_titles:
 - King County

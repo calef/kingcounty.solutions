@@ -32,7 +32,7 @@ feed_content: '<div class="event-content"> <div class="event-container"> <div cl
   class="upcoming-title">Volunteer - Spread Joy this Holiday Season - Shift 2</h4></a>
   <p class="upcoming-description">Dec 13</p> </div> </div> </div> <p> <a href="/events">&lt;&lt;
   Back to Events</a> </p> </div> </div> </div>'
-image_ids: []
+image_checksums: []
 location: Garfield High School, 400 23rd Ave, Seattle, WA, 98122, United States
 location_titles:
 - King County

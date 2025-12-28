@@ -1,6 +1,6 @@
 ---
 date: '2025-07-09T19:42:26-07:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: June 2025Domestic abuse thrives in secrecy. It isolates, separates and
   leaves victims feeling completely alone. Our Rise support group is a safe place
@@ -9,7 +9,7 @@ feed_content: June 2025Domestic abuse thrives in secrecy. It isolates, separates
   type of abuse the Rise support group teaches about. I didn’t think I would survive
   it, but I am still here, seeking God and His plan for my life. Rise has not only
   been life
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Lighthouse NW

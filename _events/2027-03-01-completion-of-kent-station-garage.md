@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: Kent Station
 location_titles:
 - Kent

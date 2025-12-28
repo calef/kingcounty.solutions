@@ -4,7 +4,7 @@ feed_content: "<meta><meta><link><meta><meta><meta><link><link><script></script>
   Virtual Events Powered by Teams</title><script></script><link><noscript>You need
   to enable JavaScript to run this app.</noscript><div></div><div></div>"
 feed_content_checksum: 90cc687ab14bfeda401558d1963cb2f796b8b190
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

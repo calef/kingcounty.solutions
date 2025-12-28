@@ -1,6 +1,6 @@
 ---
 date: '2025-12-22T21:09:54+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><em><strong>As Seen in Seattle Weekly</strong></em></p>
@@ -26,7 +26,7 @@ feed_content: |-
   </div>
   <span></span><p>The post <a>Building a stronger community through compassionate mental health care</a> appeared first on <a>Valley Cities Behavioral Health Care</a>.</p>
 feed_content_checksum: 44e30ce78b4bfc82862012d5fb2cd8a6e8cc1198
-image_ids:
+image_checksums:
 - fd3008c54bac4e6136678e48db278cf11ff53143c9e437613aba7b34d225ac4f
 location_titles:
 - King County

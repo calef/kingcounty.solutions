@@ -3,7 +3,7 @@ date: '2025-12-18T02:21:30-08:00'
 feed_content: WINTHROP – Emergency work to repair the washout and mudslides that closed
   State Route 20 west of Winthrop for a week began Thursday, Dec. 18.
 feed_content_checksum: '080269fcbc52259ee48ba9119e9e31c726d3f50d'
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Washington State Department of Transportation
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:

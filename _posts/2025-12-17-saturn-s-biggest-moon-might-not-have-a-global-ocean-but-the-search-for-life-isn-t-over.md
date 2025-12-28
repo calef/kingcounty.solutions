@@ -44,7 +44,7 @@ feed_content: |-
   <p><em>This story was adapted from <a>a press release by NASA</a>.</em></p>
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 4c06ec9b7dbf3473387cafa9c20ffb3675a6e1ea
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: University of Washington

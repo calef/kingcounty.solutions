@@ -1,12 +1,12 @@
 ---
 date: '2025-11-25T21:59:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Do you want to learn more about doing business with the City? Do you
   want to know about how the City of Seattle works with women- and minority-owned
   businesses? Do you have questions about working with unions on City construction
   projects? Do you want ...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

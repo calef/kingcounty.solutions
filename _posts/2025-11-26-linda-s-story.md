@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T18:15:30+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p><strong>Participant Story: Linda’s Journey of Rediscovery</strong></p>\r\n\r\n\r\n\r\n<p>When
   Linda arrived at her first-ever retreat &#8230; after 30 years of living with cancer&#8230;
@@ -27,7 +27,7 @@ feed_content: "<p><strong>Participant Story: Linda’s Journey of Rediscovery</s
   own skin.</em></strong></p>\r\n\r\n\r\n\r\n<p><strong>Reflecting back, she offers
   this to others living with cancer: “I’m SO glad I went. This retreat truly changed
   my life and the way I live with my cancer.”</strong></p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

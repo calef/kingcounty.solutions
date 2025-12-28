@@ -1,10 +1,10 @@
 ---
 date: '2025-07-09T21:07:22+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: As we move into the heart of summer, it’s the perfect time to talk about
   something near and dear to all of us at Eastside Friends of...
-image_ids: []
+image_checksums: []
 location_titles:
 - Eastside
 organization_title: Eastside Friends of Seniors

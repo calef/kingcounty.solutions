@@ -6,7 +6,7 @@ feed_content: River levels in the SE Green Valley Road area between SE Auburn Bl
   morning. Drive towards the Whitney Bridge (up river or east) for safety. Do not
   go […]
 feed_content_checksum: 6c58f0ef5bddc5c8b1c29b8f93e5b0fbfe89634a
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

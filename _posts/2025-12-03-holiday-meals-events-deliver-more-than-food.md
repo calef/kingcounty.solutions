@@ -1,6 +1,6 @@
 ---
 date: '2025-12-03T11:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>For Military Families, Holiday Meals Events Deliver More Than Food</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
@@ -94,7 +94,7 @@ feed_content: |-
   <p>“Thank you,” he said. “Every little bit helps whenever we are trying to get to a good stable place after leaving the military. We have been fortunate to get where we are, where we’ve reached contentment, and that’s in part due to organizations and donors like yours who helped along with the way.” </p>
   <p>The post <a>Holiday Meals Events Deliver More Than Food </a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: bd63e62b319c672d9b31a487b3c2cd280386934d
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Operation Homefront

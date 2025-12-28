@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T14:10:15+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Editor’s note: This post contains links to jobs that are active at the time of publishing. Most job listings close seven to 30 days after publishing. The sharing of any non-VA information does not constitute an endorsement of products and services on the part of VA. Veterans should verify the information with the organization offering.</p>
@@ -184,7 +184,7 @@ feed_content: |-
 
 
   <p><a href="https://www.va.gov/outreach-and-events/events/77586/" rel="noopener">Norfolk, Va.: Hampton Roads Military Community Education Connect (Southside) – Thursdays</a></p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

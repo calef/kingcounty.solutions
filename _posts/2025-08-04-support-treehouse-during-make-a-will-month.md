@@ -1,6 +1,6 @@
 ---
 date: '2025-08-04T21:09:50+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><img loading="lazy" decoding="async" class="aligncenter wp-image-195847 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-1024x1024.png" alt="A Treehouse supporter uses our make-a-will partnership" width="1024" height="1024" srcset="https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-1024x1024.png 1024w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-300x300.png 300w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-150x150.png 150w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-1536x1536.png 1536w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3.png 1620w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p>
@@ -14,7 +14,7 @@ feed_content: |-
   <p><span data-contrast="auto">Treehouse is so grateful to supporters like Darian, whose forward-thinking <a href="https://www.treehouseforkids.org/take-action/give/#legacygiving" target="_blank" rel="noopener">legacy giving</a> contributions ensure our services can reach students in foster care whenever they need them. </span></p>
   <p><strong><i>To learn more about planned giving or legacy giving, contact <a href="mailto:plannedgiving@treehouseforkids.org">plannedgiving@treehouseforkids.org.</a></i></strong></p>
   <p>The post <a href="https://www.treehouseforkids.org/support-treehouse-during-make-a-will-month/">Support Treehouse during Make-a-Will Month</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
-image_ids:
+image_checksums:
 - d1e4e905960b1bf87b62d308bea7a0697ecd62c7cc0c7135fb0115f0c5daad92
 location_titles:
 - King County

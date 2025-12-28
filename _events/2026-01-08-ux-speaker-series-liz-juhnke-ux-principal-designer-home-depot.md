@@ -82,7 +82,7 @@ feed_content: "<div class=\"row\"> <section id=\"content\"> <section> <header> <
   <div id=\"block-boundless-block-23\"> <div> <h2>Connect with HCDE</h2> <p>      
             </p> <p><a class=\"btn btn-primary btn-sm\" href=\"/news/e-news\">Join
   our Mailing List</a></p> </div> </div> </section> </aside> </div>"
-image_ids: []
+image_checksums: []
 location: Sieg Building (SIG)
 location_titles:
 - King County

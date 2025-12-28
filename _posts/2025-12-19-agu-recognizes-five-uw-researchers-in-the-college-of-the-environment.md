@@ -20,7 +20,7 @@ feed_content: |-
   <p><a>Fang-Zhen Teng</a><u>,</u> a UW professor of Earth and space sciences, studies the ratio of elements and their isotopes in rocks and minerals to understand how planets form and evolve. His research introduced a new method for analysis involving isotopic “fingerprints” that allows scientists to learn about Earth’s crust, the composition of the mantle, the origins of magma and even the early solar system. Teng was inducted as a <a>Union Fellow</a>, a program that recognizes AGU members who have made exceptional contributions to Earth and space science through a breakthrough, discovery or innovation in their field.</p>
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 9a1172d8e7d4152e16784c79ec869955ee1fe37f
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: University of Washington

@@ -32,7 +32,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   <span>5:00 pm</span> </div> </li> </ul> </div> <p> <a> Back to events</a> </p> </div>
   </section> </div> </div> </div> </section>"
 feed_content_checksum: 52e201ea9e04ee5a64c861515df376f169a7f57a
-image_ids: []
+image_checksums: []
 location: Museum of Flight, 9404 East Marginal Way South, Seattle, WA, 98108, United
   States
 location_titles:

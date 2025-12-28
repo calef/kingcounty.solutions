@@ -1,6 +1,6 @@
 ---
 date: '2025-10-20T16:17:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "[The Housing Accountability Act](https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/Senate/5148-S2.SL.pdf?q=20251016092533)
   provides for voluntary and selected approval processes for local government housing
@@ -14,7 +14,7 @@ feed_content: "[The Housing Accountability Act](https://lawfilesext.leg.wa.gov/b
   to be inconsistent with state law, the jurisdiction must work with Commerce to make
   changes, may not deny affordable or moderate-income housing development and would
   be ineligible for certain state infrastructure grants and loans.\n\n[![](https://www.commerce.wa.gov/wp-content/uploads/2025/10/Selected-Review-procedure-cover.jpeg)](https://deptofcommerce.app.box.com/file/2010239759433?s=d4uluw4s4kpys8a7y2588vyt3ihp3nyu)"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

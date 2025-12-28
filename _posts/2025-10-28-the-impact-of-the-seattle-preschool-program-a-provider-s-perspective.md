@@ -1,6 +1,6 @@
 ---
 date: '2025-10-28T19:30:17+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>This year, state legislators made major cuts to many critical statewide early learning programs, leaving countless children and families without access to high-quality care. However, Seattle voters still have the opportunity to protect and expand early learning opportunities within the city by renewing the Family, Education, Preschool, and Promise (FEPP) levy in November.</p>
@@ -77,7 +77,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/the-impact-of-the-seattle-preschool-program-a-providers-perspective/">The Impact of the Seattle Preschool Program: A Provider’s Perspective</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-image_ids:
+image_checksums:
 - 73520e997ab6792a12cca20582b7d604b2734e0c28a9275feaf07de86f84d31e
 location_titles:
 - King County

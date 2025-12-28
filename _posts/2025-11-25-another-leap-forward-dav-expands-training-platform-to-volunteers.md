@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T15:16:24+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
   decoding=\"async\" class=\"alignleft wp-image-54347 size-medium\" src=\"https://www.dav.org/wp-content/uploads/iTRAK_1_Featured-300x211.jpg\"
@@ -41,7 +41,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriorit
   to evolve.</p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/another-leap-forward-dav-expands-training-platform-to-volunteers/\">Another
   leap forward: DAV expands training platform to volunteers</a> appeared first on
   <a href=\"https://www.dav.org\">DAV</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Disabled American Veterans

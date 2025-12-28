@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T14:52:27+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
   decoding=\"async\" class=\"alignleft wp-image-55497 size-full\" src=\"https://www.dav.org/wp-content/uploads/VolNewsletter-2025.jpg\"
@@ -62,7 +62,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriorit
   of your departments and chapters depend directly on how committed you are to providing
   an outlet for people to serve veterans.</p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/the-future-of-dav-belongs-to-those-who-serve/\">The
   future of DAV belongs to those who serve</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Disabled American Veterans

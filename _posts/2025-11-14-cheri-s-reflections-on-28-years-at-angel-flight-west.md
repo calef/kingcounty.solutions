@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14T19:55:26+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p>Greetings AFW Angels,<br><br>When our newsletter editor Jess asked
   me if I wanted to write my column this issue, I said yes. I wanted to reflect on
@@ -65,7 +65,7 @@ feed_content: "<p>Greetings AFW Angels,<br><br>When our newsletter editor Jess a
   post <a href=\"https://angelflightwest.org/news/cheris-reflections-on-28-years-at-angel-flight-west/\">Cheri’s
   Reflections on 28 Years at Angel Flight West</a> first appeared on <a href=\"https://angelflightwest.org\">Angel
   Flight West</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Angel Flight West

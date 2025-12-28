@@ -11,6 +11,8 @@ require_relative '../../../lib/mayhem/image_files/converter'
 require_relative '../../../lib/mayhem/image_files/validator'
 require_relative '../../../lib/mayhem/front_matter/document'
 
+# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
+
 module News
   class ImageExtractorEndToEndTest < Minitest::Test
     private
@@ -21,12 +23,12 @@ module News
       downloader_stub.expect(:download, { data: 'image-data', ext: '.png' }) do |url, stats|
         url.is_a?(String) && stats.is_a?(Hash)
       end
-      
+
       converter_stub = Minitest::Mock.new
       converter_stub.expect(:convert_to_webp, ['image-data', '.webp']) do |data, ext, url|
         data.is_a?(String) && ext.is_a?(String) && url.is_a?(String)
       end
-      
+
       validator_stub = Minitest::Mock.new
       validator_stub.expect(:meets_minimum_dimensions?, true) do |data, url, stats|
         data.is_a?(String) && url.is_a?(String) && stats.is_a?(Hash)
@@ -77,7 +79,7 @@ module News
         extractor.run
 
         document = Mayhem::FrontMatter::Document.load(post_path)
-        checksums = document.front_matter['image_ids']
+        checksums = document.front_matter['image_checksums']
 
         refute_nil checksums
         assert_equal 1, checksums.length
@@ -86,7 +88,7 @@ module News
         image_doc_path = File.join(images_dir, "#{checksum}.md")
 
         assert_path_exists image_doc_path, 'expected image document to be created'
-        
+
         stubs.each(&:verify)
       end
     end
@@ -126,11 +128,11 @@ module News
         extractor.run
 
         document = Mayhem::FrontMatter::Document.load(event_path)
-        checksums = document.front_matter['image_ids']
+        checksums = document.front_matter['image_checksums']
 
         refute_nil checksums
         assert_equal 1, checksums.length
-        
+
         stubs.each(&:verify)
       end
     end
@@ -168,7 +170,7 @@ module News
         extractor.run
 
         document = Mayhem::FrontMatter::Document.load(post_path)
-        assert_nil document.front_matter['image_ids']
+        assert_nil document.front_matter['image_checksums']
       end
     end
   end

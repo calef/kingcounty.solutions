@@ -1,6 +1,6 @@
 ---
 date: '2025-11-17T20:49:30+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h4>Eddie Gonzalez</h4>
@@ -15,7 +15,7 @@ feed_content: |-
   <p><em><strong>#ArtistsForFoodJustice</strong>: </em><span>Twelve Washington artists from Black, Indigenous, People of Color (BIPOC) communities and marginalized identities interpret our monthly Meaning of Food themes through original digital artwork, premiering on the first day of each month. Learn more about this series and the artists</span> <a>here</a>.</p>
   <p>The post <a>Food is Joy: Eddie Gonzalez</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: c2f1e00df04151ffe416206e9a879fa723805be5
-image_ids:
+image_checksums:
 - c2a6981c6fb5e14ef585b642fc44bcb520f27f7b97b075b34c2f19a1de0dfa01
 - a4496bc91403db7f920ddd6c8e67fe2289d070bc8c40c583256adefc73735eb5
 location_titles:

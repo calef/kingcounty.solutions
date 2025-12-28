@@ -8,6 +8,8 @@ require 'mayhem/news/content_age_enforcer'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
+# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
+
 class ContentAgeEnforcerTest < Minitest::Test
   def setup
     @tmpdir = Dir.mktmpdir('content-age')
@@ -77,7 +79,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     FileUtils.mkdir_p(events_dir)
 
     # Create old post with event references
-    old_post = write_post_with_events('2025-01-01-old.md', 300, %w[event1 event2])
+    old_post = write_post_with_event_ids('2025-01-01-old.md', 300, %w[event1.md event2.md])
 
     # Create the events (one generated, one not)
     event1 = write_event(events_dir, 'event1', generated: true)
@@ -111,8 +113,8 @@ class ContentAgeEnforcerTest < Minitest::Test
     FileUtils.mkdir_p(events_dir)
 
     # Create two posts that reference the same event
-    old_post = write_post_with_events('2025-01-01-old.md', 300, ['shared-event'])
-    new_post = write_post_with_events('2025-12-01-new.md', 10, ['shared-event'])
+    old_post = write_post_with_event_ids('2025-01-01-old.md', 300, ['shared-event.md'])
+    new_post = write_post_with_event_ids('2025-12-01-new.md', 10, ['shared-event.md'])
 
     # Create the shared generated event
     shared_event = write_event(events_dir, 'shared-event', generated: true)
@@ -146,22 +148,22 @@ class ContentAgeEnforcerTest < Minitest::Test
     File.write(@config_path, config.to_yaml)
   end
 
-  def write_post(filename, days_ago, image_ids)
+  def write_post(filename, days_ago, image_checksums)
     date = @reference_time - (days_ago * 24 * 60 * 60)
     front_matter = {
       'date' => date.iso8601,
-      'image_ids' => image_ids
+      'image_checksums' => image_checksums
     }
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
   end
 
-  def write_post_with_events(filename, days_ago, events)
+  def write_post_with_event_ids(filename, days_ago, event_ids)
     date = @reference_time - (days_ago * 24 * 60 * 60)
     front_matter = {
       'date' => date.iso8601,
-      'events' => events
+      'event_ids' => event_ids
     }
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))

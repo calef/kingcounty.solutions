@@ -4,7 +4,7 @@ feed_content: Seattle police detectives are investigating the death of a 44-year
   man in Downtown Seattle this evening. At 6:23 p.m., patrol officers responded to
   reports of male down, bleeding, near Union Street and Convention Place. There, police
   found a man wi...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

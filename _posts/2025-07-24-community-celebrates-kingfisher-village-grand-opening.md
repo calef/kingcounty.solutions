@@ -1,10 +1,10 @@
 ---
 date: '2025-07-24T18:27:39+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: On July 23rd, Tacoma and Pierce County shelter and housing agencies
   and supporters gathered to celebrate the grand opening of Kingfisher...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Low Income Housing Institute
 published: false

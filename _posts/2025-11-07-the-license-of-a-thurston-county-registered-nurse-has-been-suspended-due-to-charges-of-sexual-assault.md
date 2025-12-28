@@ -1,6 +1,6 @@
 ---
 date: '2025-11-07T18:29:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">The license of a Thurston County registered nurse has been suspended due to charges of sexual assault</span>
@@ -33,7 +33,7 @@ feed_content: |-
   <p>Our <a href="https://www.doh.wa.gov/">website</a> is your source for a healthy dose of information. Get updates by following us on <a href="https://doh.wa.gov/about-us/contact-us/social-media">social media</a>.</p>
 
   <p class="text-align-center">###</p></div>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Health
 published: false

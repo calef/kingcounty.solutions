@@ -1,6 +1,6 @@
 ---
 date: '2025-11-18T00:11:25+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
@@ -157,7 +157,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   post <a href=\"https://ihdd.org/2025/11/17/full-circle-ben-moores-path-to-medicine/\">Full
   Circle: Ben Moore’s Path to Medicine</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
-image_ids:
+image_checksums:
 - c1daea9878c55828d97a15e27185c8678436e1c6e6c05f30457bf937f89c147e
 - a0ca0accd85a1c856ba7c5313a263bbad7f4473638f4749d10524c75e8af146d
 location_titles:

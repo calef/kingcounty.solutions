@@ -3,7 +3,7 @@ date: '2025-12-19T01:33:04-08:00'
 feed_content: SKYKOMISH – Emergency work to remove debris on US 2 east of Skykomish
   will begin Saturday, Dec. 20.
 feed_content_checksum: 428d2250748cc116fdf41f91043eddec44eeb3bb
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Washington State Department of Transportation

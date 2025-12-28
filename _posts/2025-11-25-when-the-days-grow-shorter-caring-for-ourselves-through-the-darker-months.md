@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T22:37:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: As the days grow shorter and Seattle settles into its season of clouds
   and early sunsets, many of us start to feel our energy dip. For older adults especially,
@@ -9,7 +9,7 @@ feed_content: As the days grow shorter and Seattle settles into its season of cl
   mood and mental health, sometimes showing up as fatigue, sadness, or a sense of
   isolation. We know how much light matters, and here in the Pacific Northwest, the
   lack of...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Eastside Friends of Seniors

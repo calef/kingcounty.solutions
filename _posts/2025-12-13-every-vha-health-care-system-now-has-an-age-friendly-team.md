@@ -1,6 +1,6 @@
 ---
 date: '2025-12-13T21:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Enhancing the well-being of aging Veterans</h2>
@@ -45,7 +45,7 @@ feed_content: |-
 
   <p></p>
 feed_content_checksum: f534921eb0134eb5585fb3000a1948b18b00bcde
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -6,7 +6,7 @@ feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/
   daily work to what our customers, workforce, and communities need. It helps us prepare
   for future challenges and opportunities. The energy world is changing fast, […]
 feed_content_checksum: 68ee7c528540d722297d406cf8ffd97c9db25855
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

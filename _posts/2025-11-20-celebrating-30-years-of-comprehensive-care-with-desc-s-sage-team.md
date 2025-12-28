@@ -1,13 +1,13 @@
 ---
 date: '2025-11-20T22:31:26+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: This year, we’re celebrating 30 years of our Support, Advocacy, Growth
   + Employment (SAGE) team — a program that recognizes that to view a client clinically,
   you must view them holistically. From therapy to medication management to peer counseling,
   SAGE considers every client’s physical, emotional, medical, social, and spiritual
   needs. Over the past three decades, [&#8230;]
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: DESC

@@ -1,6 +1,6 @@
 ---
 date: '2025-12-19T15:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Navy Veteran quits tobacco, feels like a million bucks</h2>
@@ -41,7 +41,7 @@ feed_content: |-
 
   <p>If you are thinking about quitting, VA is here to help Veterans through its <a>tobacco cessation program</a>. Talk with your primary care provider to get started. </p>
 feed_content_checksum: ff1e5704b95938ffd94d956bd1843eb7784c7328
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

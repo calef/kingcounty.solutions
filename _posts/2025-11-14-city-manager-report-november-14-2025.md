@@ -11,7 +11,7 @@ feed_content: City Council Meeting Roundup on Wednesday, November 12th, the Norm
   with our Court and provide the most benefit to Normandy Park residents. Even with
   the approved increases, this agreement is still the most affordable option available
   to us for our short-term commitments.
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Normandy Park
 published: false

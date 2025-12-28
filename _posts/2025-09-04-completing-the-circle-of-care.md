@@ -1,6 +1,6 @@
 ---
 date: '2025-09-04T23:01:58+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p data-start="52" data-end="444">When Dr. Bonnie McGregor founded the Orion Center for Integrative Medicine in 2015, it was with one clear conviction: cancer care must treat the whole person. As a psychologist, researcher, and advocate, Dr. McGregor has long been passionate about bringing integrative and psychological care into the standard of cancer treatment—not as an afterthought, but as an essential part of healing.</p>
@@ -9,7 +9,7 @@ feed_content: |-
   <p data-start="1576" data-end="2125">Over the years, Dr. McGregor has learned that cancer patients’ needs evolve across the journey. At diagnosis, information and clarity are essential. During treatment, integrative modalities can reduce side effects and provide calm. And often, the deepest emotional healing doesn’t begin until after treatment ends. Survivors may find themselves struggling to “feel better” long after their doctors have declared them disease-free. This is because cancer is traumatic, and the work of healing often comes later, when the body has regained strength.</p>
   <p data-start="2127" data-end="2732">What Dr. McGregor finds most fulfilling is accompanying people through these transitions—supporting patients and families at a time when life feels uncertain, yet also full of possibility for growth. In 2025, Orion merged with Cancer Lifeline, an organization Dr. McGregor had admired for years as a close neighbor in the Dorothy O’Brien Center. Joining forces has been a gift, combining their strengths to expand access and deepen the impact of integrative care across the community. Together, they are ensuring that cancer care addresses not only the body, but also the mind, spirit, and whole person.</p>
   <p> </p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

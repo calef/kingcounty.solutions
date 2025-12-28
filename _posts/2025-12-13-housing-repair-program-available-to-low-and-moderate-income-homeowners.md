@@ -1,6 +1,6 @@
 ---
 date: '2025-12-13T01:23:43+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: The King County Housing Repair program provides assistance to low and
   moderate-income homeowners, as well as renters with disabilities, in most parts
@@ -8,7 +8,7 @@ feed_content: The King County Housing Repair program provides assistance to low 
   at Housing Repair Program – King County, Washington to learn more about the process,
   how to access services, and eligibility […]
 feed_content_checksum: ced3579a0b01608bdb02ebce6ba75cd3c96243d1
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Emergency Management

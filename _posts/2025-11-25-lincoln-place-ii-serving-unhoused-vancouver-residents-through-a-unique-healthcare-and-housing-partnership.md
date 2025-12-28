@@ -1,6 +1,6 @@
 ---
 date: '2025-11-25T19:28:26+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="has-medium-font-size"><strong>Apple Health and Homes dollars will help house residents who benefit from supportive services after experiencing homelessness</strong></p>
@@ -70,7 +70,7 @@ feed_content: |-
 
 
   <p>Learn more about Lincoln Place II and other impactful properties on the <a href="https://vhausa.org/">Vancouver Housing Authority website</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: Department of Commerce
 published: false

@@ -1,6 +1,6 @@
 ---
 date: '2025-08-05T00:23:09+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">A resounding THANK YOU to everyone who joined us on Saturday
   for the culmination of our EF Hygiene Champions Summer Youth Program. This youth-led
@@ -97,7 +97,7 @@ feed_content: "<p class=\"\">A resounding THANK YOU to everyone who joined us on
   role=\"button\" class=\"previous\" aria-label=\"Previous Slide\"\n          ></a>\n
   \         <a tabindex=\"0\" role=\"button\" class=\"next\" aria-label=\"Next Slide\"\n
   \         ></a>"
-image_ids:
+image_checksums:
 - a3ad5672c0415ab3b55f50df22fff0eb2d8e5ad135b61b438a2e6651893dbbb3
 - 68bd3f001b178ff6d0e0c3012f4a3720a2409d0e6f2a53acb93479924465bdf6
 - 8bc9233385f60341e774b2f4982ef28ae6d50c2578e0cbd6dec37efd6c9de381

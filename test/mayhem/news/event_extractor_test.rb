@@ -8,6 +8,8 @@ require 'mayhem/news/event_extractor'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
+# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
+
 class EventExtractorTest < Minitest::Test
   def setup
     @tmpdir = Dir.mktmpdir('event-extractor')
@@ -97,7 +99,7 @@ class EventExtractorTest < Minitest::Test
 
     doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
     assert_nil doc.front_matter['events_extracted']
-    assert_nil doc.front_matter['events']
+    assert_nil doc.front_matter['event_ids']
     assert Dir.glob(File.join(@events_dir, '*.md')).empty?
   end
 
@@ -125,7 +127,7 @@ class EventExtractorTest < Minitest::Test
     doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
 
     assert doc.front_matter['events_extracted']
-    assert_empty doc.front_matter['events']
+    assert_empty doc.front_matter['event_ids']
 
     mock_chat_client.verify
   end
@@ -167,12 +169,13 @@ class EventExtractorTest < Minitest::Test
     doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
 
     assert doc.front_matter['events_extracted']
-    assert_equal 1, doc.front_matter['events'].size
+    assert_equal 1, doc.front_matter['event_ids'].size
 
     # Verify event was created
     event_files = Dir.glob(File.join(@events_dir, '*.md'))
 
     assert_equal 1, event_files.size
+    assert_equal File.basename(event_files.first), doc.front_matter['event_ids'].first
 
     event_doc = Mayhem::FrontMatter::Document.load(event_files.first, logger: @logger)
 
@@ -225,7 +228,7 @@ class EventExtractorTest < Minitest::Test
     doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
 
     assert doc.front_matter['events_extracted']
-    assert_empty doc.front_matter['events']
+    assert_empty doc.front_matter['event_ids']
 
     # Verify no event files were created
     event_files = Dir.glob(File.join(@events_dir, '*.md'))

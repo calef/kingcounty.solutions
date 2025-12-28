@@ -1,12 +1,12 @@
 ---
 date: '2025-11-13T21:35:25+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: Seattle police officers arrested a 42-year-old convicted felon last
   week, known to law enforcement for his violent behavior, after he repeatedly harassed
   a West Seattle travel agency. On Nov. 5, at about 9:50 a.m., patrol officers responded
   to a Court ...
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

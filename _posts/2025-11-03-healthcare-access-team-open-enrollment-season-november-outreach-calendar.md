@@ -1,6 +1,6 @@
 ---
 date: '2025-11-03T22:44:02+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Our Healthcare Access Team is dedicated to providing person-centered assistance to enable clients to make informed decisions about their healthcare coverage.
@@ -18,7 +18,7 @@ feed_content: |-
   &nbsp;
 
   The post [Healthcare Access Team Open enrollment season – November outreach calendar](https://cisc-seattle.org/healthcare-access-team-open-enrollment-season-november-outreach-calendar/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Chinese Information & Service Center

@@ -1,6 +1,6 @@
 ---
 date: '2025-09-09T21:16:23+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Funding
   available for Bellevue cross-cultural events and programs</span>\n<span class=\"field
@@ -42,7 +42,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"field field--name-field-article-date field--type-datetime field--label-hidden
   field__item\"><time datetime=\"2025-09-09T12:00:00Z\" class=\"datetime\">September
   9 2025</time>\n</div>\n      \n    </div>\n  </div>"
-image_ids:
+image_checksums:
 - 64d7a628db61d440e1f1ca0b442a944182ef2ced068c02562dbc317a3c638e1b
 location_titles:
 - King County

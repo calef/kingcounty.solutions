@@ -1,6 +1,6 @@
 ---
 date: '2025-12-05T19:53:33+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>Veterans are guided
   by a mindset of strength and discipline. Going the extra mile in uniform—literally,
@@ -38,7 +38,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>Veterans are guid
   recognized.</p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/what-veterans-should-know-about-vas-proposed-change-to-rating-scars/\">What
   veterans should know about VA’s proposed change to rating scars</a> appeared first
   on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Disabled American Veterans

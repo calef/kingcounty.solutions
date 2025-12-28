@@ -33,7 +33,7 @@ feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.25
   to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate Now</a></li> <li><a>Planned
   Giving</a></li> </ul> </div> </aside> </div> </div> </div> </div>"
 feed_content_checksum: c546560a1f7698d9c9382964e40a57df7e2db58f
-image_ids: []
+image_checksums: []
 location: "[ONLINE] Virginia Mason Franciscan Health"
 location_titles:
 - King County

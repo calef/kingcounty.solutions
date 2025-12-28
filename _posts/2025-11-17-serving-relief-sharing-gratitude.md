@@ -1,6 +1,6 @@
 ---
 date: '2025-11-17T11:00:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong><strong>Serving Relief, Sharing Gratitude: Holiday Meals for Military® Helps Families Weather Growing Financial Strain</strong></strong></p>
@@ -46,7 +46,7 @@ feed_content: |-
   <p>Media Inquiries: <br>Erin Burgy, Senior Director, Integrated Public Relations<br><a>Email Erin</a> or (469) 934-7131</p>
   <p>The post <a>Serving Relief, Sharing Gratitude</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 907838d0d46bd73182edef9dcf3434a74ab8ff77
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Operation Homefront

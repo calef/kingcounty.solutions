@@ -1,6 +1,6 @@
 ---
 date: '2025-09-18T18:58:55+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>TACOMA, Wash. — Six MultiCare Health System hospitals have been recognized by U.S. News &amp; World Report in its 2025–2026 edition of Best Hospitals, earning distinctions in both overall and specialty care:</p>
@@ -13,7 +13,7 @@ feed_content: |-
   <p>U.S. News evaluated more than 4,400 hospitals across 15 adult specialties and 22 procedures and conditions. Only 13% of hospitals earned a Best Hospitals designation, and just one-third received High Performing ratings. These distinctions reflect superior outcomes in areas such as risk-adjusted mortality rates, preventable complications and nursing care.</p>
   <p>For more information, visit <a target="_blank" href="https://health.usnews.com/best-hospitals/rankings?src=usn_pr" data-wpel-link="external" rel="external noopener noreferrer" class="wpel-icon-right">U.S. News &amp; World Report&#8217;s Best Hospitals<span class="wpel-icon wpel-image wpel-icon-6"></span></a>.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/09/multicare-hospitals-recognized-by-us-news-world-report-2025/" data-wpel-link="internal">MultiCare hospitals recognized by U.S. News &#038; World Report</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: MultiCare

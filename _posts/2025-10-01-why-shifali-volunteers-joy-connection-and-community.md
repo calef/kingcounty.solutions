@@ -1,6 +1,6 @@
 ---
 date: '2025-10-01T19:26:38+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">When Shifali moved to Seattle, she was looking for a
   place to volunteer where she could give back, build relationships, and become part
@@ -80,7 +80,7 @@ feed_content: "<p class=\"\">When Shifali moved to Seattle, she was looking for 
   class=\"sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element\"
   data-sqsp-button target=\"_blank\"\n  >\n    learn about our volunteer opportunities!\n
   \ </a>"
-image_ids:
+image_checksums:
 - 2f913eff6348b576ac8db4ee09184ae9bf3906afac0bed178231a162a1f9eb0d
 location_titles:
 - King County

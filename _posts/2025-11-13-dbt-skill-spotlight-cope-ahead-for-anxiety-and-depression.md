@@ -1,6 +1,6 @@
 ---
 date: '2025-11-13T18:48:38+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="p1">The holiday season is an intense time of year. There’s a lot of pressure to enjoy yourself, to spend time with people (even if you have a difficult relationship the rest of the year), and to cram your schedule with activities. Many of us have complicated feelings or painful memories about the holidays;<a href="https://www.va.gov/marion-health-care/stories/surviving-the-holidays-how-to-mind-our-mental-health/"><span class="s1"> it is a time of year that has a negative impact</span></a> on the mental health of a lot of people, especially those who already struggle with anxiety and depression.</p>
@@ -34,7 +34,7 @@ feed_content: |-
   <p class="p1">Cope Ahead can help you think through turning down invitations to parties or gatherings that get in the way of your routine. When you feel that familiar dread of anxiety creep up on you, anticipating arguments or confirmation of depression’s negative self-beliefs, Cope Ahead equips you to use DBT skills to communicate a need to stick to your routine without self-judgment. For example, you might choose to focus on both delivering your decision in a relaxed, easy way with the GIVE skill and sticking to your decision through the FAST skill.</p>
   <h2 class="p2">Intensive mental health treatment with THIRA Health can help you manage anxiety and depression this holiday season</h2>
   <p class="p3">You don’t have to face the holiday season alone. Cope Ahead is one of many DBT skills that can support people with anxiety and depression in making it through the disruption and pressure of the holiday season.<a href="https://thirahealth.com/contact/"><span class="s1"> We welcome you to connect with us</span></a> to get started today. This can be a holiday season where you can transcend the emotional dysregulation of anxiety and depression, creating for yourself a season of hope and renewal that reflects <span class="s2">your</span> needs and wants. <a href="https://thirahealth.com/overview/"><span class="s1">THIRA Health</span></a> offers holistic, comprehensive DBT-based intensive mental health treatment for teens and adults that provides the DBT life skills, therapeutic support, and community that can help those with anxiety and depression to feel that life is worth living every day!</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: THIRA Health

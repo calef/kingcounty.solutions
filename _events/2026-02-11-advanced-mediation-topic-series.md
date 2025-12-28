@@ -42,7 +42,7 @@ feed_content: "<div><div><span>Did you know we offer virtual office hours every 
   <li><a>Tiếng Việt</a></li> <li><a>Soomaaliga</a></li> <li><a>Español (América Latina)</a></li>
   <li><a>Русский</a></li> </ul></aside>"
 feed_content_checksum: 85b794f477f63bf5ebdb782e675d00f1ff7d30cc
-image_ids: []
+image_checksums: []
 location: ''
 location_titles:
 - King County

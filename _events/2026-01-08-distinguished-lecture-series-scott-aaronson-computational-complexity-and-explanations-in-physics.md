@@ -36,7 +36,7 @@ feed_content: '<article> <div> <h2>Computational Complexity and Explanations in 
   at least ten days in advance of the event at: (206) 543-6450/V, (206) 543-6452/TTY,
   (206) 685-7264 (FAX), or email at dso@u.washington.edu.</p> </div> </article>'
 feed_content_checksum: 36e209bf4c4db5d935754cae6d3821dcb5132da7
-image_ids: []
+image_checksums: []
 location: Gates Center (CSE2), G20 | Amazon Auditorium
 location_titles:
 - King County

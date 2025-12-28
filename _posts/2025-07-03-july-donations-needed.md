@@ -1,6 +1,6 @@
 ---
 date: '2025-07-03T21:46:05+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
@@ -18,7 +18,7 @@ feed_content: |-
 
 
   <p></p>
-image_ids:
+image_checksums:
 - 35d260c9b6bdd225f07a2dd042f380ebc74fa7c3786a5297bbed66ae09260953
 location_titles:
 - South King County

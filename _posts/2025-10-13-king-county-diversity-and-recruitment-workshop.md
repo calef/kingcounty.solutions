@@ -1,6 +1,6 @@
 ---
 date: '2025-10-13T22:40:45+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   Fire departments across King County are seeking future firefighters and are expanding their recruitment efforts to provide applicants with valuable information on navigating the hiring process. Mentors from the profession will also be available to workshop attendees.
@@ -8,7 +8,7 @@ feed_content: |-
   Don’t miss out on this chance to learn about the hiring process! The workshop is open to EVERYONE at least 16 years old. We encourage individuals with no prior fire service experience, as well as members of the BIPOC community, women, bilingual adults, and those from the LGBTQIA+ community, to attend.
 
   The post [King County Diversity and Recruitment Workshop](https://www.vrfa.org/2025/10/king-county-diversity-and-recruitment-workshop/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Valley Regional Fire Authority

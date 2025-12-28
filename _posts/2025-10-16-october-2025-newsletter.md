@@ -22,7 +22,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   \     \n\n    \n  \n\n\n  \n\n\n\n\n\n  <p class=\"\">Read our October 2025 newsletter
   \ <a href=\"https://carepointclinic.dm.networkforgood.com/emails/4243406?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t\"
   target=\"_blank\">HERE!</a></p>"
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: CarePoint Clinic
 published: false

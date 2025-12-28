@@ -11,7 +11,7 @@ feed_content: MESSAGE TO NORMANDY PARK RESIDENTIAL CUSTOMERS. Recently, the City
   kraft paper yard bags, or bundled using degradable string or twine. Bundles may
   be up to two feet in diameter by four feet in length and no more than fifty-five
   (55) pounds.
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Normandy Park
 published: false

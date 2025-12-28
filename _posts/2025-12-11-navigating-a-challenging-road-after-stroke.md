@@ -1,6 +1,6 @@
 ---
 date: '2025-12-11T19:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>The journey of Sergeant First Class Chris Scott</h2>
@@ -61,7 +61,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA Richmond Health care System site </a>and has been edited for style and clarity.  </p>
 feed_content_checksum: 53b376b695b7d572f34d06e7875b544d85d303e6
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

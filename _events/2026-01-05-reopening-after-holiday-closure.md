@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-image_ids: []
+image_checksums: []
 location: Sno-Valley Senior Center
 location_titles:
 - Snoqualmie Valley

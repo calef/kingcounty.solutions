@@ -1,7 +1,6 @@
 ---
 date: '2025-12-09T22:01:43+00:00'
-events:
-- 2025-12-23-donation-matching-campaign-deadline
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Dear Supporter,</p>
@@ -60,7 +59,7 @@ feed_content: |-
   <figure><img src="https://angelflightwest.org/wp-content/uploads/2025/12/IMG_3632-2-768x1024.jpeg"></figure>
   </figure><p>The post <a>A Holiday Letter from Our Executive Director </a> first appeared on <a>Angel Flight West</a>.</p>
 feed_content_checksum: 6813d45f0039f807954279383aded95e3623fd53
-image_ids:
+image_checksums:
 - 58a7228c5fc0c85bbb11e0439b3ad3386f024e899c3df225434ce4811db373d4
 - 4e1463625d66e251a621a5bffdfda0578a98bbaa809e865513fa428a87434d5f
 - b2cfd1d010b89360f11cafdfda45d318e1e6ab255330bbea180f2a49d29d0928

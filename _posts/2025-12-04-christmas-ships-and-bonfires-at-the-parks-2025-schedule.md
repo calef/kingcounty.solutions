@@ -4,7 +4,7 @@ feed_content: The Argosy Christmas Ships are an annual Seattle tradition. As
   of the festivities, a parade of brightly-lighted boats will cruise from Puget Sound
   to Lake Union and out to Lake Washington. Stopping at pre-planned locations, the
   lead ship hosts an ...
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: City of Seattle
 published: false

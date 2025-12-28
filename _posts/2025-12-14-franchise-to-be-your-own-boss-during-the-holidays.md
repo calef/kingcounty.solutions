@@ -1,6 +1,6 @@
 ---
 date: '2025-12-14T14:30:00+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>The sharing of non-VA information does not constitute an endorsement of products or services by the Department of Veterans Affairs. Veterans should always verify information with the organization offering the program.</p>
@@ -61,7 +61,7 @@ feed_content: |-
 
   <p>Vetrepreneur Franchise Coaches support and educate Veterans through a free, 10-step, 10-week process that enables them to make an informed decision on whether franchising is right for them and finding the best franchise match. Vetrepreneur Franchise Coaches are all Veterans or spouses themselves with extensive business and franchise experience. To apply to get a free Franchise Coach to work with, <a>view online</a>.</p>
 feed_content_checksum: b086a48a7459746877ddae2468b972bf7b3f89d0
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

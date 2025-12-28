@@ -1,6 +1,6 @@
 ---
 date: '2025-12-12T22:48:35+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t<p>Asthma
   is one of the most common chronic conditions affecting both children and adults.
@@ -38,7 +38,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   post <a>Breathe Easier This Season: Asthma and Allergy Care</a> appeared first on
   <a>Snoqualmie Valley Hospital</a>.</p>"
 feed_content_checksum: 4457ee43f8b347620f3cacd006c19a4cbffe543a
-image_ids: []
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

@@ -1,6 +1,6 @@
 ---
 date: '2025-09-17T19:38:23+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: "<p class=\"\">At Mary's Place, we're always excited to explore new
   ways to share the powerful stories of the families we're honored to serve. Recently,
@@ -36,7 +36,7 @@ feed_content: "<p class=\"\">At Mary's Place, we're always excited to explore ne
   title=\"mailto:social@alson.ai\">social@alson.ai</a>.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
   \ \n  \n\n\n\n\n  \n    <iframe allow=\"clipboard-write\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"
   src=\"https://heyzine.com/flip-book/e657ddd138.html\" class=\"fp-iframe\"></iframe>"
-image_ids: []
+image_checksums: []
 location_titles:
 - King County
 organization_title: Mary's Place

@@ -4,7 +4,7 @@ feed_content: The crew of the King County Water Taxi Sally Fox saw the person on
   Seacrest Dock in West Seattle as they were preparing to finish their trip across
   Elliott Bay on March 16. As they boarded passengers for the late morning trip back
   to downtown Seattle, Deckhand Zack Klaja noticed a person standing on&#8230;
-image_ids: []
+image_checksums: []
 location_titles: []
 organization_title: King County Ferry District
 published: false

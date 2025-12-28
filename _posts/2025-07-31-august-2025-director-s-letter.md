@@ -1,6 +1,6 @@
 ---
 date: '2025-07-31T15:40:51+00:00'
-events: []
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>I want to say thank you to everyone who contributed to our 4th of July Event! Our chefs for the event, Jim Ribail and Daniel Enciso, prepared over 175 delicious Spaghetti Dinners on Thursday, July 3rd. Our volunteers were wonderful help in the kitchen, dining room, checking people in, and selling raffle tickets. We also had great support from local businesses and donors, including Duvall Family Grocer, Duvall Safeway, Carnation Market, Farmhouse Market, and Susan &amp; JJ Schmoll.</p>
@@ -17,7 +17,7 @@ feed_content: |-
   <p>Kira Avery, Executive Director</p>
   <p>&nbsp;</p>
   <p>The post <a href="https://snovalleysenior.org/august-2025-directors-letter/">August 2025 Director&#8217;s Letter</a> appeared first on <a href="https://snovalleysenior.org">Sno-Valley Senior Center</a>.</p>
-image_ids: []
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Sno-Valley Senior Center
