@@ -65,6 +65,18 @@ module Mayhem
         end
       end
 
+      class ForbiddenError < StandardError
+        attr_reader :url, :origin_url, :operation, :status
+
+        def initialize(url:, origin_url:, operation:, status: 403)
+          super("HTTP #{status} for #{url}")
+          @url = url
+          @origin_url = origin_url
+          @operation = operation
+          @status = status
+        end
+      end
+
       class HttpError < StandardError
         attr_reader :url, :origin_url, :operation, :status, :response
 
