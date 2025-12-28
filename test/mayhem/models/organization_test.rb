@@ -5,6 +5,7 @@ require 'mayhem/models/organization'
 require 'mayhem/models/news'
 require 'mayhem/models/event'
 require 'mayhem/models/image'
+require 'mayhem/models/topic'
 
 class OrganizationModelTest < Minitest::Test
   def test_creates_and_reads_organizations
@@ -98,6 +99,24 @@ class OrganizationModelTest < Minitest::Test
       assert_nil record.parent_organization_title
       assert_nil record.website_url
       assert_equal [], record.website_xml_sitemap_urls
+    end
+  end
+
+  def test_topics_lookup_by_topic_titles
+    FMRepo::TestHelpers.with_temp_repo(role: :topics) do
+      topic = Mayhem::Models::Topic.create!(
+        { 'title' => 'Housing' },
+        body: 'Housing support details.'
+      )
+
+      FMRepo::TestHelpers.with_temp_repo(role: :organizations) do
+        record = Mayhem::Models::Organization.create!(
+          { 'title' => 'Topic Org', 'type' => 'Agency', 'topic_titles' => ['Housing', 'Missing'] },
+          body: 'Organization with topics.'
+        )
+
+        assert_equal [topic.id, nil], record.topics.map { |found| found&.id }
+      end
     end
   end
 
