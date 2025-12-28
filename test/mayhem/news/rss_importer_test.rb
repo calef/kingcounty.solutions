@@ -3,22 +3,26 @@
 require_relative '../../test_helper'
 require 'minitest/autorun'
 require 'webmock/minitest'
-require 'tmpdir'
 require_relative '../../../lib/mayhem/news/rss_importer'
+require 'mayhem/models/news'
+require 'mayhem/models/organization'
 
 class RssImporterTest < Minitest::Test
   def setup
-    @tmp_posts = Dir.mktmpdir
-    @tmp_orgs = Dir.mktmpdir
-    # create a minimal organization file with website_url and rss
-    org = <<~MD
-      ---
-      title: Test Org
-      website_url: https://example.com/
-      news_rss_url: https://example.com/feed.xml
-      ---
-    MD
-    File.write(File.join(@tmp_orgs, 'test-org.md'), org)
+    @org_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :organizations)
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @org_repo = Mayhem::Models::Organization.repo
+    @news_repo = Mayhem::Models::News.repo
+    @tmp_orgs = @org_repo.root.join('_organizations').to_s
+    @tmp_posts = @news_repo.root.join('_posts').to_s
+    Mayhem::Models::Organization.create!(
+      {
+        'title' => 'Test Org',
+        'website_url' => 'https://example.com/',
+        'news_rss_url' => 'https://example.com/feed.xml'
+      },
+      body: ''
+    )
 
     @published_time = Time.now.utc - 24 * 60 * 60
     # simple feed with one item with relative link
@@ -49,8 +53,8 @@ class RssImporterTest < Minitest::Test
   end
 
   def teardown
-    FileUtils.remove_entry(@tmp_posts)
-    FileUtils.remove_entry(@tmp_orgs)
+    @org_repo_override.cleanup if @org_repo_override
+    @news_repo_override.cleanup if @news_repo_override
   end
 
   def test_import_creates_post_with_valid_source_url
@@ -65,20 +69,18 @@ class RssImporterTest < Minitest::Test
   end
 
   def test_respects_locked_flag
-    locked_path = File.join(@tmp_posts, "#{@published_time.strftime('%Y-%m-%d')}-test-item.md")
-    File.write(
-      locked_path,
-      <<~MD
-        ---
-        title: Locked version
-        date: '#{@published_time.strftime("%Y-%m-%dT%H:%M:%S+00:00")}'
-        source_url: https://example.com/locked
-        feed_content: Locked body
-        locked: true
-        ---
-        Locked summary
-      MD
+    locked_record = Mayhem::Models::News.create!(
+      {
+        'title' => 'Locked version',
+        'date' => @published_time.iso8601,
+        'source_url' => 'https://example.com/locked',
+        'feed_content' => 'Locked body',
+        'locked' => true,
+        'slug' => 'test-item'
+      },
+      body: 'Locked summary'
     )
+    locked_path = locked_record.path.to_s
 
     locked_content = File.read(locked_path)
     @importer.run
