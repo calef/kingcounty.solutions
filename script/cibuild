@@ -2,5 +2,6 @@
 
 echo "Building the site"
 ./script/setup
+./script/bootstrap
 JEKYLL_ENV=production bundle exec jekyll build --drafts
 ./script/test
