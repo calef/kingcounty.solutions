@@ -78,6 +78,12 @@ module Mayhem
         end
       end
 
+      class ForbiddenError < HttpError
+        def initialize(url:, origin_url:, operation:, status: 403, response: nil)
+          super(url: url, origin_url: origin_url, operation: operation, status: status, response: response)
+        end
+      end
+
       def initialize(user_agent: UA, delay: DEFAULTS[:delay], max_redirects: DEFAULTS[:max_redirects],
                      timeout: nil, open_timeout: nil, read_timeout: nil,
                      max_retries: DEFAULTS[:max_retries],
