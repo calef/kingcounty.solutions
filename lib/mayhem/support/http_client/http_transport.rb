@@ -73,16 +73,13 @@ module Mayhem
         end
 
         def build_connection(uri, verify:, http_version:)
-          connection = Faraday.new(
+          Faraday.new(
             url: base_url_for(uri),
             ssl: { verify: verify },
             request: request_options
           ) do |builder|
             builder.adapter :typhoeus, http_version: http_version
           end
-          connection.options.timeout = @read_timeout
-          connection.options.open_timeout = @open_timeout
-          connection
         end
 
         def base_url_for(uri)
@@ -94,6 +91,9 @@ module Mayhem
           end
         end
 
+        # Sets default timeouts for all requests made with this connection.
+        # timeout: maximum time for the entire request (reading response)
+        # open_timeout: maximum time to establish the connection
         def request_options
           {
             timeout: @read_timeout,
