@@ -23,6 +23,18 @@ module Mayhem
           perform_http_request(uri, accept, OpenSSL::SSL::VERIFY_PEER, &)
         rescue OpenSSL::SSL::SSLError => e
           retry_without_verification(uri, accept, e, &)
+        rescue Net::HTTPBadResponse => e
+          raise unless chunked_response_error?(e)
+
+          @logger.warn "Bad chunked response for #{uri}, retrying with HTTP/1.0"
+          perform_http_request(
+            uri,
+            accept,
+            OpenSSL::SSL::VERIFY_PEER,
+            http_version: '1.0',
+            close_connection: true,
+            &
+          )
         end
 
         def execute_head(uri, operation: nil)
@@ -34,11 +46,11 @@ module Mayhem
 
         private
 
-        def perform_http_request(uri, accept, verify_mode, &block)
+        def perform_http_request(uri, accept, verify_mode, http_version: nil, close_connection: false, &block)
           http = build_http_connection(uri, verify_mode)
           response = nil
           http.start do |connection|
-            request = build_request(uri, accept)
+            request = build_request(uri, accept, http_version: http_version, close_connection: close_connection)
             response = if block_given?
                          connection.request(request) do |http_response|
                            block.call(http_response)
@@ -80,11 +92,13 @@ module Mayhem
           http.cert_store = OpenSSL::X509::Store.new.tap(&:set_default_paths)
         end
 
-        def build_request(uri, accept)
+        def build_request(uri, accept, http_version: nil, close_connection: false)
           Net::HTTP::Get.new(uri).tap do |request|
             request['User-Agent'] = @user_agent
             request['Accept'] = accept
             request['Accept-Encoding'] = 'identity'
+            request['Connection'] = 'close' if close_connection
+            request.version = http_version if http_version
           end
         end
 
@@ -111,6 +125,10 @@ module Mayhem
         def handle_terminal_ssl_error(uri, error)
           @logger.warn "SSL error for #{uri}: #{error.message}"
           raise error
+        end
+
+        def chunked_response_error?(error)
+          error.message.to_s.include?('wrong chunk size line')
         end
       end
     end
