@@ -261,6 +261,42 @@ class RssImporterMethodsTest < Minitest::Test
     assert @post_writer.send(:unchanged_post?, record, normalized_html, checksum, 'https://source')
   end
 
+  def test_unchanged_post_returns_false_without_record
+    refute @post_writer.send(:unchanged_post?, nil, 'body', 'checksum', 'https://source')
+  end
+
+  def test_unchanged_post_compares_normalized_html_with_link_base_url
+    html = '<img src="/path?utm_source=track">'
+    normalized_html = Mayhem::Content::HtmlNormalizer.normalize(html, base_url: 'https://example.com')
+    checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_html)
+    record = write_post({
+      'title' => 'Test',
+      'date' => Time.utc(2025, 11, 25).iso8601,
+      'feed_content' => html,
+      'source_url' => ''
+    })
+
+    assert @post_writer.send(:unchanged_post?, record, normalized_html, checksum, 'https://example.com')
+  end
+
+  def test_unchanged_post_returns_false_without_existing_content
+    record = Struct.new(:feed_content_checksum, :feed_content, :source_url, :path, :id)
+                   .new('old-checksum', nil, 'https://example.com', 'post.md', 'post.md')
+
+    refute @post_writer.send(:unchanged_post?, record, 'body', 'new-checksum', 'https://example.com')
+  end
+
+  def test_unchanged_post_returns_false_on_compare_error
+    record = Struct.new(:feed_content_checksum, :feed_content, :source_url, :path, :id)
+                   .new(nil, '<p>body</p>', 'https://example.com', 'post.md', 'post.md')
+
+    Mayhem::Content::HtmlNormalizer.stub(:normalize, ->(*_args) { raise StandardError, 'boom' }) do
+      refute @post_writer.send(:unchanged_post?, record, '<p>body</p>', 'checksum', 'https://example.com')
+    end
+
+    assert @logger.debugs.last.include?('Failed to compare existing post')
+  end
+
   def test_canonical_link_calls_http_for_redirect_hosts
     url = 'https://pubmed.ncbi.nlm.nih.gov/item'
     @fake_http.resolved_url = 'https://pubmed.ncbi.nlm.nih.gov/item?utm_source=ignore'
