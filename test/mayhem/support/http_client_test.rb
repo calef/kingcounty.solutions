@@ -119,7 +119,7 @@ class HttpClientTest < Minitest::Test
       raise error
     end) do
       assert_raises(Mayhem::Support::HttpClient::ForbiddenError) do
-        @client.fetch('https://example.com', accept: 'text/html', max_bytes: 0)
+        @client.fetch('https://example.com', accept: 'text/html')
       end
       assert_equal 1, call_count, 'Forbidden error should not be retried'
     end
