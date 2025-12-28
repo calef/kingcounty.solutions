@@ -12,7 +12,7 @@ module Mayhem
     # consistent behavior and makes unit testing easier.
     class Document
       include Mayhem::Loggable
-      
+
       PERMITTED_CLASSES = [Date, Time].freeze
 
       ParseResult = Struct.new(:front_matter, :body, :raw, keyword_init: true)

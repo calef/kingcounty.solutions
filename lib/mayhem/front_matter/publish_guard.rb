@@ -7,7 +7,7 @@ module Mayhem
     # Utility helpers for determining whether a Markdown document is purposely hidden.
     module PublishGuard
       extend Mayhem::Loggable
-      
+
       module_function
 
       def unpublished?(path)
