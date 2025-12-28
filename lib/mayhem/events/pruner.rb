@@ -78,10 +78,10 @@ module Mayhem
           document.front_matter = front_matter
           document.save
           posts_updated += 1
-          @logger.info "Cleaned event links from #{File.basename(post_path)}"
+          logger.info "Cleaned event links from #{File.basename(post_path)}"
         end
 
-        @logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links." if posts_updated.positive?
+        logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links." if posts_updated.positive?
       end
 
       def delete_file(path)

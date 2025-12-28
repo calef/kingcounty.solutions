@@ -81,10 +81,10 @@ module Mayhem
 
           case status
           when :not_found
-            @logger.info "Source URL not found for post #{record_label(record)}: #{source_url}"
+            logger.info "Source URL not found for post #{record_label(record)}: #{source_url}"
             with_pruner { unpublish_post(record) }
           when :error
-            @logger.warn "Error checking source URL for post #{record_label(record)}: #{source_url}"
+            logger.warn "Error checking source URL for post #{record_label(record)}: #{source_url}"
           end
         end
       end
@@ -99,10 +99,10 @@ module Mayhem
 
           case status
           when :not_found
-            @logger.info "Source URL not found for event #{record_label(record)}: #{source_url}"
+            logger.info "Source URL not found for event #{record_label(record)}: #{source_url}"
             with_pruner { delete_event(record) }
           when :error
-            @logger.warn "Error checking source URL for event #{record_label(record)}: #{source_url}"
+            logger.warn "Error checking source URL for event #{record_label(record)}: #{source_url}"
           end
         end
       end
@@ -120,7 +120,7 @@ module Mayhem
             rescue ThreadError
               break
             rescue StandardError => e
-              @logger.debug "Error processing #{record_label(record)}: #{e.class}: #{e.message}"
+              logger.debug "Error processing #{record_label(record)}: #{e.class}: #{e.message}"
             end
           end
         end

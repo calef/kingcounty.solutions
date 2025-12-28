@@ -116,7 +116,7 @@ module Mayhem
       end
 
       def skipped_response(page)
-        @logger.info(
+        logger.info(
           "Skipping content fetch for #{page[:final_url]} " \
           "(content-type: #{page[:content_type] || 'unknown'})"
         )
@@ -135,7 +135,7 @@ module Mayhem
 
         Mayhem::Support::UrlNormalizer.normalize(href, base: base_url)
       rescue StandardError => e
-        @logger.debug "Failed to extract canonical link from #{base_url}: #{e.message}"
+        logger.debug "Failed to extract canonical link from #{base_url}: #{e.message}"
         nil
       end
     end

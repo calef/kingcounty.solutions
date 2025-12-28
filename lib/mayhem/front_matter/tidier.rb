@@ -159,10 +159,10 @@ module Mayhem
         elsif markdown_file?(path)
           tidy_file(path)
         else
-          @logger.warn "Skipping non-Markdown target #{target}"
+          logger.warn "Skipping non-Markdown target #{target}"
         end
       rescue Errno::ENOENT
-        @logger.warn "Target not found: #{target}"
+        logger.warn "Target not found: #{target}"
       end
 
       def tidy_directory(directory)
@@ -177,9 +177,9 @@ module Mayhem
         return if normalized == content
 
         File.write(path, normalized)
-        @logger.info "Tidied front matter in #{path}"
+        logger.info "Tidied front matter in #{path}"
       rescue Mayhem::FrontMatter::Document::ParseError => e
-        @logger.warn "Skipping #{path}: #{e.message}"
+        logger.warn "Skipping #{path}: #{e.message}"
       end
 
       def markdown_file?(path)

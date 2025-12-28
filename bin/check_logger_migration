@@ -1,0 +1,106 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# Script to help migrate classes to use Loggable mixin
+# This script identifies what needs to be changed but doesn't make the changes automatically
+# to avoid errors. Use this as a checklist.
+
+require 'find'
+
+BASE_DIR = File.expand_path('..', __dir__)
+LIB_DIR = File.join(BASE_DIR, 'lib', 'mayhem')
+
+def has_logger_param?(file)
+  content = File.read(file)
+  content.match?(/def initialize.*logger:/)
+end
+
+def has_loggable?(file)
+  content = File.read(file)
+  content.match?(/include Mayhem::Loggable/)
+end
+
+def has_logger_ivar?(file)
+  content = File.read(file)
+  content.match?(/@logger\s*=\s*logger/)
+end
+
+def count_logger_calls(file)
+  content = File.read(file)
+  content.scan(/@logger\./).size
+end
+
+# Find all Ruby files
+ruby_files = []
+Find.find(LIB_DIR) do |path|
+  next unless File.file?(path) && path.end_with?('.rb')
+  ruby_files << path
+end
+
+# Analyze files
+needs_update = []
+already_updated = []
+
+ruby_files.each do |file|
+  has_param = has_logger_param?(file)
+  has_mixin = has_loggable?(file)
+  has_ivar = has_logger_ivar?(file)
+  call_count = count_logger_calls(file)
+  
+  rel_path = file.sub(BASE_DIR + '/', '')
+  
+  if has_mixin && !has_param && !has_ivar && call_count.zero?
+    already_updated << rel_path
+  elsif has_param || has_ivar || call_count.positive?
+    needs_update << {
+      path: rel_path,
+      has_param: has_param,
+      has_ivar: has_ivar,
+      has_mixin: has_mixin,
+      calls: call_count
+    }
+  end
+end
+
+puts "=" * 80
+puts "LOGGER MIGRATION STATUS"
+puts "=" * 80
+puts
+
+puts "Already updated (#{already_updated.size} files):"
+already_updated.sort.each { |f| puts "  ✓ #{f}" }
+puts
+
+puts "=" * 80
+puts "NEEDS UPDATE (#{needs_update.size} files):"
+puts "=" * 80
+needs_update.sort_by { |f| f[:path] }.each do |file|
+  puts
+  puts "#{file[:path]}"
+  puts "  - Has logger parameter: #{file[:has_param] ? 'YES' : 'no'}"
+  puts "  - Has @logger assignment: #{file[:has_ivar] ? 'YES' : 'no'}"
+  puts "  - Has Loggable mixin: #{file[:has_mixin] ? 'YES' : 'no'}"
+  puts "  - @logger calls: #{file[:calls]}"
+  
+  # Suggest actions
+  actions = []
+  actions << "Add 'include Mayhem::Loggable'" unless file[:has_mixin]
+  actions << "Remove 'logger:' parameter" if file[:has_param]
+  actions << "Remove '@logger = logger' assignment" if file[:has_ivar]
+  actions << "Replace #{file[:calls]} @logger calls with logger" if file[:calls].positive?
+  
+  if actions.any?
+    puts "  Actions needed:"
+    actions.each { |action| puts "    • #{action}" }
+  end
+end
+
+puts
+puts "=" * 80
+puts "SUMMARY"
+puts "=" * 80
+puts "Total files: #{ruby_files.size}"
+puts "Already updated: #{already_updated.size}"
+puts "Needs update: #{needs_update.size}"
+puts "Progress: #{(already_updated.size.to_f / ruby_files.size * 100).round}%"
+puts "=" * 80
