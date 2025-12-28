@@ -5,7 +5,8 @@ require_relative '../models/location'
 
 module Mayhem
   module Locations
-    class Repository      include Mayhem::Loggable
+    class Repository
+      include Mayhem::Loggable
 
       def initialize(
         location_repo: nil,

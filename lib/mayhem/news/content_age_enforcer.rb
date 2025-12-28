@@ -13,7 +13,8 @@ require_relative '../front_matter/document'
 
 module Mayhem
   module News
-    class ContentAgeEnforcer      include Mayhem::Loggable
+    class ContentAgeEnforcer
+      include Mayhem::Loggable
 
       POSTS_DIR = '_posts'
       IMAGES_DIR = '_images'
@@ -105,7 +106,7 @@ module Mayhem
 
       def posts_older_than(cutoff)
         Dir.glob(File.join(@posts_dir, '*.md')).each_with_object([]) do |path, memo|
-          document = Mayhem::FrontMatter::Document.load(path @logger)
+          document = Mayhem::FrontMatter::Document.load(path(@logger))
           next unless document
 
           published_at = parse_date(document.front_matter['date'])
@@ -149,7 +150,7 @@ module Mayhem
           next unless File.exist?(event_path)
 
           # Only remove events that were generated from posts
-          document = Mayhem::FrontMatter::Document.load(event_path @logger)
+          document = Mayhem::FrontMatter::Document.load(event_path(@logger))
           next unless document
           next unless document.front_matter['generated_from_post'] == true
 
@@ -169,8 +170,8 @@ module Mayhem
 
       def remaining_event_references
         counts = Hash.new(0)
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
-          document = Mayhem::FrontMatter::Document.load(path @logger)
+        Dir.glob(File.join(@posts_dir, '*.md')).each do |_path|
+          document = Mayhem::FrontMatter::Document.load(path(@logger))
           next unless document
 
           event_ids = document.front_matter['event_ids']

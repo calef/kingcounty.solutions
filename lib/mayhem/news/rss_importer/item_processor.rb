@@ -8,9 +8,11 @@ require_relative '../../support/url_normalizer'
 
 module Mayhem
   module News
-    class RssImporter      include Mayhem::Loggable
+    class RssImporter
+      include Mayhem::Loggable
 
-      class ItemProcessor        include Mayhem::Loggable
+      class ItemProcessor
+        include Mayhem::Loggable
 
         def initialize(item_parser:, canonicalizer:, content_fetcher:, duplicate_tracker:, post_writer:, max_item_age_days:)
           @item_parser = item_parser

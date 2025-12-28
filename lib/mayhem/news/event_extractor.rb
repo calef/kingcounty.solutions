@@ -13,7 +13,8 @@ require_relative '../content/html_normalizer'
 
 module Mayhem
   module News
-    class EventExtractor      include Mayhem::Loggable
+    class EventExtractor
+      include Mayhem::Loggable
 
       POSTS_DIR = '_posts'
       EVENTS_DIR = '_events'
@@ -29,7 +30,7 @@ module Mayhem
         @posts_dir = posts_dir
         @events_dir = events_dir
         @model = model
-        @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new( @logger)
+        @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(@logger)
       end
 
       def run
@@ -44,7 +45,7 @@ module Mayhem
       private
 
       def process_post(file_path, stats)
-        document = Mayhem::FrontMatter::Document.load(file_path @logger)
+        document = Mayhem::FrontMatter::Document.load(file_path(@logger))
         unless document
           stats[:skipped_no_frontmatter] += 1
           return
@@ -166,7 +167,8 @@ module Mayhem
         PROMPT
 
         messages = [
-          { role: 'system', content: 'You are a helpful assistant that extracts event information from news articles and returns valid JSON.' },
+          { role: 'system',
+            content: 'You are a helpful assistant that extracts event information from news articles and returns valid JSON.' },
           { role: 'user', content: prompt }
         ]
 

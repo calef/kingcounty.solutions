@@ -9,9 +9,11 @@ require_relative 'feed_stats'
 
 module Mayhem
   module News
-    class RssImporter      include Mayhem::Loggable
+    class RssImporter
+      include Mayhem::Loggable
 
-      class FeedRunner        include Mayhem::Loggable
+      class FeedRunner
+        include Mayhem::Loggable
 
         def initialize(http_client:, feed_sanitizer:, item_processor:)
           @http = http_client

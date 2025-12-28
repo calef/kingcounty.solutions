@@ -19,7 +19,8 @@ require_relative '../support/url_utils'
 
 module Mayhem
   module Organizations
-    class Generator      include Mayhem::Loggable
+    class Generator
+      include Mayhem::Loggable
 
       ORG_DIR = '_organizations'
       DEFAULT_TYPE = 'Community-Based Organization'
@@ -120,8 +121,8 @@ module Mayhem
       end
 
       def load_existing_websites
-        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
-          doc = Mayhem::FrontMatter::Document.load(path @logger)
+        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |_path, set|
+          doc = Mayhem::FrontMatter::Document.load(path(@logger))
           next unless doc
 
           website_url = doc.front_matter['website_url']
@@ -132,8 +133,8 @@ module Mayhem
       end
 
       def load_existing_types
-        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
-          doc = Mayhem::FrontMatter::Document.load(path @logger)
+        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |_path, set|
+          doc = Mayhem::FrontMatter::Document.load(path(@logger))
           next unless doc
 
           type = doc.front_matter['type']

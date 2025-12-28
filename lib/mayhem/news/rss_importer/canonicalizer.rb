@@ -5,9 +5,11 @@ require_relative '../../support/url_normalizer'
 
 module Mayhem
   module News
-    class RssImporter      include Mayhem::Loggable
+    class RssImporter
+      include Mayhem::Loggable
 
-      class Canonicalizer        include Mayhem::Loggable
+      class Canonicalizer
+        include Mayhem::Loggable
 
         CANONICAL_REDIRECT_HOSTS = %w[
           pubmed.ncbi.nlm.nih.gov

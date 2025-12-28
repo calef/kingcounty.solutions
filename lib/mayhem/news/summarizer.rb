@@ -18,8 +18,8 @@ require_relative '../content/article_body_extractor'
 
 module Mayhem
   module News
-    class PostSummarizer      include Mayhem::Loggable
-
+    class PostSummarizer
+      include Mayhem::Loggable
       include Mayhem::SummarizerHelpers
 
       POSTS_DIR = '_posts'
@@ -52,7 +52,7 @@ module Mayhem
       )
         @posts_dir = posts_dir
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-        @http = http_client || Mayhem::Support::HttpClient.new( @logger)
+        @http = http_client || Mayhem::Support::HttpClient.new(@logger)
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
                               client: @client
@@ -87,7 +87,7 @@ module Mayhem
       private
 
       def process_post(file_path, stats)
-        document = Mayhem::FrontMatter::Document.load(file_path @logger)
+        document = Mayhem::FrontMatter::Document.load(file_path(@logger))
         unless document
           stats[:skipped_no_frontmatter] += 1
           return
@@ -241,7 +241,8 @@ module Mayhem
               parameters: {
                 model: DEFAULT_MODEL,
                 messages: [
-                  { role: 'system', content: 'You are a helpful assistant who writes summaries that follow The Associated Press Stylebook.' },
+                  { role: 'system',
+                    content: 'You are a helpful assistant who writes summaries that follow The Associated Press Stylebook.' },
                   { role: 'user', content: prompt }
                 ],
                 temperature: 0.7

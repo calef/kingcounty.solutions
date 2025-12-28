@@ -7,7 +7,8 @@ require_relative '../models/topic'
 
 module Mayhem
   module Topics
-    class OrganizationAudit      include Mayhem::Loggable
+    class OrganizationAudit
+      include Mayhem::Loggable
 
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_AUDIT_MODEL', 'gpt-4o-mini')
       DEFAULT_MAX_POSTS = 5

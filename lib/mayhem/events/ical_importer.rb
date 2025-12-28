@@ -20,7 +20,8 @@ require_relative '../content/html_normalizer'
 
 module Mayhem
   module Events
-    class IcalImporter      include Mayhem::Loggable
+    class IcalImporter
+      include Mayhem::Loggable
 
       DEFAULT_EVENTS_DIR = '_events'
       DEFAULT_ORGS_DIR = '_organizations'
@@ -86,8 +87,8 @@ module Mayhem
 
       def build_existing_event_index
         index = {}
-        Dir.glob(File.join(@events_dir, '*.md')).each do |path|
-          document = Mayhem::FrontMatter::Document.load(path @logger)
+        Dir.glob(File.join(@events_dir, '*.md')).each do |_path|
+          document = Mayhem::FrontMatter::Document.load(path(@logger))
           next unless document
 
           front_matter = document.front_matter
@@ -162,7 +163,7 @@ module Mayhem
       end
 
       def process_organization(path, stats)
-        document = Mayhem::FrontMatter::Document.load(path @logger)
+        document = Mayhem::FrontMatter::Document.load(path(@logger))
         return unless document
 
         ical_url = document.front_matter['events_ical_url'].to_s.strip
@@ -269,7 +270,7 @@ module Mayhem
           front_matter: front_matter,
           body: body_content
         )
-        return skip_event(reason: :unpublished, reason_detail: filename, stats: stats) if Mayhem::FrontMatter::PublishGuard.unpublished?(filename @logger)
+        return skip_event(reason: :unpublished, reason_detail: filename, stats: stats) if Mayhem::FrontMatter::PublishGuard.unpublished?(filename(@logger))
 
         document.save
         record_stat(:created, stats)
@@ -309,7 +310,7 @@ module Mayhem
         return false unless File.exist?(filename)
         return false if normalized_html.to_s.strip.empty?
 
-        document = Mayhem::FrontMatter::Document.load(filename @logger)
+        document = Mayhem::FrontMatter::Document.load(filename(@logger))
         return false unless document
 
         front_matter = document.front_matter
@@ -396,7 +397,7 @@ module Mayhem
       def initialize(
         http_client: nil
       )
-        @http_client = http_client || Mayhem::Support::HttpClient.new( @logger)
+        @http_client = http_client || Mayhem::Support::HttpClient.new(@logger)
       end
 
       def run

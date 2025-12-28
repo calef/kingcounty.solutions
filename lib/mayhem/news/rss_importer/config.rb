@@ -4,9 +4,11 @@ require 'yaml'
 
 module Mayhem
   module News
-    class RssImporter      include Mayhem::Loggable
+    class RssImporter
+      include Mayhem::Loggable
 
-      class Config        include Mayhem::Loggable
+      class Config
+        include Mayhem::Loggable
 
         MAX_ITEM_AGE_DAYS = 365
 

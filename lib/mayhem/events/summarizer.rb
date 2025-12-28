@@ -17,8 +17,8 @@ require_relative '../summarizer/helpers'
 
 module Mayhem
   module Events
-    class EventSummarizer      include Mayhem::Loggable
-
+    class EventSummarizer
+      include Mayhem::Loggable
       include Mayhem::SummarizerHelpers
 
       EVENTS_DIR = '_events'
@@ -43,7 +43,7 @@ module Mayhem
         @events_dir = events_dir
         @model = model
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-        @http = http_client || Mayhem::Support::HttpClient.new( @logger)
+        @http = http_client || Mayhem::Support::HttpClient.new(@logger)
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
                               client: @client
@@ -79,7 +79,7 @@ module Mayhem
       private
 
       def process_event(file_path, stats)
-        document = Mayhem::FrontMatter::Document.load(file_path @logger)
+        document = Mayhem::FrontMatter::Document.load(file_path(@logger))
         unless document
           stats[:skipped_no_frontmatter] += 1
           return
@@ -280,7 +280,8 @@ module Mayhem
               parameters: {
                 model: @model,
                 messages: [
-                  { role: 'system', content: 'You write concise community event descriptions following The Associated Press Stylebook.' },
+                  { role: 'system',
+                    content: 'You write concise community event descriptions following The Associated Press Stylebook.' },
                   { role: 'user', content: prompt }
                 ],
                 temperature: 0.5
@@ -306,7 +307,7 @@ module Mayhem
       def remove_event_references(event_id)
         updated_posts = 0
         Dir.glob(File.join(POSTS_DIR, '*.md')).each do |post_path|
-          document = Mayhem::FrontMatter::Document.load(post_path @logger)
+          document = Mayhem::FrontMatter::Document.load(post_path(@logger))
           next unless document
 
           front_matter = document.front_matter

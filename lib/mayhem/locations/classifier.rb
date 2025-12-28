@@ -6,7 +6,8 @@ require_relative 'repository'
 
 module Mayhem
   module Locations
-    class Classifier      include Mayhem::Loggable
+    class Classifier
+      include Mayhem::Loggable
 
       DEFAULT_MODEL = ENV.fetch('OPENAI_LOCATION_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
 
@@ -15,7 +16,7 @@ module Mayhem
         client: nil,
         model: DEFAULT_MODEL
       )
-        @location_repository = location_repository || Repository.new( logger)
+        @location_repository = location_repository || Repository.new(logger)
         @model = model
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
       end

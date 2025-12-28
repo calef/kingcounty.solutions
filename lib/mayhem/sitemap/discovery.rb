@@ -27,7 +27,7 @@ module Mayhem
       include Mayhem::Loggable
 
       def initialize(http_client: nil)
-        @http = http_client || Mayhem::Support::HttpClient.new( @logger)
+        @http = http_client || Mayhem::Support::HttpClient.new(@logger)
       end
 
       def find(website_url)

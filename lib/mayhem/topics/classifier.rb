@@ -8,7 +8,8 @@ require_relative '../models/topic'
 
 module Mayhem
   module Topics
-    class Classifier      include Mayhem::Loggable
+    class Classifier
+      include Mayhem::Loggable
 
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-5.1'))
       DEFAULT_TEMPERATURE = 0.2
@@ -70,7 +71,7 @@ module Mayhem
             return selections
           rescue Faraday::TooManyRequestsError
             logger.warn 'Rate limited during topic classification, waiting 5 seconds ' \
-                         "before retry (attempt #{attempts})"
+                        "before retry (attempt #{attempts})"
             sleep 5
           rescue JSON::ParserError
             logger.warn "Non-JSON response while classifying topics: #{response.inspect}"

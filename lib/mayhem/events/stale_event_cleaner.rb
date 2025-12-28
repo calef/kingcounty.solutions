@@ -11,7 +11,8 @@ require_relative '../front_matter/document'
 
 module Mayhem
   module Events
-    class StaleEventCleaner      include Mayhem::Loggable
+    class StaleEventCleaner
+      include Mayhem::Loggable
 
       EVENTS_DIR = '_events'
       POSTS_DIR = '_posts'
@@ -67,7 +68,7 @@ module Mayhem
       private
 
       def event_times_for(path)
-        document = Mayhem::FrontMatter::Document.load(path @logger)
+        document = Mayhem::FrontMatter::Document.load(path(@logger))
         return unless document
 
         front_matter = document.front_matter
@@ -109,7 +110,7 @@ module Mayhem
         posts_updated = 0
 
         Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
-          document = Mayhem::FrontMatter::Document.load(post_path @logger)
+          document = Mayhem::FrontMatter::Document.load(post_path(@logger))
           next unless document
 
           front_matter = document.front_matter
@@ -129,7 +130,9 @@ module Mayhem
           logger.info "Cleaned event links from #{File.basename(post_path)}"
         end
 
-        logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links." if posts_updated.positive?
+        return unless posts_updated.positive?
+
+        logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links."
       end
     end
   end

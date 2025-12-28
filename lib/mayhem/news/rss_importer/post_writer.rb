@@ -5,9 +5,11 @@ require_relative '../../front_matter/slug_generator'
 
 module Mayhem
   module News
-    class RssImporter      include Mayhem::Loggable
+    class RssImporter
+      include Mayhem::Loggable
 
-      class PostWriter        include Mayhem::Loggable
+      class PostWriter
+        include Mayhem::Loggable
 
         MAX_FILENAME_BYTES = 255
         DEFAULT_NEWS_DIR = '_posts'
