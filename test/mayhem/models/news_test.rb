@@ -3,6 +3,7 @@
 require_relative '../../test_helper'
 require 'mayhem/models/news'
 require 'mayhem/models/event'
+require 'mayhem/models/location'
 
 class NewsModelTest < Minitest::Test
   def test_creates_and_reads_news
@@ -106,6 +107,30 @@ class NewsModelTest < Minitest::Test
         )
 
         assert_equal [event.id, other_event.id], record.events.map(&:id)
+      end
+    end
+  end
+
+  def test_locations_lookup_by_location_titles
+    FMRepo::TestHelpers.with_temp_repo(role: :locations) do
+      location = Mayhem::Models::Location.create!(
+        { 'title' => 'Seattle', 'type' => 'City' },
+        body: 'A city.'
+      )
+
+      FMRepo::TestHelpers.with_temp_repo(role: :news) do
+        record = Mayhem::Models::News.create!(
+          {
+            'title' => 'News With Locations',
+            'date' => '2025-06-23T17:54:03+00:00',
+            'organization_title' => 'Test Organization',
+            'location_titles' => ['Seattle', 'Missing'],
+            'summarized' => true
+          },
+          body: 'News mentioning locations.'
+        )
+
+        assert_equal [location.id, nil], record.locations.map { |loc| loc&.id }
       end
     end
   end
