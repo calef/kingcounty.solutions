@@ -2,7 +2,6 @@
 
 require 'time'
 require 'uri'
-require 'open-uri'
 
 module Mayhem
   module Support
@@ -16,27 +15,28 @@ module Mayhem
         end
 
         def check_status?(response, uri, origin_url:, operation:)
-          status_code = response.code.to_i
+          status_code = response.status.to_i
 
           raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if status_code == 429
           raise ForbiddenError.new(url: uri.to_s, origin_url: origin_url, operation: operation) if status_code == 403
           raise NotFoundError.new(url: uri.to_s, origin_url: origin_url, operation: operation, status: status_code) if status_code == 404
 
-          raise OpenURI::HTTPError.new("#{response.code} #{response.message} for #{uri}", response) unless response.is_a?(Net::HTTPSuccess)
+          return true if status_code >= 200 && status_code < 300
 
-          true
+          raise HttpError.new(url: uri.to_s, origin_url: origin_url, operation: operation, status: status_code, response: response)
         end
 
         def redirect?(response)
-          response.is_a?(Net::HTTPRedirection)
+          status = response.status.to_i
+          status >= 300 && status < 400
         end
 
         def extract_redirect_location(response)
-          response['location']
+          response.headers['location']
         end
 
         def parse_retry_after(response)
-          header = response&.[]('retry-after')
+          header = response&.headers&.[]('retry-after')
           parsed = parse_retry_after_value(header)
           wait = parsed || @too_many_requests_delay
           wait = @too_many_requests_delay if wait <= 0

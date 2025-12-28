@@ -58,7 +58,7 @@ module Mayhem
       end
 
       def request_status(url)
-        @http_client.response_for(url, accept: Mayhem::Support::HttpClient::HTML_ACCEPT, max_bytes: 0)
+        @http_client.response_for(url, accept: Mayhem::Support::HttpClient::HTML_ACCEPT)
       rescue StandardError => e
         logger.debug "Failed to fetch #{url}: #{e.class}: #{e.message}"
         nil

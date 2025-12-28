@@ -15,8 +15,6 @@ module Mayhem
     HttpClient = Mayhem::Support::HttpClient
     UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_0) AppleWebKit/537.36 ' \
          '(KHTML, like Gecko) Chrome/125.0 Safari/537.36'
-    HTML_MAX_BYTES = 1_048_576
-    FEED_MAX_BYTES = 2_097_152
     REQUEST_DELAY = 0.15
     ACCEPT_HTML = 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
     ACCEPT_FEED = 'application/rss+xml, application/atom+xml, application/xml;q=0.9, ' \
@@ -294,7 +292,7 @@ module Mayhem
       end
 
       def find(website)
-        page = @http.fetch(website, accept: ACCEPT_HTML, max_bytes: HTML_MAX_BYTES)
+        page = @http.fetch(website, accept: ACCEPT_HTML)
         result = feed_result_from_response(page[:body], page[:content_type], page[:final_url])
         html = decode_html(page[:body])
         html_result = feed_from_html(html, page[:final_url])
@@ -377,11 +375,11 @@ module Mayhem
       end
 
       def fetch_secondary_page(secondary_url)
-        @http.fetch(secondary_url, accept: ACCEPT_HTML, max_bytes: HTML_MAX_BYTES)
+        @http.fetch(secondary_url, accept: ACCEPT_HTML)
       end
 
       def verify_feed(url)
-        response = @http.fetch(url, accept: ACCEPT_FEED, max_bytes: FEED_MAX_BYTES)
+        response = @http.fetch(url, accept: ACCEPT_FEED)
         kind = feed_type(response[:body], response[:content_type])
         return [kind, response[:final_url]] if kind
 

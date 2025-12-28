@@ -328,7 +328,7 @@ module Mayhem
       def fetch_event_html(url)
         return nil if url.to_s.strip.empty?
 
-        page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML, max_bytes: MAX_ARTICLE_CHARS)
+        page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML)
         Mayhem::Support::EncodingUtils.ensure_utf8(page[:body])
       rescue StandardError => e
         logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"

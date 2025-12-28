@@ -3,7 +3,6 @@
 require 'digest'
 require 'fileutils'
 require 'mini_magick'
-require 'open-uri'
 require 'uri'
 require_relative '../logging'
 require_relative '../front_matter/document'

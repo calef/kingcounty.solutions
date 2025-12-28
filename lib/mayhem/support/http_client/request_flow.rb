@@ -17,8 +17,8 @@ module Mayhem
           @max_redirects = max_redirects
         end
 
-        def fetch_with_redirects(url, accept, max_bytes, origin_url:, operation:)
-          perform_request(url, accept, max_bytes, @max_redirects, origin_url: origin_url, operation: operation)
+        def fetch_with_redirects(url, accept, origin_url:, operation:)
+          perform_request(url, accept, @max_redirects, origin_url: origin_url, operation: operation)
         end
 
         def resolve_head_redirects(uri, origin_url:, operation:)
@@ -27,7 +27,7 @@ module Mayhem
 
         private
 
-        def perform_request(url, accept, max_bytes, remaining_redirects, origin_url:, operation:)
+        def perform_request(url, accept, remaining_redirects, origin_url:, operation:)
           uri = URI.parse(url)
           body = nil
           redirect = nil
@@ -37,7 +37,7 @@ module Mayhem
             unless redirect
               @response_processor.check_status?(http_response, uri, origin_url: origin_url, operation: operation)
               status_checked = true
-              body = ResponseBodyReader.read(http_response, max_bytes)
+              body = ResponseBodyReader.read(http_response)
             end
           end
 
@@ -47,7 +47,6 @@ module Mayhem
               response,
               uri,
               accept,
-              max_bytes,
               remaining_redirects,
               origin_url: origin_url,
               operation: operation
@@ -55,19 +54,19 @@ module Mayhem
           end
 
           @response_processor.check_status?(response, uri, origin_url: origin_url, operation: operation) unless status_checked
-          body = ResponseBodyReader.read(response, max_bytes) if body.nil?
+          body = ResponseBodyReader.read(response) if body.nil?
 
           [
             response,
             {
               body: body,
-              content_type: response['content-type'],
+              content_type: response.headers['content-type'],
               final_url: uri.to_s
             }
           ]
         end
 
-        def follow_redirect(response, uri, accept, max_bytes, remaining_redirects, origin_url:, operation:)
+        def follow_redirect(response, uri, accept, remaining_redirects, origin_url:, operation:)
           raise 'Too many redirects' if remaining_redirects <= 0
 
           location = @response_processor.extract_redirect_location(response)
@@ -77,7 +76,6 @@ module Mayhem
           perform_request(
             new_url,
             accept,
-            max_bytes,
             remaining_redirects - 1,
             origin_url: origin_url,
             operation: operation
@@ -86,7 +84,7 @@ module Mayhem
 
         def follow_head_redirect(uri, remaining_redirects, origin_url:, operation:)
           response = @transport.execute_head(uri, operation: operation)
-          status_code = response&.code&.to_i
+          status_code = response&.status&.to_i
 
           # Check for 429 before processing redirect
           @response_processor.check_status?(response, uri, origin_url: origin_url, operation: operation) if status_code == 429

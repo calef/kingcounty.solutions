@@ -25,48 +25,12 @@ module HttpClientTestHelpers
   end
 
   class FakeResponse
-    def initialize(code, headers = {}, redirect: false)
-      @code = code
+    attr_reader :status, :headers, :body
+
+    def initialize(status, headers = {}, body: '')
+      @status = status
       @headers = headers
-      @redirect = redirect
-    end
-
-    def code
-      @code
-    end
-
-    def [](key)
-      @headers[key]
-    end
-
-    def is_a?(klass)
-      return true if klass == Net::HTTPRedirection && @redirect
-
-      super
-    end
-  end
-
-  class FakeHttp
-    attr_reader :started, :last_request
-    attr_accessor :use_ssl, :read_timeout, :open_timeout, :verify_mode, :cert_store
-
-    def initialize(response)
-      @response = response
-      @started = false
-    end
-
-    def start
-      @started = true
-      yield self
-    end
-
-    def request(_request)
-      @last_request = _request
-      @response
-    end
-
-    def use_ssl?
-      !!@use_ssl
+      @body = body
     end
   end
 
@@ -77,6 +41,14 @@ module HttpClientTestHelpers
 
     def read_body
       @chunks.each { |chunk| yield chunk }
+    end
+  end
+
+  class FakeRequest
+    attr_reader :headers
+
+    def initialize
+      @headers = {}
     end
   end
 end

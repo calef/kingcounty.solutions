@@ -33,8 +33,6 @@ module Mayhem
       end
 
       ACCEPT_HEADER = Mayhem::FeedDiscovery::ACCEPT_FEED
-      MAX_FETCH_BYTES = Mayhem::FeedDiscovery::FEED_MAX_BYTES
-
       attr_reader :events_dir
 
       def initialize(
@@ -177,7 +175,7 @@ module Mayhem
       end
 
       def import_from_url(url, source_title, website, stats)
-        page = @http_client.fetch(url, accept: ACCEPT_HEADER, max_bytes: MAX_FETCH_BYTES)
+        page = @http_client.fetch(url, accept: ACCEPT_HEADER)
         import_calendar(page[:body], source_title, website, stats)
       rescue StandardError => e
         record_stat(:fetch_failed, stats)
