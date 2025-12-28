@@ -1,6 +1,5 @@
 ---
 acronym: MC
-news_rss_url: https://www.multicare.org/feed/
 title: MultiCare
 topic_titles:
 - Health Care
