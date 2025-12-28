@@ -1,6 +1,5 @@
 ---
 events_ical_url: https://ststephenslife.com/icalendar889220.ics
-news_rss_url: https://ststephenslife.com/newsRSS
 parent_organization_title: Archdiocese of Seattle
 phone: 253-631-1940
 title: St. Stephen the Martyr Church
