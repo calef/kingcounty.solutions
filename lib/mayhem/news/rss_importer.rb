@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'digest'
-require 'fileutils'
 require 'net/http'
 require 'open-uri'
 require 'openssl'
@@ -11,17 +10,15 @@ require 'time'
 require 'uri'
 require 'yaml'
 require_relative '../logging'
-require_relative '../front_matter/document'
 require_relative '../front_matter/slug_generator'
 require_relative '../support/http_client'
 require_relative '../support/url_normalizer'
 require_relative '../content/content_fetcher'
 require_relative '../content/article_body_selectors'
 require_relative '../feed/discovery'
-require_relative '../front_matter/publish_guard'
 require_relative '../content/html_normalizer'
-
-# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+require_relative '../models/news'
+require_relative '../models/organization'
 
 module Mayhem
   module News
@@ -59,8 +56,9 @@ module Mayhem
       ].freeze
 
       def initialize(
-        news_dir: DEFAULT_NEWS_DIR,
         sources_dir: DEFAULT_SOURCES_DIR,
+        news_model: Mayhem::Models::News,
+        organization_model: Mayhem::Models::Organization,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         workers: DEFAULT_MAX_WORKERS,
         open_timeout: DEFAULT_OPEN_TIMEOUT,
@@ -70,8 +68,9 @@ module Mayhem
         max_item_age_days: nil,
         config_path: DEFAULT_CONFIG_PATH
       )
-        @news_dir = news_dir
         @sources_dir = sources_dir
+        @news_model = news_model
+        @organization_model = organization_model
         @logger = logger
         @workers = [workers, 1].max
         @open_timeout = open_timeout
@@ -79,7 +78,6 @@ module Mayhem
         @fetch_retries = fetch_retries
         @existing_posts = build_existing_post_index
         @existing_lock = Mutex.new
-        FileUtils.mkdir_p(@news_dir)
         @http = http_client || Mayhem::Support::HttpClient.new(
           open_timeout: @open_timeout,
           read_timeout: @read_timeout,
@@ -96,7 +94,7 @@ module Mayhem
 
       def run
         queue = Queue.new
-        Dir.glob(File.join(@sources_dir, '*.md')).each { |source_file| queue << source_file }
+        source_records.each { |source| queue << source }
 
         threads = Array.new(@workers) do
           Thread.new do
@@ -113,12 +111,9 @@ module Mayhem
 
       private
 
-      def process_source(source_file)
-        frontmatter = Mayhem::FrontMatter::Document.load(source_file, logger: @logger)
-        return unless frontmatter
-
-        rss_url = frontmatter['news_rss_url']
-        source_title = frontmatter['title']
+      def process_source(source)
+        rss_url = source.news_rss_url
+        source_title = source.title
         return unless rss_url
 
         stats = Hash.new(0)
@@ -131,7 +126,7 @@ module Mayhem
           return
         end
         feed.items.each do |item|
-          process_item(item, source_title, stats, frontmatter)
+          process_item(item, source_title, stats, source)
         end
 
         @logger.info feed_summary_line(source_title, rss_url, stats)
@@ -143,10 +138,10 @@ module Mayhem
         @logger.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
       end
 
-      def process_item(item, source_title, stats, source_frontmatter)
+      def process_item(item, source_title, stats, source_record)
         link_url = item_link_url(item)
         normalized = Mayhem::Support::UrlNormalizer.normalize(link_url,
-                                                              base: source_frontmatter && source_frontmatter['website_url'])
+                                                              base: source_record&.website_url)
         normalized = canonical_link(normalized)
         if normalized.to_s.strip.empty?
           stats[:missing_link] += 1
@@ -289,22 +284,23 @@ module Mayhem
           date_prefix: date_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
-        filename = File.join(@news_dir, "#{date_prefix}-#{title_slug}.md")
+        record_id = File.join(DEFAULT_NEWS_DIR, "#{date_prefix}-#{title_slug}.md")
+        existing = find_existing_post(record_id)
 
-        if locked_post?(filename)
-          @logger.info "Skipping update for locked post #{filename}"
+        if existing&.locked?
+          @logger.info "Skipping update for locked post #{existing.path || record_id}"
           register_post(link_url, rss_guid)
           return :skipped_locked
         end
 
-        if Mayhem::FrontMatter::PublishGuard.unpublished?(filename, logger: @logger)
-          @logger.info "Skipping update for unpublished post #{filename}"
+        if existing && existing.published == false
+          @logger.info "Skipping update for unpublished post #{existing.path || record_id}"
           register_post(link_url, rss_guid)
           return :skipped_unpublished
         end
 
-        if unchanged_post?(filename, normalized_html, checksum, link_url)
-          @logger.debug "Skipping unchanged post #{filename}"
+        if unchanged_post?(existing, normalized_html, checksum, link_url)
+          @logger.debug "Skipping unchanged post #{existing.path || record_id}"
           register_post(link_url, rss_guid)
           return :skipped_unchanged
         end
@@ -316,21 +312,19 @@ module Mayhem
           'source_url' => link_url.to_s,
           'rss_guid' => rss_guid,
           'feed_content' => normalized_html,
-          'feed_content_checksum' => checksum
+          'feed_content_checksum' => checksum,
+          'slug' => title_slug
         }
         frontmatter['published'] = false if published == false
-        document = Mayhem::FrontMatter::Document.new(
-          path: filename,
-          front_matter: frontmatter,
-          body: ''
-        )
-        document.save
+        if existing
+          frontmatter.each { |key, value| existing[key] = value }
+          existing.body = ''
+          existing.save!
+        else
+          @news_model.create!(frontmatter, body: '')
+        end
         register_post(link_url, rss_guid)
         :created
-      end
-
-      def locked_post?(filename)
-        Mayhem::FrontMatter::Document.locked?(filename, logger: @logger)
       end
 
       def published_at(item)
@@ -506,41 +500,33 @@ module Mayhem
       end
 
       def build_existing_post_index
-        Dir.glob(File.join(@news_dir, '*.md')).each_with_object({}) do |post_path, memo|
-          doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
-          next unless doc
+        @news_model.all.to_a.each_with_object({}) do |post, memo|
+          next unless post.feed_content
 
-          fm = doc.front_matter
-          next unless fm['feed_content']
-
-          url = Mayhem::Support::UrlNormalizer.normalize(fm['source_url'])
+          url = Mayhem::Support::UrlNormalizer.normalize(post.source_url)
           key = post_key_for_link(url)
           memo[key] = true if key
 
-          guid_key = post_key_for_guid(fm['rss_guid'])
+          guid_key = post_key_for_guid(post.rss_guid)
           memo[guid_key] = true if guid_key
         end
       end
 
-      def unchanged_post?(filename, normalized_html, checksum, link_url)
-        return false unless File.exist?(filename)
+      def unchanged_post?(record, normalized_html, checksum, link_url)
+        return false unless record
 
-        document = Mayhem::FrontMatter::Document.load(filename, logger: @logger)
-        return false unless document
-
-        front_matter = document.front_matter
-        existing_checksum = front_matter['feed_content_checksum'].to_s
+        existing_checksum = record.feed_content_checksum.to_s
         return true if !existing_checksum.empty? && existing_checksum == checksum
 
-        existing_content = front_matter['feed_content']
+        existing_content = record.feed_content
         return false unless existing_content
 
-        base_url = front_matter['source_url'].to_s
+        base_url = record.source_url.to_s
         base_url = link_url if base_url.empty?
         existing_normalized = Mayhem::Content::HtmlNormalizer.normalize(existing_content, base_url: base_url)
         existing_normalized == normalized_html
       rescue StandardError => e
-        @logger.debug "Failed to compare existing post #{filename}: #{e.message}"
+        @logger.debug "Failed to compare existing post #{record&.path || record&.id}: #{e.message}"
         false
       end
 
@@ -586,6 +572,23 @@ module Mayhem
       rescue StandardError => e
         @logger.error "Unexpected error scraping #{url}: #{e.message}"
         { html: '', canonical_url: nil }
+      end
+
+      def find_existing_post(record_id)
+        @news_model.find(record_id)
+      rescue StandardError
+        nil
+      end
+
+      def source_records
+        records = @organization_model.all.to_a
+        return records if @sources_dir.to_s.strip.empty?
+
+        pattern = File.join(File.expand_path(@sources_dir), '*.md')
+        records.select do |record|
+          path = record.path.to_s
+          File.fnmatch?(pattern, path)
+        end
       end
     end
   end

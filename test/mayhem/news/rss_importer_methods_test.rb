@@ -1,8 +1,11 @@
 # frozen_string_literal: true
 
 require_relative '../../test_helper'
+require 'fileutils'
 require 'time'
 require_relative '../../../lib/mayhem/news/rss_importer'
+require 'mayhem/models/news'
+require 'mayhem/models/organization'
 
 class RssImporterMethodsTest < Minitest::Test
   class FakeLogger
@@ -42,12 +45,13 @@ class RssImporterMethodsTest < Minitest::Test
   end
 
   def setup
-    @tmp_posts = Dir.mktmpdir
-    @tmp_orgs = Dir.mktmpdir
+    @org_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :organizations)
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @tmp_posts = Mayhem::Models::News.repo.root.join('_posts').to_s
+    @tmp_orgs = Mayhem::Models::Organization.repo.root.join('_organizations').to_s
     @logger = FakeLogger.new
     @fake_http = FakeHttpClient.new(resolved_url: 'https://pubmed.ncbi.nlm.nih.gov/final?utm_source=abc')
     @importer = Mayhem::News::RssImporter.new(
-      news_dir: @tmp_posts,
       sources_dir: @tmp_orgs,
       http_client: @fake_http,
       logger: @logger
@@ -57,8 +61,8 @@ class RssImporterMethodsTest < Minitest::Test
   end
 
   def teardown
-    FileUtils.remove_entry(@tmp_posts)
-    FileUtils.remove_entry(@tmp_orgs)
+    @org_repo_override.cleanup if @org_repo_override
+    @news_repo_override.cleanup if @news_repo_override
   end
 
   def test_published_at_prefers_pubdate_and_fallbacks
@@ -71,6 +75,7 @@ class RssImporterMethodsTest < Minitest::Test
 
   def test_determine_max_days_reads_config_value
     config_path = File.join(@tmp_posts, 'config.yml')
+    FileUtils.mkdir_p(File.dirname(config_path))
     File.write(config_path, "rss_max_item_age_days: 42\n")
     assert_equal 42, @importer.send(:determine_max_days, nil, config_path)
   end
@@ -135,33 +140,28 @@ class RssImporterMethodsTest < Minitest::Test
   end
 
   def test_process_source_skips_sources_without_rss_url
-    path = write_org_file('missing-rss.md', <<~MD)
-      ---
-      title: Missing RSS
-      ---
-    MD
+    source = write_org_record('title' => 'Missing RSS')
     @fake_http.fetch_called = false
-    assert_nil @importer.send(:process_source, path)
+    assert_nil @importer.send(:process_source, source)
     refute @fake_http.fetch_called
   end
 
   def test_process_source_logs_error_when_feed_parser_returns_nil
-    path = write_org_file('bad-feed.md', <<~MD)
-      ---
-      title: Bad Feed
-      news_rss_url: https://example.com/feed
-      ---
-    MD
+    source = write_org_record(
+      'title' => 'Bad Feed',
+      'news_rss_url' => 'https://example.com/feed'
+    )
     @fake_http.response = { body: '<rss></rss>', content_type: 'application/rss+xml' }
     RSS::Parser.stub(:parse, nil) do
-      @importer.send(:process_source, path)
+      @importer.send(:process_source, source)
     end
     assert_match(/Failed to parse RSS feed/, @logger.errors.last)
   end
 
   def test_build_existing_post_index_tracks_link_and_guid_keys
-    write_post('2025-11-25-test.md', {
+    write_post({
       'title' => 'Test',
+      'date' => Time.utc(2025, 11, 25).iso8601,
       'source_url' => 'https://example.com/post',
       'feed_content' => '<p>body</p>',
       'rss_guid' => 'guid-abc'
@@ -175,8 +175,9 @@ class RssImporterMethodsTest < Minitest::Test
   def test_process_item_records_missing_link
     stats = Hash.new(0)
     item = Object.new
+    source = build_source_record(website_url: 'https://example.com')
     @importer.stub(:item_link_url, nil) do
-      @importer.send(:process_item, item, 'Title', stats, { 'website_url' => 'https://example.com' })
+      @importer.send(:process_item, item, 'Title', stats, source)
     end
     assert_equal 1, stats[:missing_link]
   end
@@ -184,11 +185,12 @@ class RssImporterMethodsTest < Minitest::Test
   def test_process_item_records_missing_title
     stats = Hash.new(0)
     item = Object.new
+    source = build_source_record
     @importer.stub(:item_link_url, 'https://example.com') do
       @importer.stub(:canonical_link, 'https://example.com') do
         @importer.stub(:item_title_text, '') do
           @importer.stub(:published_at, Time.now) do
-            @importer.send(:process_item, item, 'Title', stats, {})
+            @importer.send(:process_item, item, 'Title', stats, source)
           end
         end
       end
@@ -199,11 +201,12 @@ class RssImporterMethodsTest < Minitest::Test
   def test_process_item_records_missing_publish_date
     stats = Hash.new(0)
     item = Object.new
+    source = build_source_record
     @importer.stub(:item_link_url, 'https://example.com') do
       @importer.stub(:canonical_link, 'https://example.com') do
         @importer.stub(:item_title_text, 'Title') do
           @importer.stub(:published_at, nil) do
-            @importer.send(:process_item, item, 'Title', stats, {})
+            @importer.send(:process_item, item, 'Title', stats, source)
           end
         end
       end
@@ -214,12 +217,13 @@ class RssImporterMethodsTest < Minitest::Test
   def test_process_item_records_stale_items
     stats = Hash.new(0)
     item = Object.new
+    source = build_source_record
     @importer.stub(:item_link_url, 'https://example.com') do
       @importer.stub(:canonical_link, 'https://example.com') do
         @importer.stub(:item_title_text, 'Title') do
           @importer.stub(:published_at, Time.now) do |*|
             @importer.stub(:stale_item?, true) do
-              @importer.send(:process_item, item, 'Title', stats, {})
+              @importer.send(:process_item, item, 'Title', stats, source)
             end
           end
         end
@@ -231,14 +235,16 @@ class RssImporterMethodsTest < Minitest::Test
   def test_unchanged_post_detects_matching_checksum
     normalized_html = Mayhem::Content::HtmlNormalizer.normalize('<p>body</p>', base_url: 'https://source')
     checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_html)
-    path = write_post('2025-11-25-test.md', {
+    record = write_post({
+      'title' => 'Test',
+      'date' => Time.utc(2025, 11, 25).iso8601,
       'feed_content' => '<p>body</p>',
       'feed_content_checksum' => checksum,
       'source_url' => 'https://source',
       'published' => true
     }, '<p>body</p>')
 
-    assert @importer.send(:unchanged_post?, path, normalized_html, checksum, 'https://source')
+    assert @importer.send(:unchanged_post?, record, normalized_html, checksum, 'https://source')
   end
 
   def test_canonical_link_calls_http_for_redirect_hosts
@@ -261,15 +267,24 @@ class RssImporterMethodsTest < Minitest::Test
 
   private
 
-  def write_post(filename, front_matter, body = '')
-    path = File.join(@tmp_posts, filename)
-    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter.merge('feed_content' => front_matter['feed_content'] || ''), body))
-    path
+  def write_post(front_matter, body = '')
+    data = {
+      'title' => front_matter['title'] || 'Test',
+      'date' => front_matter['date'] || Time.now.utc.iso8601,
+      'feed_content' => front_matter['feed_content'] || ''
+    }.merge(front_matter)
+    Mayhem::Models::News.create!(data, body: body)
   end
 
-  def write_org_file(filename, content)
-    path = File.join(@tmp_orgs, filename)
-    File.write(path, content)
-    path
+  def write_org_record(front_matter)
+    data = { 'title' => front_matter['title'] || 'Test Org' }.merge(front_matter)
+    Mayhem::Models::Organization.create!(data, body: '')
+  end
+
+  def build_source_record(website_url: nil)
+    @source_sequence = (@source_sequence || 0) + 1
+    data = { 'title' => "Source #{@source_sequence}" }
+    data['website_url'] = website_url if website_url
+    Mayhem::Models::Organization.create!(data, body: '')
   end
 end

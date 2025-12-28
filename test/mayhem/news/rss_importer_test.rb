@@ -48,7 +48,7 @@ class RssImporterTest < Minitest::Test
       stub_request(:get, 'https://example.com/posts/1').to_return(status: 200,
                                                                   body: '<html><body><article><p>Article body</p></article></body></html>')
 
-      @importer = Mayhem::News::RssImporter.new(news_dir: @tmp_posts, sources_dir: @tmp_orgs)
+      @importer = Mayhem::News::RssImporter.new(sources_dir: @tmp_orgs)
     end
   end
 
