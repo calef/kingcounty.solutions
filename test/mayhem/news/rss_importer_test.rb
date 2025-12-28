@@ -8,6 +8,11 @@ require 'mayhem/models/news'
 require 'mayhem/models/organization'
 
 class RssImporterTest < Minitest::Test
+  class NullLogger
+    def warn(_message); end
+    def debug(_message); end
+  end
+
   def setup
     @org_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :organizations)
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
@@ -93,18 +98,20 @@ class RssImporterTest < Minitest::Test
   def test_register_post_tracks_link_and_guid_keys
     link = 'https://example.com/track'
     guid = 'guid-tracked'
+    tracker = Mayhem::News::RssImporter::DuplicateTracker.new(news_model: Mayhem::Models::News)
 
-    refute @importer.send(:duplicate_post?, link, guid)
+    refute tracker.duplicate?(link, guid)
 
-    @importer.send(:register_post, link, guid)
+    tracker.register(link, guid)
 
-    assert @importer.send(:duplicate_post?, link, guid)
-    assert @importer.send(:duplicate_post?, link, nil)
-    assert @importer.send(:duplicate_post?, nil, guid)
+    assert tracker.duplicate?(link, guid)
+    assert tracker.duplicate?(link, nil)
+    assert tracker.duplicate?(nil, guid)
   end
 
   def test_duplicate_post_returns_false_when_no_keys
-    assert_equal false, @importer.send(:duplicate_post?, nil, nil)
+    tracker = Mayhem::News::RssImporter::DuplicateTracker.new(news_model: Mayhem::Models::News)
+    assert_equal false, tracker.duplicate?(nil, nil)
   end
 
   def test_extract_guid_text_uses_content_href_value_and_strips
@@ -112,11 +119,12 @@ class RssImporterTest < Minitest::Test
     object_with_href = Struct.new(:content, :href).new(nil, ' href ')
     object_with_value = Struct.new(:content, :href, :value).new(nil, nil, 'value  ')
     object_without_text = Struct.new(:content).new('   ')
+    tracker = Mayhem::News::RssImporter::DuplicateTracker.new(news_model: Mayhem::Models::News)
 
-    assert_equal 'abc', @importer.send(:extract_guid_text, object_with_content)
-    assert_equal 'href', @importer.send(:extract_guid_text, object_with_href)
-    assert_equal 'value', @importer.send(:extract_guid_text, object_with_value)
-    assert_nil @importer.send(:extract_guid_text, object_without_text)
+    assert_equal 'abc', tracker.extract_guid_text(object_with_content)
+    assert_equal 'href', tracker.extract_guid_text(object_with_href)
+    assert_equal 'value', tracker.extract_guid_text(object_with_value)
+    assert_nil tracker.extract_guid_text(object_without_text)
   end
 
   def test_item_guid_prefers_guid_then_id
@@ -124,8 +132,9 @@ class RssImporterTest < Minitest::Test
     id_value = Struct.new(:value).new('id-value')
     item_with_guid = Struct.new(:guid).new(guid_value)
     item_with_id = Struct.new(:guid, :id).new(nil, id_value)
+    parser = Mayhem::News::RssImporter::ItemParser.new(logger: NullLogger.new)
 
-    assert_equal 'guid-value', @importer.send(:item_guid, item_with_guid)
-    assert_equal 'id-value', @importer.send(:item_guid, item_with_id)
+    assert_equal 'guid-value', parser.guid(item_with_guid)
+    assert_equal 'id-value', parser.guid(item_with_id)
   end
 end
