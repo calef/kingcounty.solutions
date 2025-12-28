@@ -77,4 +77,40 @@ class LoggingTest < Minitest::Test
       ENV.delete('TEST_LOG_LEVEL')
     end
   end
+
+  def test_singleton_logger_returns_same_instance
+    Mayhem::Logging.reset_logger
+    logger1 = Mayhem::Logging.logger
+    logger2 = Mayhem::Logging.logger
+    assert_same logger1, logger2
+  end
+
+  def test_can_override_singleton_logger
+    Mayhem::Logging.reset_logger
+    original = Mayhem::Logging.logger
+    custom_logger = Mayhem::Logging::Logger.new(level_value: Mayhem::Logging::LEVELS['DEBUG'], program_name: 'custom')
+    Mayhem::Logging.logger = custom_logger
+
+    assert_same custom_logger, Mayhem::Logging.logger
+    refute_same original, Mayhem::Logging.logger
+  ensure
+    Mayhem::Logging.reset_logger
+  end
+
+  def test_loggable_mixin_provides_logger_access
+    test_class = Class.new do
+      include Mayhem::Loggable
+
+      def get_logger
+        logger
+      end
+    end
+
+    Mayhem::Logging.reset_logger
+    instance = test_class.new
+    assert_kind_of Mayhem::Logging::Logger, instance.get_logger
+    assert_same Mayhem::Logging.logger, instance.get_logger
+  ensure
+    Mayhem::Logging.reset_logger
+  end
 end

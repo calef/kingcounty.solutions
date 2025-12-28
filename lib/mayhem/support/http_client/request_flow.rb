@@ -9,11 +9,12 @@ module Mayhem
     class HttpClient
       # Orchestrates HTTP request flow including redirects
       class RequestFlow
-        def initialize(transport:, response_processor:, max_redirects:, logger:)
+        include Mayhem::Loggable
+
+        def initialize(transport:, response_processor:, max_redirects:)
           @transport = transport
           @response_processor = response_processor
           @max_redirects = max_redirects
-          @logger = logger
         end
 
         def fetch_with_redirects(url, accept, max_bytes, origin_url:, operation:)

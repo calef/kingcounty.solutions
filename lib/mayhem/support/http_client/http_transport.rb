@@ -9,12 +9,13 @@ module Mayhem
     class HttpClient
       # Handles raw HTTP transport operations (connections, request execution)
       class HttpTransport
-        def initialize(user_agent:, open_timeout:, read_timeout:, allow_insecure_fallback:, logger:, operation_delay_manager:)
+        include Mayhem::Loggable
+
+        def initialize(user_agent:, open_timeout:, read_timeout:, allow_insecure_fallback:, operation_delay_manager:)
           @user_agent = user_agent
           @open_timeout = open_timeout
           @read_timeout = read_timeout
           @allow_insecure_fallback = allow_insecure_fallback
-          @logger = logger
           @operation_delay_manager = operation_delay_manager
         end
 

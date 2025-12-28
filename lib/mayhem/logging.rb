@@ -75,6 +75,9 @@ module Mayhem
       end
     end
 
+    @logger_mutex = Mutex.new
+    @logger = nil
+
     module_function
 
     def build_logger(env_var:, default_level: DEFAULT_LEVEL, program_name: nil)
@@ -87,6 +90,31 @@ module Mayhem
 
     def new_correlation_id(logger)
       logger.new_correlation_id
+    end
+
+    def logger
+      @logger_mutex.synchronize do
+        @logger ||= build_logger(env_var: 'LOG_LEVEL')
+      end
+    end
+
+    def logger=(new_logger)
+      @logger_mutex.synchronize do
+        @logger = new_logger
+      end
+    end
+
+    def reset_logger
+      @logger_mutex.synchronize do
+        @logger = nil
+      end
+    end
+  end
+
+  # Mixin module that provides easy access to the singleton logger
+  module Loggable
+    def logger
+      Mayhem::Logging.logger
     end
   end
 end

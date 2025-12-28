@@ -19,6 +19,8 @@ module Mayhem
     require_relative 'url_utils'
 
     class HttpClient
+      include Mayhem::Loggable
+
       UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_0) AppleWebKit/537.36 ' \
            '(KHTML, like Gecko) Chrome/125.0 Safari/537.36'
       HTML_ACCEPT = 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
@@ -90,8 +92,7 @@ module Mayhem
                      retry_backoff_factor: DEFAULTS[:retry_backoff_factor],
                      allow_insecure_fallback: DEFAULTS[:allow_insecure_fallback],
                      too_many_requests_delay: DEFAULTS[:too_many_requests_delay],
-                     host_operation_delays: nil,
-                     logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+                     host_operation_delays: nil)
         @user_agent = user_agent
         @delay = delay
         @max_redirects = max_redirects
@@ -99,7 +100,6 @@ module Mayhem
         @open_timeout = open_timeout || base_timeout
         @read_timeout = read_timeout || base_timeout
         @allow_insecure_fallback = allow_insecure_fallback
-        @logger = logger
         @max_retries = [max_retries.to_i, 1].max
         @retry_initial_delay = retry_initial_delay
         @retry_backoff_factor = retry_backoff_factor
@@ -111,18 +111,15 @@ module Mayhem
           open_timeout: @open_timeout,
           read_timeout: @read_timeout,
           allow_insecure_fallback: @allow_insecure_fallback,
-          logger: @logger,
           operation_delay_manager: @operation_delay_manager
         )
         @response_processor = ResponseProcessor.new(
-          too_many_requests_delay: @too_many_requests_delay,
-          logger: @logger
+          too_many_requests_delay: @too_many_requests_delay
         )
         @request_flow = RequestFlow.new(
           transport: @transport,
           response_processor: @response_processor,
-          max_redirects: @max_redirects,
-          logger: @logger
+          max_redirects: @max_redirects
         )
       end
 

@@ -19,6 +19,8 @@ require_relative '../image_files/writer'
 module Mayhem
   module Images
     class Extractor
+      include Mayhem::Loggable
+
       IMAGE_DOCS_DIR = '_images'
       POSTS_DIR = '_posts'
       EVENTS_DIR = '_events'
@@ -39,14 +41,11 @@ module Mayhem
         300
       end
 
-      attr_reader :logger
-
       def initialize(
         posts_dir: POSTS_DIR,
         events_dir: EVENTS_DIR,
         image_docs_dir: IMAGE_DOCS_DIR,
         asset_dir: IMAGE_ASSET_DIR,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         open_timeout: DEFAULT_OPEN_TIMEOUT,
         read_timeout: DEFAULT_READ_TIMEOUT,
         min_dimension: MIN_IMAGE_DIMENSION,
@@ -55,16 +54,15 @@ module Mayhem
         @content_dirs = [posts_dir, events_dir].compact.uniq
         @image_docs_dir = image_docs_dir
         @asset_dir = asset_dir
-        @logger = logger
         @open_timeout = open_timeout
         @read_timeout = read_timeout
         @min_dimension = min_dimension
         FileUtils.mkdir_p(@image_docs_dir)
-        @http = http_client || Mayhem::Support::HttpClient.new(timeout: @read_timeout, logger: @logger)
+        @http = http_client || Mayhem::Support::HttpClient.new(timeout: @read_timeout)
 
-        @validator = Mayhem::ImageFiles::Validator.new(logger: @logger, min_dimension: @min_dimension)
-        @converter = Mayhem::ImageFiles::Converter.new(logger: @logger)
-        @downloader = Mayhem::ImageFiles::Downloader.new(logger: @logger, http_client: @http, validator: @validator)
+        @validator = Mayhem::ImageFiles::Validator.new(min_dimension: @min_dimension)
+        @converter = Mayhem::ImageFiles::Converter.new
+        @downloader = Mayhem::ImageFiles::Downloader.new(http_client: @http, validator: @validator)
         @writer = Mayhem::ImageFiles::Writer.new(asset_dir: @asset_dir)
       end
 

@@ -3,14 +3,16 @@
 require 'uri'
 require_relative 'validator'
 require_relative '../feed/discovery'
+require_relative '../logging'
 
 module Mayhem
   module ImageFiles
     class Downloader
-      attr_reader :logger, :http_client, :validator
+      include Mayhem::Loggable
 
-      def initialize(logger:, http_client:, validator:)
-        @logger = logger
+      attr_reader :http_client, :validator
+
+      def initialize(http_client:, validator:)
         @http_client = http_client
         @validator = validator
       end

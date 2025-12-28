@@ -9,9 +9,10 @@ module Mayhem
     class HttpClient
       # Processes HTTP responses (status codes, headers, error handling)
       class ResponseProcessor
-        def initialize(too_many_requests_delay:, logger:)
+        include Mayhem::Loggable
+
+        def initialize(too_many_requests_delay:)
           @too_many_requests_delay = too_many_requests_delay
-          @logger = logger
         end
 
         def check_status?(response, uri, origin_url:, operation:)
