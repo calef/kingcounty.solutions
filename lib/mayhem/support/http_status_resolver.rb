@@ -49,18 +49,18 @@ module Mayhem
         when 404, 410
           :not_found
         else
-          @logger.debug "URL #{url} returned status #{status}" if status
+          logger.debug "URL #{url} returned status #{status}" if status
           :error
         end
       rescue StandardError => e
-        @logger.debug "Exception resolving URL #{url}: #{e.class}: #{e.message}"
+        logger.debug "Exception resolving URL #{url}: #{e.class}: #{e.message}"
         :error
       end
 
       def request_status(url)
         @http_client.response_for(url, accept: Mayhem::Support::HttpClient::HTML_ACCEPT, max_bytes: 0)
       rescue StandardError => e
-        @logger.debug "Failed to fetch #{url}: #{e.class}: #{e.message}"
+        logger.debug "Failed to fetch #{url}: #{e.class}: #{e.message}"
         nil
       end
     end

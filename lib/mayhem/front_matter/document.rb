@@ -23,20 +23,20 @@ module Mayhem
       attr_accessor :front_matter, :body
 
       class << self
-        def load(path, logger: nil, permitted_classes: PERMITTED_CLASSES)
+        def load(path, permitted_classes: PERMITTED_CLASSES)
           parse(File.read(path), permitted_classes:).then do |result|
             new(path:, front_matter: result.front_matter, body: result.body)
           end
         rescue Errno::ENOENT
-          logger&.trace("Missing file: #{path}")
+          Mayhem::Logging.logger.trace("Missing file: #{path}") if defined?(Mayhem::Logging)
           nil
         rescue ParseError => e
-          logger&.warn("Failed to parse #{path}: #{e.message}")
+          Mayhem::Logging.logger.warn("Failed to parse #{path}: #{e.message}") if defined?(Mayhem::Logging)
           nil
         end
 
-        def locked?(path, logger: nil)
-          document = load(path, logger:)
+        def locked?(path)
+          document = load(path)
           document&.locked?
         rescue StandardError
           false

@@ -8,13 +8,13 @@ module Mayhem
     module PublishGuard
       module_function
 
-      def unpublished?(path, logger: nil)
+      def unpublished?(path)
         return false unless File.exist?(path)
 
-        document = Mayhem::FrontMatter::Document.load(path, logger:)
+        document = Mayhem::FrontMatter::Document.load(path)
         document && document.front_matter['published'] == false
       rescue StandardError => e
-        logger&.warn("Failed to inspect #{path} for published flag: #{e.message}")
+        Mayhem::Logging.logger.warn("Failed to inspect #{path} for published flag: #{e.message}")
         false
       end
     end

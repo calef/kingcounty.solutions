@@ -94,6 +94,8 @@ module Mayhem
     end
 
     class CandidateCollector
+      include Mayhem::Loggable
+
       include UrlHelpers
 
       def initialize(html, final_url)
@@ -210,6 +212,8 @@ module Mayhem
     end
 
     class SecondaryPageCollector
+      include Mayhem::Loggable
+
       include UrlHelpers
 
       def initialize(html, final_url)
@@ -281,11 +285,12 @@ module Mayhem
     end
 
     class FeedFinder
+      include Mayhem::Loggable
+
       include UrlHelpers
 
-      def initialize(http_client, logger: LOGGER)
+      def initialize(http_client)
         @http = http_client
-        @logger = logger
       end
 
       def find(website)
@@ -297,7 +302,7 @@ module Mayhem
         result.merge!(html_result)
         result.any? ? result : nil
       rescue StandardError => e
-        @logger.warn "fetch error for #{website}: #{e.message}"
+        logger.warn "fetch error for #{website}: #{e.message}"
         nil
       end
 
@@ -351,7 +356,7 @@ module Mayhem
           begin
             page = fetch_secondary_page(secondary_url)
           rescue StandardError => e
-            @logger.warn "Secondary page error for #{secondary_url}: #{e.message}"
+            logger.warn "Secondary page error for #{secondary_url}: #{e.message}"
             next
           end
           page_html = decode_html(page[:body])
@@ -385,7 +390,7 @@ module Mayhem
 
         nil
       rescue StandardError => e
-        @logger.warn "Verify error for #{url}: #{e.message}"
+        logger.warn "Verify error for #{url}: #{e.message}"
         nil
       end
 

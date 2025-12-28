@@ -4,14 +4,15 @@ require 'yaml'
 
 module Mayhem
   module News
-    class RssImporter
-      class Config
+    class RssImporter      include Mayhem::Loggable
+
+      class Config        include Mayhem::Loggable
+
         MAX_ITEM_AGE_DAYS = 365
 
-        def initialize(max_item_age_days:, config_path:, logger: nil)
+        def initialize(max_item_age_days:, config_path:)
           @max_item_age_days = max_item_age_days
           @config_path = config_path
-          @logger = logger
         end
 
         def max_item_age_days
@@ -31,7 +32,7 @@ module Mayhem
           data = YAML.safe_load_file(config_path)
           data && data['rss_max_item_age_days']
         rescue StandardError => e
-          @logger&.warn("Failed to read config #{config_path}: #{e.message}")
+          logger.warn("Failed to read config #{config_path}: #{e.message}")
           nil
         end
       end

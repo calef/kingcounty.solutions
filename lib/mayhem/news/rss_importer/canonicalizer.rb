@@ -5,15 +5,16 @@ require_relative '../../support/url_normalizer'
 
 module Mayhem
   module News
-    class RssImporter
-      class Canonicalizer
+    class RssImporter      include Mayhem::Loggable
+
+      class Canonicalizer        include Mayhem::Loggable
+
         CANONICAL_REDIRECT_HOSTS = %w[
           pubmed.ncbi.nlm.nih.gov
         ].freeze
 
-        def initialize(http_client:, logger:)
+        def initialize(http_client:)
           @http = http_client
-          @logger = logger
         end
 
         def canonical_link(link_url, html_canonical: nil)
@@ -30,7 +31,7 @@ module Mayhem
           normalized = Mayhem::Support::UrlNormalizer.normalize(resolved)
           normalized || link_url
         rescue StandardError => e
-          @logger.debug "Failed to canonicalize #{link_url}: #{e.message}"
+          logger.debug "Failed to canonicalize #{link_url}: #{e.message}"
           link_url
         end
 

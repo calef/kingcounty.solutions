@@ -18,7 +18,8 @@ require_relative '../content/article_body_extractor'
 
 module Mayhem
   module News
-    class PostSummarizer
+    class PostSummarizer      include Mayhem::Loggable
+
       include Mayhem::SummarizerHelpers
 
       POSTS_DIR = '_posts'
@@ -44,39 +45,33 @@ module Mayhem
         events_dir: EVENTS_DIR,
         client: nil,
         http_client: nil,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         topic_classifier: nil,
         location_classifier: nil,
         news_pruner: nil,
         images_pruner: nil
       )
         @posts_dir = posts_dir
-        @logger = logger
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-        @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
+        @http = http_client || Mayhem::Support::HttpClient.new( @logger)
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
-                              client: @client,
-                              logger: @logger
+                              client: @client
                             )
         @location_classifier = location_classifier ||
                                Mayhem::Locations::Classifier.new(
-                                 client: @client,
-                                 logger: @logger
+                                 client: @client
                                )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
                            posts_dir: posts_dir,
                            events_dir: events_dir,
                            images_dir: images_dir,
-                           assets_dir: assets_dir,
-                           logger: logger
+                           assets_dir: assets_dir
                          )
         @news_pruner = news_pruner ||
                        Mayhem::News::Pruner.new(
                          posts_dir: posts_dir,
-                         images_pruner: @images_pruner,
-                         logger: logger
+                         images_pruner: @images_pruner
                        )
       end
 
@@ -92,7 +87,7 @@ module Mayhem
       private
 
       def process_post(file_path, stats)
-        document = Mayhem::FrontMatter::Document.load(file_path, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(file_path @logger)
         unless document
           stats[:skipped_no_frontmatter] += 1
           return
@@ -100,12 +95,12 @@ module Mayhem
 
         front_matter = document.front_matter
         if front_matter['locked'] == true
-          @logger.debug "Skipping #{file_path}: locked is true"
+          logger.debug "Skipping #{file_path}: locked is true"
           stats[:skipped_locked] += 1
           return
         end
         if front_matter['published'] == false
-          @logger.debug "Skipping #{file_path}: published is false"
+          logger.debug "Skipping #{file_path}: published is false"
           stats[:skipped_unpublished] += 1
           # For unpublished posts during backfill, just set location_titles to empty array
           # without making API calls to classify locations
@@ -114,7 +109,7 @@ module Mayhem
             front_matter['location_titles'] = []
             @news_pruner.unpublish(file_path, document)
             stats[:locations_backfilled] += 1
-            @logger.info "Set location_titles to [] and cleaned up images for unpublished #{file_path}"
+            logger.info "Set location_titles to [] and cleaned up images for unpublished #{file_path}"
           end
           return
         end
@@ -128,7 +123,7 @@ module Mayhem
 
         source_url = front_matter['source_url']
         if needs_summary && source_url.nil?
-          @logger.warn "Skipping #{file_path}: no source_url"
+          logger.warn "Skipping #{file_path}: no source_url"
           stats[:skipped_missing_source] += 1
           return
         end
@@ -144,7 +139,7 @@ module Mayhem
           if prefer_fallback_body?(scraped_text, fallback_text)
             article_text = fallback_text
             html_for_summary = feed_html
-            @logger.debug "Using fallback body for #{file_path}"
+            logger.debug "Using fallback body for #{file_path}"
           else
             article_text = scraped_text
             html_for_summary = scraped_html
@@ -153,13 +148,13 @@ module Mayhem
           html_for_summary ||= feed_html
           article_text = article_text&.strip
           if article_text.to_s.empty?
-            @logger.warn "Skipping #{file_path}: no usable content to summarize"
+            logger.warn "Skipping #{file_path}: no usable content to summarize"
             stats[:failed_summary] += 1
             mark_unsummarizable(document, front_matter)
             return
           end
           if article_text.length > MAX_ARTICLE_CHARS
-            @logger.info "Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
+            logger.info "Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
             article_text = article_text[0, MAX_ARTICLE_CHARS]
           end
 
@@ -182,7 +177,7 @@ module Mayhem
           classified_topic_titles = @topic_classifier.classify(summary_text)
           front_matter['topic_titles'] = classified_topic_titles
           if classified_topic_titles.empty?
-            @logger.info "No topics matched for #{file_path}"
+            logger.info "No topics matched for #{file_path}"
             stats[:missing_topics] += 1
           end
         end
@@ -195,7 +190,7 @@ module Mayhem
           )
           front_matter['location_titles'] = classified_locations
           if classified_locations.empty?
-            @logger.info "No locations matched for #{file_path}"
+            logger.info "No locations matched for #{file_path}"
             stats[:missing_locations] += 1
           end
         end
@@ -212,10 +207,10 @@ module Mayhem
         @news_pruner.unpublish(file_path, document) if should_unpublish
 
         stats[:updated] += 1
-        @logger.info "Updated #{file_path}"
+        logger.info "Updated #{file_path}"
       rescue StandardError => e
         stats[:errors] += 1
-        @logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
+        logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
       end
 
       def generate_summary(article_text, source_url, file_path, stats)
@@ -253,19 +248,19 @@ module Mayhem
               }
             )
             if (error_message = response.dig('error', 'message'))
-              @logger.warn "OpenAI error for #{file_path}: #{error_message}"
+              logger.warn "OpenAI error for #{file_path}: #{error_message}"
               break
             end
 
             summary = response.dig('choices', 0, 'message', 'content')&.strip
             return summary unless summary.to_s.empty?
           rescue Faraday::TooManyRequestsError
-            @logger.warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
+            logger.warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
             sleep 5
           end
         end
 
-        @logger.warn "Skipped #{file_path}: could not summarize"
+        logger.warn "Skipped #{file_path}: could not summarize"
         stats[:failed_summary] += 1
         nil
       end
@@ -276,7 +271,7 @@ module Mayhem
         page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML, max_bytes: MAX_ARTICLE_CHARS)
         Mayhem::Support::EncodingUtils.ensure_utf8(page[:body])
       rescue StandardError => e
-        @logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"
+        logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"
         nil
       end
 
@@ -294,7 +289,7 @@ module Mayhem
           errors: stats[:errors]
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
-        @logger.info "News summarization complete: #{summary_text}"
+        logger.info "News summarization complete: #{summary_text}"
       end
 
       # Ensure required fields are present even when we cannot summarize due to missing content

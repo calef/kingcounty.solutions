@@ -7,7 +7,8 @@ require_relative '../models/topic'
 
 module Mayhem
   module Topics
-    class OrganizationAudit
+    class OrganizationAudit      include Mayhem::Loggable
+
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_AUDIT_MODEL', 'gpt-4o-mini')
       DEFAULT_MAX_POSTS = 5
 
@@ -19,8 +20,7 @@ module Mayhem
         output: nil,
         apply: false,
         organization_model: Mayhem::Models::Organization,
-        topic_model: Mayhem::Models::Topic,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        topic_model: Mayhem::Models::Topic
       )
         @client = client
         @model = model
@@ -30,7 +30,6 @@ module Mayhem
         @apply = apply
         @organization_model = organization_model
         @topic_model = topic_model
-        @logger = logger
         @report = []
       end
 
@@ -55,10 +54,10 @@ module Mayhem
         org_title = org.title
         posts = load_recent_posts(org)
 
-        @logger.info "Auditing #{org_title}..."
+        logger.info "Auditing #{org_title}..."
         result = audit_org(org, topics, posts)
         unless result
-          @logger.warn "Skipping #{org_title} due to parse errors"
+          logger.warn "Skipping #{org_title} due to parse errors"
           return
         end
 
@@ -93,7 +92,7 @@ module Mayhem
         candidate = normalize_response(content)
         JSON.parse(candidate)
       rescue JSON::ParserError
-        @logger.warn "Non-JSON response for #{org_title}: #{content.inspect}"
+        logger.warn "Non-JSON response for #{org_title}: #{content.inspect}"
         nil
       end
 
@@ -197,13 +196,13 @@ module Mayhem
         updated_topics = (Array(org.topic_titles) - removals + additions).uniq.sort
         org['topic_titles'] = updated_topics
         org.save!
-        @logger.info "Updated #{org.id} topic_titles: #{updated_topics.join(', ')}"
+        logger.info "Updated #{org.id} topic_titles: #{updated_topics.join(', ')}"
       end
 
       def write_report
         if @output
           File.write(@output, JSON.pretty_generate(@report))
-          @logger.info "Report written to #{@output}"
+          logger.info "Report written to #{@output}"
         else
           print_report
         end
@@ -211,11 +210,11 @@ module Mayhem
 
       def print_report
         @report.each do |entry|
-          @logger.info "== #{entry[:org]} =="
-          @logger.info "Add:#{entry[:additions].empty? ? ' (none)' : " #{entry[:additions].join(', ')}"}"
-          @logger.info "Remove:#{entry[:removals].empty? ? ' (none)' : " #{entry[:removals].join(', ')}"}"
-          @logger.info "Unclear: #{entry[:unclear].join(', ')}" unless entry[:unclear].empty?
-          @logger.info "Notes: #{entry[:notes]}" if entry[:notes]
+          logger.info "== #{entry[:org]} =="
+          logger.info "Add:#{entry[:additions].empty? ? ' (none)' : " #{entry[:additions].join(', ')}"}"
+          logger.info "Remove:#{entry[:removals].empty? ? ' (none)' : " #{entry[:removals].join(', ')}"}"
+          logger.info "Unclear: #{entry[:unclear].join(', ')}" unless entry[:unclear].empty?
+          logger.info "Notes: #{entry[:notes]}" if entry[:notes]
         end
       end
     end

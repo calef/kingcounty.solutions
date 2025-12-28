@@ -6,19 +6,18 @@ require_relative 'repository'
 
 module Mayhem
   module Locations
-    class Classifier
+    class Classifier      include Mayhem::Loggable
+
       DEFAULT_MODEL = ENV.fetch('OPENAI_LOCATION_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
 
       def initialize(
         location_repository: nil,
         client: nil,
-        model: DEFAULT_MODEL,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        model: DEFAULT_MODEL
       )
-        @location_repository = location_repository || Repository.new(logger: logger)
+        @location_repository = location_repository || Repository.new( logger)
         @model = model
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-        @logger = logger
       end
 
       def classify(content_text, content_title: nil, content_location: nil, content_source: nil)
@@ -44,22 +43,22 @@ module Mayhem
             )
 
             if (error_message = response.dig('error', 'message'))
-              @logger.warn "OpenAI error during location classification: #{error_message}"
+              logger.warn "OpenAI error during location classification: #{error_message}"
               break
             end
 
             result = response.dig('choices', 0, 'message', 'content')&.strip
             return parse_location_response(result, locations) unless result.to_s.empty?
           rescue Faraday::TooManyRequestsError
-            @logger.warn "Rate limited during location classification, waiting 5 seconds (attempt #{attempts})"
+            logger.warn "Rate limited during location classification, waiting 5 seconds (attempt #{attempts})"
             sleep 5
           rescue StandardError => e
-            @logger.error "Error during location classification: #{e.class} - #{e.message}"
+            logger.error "Error during location classification: #{e.class} - #{e.message}"
             break
           end
         end
 
-        @logger.warn 'Failed to classify locations after retries'
+        logger.warn 'Failed to classify locations after retries'
         []
       end
 
@@ -106,7 +105,7 @@ module Mayhem
 
           @location_repository.filter_to_highest_level(matched_titles, locations)
         rescue JSON::ParserError => e
-          @logger.warn "Failed to parse location response as JSON: #{e.message}"
+          logger.warn "Failed to parse location response as JSON: #{e.message}"
           []
         end
       end

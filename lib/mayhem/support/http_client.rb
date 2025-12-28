@@ -137,7 +137,7 @@ module Mayhem
           )
           sleep @delay
         rescue ForbiddenError => e
-          @logger.warn "Access forbidden (HTTP 403) for #{url}, not retrying"
+          logger.warn "Access forbidden (HTTP 403) for #{url}, not retrying"
           raise
         rescue TooManyRequestsError => e
           raise if attempt > @max_retries
@@ -150,7 +150,7 @@ module Mayhem
           raise if attempt > @max_retries
 
           wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
-          @logger.warn(
+          logger.warn(
             "Retrying #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s " \
             "(attempt #{attempt}/#{max_attempts})"
           )
@@ -172,10 +172,10 @@ module Mayhem
           status = result[:status]
           return result[:url] if status && status >= 200 && status < 300
 
-          @logger.debug "Skipping canonical redirect for #{url} due to status #{status}" if status
+          logger.debug "Skipping canonical redirect for #{url} due to status #{status}" if status
           nil
         rescue ForbiddenError => e
-          @logger.debug "Access forbidden (HTTP 403) for #{url}, not retrying"
+          logger.debug "Access forbidden (HTTP 403) for #{url}, not retrying"
           nil
         rescue TooManyRequestsError => e
           raise if attempt > @max_retries
@@ -188,17 +188,17 @@ module Mayhem
           raise if attempt > @max_retries
 
           wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
-          @logger.warn(
+          logger.warn(
             "Retrying HEAD #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s " \
             "(attempt #{attempt}/#{max_attempts})"
           )
           sleep wait
           retry
         rescue URI::InvalidURIError => e
-          @logger.debug "Invalid URI for canonical resolution (#{url}): #{e.message}"
+          logger.debug "Invalid URI for canonical resolution (#{url}): #{e.message}"
           nil
         rescue StandardError => e
-          @logger.debug "Failed to resolve canonical URL for #{url}: #{e.message}"
+          logger.debug "Failed to resolve canonical URL for #{url}: #{e.message}"
           nil
         end
       end
@@ -221,7 +221,7 @@ module Mayhem
             response: response
           }
         rescue ForbiddenError => e
-          @logger.debug "Access forbidden (HTTP 403) for #{url}, not retrying"
+          logger.debug "Access forbidden (HTTP 403) for #{url}, not retrying"
           {
             status: 403,
             final_url: e.url || url,
@@ -244,17 +244,17 @@ module Mayhem
           raise if attempt > @max_retries
 
           wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
-          @logger.warn(
+          logger.warn(
             "Retrying #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s " \
             "(attempt #{attempt}/#{max_attempts})"
           )
           sleep wait
           retry
         rescue URI::InvalidURIError => e
-          @logger.debug "Invalid URI while checking status (#{url}): #{e.message}"
+          logger.debug "Invalid URI while checking status (#{url}): #{e.message}"
           nil
         rescue StandardError => e
-          @logger.debug "Failed to check status for #{url}: #{e.message}"
+          logger.debug "Failed to check status for #{url}: #{e.message}"
           nil
         end
       end
@@ -265,7 +265,7 @@ module Mayhem
         operation = error.operation || 'unknown'
         origin = error.origin_url || 'unknown'
         request = error.url || 'unknown'
-        @logger.warn(
+        logger.warn(
           "Backoff after 429 during #{operation} " \
           "(origin=#{origin}, request=#{request}) for #{format('%.2f', wait)}s " \
           "(attempt #{attempt}/#{max_attempts})"

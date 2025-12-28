@@ -27,7 +27,7 @@ module Mayhem
         rescue Net::HTTPBadResponse => e
           raise unless chunked_response_error?(e)
 
-          @logger.warn "Bad chunked response for #{uri}, retrying with HTTP/1.0"
+          logger.warn "Bad chunked response for #{uri}, retrying with HTTP/1.0"
           perform_http_request(
             uri,
             accept,
@@ -112,19 +112,19 @@ module Mayhem
         def retry_without_verification(uri, accept, error, &)
           return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback
 
-          @logger.warn "SSL error (#{error.message}), retrying without verification for #{uri}"
+          logger.warn "SSL error (#{error.message}), retrying without verification for #{uri}"
           perform_http_request(uri, accept, OpenSSL::SSL::VERIFY_NONE, &)
         end
 
         def retry_without_verification_head(uri, error)
           return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback
 
-          @logger.warn "SSL error (#{error.message}), retrying HEAD without verification for #{uri}"
+          logger.warn "SSL error (#{error.message}), retrying HEAD without verification for #{uri}"
           perform_http_head(uri, OpenSSL::SSL::VERIFY_NONE)
         end
 
         def handle_terminal_ssl_error(uri, error)
-          @logger.warn "SSL error for #{uri}: #{error.message}"
+          logger.warn "SSL error for #{uri}: #{error.message}"
           raise error
         end
 

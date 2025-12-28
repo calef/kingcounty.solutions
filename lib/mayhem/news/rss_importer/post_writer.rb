@@ -5,14 +5,15 @@ require_relative '../../front_matter/slug_generator'
 
 module Mayhem
   module News
-    class RssImporter
-      class PostWriter
+    class RssImporter      include Mayhem::Loggable
+
+      class PostWriter        include Mayhem::Loggable
+
         MAX_FILENAME_BYTES = 255
         DEFAULT_NEWS_DIR = '_posts'
 
-        def initialize(news_model:, logger:)
+        def initialize(news_model:)
           @news_model = news_model
-          @logger = logger
         end
 
         def write(source_title, title_text, link_url, published_time, original_html, rss_guid = nil, published: nil)
@@ -29,17 +30,17 @@ module Mayhem
           existing = find_existing_post(record_id)
 
           if existing&.locked?
-            @logger.info "Skipping update for locked post #{existing.path || record_id}"
+            logger.info "Skipping update for locked post #{existing.path || record_id}"
             return :skipped_locked
           end
 
           if existing && existing.published == false
-            @logger.info "Skipping update for unpublished post #{existing.path || record_id}"
+            logger.info "Skipping update for unpublished post #{existing.path || record_id}"
             return :skipped_unpublished
           end
 
           if unchanged_post?(existing, normalized_html, checksum, link_url)
-            @logger.debug "Skipping unchanged post #{existing.path || record_id}"
+            logger.debug "Skipping unchanged post #{existing.path || record_id}"
             return :skipped_unchanged
           end
 
@@ -86,7 +87,7 @@ module Mayhem
           existing_normalized = Mayhem::Content::HtmlNormalizer.normalize(existing_content, base_url: base_url)
           existing_normalized == normalized_html
         rescue StandardError => e
-          @logger.debug "Failed to compare existing post #{record&.path || record&.id}: #{e.message}"
+          logger.debug "Failed to compare existing post #{record&.path || record&.id}: #{e.message}"
           false
         end
       end

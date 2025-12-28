@@ -81,7 +81,7 @@ module Mayhem
       private
 
       def process_post(path, cache, stats)
-        document = Mayhem::FrontMatter::Document.load(path, logger:)
+        document = Mayhem::FrontMatter::Document.load(path)
         unless document
           stats[:missing_frontmatter] += 1
           return

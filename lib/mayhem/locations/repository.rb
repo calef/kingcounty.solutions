@@ -5,15 +5,14 @@ require_relative '../models/location'
 
 module Mayhem
   module Locations
-    class Repository
+    class Repository      include Mayhem::Loggable
+
       def initialize(
         location_repo: nil,
-        location_model: Mayhem::Models::Location,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        location_model: Mayhem::Models::Location
       )
         @location_repo = location_repo
         @location_model = location_model
-        @logger = logger
         @locations_cache = nil
       end
 

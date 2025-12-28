@@ -8,7 +8,8 @@ require_relative '../models/topic'
 
 module Mayhem
   module Topics
-    class Classifier
+    class Classifier      include Mayhem::Loggable
+
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-5.1'))
       DEFAULT_TEMPERATURE = 0.2
 
@@ -17,14 +18,12 @@ module Mayhem
         topic_repo: nil,
         topic_model: Mayhem::Models::Topic,
         client: nil,
-        chat_client: nil,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        chat_client: nil
       )
         @model = model
         @topic_repo = topic_repo
         @topic_model = topic_model
-        @logger = logger
-        @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(client: client, logger: @logger)
+        @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(client: client)
       end
 
       def classify(text)
@@ -70,17 +69,17 @@ module Mayhem
             selections = Array(parsed).map(&:to_s).select { |title| allowed_titles.include?(title) }.uniq
             return selections
           rescue Faraday::TooManyRequestsError
-            @logger.warn 'Rate limited during topic classification, waiting 5 seconds ' \
+            logger.warn 'Rate limited during topic classification, waiting 5 seconds ' \
                          "before retry (attempt #{attempts})"
             sleep 5
           rescue JSON::ParserError
-            @logger.warn "Non-JSON response while classifying topics: #{response.inspect}"
+            logger.warn "Non-JSON response while classifying topics: #{response.inspect}"
           end
         end
 
         []
       rescue StandardError => e
-        @logger.warn "Topic classification failed: #{e.message}"
+        logger.warn "Topic classification failed: #{e.message}"
         []
       end
     end
