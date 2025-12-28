@@ -72,6 +72,17 @@ module Mayhem
         end
       end
 
+      class ForbiddenError < StandardError
+        attr_reader :url, :origin_url, :operation
+
+        def initialize(url:, origin_url:, operation:)
+          super("HTTP 403 Forbidden for #{url}")
+          @url = url
+          @origin_url = origin_url
+          @operation = operation
+        end
+      end
+
       def initialize(user_agent: UA, delay: DEFAULTS[:delay], max_redirects: DEFAULTS[:max_redirects],
                      timeout: nil, open_timeout: nil, read_timeout: nil,
                      max_retries: DEFAULTS[:max_retries],
@@ -128,6 +139,9 @@ module Mayhem
             operation: 'content_fetch'
           )
           sleep @delay
+        rescue ForbiddenError => e
+          @logger.warn "Access forbidden (HTTP 403) for #{url}, not retrying"
+          raise
         rescue TooManyRequestsError => e
           raise if attempt > @max_retries
 
@@ -162,6 +176,9 @@ module Mayhem
           return result[:url] if status && status >= 200 && status < 300
 
           @logger.debug "Skipping canonical redirect for #{url} due to status #{status}" if status
+          nil
+        rescue ForbiddenError => e
+          @logger.debug "Access forbidden (HTTP 403) for #{url}, not retrying"
           nil
         rescue TooManyRequestsError => e
           raise if attempt > @max_retries
@@ -205,6 +222,13 @@ module Mayhem
             status: response.code.to_i,
             final_url: payload[:final_url],
             response: response
+          }
+        rescue ForbiddenError => e
+          @logger.debug "Access forbidden (HTTP 403) for #{url}, not retrying"
+          {
+            status: 403,
+            final_url: e.url || url,
+            response: nil
           }
         rescue NotFoundError => e
           {

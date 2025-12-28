@@ -92,6 +92,39 @@ class HttpClientTest < Minitest::Test
     end
   end
 
+  def test_response_for_handles_forbidden_error
+    error = Mayhem::Support::HttpClient::ForbiddenError.new(
+      url: 'https://example.com',
+      origin_url: 'https://example.com',
+      operation: 'status_check'
+    )
+    @request_flow.stub(:fetch_with_redirects, proc { raise error }) do
+      result = @client.response_for('https://example.com')
+      assert_equal 403, result[:status]
+      assert_equal 'https://example.com', result[:final_url]
+      assert_nil result[:response]
+    end
+  end
+
+  def test_fetch_does_not_retry_forbidden_error
+    error = Mayhem::Support::HttpClient::ForbiddenError.new(
+      url: 'https://example.com',
+      origin_url: 'https://example.com',
+      operation: 'content_fetch'
+    )
+    
+    call_count = 0
+    @request_flow.stub(:fetch_with_redirects, proc do
+      call_count += 1
+      raise error
+    end) do
+      assert_raises(Mayhem::Support::HttpClient::ForbiddenError) do
+        @client.fetch('https://example.com', accept: 'text/html', max_bytes: 0)
+      end
+      assert_equal 1, call_count, 'Forbidden error should not be retried'
+    end
+  end
+
   # Public API: fetch
 
   def test_fetch_returns_payload_body

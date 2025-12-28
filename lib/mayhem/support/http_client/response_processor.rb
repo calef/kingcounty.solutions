@@ -18,6 +18,7 @@ module Mayhem
           status_code = response.code.to_i
 
           raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if status_code == 429
+          raise ForbiddenError.new(url: uri.to_s, origin_url: origin_url, operation: operation) if status_code == 403
           raise NotFoundError.new(url: uri.to_s, origin_url: origin_url, operation: operation, status: status_code) if status_code == 404
 
           raise OpenURI::HTTPError.new("#{response.code} #{response.message} for #{uri}", response) unless response.is_a?(Net::HTTPSuccess)
