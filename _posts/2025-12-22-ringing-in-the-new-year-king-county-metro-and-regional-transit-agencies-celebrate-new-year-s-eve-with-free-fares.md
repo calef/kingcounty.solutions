@@ -16,6 +16,7 @@ original_source_html: King County Executive Girmay Zahilay announced today that 
   Eve, Dec. 31. Riders can travel without paying fares on King County Metro, Sound
   Transit, Community Transit, Everett Transit, Pierce Transit and the Seattle Streetcar
   as part of their holiday celebrations. “Leaving the…
+published: false
 rss_guid: https://kingcountymetro.blog/?p=67983
 slug: ringing-in-the-new-year-king-county-metro-and-regional-transit-agencies-celebrate-new-year-s-eve-with-free-fares
 source_url: https://kingcountymetro.blog/2025/12/22/king-county-metro-and-regional-transit-agencies-to-help-riders-celebrate-with-free-fares-on-new-years-eve-2/
