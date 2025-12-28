@@ -2,7 +2,6 @@
 acronym: QAFB
 address: 205 2nd Avenue N, Seattle, WA 98109
 email: QueenAnneFoodBank@ccsww.org
-news_rss_url: https://sacredheartseattle.org/newsRSS
 parent_organization_title: Catholic Community Services of Western Washington
 phone: 206-216-4102
 title: Queen Anne Food Bank at Sacred Heart

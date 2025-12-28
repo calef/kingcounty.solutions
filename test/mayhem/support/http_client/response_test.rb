@@ -116,6 +116,16 @@ module Mayhem
           end
         end
 
+        def test_perform_request_raises_on_forbidden
+          response = HttpClientTestHelpers::FakeResponse.new('403', {})
+          transport = Object.new
+          transport.define_singleton_method(:execute_get) { |_uri, _accept, operation: nil| response }
+          request_flow = build_request_flow(transport, max_redirects: 2)
+          assert_raises(Mayhem::Support::HttpClient::ForbiddenError) do
+            request_flow.fetch_with_redirects('https://example.com', 'text/html', 2, origin_url: 'https://example.com', operation: 'op')
+          end
+        end
+
         def test_follow_redirect_requires_location_and_limit
           response = HttpClientTestHelpers::FakeResponse.new(301, {})
           transport = Object.new

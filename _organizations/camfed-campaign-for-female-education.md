@@ -1,6 +1,5 @@
 ---
 acronym: CAMFED
-news_rss_url: https://camfed.org/feed/
 title: CAMFED - Campaign for Female Education
 topic_titles:
 - Education & Learning
