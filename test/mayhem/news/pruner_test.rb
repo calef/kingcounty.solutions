@@ -8,6 +8,8 @@ require 'mayhem/images/pruner'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
+# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
+
 class NewsPrunerTest < Minitest::Test
   def setup
     @tmpdir = Dir.mktmpdir('news-pruner')

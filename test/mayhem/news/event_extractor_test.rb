@@ -8,6 +8,8 @@ require 'mayhem/news/event_extractor'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
+# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
+
 class EventExtractorTest < Minitest::Test
   def setup
     @tmpdir = Dir.mktmpdir('event-extractor')

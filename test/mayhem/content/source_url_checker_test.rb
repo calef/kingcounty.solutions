@@ -7,6 +7,8 @@ require 'mayhem/content/source_url_checker'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
+# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
+
 class SourceUrlCheckerTest < Minitest::Test
   def setup
     @tmpdir = Dir.mktmpdir('source-url-checker')

@@ -7,6 +7,8 @@ require_relative '../../test_helper'
 require 'mayhem/events/stale_event_cleaner'
 require 'mayhem/front_matter/document'
 
+# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
+
 class StaleEventCleanerTest < Minitest::Test
   def setup
     @tmpdir = Dir.mktmpdir('stale-events')

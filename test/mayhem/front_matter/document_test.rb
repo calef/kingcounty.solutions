@@ -4,6 +4,8 @@ require 'tmpdir'
 require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/front_matter/document'
 
+# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
+
 module Support
   class FrontMatterDocumentTest < Minitest::Test
     def test_load_reads_front_matter_and_body
