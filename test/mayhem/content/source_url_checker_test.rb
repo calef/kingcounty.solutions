@@ -1,21 +1,30 @@
 # frozen_string_literal: true
 
 require 'fileutils'
-require 'tmpdir'
 require_relative '../../test_helper'
 require 'mayhem/content/source_url_checker'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
+require 'mayhem/models/event'
+require 'mayhem/models/image'
+require 'mayhem/models/news'
 
 # TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
 
 class SourceUrlCheckerTest < Minitest::Test
   def setup
-    @tmpdir = Dir.mktmpdir('source-url-checker')
-    @posts_dir = File.join(@tmpdir, '_posts')
-    @events_dir = File.join(@tmpdir, '_events')
-    @images_dir = File.join(@tmpdir, '_images')
-    @assets_dir = File.join(@tmpdir, 'assets', 'images')
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @events_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
+    @images_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :images)
+
+    @news_repo = Mayhem::Models::News.repo
+    @events_repo = Mayhem::Models::Event.repo
+    @images_repo = Mayhem::Models::Image.repo
+
+    @posts_dir = @news_repo.root.join('_posts').to_s
+    @events_dir = @events_repo.root.join('_events').to_s
+    @images_dir = @images_repo.root.join('_images').to_s
+    @assets_dir = @images_repo.root.join('assets', 'images').to_s
     FileUtils.mkdir_p(@posts_dir)
     FileUtils.mkdir_p(@events_dir)
     FileUtils.mkdir_p(@images_dir)
@@ -24,7 +33,9 @@ class SourceUrlCheckerTest < Minitest::Test
   end
 
   def teardown
-    FileUtils.remove_entry(@tmpdir)
+    @news_repo_override.cleanup if @news_repo_override
+    @events_repo_override.cleanup if @events_repo_override
+    @images_repo_override.cleanup if @images_repo_override
   end
 
   def test_successful_url_check_does_not_modify_post
