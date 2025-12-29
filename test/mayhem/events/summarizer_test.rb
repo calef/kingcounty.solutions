@@ -71,29 +71,25 @@ class EventSummarizerTest < Minitest::Test
   end
 
   def setup
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
     @tmp_events = Dir.mktmpdir('events')
-    @tmp_posts = Dir.mktmpdir('posts')
+    @tmp_posts = Mayhem::Models::News.collection_dir
     @tmp_topics = Dir.mktmpdir('topics')
     @tmp_images = Dir.mktmpdir('images')
     @tmp_assets_root = Dir.mktmpdir('assets')
     @tmp_assets = File.join(@tmp_assets_root, 'images')
     FileUtils.mkdir_p(@tmp_assets)
     @logger = FakeLogger.new
+    FileUtils.mkdir_p(@tmp_posts)
     Mayhem::Logging.logger = @logger
-    @original_posts_dir = Mayhem::Events::EventSummarizer.const_get(:POSTS_DIR)
-    Mayhem::Events::EventSummarizer.send(:remove_const, :POSTS_DIR)
-    Mayhem::Events::EventSummarizer.const_set(:POSTS_DIR, @tmp_posts)
   end
 
   def teardown
     Mayhem::Logging.reset_logger
     FileUtils.remove_entry(@tmp_events)
-    FileUtils.remove_entry(@tmp_posts)
     FileUtils.remove_entry(@tmp_topics)
     FileUtils.remove_entry(@tmp_images)
     FileUtils.remove_entry(@tmp_assets_root)
-    Mayhem::Events::EventSummarizer.send(:remove_const, :POSTS_DIR)
-    Mayhem::Events::EventSummarizer.const_set(:POSTS_DIR, @original_posts_dir)
   end
 
   def write_event(slug, front_matter, body = '')

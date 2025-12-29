@@ -12,6 +12,7 @@ require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../support/encoding_utils'
 require_relative '../summarizer/helpers'
+require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
@@ -22,7 +23,6 @@ module Mayhem
       include Mayhem::SummarizerHelpers
 
       EVENTS_DIR = '_events'
-      POSTS_DIR = '_posts'
       IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       MAX_ARTICLE_CHARS = 20_000
@@ -41,6 +41,7 @@ module Mayhem
         images_pruner: nil
       )
         @events_dir = events_dir
+        @posts_dir = Mayhem::Models::News.collection_dir
         @model = model
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new
@@ -54,14 +55,12 @@ module Mayhem
                                )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           posts_dir: POSTS_DIR,
                            events_dir: events_dir,
                            images_dir: images_dir,
                            assets_dir: assets_dir
                          )
         @event_pruner = event_pruner ||
                         Mayhem::Events::Pruner.new(
-                          posts_dir: POSTS_DIR,
                           events_dir: events_dir,
                           images_pruner: @images_pruner
                         )
@@ -306,7 +305,7 @@ module Mayhem
 
       def remove_event_references(event_id)
         updated_posts = 0
-        Dir.glob(File.join(POSTS_DIR, '*.md')).each do |post_path|
+        Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
           document = Mayhem::FrontMatter::Document.load(post_path)
           next unless document
 
