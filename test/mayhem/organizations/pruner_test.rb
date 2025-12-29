@@ -18,10 +18,11 @@ class OrganizationsPrunerTest < Minitest::Test
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
     @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
     @org_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :organizations)
+    @images_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :images)
     @posts_dir = Mayhem::Models::News.collection_dir
     @events_dir = Mayhem::Models::Event.collection_dir
-    @images_dir = Mayhem::Models::Event.repo.root.join('_images').to_s
-    @assets_dir = Mayhem::Models::Event.repo.root.join('assets', 'images').to_s
+    @images_dir = Mayhem::Models::Image.collection_dir
+    @assets_dir = Dir.mktmpdir('assets')
     @organizations_dir = Mayhem::Models::Organization.collection_dir
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir, @organizations_dir])
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
@@ -50,6 +51,8 @@ class OrganizationsPrunerTest < Minitest::Test
     @news_repo_override.cleanup if @news_repo_override
     @event_repo_override.cleanup if @event_repo_override
     @org_repo_override.cleanup if @org_repo_override
+    @images_repo_override.cleanup if @images_repo_override
+    FileUtils.remove_entry(@assets_dir) if @assets_dir && File.exist?(@assets_dir)
   end
 
   def test_prune_organization_content_removes_posts_and_events

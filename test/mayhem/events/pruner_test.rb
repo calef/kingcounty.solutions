@@ -14,10 +14,11 @@ class EventsPrunerTest < Minitest::Test
   def setup
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
     @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
+    @images_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :images)
     @posts_dir = Mayhem::Models::News.collection_dir
     @events_dir = Mayhem::Models::Event.collection_dir
-    @images_dir = Mayhem::Models::Event.repo.root.join('_images').to_s
-    @assets_dir = Mayhem::Models::Event.repo.root.join('assets', 'images').to_s
+    @images_dir = Mayhem::Models::Image.collection_dir
+    @assets_dir = Dir.mktmpdir('assets')
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir])
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
     @images_pruner = Mayhem::Images::Pruner.new(
@@ -32,6 +33,8 @@ class EventsPrunerTest < Minitest::Test
   def teardown
     @news_repo_override.cleanup if @news_repo_override
     @event_repo_override.cleanup if @event_repo_override
+    @images_repo_override.cleanup if @images_repo_override
+    FileUtils.remove_entry(@assets_dir) if @assets_dir && File.exist?(@assets_dir)
   end
 
   def test_delete_removes_file_and_cleans_post_references
