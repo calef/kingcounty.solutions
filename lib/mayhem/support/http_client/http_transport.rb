@@ -17,10 +17,10 @@ module Mayhem
           { label: '1.0', option: 'httpv1_0' }
         ].freeze
 
-        def initialize(operation_delay_manager:, user_agent: UA,
-                       open_timeout: DEFAULTS[:timeout],
-                       read_timeout: DEFAULTS[:timeout],
-                       allow_insecure_fallback: DEFAULTS[:allow_insecure_fallback])
+        def initialize(operation_delay_manager:, user_agent: HttpClient::UA,
+                       open_timeout: HttpClient::DEFAULTS[:timeout],
+                       read_timeout: HttpClient::DEFAULTS[:timeout],
+                       allow_insecure_fallback: HttpClient::DEFAULTS[:allow_insecure_fallback])
           @user_agent = user_agent
           @open_timeout = open_timeout
           @read_timeout = read_timeout

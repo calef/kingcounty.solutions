@@ -31,10 +31,10 @@ module Mayhem
             new(path:, front_matter: result.front_matter, body: result.body)
           end
         rescue Errno::ENOENT
-          logger.trace("Missing file: #{path}") if defined?(logger)
+          logger.trace("Missing file: #{path}")
           nil
         rescue ParseError => e
-          logger.warn("Failed to parse #{path}: #{e.message}") if defined?(logger)
+          logger.warn("Failed to parse #{path}: #{e.message}")
           nil
         end
 
