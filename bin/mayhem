@@ -185,7 +185,8 @@ module Mayhem
         organization_title = args.first
         logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem')
 
-        Mayhem::Organizations::Pruner.prune(organization_title, logger: logger)
+        Mayhem::Logging.logger = logger
+        Mayhem::Organizations::Pruner.prune(organization_title)
       end
 
       def run_expire(_args)

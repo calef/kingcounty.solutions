@@ -23,13 +23,11 @@ class EventsPrunerTest < Minitest::Test
     @images_pruner = Mayhem::Images::Pruner.new(
       events_dir: @events_dir,
       images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      logger: @logger
+      assets_dir: @assets_dir
     )
     @pruner = Mayhem::Events::Pruner.new(
       events_dir: @events_dir,
-      images_pruner: @images_pruner,
-      logger: @logger
+      images_pruner: @images_pruner
     )
   end
 

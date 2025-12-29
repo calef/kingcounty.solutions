@@ -12,7 +12,7 @@ class ImageFilesValidatorTest < Minitest::Test
 
   def setup
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
-    @validator = Mayhem::ImageFiles::Validator.new(logger: @logger, min_dimension: 300)
+    @validator = Mayhem::ImageFiles::Validator.new(min_dimension: 300)
   end
 
   def test_allowed_extension_returns_true_for_valid_extensions
@@ -76,7 +76,7 @@ class ImageFilesValidatorTest < Minitest::Test
   end
 
   def test_meets_minimum_dimensions_returns_true_when_min_dimension_is_zero
-    validator = Mayhem::ImageFiles::Validator.new(logger: @logger, min_dimension: 0)
+    validator = Mayhem::ImageFiles::Validator.new(min_dimension: 0)
     stats = Hash.new(0)
     assert validator.meets_minimum_dimensions?('data', 'https://example.com/img.jpg', stats)
     assert_equal 0, stats[:skipped_small_images]

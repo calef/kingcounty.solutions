@@ -25,7 +25,6 @@ class ImageExtractorUnitTest < Minitest::Test
       events_dir: nil,
       image_docs_dir: @tmp_images,
       asset_dir: @tmp_assets,
-      logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
       http_client: @http
     )
   end

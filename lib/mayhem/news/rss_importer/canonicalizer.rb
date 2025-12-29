@@ -1,19 +1,23 @@
 # frozen_string_literal: true
 
 require 'uri'
+require_relative '../../support/http_client'
 require_relative '../../support/url_normalizer'
 
 module Mayhem
   module News
     class RssImporter
+      include Mayhem::Loggable
+
       class Canonicalizer
+        include Mayhem::Loggable
+
         CANONICAL_REDIRECT_HOSTS = %w[
           pubmed.ncbi.nlm.nih.gov
         ].freeze
 
-        def initialize(http_client:, logger:)
-          @http = http_client
-          @logger = logger
+        def initialize(http_client: nil)
+          @http = http_client || Mayhem::Support::HttpClient.new
         end
 
         def canonical_link(link_url, html_canonical: nil)
@@ -30,7 +34,7 @@ module Mayhem
           normalized = Mayhem::Support::UrlNormalizer.normalize(resolved)
           normalized || link_url
         rescue StandardError => e
-          @logger.debug "Failed to canonicalize #{link_url}: #{e.message}"
+          logger.debug "Failed to canonicalize #{link_url}: #{e.message}"
           link_url
         end
 

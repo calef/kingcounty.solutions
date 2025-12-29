@@ -3,6 +3,7 @@
 require 'fileutils'
 
 require_relative '../front_matter/document'
+require_relative '../logging'
 require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -10,14 +11,15 @@ require_relative '../models/news'
 module Mayhem
   module Images
     class Pruner
+      include Mayhem::Loggable
+
       attr_reader :posts_dir, :events_dir, :images_dir, :assets_dir
 
-      def initialize(images_dir:, assets_dir:, logger:, events_dir: nil)
+      def initialize(images_dir:, assets_dir:, events_dir: nil)
         @posts_dir = Mayhem::Models::News.collection_dir
         @events_dir = events_dir
         @images_dir = images_dir
         @assets_dir = assets_dir
-        @logger = logger
       end
 
       def collect_image_checksums(front_matter)
@@ -30,7 +32,7 @@ module Mayhem
         Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
           next if excluded_paths.include?(path)
 
-          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(path)
           next unless document
 
           collect_image_checksums(document.front_matter).each { |id| counts[id] += 1 }
@@ -40,7 +42,7 @@ module Mayhem
           Dir.glob(File.join(@events_dir, '*.md')).each do |path|
             next if excluded_paths.include?(path)
 
-            document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
+            document = Mayhem::FrontMatter::Document.load(path)
             next unless document
 
             collect_image_checksums(document.front_matter).each { |id| counts[id] += 1 }

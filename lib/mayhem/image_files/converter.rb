@@ -2,15 +2,12 @@
 
 require 'mini_magick'
 require_relative 'validator'
+require_relative '../logging'
 
 module Mayhem
   module ImageFiles
     class Converter
-      attr_reader :logger
-
-      def initialize(logger:)
-        @logger = logger
-      end
+      include Mayhem::Loggable
 
       def convert_to_webp(data, ext, source_url)
         ext = ext.to_s.downcase

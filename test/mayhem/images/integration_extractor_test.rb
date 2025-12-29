@@ -17,6 +17,8 @@ class ImageExtractorIntegrationTest < Minitest::Test
     @tmp_images = Dir.mktmpdir
     @assets = Dir.mktmpdir
     FileUtils.mkdir_p(@tmp_posts)
+    @assets_images = File.join(@assets, 'images')
+    FileUtils.mkdir_p(@assets_images)
 
     # create a post with original_source_html containing an image
     fm = <<~MD
@@ -41,8 +43,7 @@ class ImageExtractorIntegrationTest < Minitest::Test
       @extractor = Mayhem::Images::Extractor.new(
         events_dir: @tmp_events,
         image_docs_dir: @tmp_images,
-        asset_dir: @assets,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
+        asset_dir: @assets),
         min_dimension: 0
       )
     end

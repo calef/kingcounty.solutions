@@ -21,6 +21,8 @@ require_relative 'rss_importer/source_enumerator'
 module Mayhem
   module News
     class RssImporter
+      include Mayhem::Loggable
+
       ARTICLE_BODY_SELECTORS = Mayhem::Content::ArticleBodySelectors::SELECTORS
 
       DEFAULT_SOURCES_DIR = '_organizations'
@@ -51,7 +53,6 @@ module Mayhem
         sources_dir: DEFAULT_SOURCES_DIR,
         news_model: Mayhem::Models::News,
         organization_model: Mayhem::Models::Organization,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         workers: DEFAULT_MAX_WORKERS,
         open_timeout: DEFAULT_OPEN_TIMEOUT,
         read_timeout: DEFAULT_READ_TIMEOUT,
@@ -63,7 +64,6 @@ module Mayhem
         @sources_dir = sources_dir
         @news_model = news_model
         @organization_model = organization_model
-        @logger = logger
         @workers = [workers, 1].max
         @open_timeout = open_timeout
         @read_timeout = read_timeout
@@ -71,36 +71,31 @@ module Mayhem
         @http = http_client || Mayhem::Support::HttpClient.new(
           open_timeout: @open_timeout,
           read_timeout: @read_timeout,
-          max_retries: @fetch_retries,
-          logger: @logger
+          max_retries: @fetch_retries
         )
         @content_fetcher = Mayhem::Content::ContentFetcher.new(
           http_client: @http,
-          logger: @logger,
           selectors: ARTICLE_BODY_SELECTORS
         )
         @config = Config.new(
           max_item_age_days: max_item_age_days,
-          config_path: config_path,
-          logger: @logger
+          config_path: config_path
         )
         @duplicate_tracker = DuplicateTracker.new(news_model: @news_model)
-        @canonicalizer = Canonicalizer.new(http_client: @http, logger: @logger)
-        @post_writer = PostWriter.new(news_model: @news_model, logger: @logger)
-        @item_parser = ItemParser.new(logger: @logger)
+        @canonicalizer = Canonicalizer.new(http_client: @http)
+        @post_writer = PostWriter.new(news_model: @news_model)
+        @item_parser = ItemParser.new
         @item_processor = ItemProcessor.new(
           item_parser: @item_parser,
           canonicalizer: @canonicalizer,
           content_fetcher: @content_fetcher,
           duplicate_tracker: @duplicate_tracker,
           post_writer: @post_writer,
-          logger: @logger,
           max_item_age_days: @config.max_item_age_days
         )
-        @feed_sanitizer = FeedSanitizer.new(logger: @logger)
+        @feed_sanitizer = FeedSanitizer.new
         @feed_runner = FeedRunner.new(
           http_client: @http,
-          logger: @logger,
           feed_sanitizer: @feed_sanitizer,
           item_processor: @item_processor
         )

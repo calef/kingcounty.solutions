@@ -6,9 +6,7 @@ module Mayhem
   module News
     class RssImporter
       class FeedSanitizer
-        def initialize(logger:)
-          @logger = logger
-        end
+        include Mayhem::Loggable
 
         def sanitize(xml, source_title, rss_url)
           return xml unless xml
@@ -38,11 +36,11 @@ module Mayhem
             end
           end
 
-          @logger.info "Sanitized namespaced XML for '#{source_title}' (#{rss_url}) due to undeclared prefixes" if removed_nodes
+          logger.info "Sanitized namespaced XML for '#{source_title}' (#{rss_url}) due to undeclared prefixes" if removed_nodes
           remove_duplicate_xml_declaration(doc)
           doc.to_xml
         rescue StandardError => e
-          @logger.warn "Failed to sanitize feed XML for '#{source_title}' (#{rss_url}): #{e.message}"
+          logger.warn "Failed to sanitize feed XML for '#{source_title}' (#{rss_url}): #{e.message}"
           xml
         end
 

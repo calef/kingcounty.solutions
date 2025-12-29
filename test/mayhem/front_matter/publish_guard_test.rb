@@ -8,6 +8,10 @@ module Support
   class PublishGuardTest < Minitest::Test
     PublishGuard = Mayhem::FrontMatter::PublishGuard
 
+    def teardown
+      Mayhem::Logging.reset_logger
+    end
+
     def test_unpublished_returns_true_when_flagged_false
       Dir.mktmpdir do |dir|
         path = File.join(dir, 'hidden.md')
@@ -71,8 +75,10 @@ module Support
           raise StandardError, 'boom'
         end
 
-        Mayhem::FrontMatter::Document.stub :load, stub do
-          refute PublishGuard.unpublished?(path, logger:)
+        Mayhem::Logging.logger = logger
+
+        Mayhem::FrontMatter::Document.stub(:load, stub) do
+          refute PublishGuard.unpublished?(path)
         end
 
         logger.verify

@@ -1,10 +1,13 @@
 # frozen_string_literal: true
 
 require 'mini_magick'
+require_relative '../logging'
 
 module Mayhem
   module ImageFiles
     class Validator
+      include Mayhem::Loggable
+
       RASTER_EXTENSIONS = %w[.jpg .jpeg .png .gif .bmp .tif .tiff].freeze
       ALLOWED_EXTENSIONS = (RASTER_EXTENSIONS + %w[.webp .svg]).freeze
       CONTENT_TYPE_TO_EXTENSION = {
@@ -15,10 +18,9 @@ module Mayhem
         'image/svg+xml' => '.svg'
       }.freeze
 
-      attr_reader :logger, :min_dimension
+      attr_reader :min_dimension
 
-      def initialize(logger:, min_dimension: 300)
-        @logger = logger
+      def initialize(min_dimension: 300)
         @min_dimension = min_dimension
       end
 

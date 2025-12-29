@@ -17,13 +17,7 @@ module Mayhem
 
         def setup
           @logger = HttpClientTestHelpers::FakeLogger.new
-          @transport = Mayhem::Support::HttpClient::HttpTransport.new(
-            user_agent: Mayhem::Support::HttpClient::UA,
-            open_timeout: 1,
-            read_timeout: 1,
-            allow_insecure_fallback: true,
-            logger: @logger,
-            operation_delay_manager: FakeDelayManager.new
+          @transport = Mayhem::Support::HttpClient::HttpTransport.new(operation_delay_manager: FakeDelayManager.new
           )
         end
 
@@ -64,11 +58,7 @@ module Mayhem
           end
 
           denial_transport = Mayhem::Support::HttpClient::HttpTransport.new(
-            user_agent: Mayhem::Support::HttpClient::UA,
-            open_timeout: 1,
-            read_timeout: 1,
             allow_insecure_fallback: false,
-            logger: @logger,
             operation_delay_manager: FakeDelayManager.new
           )
           assert_raises(Faraday::SSLError) do

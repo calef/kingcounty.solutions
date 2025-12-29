@@ -17,9 +17,11 @@ class ContentAgeEnforcerTest < Minitest::Test
     @posts_dir = Mayhem::Models::News.collection_dir
     @images_dir = File.join(@tmpdir, '_images')
     @assets_dir = File.join(@tmpdir, 'assets', 'images')
+    @events_dir = File.join(@tmpdir, '_events')
     FileUtils.mkdir_p(@posts_dir)
     FileUtils.mkdir_p(@images_dir)
     FileUtils.mkdir_p(@assets_dir)
+    FileUtils.mkdir_p(@events_dir)
     @config_path = File.join(@tmpdir, 'config.yml')
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
     @reference_time = Time.utc(2025, 12, 31)
@@ -39,8 +41,8 @@ class ContentAgeEnforcerTest < Minitest::Test
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
       images_dir: @images_dir,
       assets_dir: @assets_dir,
+      events_dir: @events_dir,
       config_path: @config_path,
-      logger: @logger,
       clock: -> { @reference_time }
     )
 
@@ -60,8 +62,8 @@ class ContentAgeEnforcerTest < Minitest::Test
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
       images_dir: @images_dir,
       assets_dir: @assets_dir,
+      events_dir: @events_dir,
       config_path: @config_path,
-      logger: @logger,
       clock: -> { @reference_time }
     )
 
@@ -74,22 +76,18 @@ class ContentAgeEnforcerTest < Minitest::Test
 
   def test_removes_generated_events_when_post_removed
     write_config(content_max_age_days: 30)
-    events_dir = File.join(@tmpdir, '_events')
-    FileUtils.mkdir_p(events_dir)
-
     # Create old post with event references
     old_post = write_post_with_event_ids('2025-01-01-old.md', 300, %w[event1.md event2.md])
 
     # Create the events (one generated, one not)
-    event1 = write_event(events_dir, 'event1', generated: true)
-    event2 = write_event(events_dir, 'event2', generated: false)
+    event1 = write_event(@events_dir, 'event1', generated: true)
+    event2 = write_event(@events_dir, 'event2', generated: false)
 
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
       images_dir: @images_dir,
       assets_dir: @assets_dir,
-      events_dir: events_dir,
+      events_dir: @events_dir,
       config_path: @config_path,
-      logger: @logger,
       clock: -> { @reference_time }
     )
 
@@ -107,22 +105,18 @@ class ContentAgeEnforcerTest < Minitest::Test
 
   def test_keeps_generated_events_with_remaining_post_references
     write_config(content_max_age_days: 30)
-    events_dir = File.join(@tmpdir, '_events')
-    FileUtils.mkdir_p(events_dir)
-
     # Create two posts that reference the same event
     old_post = write_post_with_event_ids('2025-01-01-old.md', 300, ['shared-event.md'])
     new_post = write_post_with_event_ids('2025-12-01-new.md', 10, ['shared-event.md'])
 
     # Create the shared generated event
-    shared_event = write_event(events_dir, 'shared-event', generated: true)
+    shared_event = write_event(@events_dir, 'shared-event', generated: true)
 
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
       images_dir: @images_dir,
       assets_dir: @assets_dir,
-      events_dir: events_dir,
+      events_dir: @events_dir,
       config_path: @config_path,
-      logger: @logger,
       clock: -> { @reference_time }
     )
 

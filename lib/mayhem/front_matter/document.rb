@@ -4,6 +4,7 @@ require 'yaml'
 require 'date'
 require 'time'
 require 'mayhem/front_matter/spacing_normalizer'
+require 'mayhem/logging'
 
 module Mayhem
   module FrontMatter
@@ -11,6 +12,9 @@ module Mayhem
     # YAML front matter. Centralizing the parsing logic ensures scripts share
     # consistent behavior and makes unit testing easier.
     class Document
+      include Mayhem::Loggable
+      extend Mayhem::Loggable
+
       PERMITTED_CLASSES = [Date, Time].freeze
 
       ParseResult = Struct.new(:front_matter, :body, :raw, keyword_init: true)
@@ -23,20 +27,20 @@ module Mayhem
       attr_accessor :front_matter, :body
 
       class << self
-        def load(path, logger: nil, permitted_classes: PERMITTED_CLASSES)
+        def load(path, permitted_classes: PERMITTED_CLASSES)
           parse(File.read(path), permitted_classes:).then do |result|
             new(path:, front_matter: result.front_matter, body: result.body)
           end
         rescue Errno::ENOENT
-          logger&.trace("Missing file: #{path}")
+          logger.trace("Missing file: #{path}")
           nil
         rescue ParseError => e
-          logger&.warn("Failed to parse #{path}: #{e.message}")
+          logger.warn("Failed to parse #{path}: #{e.message}")
           nil
         end
 
-        def locked?(path, logger: nil)
-          document = load(path, logger:)
+        def locked?(path)
+          document = load(path)
           document&.locked?
         rescue StandardError
           false

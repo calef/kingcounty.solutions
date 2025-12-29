@@ -9,18 +9,22 @@ module Mayhem
     class HttpClient
       # Handles raw HTTP transport operations (connections, request execution)
       class HttpTransport
+        include Mayhem::Loggable
+
         HTTP_VERSIONS = [
           { label: '2', option: 'httpv2_0' },
           { label: '1.1', option: 'httpv1_1' },
           { label: '1.0', option: 'httpv1_0' }
         ].freeze
 
-        def initialize(user_agent:, open_timeout:, read_timeout:, allow_insecure_fallback:, logger:, operation_delay_manager:)
+        def initialize(operation_delay_manager:, user_agent: HttpClient::UA,
+                       open_timeout: HttpClient::DEFAULTS[:timeout],
+                       read_timeout: HttpClient::DEFAULTS[:timeout],
+                       allow_insecure_fallback: HttpClient::DEFAULTS[:allow_insecure_fallback])
           @user_agent = user_agent
           @open_timeout = open_timeout
           @read_timeout = read_timeout
           @allow_insecure_fallback = allow_insecure_fallback
-          @logger = logger
           @operation_delay_manager = operation_delay_manager
         end
 
@@ -44,7 +48,7 @@ module Mayhem
           rescue Faraday::ConnectionFailed, Faraday::TimeoutError => e
             next_version = HTTP_VERSIONS[index + 1]
             if next_version
-              @logger.warn(
+              logger.warn(
                 "HTTP/#{version[:label]} failed for #{uri} (#{e.class}: #{e.message}), " \
                 "retrying with HTTP/#{next_version[:label]}"
               )
@@ -114,12 +118,12 @@ module Mayhem
         def retry_without_verification(method, uri, accept, error, http_version:, &)
           return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback
 
-          @logger.warn "SSL error (#{error.message}), retrying without verification for #{uri}"
+          logger.warn "SSL error (#{error.message}), retrying without verification for #{uri}"
           perform_request(method, uri, accept, verify: false, http_version: http_version, &)
         end
 
         def handle_terminal_ssl_error(uri, error)
-          @logger.warn "SSL error for #{uri}: #{error.message}"
+          logger.warn "SSL error for #{uri}: #{error.message}"
           raise error
         end
       end

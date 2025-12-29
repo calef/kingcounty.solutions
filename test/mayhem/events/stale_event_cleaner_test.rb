@@ -20,7 +20,6 @@ class StaleEventCleanerTest < Minitest::Test
     clock_time = Time.utc(2025, 12, 5, 19, 0, 0)
     @cleaner = Mayhem::Events::StaleEventCleaner.new(
       events_dir: @events_dir,
-      logger: Logger.new(IO::NULL),
       clock: -> { clock_time }
     )
   end

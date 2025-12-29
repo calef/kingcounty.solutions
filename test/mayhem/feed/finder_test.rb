@@ -132,7 +132,7 @@ class FeedFinderTest < Minitest::Test
       end
     }
     http = FakeHttp.new(responses)
-    finder = FeedDiscovery::FeedFinder.new(http, logger: error_level_logger)
+    finder = FeedDiscovery::FeedFinder.new()
 
     assert_nil finder.find('https://example.org')
   end

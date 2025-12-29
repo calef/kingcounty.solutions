@@ -14,27 +14,26 @@ module Mayhem
 
         def setup
           @logger = HttpClientTestHelpers::FakeLogger.new
-          @client = Mayhem::Support::HttpClient.new(
-            logger: @logger,
-            delay: 0,
+          Mayhem::Logging.logger = @logger
+          @client = Mayhem::Support::HttpClient.new(delay: 0,
             max_retries: 1,
             timeout: 1,
             open_timeout: 1,
             read_timeout: 1,
             host_operation_delays: {}
           )
-          @response_processor = Mayhem::Support::HttpClient::ResponseProcessor.new(
-            too_many_requests_delay: Mayhem::Support::HttpClient::DEFAULTS[:too_many_requests_delay],
-            logger: @logger
-          )
+          @response_processor = Mayhem::Support::HttpClient::ResponseProcessor.new()
+        end
+
+        def teardown
+          Mayhem::Logging.reset_logger
         end
 
         def build_request_flow(transport, max_redirects: 3)
           Mayhem::Support::HttpClient::RequestFlow.new(
             transport: transport,
             response_processor: @response_processor,
-            max_redirects: max_redirects,
-            logger: @logger
+            max_redirects: max_redirects
           )
         end
 

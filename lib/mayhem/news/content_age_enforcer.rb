@@ -15,6 +15,8 @@ require_relative '../models/news'
 module Mayhem
   module News
     class ContentAgeEnforcer
+      include Mayhem::Loggable
+
       IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       EVENTS_DIR = '_events'
@@ -26,7 +28,6 @@ module Mayhem
         assets_dir: IMAGE_ASSETS_DIR,
         events_dir: EVENTS_DIR,
         config_path: CONFIG_PATH,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         clock: -> { Time.now },
         news_pruner: nil,
         images_pruner: nil
@@ -36,19 +37,16 @@ module Mayhem
         @assets_dir = assets_dir
         @events_dir = events_dir
         @config_path = config_path
-        @logger = logger
         @clock = clock
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
                            events_dir: events_dir,
                            images_dir: images_dir,
-                           assets_dir: assets_dir,
-                           logger: logger
+                           assets_dir: assets_dir
                          )
         @news_pruner = news_pruner ||
                        Mayhem::News::Pruner.new(
-                         images_pruner: @images_pruner,
-                         logger: logger
+                         images_pruner: @images_pruner
                        )
       end
 
@@ -57,7 +55,7 @@ module Mayhem
         cutoff = @clock.call - (max_age_days * 24 * 60 * 60)
         posts = posts_older_than(cutoff)
         if posts.empty?
-          @logger.info "No posts older than #{max_age_days} days were found."
+          logger.info "No posts older than #{max_age_days} days were found."
           return
         end
 
@@ -67,7 +65,7 @@ module Mayhem
         removed_event_ids = posts.flat_map { |entry| entry[:event_ids] }.uniq.compact
 
         posts.each do |entry|
-          @logger.info "Removing post #{File.basename(entry[:path])}"
+          logger.info "Removing post #{File.basename(entry[:path])}"
           remove_file(entry[:path])
         end
 
@@ -79,8 +77,8 @@ module Mayhem
         # Clean up events generated from removed posts
         prune_generated_events(removed_event_ids) if removed_event_ids.any?
 
-        @logger.info "Removed #{posts.size} post#{'s' unless posts.size == 1} older than #{max_age_days} days."
-        @logger.info "Removed #{removed_image_checksums.size} image metadata entr#{removed_image_checksums.size == 1 ? 'y' : 'ies'}."
+        logger.info "Removed #{posts.size} post#{'s' unless posts.size == 1} older than #{max_age_days} days."
+        logger.info "Removed #{removed_image_checksums.size} image metadata entr#{removed_image_checksums.size == 1 ? 'y' : 'ies'}."
       end
 
       private
@@ -99,13 +97,13 @@ module Mayhem
         number = config && config['content_max_age_days']
         Integer(number) if number
       rescue StandardError => e
-        @logger.warn "Failed to read content_max_age_days from #{@config_path}: #{e.message}"
+        logger.warn "Failed to read content_max_age_days from #{@config_path}: #{e.message}"
         nil
       end
 
       def posts_older_than(cutoff)
         Dir.glob(File.join(@posts_dir, '*.md')).each_with_object([]) do |path, memo|
-          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(path)
           next unless document
 
           published_at = parse_date(document.front_matter['date'])
@@ -149,28 +147,28 @@ module Mayhem
           next unless File.exist?(event_path)
 
           # Only remove events that were generated from posts
-          document = Mayhem::FrontMatter::Document.load(event_path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(event_path)
           next unless document
           next unless document.front_matter['generated_from_post'] == true
 
           # Check if any remaining posts still reference this event
           if remaining_event_refs[event_id]&.positive?
-            @logger.info "Keeping event #{event_id} (still referenced by #{remaining_event_refs[event_id]} post(s))"
+            logger.info "Keeping event #{event_id} (still referenced by #{remaining_event_refs[event_id]} post(s))"
             next
           end
 
           remove_file(event_path)
           removed += 1
-          @logger.info "Removed generated event #{event_id}"
+          logger.info "Removed generated event #{event_id}"
         end
 
-        @logger.info "Removed #{removed} generated event#{'s' unless removed == 1}." if removed.positive?
+        logger.info "Removed #{removed} generated event#{'s' unless removed == 1}." if removed.positive?
       end
 
       def remaining_event_references
         counts = Hash.new(0)
         Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
-          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(path)
           next unless document
 
           event_ids = document.front_matter['event_ids']

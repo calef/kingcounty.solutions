@@ -19,7 +19,6 @@ module Mayhem
         events_dir: EVENTS_DIR,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         http_client: nil,
         http_status_resolver: nil,
         news_pruner: nil,
@@ -31,10 +30,8 @@ module Mayhem
         workers: ENV.fetch('SOURCE_URL_CHECKER_WORKERS', '6').to_i
       )
         @events_dir = events_dir
-        @logger = logger
         @user_agent = user_agent
         @http_status_resolver = http_status_resolver || Mayhem::Support::HttpStatusResolver.new(
-          logger: @logger,
           user_agent: @user_agent,
           http_client: http_client
         )
@@ -42,19 +39,16 @@ module Mayhem
                          Mayhem::Images::Pruner.new(
                            events_dir: events_dir,
                            images_dir: images_dir,
-                           assets_dir: assets_dir,
-                           logger: logger
+                           assets_dir: assets_dir
                          )
         @news_pruner = news_pruner ||
                        Mayhem::News::Pruner.new(
-                         images_pruner: @images_pruner,
-                         logger: logger
+                         images_pruner: @images_pruner
                        )
         @events_pruner = events_pruner ||
                          Mayhem::Events::Pruner.new(
                            events_dir: events_dir,
-                           images_pruner: @images_pruner,
-                           logger: logger
+                           images_pruner: @images_pruner
                          )
         @news_model = news_model
         @posts_dir = @news_model.collection_dir
@@ -80,10 +74,10 @@ module Mayhem
 
           case status
           when :not_found
-            @logger.info "Source URL not found for post #{record_label(record)}: #{source_url}"
+            logger.info "Source URL not found for post #{record_label(record)}: #{source_url}"
             with_pruner { unpublish_post(record) }
           when :error
-            @logger.warn "Error checking source URL for post #{record_label(record)}: #{source_url}"
+            logger.warn "Error checking source URL for post #{record_label(record)}: #{source_url}"
           end
         end
       end
@@ -98,10 +92,10 @@ module Mayhem
 
           case status
           when :not_found
-            @logger.info "Source URL not found for event #{record_label(record)}: #{source_url}"
+            logger.info "Source URL not found for event #{record_label(record)}: #{source_url}"
             with_pruner { delete_event(record) }
           when :error
-            @logger.warn "Error checking source URL for event #{record_label(record)}: #{source_url}"
+            logger.warn "Error checking source URL for event #{record_label(record)}: #{source_url}"
           end
         end
       end
@@ -119,7 +113,7 @@ module Mayhem
             rescue ThreadError
               break
             rescue StandardError => e
-              @logger.debug "Error processing #{record_label(record)}: #{e.class}: #{e.message}"
+              logger.debug "Error processing #{record_label(record)}: #{e.class}: #{e.message}"
             end
           end
         end

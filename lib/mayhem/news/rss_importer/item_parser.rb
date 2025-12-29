@@ -8,11 +8,8 @@ module Mayhem
   module News
     class RssImporter
       class ItemParser
+        include Mayhem::Loggable
         include GuidExtractor
-
-        def initialize(logger:)
-          @logger = logger
-        end
 
         def published_at(item)
           candidates = []
@@ -40,7 +37,7 @@ module Mayhem
 
           content if content.is_a?(String)
         rescue StandardError => e
-          @logger.warn "Failed to read content for #{item.link || item.title}: #{e.message}"
+          logger.warn "Failed to read content for #{item.link || item.title}: #{e.message}"
           nil
         end
 
@@ -69,7 +66,7 @@ module Mayhem
           item.respond_to?(:url) ? item.url.to_s : nil
         rescue StandardError => e
           title = item.respond_to?(:title) ? item.title : 'unknown item'
-          @logger.warn "Failed to read link for #{title}: #{e.message}"
+          logger.warn "Failed to read link for #{title}: #{e.message}"
           nil
         end
 
@@ -80,7 +77,7 @@ module Mayhem
           nil
         rescue StandardError => e
           title = item.respond_to?(:title) ? item.title : 'unknown item'
-          @logger.warn "Failed to read guid for #{title}: #{e.message}"
+          logger.warn "Failed to read guid for #{title}: #{e.message}"
           nil
         end
       end

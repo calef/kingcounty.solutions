@@ -23,10 +23,9 @@ class NewsPrunerTest < Minitest::Test
     @images_pruner = Mayhem::Images::Pruner.new(
       events_dir: @events_dir,
       images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      logger: @logger
+      assets_dir: @assets_dir
     )
-    @pruner = Mayhem::News::Pruner.new(images_pruner: @images_pruner, logger: @logger)
+    @pruner = Mayhem::News::Pruner.new(images_pruner: @images_pruner)
   end
 
   def teardown
