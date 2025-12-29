@@ -16,7 +16,7 @@ module Mayhem
         document = Mayhem::FrontMatter::Document.load(path)
         document && document.front_matter['published'] == false
       rescue StandardError => e
-        logger.warn("Failed to inspect #{path} for published flag: #{e.message}")
+        Mayhem::FrontMatter::PublishGuard.logger.warn("Failed to inspect #{path} for published flag: #{e.message}")
         false
       end
     end
