@@ -18,13 +18,11 @@ module Mayhem
     class ContentAgeEnforcer
       include Mayhem::Loggable
 
-      IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       DEFAULT_MAX_AGE_DAYS = 365
       CONFIG_PATH = File.expand_path('../../../_config.yml', __dir__)
 
       def initialize(
-        images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         config_path: CONFIG_PATH,
         clock: -> { Time.now },
@@ -32,13 +30,11 @@ module Mayhem
         images_pruner: nil
       )
         @posts_dir = Mayhem::Models::News.collection_dir
-        @images_dir = images_dir
         @assets_dir = assets_dir
         @config_path = config_path
         @clock = clock
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           images_dir: images_dir,
                            assets_dir: assets_dir
                          )
         @news_pruner = news_pruner ||

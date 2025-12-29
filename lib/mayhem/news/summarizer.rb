@@ -23,7 +23,6 @@ module Mayhem
       include Mayhem::Loggable
       include Mayhem::SummarizerHelpers
 
-      IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       MAX_ARTICLE_CHARS = 20_000
       MIN_SCRAPED_LENGTH = 400
@@ -38,7 +37,6 @@ module Mayhem
       DEFAULT_TOPIC_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', DEFAULT_MODEL)
 
       def initialize(
-        images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         client: nil,
         http_client: nil,
@@ -60,7 +58,6 @@ module Mayhem
                                )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           images_dir: images_dir,
                            assets_dir: assets_dir
                          )
         @news_pruner = news_pruner ||

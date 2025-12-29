@@ -18,13 +18,11 @@ module Mayhem
 
       def self.prune(organization_title)
         # Set up directory paths
-        images_dir = File.expand_path('_images', Dir.pwd)
         assets_dir = File.expand_path('assets/images', Dir.pwd)
         organizations_dir = File.expand_path('_organizations', Dir.pwd)
 
         # Create pruner instances
         images_pruner = Mayhem::Images::Pruner.new(
-          images_dir: images_dir,
           assets_dir: assets_dir
         )
 

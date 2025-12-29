@@ -13,11 +13,9 @@ module Mayhem
     class SourceUrlChecker
       include Mayhem::Loggable
 
-      IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
 
       def initialize(
-        images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         http_client: nil,
         http_status_resolver: nil,
@@ -36,7 +34,6 @@ module Mayhem
         )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           images_dir: images_dir,
                            assets_dir: assets_dir
                          )
         @news_pruner = news_pruner ||

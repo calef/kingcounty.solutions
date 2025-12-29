@@ -30,7 +30,6 @@ class OrganizationsPrunerTest < Minitest::Test
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
 
     @images_pruner = Mayhem::Images::Pruner.new(
-      images_dir: @images_dir,
       assets_dir: @assets_dir
     )
 

@@ -14,9 +14,10 @@ class ContentAgeEnforcerTest < Minitest::Test
   def setup
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
     @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
+    @images_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :images)
     @tmpdir = Mayhem::Models::News.repo.root.to_s
     @posts_dir = Mayhem::Models::News.collection_dir
-    @images_dir = File.join(@tmpdir, '_images')
+    @images_dir = Mayhem::Models::Image.collection_dir
     @assets_dir = File.join(@tmpdir, 'assets', 'images')
     @events_dir = Mayhem::Models::Event.collection_dir
     FileUtils.mkdir_p(@posts_dir)
@@ -31,6 +32,7 @@ class ContentAgeEnforcerTest < Minitest::Test
   def teardown
     @news_repo_override.cleanup if @news_repo_override
     @event_repo_override.cleanup if @event_repo_override
+    @images_repo_override.cleanup if @images_repo_override
   end
 
   def test_removes_old_posts_and_preserves_shared_images
@@ -41,9 +43,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     write_image_metadata(shared_image)
 
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      images_dir: @images_dir,
       assets_dir: @assets_dir,
-      
       config_path: @config_path,
       clock: -> { @reference_time }
     )
@@ -62,9 +62,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     old_post = write_post('2025-01-01-old.md', 300, [unique_image])
     write_asset(unique_image)
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      images_dir: @images_dir,
       assets_dir: @assets_dir,
-      
       config_path: @config_path,
       clock: -> { @reference_time }
     )
@@ -86,9 +84,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     event2 = write_event(@events_dir, 'event2', generated: false)
 
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      images_dir: @images_dir,
       assets_dir: @assets_dir,
-      
       config_path: @config_path,
       clock: -> { @reference_time }
     )
@@ -115,9 +111,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     shared_event = write_event(@events_dir, 'shared-event', generated: true)
 
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      images_dir: @images_dir,
       assets_dir: @assets_dir,
-      
       config_path: @config_path,
       clock: -> { @reference_time }
     )
