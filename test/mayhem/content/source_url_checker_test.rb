@@ -277,7 +277,6 @@ class SourceUrlCheckerTest < Minitest::Test
 
   def build_checker(http_client: nil, http_status_resolver: nil)
     Mayhem::Content::SourceUrlChecker.new(
-      images_dir: @images_dir,
       assets_dir: @assets_dir,
       http_status_resolver: http_status_resolver || http_client && stub_status_resolver(http_client)
     )

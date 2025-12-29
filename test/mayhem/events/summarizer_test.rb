@@ -113,7 +113,6 @@ class EventSummarizerTest < Minitest::Test
     topic_classifier = FakeTopicClassifier.new(topics: topics)
     location_classifier = FakeLocationClassifier.new(location_titles: location_titles)
     Mayhem::Events::EventSummarizer.new(
-      images_dir: @tmp_images,
       assets_dir: @tmp_assets,
       client: client,
       model: 'test-model',
@@ -314,7 +313,6 @@ class EventSummarizerTest < Minitest::Test
     end
 
     summarizer = Mayhem::Events::EventSummarizer.new(
-      images_dir: @tmp_images,
       assets_dir: @tmp_assets,
       client: FakeChatClient.new(response: {}),
       http_client: FakeHttpClient.new(response: { body: '<html></html>', content_type: 'text/html' }),
@@ -374,7 +372,6 @@ class EventSummarizerTest < Minitest::Test
     event_pruner.expect(:unpublish, nil, [path, document])
 
     summarizer = Mayhem::Events::EventSummarizer.new(
-      images_dir: @tmp_images,
       assets_dir: @tmp_assets,
       client: FakeChatClient.new(response: {}),
       http_client: FakeHttpClient.new(response: { body: '<html></html>', content_type: 'text/html' }),
