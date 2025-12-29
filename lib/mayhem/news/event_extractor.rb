@@ -8,25 +8,24 @@ require_relative '../front_matter/document'
 require_relative '../front_matter/slug_generator'
 require_relative '../support/encoding_utils'
 require_relative '../content/html_normalizer'
+require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module News
     class EventExtractor
-      POSTS_DIR = '_posts'
       EVENTS_DIR = '_events'
       MAX_FILENAME_BYTES = 255
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_EXTRACTION_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
 
       def initialize(
-        posts_dir: POSTS_DIR,
         events_dir: EVENTS_DIR,
         model: DEFAULT_MODEL,
         chat_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
-        @posts_dir = posts_dir
+        @posts_dir = Mayhem::Models::News.collection_dir
         @events_dir = events_dir
         @model = model
         @logger = logger

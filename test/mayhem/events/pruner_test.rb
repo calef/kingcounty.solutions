@@ -12,22 +12,21 @@ require 'mayhem/logging'
 
 class EventsPrunerTest < Minitest::Test
   def setup
-    @tmpdir = Dir.mktmpdir('events-pruner')
-    @posts_dir = File.join(@tmpdir, '_posts')
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @tmpdir = Mayhem::Models::News.repo.root.to_s
+    @posts_dir = Mayhem::Models::News.collection_dir
     @events_dir = File.join(@tmpdir, '_events')
     @images_dir = File.join(@tmpdir, '_images')
     @assets_dir = File.join(@tmpdir, 'assets', 'images')
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir])
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
     @images_pruner = Mayhem::Images::Pruner.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,
       logger: @logger
     )
     @pruner = Mayhem::Events::Pruner.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       images_pruner: @images_pruner,
       logger: @logger
@@ -35,7 +34,7 @@ class EventsPrunerTest < Minitest::Test
   end
 
   def teardown
-    FileUtils.remove_entry(@tmpdir)
+    @news_repo_override.cleanup if @news_repo_override
   end
 
   def test_delete_removes_file_and_cleans_post_references

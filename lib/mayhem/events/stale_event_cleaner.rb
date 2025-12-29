@@ -6,6 +6,7 @@ require 'time'
 
 require_relative '../logging'
 require_relative '../front_matter/document'
+require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
@@ -13,7 +14,6 @@ module Mayhem
   module Events
     class StaleEventCleaner
       EVENTS_DIR = '_events'
-      POSTS_DIR = '_posts'
       GRACE_PERIOD_DAYS = 1
 
       class << self
@@ -29,12 +29,11 @@ module Mayhem
 
       def initialize(
         events_dir: EVENTS_DIR,
-        posts_dir: POSTS_DIR,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         clock: -> { Time.now }
       )
         @events_dir = events_dir
-        @posts_dir = posts_dir
+        @posts_dir = Mayhem::Models::News.collection_dir
         @logger = logger
         @clock = clock
       end

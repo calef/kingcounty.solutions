@@ -8,13 +8,13 @@ require_relative '../logging'
 require_relative '../images/pruner'
 require_relative '../news/pruner'
 require_relative '../front_matter/document'
+require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module News
     class ContentAgeEnforcer
-      POSTS_DIR = '_posts'
       IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       EVENTS_DIR = '_events'
@@ -22,7 +22,6 @@ module Mayhem
       CONFIG_PATH = File.expand_path('../../../_config.yml', __dir__)
 
       def initialize(
-        posts_dir: POSTS_DIR,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         events_dir: EVENTS_DIR,
@@ -32,7 +31,7 @@ module Mayhem
         news_pruner: nil,
         images_pruner: nil
       )
-        @posts_dir = posts_dir
+        @posts_dir = Mayhem::Models::News.collection_dir
         @images_dir = images_dir
         @assets_dir = assets_dir
         @events_dir = events_dir
@@ -41,7 +40,6 @@ module Mayhem
         @clock = clock
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           posts_dir: posts_dir,
                            events_dir: events_dir,
                            images_dir: images_dir,
                            assets_dir: assets_dir,
@@ -49,7 +47,6 @@ module Mayhem
                          )
         @news_pruner = news_pruner ||
                        Mayhem::News::Pruner.new(
-                         posts_dir: posts_dir,
                          images_pruner: @images_pruner,
                          logger: logger
                        )

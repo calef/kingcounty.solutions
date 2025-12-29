@@ -12,6 +12,7 @@ require_relative '../image_files/validator'
 require_relative '../image_files/converter'
 require_relative '../image_files/downloader'
 require_relative '../image_files/writer'
+require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
@@ -19,7 +20,6 @@ module Mayhem
   module Images
     class Extractor
       IMAGE_DOCS_DIR = '_images'
-      POSTS_DIR = '_posts'
       EVENTS_DIR = '_events'
       IMAGE_ASSET_DIR = File.join('assets', 'images')
       DEFAULT_OPEN_TIMEOUT = begin
@@ -41,7 +41,6 @@ module Mayhem
       attr_reader :logger
 
       def initialize(
-        posts_dir: POSTS_DIR,
         events_dir: EVENTS_DIR,
         image_docs_dir: IMAGE_DOCS_DIR,
         asset_dir: IMAGE_ASSET_DIR,
@@ -51,7 +50,7 @@ module Mayhem
         min_dimension: MIN_IMAGE_DIMENSION,
         http_client: nil
       )
-        @content_dirs = [posts_dir, events_dir].compact.uniq
+        @content_dirs = [Mayhem::Models::News.collection_dir, events_dir].compact.uniq
         @image_docs_dir = image_docs_dir
         @asset_dir = asset_dir
         @logger = logger

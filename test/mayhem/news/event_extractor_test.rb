@@ -12,8 +12,9 @@ require 'mayhem/logging'
 
 class EventExtractorTest < Minitest::Test
   def setup
-    @tmpdir = Dir.mktmpdir('event-extractor')
-    @posts_dir = File.join(@tmpdir, '_posts')
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @tmpdir = Mayhem::Models::News.repo.root.to_s
+    @posts_dir = Mayhem::Models::News.collection_dir
     @events_dir = File.join(@tmpdir, '_events')
     FileUtils.mkdir_p(@posts_dir)
     FileUtils.mkdir_p(@events_dir)
@@ -21,7 +22,7 @@ class EventExtractorTest < Minitest::Test
   end
 
   def teardown
-    FileUtils.remove_entry(@tmpdir)
+    @news_repo_override.cleanup if @news_repo_override
   end
 
   def test_skips_locked_posts
@@ -29,7 +30,6 @@ class EventExtractorTest < Minitest::Test
     mock_chat_client = Minitest::Mock.new
 
     extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       chat_client: mock_chat_client,
       logger: @logger
@@ -47,7 +47,6 @@ class EventExtractorTest < Minitest::Test
     mock_chat_client = Minitest::Mock.new
 
     extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       chat_client: mock_chat_client,
       logger: @logger
@@ -65,7 +64,6 @@ class EventExtractorTest < Minitest::Test
     mock_chat_client = Minitest::Mock.new
 
     extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       chat_client: mock_chat_client,
       logger: @logger
@@ -87,7 +85,6 @@ class EventExtractorTest < Minitest::Test
     end.new
 
     extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       chat_client: mock_chat_client,
       logger: @logger
@@ -111,7 +108,6 @@ class EventExtractorTest < Minitest::Test
     end
 
     extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       chat_client: mock_chat_client,
       logger: @logger
@@ -153,7 +149,6 @@ class EventExtractorTest < Minitest::Test
     end
 
     extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       chat_client: mock_chat_client,
       logger: @logger
@@ -210,7 +205,6 @@ class EventExtractorTest < Minitest::Test
     end
 
     extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       chat_client: mock_chat_client,
       logger: @logger

@@ -6,13 +6,15 @@ require_relative '../../../lib/mayhem/news/summarizer'
 
 class PostSummarizerTest < Minitest::Test
   def setup
-    @tmp_posts = Dir.mktmpdir('posts')
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @tmp_posts = Mayhem::Models::News.collection_dir
     @tmp_topics = Dir.mktmpdir('topics')
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+    FileUtils.mkdir_p(@tmp_posts)
   end
 
   def teardown
-    FileUtils.remove_entry(@tmp_posts)
+    @news_repo_override.cleanup if @news_repo_override
     FileUtils.remove_entry(@tmp_topics)
   end
 
@@ -34,8 +36,11 @@ class PostSummarizerTest < Minitest::Test
     write_post('2025-01-01-test.md', { 'source_url' => 'http://bad', 'summarized' => false, 'feed_content' => '<p>body</p>' }, 'body')
     http_stub = Object.new
     def http_stub.fetch(*) = { body: '', 'content-type' => 'text/plain', final_url: 'http://ok' }
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts,
-                                                  http_client: http_stub, logger: @logger, client: Object.new)
+    summarizer = Mayhem::News::PostSummarizer.new(
+      http_client: http_stub,
+      logger: @logger,
+      client: Object.new
+    )
     def summarizer.fetch_article_html(_url)
       raise StandardError, 'boom'
     end
@@ -59,8 +64,11 @@ class PostSummarizerTest < Minitest::Test
       { 'choices' => [{ 'message' => { 'content' => '["Alpha"]' } }] }
     end
 
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts,
-                                                  http_client: Object.new, logger: @logger, client: client)
+    summarizer = Mayhem::News::PostSummarizer.new(
+      http_client: Object.new,
+      logger: @logger,
+      client: client
+    )
     # stub generate_summary to skip OpenAI call
     def summarizer.generate_summary(*) = 'summary'
 
@@ -86,8 +94,11 @@ class PostSummarizerTest < Minitest::Test
     # Use a summarizer with a client object that will raise once then return
     http_stub = Object.new
     def http_stub.fetch(*) = { body: 'abc', 'content-type' => 'text/plain', final_url: 'http://ok' }
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts,
-                                                  http_client: http_stub, logger: @logger, client: client)
+    summarizer = Mayhem::News::PostSummarizer.new(
+      http_client: http_stub,
+      logger: @logger,
+      client: client
+    )
     def summarizer.fetch_article_text(_url) = 'abc'
 
     stats = summarizer.run
@@ -114,7 +125,6 @@ class PostSummarizerTest < Minitest::Test
     end
 
     summarizer = Mayhem::News::PostSummarizer.new(
-      posts_dir: @tmp_posts,
       http_client: http_stub,
       logger: @logger,
       client: client
@@ -149,7 +159,6 @@ class PostSummarizerTest < Minitest::Test
     end
 
     summarizer = Mayhem::News::PostSummarizer.new(
-      posts_dir: @tmp_posts,
       http_client: Object.new,
       logger: @logger,
       client: Object.new,
@@ -184,7 +193,6 @@ class PostSummarizerTest < Minitest::Test
     end
 
     summarizer = Mayhem::News::PostSummarizer.new(
-      posts_dir: @tmp_posts,
       http_client: Object.new,
       logger: @logger,
       client: Object.new,
@@ -205,7 +213,6 @@ class PostSummarizerTest < Minitest::Test
                }, '')
 
     summarizer = Mayhem::News::PostSummarizer.new(
-      posts_dir: @tmp_posts,
       http_client: Object.new,
       logger: @logger,
       client: Object.new

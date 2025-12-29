@@ -12,8 +12,9 @@ require 'mayhem/logging'
 
 class ContentAgeEnforcerTest < Minitest::Test
   def setup
-    @tmpdir = Dir.mktmpdir('content-age')
-    @posts_dir = File.join(@tmpdir, '_posts')
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @tmpdir = Mayhem::Models::News.repo.root.to_s
+    @posts_dir = Mayhem::Models::News.collection_dir
     @images_dir = File.join(@tmpdir, '_images')
     @assets_dir = File.join(@tmpdir, 'assets', 'images')
     FileUtils.mkdir_p(@posts_dir)
@@ -25,7 +26,7 @@ class ContentAgeEnforcerTest < Minitest::Test
   end
 
   def teardown
-    FileUtils.remove_entry(@tmpdir)
+    @news_repo_override.cleanup if @news_repo_override
   end
 
   def test_removes_old_posts_and_preserves_shared_images
@@ -36,7 +37,6 @@ class ContentAgeEnforcerTest < Minitest::Test
     write_image_metadata(shared_image)
 
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      posts_dir: @posts_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,
       config_path: @config_path,
@@ -58,7 +58,6 @@ class ContentAgeEnforcerTest < Minitest::Test
     old_post = write_post('2025-01-01-old.md', 300, [unique_image])
     write_asset(unique_image)
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      posts_dir: @posts_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,
       config_path: @config_path,
@@ -86,7 +85,6 @@ class ContentAgeEnforcerTest < Minitest::Test
     event2 = write_event(events_dir, 'event2', generated: false)
 
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      posts_dir: @posts_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,
       events_dir: events_dir,
@@ -120,7 +118,6 @@ class ContentAgeEnforcerTest < Minitest::Test
     shared_event = write_event(events_dir, 'shared-event', generated: true)
 
     enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      posts_dir: @posts_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,
       events_dir: events_dir,

@@ -6,6 +6,7 @@ require_relative '../front_matter/document'
 require_relative '../events/pruner'
 require_relative '../news/pruner'
 require_relative '../images/pruner'
+require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
@@ -14,7 +15,6 @@ module Mayhem
     class Pruner
       def self.prune(organization_title, logger:)
         # Set up directory paths
-        posts_dir = File.expand_path('_posts', Dir.pwd)
         events_dir = File.expand_path('_events', Dir.pwd)
         images_dir = File.expand_path('_images', Dir.pwd)
         assets_dir = File.expand_path('assets/images', Dir.pwd)
@@ -22,7 +22,6 @@ module Mayhem
 
         # Create pruner instances
         images_pruner = Mayhem::Images::Pruner.new(
-          posts_dir: posts_dir,
           events_dir: events_dir,
           images_dir: images_dir,
           assets_dir: assets_dir,
@@ -30,20 +29,17 @@ module Mayhem
         )
 
         events_pruner = Mayhem::Events::Pruner.new(
-          posts_dir: posts_dir,
           events_dir: events_dir,
           images_pruner: images_pruner,
           logger: logger
         )
 
         news_pruner = Mayhem::News::Pruner.new(
-          posts_dir: posts_dir,
           images_pruner: images_pruner,
           logger: logger
         )
 
         pruner = new(
-          posts_dir: posts_dir,
           events_dir: events_dir,
           organizations_dir: organizations_dir,
           events_pruner: events_pruner,
@@ -54,8 +50,8 @@ module Mayhem
         pruner.prune_organization_content(organization_title)
       end
 
-      def initialize(posts_dir:, events_dir:, organizations_dir:, events_pruner:, news_pruner:, logger:)
-        @posts_dir = posts_dir
+      def initialize(events_dir:, organizations_dir:, events_pruner:, news_pruner:, logger:)
+        @posts_dir = Mayhem::Models::News.collection_dir
         @events_dir = events_dir
         @organizations_dir = organizations_dir
         @events_pruner = events_pruner

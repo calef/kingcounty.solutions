@@ -11,10 +11,12 @@ class ImageExtractorIntegrationTest < Minitest::Test
   def setup
     @original_min_dim = ENV['IMAGE_MIN_DIMENSION']
     ENV['IMAGE_MIN_DIMENSION'] = '0'
-    @tmp_posts = Dir.mktmpdir
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @tmp_posts = Mayhem::Models::News.collection_dir
     @tmp_events = Dir.mktmpdir
     @tmp_images = Dir.mktmpdir
     @assets = Dir.mktmpdir
+    FileUtils.mkdir_p(@tmp_posts)
 
     # create a post with original_source_html containing an image
     fm = <<~MD
@@ -36,10 +38,13 @@ class ImageExtractorIntegrationTest < Minitest::Test
       stub_request(:get, 'https://example.com/image.webp').to_return(status: 200, body: 'webpdata',
                                                                      headers: { 'Content-Type' => 'image/webp' })
 
-      @extractor = Mayhem::Images::Extractor.new(posts_dir: @tmp_posts, events_dir: @tmp_events,
-                                                              image_docs_dir: @tmp_images, asset_dir: @assets,
-                                                              logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-                                                              min_dimension: 0)
+      @extractor = Mayhem::Images::Extractor.new(
+        events_dir: @tmp_events,
+        image_docs_dir: @tmp_images,
+        asset_dir: @assets,
+        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
+        min_dimension: 0
+      )
     end
   end
 
@@ -49,7 +54,7 @@ class ImageExtractorIntegrationTest < Minitest::Test
     else
       ENV.delete('IMAGE_MIN_DIMENSION')
     end
-    FileUtils.remove_entry(@tmp_posts)
+    @news_repo_override.cleanup if @news_repo_override
     FileUtils.remove_entry(@tmp_events)
     FileUtils.remove_entry(@tmp_images)
     FileUtils.remove_entry(@assets)

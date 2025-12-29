@@ -13,8 +13,9 @@ require 'mayhem/logging'
 
 class ImagePrunerTest < Minitest::Test
   def setup
-    @tmpdir = Dir.mktmpdir('image-cleanup-test')
-    @posts_dir = File.join(@tmpdir, '_posts')
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @tmpdir = Mayhem::Models::News.repo.root.to_s
+    @posts_dir = Mayhem::Models::News.collection_dir
     @images_dir = File.join(@tmpdir, '_images')
     @assets_dir = File.join(@tmpdir, 'assets', 'images')
     FileUtils.mkdir_p(@posts_dir)
@@ -22,7 +23,6 @@ class ImagePrunerTest < Minitest::Test
     FileUtils.mkdir_p(@assets_dir)
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
     @pruner = Mayhem::Images::Pruner.new(
-      posts_dir: @posts_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,
       logger: @logger
@@ -30,7 +30,7 @@ class ImagePrunerTest < Minitest::Test
   end
 
   def teardown
-    FileUtils.remove_entry(@tmpdir)
+    @news_repo_override.cleanup if @news_repo_override
   end
 
   def test_collect_image_checksums_handles_missing_values

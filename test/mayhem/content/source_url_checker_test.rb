@@ -21,7 +21,7 @@ class SourceUrlCheckerTest < Minitest::Test
     @events_repo = Mayhem::Models::Event.repo
     @images_repo = Mayhem::Models::Image.repo
 
-    @posts_dir = @news_repo.root.join('_posts').to_s
+    @posts_dir = Mayhem::Models::News.collection_dir
     @events_dir = @events_repo.root.join('_events').to_s
     @images_dir = @images_repo.root.join('_images').to_s
     @assets_dir = @images_repo.root.join('assets', 'images').to_s
@@ -277,7 +277,6 @@ class SourceUrlCheckerTest < Minitest::Test
 
   def build_checker(http_client: nil, http_status_resolver: nil)
     Mayhem::Content::SourceUrlChecker.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,
