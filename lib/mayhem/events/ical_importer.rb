@@ -15,6 +15,7 @@ require_relative '../support/encoding_utils'
 require_relative '../content/content_utils'
 require_relative '../front_matter/publish_guard'
 require_relative '../content/html_normalizer'
+require_relative '../models/event'
 require_relative '../models/organization'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -24,7 +25,6 @@ module Mayhem
     class IcalImporter
       include Mayhem::Loggable
 
-      DEFAULT_EVENTS_DIR = '_events'
       MAX_FILENAME_BYTES = 255
       DEFAULT_MAX_WORKERS = begin
         Integer(ENV.fetch('ICAL_WORKERS', '6'))
@@ -33,15 +33,12 @@ module Mayhem
       end
 
       ACCEPT_HEADER = Mayhem::FeedDiscovery::ACCEPT_FEED
-      attr_reader :events_dir
 
       def initialize(
-        events_dir: DEFAULT_EVENTS_DIR,
         http_client: nil,
         workers: DEFAULT_MAX_WORKERS,
         time_source: -> { Time.now }
       )
-        @events_dir = events_dir
         @http_client = http_client || Mayhem::Support::HttpClient.new
         @content_fetcher = Mayhem::Content::ContentFetcher.new(http_client: @http_client)
         @time_source = time_source
@@ -78,12 +75,12 @@ module Mayhem
       private
 
       def ensure_events_dir
-        FileUtils.mkdir_p(@events_dir)
+        FileUtils.mkdir_p(events_dir)
       end
 
       def build_existing_event_index
         index = {}
-        Dir.glob(File.join(@events_dir, '*.md')).each do |path|
+        Dir.glob(File.join(events_dir, '*.md')).each do |path|
           document = Mayhem::FrontMatter::Document.load(path)
           next unless document
 
@@ -228,7 +225,7 @@ module Mayhem
           date_prefix: start_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
-        filename = File.join(@events_dir, "#{start_prefix}-#{slug}.md")
+        filename = File.join(events_dir, "#{start_prefix}-#{slug}.md")
 
         description_html = Mayhem::Support::EncodingUtils.ensure_utf8(raw_html)
         description_html = Mayhem::Content::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?
@@ -384,6 +381,10 @@ module Mayhem
 
       def org_dir
         @org_dir ||= Mayhem::Models::Organization.collection_dir
+      end
+
+      def events_dir
+        Mayhem::Models::Event.collection_dir
       end
     end
 

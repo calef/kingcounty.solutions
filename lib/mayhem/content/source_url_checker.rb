@@ -13,12 +13,10 @@ module Mayhem
     class SourceUrlChecker
       include Mayhem::Loggable
 
-      EVENTS_DIR = '_events'
       IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
 
       def initialize(
-        events_dir: EVENTS_DIR,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         http_client: nil,
@@ -31,7 +29,6 @@ module Mayhem
         user_agent: 'King County Solutions Link Checker',
         workers: ENV.fetch('SOURCE_URL_CHECKER_WORKERS', '6').to_i
       )
-        @events_dir = events_dir
         @user_agent = user_agent
         @http_status_resolver = http_status_resolver || Mayhem::Support::HttpStatusResolver.new(
           user_agent: @user_agent,
@@ -39,7 +36,6 @@ module Mayhem
         )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           events_dir: events_dir,
                            images_dir: images_dir,
                            assets_dir: assets_dir
                          )
@@ -49,7 +45,6 @@ module Mayhem
                        )
         @events_pruner = events_pruner ||
                          Mayhem::Events::Pruner.new(
-                           events_dir: events_dir,
                            images_pruner: @images_pruner
                          )
         @news_model = news_model

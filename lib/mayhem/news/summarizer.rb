@@ -12,6 +12,7 @@ require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../summarizer/helpers'
 require_relative '../content/article_body_extractor'
+require_relative '../models/event'
 require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -24,7 +25,6 @@ module Mayhem
 
       IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
-      EVENTS_DIR = '_events'
       MAX_ARTICLE_CHARS = 20_000
       MIN_SCRAPED_LENGTH = 400
       BOILERPLATE_PATTERNS = [
@@ -40,7 +40,6 @@ module Mayhem
       def initialize(
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
-        events_dir: EVENTS_DIR,
         client: nil,
         http_client: nil,
         topic_classifier: nil,
@@ -61,7 +60,6 @@ module Mayhem
                                )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           events_dir: events_dir,
                            images_dir: images_dir,
                            assets_dir: assets_dir
                          )

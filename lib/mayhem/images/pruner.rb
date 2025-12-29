@@ -4,6 +4,7 @@ require 'fileutils'
 
 require_relative '../front_matter/document'
 require_relative '../logging'
+require_relative '../models/event'
 require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -13,11 +14,10 @@ module Mayhem
     class Pruner
       include Mayhem::Loggable
 
-      attr_reader :posts_dir, :events_dir, :images_dir, :assets_dir
+      attr_reader :posts_dir, :images_dir, :assets_dir
 
-      def initialize(images_dir:, assets_dir:, events_dir: nil)
+      def initialize(images_dir:, assets_dir:)
         @posts_dir = Mayhem::Models::News.collection_dir
-        @events_dir = events_dir
         @images_dir = images_dir
         @assets_dir = assets_dir
       end
@@ -38,15 +38,13 @@ module Mayhem
           collect_image_checksums(document.front_matter).each { |id| counts[id] += 1 }
         end
 
-        if @events_dir
-          Dir.glob(File.join(@events_dir, '*.md')).each do |path|
-            next if excluded_paths.include?(path)
+        Dir.glob(File.join(events_dir, '*.md')).each do |path|
+          next if excluded_paths.include?(path)
 
-            document = Mayhem::FrontMatter::Document.load(path)
-            next unless document
+          document = Mayhem::FrontMatter::Document.load(path)
+          next unless document
 
-            collect_image_checksums(document.front_matter).each { |id| counts[id] += 1 }
-          end
+          collect_image_checksums(document.front_matter).each { |id| counts[id] += 1 }
         end
 
         counts
@@ -79,6 +77,10 @@ module Mayhem
         FileUtils.rm(path)
       rescue Errno::ENOENT
         # already removed
+      end
+
+      def events_dir
+        Mayhem::Models::Event.collection_dir
       end
     end
   end
