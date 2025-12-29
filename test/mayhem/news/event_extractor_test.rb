@@ -27,7 +27,6 @@ class EventExtractorTest < Minitest::Test
 
   def build_extractor(chat_client:)
     Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       chat_client: chat_client
     )
@@ -37,7 +36,7 @@ class EventExtractorTest < Minitest::Test
     write_post('2025-01-01-locked.md', locked: true)
     mock_chat_client = Minitest::Mock.new
 
-    build_extractor(chat_client: mock_chat_client)
+    extractor = build_extractor(chat_client: mock_chat_client)
 
     stats = extractor.run
 

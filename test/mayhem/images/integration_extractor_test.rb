@@ -43,7 +43,7 @@ class ImageExtractorIntegrationTest < Minitest::Test
       @extractor = Mayhem::Images::Extractor.new(
         events_dir: @tmp_events,
         image_docs_dir: @tmp_images,
-        asset_dir: @assets),
+        asset_dir: @assets,
         min_dimension: 0
       )
     end

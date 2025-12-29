@@ -11,6 +11,8 @@ require_relative '../support/http_status_resolver'
 module Mayhem
   module Content
     class SourceUrlChecker
+      include Mayhem::Loggable
+
       EVENTS_DIR = '_events'
       IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')

@@ -13,6 +13,7 @@ module Mayhem
   module News
     class Pruner
       include Mayhem::Loggable
+
       def initialize(images_pruner:)
         @posts_dir = Mayhem::Models::News.collection_dir
         @images_pruner = images_pruner

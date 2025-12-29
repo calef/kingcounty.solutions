@@ -41,6 +41,7 @@ module Mayhem
         images_pruner: nil
       )
         @events_dir = events_dir
+        @posts_dir = Mayhem::Models::News.collection_dir
         @model = model
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new

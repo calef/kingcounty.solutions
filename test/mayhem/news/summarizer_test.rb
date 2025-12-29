@@ -37,7 +37,6 @@ class PostSummarizerTest < Minitest::Test
                           end.new
 
     Mayhem::News::PostSummarizer.new(
-      posts_dir: @tmp_posts,
       images_dir: @tmp_images,
       assets_dir: @tmp_assets,
       events_dir: @tmp_events,

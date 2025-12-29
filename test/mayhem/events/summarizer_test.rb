@@ -82,9 +82,6 @@ class EventSummarizerTest < Minitest::Test
     @logger = FakeLogger.new
     FileUtils.mkdir_p(@tmp_posts)
     Mayhem::Logging.logger = @logger
-    @original_posts_dir = Mayhem::Events::EventSummarizer.const_get(:POSTS_DIR)
-    Mayhem::Events::EventSummarizer.send(:remove_const, :POSTS_DIR)
-    Mayhem::Events::EventSummarizer.const_set(:POSTS_DIR, @tmp_posts)
   end
 
   def teardown
