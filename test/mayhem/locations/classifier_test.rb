@@ -22,6 +22,8 @@ class LocationClassifierTest < Minitest::Test
         instance_variable_get("@#{level}s") << message
       end
     end
+
+    def trace(_message); end
   end
 
   class FakeChatClient
@@ -119,8 +121,11 @@ class LocationClassifierTest < Minitest::Test
     client = FakeChatClient.new(
       response: { 'choices' => [{ 'message' => { 'content' => '["Seattle"]' } }] }
     )
-    location_repository = Mayhem::Locations::Repository.new()
-    classifier = Mayhem::Locations::Classifier.new(model: 'test-model'
+    location_repository = Mayhem::Locations::Repository.new(location_repo: @fm_repo)
+    classifier = Mayhem::Locations::Classifier.new(
+      location_repository: location_repository,
+      client: client,
+      model: 'test-model'
     )
 
     classifier.classify(
@@ -146,8 +151,11 @@ class LocationClassifierTest < Minitest::Test
       { 'choices' => [{ 'message' => { 'content' => '["Seattle"]' } }] }
     end
 
-    location_repository = Mayhem::Locations::Repository.new()
-    classifier = Mayhem::Locations::Classifier.new(model: 'test-model'
+    location_repository = Mayhem::Locations::Repository.new(location_repo: @fm_repo)
+    classifier = Mayhem::Locations::Classifier.new(
+      location_repository: location_repository,
+      client: client,
+      model: 'test-model'
     )
 
     result = classifier.classify('Event in Seattle')

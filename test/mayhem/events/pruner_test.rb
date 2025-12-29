@@ -19,8 +19,17 @@ class EventsPrunerTest < Minitest::Test
     @assets_dir = File.join(@tmpdir, 'assets', 'images')
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir])
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
-    @images_pruner = Mayhem::Images::Pruner.new()
-    @pruner = Mayhem::Events::Pruner.new()
+    @images_pruner = Mayhem::Images::Pruner.new(
+      posts_dir: @posts_dir,
+      events_dir: @events_dir,
+      images_dir: @images_dir,
+      assets_dir: @assets_dir
+    )
+    @pruner = Mayhem::Events::Pruner.new(
+      posts_dir: @posts_dir,
+      events_dir: @events_dir,
+      images_pruner: @images_pruner
+    )
   end
 
   def teardown

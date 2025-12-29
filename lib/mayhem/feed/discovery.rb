@@ -287,7 +287,7 @@ module Mayhem
 
       include UrlHelpers
 
-      def initialize(http_client)
+      def initialize(http_client = HttpClient.new)
         @http = http_client
       end
 

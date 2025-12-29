@@ -114,7 +114,13 @@ module Mayhem
   # Mixin module that provides easy access to the singleton logger
   module Loggable
     def logger
+      return @logger if defined?(@logger) && @logger
+
       Mayhem::Logging.logger
+    end
+
+    def logger=(new_logger)
+      @logger = new_logger
     end
   end
 end

@@ -120,7 +120,7 @@ module Mayhem
       end
 
       def load_existing_websites
-        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |_path, set|
+        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
           doc = Mayhem::FrontMatter::Document.load(path)
           next unless doc
 
@@ -132,7 +132,7 @@ module Mayhem
       end
 
       def load_existing_types
-        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |_path, set|
+        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
           doc = Mayhem::FrontMatter::Document.load(path)
           next unless doc
 

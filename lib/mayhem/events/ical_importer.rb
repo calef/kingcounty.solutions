@@ -85,7 +85,7 @@ module Mayhem
 
       def build_existing_event_index
         index = {}
-        Dir.glob(File.join(@events_dir, '*.md')).each do |_path|
+        Dir.glob(File.join(@events_dir, '*.md')).each do |path|
           document = Mayhem::FrontMatter::Document.load(path)
           next unless document
 

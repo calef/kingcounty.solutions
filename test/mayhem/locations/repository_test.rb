@@ -42,7 +42,7 @@ class LocationRepositoryTest < Minitest::Test
     create_location({ 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
     create_location({ 'title' => 'Bellevue', 'type' => 'City' }, 'The city of Bellevue')
 
-    repository = Mayhem::Locations::Repository.new()
+    repository = Mayhem::Locations::Repository.new(location_repo: @fm_repo)
 
     locations = repository.all
 
@@ -53,7 +53,7 @@ class LocationRepositoryTest < Minitest::Test
   def test_all_caches_results
     create_location({ 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
 
-    repository = Mayhem::Locations::Repository.new()
+    repository = Mayhem::Locations::Repository.new(location_repo: @fm_repo)
 
     first_call = repository.all
     second_call = repository.all

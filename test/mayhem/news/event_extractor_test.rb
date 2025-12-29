@@ -24,11 +24,19 @@ class EventExtractorTest < Minitest::Test
     FileUtils.remove_entry(@tmpdir)
   end
 
+  def build_extractor(chat_client:)
+    Mayhem::News::EventExtractor.new(
+      posts_dir: @posts_dir,
+      events_dir: @events_dir,
+      chat_client: chat_client
+    )
+  end
+
   def test_skips_locked_posts
     write_post('2025-01-01-locked.md', locked: true)
     mock_chat_client = Minitest::Mock.new
 
-    extractor = Mayhem::News::EventExtractor.new()
+    extractor = build_extractor(chat_client: mock_chat_client)
 
     stats = extractor.run
 
@@ -41,7 +49,7 @@ class EventExtractorTest < Minitest::Test
     write_post('2025-01-01-unpublished.md', published: false)
     mock_chat_client = Minitest::Mock.new
 
-    extractor = Mayhem::News::EventExtractor.new()
+    extractor = build_extractor(chat_client: mock_chat_client)
 
     stats = extractor.run
 
@@ -54,7 +62,7 @@ class EventExtractorTest < Minitest::Test
     write_post('2025-01-01-extracted.md', events_extracted: true)
     mock_chat_client = Minitest::Mock.new
 
-    extractor = Mayhem::News::EventExtractor.new()
+    extractor = build_extractor(chat_client: mock_chat_client)
 
     stats = extractor.run
 
@@ -71,7 +79,7 @@ class EventExtractorTest < Minitest::Test
       end
     end.new
 
-    extractor = Mayhem::News::EventExtractor.new()
+    extractor = build_extractor(chat_client: mock_chat_client)
 
     stats = extractor.run
 
@@ -90,7 +98,7 @@ class EventExtractorTest < Minitest::Test
       args.is_a?(Hash) && args.key?(:messages)
     end
 
-    extractor = Mayhem::News::EventExtractor.new()
+    extractor = build_extractor(chat_client: mock_chat_client)
 
     stats = extractor.run
 
@@ -127,7 +135,7 @@ class EventExtractorTest < Minitest::Test
       args.is_a?(Hash) && args.key?(:messages)
     end
 
-    extractor = Mayhem::News::EventExtractor.new()
+    extractor = build_extractor(chat_client: mock_chat_client)
 
     stats = extractor.run
 
@@ -179,7 +187,7 @@ class EventExtractorTest < Minitest::Test
       args.is_a?(Hash) && args.key?(:messages)
     end
 
-    extractor = Mayhem::News::EventExtractor.new()
+    extractor = build_extractor(chat_client: mock_chat_client)
 
     stats = extractor.run
 

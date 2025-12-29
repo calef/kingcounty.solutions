@@ -222,16 +222,20 @@ class MayhemCLITest < Minitest::Test
   def test_run_delete_organization_runs_pruner
     logger = Object.new
     logger_args = nil
-    pruner_args = nil
+    pruner_title = nil
+    logger_set = nil
 
     Mayhem::Logging.stub(:build_logger, ->(**args) { logger_args = args; logger }) do
-      Mayhem::Organizations::Pruner.stub(:prune, ->(title, logger:) { pruner_args = [title, logger] }) do
-        Mayhem::CLI.run_delete_organization(['Org'])
+      Mayhem::Logging.stub(:logger=, ->(value) { logger_set = value }) do
+        Mayhem::Organizations::Pruner.stub(:prune, ->(title) { pruner_title = title }) do
+          Mayhem::CLI.run_delete_organization(['Org'])
+        end
       end
     end
 
     assert_equal({ env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem' }, logger_args)
-    assert_equal ['Org', logger], pruner_args
+    assert_equal logger, logger_set
+    assert_equal 'Org', pruner_title
   end
 
   def test_run_expire_runs_cleanup

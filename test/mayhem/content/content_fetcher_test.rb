@@ -38,7 +38,7 @@ class ContentFetcherTest < Minitest::Test
     HTML
 
     client = StubHttpClient.new(html, 'https://example.com/clean')
-    fetcher = Mayhem::Content::ContentFetcher.new()
+    fetcher = Mayhem::Content::ContentFetcher.new(http_client: client)
 
     result = fetcher.fetch('https://example.com/page')
 
@@ -60,7 +60,7 @@ class ContentFetcherTest < Minitest::Test
     HTML
 
     client = StubHttpClient.new(html, 'https://example.com/body')
-    fetcher = Mayhem::Content::ContentFetcher.new()
+    fetcher = Mayhem::Content::ContentFetcher.new(http_client: client)
 
     result = fetcher.fetch('https://example.com/body')
 

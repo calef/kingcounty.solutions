@@ -33,9 +33,15 @@ class OrganizationAuditTest < Minitest::Test
 
   def setup
     client = FakeClient.new
+    @logger = FakeLogger.new
+    Mayhem::Logging.logger = @logger
     @audit = Mayhem::Topics::OrganizationAudit.new(
       client: client
     )
+  end
+
+  def teardown
+    Mayhem::Logging.reset_logger
   end
 
   def test_normalize_response_strips_triple_backtick_json
@@ -67,8 +73,7 @@ class OrganizationAuditTest < Minitest::Test
   end
 
   def test_load_recent_posts_sorts_and_limits
-    logger = FakeLogger.new
-    audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
+    audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new, max_posts: 2)
     with_org_repo do
       with_news_repo do
         org = create_org(title: 'Org', body: 'Org')
@@ -108,7 +113,6 @@ class OrganizationAuditTest < Minitest::Test
   end
 
   def test_build_prompt_includes_catalog_description_and_posts
-    logger = FakeLogger.new
     audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
     with_org_repo do
       with_topic_repo do
@@ -145,7 +149,6 @@ class OrganizationAuditTest < Minitest::Test
   end
 
   def test_build_prompt_includes_no_recent_posts_placeholder
-    logger = FakeLogger.new
     audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
     with_org_repo do
       org = create_org(title: 'Org A')
@@ -157,7 +160,6 @@ class OrganizationAuditTest < Minitest::Test
   end
 
   def test_filter_result_filters_unknown_titles
-    logger = FakeLogger.new
     audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
     result = {
       'topics_true' => ['Food', 'Other'],
@@ -176,7 +178,6 @@ class OrganizationAuditTest < Minitest::Test
   end
 
   def test_record_report_additions_and_removals
-    logger = FakeLogger.new
     audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
     with_org_repo do
       org = create_org(title: 'Org A', topic_titles: ['Food', 'Housing'])
@@ -201,8 +202,7 @@ class OrganizationAuditTest < Minitest::Test
   end
 
   def test_apply_changes_updates_topics_and_saves
-    logger = FakeLogger.new
-    audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
+    audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new, apply: true)
     with_org_repo do
       org = create_org(title: 'Org A', topic_titles: ['Food', 'Housing'])
       result = {
@@ -214,13 +214,12 @@ class OrganizationAuditTest < Minitest::Test
 
       updated = Mayhem::Models::Organization.find(org.id)
       assert_equal ['Health', 'Housing'], updated.topic_titles
-      assert_includes logger.infos.first, "Updated #{org.id} topic_titles: Health, Housing"
+      assert_includes @logger.infos.first, "Updated #{org.id} topic_titles: Health, Housing"
     end
   end
 
   def test_apply_changes_skips_when_no_changes
-    logger = FakeLogger.new
-    audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
+    audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new, apply: true)
     with_org_repo do
       org = create_org(title: 'Org A', topic_titles: ['Food'])
       result = {
@@ -232,27 +231,25 @@ class OrganizationAuditTest < Minitest::Test
 
       updated = Mayhem::Models::Organization.find(org.id)
       assert_equal ['Food'], updated.topic_titles
-      assert_empty logger.infos
+      assert_empty @logger.infos
     end
   end
 
   def test_write_report_writes_json_when_output_set
-    logger = FakeLogger.new
     Dir.mktmpdir do |dir|
       output = File.join(dir, 'report.json')
-      audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
+      audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new, output: output)
       report = [{ org: 'Org A', additions: ['Food'], removals: [], unclear: [], notes: nil }]
       audit.instance_variable_set(:@report, report)
 
       audit.send(:write_report)
 
       assert_equal JSON.pretty_generate(report), File.read(output)
-      assert_includes logger.infos.first, "Report written to #{output}"
+      assert_includes @logger.infos.first, "Report written to #{output}"
     end
   end
 
   def test_write_report_prints_when_output_missing
-    logger = FakeLogger.new
     audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
     called = false
 
@@ -264,7 +261,6 @@ class OrganizationAuditTest < Minitest::Test
   end
 
   def test_print_report_logs_entries
-    logger = FakeLogger.new
     audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
     audit.instance_variable_set(
       :@report,
@@ -279,15 +275,14 @@ class OrganizationAuditTest < Minitest::Test
 
     audit.send(:print_report)
 
-    assert_includes logger.infos, '== Org A =='
-    assert_includes logger.infos, 'Add: Food'
-    assert_includes logger.infos, 'Remove: (none)'
-    assert_includes logger.infos, 'Unclear: Health'
-    assert_includes logger.infos, 'Notes: Check'
+    assert_includes @logger.infos, '== Org A =='
+    assert_includes @logger.infos, 'Add: Food'
+    assert_includes @logger.infos, 'Remove: (none)'
+    assert_includes @logger.infos, 'Unclear: Health'
+    assert_includes @logger.infos, 'Notes: Check'
   end
 
   def test_safe_parse_json_parses_valid_json
-    logger = FakeLogger.new
     audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
 
     parsed = audit.send(:safe_parse_json, '{ "topics_true": ["Food"] }', 'Org A')
@@ -296,17 +291,15 @@ class OrganizationAuditTest < Minitest::Test
   end
 
   def test_safe_parse_json_warns_on_invalid_json
-    logger = FakeLogger.new
     audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
 
     parsed = audit.send(:safe_parse_json, 'not json', 'Org A')
 
     assert_nil parsed
-    assert_includes logger.warns.first, 'Non-JSON response for Org A'
+    assert_includes @logger.warns.first, 'Non-JSON response for Org A'
   end
 
   def test_audit_org_parses_and_filters_response
-    logger = FakeLogger.new
     client = Class.new do
       attr_reader :last_parameters
 
@@ -326,8 +319,7 @@ class OrganizationAuditTest < Minitest::Test
     }
     audit = Mayhem::Topics::OrganizationAudit.new(
       client: client.new(response),
-      model: 'test-model',
-      logger: logger
+      model: 'test-model'
     )
     with_org_repo do
       with_topic_repo do
@@ -348,7 +340,6 @@ class OrganizationAuditTest < Minitest::Test
   end
 
   def test_process_org_skips_when_audit_returns_nil
-    logger = FakeLogger.new
     audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
     with_org_repo do
       with_news_repo do
@@ -358,15 +349,14 @@ class OrganizationAuditTest < Minitest::Test
           audit.send(:process_org, org, [])
         end
 
-        assert_includes logger.warns.first, 'Skipping Org A due to parse errors'
+        assert_includes @logger.warns.first, 'Skipping Org A due to parse errors'
         assert_empty audit.instance_variable_get(:@report)
       end
     end
   end
 
   def test_process_org_records_and_applies_changes
-    logger = FakeLogger.new
-    audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new)
+    audit = Mayhem::Topics::OrganizationAudit.new(client: FakeClient.new, apply: true)
     with_org_repo do
       with_news_repo do
         org = create_org(title: 'Org A', topic_titles: ['Food'])
@@ -389,7 +379,6 @@ class OrganizationAuditTest < Minitest::Test
   end
 
   def test_run_processes_all_orgs_and_writes_report
-    logger = FakeLogger.new
     with_org_repo do
       with_topic_repo do
         create_org(title: 'Org A')

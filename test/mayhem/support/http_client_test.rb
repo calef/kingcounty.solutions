@@ -28,6 +28,7 @@ class HttpClientTest < Minitest::Test
 
   def setup
     @logger = FakeLogger.new
+    Mayhem::Logging.logger = @logger
     @client = Mayhem::Support::HttpClient.new(delay: 0,
       max_retries: 1,
       timeout: 1,
@@ -36,6 +37,10 @@ class HttpClientTest < Minitest::Test
       host_operation_delays: {}
     )
     @request_flow = @client.instance_variable_get(:@request_flow)
+  end
+
+  def teardown
+    Mayhem::Logging.reset_logger
   end
 
   # Public API: resolve_final_url

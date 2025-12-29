@@ -4,6 +4,7 @@ require 'yaml'
 require 'date'
 require 'time'
 require 'mayhem/front_matter/spacing_normalizer'
+require 'mayhem/logging'
 
 module Mayhem
   module FrontMatter

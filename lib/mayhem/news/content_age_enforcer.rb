@@ -170,7 +170,7 @@ module Mayhem
 
       def remaining_event_references
         counts = Hash.new(0)
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |_path|
+        Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
           document = Mayhem::FrontMatter::Document.load(path)
           next unless document
 

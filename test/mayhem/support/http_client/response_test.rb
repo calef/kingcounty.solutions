@@ -14,6 +14,7 @@ module Mayhem
 
         def setup
           @logger = HttpClientTestHelpers::FakeLogger.new
+          Mayhem::Logging.logger = @logger
           @client = Mayhem::Support::HttpClient.new(delay: 0,
             max_retries: 1,
             timeout: 1,
@@ -24,8 +25,16 @@ module Mayhem
           @response_processor = Mayhem::Support::HttpClient::ResponseProcessor.new()
         end
 
+        def teardown
+          Mayhem::Logging.reset_logger
+        end
+
         def build_request_flow(transport, max_redirects: 3)
-          Mayhem::Support::HttpClient::RequestFlow.new()
+          Mayhem::Support::HttpClient::RequestFlow.new(
+            transport: transport,
+            response_processor: @response_processor,
+            max_redirects: max_redirects
+          )
         end
 
         def test_follow_head_redirect_follows_multiple_hops

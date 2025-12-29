@@ -10,7 +10,9 @@ module Mayhem
       class ResponseProcessor
         include Mayhem::Loggable
 
-        def initialize(too_many_requests_delay:)
+        DEFAULT_TOO_MANY_REQUESTS_DELAY = 60
+
+        def initialize(too_many_requests_delay: DEFAULT_TOO_MANY_REQUESTS_DELAY)
           @too_many_requests_delay = too_many_requests_delay
         end
 

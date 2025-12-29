@@ -57,7 +57,9 @@ module Mayhem
             assert called
           end
 
-          denial_transport = Mayhem::Support::HttpClient::HttpTransport.new(operation_delay_manager: FakeDelayManager.new
+          denial_transport = Mayhem::Support::HttpClient::HttpTransport.new(
+            allow_insecure_fallback: false,
+            operation_delay_manager: FakeDelayManager.new
           )
           assert_raises(Faraday::SSLError) do
             denial_transport.send(

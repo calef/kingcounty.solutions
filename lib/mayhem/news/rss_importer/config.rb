@@ -8,9 +8,12 @@ module Mayhem
       include Mayhem::Loggable
 
       class Config
-        MAX_ITEM_AGE_DAYS = 365
+        include Mayhem::Loggable
 
-        def initialize(max_item_age_days:, config_path:)
+        MAX_ITEM_AGE_DAYS = 365
+        DEFAULT_CONFIG_PATH = File.expand_path('../../../../_config.yml', __dir__)
+
+        def initialize(max_item_age_days: nil, config_path: DEFAULT_CONFIG_PATH)
           @max_item_age_days = max_item_age_days
           @config_path = config_path
         end

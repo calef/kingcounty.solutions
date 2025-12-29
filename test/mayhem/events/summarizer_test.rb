@@ -22,6 +22,8 @@ class EventSummarizerTest < Minitest::Test
         instance_variable_get("@#{level}s") << message
       end
     end
+
+    def trace(_message); end
   end
 
   class FakeChatClient
@@ -72,6 +74,10 @@ class EventSummarizerTest < Minitest::Test
     @tmp_events = Dir.mktmpdir('events')
     @tmp_posts = Dir.mktmpdir('posts')
     @tmp_topics = Dir.mktmpdir('topics')
+    @tmp_images = Dir.mktmpdir('images')
+    @tmp_assets_root = Dir.mktmpdir('assets')
+    @tmp_assets = File.join(@tmp_assets_root, 'images')
+    FileUtils.mkdir_p(@tmp_assets)
     @logger = FakeLogger.new
     Mayhem::Logging.logger = @logger
     @original_posts_dir = Mayhem::Events::EventSummarizer.const_get(:POSTS_DIR)
@@ -84,6 +90,8 @@ class EventSummarizerTest < Minitest::Test
     FileUtils.remove_entry(@tmp_events)
     FileUtils.remove_entry(@tmp_posts)
     FileUtils.remove_entry(@tmp_topics)
+    FileUtils.remove_entry(@tmp_images)
+    FileUtils.remove_entry(@tmp_assets_root)
     Mayhem::Events::EventSummarizer.send(:remove_const, :POSTS_DIR)
     Mayhem::Events::EventSummarizer.const_set(:POSTS_DIR, @original_posts_dir)
   end
@@ -105,7 +113,15 @@ class EventSummarizerTest < Minitest::Test
     http = FakeHttpClient.new(response: { body: http_body, content_type: 'text/html' })
     topic_classifier = FakeTopicClassifier.new(topics: topics)
     location_classifier = FakeLocationClassifier.new(location_titles: location_titles)
-    Mayhem::Events::EventSummarizer.new(model: 'test-model'
+    Mayhem::Events::EventSummarizer.new(
+      events_dir: @tmp_events,
+      images_dir: @tmp_images,
+      assets_dir: @tmp_assets,
+      client: client,
+      model: 'test-model',
+      http_client: http,
+      topic_classifier: topic_classifier,
+      location_classifier: location_classifier
     )
   end
 
@@ -301,6 +317,8 @@ class EventSummarizerTest < Minitest::Test
 
     summarizer = Mayhem::Events::EventSummarizer.new(
       events_dir: @tmp_events,
+      images_dir: @tmp_images,
+      assets_dir: @tmp_assets,
       client: FakeChatClient.new(response: {}),
       http_client: FakeHttpClient.new(response: { body: '<html></html>', content_type: 'text/html' }),
       topic_classifier: topic_classifier,

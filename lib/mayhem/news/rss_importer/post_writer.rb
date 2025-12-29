@@ -9,6 +9,8 @@ module Mayhem
       include Mayhem::Loggable
 
       class PostWriter
+        include Mayhem::Loggable
+
         MAX_FILENAME_BYTES = 255
         DEFAULT_NEWS_DIR = '_posts'
 

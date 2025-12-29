@@ -17,7 +17,10 @@ module Mayhem
           { label: '1.0', option: 'httpv1_0' }
         ].freeze
 
-        def initialize(user_agent:, open_timeout:, read_timeout:, allow_insecure_fallback:, operation_delay_manager:)
+        def initialize(operation_delay_manager:, user_agent: UA,
+                       open_timeout: DEFAULTS[:timeout],
+                       read_timeout: DEFAULTS[:timeout],
+                       allow_insecure_fallback: DEFAULTS[:allow_insecure_fallback])
           @user_agent = user_agent
           @open_timeout = open_timeout
           @read_timeout = read_timeout
@@ -45,7 +48,7 @@ module Mayhem
           rescue Faraday::ConnectionFailed, Faraday::TimeoutError => e
             next_version = HTTP_VERSIONS[index + 1]
             if next_version
-              @logger.warn(
+              logger.warn(
                 "HTTP/#{version[:label]} failed for #{uri} (#{e.class}: #{e.message}), " \
                 "retrying with HTTP/#{next_version[:label]}"
               )
