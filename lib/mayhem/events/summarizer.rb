@@ -23,13 +23,11 @@ module Mayhem
       include Mayhem::Loggable
       include Mayhem::SummarizerHelpers
 
-      IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       MAX_ARTICLE_CHARS = 20_000
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
 
       def initialize(
-        images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         client: nil,
         model: DEFAULT_MODEL,
@@ -53,7 +51,6 @@ module Mayhem
                                )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           images_dir: images_dir,
                            assets_dir: assets_dir
                          )
         @event_pruner = event_pruner ||

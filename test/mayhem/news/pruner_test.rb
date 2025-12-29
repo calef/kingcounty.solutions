@@ -23,7 +23,6 @@ class NewsPrunerTest < Minitest::Test
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir])
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
     @images_pruner = Mayhem::Images::Pruner.new(
-      images_dir: @images_dir,
       assets_dir: @assets_dir
     )
     @pruner = Mayhem::News::Pruner.new(images_pruner: @images_pruner)

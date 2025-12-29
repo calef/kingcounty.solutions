@@ -5,6 +5,7 @@ require 'fileutils'
 require_relative '../front_matter/document'
 require_relative '../logging'
 require_relative '../models/event'
+require_relative '../models/image'
 require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -16,9 +17,9 @@ module Mayhem
 
       attr_reader :posts_dir, :images_dir, :assets_dir
 
-      def initialize(images_dir:, assets_dir:)
+      def initialize(assets_dir:)
         @posts_dir = Mayhem::Models::News.collection_dir
-        @images_dir = images_dir
+        @images_dir = Mayhem::Models::Image.collection_dir
         @assets_dir = assets_dir
       end
 
