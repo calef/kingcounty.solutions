@@ -19,14 +19,8 @@ class NewsPrunerTest < Minitest::Test
     @assets_dir = File.join(@tmpdir, 'assets', 'images')
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir])
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
-    @images_pruner = Mayhem::Images::Pruner.new(
-      posts_dir: @posts_dir,
-      events_dir: @events_dir,
-      images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      logger: @logger
-    )
-    @pruner = Mayhem::News::Pruner.new(posts_dir: @posts_dir, images_pruner: @images_pruner, logger: @logger)
+    @images_pruner = Mayhem::Images::Pruner.new()
+    @pruner = Mayhem::News::Pruner.new()
   end
 
   def teardown

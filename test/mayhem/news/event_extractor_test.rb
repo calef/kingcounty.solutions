@@ -28,12 +28,7 @@ class EventExtractorTest < Minitest::Test
     write_post('2025-01-01-locked.md', locked: true)
     mock_chat_client = Minitest::Mock.new
 
-    extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
-      events_dir: @events_dir,
-      chat_client: mock_chat_client,
-      logger: @logger
-    )
+    extractor = Mayhem::News::EventExtractor.new()
 
     stats = extractor.run
 
@@ -46,12 +41,7 @@ class EventExtractorTest < Minitest::Test
     write_post('2025-01-01-unpublished.md', published: false)
     mock_chat_client = Minitest::Mock.new
 
-    extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
-      events_dir: @events_dir,
-      chat_client: mock_chat_client,
-      logger: @logger
-    )
+    extractor = Mayhem::News::EventExtractor.new()
 
     stats = extractor.run
 
@@ -64,12 +54,7 @@ class EventExtractorTest < Minitest::Test
     write_post('2025-01-01-extracted.md', events_extracted: true)
     mock_chat_client = Minitest::Mock.new
 
-    extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
-      events_dir: @events_dir,
-      chat_client: mock_chat_client,
-      logger: @logger
-    )
+    extractor = Mayhem::News::EventExtractor.new()
 
     stats = extractor.run
 
@@ -86,18 +71,13 @@ class EventExtractorTest < Minitest::Test
       end
     end.new
 
-    extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
-      events_dir: @events_dir,
-      chat_client: mock_chat_client,
-      logger: @logger
-    )
+    extractor = Mayhem::News::EventExtractor.new()
 
     stats = extractor.run
 
     assert_equal 1, stats[:skipped_unsummarized]
 
-    doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
+    doc = Mayhem::FrontMatter::Document.load(path)
     assert_nil doc.front_matter['events_extracted']
     assert_nil doc.front_matter['event_ids']
     assert Dir.glob(File.join(@events_dir, '*.md')).empty?
@@ -110,12 +90,7 @@ class EventExtractorTest < Minitest::Test
       args.is_a?(Hash) && args.key?(:messages)
     end
 
-    extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
-      events_dir: @events_dir,
-      chat_client: mock_chat_client,
-      logger: @logger
-    )
+    extractor = Mayhem::News::EventExtractor.new()
 
     stats = extractor.run
 
@@ -124,7 +99,7 @@ class EventExtractorTest < Minitest::Test
 
     # Verify post was marked as extracted
     post_path = File.join(@posts_dir, '2025-01-01-no-events.md')
-    doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
+    doc = Mayhem::FrontMatter::Document.load(post_path)
 
     assert doc.front_matter['events_extracted']
     assert_empty doc.front_matter['event_ids']
@@ -152,12 +127,7 @@ class EventExtractorTest < Minitest::Test
       args.is_a?(Hash) && args.key?(:messages)
     end
 
-    extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
-      events_dir: @events_dir,
-      chat_client: mock_chat_client,
-      logger: @logger
-    )
+    extractor = Mayhem::News::EventExtractor.new()
 
     stats = extractor.run
 
@@ -166,7 +136,7 @@ class EventExtractorTest < Minitest::Test
 
     # Verify post was updated with event link
     post_path = File.join(@posts_dir, '2025-01-01-event-announcement.md')
-    doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
+    doc = Mayhem::FrontMatter::Document.load(post_path)
 
     assert doc.front_matter['events_extracted']
     assert_equal 1, doc.front_matter['event_ids'].size
@@ -177,7 +147,7 @@ class EventExtractorTest < Minitest::Test
     assert_equal 1, event_files.size
     assert_equal File.basename(event_files.first), doc.front_matter['event_ids'].first
 
-    event_doc = Mayhem::FrontMatter::Document.load(event_files.first, logger: @logger)
+    event_doc = Mayhem::FrontMatter::Document.load(event_files.first)
 
     assert_equal 'Planning Meeting', event_doc.front_matter['title']
     assert_equal '2025-12-15T18:00:00-08:00', event_doc.front_matter['start_date']
@@ -209,12 +179,7 @@ class EventExtractorTest < Minitest::Test
       args.is_a?(Hash) && args.key?(:messages)
     end
 
-    extractor = Mayhem::News::EventExtractor.new(
-      posts_dir: @posts_dir,
-      events_dir: @events_dir,
-      chat_client: mock_chat_client,
-      logger: @logger
-    )
+    extractor = Mayhem::News::EventExtractor.new()
 
     stats = extractor.run
 
@@ -225,7 +190,7 @@ class EventExtractorTest < Minitest::Test
 
     # Verify post was marked as extracted with no events
     post_path = File.join(@posts_dir, '2025-01-01-past-event.md')
-    doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
+    doc = Mayhem::FrontMatter::Document.load(post_path)
 
     assert doc.front_matter['events_extracted']
     assert_empty doc.front_matter['event_ids']

@@ -17,7 +17,7 @@ class ImageFilesConverterTest < Minitest::Test
 
   def setup
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
-    @converter = Mayhem::ImageFiles::Converter.new(logger: @logger)
+    @converter = Mayhem::ImageFiles::Converter.new()
   end
 
   def test_convert_to_webp_converts_raster_images

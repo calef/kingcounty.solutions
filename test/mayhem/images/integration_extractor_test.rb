@@ -36,10 +36,12 @@ class ImageExtractorIntegrationTest < Minitest::Test
       stub_request(:get, 'https://example.com/image.webp').to_return(status: 200, body: 'webpdata',
                                                                      headers: { 'Content-Type' => 'image/webp' })
 
-      @extractor = Mayhem::Images::Extractor.new(posts_dir: @tmp_posts, events_dir: @tmp_events,
-                                                              image_docs_dir: @tmp_images, asset_dir: @assets,
-                                                              logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-                                                              min_dimension: 0)
+      @extractor = Mayhem::Images::Extractor.new(
+        posts_dir: @tmp_posts,
+        image_docs_dir: @tmp_images_dir,
+        asset_dir: @tmp_asset_dir,
+        min_dimension: 0
+      )
     end
   end
 

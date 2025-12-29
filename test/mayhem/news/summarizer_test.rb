@@ -34,8 +34,7 @@ class PostSummarizerTest < Minitest::Test
     write_post('2025-01-01-test.md', { 'source_url' => 'http://bad', 'summarized' => false, 'feed_content' => '<p>body</p>' }, 'body')
     http_stub = Object.new
     def http_stub.fetch(*) = { body: '', 'content-type' => 'text/plain', final_url: 'http://ok' }
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts,
-                                                  http_client: http_stub, logger: @logger, client: Object.new)
+    summarizer = Mayhem::News::PostSummarizer.new(client: Object.new)
     def summarizer.fetch_article_html(_url)
       raise StandardError, 'boom'
     end
@@ -59,8 +58,7 @@ class PostSummarizerTest < Minitest::Test
       { 'choices' => [{ 'message' => { 'content' => '["Alpha"]' } }] }
     end
 
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts,
-                                                  http_client: Object.new, logger: @logger, client: client)
+    summarizer = Mayhem::News::PostSummarizer.new(client: client)
     # stub generate_summary to skip OpenAI call
     def summarizer.generate_summary(*) = 'summary'
 
@@ -86,8 +84,7 @@ class PostSummarizerTest < Minitest::Test
     # Use a summarizer with a client object that will raise once then return
     http_stub = Object.new
     def http_stub.fetch(*) = { body: 'abc', 'content-type' => 'text/plain', final_url: 'http://ok' }
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts,
-                                                  http_client: http_stub, logger: @logger, client: client)
+    summarizer = Mayhem::News::PostSummarizer.new(client: client)
     def summarizer.fetch_article_text(_url) = 'abc'
 
     stats = summarizer.run
@@ -113,11 +110,7 @@ class PostSummarizerTest < Minitest::Test
       { 'choices' => [{ 'message' => { 'content' => 'Fresh summary.' } }] }
     end
 
-    summarizer = Mayhem::News::PostSummarizer.new(
-      posts_dir: @tmp_posts,
-      http_client: http_stub,
-      logger: @logger,
-      client: client
+    summarizer = Mayhem::News::PostSummarizer.new(client: client
     )
 
     stats = summarizer.run
@@ -148,11 +141,7 @@ class PostSummarizerTest < Minitest::Test
       raise 'Should not be called for unpublished posts'
     end
 
-    summarizer = Mayhem::News::PostSummarizer.new(
-      posts_dir: @tmp_posts,
-      http_client: Object.new,
-      logger: @logger,
-      client: Object.new,
+    summarizer = Mayhem::News::PostSummarizer.new(client: Object.new,
       location_classifier: location_classifier
     )
 
@@ -183,11 +172,7 @@ class PostSummarizerTest < Minitest::Test
       raise 'should not be invoked when location_titles already exist'
     end
 
-    summarizer = Mayhem::News::PostSummarizer.new(
-      posts_dir: @tmp_posts,
-      http_client: Object.new,
-      logger: @logger,
-      client: Object.new,
+    summarizer = Mayhem::News::PostSummarizer.new(client: Object.new,
       topic_classifier: topic_classifier,
       location_classifier: location_classifier
     )
@@ -204,11 +189,7 @@ class PostSummarizerTest < Minitest::Test
                  'location_titles' => ['Seattle']
                }, '')
 
-    summarizer = Mayhem::News::PostSummarizer.new(
-      posts_dir: @tmp_posts,
-      http_client: Object.new,
-      logger: @logger,
-      client: Object.new
+    summarizer = Mayhem::News::PostSummarizer.new(client: Object.new
     )
 
     stats = summarizer.run

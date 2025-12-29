@@ -69,10 +69,10 @@ module News
 
         extractor = Mayhem::Images::Extractor.new(
           posts_dir: posts_dir,
+          events_dir: events_dir,
           image_docs_dir: images_dir,
           asset_dir: assets_dir,
-          events_dir: events_dir,
-          logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+          min_dimension: 0
         )
 
         stubs = stub_image_processing(extractor)
@@ -121,7 +121,7 @@ module News
           events_dir: events_dir,
           image_docs_dir: images_dir,
           asset_dir: assets_dir,
-          logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+          min_dimension: 0
         )
 
         stubs = stub_image_processing(extractor)
@@ -161,10 +161,10 @@ module News
 
         extractor = Mayhem::Images::Extractor.new(
           posts_dir: posts_dir,
-          events_dir: nil,
+          events_dir: events_dir,
           image_docs_dir: images_dir,
           asset_dir: assets_dir,
-          logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+          min_dimension: 0
         )
 
         extractor.run

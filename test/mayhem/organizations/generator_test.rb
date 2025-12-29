@@ -62,14 +62,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     @fake_client = Object.new
     @feed_finder = FakeFeedFinder.new(OpenStruct.new(rss_url: 'https://feed', ical_url: 'https://calendar'))
     @sitemap_finder = FakeSitemapFinder.new(['https://example.com/sitemap.xml'])
-    @generator = Mayhem::Organizations::Generator.new(
-      org_dir: @org_dir,
-      topic_repo: @topic_repo,
-      client: @fake_client,
-      feed_finder: @feed_finder,
-      sitemap_finder: @sitemap_finder,
-      logger: @logger
-    )
+    @generator = Mayhem::Organizations::Generator.new()
   end
 
   def teardown
@@ -151,13 +144,7 @@ class OrganizationsGeneratorTest < Minitest::Test
 
   def test_discover_feed_urls_logs_warning_on_exception
     failing = FakeFeedFinder.new
-    failed_gen = Mayhem::Organizations::Generator.new(
-      org_dir: @org_dir,
-      topic_repo: @topic_repo,
-      client: @fake_client,
-      feed_finder: failing,
-      logger: @logger
-    )
+    failed_gen = Mayhem::Organizations::Generator.new()
     failing.define_singleton_method(:find) { raise StandardError, 'boom' }
     result = failed_gen.send(:discover_feed_urls, 'https://example.com')
     assert_nil result
@@ -186,14 +173,7 @@ class OrganizationsGeneratorTest < Minitest::Test
   def test_run_creates_organization_file_with_feed
     create_topic('Health')
 
-    generator = Mayhem::Organizations::Generator.new(
-      org_dir: @org_dir,
-      topic_repo: @topic_repo,
-      client: @fake_client,
-      feed_finder: @feed_finder,
-      sitemap_finder: @sitemap_finder,
-      logger: @logger
-    )
+    generator = Mayhem::Organizations::Generator.new()
     stub_pages(generator)
 
     response_body = JSON.generate({
@@ -222,14 +202,7 @@ class OrganizationsGeneratorTest < Minitest::Test
       'https://example.com/sitemap-index.xml',
       'https://example.com/sitemap.xml'
     ])
-    generator = Mayhem::Organizations::Generator.new(
-      org_dir: @org_dir,
-      topic_repo: @topic_repo,
-      client: @fake_client,
-      feed_finder: @feed_finder,
-      sitemap_finder: sitemap_finder,
-      logger: @logger
-    )
+    generator = Mayhem::Organizations::Generator.new()
     stub_pages(generator)
 
     response_body = JSON.generate({
@@ -254,14 +227,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     create_topic('Health')
 
     sitemap_finder = FakeSitemapFinder.new(nil)
-    generator = Mayhem::Organizations::Generator.new(
-      org_dir: @org_dir,
-      topic_repo: @topic_repo,
-      client: @fake_client,
-      feed_finder: @feed_finder,
-      sitemap_finder: sitemap_finder,
-      logger: @logger
-    )
+    generator = Mayhem::Organizations::Generator.new()
     stub_pages(generator)
 
     response_body = JSON.generate({
@@ -281,14 +247,7 @@ class OrganizationsGeneratorTest < Minitest::Test
 
   def test_run_skips_existing_website
     write_doc(@org_dir, 'existing.md', { 'website_url' => 'https://example.com' })
-    generator = Mayhem::Organizations::Generator.new(
-      org_dir: @org_dir,
-      topic_repo: @topic_repo,
-      client: @fake_client,
-      feed_finder: @feed_finder,
-      sitemap_finder: @sitemap_finder,
-      logger: @logger
-    )
+    generator = Mayhem::Organizations::Generator.new()
     stub_pages(generator)
     generator.instance_variable_set(:@client, FakeChatClient.new(JSON.generate('title' => 'X')))
 

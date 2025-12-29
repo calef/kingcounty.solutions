@@ -51,17 +51,14 @@ class RssImporterMethodsTest < Minitest::Test
     @tmp_orgs = Mayhem::Models::Organization.repo.root.join('_organizations').to_s
     @logger = FakeLogger.new
     @fake_http = FakeHttpClient.new(resolved_url: 'https://pubmed.ncbi.nlm.nih.gov/final?utm_source=abc')
-    @item_parser = Mayhem::News::RssImporter::ItemParser.new(logger: @logger)
-    @canonicalizer = Mayhem::News::RssImporter::Canonicalizer.new(http_client: @fake_http, logger: @logger)
-    @post_writer = Mayhem::News::RssImporter::PostWriter.new(news_model: Mayhem::Models::News, logger: @logger)
+    @item_parser = Mayhem::News::RssImporter::ItemParser.new()
+    @canonicalizer = Mayhem::News::RssImporter::Canonicalizer.new()
+    @post_writer = Mayhem::News::RssImporter::PostWriter.new()
     @duplicate_tracker = Mayhem::News::RssImporter::DuplicateTracker.new(news_model: Mayhem::Models::News)
     @fake_fetcher = Minitest::Mock.new
     @item_processor = build_item_processor(content_fetcher: @fake_fetcher)
-    @feed_sanitizer = Mayhem::News::RssImporter::FeedSanitizer.new(logger: @logger)
-    @feed_runner = Mayhem::News::RssImporter::FeedRunner.new(
-      http_client: @fake_http,
-      logger: @logger,
-      feed_sanitizer: @feed_sanitizer,
+    @feed_sanitizer = Mayhem::News::RssImporter::FeedSanitizer.new()
+    @feed_runner = Mayhem::News::RssImporter::FeedRunner.new(feed_sanitizer: @feed_sanitizer,
       item_processor: @item_processor
     )
   end
@@ -83,11 +80,7 @@ class RssImporterMethodsTest < Minitest::Test
     config_path = File.join(@tmp_posts, 'config.yml')
     FileUtils.mkdir_p(File.dirname(config_path))
     File.write(config_path, "rss_max_item_age_days: 42\n")
-    config = Mayhem::News::RssImporter::Config.new(
-      max_item_age_days: nil,
-      config_path: config_path,
-      logger: @logger
-    )
+    config = Mayhem::News::RssImporter::Config.new()
     assert_equal 42, config.max_item_age_days
   end
 
@@ -318,14 +311,7 @@ class RssImporterMethodsTest < Minitest::Test
   private
 
   def build_item_processor(content_fetcher:)
-    Mayhem::News::RssImporter::ItemProcessor.new(
-      item_parser: @item_parser,
-      canonicalizer: @canonicalizer,
-      content_fetcher: content_fetcher,
-      duplicate_tracker: @duplicate_tracker,
-      post_writer: @post_writer,
-      logger: @logger,
-      max_item_age_days: 365
+    Mayhem::News::RssImporter::ItemProcessor.new(max_item_age_days: 365
     )
   end
 

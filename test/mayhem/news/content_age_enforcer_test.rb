@@ -35,13 +35,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     new_post = write_post('2025-12-01-new.md', 10, [shared_image])
     write_image_metadata(shared_image)
 
-    enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      posts_dir: @posts_dir,
-      images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      config_path: @config_path,
-      logger: @logger,
-      clock: -> { @reference_time }
+    enforcer = Mayhem::News::ContentAgeEnforcer.new(clock: -> { @reference_time }
     )
 
     enforcer.run
@@ -57,13 +51,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     write_image_metadata(unique_image)
     old_post = write_post('2025-01-01-old.md', 300, [unique_image])
     write_asset(unique_image)
-    enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      posts_dir: @posts_dir,
-      images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      config_path: @config_path,
-      logger: @logger,
-      clock: -> { @reference_time }
+    enforcer = Mayhem::News::ContentAgeEnforcer.new(clock: -> { @reference_time }
     )
 
     enforcer.run
@@ -85,14 +73,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     event1 = write_event(events_dir, 'event1', generated: true)
     event2 = write_event(events_dir, 'event2', generated: false)
 
-    enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      posts_dir: @posts_dir,
-      images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      events_dir: events_dir,
-      config_path: @config_path,
-      logger: @logger,
-      clock: -> { @reference_time }
+    enforcer = Mayhem::News::ContentAgeEnforcer.new(clock: -> { @reference_time }
     )
 
     enforcer.run
@@ -119,14 +100,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     # Create the shared generated event
     shared_event = write_event(events_dir, 'shared-event', generated: true)
 
-    enforcer = Mayhem::News::ContentAgeEnforcer.new(
-      posts_dir: @posts_dir,
-      images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      events_dir: events_dir,
-      config_path: @config_path,
-      logger: @logger,
-      clock: -> { @reference_time }
+    enforcer = Mayhem::News::ContentAgeEnforcer.new(clock: -> { @reference_time }
     )
 
     enforcer.run

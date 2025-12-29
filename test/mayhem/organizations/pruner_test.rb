@@ -24,35 +24,13 @@ class OrganizationsPrunerTest < Minitest::Test
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir, @organizations_dir])
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
 
-    @images_pruner = Mayhem::Images::Pruner.new(
-      posts_dir: @posts_dir,
-      events_dir: @events_dir,
-      images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      logger: @logger
-    )
+    @images_pruner = Mayhem::Images::Pruner.new()
 
-    @events_pruner = Mayhem::Events::Pruner.new(
-      posts_dir: @posts_dir,
-      events_dir: @events_dir,
-      images_pruner: @images_pruner,
-      logger: @logger
-    )
+    @events_pruner = Mayhem::Events::Pruner.new()
 
-    @news_pruner = Mayhem::News::Pruner.new(
-      posts_dir: @posts_dir,
-      images_pruner: @images_pruner,
-      logger: @logger
-    )
+    @news_pruner = Mayhem::News::Pruner.new()
 
-    @pruner = Mayhem::Organizations::Pruner.new(
-      posts_dir: @posts_dir,
-      events_dir: @events_dir,
-      organizations_dir: @organizations_dir,
-      events_pruner: @events_pruner,
-      news_pruner: @news_pruner,
-      logger: @logger
-    )
+    @pruner = Mayhem::Organizations::Pruner.new()
   end
 
   def teardown

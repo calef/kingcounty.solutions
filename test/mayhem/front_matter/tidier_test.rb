@@ -7,7 +7,7 @@ require 'mayhem/front_matter/tidier'
 
 class FrontMatterTidierTest < Minitest::Test
   def setup
-    @tidier = Mayhem::FrontMatter::Tidier.new(logger: Logger.new(IO::NULL))
+    @tidier = Mayhem::FrontMatter::Tidier.new
   end
 
   def test_tidy_markdown_sorts_keys_and_adds_blank_line

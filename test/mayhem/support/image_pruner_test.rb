@@ -21,12 +21,7 @@ class ImagePrunerTest < Minitest::Test
     FileUtils.mkdir_p(@images_dir)
     FileUtils.mkdir_p(@assets_dir)
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
-    @pruner = Mayhem::Images::Pruner.new(
-      posts_dir: @posts_dir,
-      images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      logger: @logger
-    )
+    @pruner = Mayhem::Images::Pruner.new()
   end
 
   def teardown

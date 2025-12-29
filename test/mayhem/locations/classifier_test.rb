@@ -38,9 +38,11 @@ class LocationClassifierTest < Minitest::Test
     @tmp_locations = Dir.mktmpdir('locations')
     @fm_repo = FMRepo::Repository.new(root: @tmp_locations)
     @logger = FakeLogger.new
+    Mayhem::Logging.logger = @logger
   end
 
   def teardown
+    Mayhem::Logging.reset_logger
     FileUtils.remove_entry(@tmp_locations)
   end
 
@@ -52,13 +54,11 @@ class LocationClassifierTest < Minitest::Test
   def build_classifier(client_response:)
     client = FakeChatClient.new(response: client_response)
     location_repository = Mayhem::Locations::Repository.new(
-      location_repo: @fm_repo,
-      logger: @logger
+      location_repo: @fm_repo
     )
     Mayhem::Locations::Classifier.new(
       location_repository: location_repository,
       client: client,
-      logger: @logger,
       model: 'test-model'
     )
   end
@@ -119,15 +119,8 @@ class LocationClassifierTest < Minitest::Test
     client = FakeChatClient.new(
       response: { 'choices' => [{ 'message' => { 'content' => '["Seattle"]' } }] }
     )
-    location_repository = Mayhem::Locations::Repository.new(
-      location_repo: @fm_repo,
-      logger: @logger
-    )
-    classifier = Mayhem::Locations::Classifier.new(
-      location_repository: location_repository,
-      client: client,
-      logger: @logger,
-      model: 'test-model'
+    location_repository = Mayhem::Locations::Repository.new()
+    classifier = Mayhem::Locations::Classifier.new(model: 'test-model'
     )
 
     classifier.classify(
@@ -153,15 +146,8 @@ class LocationClassifierTest < Minitest::Test
       { 'choices' => [{ 'message' => { 'content' => '["Seattle"]' } }] }
     end
 
-    location_repository = Mayhem::Locations::Repository.new(
-      location_repo: @fm_repo,
-      logger: @logger
-    )
-    classifier = Mayhem::Locations::Classifier.new(
-      location_repository: location_repository,
-      client: client,
-      logger: @logger,
-      model: 'test-model'
+    location_repository = Mayhem::Locations::Repository.new()
+    classifier = Mayhem::Locations::Classifier.new(model: 'test-model'
     )
 
     result = classifier.classify('Event in Seattle')

@@ -28,9 +28,7 @@ class HttpClientTest < Minitest::Test
 
   def setup
     @logger = FakeLogger.new
-    @client = Mayhem::Support::HttpClient.new(
-      logger: @logger,
-      delay: 0,
+    @client = Mayhem::Support::HttpClient.new(delay: 0,
       max_retries: 1,
       timeout: 1,
       open_timeout: 1,

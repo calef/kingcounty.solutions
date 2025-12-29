@@ -20,7 +20,6 @@ class StaleEventCleanerTest < Minitest::Test
     @cleaner = Mayhem::Events::StaleEventCleaner.new(
       events_dir: @events_dir,
       posts_dir: @posts_dir,
-      logger: Logger.new(IO::NULL),
       clock: -> { clock_time }
     )
   end
