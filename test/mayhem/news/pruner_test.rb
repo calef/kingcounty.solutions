@@ -5,6 +5,7 @@ require 'tmpdir'
 require_relative '../../test_helper'
 require 'mayhem/news/pruner'
 require 'mayhem/images/pruner'
+require 'mayhem/models/image'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 

@@ -8,6 +8,8 @@ require 'mayhem/organizations/pruner'
 require 'mayhem/events/pruner'
 require 'mayhem/news/pruner'
 require 'mayhem/images/pruner'
+require 'mayhem/models/image'
+require 'mayhem/models/organization'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 

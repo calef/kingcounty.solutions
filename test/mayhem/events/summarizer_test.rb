@@ -82,6 +82,7 @@ class EventSummarizerTest < Minitest::Test
     FileUtils.mkdir_p(@tmp_assets)
     @logger = FakeLogger.new
     FileUtils.mkdir_p(@tmp_posts)
+    FileUtils.mkdir_p(@tmp_events)
     Mayhem::Logging.logger = @logger
   end
 
@@ -373,7 +374,6 @@ class EventSummarizerTest < Minitest::Test
     event_pruner.expect(:unpublish, nil, [path, document])
 
     summarizer = Mayhem::Events::EventSummarizer.new(
-      events_dir: @tmp_events,
       images_dir: @tmp_images,
       assets_dir: @tmp_assets,
       client: FakeChatClient.new(response: {}),
