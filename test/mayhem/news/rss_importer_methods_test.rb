@@ -244,6 +244,146 @@ class RssImporterMethodsTest < Minitest::Test
     assert_equal 1, stats[:stale]
   end
 
+  def test_process_item_records_empty_content_when_fetch_returns_blank
+    stats = Mayhem::News::RssImporter::FeedStats.new
+    item = Object.new
+    source = build_source_record
+    link_url = 'https://example.com/article'
+    fetcher = Minitest::Mock.new
+    fetcher.expect(:fetch, { html: '', canonical_url: nil }, [link_url])
+    processor = build_item_processor(
+      content_fetcher: fetcher,
+      item_parser: build_item_parser(
+        link_url: link_url,
+        guid: 'guid-1',
+        title_text: 'Title',
+        published_at: Time.now,
+        content_html: ''
+      ),
+      duplicate_tracker: Minitest::Mock.new,
+      post_writer: Minitest::Mock.new
+    )
+
+    result = processor.process(item, 'Source', source, stats)
+
+    assert_nil result
+    assert_equal 1, stats[:empty_content]
+    fetcher.verify
+  end
+
+  def test_process_item_marks_not_found_and_writes_unpublished_post
+    stats = Mayhem::News::RssImporter::FeedStats.new
+    item = Object.new
+    source = build_source_record
+    link_url = 'https://example.com/article'
+    normalized = Mayhem::Support::UrlNormalizer.normalize(link_url, base: source&.website_url)
+    published_at = Time.now
+    fetcher = Minitest::Mock.new
+    fetcher.expect(:fetch, { html: '', canonical_url: nil, not_found: true }, [link_url])
+    duplicate_tracker = Minitest::Mock.new
+    duplicate_tracker.expect(:duplicate?, false, [normalized, 'guid-404'])
+    duplicate_tracker.expect(:register, nil, [normalized, 'guid-404'])
+    post_writer = Minitest::Mock.new
+    post_writer.expect(
+      :write,
+      :created,
+      ['Source', 'Missing Article', normalized, published_at, '', 'guid-404'],
+      published: false
+    )
+    processor = build_item_processor(
+      content_fetcher: fetcher,
+      item_parser: build_item_parser(
+        link_url: link_url,
+        guid: 'guid-404',
+        title_text: 'Missing Article',
+        published_at: published_at,
+        content_html: ''
+      ),
+      duplicate_tracker: duplicate_tracker,
+      post_writer: post_writer
+    )
+
+    result = processor.process(item, 'Source', source, stats)
+
+    assert_equal :created, result
+    assert_equal 1, stats[:not_found]
+    assert_equal 1, stats[:created]
+    duplicate_tracker.verify
+    post_writer.verify
+    fetcher.verify
+  end
+
+  def test_process_item_records_duplicates_after_canonical_update
+    stats = Mayhem::News::RssImporter::FeedStats.new
+    item = Object.new
+    source = build_source_record
+    link_url = 'https://example.com/article'
+    updated_url = 'https://example.com/canonical'
+    fetcher = Minitest::Mock.new
+    fetcher.expect(:fetch, { html: '<p>body</p>', canonical_url: updated_url }, [link_url])
+    duplicate_tracker = Minitest::Mock.new
+    duplicate_tracker.expect(:duplicate?, true, [updated_url, 'guid-dup'])
+    processor = build_item_processor(
+      content_fetcher: fetcher,
+      item_parser: build_item_parser(
+        link_url: link_url,
+        guid: 'guid-dup',
+        title_text: 'Title',
+        published_at: Time.now,
+        content_html: ''
+      ),
+      canonicalizer: build_canonicalizer,
+      duplicate_tracker: duplicate_tracker,
+      post_writer: Minitest::Mock.new
+    )
+
+    result = processor.process(item, 'Source', source, stats)
+
+    assert_nil result
+    assert_equal 1, stats[:duplicates]
+    duplicate_tracker.verify
+    fetcher.verify
+  end
+
+  def test_process_item_writes_post_and_registers_duplicate
+    stats = Mayhem::News::RssImporter::FeedStats.new
+    item = Object.new
+    source = build_source_record
+    link_url = 'https://example.com/article'
+    normalized = Mayhem::Support::UrlNormalizer.normalize(link_url, base: source&.website_url)
+    published_at = Time.now
+    duplicate_tracker = Minitest::Mock.new
+    duplicate_tracker.expect(:duplicate?, false, [normalized, 'guid-123'])
+    duplicate_tracker.expect(:register, nil, [normalized, 'guid-123'])
+    post_writer = Minitest::Mock.new
+    post_writer.expect(
+      :write,
+      :created,
+      ['Source', 'Example Title', normalized, published_at, '<p>body</p>', 'guid-123'],
+      published: nil
+    )
+    processor = build_item_processor(
+      content_fetcher: Minitest::Mock.new,
+      item_parser: build_item_parser(
+        link_url: link_url,
+        guid: 'guid-123',
+        title_text: 'Example Title',
+        published_at: published_at,
+        content_html: '<p>body</p>'
+      ),
+      canonicalizer: build_canonicalizer,
+      duplicate_tracker: duplicate_tracker,
+      post_writer: post_writer
+    )
+
+    result = processor.process(item, 'Source', source, stats)
+
+    assert_equal :created, result
+    assert_equal 1, stats[:created]
+    duplicate_tracker.verify
+    post_writer.verify
+  end
+
   def test_unchanged_post_detects_matching_checksum
     normalized_html = Mayhem::Content::HtmlNormalizer.normalize('<p>body</p>', base_url: 'https://source')
     checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_html)
@@ -313,17 +453,101 @@ class RssImporterMethodsTest < Minitest::Test
     fetcher.verify
   end
 
+  def test_fetch_article_body_returns_empty_without_url
+    processor = build_item_processor(content_fetcher: Minitest::Mock.new)
+    result = processor.send(:fetch_article_body, nil)
+    assert_equal '', result[:html]
+    assert_nil result[:canonical_url]
+  end
+
+  def test_fetch_article_body_marks_not_found_and_logs_warning
+    error = Mayhem::Support::HttpClient::NotFoundError.new(
+      url: 'https://example.com/missing',
+      origin_url: 'https://example.com/missing',
+      operation: 'content_fetch'
+    )
+    fetcher = Class.new do
+      define_method(:fetch) do |_url|
+        raise error
+      end
+    end.new
+    processor = build_item_processor(content_fetcher: fetcher)
+    result = processor.send(:fetch_article_body, 'https://example.com/missing')
+
+    assert_equal '', result[:html]
+    assert_equal 'https://example.com/missing', result[:canonical_url]
+    assert_equal true, result[:not_found]
+    assert_includes @logger.warns.last, 'Article URL returned 404'
+  end
+
+  def test_fetch_article_body_logs_warning_on_http_error
+    error = Mayhem::Support::HttpClient::HttpError.new(
+      url: 'https://example.com/error',
+      origin_url: 'https://example.com/error',
+      operation: 'content_fetch',
+      status: 500
+    )
+    fetcher = Class.new do
+      define_method(:fetch) do |_url|
+        raise error
+      end
+    end.new
+    processor = build_item_processor(content_fetcher: fetcher)
+    result = processor.send(:fetch_article_body, 'https://example.com/error')
+
+    assert_equal '', result[:html]
+    assert_nil result[:canonical_url]
+    assert_includes @logger.warns.last, 'Failed to fetch article body'
+  end
+
+  def test_fetch_article_body_logs_error_on_unexpected_exception
+    fetcher = Class.new do
+      def fetch(_url)
+        raise StandardError, 'boom'
+      end
+    end.new
+    processor = build_item_processor(content_fetcher: fetcher)
+    result = processor.send(:fetch_article_body, 'https://example.com/error')
+
+    assert_equal '', result[:html]
+    assert_nil result[:canonical_url]
+    assert_includes @logger.errors.last, 'Unexpected error scraping'
+  end
+
   private
 
-  def build_item_processor(content_fetcher:)
+  def build_item_processor(content_fetcher:, item_parser: @item_parser, canonicalizer: @canonicalizer,
+                           duplicate_tracker: @duplicate_tracker, post_writer: @post_writer, max_item_age_days: 365)
     Mayhem::News::RssImporter::ItemProcessor.new(
-      item_parser: @item_parser,
-      canonicalizer: @canonicalizer,
+      item_parser: item_parser,
+      canonicalizer: canonicalizer,
       content_fetcher: content_fetcher,
-      duplicate_tracker: @duplicate_tracker,
-      post_writer: @post_writer,
-      max_item_age_days: 365
+      duplicate_tracker: duplicate_tracker,
+      post_writer: post_writer,
+      max_item_age_days: max_item_age_days
     )
+  end
+
+  def build_item_parser(link_url:, guid:, title_text:, published_at:, content_html:)
+    Class.new do
+      define_method(:link_url) { |_item| link_url }
+      define_method(:guid) { |_item| guid }
+      define_method(:title_text) { |_item| title_text }
+      define_method(:published_at) { |_item| published_at }
+      define_method(:content_html) { |_item| content_html }
+    end.new
+  end
+
+  def build_canonicalizer
+    Class.new do
+      def canonical_link(link_url, html_canonical: nil)
+        html_canonical || link_url
+      end
+
+      def redirect_host?(_url)
+        false
+      end
+    end.new
   end
 
   def write_post(front_matter, body = '')
