@@ -81,6 +81,7 @@ class OrganizationsGeneratorTest < Minitest::Test
 
   def write_doc(dir, name, front_matter)
     path = File.join(dir, name)
+    FileUtils.mkdir_p(dir)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, 'body'))
     path
   end
