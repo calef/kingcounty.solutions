@@ -5,6 +5,7 @@ require 'fileutils'
 require_relative '../front_matter/document'
 require_relative '../images/pruner'
 require_relative '../logging'
+require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
@@ -13,8 +14,8 @@ module Mayhem
     class Pruner
       include Mayhem::Loggable
 
-      def initialize(posts_dir:, images_pruner:)
-        @posts_dir = posts_dir
+      def initialize(images_pruner:)
+        @posts_dir = Mayhem::Models::News.collection_dir
         @images_pruner = images_pruner
       end
 

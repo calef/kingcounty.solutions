@@ -15,8 +15,9 @@ require 'mayhem/logging'
 
 class OrganizationsPrunerTest < Minitest::Test
   def setup
-    @tmpdir = Dir.mktmpdir('organizations-pruner')
-    @posts_dir = File.join(@tmpdir, '_posts')
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @tmpdir = Mayhem::Models::News.repo.root.to_s
+    @posts_dir = Mayhem::Models::News.collection_dir
     @events_dir = File.join(@tmpdir, '_events')
     @images_dir = File.join(@tmpdir, '_images')
     @assets_dir = File.join(@tmpdir, 'assets', 'images')
@@ -25,25 +26,21 @@ class OrganizationsPrunerTest < Minitest::Test
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
 
     @images_pruner = Mayhem::Images::Pruner.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir
     )
 
     @events_pruner = Mayhem::Events::Pruner.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       images_pruner: @images_pruner
     )
 
     @news_pruner = Mayhem::News::Pruner.new(
-      posts_dir: @posts_dir,
       images_pruner: @images_pruner
     )
 
     @pruner = Mayhem::Organizations::Pruner.new(
-      posts_dir: @posts_dir,
       events_dir: @events_dir,
       organizations_dir: @organizations_dir,
       events_pruner: @events_pruner,
@@ -52,7 +49,7 @@ class OrganizationsPrunerTest < Minitest::Test
   end
 
   def teardown
-    FileUtils.remove_entry(@tmpdir)
+    @news_repo_override.cleanup if @news_repo_override
   end
 
   def test_prune_organization_content_removes_posts_and_events

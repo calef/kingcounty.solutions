@@ -15,12 +15,14 @@ class ImageExtractorUnitTest < Minitest::Test
   end
 
   def setup
-    @tmp_posts = Dir.mktmpdir('posts')
+    @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @tmp_posts = Mayhem::Models::News.collection_dir
     @tmp_assets = Dir.mktmpdir('assets')
     @tmp_images = Dir.mktmpdir('images')
     @http = DummyHttp.new
+    FileUtils.mkdir_p(@tmp_posts)
     @extractor = Mayhem::Images::Extractor.new(
-      posts_dir: @tmp_posts,
+      events_dir: nil,
       image_docs_dir: @tmp_images,
       asset_dir: @tmp_assets,
       http_client: @http
@@ -28,7 +30,7 @@ class ImageExtractorUnitTest < Minitest::Test
   end
 
   def teardown
-    FileUtils.remove_entry(@tmp_posts)
+    @news_repo_override.cleanup if @news_repo_override
     FileUtils.remove_entry(@tmp_assets)
     FileUtils.remove_entry(@tmp_images)
   end

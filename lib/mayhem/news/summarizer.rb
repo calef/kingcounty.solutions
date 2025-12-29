@@ -12,6 +12,7 @@ require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../summarizer/helpers'
 require_relative '../content/article_body_extractor'
+require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
@@ -21,7 +22,6 @@ module Mayhem
       include Mayhem::Loggable
       include Mayhem::SummarizerHelpers
 
-      POSTS_DIR = '_posts'
       IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       EVENTS_DIR = '_events'
@@ -38,7 +38,6 @@ module Mayhem
       DEFAULT_TOPIC_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', DEFAULT_MODEL)
 
       def initialize(
-        posts_dir: POSTS_DIR,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         events_dir: EVENTS_DIR,
@@ -49,7 +48,7 @@ module Mayhem
         news_pruner: nil,
         images_pruner: nil
       )
-        @posts_dir = posts_dir
+        @posts_dir = Mayhem::Models::News.collection_dir
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new
         @topic_classifier = topic_classifier ||
@@ -62,14 +61,12 @@ module Mayhem
                                )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           posts_dir: posts_dir,
                            events_dir: events_dir,
                            images_dir: images_dir,
                            assets_dir: assets_dir
                          )
         @news_pruner = news_pruner ||
                        Mayhem::News::Pruner.new(
-                         posts_dir: posts_dir,
                          images_pruner: @images_pruner
                        )
       end
