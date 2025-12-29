@@ -40,7 +40,7 @@ module Mayhem
         @org_dir = org_dir
         @topic_repo = topic_repo
         @topic_model = topic_model
-        @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(timeout: READ_TIMEOUT)
         @feed_finder = feed_finder || default_feed_finder
         @sitemap_finder = sitemap_finder || default_sitemap_finder
