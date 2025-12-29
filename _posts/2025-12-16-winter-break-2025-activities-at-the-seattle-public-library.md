@@ -1,7 +1,6 @@
 ---
 date: '2025-12-16T21:16:57+00:00'
 event_ids:
-- 2025-12-27-magic-show-featuring-louie-foxx.md
 - 2025-12-29-winter-celebration.md
 - 2025-12-29-board-games.md
 - 2025-12-30-reading-party.md
