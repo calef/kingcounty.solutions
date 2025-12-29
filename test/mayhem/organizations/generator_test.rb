@@ -55,7 +55,9 @@ class OrganizationsGeneratorTest < Minitest::Test
   end
 
   def setup
-    @org_dir = Dir.mktmpdir('orgs')
+    @org_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :organizations)
+    @org_repo = Mayhem::Models::Organization.repo
+    @org_dir = Mayhem::Models::Organization.collection_dir
     @topic_dir = Dir.mktmpdir('topics')
     @topic_repo = FMRepo::Repository.new(root: @topic_dir)
     @logger = FakeLogger.new
@@ -64,7 +66,6 @@ class OrganizationsGeneratorTest < Minitest::Test
     @sitemap_finder = FakeSitemapFinder.new(['https://example.com/sitemap.xml'])
     Mayhem::Logging.logger = @logger
     @generator = Mayhem::Organizations::Generator.new(
-      org_dir: @org_dir,
       topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: @feed_finder,
@@ -74,12 +75,13 @@ class OrganizationsGeneratorTest < Minitest::Test
 
   def teardown
     Mayhem::Logging.reset_logger
-    FileUtils.remove_entry(@org_dir)
+    @org_repo_override.cleanup if @org_repo_override
     FileUtils.remove_entry(@topic_dir)
   end
 
   def write_doc(dir, name, front_matter)
     path = File.join(dir, name)
+    FileUtils.mkdir_p(dir)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, 'body'))
     path
   end
@@ -152,7 +154,7 @@ class OrganizationsGeneratorTest < Minitest::Test
 
   def test_discover_feed_urls_logs_warning_on_exception
     failing = FakeFeedFinder.new
-    failed_gen = Mayhem::Organizations::Generator.new(org_dir: @org_dir, topic_repo: @topic_repo, feed_finder: failing)
+    failed_gen = Mayhem::Organizations::Generator.new(topic_repo: @topic_repo, feed_finder: failing)
     failing.define_singleton_method(:find) { raise StandardError, 'boom' }
     result = failed_gen.send(:discover_feed_urls, 'https://example.com')
     assert_nil result
@@ -182,7 +184,6 @@ class OrganizationsGeneratorTest < Minitest::Test
     create_topic('Health')
 
     generator = Mayhem::Organizations::Generator.new(
-      org_dir: @org_dir,
       topic_repo: @topic_repo,
       feed_finder: @feed_finder,
       sitemap_finder: @sitemap_finder
@@ -216,7 +217,6 @@ class OrganizationsGeneratorTest < Minitest::Test
       'https://example.com/sitemap.xml'
     ])
     generator = Mayhem::Organizations::Generator.new(
-      org_dir: @org_dir,
       topic_repo: @topic_repo,
       feed_finder: @feed_finder,
       sitemap_finder: sitemap_finder
@@ -246,7 +246,6 @@ class OrganizationsGeneratorTest < Minitest::Test
 
     sitemap_finder = FakeSitemapFinder.new(nil)
     generator = Mayhem::Organizations::Generator.new(
-      org_dir: @org_dir,
       topic_repo: @topic_repo,
       feed_finder: @feed_finder,
       sitemap_finder: sitemap_finder
@@ -271,7 +270,6 @@ class OrganizationsGeneratorTest < Minitest::Test
   def test_run_skips_existing_website
     write_doc(@org_dir, 'existing.md', { 'website_url' => 'https://example.com' })
     generator = Mayhem::Organizations::Generator.new(
-      org_dir: @org_dir,
       topic_repo: @topic_repo,
       feed_finder: @feed_finder,
       sitemap_finder: @sitemap_finder

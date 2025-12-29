@@ -15,6 +15,7 @@ require_relative '../support/encoding_utils'
 require_relative '../content/content_utils'
 require_relative '../front_matter/publish_guard'
 require_relative '../content/html_normalizer'
+require_relative '../models/organization'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
@@ -24,7 +25,6 @@ module Mayhem
       include Mayhem::Loggable
 
       DEFAULT_EVENTS_DIR = '_events'
-      DEFAULT_ORGS_DIR = '_organizations'
       MAX_FILENAME_BYTES = 255
       DEFAULT_MAX_WORKERS = begin
         Integer(ENV.fetch('ICAL_WORKERS', '6'))
@@ -36,13 +36,11 @@ module Mayhem
       attr_reader :events_dir
 
       def initialize(
-        org_dir: DEFAULT_ORGS_DIR,
         events_dir: DEFAULT_EVENTS_DIR,
         http_client: nil,
         workers: DEFAULT_MAX_WORKERS,
         time_source: -> { Time.now }
       )
-        @org_dir = org_dir
         @events_dir = events_dir
         @http_client = http_client || Mayhem::Support::HttpClient.new
         @content_fetcher = Mayhem::Content::ContentFetcher.new(http_client: @http_client)
@@ -61,7 +59,7 @@ module Mayhem
         ensure_events_dir
         @existing_urls = build_existing_event_index
         queue = Queue.new
-        Dir.glob(File.join(@org_dir, '*.md')).each { |org_path| queue << org_path }
+        Dir.glob(File.join(org_dir, '*.md')).each { |org_path| queue << org_path }
 
         threads = Array.new(@workers) do
           Thread.new do
@@ -382,6 +380,10 @@ module Mayhem
           now = current_time
           (now.to_datetime >> 3).to_time
         end
+      end
+
+      def org_dir
+        @org_dir ||= Mayhem::Models::Organization.collection_dir
       end
     end
 

@@ -111,7 +111,7 @@ class IcalImporterTest < Minitest::Test
     @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
     @org_repo = Mayhem::Models::Organization.repo
     @events_repo = Mayhem::Models::Event.repo
-    @org_dir = @org_repo.root.join('_organizations').to_s
+    @org_dir = Mayhem::Models::Organization.collection_dir
     @events_dir = @events_repo.root.join('_events').to_s
 
     Mayhem::Models::Organization.create!(
@@ -127,7 +127,6 @@ class IcalImporterTest < Minitest::Test
       'https://example.org/events/test' => { body: HTML_BODY, content_type: 'text/html' }
     )
     @importer = Mayhem::Events::IcalImporter.new(
-      org_dir: @org_dir,
       events_dir: @events_dir,
       http_client: @http,
       time_source: -> { Time.utc(2024, 1, 1) }
@@ -197,7 +196,6 @@ class IcalImporterTest < Minitest::Test
       }
     )
     @importer = Mayhem::Events::IcalImporter.new(
-      org_dir: @org_dir,
       events_dir: @events_dir,
       http_client: @http,
       time_source: -> { Time.utc(2024, 1, 1) }
@@ -218,7 +216,6 @@ class IcalImporterTest < Minitest::Test
       'https://example.org/events/old' => { body: HTML_BODY, content_type: 'text/html' }
     )
     @importer = Mayhem::Events::IcalImporter.new(
-      org_dir: @org_dir,
       events_dir: @events_dir,
       http_client: @http,
       time_source: -> { Time.utc(2024, 1, 1) }
@@ -254,7 +251,6 @@ class IcalImporterTest < Minitest::Test
       }
     )
     @importer = Mayhem::Events::IcalImporter.new(
-      org_dir: @org_dir,
       events_dir: @events_dir,
       http_client: @http,
       time_source: -> { Time.utc(2024, 1, 1) }
@@ -272,7 +268,6 @@ class IcalImporterTest < Minitest::Test
       'https://example.org/events/far' => { body: HTML_BODY, content_type: 'text/html' }
     )
     @importer = Mayhem::Events::IcalImporter.new(
-      org_dir: @org_dir,
       events_dir: @events_dir,
       http_client: @http,
       time_source: -> { Time.utc(2024, 1, 1) }

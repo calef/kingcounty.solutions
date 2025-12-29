@@ -9,12 +9,14 @@ module Mayhem
     class Organization < AbstractJekyllCollection
       include Mayhem::Models::Concerns::Topical
 
+      COLLECTION_DIR = '_organizations'
+
       repository_role :organizations
-      scope glob: '_organizations/**/*.{md,markdown}'
+      scope glob: "#{COLLECTION_DIR}/**/*.{md,markdown}"
       naming do |front_matter:, **|
         slug_source = front_matter['slug'] || front_matter['title'] || 'untitled'
         slug = FMRepo.slugify(slug_source)
-        "_organizations/#{slug}.md"
+        "#{COLLECTION_DIR}/#{slug}.md"
       end
 
       def acronym

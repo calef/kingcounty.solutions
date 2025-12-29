@@ -7,6 +7,7 @@ require 'nokogiri'
 require 'ruby/openai'
 require 'uri'
 require_relative '../logging'
+require_relative '../models/organization'
 require_relative '../models/topic'
 require_relative '../front_matter/document'
 require_relative '../feed/discovery'
@@ -21,7 +22,6 @@ module Mayhem
     class Generator
       include Mayhem::Loggable
 
-      ORG_DIR = '_organizations'
       DEFAULT_TYPE = 'Community-Based Organization'
       MAX_PAGES = Integer(ENV.fetch('ORG_SCRAPER_MAX_PAGES', 5))
       PAGE_SNIPPET = Integer(ENV.fetch('ORG_SCRAPER_PAGE_SNIPPET', 3000))
@@ -29,7 +29,6 @@ module Mayhem
       OPENAI_MODEL = ENV.fetch('OPENAI_ORG_MODEL', 'gpt-4o-mini')
 
       def initialize(
-        org_dir: ORG_DIR,
         topic_repo: nil,
         topic_model: Mayhem::Models::Topic,
         client: nil,
@@ -37,7 +36,6 @@ module Mayhem
         sitemap_finder: nil,
         http_client: nil
       )
-        @org_dir = org_dir
         @topic_repo = topic_repo
         @topic_model = topic_model
         @client = client
@@ -124,7 +122,7 @@ module Mayhem
       end
 
       def load_existing_websites
-        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
+        Dir.glob(File.join(org_dir, '*.md')).each_with_object(Set.new) do |path, set|
           doc = Mayhem::FrontMatter::Document.load(path)
           next unless doc
 
@@ -136,7 +134,7 @@ module Mayhem
       end
 
       def load_existing_types
-        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
+        Dir.glob(File.join(org_dir, '*.md')).each_with_object(Set.new) do |path, set|
           doc = Mayhem::FrontMatter::Document.load(path)
           next unless doc
 
@@ -245,7 +243,7 @@ module Mayhem
       def ensure_unique_slug(base)
         slug = base
         idx = 1
-        while File.exist?(File.join(@org_dir, "#{slug}.md"))
+        while File.exist?(File.join(org_dir, "#{slug}.md"))
           slug = "#{base}-#{idx}"
           idx += 1
         end
@@ -332,8 +330,8 @@ module Mayhem
       end
 
       def write_organization_file(slug, front_matter, body)
-        FileUtils.mkdir_p(@org_dir)
-        path = File.join(@org_dir, "#{slug}.md")
+        FileUtils.mkdir_p(org_dir)
+        path = File.join(org_dir, "#{slug}.md")
         document = Mayhem::FrontMatter::Document.new(
           path: path,
           front_matter: front_matter,
@@ -341,6 +339,10 @@ module Mayhem
         )
         document.save
         path
+      end
+
+      def org_dir
+        @org_dir ||= Mayhem::Models::Organization.collection_dir
       end
     end
   end
