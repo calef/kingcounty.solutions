@@ -111,7 +111,7 @@ class IcalImporterTest < Minitest::Test
     @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
     @org_repo = Mayhem::Models::Organization.repo
     @events_repo = Mayhem::Models::Event.repo
-    @org_dir = @org_repo.root.join('_organizations').to_s
+    @org_dir = @org_repo.root.join(Mayhem::Models::Organization.collection_dir).to_s
     @events_dir = @events_repo.root.join('_events').to_s
 
     Mayhem::Models::Organization.create!(
