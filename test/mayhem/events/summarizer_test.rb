@@ -72,7 +72,8 @@ class EventSummarizerTest < Minitest::Test
 
   def setup
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
-    @tmp_events = Dir.mktmpdir('events')
+    @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
+    @tmp_events = Mayhem::Models::Event.collection_dir
     @tmp_posts = Mayhem::Models::News.collection_dir
     @tmp_topics = Dir.mktmpdir('topics')
     @tmp_images = Dir.mktmpdir('images')
@@ -86,10 +87,11 @@ class EventSummarizerTest < Minitest::Test
 
   def teardown
     Mayhem::Logging.reset_logger
-    FileUtils.remove_entry(@tmp_events)
     FileUtils.remove_entry(@tmp_topics)
     FileUtils.remove_entry(@tmp_images)
     FileUtils.remove_entry(@tmp_assets_root)
+    @news_repo_override.cleanup if @news_repo_override
+    @event_repo_override.cleanup if @event_repo_override
   end
 
   def write_event(slug, front_matter, body = '')
@@ -110,7 +112,6 @@ class EventSummarizerTest < Minitest::Test
     topic_classifier = FakeTopicClassifier.new(topics: topics)
     location_classifier = FakeLocationClassifier.new(location_titles: location_titles)
     Mayhem::Events::EventSummarizer.new(
-      events_dir: @tmp_events,
       images_dir: @tmp_images,
       assets_dir: @tmp_assets,
       client: client,
@@ -312,7 +313,6 @@ class EventSummarizerTest < Minitest::Test
     end
 
     summarizer = Mayhem::Events::EventSummarizer.new(
-      events_dir: @tmp_events,
       images_dir: @tmp_images,
       assets_dir: @tmp_assets,
       client: FakeChatClient.new(response: {}),

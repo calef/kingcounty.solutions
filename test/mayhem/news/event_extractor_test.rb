@@ -13,9 +13,9 @@ require 'mayhem/logging'
 class EventExtractorTest < Minitest::Test
   def setup
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
-    @tmpdir = Mayhem::Models::News.repo.root.to_s
+    @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
     @posts_dir = Mayhem::Models::News.collection_dir
-    @events_dir = File.join(@tmpdir, '_events')
+    @events_dir = Mayhem::Models::Event.collection_dir
     FileUtils.mkdir_p(@posts_dir)
     FileUtils.mkdir_p(@events_dir)
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
@@ -23,11 +23,11 @@ class EventExtractorTest < Minitest::Test
 
   def teardown
     @news_repo_override.cleanup if @news_repo_override
+    @event_repo_override.cleanup if @event_repo_override
   end
 
   def build_extractor(chat_client:)
     Mayhem::News::EventExtractor.new(
-      events_dir: @events_dir,
       chat_client: chat_client
     )
   end

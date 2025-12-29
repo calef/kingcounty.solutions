@@ -12,8 +12,8 @@ class ImageExtractorIntegrationTest < Minitest::Test
     @original_min_dim = ENV['IMAGE_MIN_DIMENSION']
     ENV['IMAGE_MIN_DIMENSION'] = '0'
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
     @tmp_posts = Mayhem::Models::News.collection_dir
-    @tmp_events = Dir.mktmpdir
     @tmp_images = Dir.mktmpdir
     @assets = Dir.mktmpdir
     FileUtils.mkdir_p(@tmp_posts)
@@ -41,7 +41,6 @@ class ImageExtractorIntegrationTest < Minitest::Test
                                                                      headers: { 'Content-Type' => 'image/webp' })
 
       @extractor = Mayhem::Images::Extractor.new(
-        events_dir: @tmp_events,
         image_docs_dir: @tmp_images,
         asset_dir: @assets,
         min_dimension: 0
@@ -56,7 +55,7 @@ class ImageExtractorIntegrationTest < Minitest::Test
       ENV.delete('IMAGE_MIN_DIMENSION')
     end
     @news_repo_override.cleanup if @news_repo_override
-    FileUtils.remove_entry(@tmp_events)
+    @event_repo_override.cleanup if @event_repo_override
     FileUtils.remove_entry(@tmp_images)
     FileUtils.remove_entry(@assets)
   end

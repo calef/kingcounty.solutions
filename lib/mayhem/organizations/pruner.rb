@@ -6,6 +6,7 @@ require_relative '../front_matter/document'
 require_relative '../events/pruner'
 require_relative '../news/pruner'
 require_relative '../images/pruner'
+require_relative '../models/event'
 require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -17,20 +18,17 @@ module Mayhem
 
       def self.prune(organization_title)
         # Set up directory paths
-        events_dir = File.expand_path('_events', Dir.pwd)
         images_dir = File.expand_path('_images', Dir.pwd)
         assets_dir = File.expand_path('assets/images', Dir.pwd)
         organizations_dir = File.expand_path('_organizations', Dir.pwd)
 
         # Create pruner instances
         images_pruner = Mayhem::Images::Pruner.new(
-          events_dir: events_dir,
           images_dir: images_dir,
           assets_dir: assets_dir
         )
 
         events_pruner = Mayhem::Events::Pruner.new(
-          events_dir: events_dir,
           images_pruner: images_pruner
         )
 
@@ -39,7 +37,6 @@ module Mayhem
         )
 
         pruner = new(
-          events_dir: events_dir,
           organizations_dir: organizations_dir,
           events_pruner: events_pruner,
           news_pruner: news_pruner
@@ -48,9 +45,8 @@ module Mayhem
         pruner.prune_organization_content(organization_title)
       end
 
-      def initialize(events_dir:, organizations_dir:, events_pruner:, news_pruner:)
+      def initialize(organizations_dir:, events_pruner:, news_pruner:)
         @posts_dir = Mayhem::Models::News.collection_dir
-        @events_dir = events_dir
         @organizations_dir = organizations_dir
         @events_pruner = events_pruner
         @news_pruner = news_pruner
@@ -78,7 +74,7 @@ module Mayhem
 
       def prune_events(organization_title)
         deleted_count = 0
-        Dir.glob(File.join(@events_dir, '*.md')).each do |event_path|
+        Dir.glob(File.join(events_dir, '*.md')).each do |event_path|
           document = Mayhem::FrontMatter::Document.load(event_path)
           next unless document
 
@@ -128,6 +124,10 @@ module Mayhem
         FileUtils.rm(path)
       rescue Errno::ENOENT
         # already removed
+      end
+
+      def events_dir
+        Mayhem::Models::Event.collection_dir
       end
     end
   end

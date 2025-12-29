@@ -13,26 +13,25 @@ require 'mayhem/logging'
 class EventsPrunerTest < Minitest::Test
   def setup
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
-    @tmpdir = Mayhem::Models::News.repo.root.to_s
+    @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
     @posts_dir = Mayhem::Models::News.collection_dir
-    @events_dir = File.join(@tmpdir, '_events')
-    @images_dir = File.join(@tmpdir, '_images')
-    @assets_dir = File.join(@tmpdir, 'assets', 'images')
+    @events_dir = Mayhem::Models::Event.collection_dir
+    @images_dir = Mayhem::Models::Event.repo.root.join('_images').to_s
+    @assets_dir = Mayhem::Models::Event.repo.root.join('assets', 'images').to_s
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir])
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
     @images_pruner = Mayhem::Images::Pruner.new(
-      events_dir: @events_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir
     )
     @pruner = Mayhem::Events::Pruner.new(
-      events_dir: @events_dir,
       images_pruner: @images_pruner
     )
   end
 
   def teardown
     @news_repo_override.cleanup if @news_repo_override
+    @event_repo_override.cleanup if @event_repo_override
   end
 
   def test_delete_removes_file_and_cleans_post_references

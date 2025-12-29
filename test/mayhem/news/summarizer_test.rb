@@ -12,7 +12,6 @@ class PostSummarizerTest < Minitest::Test
     @tmp_images = Dir.mktmpdir('images')
     @tmp_assets_root = Dir.mktmpdir('assets')
     @tmp_assets = File.join(@tmp_assets_root, 'images')
-    @tmp_events = Dir.mktmpdir('events')
     FileUtils.mkdir_p(@tmp_assets)
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
     FileUtils.mkdir_p(@tmp_posts)
@@ -23,7 +22,6 @@ class PostSummarizerTest < Minitest::Test
     FileUtils.remove_entry(@tmp_topics)
     FileUtils.remove_entry(@tmp_images)
     FileUtils.remove_entry(@tmp_assets_root)
-    FileUtils.remove_entry(@tmp_events)
   end
 
   def build_summarizer(**overrides)
@@ -39,7 +37,6 @@ class PostSummarizerTest < Minitest::Test
     Mayhem::News::PostSummarizer.new(
       images_dir: @tmp_images,
       assets_dir: @tmp_assets,
-      events_dir: @tmp_events,
       topic_classifier: topic_classifier,
       location_classifier: location_classifier,
       **overrides

@@ -8,6 +8,7 @@ require_relative '../logging'
 require_relative '../images/pruner'
 require_relative '../news/pruner'
 require_relative '../front_matter/document'
+require_relative '../models/event'
 require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -19,14 +20,12 @@ module Mayhem
 
       IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
-      EVENTS_DIR = '_events'
       DEFAULT_MAX_AGE_DAYS = 365
       CONFIG_PATH = File.expand_path('../../../_config.yml', __dir__)
 
       def initialize(
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
-        events_dir: EVENTS_DIR,
         config_path: CONFIG_PATH,
         clock: -> { Time.now },
         news_pruner: nil,
@@ -35,12 +34,10 @@ module Mayhem
         @posts_dir = Mayhem::Models::News.collection_dir
         @images_dir = images_dir
         @assets_dir = assets_dir
-        @events_dir = events_dir
         @config_path = config_path
         @clock = clock
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           events_dir: events_dir,
                            images_dir: images_dir,
                            assets_dir: assets_dir
                          )
@@ -143,7 +140,7 @@ module Mayhem
         remaining_event_refs = remaining_event_references
 
         event_ids.each do |event_id|
-          event_path = File.join(@events_dir, event_id)
+          event_path = File.join(events_dir, event_id)
           next unless File.exist?(event_path)
 
           # Only remove events that were generated from posts
@@ -177,6 +174,10 @@ module Mayhem
           event_ids.each { |event_id| counts[event_id] += 1 }
         end
         counts
+      end
+
+      def events_dir
+        Mayhem::Models::Event.collection_dir
       end
     end
   end

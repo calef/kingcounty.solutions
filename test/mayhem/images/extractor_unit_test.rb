@@ -22,7 +22,6 @@ class ImageExtractorUnitTest < Minitest::Test
     @http = DummyHttp.new
     FileUtils.mkdir_p(@tmp_posts)
     @extractor = Mayhem::Images::Extractor.new(
-      events_dir: nil,
       image_docs_dir: @tmp_images,
       asset_dir: @tmp_assets,
       http_client: @http
