@@ -8,6 +8,7 @@ require_relative '../front_matter/document'
 require_relative '../front_matter/slug_generator'
 require_relative '../support/encoding_utils'
 require_relative '../content/html_normalizer'
+require_relative '../models/event'
 require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -17,17 +18,14 @@ module Mayhem
     class EventExtractor
       include Mayhem::Loggable
 
-      EVENTS_DIR = '_events'
       MAX_FILENAME_BYTES = 255
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_EXTRACTION_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
 
       def initialize(
-        events_dir: EVENTS_DIR,
         model: DEFAULT_MODEL,
         chat_client: nil
       )
         @posts_dir = Mayhem::Models::News.collection_dir
-        @events_dir = events_dir
         @model = model
         @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new
       end
@@ -233,7 +231,7 @@ module Mayhem
           date_prefix: date_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
-        filename = File.join(@events_dir, "#{date_prefix}-#{slug}.md")
+        filename = File.join(events_dir, "#{date_prefix}-#{slug}.md")
 
         # Check if event already exists
         if File.exist?(filename)
@@ -310,6 +308,10 @@ module Mayhem
       rescue StandardError => e
         logger.warn "Failed to parse post date '#{post_date}': #{e.message}"
         Time.now
+      end
+
+      def events_dir
+        Mayhem::Models::Event.collection_dir
       end
     end
   end

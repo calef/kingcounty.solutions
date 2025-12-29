@@ -6,6 +6,7 @@ require 'time'
 
 require_relative '../logging'
 require_relative '../front_matter/document'
+require_relative '../models/event'
 require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -15,7 +16,6 @@ module Mayhem
     class StaleEventCleaner
       include Mayhem::Loggable
 
-      EVENTS_DIR = '_events'
       GRACE_PERIOD_DAYS = 1
 
       class << self
@@ -30,10 +30,8 @@ module Mayhem
       end
 
       def initialize(
-        events_dir: EVENTS_DIR,
         clock: -> { Time.now }
       )
-        @events_dir = events_dir
         @posts_dir = Mayhem::Models::News.collection_dir
         @clock = clock
       end
@@ -43,7 +41,7 @@ module Mayhem
         cutoff_date = self.class.cutoff_date(current_time)
         removed = []
 
-        Dir.glob(File.join(@events_dir, '*.md')).each do |path|
+        Dir.glob(File.join(events_dir, '*.md')).each do |path|
           start_time, end_time = event_times_for(path)
           next unless start_time
           next unless self.class.stale?(start_time: start_time, end_time: end_time, cutoff_date: cutoff_date)
@@ -132,6 +130,10 @@ module Mayhem
         return unless posts_updated.positive?
 
         logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links."
+      end
+
+      def events_dir
+        Mayhem::Models::Event.collection_dir
       end
     end
   end

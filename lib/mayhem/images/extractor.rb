@@ -12,6 +12,7 @@ require_relative '../image_files/validator'
 require_relative '../image_files/converter'
 require_relative '../image_files/downloader'
 require_relative '../image_files/writer'
+require_relative '../models/event'
 require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -22,7 +23,6 @@ module Mayhem
       include Mayhem::Loggable
 
       IMAGE_DOCS_DIR = '_images'
-      EVENTS_DIR = '_events'
       IMAGE_ASSET_DIR = File.join('assets', 'images')
       DEFAULT_OPEN_TIMEOUT = begin
         Integer(ENV.fetch('IMAGE_OPEN_TIMEOUT', '10'))
@@ -41,7 +41,6 @@ module Mayhem
       end
 
       def initialize(
-        events_dir: EVENTS_DIR,
         image_docs_dir: IMAGE_DOCS_DIR,
         asset_dir: IMAGE_ASSET_DIR,
         open_timeout: DEFAULT_OPEN_TIMEOUT,
@@ -234,6 +233,10 @@ module Mayhem
         }
         summary = summary_fields.map { |k, v| "#{k}=#{v}" }.join(', ')
         logger.info "extract-images-from-content complete: #{summary}"
+      end
+
+      def events_dir
+        Mayhem::Models::Event.collection_dir
       end
     end
   end

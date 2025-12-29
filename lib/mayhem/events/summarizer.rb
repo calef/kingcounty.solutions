@@ -12,6 +12,7 @@ require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../support/encoding_utils'
 require_relative '../summarizer/helpers'
+require_relative '../models/event'
 require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -22,14 +23,12 @@ module Mayhem
       include Mayhem::Loggable
       include Mayhem::SummarizerHelpers
 
-      EVENTS_DIR = '_events'
       IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       MAX_ARTICLE_CHARS = 20_000
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
 
       def initialize(
-        events_dir: EVENTS_DIR,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         client: nil,
@@ -40,7 +39,6 @@ module Mayhem
         event_pruner: nil,
         images_pruner: nil
       )
-        @events_dir = events_dir
         @posts_dir = Mayhem::Models::News.collection_dir
         @model = model
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
@@ -55,20 +53,18 @@ module Mayhem
                                )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           events_dir: events_dir,
                            images_dir: images_dir,
                            assets_dir: assets_dir
                          )
         @event_pruner = event_pruner ||
                         Mayhem::Events::Pruner.new(
-                          events_dir: events_dir,
                           images_pruner: @images_pruner
                         )
       end
 
       def run
         stats = Hash.new(0)
-        Dir.glob(File.join(@events_dir, '*.md')).each do |file_path|
+        Dir.glob(File.join(events_dir, '*.md')).each do |file_path|
           process_event(file_path, stats)
         end
         log_summary(stats)
@@ -378,6 +374,10 @@ module Mayhem
         event_slug = File.basename(file_path, '.md')
         removed_refs = remove_event_references(event_slug)
         stats[:events_unlinked] += removed_refs if removed_refs&.positive?
+      end
+
+      def events_dir
+        Mayhem::Models::Event.collection_dir
       end
     end
   end

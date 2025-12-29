@@ -12,20 +12,20 @@ require 'mayhem/front_matter/document'
 class StaleEventCleanerTest < Minitest::Test
   def setup
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
-    @tmpdir = Mayhem::Models::News.repo.root.to_s
-    @events_dir = File.join(@tmpdir, '_events')
+    @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
     @posts_dir = Mayhem::Models::News.collection_dir
+    @events_dir = Mayhem::Models::Event.collection_dir
     FileUtils.mkdir_p(@events_dir)
     FileUtils.mkdir_p(@posts_dir)
     clock_time = Time.utc(2025, 12, 5, 19, 0, 0)
     @cleaner = Mayhem::Events::StaleEventCleaner.new(
-      events_dir: @events_dir,
       clock: -> { clock_time }
     )
   end
 
   def teardown
     @news_repo_override.cleanup if @news_repo_override
+    @event_repo_override.cleanup if @event_repo_override
   end
 
   def test_removes_events_older_than_yesterday

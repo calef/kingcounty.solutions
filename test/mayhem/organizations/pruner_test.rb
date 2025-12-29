@@ -8,6 +8,8 @@ require 'mayhem/organizations/pruner'
 require 'mayhem/events/pruner'
 require 'mayhem/news/pruner'
 require 'mayhem/images/pruner'
+require 'mayhem/models/image'
+require 'mayhem/models/organization'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
@@ -16,23 +18,23 @@ require 'mayhem/logging'
 class OrganizationsPrunerTest < Minitest::Test
   def setup
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
-    @tmpdir = Mayhem::Models::News.repo.root.to_s
+    @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
+    @org_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :organizations)
+    @images_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :images)
     @posts_dir = Mayhem::Models::News.collection_dir
-    @events_dir = File.join(@tmpdir, '_events')
-    @images_dir = File.join(@tmpdir, '_images')
-    @assets_dir = File.join(@tmpdir, 'assets', 'images')
-    @organizations_dir = File.join(@tmpdir, '_organizations')
+    @events_dir = Mayhem::Models::Event.collection_dir
+    @images_dir = Mayhem::Models::Image.collection_dir
+    @assets_dir = Dir.mktmpdir('assets')
+    @organizations_dir = Mayhem::Models::Organization.collection_dir
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir, @organizations_dir])
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
 
     @images_pruner = Mayhem::Images::Pruner.new(
-      events_dir: @events_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir
     )
 
     @events_pruner = Mayhem::Events::Pruner.new(
-      events_dir: @events_dir,
       images_pruner: @images_pruner
     )
 
@@ -41,7 +43,6 @@ class OrganizationsPrunerTest < Minitest::Test
     )
 
     @pruner = Mayhem::Organizations::Pruner.new(
-      events_dir: @events_dir,
       organizations_dir: @organizations_dir,
       events_pruner: @events_pruner,
       news_pruner: @news_pruner
@@ -50,6 +51,10 @@ class OrganizationsPrunerTest < Minitest::Test
 
   def teardown
     @news_repo_override.cleanup if @news_repo_override
+    @event_repo_override.cleanup if @event_repo_override
+    @org_repo_override.cleanup if @org_repo_override
+    @images_repo_override.cleanup if @images_repo_override
+    FileUtils.remove_entry(@assets_dir) if @assets_dir && File.exist?(@assets_dir)
   end
 
   def test_prune_organization_content_removes_posts_and_events
