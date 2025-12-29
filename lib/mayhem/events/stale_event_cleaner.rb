@@ -35,7 +35,6 @@ module Mayhem
       )
         @events_dir = events_dir
         @posts_dir = Mayhem::Models::News.collection_dir
-        @logger = logger
         @clock = clock
       end
 
