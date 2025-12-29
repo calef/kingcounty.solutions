@@ -10,6 +10,10 @@ module Mayhem
           glob = scope_glob
           raise "Missing scope glob for #{name}" if glob.to_s.empty?
 
+          # Expect the scope glob to look like `_collection_name/**/*.{md,markdown}`
+          # (or otherwise have the collection root as the first path segment).
+          # We strip any leading `./` and then take the first segment as the
+          # collection directory under the repo root.
           normalized = glob.to_s.sub(%r{\A\./}, '')
           repo.root.join(normalized.split('/').first).to_s
         end
