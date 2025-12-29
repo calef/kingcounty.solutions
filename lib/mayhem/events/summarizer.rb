@@ -18,6 +18,7 @@ require_relative '../summarizer/helpers'
 module Mayhem
   module Events
     class EventSummarizer
+      include Mayhem::Loggable
       include Mayhem::SummarizerHelpers
 
       EVENTS_DIR = '_events'
@@ -34,41 +35,35 @@ module Mayhem
         client: nil,
         model: DEFAULT_MODEL,
         http_client: nil,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         topic_classifier: nil,
         location_classifier: nil,
         event_pruner: nil,
         images_pruner: nil
       )
         @events_dir = events_dir
-        @logger = logger
         @model = model
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-        @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
+        @http = http_client || Mayhem::Support::HttpClient.new
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
-                              client: @client,
-                              logger: @logger
+                              client: @client
                             )
         @location_classifier = location_classifier ||
                                Mayhem::Locations::Classifier.new(
-                                 client: @client,
-                                 logger: @logger
+                                 client: @client
                                )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
                            posts_dir: POSTS_DIR,
                            events_dir: events_dir,
                            images_dir: images_dir,
-                           assets_dir: assets_dir,
-                           logger: logger
+                           assets_dir: assets_dir
                          )
         @event_pruner = event_pruner ||
                         Mayhem::Events::Pruner.new(
                           posts_dir: POSTS_DIR,
                           events_dir: events_dir,
-                          images_pruner: @images_pruner,
-                          logger: logger
+                          images_pruner: @images_pruner
                         )
       end
 
@@ -84,7 +79,7 @@ module Mayhem
       private
 
       def process_event(file_path, stats)
-        document = Mayhem::FrontMatter::Document.load(file_path, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(file_path)
         unless document
           stats[:skipped_no_frontmatter] += 1
           return
@@ -92,7 +87,7 @@ module Mayhem
 
         front_matter = document.front_matter
         if front_matter['locked'] == true
-          @logger.debug "Skipping #{file_path}: locked is true"
+          logger.debug "Skipping #{file_path}: locked is true"
           stats[:skipped_locked] += 1
           return
         end
@@ -113,11 +108,11 @@ module Mayhem
 
             if classified_locations.empty?
               @event_pruner.unpublish(file_path, document)
-              @logger.info "No locations matched for #{file_path}, marking as unpublished and cleaning up images"
+              logger.info "No locations matched for #{file_path}, marking as unpublished and cleaning up images"
             end
 
             stats[:locations_backfilled] += 1
-            @logger.info "Backfilled locations for #{file_path}"
+            logger.info "Backfilled locations for #{file_path}"
           end
           return
         end
@@ -138,14 +133,14 @@ module Mayhem
         if needs_summary
           if generated_from_post
             if feed_html.to_s.strip.empty?
-              @logger.warn "Skipping #{file_path}: generated from post but has no body"
+              logger.warn "Skipping #{file_path}: generated from post but has no body"
               stats[:skipped_missing_body] += 1
               return
             end
             article_text = fallback_text
             html_for_summary = feed_html
           elsif source_url.to_s.strip.empty?
-            @logger.warn "Skipping #{file_path}: no source_url"
+            logger.warn "Skipping #{file_path}: no source_url"
             stats[:skipped_missing_source] += 1
             return
           else
@@ -154,7 +149,7 @@ module Mayhem
             if prefer_fallback_body?(scraped_text, fallback_text)
               article_text = fallback_text
               html_for_summary = feed_html
-              @logger.debug "Using fallback body for #{file_path}"
+              logger.debug "Using fallback body for #{file_path}"
             else
               article_text = scraped_text
               html_for_summary = scraped_html
@@ -170,7 +165,7 @@ module Mayhem
           end
 
           if article_text.length > MAX_ARTICLE_CHARS
-            @logger.info "Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
+            logger.info "Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
             article_text = article_text[0, MAX_ARTICLE_CHARS]
           end
 
@@ -195,7 +190,7 @@ module Mayhem
           classified_topic_titles = @topic_classifier.classify(summary_text)
           front_matter['topic_titles'] = classified_topic_titles
           if classified_topic_titles.empty?
-            @logger.info "No topics matched for #{file_path}"
+            logger.info "No topics matched for #{file_path}"
             stats[:missing_topics] += 1
           end
         end
@@ -209,7 +204,7 @@ module Mayhem
           )
           front_matter['location_titles'] = classified_locations
           if classified_locations.empty?
-            @logger.info "No locations matched for #{file_path}"
+            logger.info "No locations matched for #{file_path}"
             stats[:missing_locations] += 1
           end
         end
@@ -231,10 +226,10 @@ module Mayhem
         end
 
         stats[:updated] += 1
-        @logger.info "Updated #{file_path}"
+        logger.info "Updated #{file_path}"
       rescue StandardError => e
         stats[:errors] += 1
-        @logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
+        logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
       end
 
       def generate_summary(article_text, front_matter, file_path, generated_from_post: false)
@@ -285,33 +280,34 @@ module Mayhem
               parameters: {
                 model: @model,
                 messages: [
-                  { role: 'system', content: 'You write concise community event descriptions following The Associated Press Stylebook.' },
+                  { role: 'system',
+                    content: 'You write concise community event descriptions following The Associated Press Stylebook.' },
                   { role: 'user', content: prompt }
                 ],
                 temperature: 0.5
               }
             )
             if (error_message = response.dig('error', 'message'))
-              @logger.warn "OpenAI error for #{file_path}: #{error_message}"
+              logger.warn "OpenAI error for #{file_path}: #{error_message}"
               break
             end
 
             summary = response.dig('choices', 0, 'message', 'content')&.strip
             return summary unless summary.to_s.empty?
           rescue Faraday::TooManyRequestsError
-            @logger.warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
+            logger.warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
             sleep 5
           end
         end
 
-        @logger.warn "Skipped #{file_path}: could not summarize event"
+        logger.warn "Skipped #{file_path}: could not summarize event"
         nil
       end
 
       def remove_event_references(event_id)
         updated_posts = 0
         Dir.glob(File.join(POSTS_DIR, '*.md')).each do |post_path|
-          document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(post_path)
           next unless document
 
           front_matter = document.front_matter
@@ -324,7 +320,7 @@ module Mayhem
           document.front_matter = front_matter
           document.save
           updated_posts += 1
-          @logger.info "Removed event #{event_id} from #{post_path}"
+          logger.info "Removed event #{event_id} from #{post_path}"
         end
         updated_posts
       end
@@ -335,7 +331,7 @@ module Mayhem
         page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML)
         Mayhem::Support::EncodingUtils.ensure_utf8(page[:body])
       rescue StandardError => e
-        @logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"
+        logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"
         nil
       end
 
@@ -355,7 +351,7 @@ module Mayhem
           errors: stats[:errors]
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
-        @logger.info "Event summarization complete: #{summary_text}"
+        logger.info "Event summarization complete: #{summary_text}"
       end
 
       def prefer_fallback_body?(scraped_text, fallback_body)
@@ -366,7 +362,7 @@ module Mayhem
       end
 
       def handle_unusable_content(document, front_matter, file_path, stats, generated_from_post:)
-        @logger.warn "Skipping #{file_path}: no usable content to summarize"
+        logger.warn "Skipping #{file_path}: no usable content to summarize"
         stats[:failed_summary] += 1
 
         front_matter['topic_titles'] ||= []

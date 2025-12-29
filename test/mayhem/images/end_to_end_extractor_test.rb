@@ -46,9 +46,11 @@ module News
     def test_updates_post_with_downloaded_image
       Dir.mktmpdir do |dir|
         posts_dir = File.join(dir, 'posts')
+        events_dir = File.join(dir, 'events')
         images_dir = File.join(dir, 'images')
         assets_dir = File.join(dir, 'assets')
         FileUtils.mkdir_p(posts_dir)
+        FileUtils.mkdir_p(events_dir)
         events_dir = File.join(dir, 'events')
         FileUtils.mkdir_p(events_dir)
 
@@ -69,10 +71,10 @@ module News
 
         extractor = Mayhem::Images::Extractor.new(
           posts_dir: posts_dir,
+          events_dir: events_dir,
           image_docs_dir: images_dir,
           asset_dir: assets_dir,
-          events_dir: events_dir,
-          logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+          min_dimension: 0
         )
 
         stubs = stub_image_processing(extractor)
@@ -121,7 +123,7 @@ module News
           events_dir: events_dir,
           image_docs_dir: images_dir,
           asset_dir: assets_dir,
-          logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+          min_dimension: 0
         )
 
         stubs = stub_image_processing(extractor)
@@ -140,9 +142,10 @@ module News
     def test_skips_locked_entries
       Dir.mktmpdir do |dir|
         posts_dir = File.join(dir, 'posts')
+        events_dir = File.join(dir, 'events')
         images_dir = File.join(dir, 'images')
         assets_dir = File.join(dir, 'assets')
-        FileUtils.mkdir_p(posts_dir)
+        FileUtils.mkdir_p([posts_dir, events_dir, images_dir, assets_dir])
 
         post_path = File.join(posts_dir, 'locked.md')
         File.write(
@@ -161,10 +164,10 @@ module News
 
         extractor = Mayhem::Images::Extractor.new(
           posts_dir: posts_dir,
-          events_dir: nil,
+          events_dir: events_dir,
           image_docs_dir: images_dir,
           asset_dir: assets_dir,
-          logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+          min_dimension: 0
         )
 
         extractor.run

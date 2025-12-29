@@ -35,6 +35,15 @@ class SitemapDiscoveryTest < Minitest::Test
     def debug(_message); end
   end
 
+  def setup
+    @logger = NullLogger.new
+    Mayhem::Logging.logger = @logger
+  end
+
+  def teardown
+    Mayhem::Logging.reset_logger
+  end
+
   def urlset_xml
     '<?xml version="1.0" encoding="UTF-8"?><urlset></urlset>'
   end
@@ -45,8 +54,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
   def finder_for(responses)
     Mayhem::SitemapDiscovery::Finder.new(
-      http_client: FakeHttpClient.new(responses),
-      logger: NullLogger.new
+      http_client: FakeHttpClient.new(responses)
     )
   end
 

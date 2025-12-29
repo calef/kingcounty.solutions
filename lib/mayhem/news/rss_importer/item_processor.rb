@@ -6,14 +6,17 @@ require_relative '../../support/url_normalizer'
 module Mayhem
   module News
     class RssImporter
+      include Mayhem::Loggable
+
       class ItemProcessor
-        def initialize(item_parser:, canonicalizer:, content_fetcher:, duplicate_tracker:, post_writer:, logger:, max_item_age_days:)
+        include Mayhem::Loggable
+
+        def initialize(item_parser:, canonicalizer:, content_fetcher:, duplicate_tracker:, post_writer:, max_item_age_days:)
           @item_parser = item_parser
           @canonicalizer = canonicalizer
           @content_fetcher = content_fetcher
           @duplicate_tracker = duplicate_tracker
           @post_writer = post_writer
-          @logger = logger
           @max_item_age_days = max_item_age_days
         end
 
@@ -113,7 +116,7 @@ module Mayhem
 
           @content_fetcher.fetch(url)
         rescue Mayhem::Support::HttpClient::NotFoundError => e
-          @logger.warn "Article URL returned 404 (#{url}): #{e.message}"
+          logger.warn "Article URL returned 404 (#{url}): #{e.message}"
           { html: '', canonical_url: url, not_found: true }
         rescue Mayhem::Support::HttpClient::HttpError,
                Mayhem::Support::HttpClient::TooManyRequestsError,
@@ -125,10 +128,10 @@ module Mayhem
                Errno::ECONNREFUSED,
                Errno::EHOSTUNREACH,
                Errno::ETIMEDOUT => e
-          @logger.warn "Failed to fetch article body (#{url}): #{e.message}"
+          logger.warn "Failed to fetch article body (#{url}): #{e.message}"
           { html: '', canonical_url: nil }
         rescue StandardError => e
-          @logger.error "Unexpected error scraping #{url}: #{e.message}"
+          logger.error "Unexpected error scraping #{url}: #{e.message}"
           { html: '', canonical_url: nil }
         end
       end

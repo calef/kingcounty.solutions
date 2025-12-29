@@ -18,11 +18,9 @@ class ImageFilesDownloaderTest < Minitest::Test
 
   def setup
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
-    @validator = Mayhem::ImageFiles::Validator.new(logger: @logger, min_dimension: 300)
+    @validator = Mayhem::ImageFiles::Validator.new(min_dimension: 300)
     @http = DummyHttp.new
-    @downloader = Mayhem::ImageFiles::Downloader.new(
-      logger: @logger,
-      http_client: @http,
+    @downloader = Mayhem::ImageFiles::Downloader.new(http_client: @http,
       validator: @validator
     )
   end

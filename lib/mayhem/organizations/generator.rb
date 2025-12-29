@@ -19,6 +19,8 @@ require_relative '../support/url_utils'
 module Mayhem
   module Organizations
     class Generator
+      include Mayhem::Loggable
+
       ORG_DIR = '_organizations'
       DEFAULT_TYPE = 'Community-Based Organization'
       MAX_PAGES = Integer(ENV.fetch('ORG_SCRAPER_MAX_PAGES', 5))
@@ -33,15 +35,13 @@ module Mayhem
         client: nil,
         feed_finder: nil,
         sitemap_finder: nil,
-        http_client: nil,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        http_client: nil
       )
         @org_dir = org_dir
         @topic_repo = topic_repo
         @topic_model = topic_model
-        @logger = logger
-        @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-        @http = http_client || Mayhem::Support::HttpClient.new(timeout: READ_TIMEOUT, logger: @logger)
+        @client = client
+        @http = http_client || Mayhem::Support::HttpClient.new(timeout: READ_TIMEOUT)
         @feed_finder = feed_finder || default_feed_finder
         @sitemap_finder = sitemap_finder || default_sitemap_finder
       end
@@ -55,7 +55,7 @@ module Mayhem
         existing_websites = load_existing_websites
         existing_types = load_existing_types
         if existing_websites.include?(normalized)
-          @logger.info "Organization with website #{website_url} already exists; skipping."
+          logger.info "Organization with website #{website_url} already exists; skipping."
           return
         end
 
@@ -68,7 +68,7 @@ module Mayhem
         types = existing_types.empty? ? [DEFAULT_TYPE] : existing_types
         prompt = build_prompt(website_url, pages, topics, types)
 
-        response = @client.chat(
+        response = openai_client.chat(
           parameters: {
             model: OPENAI_MODEL,
             temperature: 0.2,
@@ -96,10 +96,14 @@ module Mayhem
 
         body = body_from_data(data)
         path = write_organization_file(slug, front_matter, body)
-        @logger.info "Created #{path}"
+        logger.info "Created #{path}"
       end
 
       private
+
+      def openai_client
+        @openai_client ||= @client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+      end
 
       def normalize_url(url)
         uri = URI(url)
@@ -121,7 +125,7 @@ module Mayhem
 
       def load_existing_websites
         Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
-          doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
+          doc = Mayhem::FrontMatter::Document.load(path)
           next unless doc
 
           website_url = doc.front_matter['website_url']
@@ -133,7 +137,7 @@ module Mayhem
 
       def load_existing_types
         Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
-          doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
+          doc = Mayhem::FrontMatter::Document.load(path)
           next unless doc
 
           type = doc.front_matter['type']
@@ -145,7 +149,7 @@ module Mayhem
         page = @http.fetch(url, accept: FeedDiscovery::ACCEPT_HTML)
         Nokogiri::HTML(page[:body])
       rescue StandardError => e
-        @logger.warn "Skipping #{url}: #{e.class} #{e.message}"
+        logger.warn "Skipping #{url}: #{e.class} #{e.message}"
         nil
       end
 
@@ -292,11 +296,11 @@ module Mayhem
       end
 
       def default_feed_finder
-        Mayhem::FeedDiscovery::FeedFinder.new(@http, logger: @logger)
+        Mayhem::FeedDiscovery::FeedFinder.new(@http)
       end
 
       def default_sitemap_finder
-        Mayhem::SitemapDiscovery::Finder.new(http_client: @http, logger: @logger)
+        Mayhem::SitemapDiscovery::Finder.new(http_client: @http)
       end
 
       def discover_feed_urls(website_url)
@@ -304,7 +308,7 @@ module Mayhem
 
         @feed_finder&.find(website_url)
       rescue StandardError => e
-        @logger.warn "Feed discovery failed for #{website_url}: #{e.message}"
+        logger.warn "Feed discovery failed for #{website_url}: #{e.message}"
         nil
       end
 
@@ -313,7 +317,7 @@ module Mayhem
 
         @sitemap_finder&.find(website_url) || []
       rescue StandardError => e
-        @logger.warn "Sitemap discovery failed for #{website_url}: #{e.message}"
+        logger.warn "Sitemap discovery failed for #{website_url}: #{e.message}"
         []
       end
 

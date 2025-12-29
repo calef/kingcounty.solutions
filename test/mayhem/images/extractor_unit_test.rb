@@ -21,10 +21,8 @@ class ImageExtractorUnitTest < Minitest::Test
     @http = DummyHttp.new
     @extractor = Mayhem::Images::Extractor.new(
       posts_dir: @tmp_posts,
-      events_dir: nil,
       image_docs_dir: @tmp_images,
       asset_dir: @tmp_assets,
-      logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
       http_client: @http
     )
   end

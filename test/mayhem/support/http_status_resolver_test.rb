@@ -48,9 +48,7 @@ class SupportHttpStatusResolverTest < Minitest::Test
   private
 
   def build_resolver(**kwargs)
-    Mayhem::Support::HttpStatusResolver.new(
-      logger: @logger,
-      **kwargs
+    Mayhem::Support::HttpStatusResolver.new(**kwargs
     )
   end
 

@@ -281,7 +281,6 @@ class SourceUrlCheckerTest < Minitest::Test
       events_dir: @events_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,
-      logger: @logger,
       http_status_resolver: http_status_resolver || http_client && stub_status_resolver(http_client)
     )
   end

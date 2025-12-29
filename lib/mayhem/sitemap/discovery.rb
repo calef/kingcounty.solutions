@@ -22,9 +22,10 @@ module Mayhem
     ACCEPT_XML = 'application/xml,text/xml,application/rss+xml;q=0.9,*/*;q=0.1'
 
     class Finder
-      def initialize(http_client: nil, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
-        @logger = logger
-        @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
+      include Mayhem::Loggable
+
+      def initialize(http_client: nil)
+        @http = http_client || Mayhem::Support::HttpClient.new
       end
 
       def find(website_url)
@@ -37,7 +38,7 @@ module Mayhem
 
         valid_sitemaps(candidates)
       rescue StandardError => e
-        @logger.warn "Sitemap discovery failed for #{website_url}: #{e.message}"
+        logger.warn "Sitemap discovery failed for #{website_url}: #{e.message}"
         []
       end
 
@@ -111,7 +112,7 @@ module Mayhem
 
         normalize_candidate(response[:final_url] || candidate, candidate)
       rescue StandardError => e
-        @logger.debug "Sitemap candidate failed for #{candidate}: #{e.message}"
+        logger.debug "Sitemap candidate failed for #{candidate}: #{e.message}"
         nil
       end
 
@@ -119,7 +120,7 @@ module Mayhem
         response = @http.fetch(url, accept: accept)
         response[:body]
       rescue StandardError => e
-        @logger.debug "Robots fetch failed for #{url}: #{e.message}"
+        logger.debug "Robots fetch failed for #{url}: #{e.message}"
         nil
       end
 

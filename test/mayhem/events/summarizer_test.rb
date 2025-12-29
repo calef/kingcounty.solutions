@@ -22,6 +22,8 @@ class EventSummarizerTest < Minitest::Test
         instance_variable_get("@#{level}s") << message
       end
     end
+
+    def trace(_message); end
   end
 
   class FakeChatClient
@@ -72,16 +74,24 @@ class EventSummarizerTest < Minitest::Test
     @tmp_events = Dir.mktmpdir('events')
     @tmp_posts = Dir.mktmpdir('posts')
     @tmp_topics = Dir.mktmpdir('topics')
+    @tmp_images = Dir.mktmpdir('images')
+    @tmp_assets_root = Dir.mktmpdir('assets')
+    @tmp_assets = File.join(@tmp_assets_root, 'images')
+    FileUtils.mkdir_p(@tmp_assets)
     @logger = FakeLogger.new
+    Mayhem::Logging.logger = @logger
     @original_posts_dir = Mayhem::Events::EventSummarizer.const_get(:POSTS_DIR)
     Mayhem::Events::EventSummarizer.send(:remove_const, :POSTS_DIR)
     Mayhem::Events::EventSummarizer.const_set(:POSTS_DIR, @tmp_posts)
   end
 
   def teardown
+    Mayhem::Logging.reset_logger
     FileUtils.remove_entry(@tmp_events)
     FileUtils.remove_entry(@tmp_posts)
     FileUtils.remove_entry(@tmp_topics)
+    FileUtils.remove_entry(@tmp_images)
+    FileUtils.remove_entry(@tmp_assets_root)
     Mayhem::Events::EventSummarizer.send(:remove_const, :POSTS_DIR)
     Mayhem::Events::EventSummarizer.const_set(:POSTS_DIR, @original_posts_dir)
   end
@@ -105,12 +115,13 @@ class EventSummarizerTest < Minitest::Test
     location_classifier = FakeLocationClassifier.new(location_titles: location_titles)
     Mayhem::Events::EventSummarizer.new(
       events_dir: @tmp_events,
+      images_dir: @tmp_images,
+      assets_dir: @tmp_assets,
       client: client,
+      model: 'test-model',
       http_client: http,
       topic_classifier: topic_classifier,
-      location_classifier: location_classifier,
-      logger: @logger,
-      model: 'test-model'
+      location_classifier: location_classifier
     )
   end
 
@@ -139,13 +150,13 @@ class EventSummarizerTest < Minitest::Test
     assert_equal 1, stats[:missing_topics]
     assert_equal 1, stats[:missing_locations]
     assert_equal 1, stats[:events_unlinked]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"))
 
     assert_equal 'Refined summary.', document.body.strip
     refute document.front_matter['published']
     assert_empty Array(document.front_matter['topic_titles'])
     assert_empty Array(document.front_matter['location_titles'])
-    post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'), logger: @logger)
+    post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'))
 
     assert_empty Array(post_doc.front_matter['event_ids'])
   end
@@ -170,7 +181,7 @@ class EventSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:updated]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"))
     expected_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(
       html,
       max_chars: Mayhem::Events::EventSummarizer::MAX_ARTICLE_CHARS
@@ -251,7 +262,7 @@ class EventSummarizerTest < Minitest::Test
 
     assert_equal 1, stats[:locations_backfilled]
     assert_equal 0, stats[:updated]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"))
 
     assert_equal %w[Seattle Bellevue], document.front_matter['location_titles']
     assert_nil document.front_matter['published']
@@ -276,7 +287,7 @@ class EventSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:locations_backfilled]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"))
 
     assert_empty document.front_matter['location_titles']
     assert_empty document.front_matter['image_checksums']
@@ -306,11 +317,12 @@ class EventSummarizerTest < Minitest::Test
 
     summarizer = Mayhem::Events::EventSummarizer.new(
       events_dir: @tmp_events,
+      images_dir: @tmp_images,
+      assets_dir: @tmp_assets,
       client: FakeChatClient.new(response: {}),
       http_client: FakeHttpClient.new(response: { body: '<html></html>', content_type: 'text/html' }),
       topic_classifier: topic_classifier,
       location_classifier: location_classifier,
-      logger: @logger,
       model: 'test-model'
     )
 

@@ -132,7 +132,7 @@ class RssImporterTest < Minitest::Test
     id_value = Struct.new(:value).new('id-value')
     item_with_guid = Struct.new(:guid).new(guid_value)
     item_with_id = Struct.new(:guid, :id).new(nil, id_value)
-    parser = Mayhem::News::RssImporter::ItemParser.new(logger: NullLogger.new)
+    parser = Mayhem::News::RssImporter::ItemParser.new()
 
     assert_equal 'guid-value', parser.guid(item_with_guid)
     assert_equal 'id-value', parser.guid(item_with_id)

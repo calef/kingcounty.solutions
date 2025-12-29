@@ -21,12 +21,10 @@ class NewsPrunerTest < Minitest::Test
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
     @images_pruner = Mayhem::Images::Pruner.new(
       posts_dir: @posts_dir,
-      events_dir: @events_dir,
       images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      logger: @logger
+      assets_dir: @assets_dir
     )
-    @pruner = Mayhem::News::Pruner.new(posts_dir: @posts_dir, images_pruner: @images_pruner, logger: @logger)
+    @pruner = Mayhem::News::Pruner.new(posts_dir: @posts_dir, images_pruner: @images_pruner)
   end
 
   def teardown

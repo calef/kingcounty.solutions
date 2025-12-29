@@ -4,20 +4,22 @@ require 'nokogiri'
 require_relative 'article_body_selectors'
 require_relative 'content_utils'
 require_relative '../feed/discovery'
+require_relative '../support/http_client'
 require_relative '../support/url_utils'
 require_relative '../support/url_normalizer'
+require_relative '../logging'
 
 module Mayhem
   module Content
     class ContentFetcher
+      include Mayhem::Loggable
+
       def initialize(
-        http_client:,
-        logger:,
+        http_client: nil,
         selectors: ArticleBodySelectors::SELECTORS,
         accept: Mayhem::FeedDiscovery::ACCEPT_HTML
       )
-        @http_client = http_client
-        @logger = logger
+        @http_client = http_client || Mayhem::Support::HttpClient.new
         @selectors = selectors
         @accept = accept
       end
@@ -113,7 +115,7 @@ module Mayhem
       end
 
       def skipped_response(page)
-        @logger.info(
+        logger.info(
           "Skipping content fetch for #{page[:final_url]} " \
           "(content-type: #{page[:content_type] || 'unknown'})"
         )
@@ -132,7 +134,7 @@ module Mayhem
 
         Mayhem::Support::UrlNormalizer.normalize(href, base: base_url)
       rescue StandardError => e
-        @logger.debug "Failed to extract canonical link from #{base_url}: #{e.message}"
+        logger.debug "Failed to extract canonical link from #{base_url}: #{e.message}"
         nil
       end
     end

@@ -4,17 +4,19 @@ require 'fileutils'
 
 require_relative '../front_matter/document'
 require_relative '../images/pruner'
+require_relative '../logging'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module Events
     class Pruner
-      def initialize(posts_dir:, events_dir:, images_pruner:, logger:)
+      include Mayhem::Loggable
+
+      def initialize(posts_dir:, events_dir:, images_pruner:)
         @posts_dir = posts_dir
         @events_dir = events_dir
         @images_pruner = images_pruner
-        @logger = logger
       end
 
       def unpublish(path, document)
@@ -60,7 +62,7 @@ module Mayhem
         posts_updated = 0
 
         Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
-          document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(post_path)
           next unless document
 
           front_matter = document.front_matter
@@ -76,10 +78,10 @@ module Mayhem
           document.front_matter = front_matter
           document.save
           posts_updated += 1
-          @logger.info "Cleaned event links from #{File.basename(post_path)}"
+          logger.info "Cleaned event links from #{File.basename(post_path)}"
         end
 
-        @logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links." if posts_updated.positive?
+        logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links." if posts_updated.positive?
       end
 
       def delete_file(path)

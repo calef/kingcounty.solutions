@@ -24,8 +24,7 @@ class ImagePrunerTest < Minitest::Test
     @pruner = Mayhem::Images::Pruner.new(
       posts_dir: @posts_dir,
       images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      logger: @logger
+      assets_dir: @assets_dir
     )
   end
 

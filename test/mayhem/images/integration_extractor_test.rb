@@ -15,6 +15,8 @@ class ImageExtractorIntegrationTest < Minitest::Test
     @tmp_events = Dir.mktmpdir
     @tmp_images = Dir.mktmpdir
     @assets = Dir.mktmpdir
+    @assets_images = File.join(@assets, 'images')
+    FileUtils.mkdir_p(@assets_images)
 
     # create a post with original_source_html containing an image
     fm = <<~MD
@@ -36,10 +38,13 @@ class ImageExtractorIntegrationTest < Minitest::Test
       stub_request(:get, 'https://example.com/image.webp').to_return(status: 200, body: 'webpdata',
                                                                      headers: { 'Content-Type' => 'image/webp' })
 
-      @extractor = Mayhem::Images::Extractor.new(posts_dir: @tmp_posts, events_dir: @tmp_events,
-                                                              image_docs_dir: @tmp_images, asset_dir: @assets,
-                                                              logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-                                                              min_dimension: 0)
+      @extractor = Mayhem::Images::Extractor.new(
+        posts_dir: @tmp_posts,
+        events_dir: @tmp_events,
+        image_docs_dir: @tmp_images,
+        asset_dir: @assets_images,
+        min_dimension: 0
+      )
     end
   end
 

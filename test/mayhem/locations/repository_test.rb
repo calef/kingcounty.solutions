@@ -42,10 +42,7 @@ class LocationRepositoryTest < Minitest::Test
     create_location({ 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
     create_location({ 'title' => 'Bellevue', 'type' => 'City' }, 'The city of Bellevue')
 
-    repository = Mayhem::Locations::Repository.new(
-      location_repo: @fm_repo,
-      logger: @logger
-    )
+    repository = Mayhem::Locations::Repository.new(location_repo: @fm_repo)
 
     locations = repository.all
 
@@ -56,10 +53,7 @@ class LocationRepositoryTest < Minitest::Test
   def test_all_caches_results
     create_location({ 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
 
-    repository = Mayhem::Locations::Repository.new(
-      location_repo: @fm_repo,
-      logger: @logger
-    )
+    repository = Mayhem::Locations::Repository.new(location_repo: @fm_repo)
 
     first_call = repository.all
     second_call = repository.all
@@ -74,10 +68,7 @@ class LocationRepositoryTest < Minitest::Test
       { title: 'King County', type: 'County', parent_location_title: nil }
     ]
 
-    repository = Mayhem::Locations::Repository.new(
-      location_repo: @fm_repo,
-      logger: @logger
-    )
+    repository = Mayhem::Locations::Repository.new()
 
     result = repository.build_location_list(locations)
 
@@ -93,10 +84,7 @@ class LocationRepositoryTest < Minitest::Test
     ]
     titles = ['Snoqualmie Valley', 'Snoqualmie']
 
-    repository = Mayhem::Locations::Repository.new(
-      location_repo: @fm_repo,
-      logger: @logger
-    )
+    repository = Mayhem::Locations::Repository.new()
 
     result = repository.filter_to_highest_level(titles, locations)
 
@@ -111,10 +99,7 @@ class LocationRepositoryTest < Minitest::Test
     ]
     titles = ['Snoqualmie', 'North Bend']
 
-    repository = Mayhem::Locations::Repository.new(
-      location_repo: @fm_repo,
-      logger: @logger
-    )
+    repository = Mayhem::Locations::Repository.new()
 
     result = repository.filter_to_highest_level(titles, locations)
 
@@ -122,10 +107,7 @@ class LocationRepositoryTest < Minitest::Test
   end
 
   def test_filter_to_highest_level_handles_empty_list
-    repository = Mayhem::Locations::Repository.new(
-      location_repo: @fm_repo,
-      logger: @logger
-    )
+    repository = Mayhem::Locations::Repository.new()
 
     result = repository.filter_to_highest_level([], [])
 

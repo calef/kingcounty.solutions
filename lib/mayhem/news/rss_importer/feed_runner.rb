@@ -8,10 +8,13 @@ require_relative 'feed_stats'
 module Mayhem
   module News
     class RssImporter
+      include Mayhem::Loggable
+
       class FeedRunner
-        def initialize(http_client:, logger:, feed_sanitizer:, item_processor:)
+        include Mayhem::Loggable
+
+        def initialize(http_client:, feed_sanitizer:, item_processor:)
           @http = http_client
-          @logger = logger
           @feed_sanitizer = feed_sanitizer
           @item_processor = item_processor
         end
@@ -26,14 +29,14 @@ module Mayhem
           rss_content = @feed_sanitizer.sanitize(page[:body], source_title, rss_url)
           feed = RSS::Parser.parse(rss_content, false)
           unless feed
-            @logger.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): parser returned nil"
+            logger.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): parser returned nil"
             return
           end
           feed.items.each do |item|
             @item_processor.process(item, source_title, source, stats)
           end
 
-          @logger.info stats.summary_line(source_title, rss_url)
+          logger.info stats.summary_line(source_title, rss_url)
           stats
         rescue Mayhem::Support::HttpClient::HttpError,
                Mayhem::Support::HttpClient::NotFoundError,
@@ -46,10 +49,10 @@ module Mayhem
                Errno::ECONNREFUSED,
                Errno::EHOSTUNREACH,
                Errno::ETIMEDOUT => e
-          @logger.error "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
+          logger.error "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
           nil
         rescue RSS::NotWellFormedError => e
-          @logger.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
+          logger.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
           nil
         end
       end

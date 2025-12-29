@@ -28,21 +28,18 @@ class OrganizationsPrunerTest < Minitest::Test
       posts_dir: @posts_dir,
       events_dir: @events_dir,
       images_dir: @images_dir,
-      assets_dir: @assets_dir,
-      logger: @logger
+      assets_dir: @assets_dir
     )
 
     @events_pruner = Mayhem::Events::Pruner.new(
       posts_dir: @posts_dir,
       events_dir: @events_dir,
-      images_pruner: @images_pruner,
-      logger: @logger
+      images_pruner: @images_pruner
     )
 
     @news_pruner = Mayhem::News::Pruner.new(
       posts_dir: @posts_dir,
-      images_pruner: @images_pruner,
-      logger: @logger
+      images_pruner: @images_pruner
     )
 
     @pruner = Mayhem::Organizations::Pruner.new(
@@ -50,8 +47,7 @@ class OrganizationsPrunerTest < Minitest::Test
       events_dir: @events_dir,
       organizations_dir: @organizations_dir,
       events_pruner: @events_pruner,
-      news_pruner: @news_pruner,
-      logger: @logger
+      news_pruner: @news_pruner
     )
   end
 

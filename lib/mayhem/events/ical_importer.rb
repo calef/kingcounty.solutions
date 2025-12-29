@@ -21,6 +21,8 @@ require_relative '../content/html_normalizer'
 module Mayhem
   module Events
     class IcalImporter
+      include Mayhem::Loggable
+
       DEFAULT_EVENTS_DIR = '_events'
       DEFAULT_ORGS_DIR = '_organizations'
       MAX_FILENAME_BYTES = 255
@@ -38,14 +40,12 @@ module Mayhem
         events_dir: DEFAULT_EVENTS_DIR,
         http_client: nil,
         workers: DEFAULT_MAX_WORKERS,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         time_source: -> { Time.now }
       )
         @org_dir = org_dir
         @events_dir = events_dir
-        @http_client = http_client || Mayhem::Support::HttpClient.new(logger: logger)
-        @logger = logger
-        @content_fetcher = Mayhem::Content::ContentFetcher.new(http_client: @http_client, logger: @logger)
+        @http_client = http_client || Mayhem::Support::HttpClient.new
+        @content_fetcher = Mayhem::Content::ContentFetcher.new(http_client: @http_client)
         @time_source = time_source
         @workers = [workers, 1].max
         @processed_orgs = 0
@@ -86,7 +86,7 @@ module Mayhem
       def build_existing_event_index
         index = {}
         Dir.glob(File.join(@events_dir, '*.md')).each do |path|
-          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(path)
           next unless document
 
           front_matter = document.front_matter
@@ -100,7 +100,7 @@ module Mayhem
         stats_snapshot = nil
         @stats_lock.synchronize { stats_snapshot = @stats.dup }
         processed = processed_org_count
-        @logger.info(
+        logger.info(
           "Events import summary: organizations=#{processed} " \
           "created=#{stats_snapshot[:created]} duplicates=#{stats_snapshot[:duplicate]} " \
           "past=#{stats_snapshot[:past_event]} far_future=#{stats_snapshot[:far_future_event]} " \
@@ -117,7 +117,7 @@ module Mayhem
       def log_org_summary(source_title, source_url, stats)
         return unless source_title && source_url
 
-        @logger.info(
+        logger.info(
           "Processed '#{source_title}' (#{source_url}): #{org_summary_line(stats)}"
         )
       end
@@ -161,7 +161,7 @@ module Mayhem
       end
 
       def process_organization(path, stats)
-        document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(path)
         return unless document
 
         ical_url = document.front_matter['events_ical_url'].to_s.strip
@@ -179,7 +179,7 @@ module Mayhem
         import_calendar(page[:body], source_title, website, stats)
       rescue StandardError => e
         record_stat(:fetch_failed, stats)
-        @logger.warn "Failed to fetch events for #{source_title} (#{url}): #{e.message}"
+        logger.warn "Failed to fetch events for #{source_title} (#{url}): #{e.message}"
       end
 
       def import_calendar(body, source_title, website, stats)
@@ -190,7 +190,7 @@ module Mayhem
         events.each { |event| create_event(event, source_title, website, stats) }
       rescue StandardError => e
         record_stat(:parse_failed, stats)
-        @logger.error "Failed to parse iCal for #{source_title}: #{e.message}"
+        logger.error "Failed to parse iCal for #{source_title}: #{e.message}"
       end
 
       def create_event(event, source_title, website, stats)
@@ -268,21 +268,20 @@ module Mayhem
           front_matter: front_matter,
           body: body_content
         )
-        return skip_event(reason: :unpublished, reason_detail: filename, stats: stats) if Mayhem::FrontMatter::PublishGuard.unpublished?(filename,
-                                                                                                                                         logger: @logger)
+        return skip_event(reason: :unpublished, reason_detail: filename, stats: stats) if Mayhem::FrontMatter::PublishGuard.unpublished?(filename)
 
         document.save
         record_stat(:created, stats)
         register_event_url(canonical_url)
         register_event_url(source_url) unless canonical_url == source_url
       rescue StandardError => e
-        @logger.warn "Failed to persist event #{summary || '<untitled>'}: #{e.message}"
+        logger.warn "Failed to persist event #{summary || '<untitled>'}: #{e.message}"
         record_stat(:write_failed, stats)
       end
 
       def skip_event(reason:, reason_detail: nil, stats: nil)
         debug_detail = reason_detail ? " (#{reason_detail})" : ''
-        @logger.debug "Skipping event: #{reason}#{debug_detail}"
+        logger.debug "Skipping event: #{reason}#{debug_detail}"
         record_stat(reason, stats)
         nil
       end
@@ -309,7 +308,7 @@ module Mayhem
         return false unless File.exist?(filename)
         return false if normalized_html.to_s.strip.empty?
 
-        document = Mayhem::FrontMatter::Document.load(filename, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(filename)
         return false unless document
 
         front_matter = document.front_matter
@@ -324,7 +323,7 @@ module Mayhem
         existing_normalized = Mayhem::Content::HtmlNormalizer.normalize(existing_content, base_url: base_url)
         existing_normalized == normalized_html
       rescue StandardError => e
-        @logger.debug "Failed to compare existing event #{filename}: #{e.message}"
+        logger.debug "Failed to compare existing event #{filename}: #{e.message}"
         false
       end
 
@@ -357,7 +356,7 @@ module Mayhem
       end
 
       def locked_entry?(path)
-        Mayhem::FrontMatter::Document.locked?(path, logger: @logger)
+        Mayhem::FrontMatter::Document.locked?(path)
       end
 
       def fetch_event_body(url, stats)
@@ -366,11 +365,11 @@ module Mayhem
         @content_fetcher.fetch(url)
       rescue Mayhem::Support::HttpClient::NotFoundError => e
         record_stat(:fetch_failed, stats)
-        @logger.warn "Source returned 404 for #{url}: #{e.message}"
+        logger.warn "Source returned 404 for #{url}: #{e.message}"
         { html: '', canonical_url: url, not_found: true }
       rescue StandardError => e
         record_stat(:fetch_failed, stats)
-        @logger.warn "Failed to fetch more info for #{url}: #{e.message}"
+        logger.warn "Failed to fetch more info for #{url}: #{e.message}"
         nil
       end
 
@@ -387,23 +386,23 @@ module Mayhem
     end
 
     class IcalImporterCLI
+      include Mayhem::Loggable
+
       def self.run
         new.run
       end
 
       def initialize(
-        http_client: nil,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        http_client: nil
       )
-        @logger = logger
-        @http_client = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
+        @http_client = http_client || Mayhem::Support::HttpClient.new
       end
 
       def run
-        importer = IcalImporter.new(http_client: @http_client, logger: @logger)
+        importer = IcalImporter.new(http_client: @http_client)
         importer.run
       rescue Interrupt
-        @logger.info 'Interrupted; exiting events import'
+        logger.info 'Interrupted; exiting events import'
       end
     end
   end

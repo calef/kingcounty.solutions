@@ -14,6 +14,8 @@ require_relative '../content/html_normalizer'
 module Mayhem
   module News
     class EventExtractor
+      include Mayhem::Loggable
+
       POSTS_DIR = '_posts'
       EVENTS_DIR = '_events'
       MAX_FILENAME_BYTES = 255
@@ -23,14 +25,12 @@ module Mayhem
         posts_dir: POSTS_DIR,
         events_dir: EVENTS_DIR,
         model: DEFAULT_MODEL,
-        chat_client: nil,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        chat_client: nil
       )
         @posts_dir = posts_dir
         @events_dir = events_dir
         @model = model
-        @logger = logger
-        @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(logger: @logger)
+        @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new
       end
 
       def run
@@ -45,7 +45,7 @@ module Mayhem
       private
 
       def process_post(file_path, stats)
-        document = Mayhem::FrontMatter::Document.load(file_path, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(file_path)
         unless document
           stats[:skipped_no_frontmatter] += 1
           return
@@ -53,12 +53,12 @@ module Mayhem
 
         front_matter = document.front_matter
         if front_matter['locked'] == true
-          @logger.debug "Skipping #{file_path}: locked is true"
+          logger.debug "Skipping #{file_path}: locked is true"
           stats[:skipped_locked] += 1
           return
         end
         if front_matter['published'] == false
-          @logger.debug "Skipping #{file_path}: published is false"
+          logger.debug "Skipping #{file_path}: published is false"
           stats[:skipped_unpublished] += 1
           return
         end
@@ -70,7 +70,7 @@ module Mayhem
         end
 
         unless front_matter['summarized'] == true
-          @logger.debug "Skipping #{file_path}: summarized is not true"
+          logger.debug "Skipping #{file_path}: summarized is not true"
           stats[:skipped_unsummarized] += 1
           return
         end
@@ -130,11 +130,11 @@ module Mayhem
           stats[:no_events_found] += 1
         else
           stats[:posts_with_events] += 1
-          @logger.info "Extracted #{event_ids.size} event(s) from #{file_path}"
+          logger.info "Extracted #{event_ids.size} event(s) from #{file_path}"
         end
       rescue StandardError => e
         stats[:errors] += 1
-        @logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
+        logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
       end
 
       def extract_events(title, content, post_date, organization_title, source_url)
@@ -167,7 +167,8 @@ module Mayhem
         PROMPT
 
         messages = [
-          { role: 'system', content: 'You are a helpful assistant that extracts event information from news articles and returns valid JSON.' },
+          { role: 'system',
+            content: 'You are a helpful assistant that extracts event information from news articles and returns valid JSON.' },
           { role: 'user', content: prompt }
         ]
 
@@ -175,17 +176,17 @@ module Mayhem
         parsed = JSON.parse(response)
 
         unless parsed.is_a?(Array)
-          @logger.warn "Expected array response, got: #{parsed.class}"
+          logger.warn "Expected array response, got: #{parsed.class}"
           return []
         end
 
         parsed
       rescue JSON::ParserError => e
-        @logger.warn "Failed to parse JSON response: #{e.message}"
-        @logger.debug "Response was: #{response}"
+        logger.warn "Failed to parse JSON response: #{e.message}"
+        logger.debug "Response was: #{response}"
         nil
       rescue StandardError => e
-        @logger.error "Failed to extract events: #{e.message}"
+        logger.error "Failed to extract events: #{e.message}"
         nil
       end
 
@@ -204,14 +205,14 @@ module Mayhem
         begin
           start_time = Time.parse(start_date_str)
         rescue StandardError => e
-          @logger.warn "Failed to parse start_date '#{start_date_str}': #{e.message}"
+          logger.warn "Failed to parse start_date '#{start_date_str}': #{e.message}"
           stats[:invalid_event_data] += 1
           return nil
         end
 
         # Skip events that have already started
         if start_time < reference_time
-          @logger.debug "Skipping past event '#{title}' with start_date #{start_date_str}"
+          logger.debug "Skipping past event '#{title}' with start_date #{start_date_str}"
           stats[:past_events_skipped] += 1
           return nil
         end
@@ -272,11 +273,11 @@ module Mayhem
         document.save
 
         stats[:events_created] += 1
-        @logger.info "Created event #{filename}"
+        logger.info "Created event #{filename}"
 
         File.basename(filename)
       rescue StandardError => e
-        @logger.error "Failed to create event: #{e.message}"
+        logger.error "Failed to create event: #{e.message}"
         stats[:event_creation_failed] += 1
         nil
       end
@@ -300,7 +301,7 @@ module Mayhem
           errors: stats[:errors]
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
-        @logger.info "Event extraction complete: #{summary_text}"
+        logger.info "Event extraction complete: #{summary_text}"
       end
 
       def reference_time_from(post_date)
@@ -308,7 +309,7 @@ module Mayhem
 
         Time.parse(post_date)
       rescue StandardError => e
-        @logger.warn "Failed to parse post date '#{post_date}': #{e.message}"
+        logger.warn "Failed to parse post date '#{post_date}': #{e.message}"
         Time.now
       end
     end
