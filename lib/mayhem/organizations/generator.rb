@@ -102,9 +102,8 @@ module Mayhem
       private
 
       def openai_client
-        @client ||= ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        @openai_client ||= ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
       end
-
 
       def normalize_url(url)
         uri = URI(url)
