@@ -326,4 +326,76 @@ class EventSummarizerTest < Minitest::Test
 
     assert_equal 1, stats[:skipped_already_summarized]
   end
+
+  def test_run_skips_locked_events
+    slug = 'event-locked'
+    path = write_event(slug, {
+                         'title' => 'Locked Event',
+                         'start_date' => '2025-08-08',
+                         'location' => 'Town Hall',
+                         'locked' => true,
+                         'source_url' => 'https://example.com/event'
+                       }, 'Original body')
+
+    summarizer = build_summarizer(client_response: {}, topics: ['Health'])
+
+    stats = summarizer.run
+
+    assert_equal 1, stats[:skipped_locked]
+    assert_equal 0, stats[:updated]
+    assert_match(/locked is true/, @logger.debugs.last)
+    document = Mayhem::FrontMatter::Document.load(path)
+    assert_equal true, document.front_matter['locked']
+    refute document.front_matter['summarized']
+  end
+
+  def test_prefer_fallback_body_prefers_only_when_scraped_empty
+    summarizer = build_summarizer(client_response: {})
+
+    assert summarizer.send(:prefer_fallback_body?, '', 'Fallback body')
+    refute summarizer.send(:prefer_fallback_body?, 'Scraped content', 'Fallback body')
+    refute summarizer.send(:prefer_fallback_body?, ' ', '')
+  end
+
+  def test_handle_unusable_content_marks_unpublished_and_unlinks_posts
+    slug = 'event-empty'
+    path = write_event(slug, {
+                         'title' => 'Empty Event',
+                         'start_date' => '2025-09-09',
+                         'location' => 'Library',
+                         'source_url' => 'https://example.com/event',
+                         'generated_from_post' => true
+                       }, 'Old summary')
+    write_post('post-one', { 'event_ids' => [slug] })
+    document = Mayhem::FrontMatter::Document.load(path)
+    stats = Hash.new(0)
+    event_pruner = Minitest::Mock.new
+    event_pruner.expect(:unpublish, nil, [path, document])
+
+    summarizer = Mayhem::Events::EventSummarizer.new(
+      events_dir: @tmp_events,
+      images_dir: @tmp_images,
+      assets_dir: @tmp_assets,
+      client: FakeChatClient.new(response: {}),
+      http_client: FakeHttpClient.new(response: { body: '<html></html>', content_type: 'text/html' }),
+      topic_classifier: FakeTopicClassifier.new(topics: []),
+      location_classifier: FakeLocationClassifier.new(location_titles: []),
+      event_pruner: event_pruner,
+      model: 'test-model'
+    )
+
+    summarizer.send(:handle_unusable_content, document, document.front_matter, path, stats, generated_from_post: true)
+
+    event_pruner.verify
+    updated = Mayhem::FrontMatter::Document.load(path)
+    assert_equal true, updated.front_matter['summarized']
+    refute updated.front_matter['published']
+    assert_equal [], Array(updated.front_matter['topic_titles'])
+    assert_equal [], Array(updated.front_matter['location_titles'])
+    assert_equal '', updated.body
+    assert_equal 1, stats[:failed_summary]
+    assert_equal 1, stats[:events_unlinked]
+    post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'))
+    assert_empty Array(post_doc.front_matter['event_ids'])
+  end
 end
