@@ -134,13 +134,13 @@ class EventSummarizerTest < Minitest::Test
     assert_equal 1, stats[:missing_topics]
     assert_equal 1, stats[:missing_locations]
     assert_equal 1, stats[:events_unlinked]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"))
 
     assert_equal 'Refined summary.', document.body.strip
     refute document.front_matter['published']
     assert_empty Array(document.front_matter['topic_titles'])
     assert_empty Array(document.front_matter['location_titles'])
-    post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'), logger: @logger)
+    post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'))
 
     assert_empty Array(post_doc.front_matter['event_ids'])
   end
@@ -165,7 +165,7 @@ class EventSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:updated]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"))
     expected_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(
       html,
       max_chars: Mayhem::Events::EventSummarizer::MAX_ARTICLE_CHARS
@@ -246,7 +246,7 @@ class EventSummarizerTest < Minitest::Test
 
     assert_equal 1, stats[:locations_backfilled]
     assert_equal 0, stats[:updated]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"))
 
     assert_equal %w[Seattle Bellevue], document.front_matter['location_titles']
     assert_nil document.front_matter['published']
@@ -271,7 +271,7 @@ class EventSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:locations_backfilled]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"))
 
     assert_empty document.front_matter['location_titles']
     assert_empty document.front_matter['image_checksums']
@@ -305,7 +305,6 @@ class EventSummarizerTest < Minitest::Test
       http_client: FakeHttpClient.new(response: { body: '<html></html>', content_type: 'text/html' }),
       topic_classifier: topic_classifier,
       location_classifier: location_classifier,
-      logger: @logger,
       model: 'test-model'
     )
 

@@ -72,7 +72,7 @@ module Support
         end
 
         Mayhem::FrontMatter::Document.stub :load, stub do
-          refute PublishGuard.unpublished?(path, logger:)
+          refute PublishGuard.unpublished?(path)
         end
 
         logger.verify

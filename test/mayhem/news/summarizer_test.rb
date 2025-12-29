@@ -116,7 +116,7 @@ class PostSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:updated]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-06-source-html.md'), logger: @logger)
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-06-source-html.md'))
     expected_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(
       html,
       max_chars: Mayhem::News::PostSummarizer::MAX_ARTICLE_CHARS
@@ -148,7 +148,7 @@ class PostSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:locations_backfilled]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-04-test.md'), logger: @logger)
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-04-test.md'))
 
     assert_empty document.front_matter['location_titles']
     assert_empty document.front_matter['image_checksums']
@@ -195,7 +195,7 @@ class PostSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:updated]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-07-test.md'), logger: @logger)
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-07-test.md'))
     assert_equal false, document.front_matter['published']
   end
 end
