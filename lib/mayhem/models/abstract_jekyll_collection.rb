@@ -46,6 +46,13 @@ module Mayhem
         #   - Fail to find the glob pattern
         #   - Cause collection_dir to raise an error
         #
+        # @todo **TODO: Request public API from FMRepo**
+        #   Replace introspection-based access with a public API method from FMRepo
+        #   to retrieve scope configuration. This would eliminate the fragile dependency
+        #   on private instance variables and provide a stable, documented interface.
+        #   Proposed API: `FMRepo::Record#scope_config` or similar method to expose
+        #   scope options including the glob pattern.
+        #
         # @see https://github.com/calef/fmrepo FMRepo gem repository (no public documentation exists for the internal scope storage mechanism)
         def scope_glob
           return config.glob if respond_to?(:config) && config.respond_to?(:glob) && config.glob
