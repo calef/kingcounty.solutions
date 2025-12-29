@@ -88,6 +88,8 @@ class EventSummarizerTest < Minitest::Test
     Mayhem::Logging.reset_logger
     FileUtils.remove_entry(@tmp_events)
     FileUtils.remove_entry(@tmp_topics)
+    FileUtils.remove_entry(@tmp_images)
+    FileUtils.remove_entry(@tmp_assets_root)
   end
 
   def write_event(slug, front_matter, body = '')
