@@ -57,7 +57,7 @@ class OrganizationsGeneratorTest < Minitest::Test
   def setup
     @org_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :organizations)
     @org_repo = Mayhem::Models::Organization.repo
-    @org_dir = @org_repo.root.join(Mayhem::Models::Organization.collection_dir).to_s
+    @org_dir = Mayhem::Models::Organization.collection_dir
     @topic_dir = Dir.mktmpdir('topics')
     @topic_repo = FMRepo::Repository.new(root: @topic_dir)
     @logger = FakeLogger.new

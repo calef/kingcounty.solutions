@@ -19,10 +19,6 @@ module Mayhem
         "#{COLLECTION_DIR}/#{slug}.md"
       end
 
-      def self.collection_dir
-        COLLECTION_DIR
-      end
-
       def acronym
         self['acronym']
       end

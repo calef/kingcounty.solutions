@@ -383,10 +383,7 @@ module Mayhem
       end
 
       def org_dir
-        @org_dir ||= begin
-          repo = Mayhem::Models::Organization.repo
-          repo.root.join(Mayhem::Models::Organization.collection_dir).to_s
-        end
+        @org_dir ||= Mayhem::Models::Organization.collection_dir
       end
     end
 
