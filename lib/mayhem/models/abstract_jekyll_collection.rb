@@ -46,8 +46,7 @@ module Mayhem
         #   - Fail to find the glob pattern
         #   - Cause collection_dir to raise an error
         #
-        # @see https://github.com/calef/fmrepo FMRepo gem repository (no public
-        #   documentation exists for the internal scope storage mechanism)
+        # @see https://github.com/calef/fmrepo FMRepo gem repository (no public documentation exists for the internal scope storage mechanism)
         def scope_glob
           return config.glob if respond_to?(:config) && config.respond_to?(:glob) && config.glob
 
