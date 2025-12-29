@@ -30,7 +30,8 @@ module Mayhem
         # @return [String, nil] the glob pattern if found, otherwise nil
         #
         # @note **Dependency on FMRepo internals:**
-        #   This method directly accesses FMRepo::Record's private instance variables:
+        #   This method directly accesses private instance variables that are set by
+        #   FMRepo::Record when the `scope` class method is called. These variables are:
         #   - `@scope` - the primary scope configuration hash
         #   - `@scope_config` - alternative scope configuration storage
         #   - `@scope_options` - another potential scope storage location
@@ -45,7 +46,8 @@ module Mayhem
         #   - Fail to find the glob pattern
         #   - Cause collection_dir to raise an error
         #
-        # @see https://github.com/calef/fmrepo FMRepo gem repository
+        # @see https://github.com/calef/fmrepo FMRepo gem repository (no public
+        #   documentation exists for the internal scope storage mechanism)
         def scope_glob
           return config.glob if respond_to?(:config) && config.respond_to?(:glob) && config.glob
 
