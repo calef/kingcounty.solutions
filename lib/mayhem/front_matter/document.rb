@@ -13,6 +13,7 @@ module Mayhem
     # consistent behavior and makes unit testing easier.
     class Document
       include Mayhem::Loggable
+      extend Mayhem::Loggable
 
       PERMITTED_CLASSES = [Date, Time].freeze
 
