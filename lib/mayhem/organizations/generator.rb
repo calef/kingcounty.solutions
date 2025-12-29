@@ -22,7 +22,6 @@ module Mayhem
     class Generator
       include Mayhem::Loggable
 
-      ORG_DIR = '_organizations'
       DEFAULT_TYPE = 'Community-Based Organization'
       MAX_PAGES = Integer(ENV.fetch('ORG_SCRAPER_MAX_PAGES', 5))
       PAGE_SNIPPET = Integer(ENV.fetch('ORG_SCRAPER_PAGE_SNIPPET', 3000))
