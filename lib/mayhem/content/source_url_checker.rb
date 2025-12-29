@@ -30,8 +30,6 @@ module Mayhem
         user_agent: 'King County Solutions Link Checker',
         workers: ENV.fetch('SOURCE_URL_CHECKER_WORKERS', '6').to_i
       )
-        @news_model = news_model
-        @posts_dir = @news_model.collection_dir
         @events_dir = events_dir
         @logger = logger
         @user_agent = user_agent
@@ -58,6 +56,8 @@ module Mayhem
                            images_pruner: @images_pruner,
                            logger: logger
                          )
+        @news_model = news_model
+        @posts_dir = @news_model.collection_dir
         @events_model = events_model
         @workers = [workers, 1].max
         @pruner_mutex = Mutex.new
