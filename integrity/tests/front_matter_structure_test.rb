@@ -12,7 +12,7 @@ class FrontMatterStructureTest < Minitest::Test
   def setup
     @site = load_site
     @source_root = Pathname.new(@site.source)
-    @tidier = Mayhem::FrontMatter::Tidier.new(logger: Logger.new(IO::NULL))
+    @tidier = Mayhem::FrontMatter::Tidier.new
   end
 
   def test_markdown_documents_have_single_front_matter
