@@ -46,7 +46,7 @@ module Mayhem
         #   - Fail to find the glob pattern
         #   - Cause collection_dir to raise an error
         #
-        # @todo **TODO: Request public API from FMRepo**
+        # @todo Request public API from FMRepo
         #   Replace introspection-based access with a public API method from FMRepo
         #   to retrieve scope configuration. This would eliminate the fragile dependency
         #   on private instance variables and provide a stable, documented interface.
