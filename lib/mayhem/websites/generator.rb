@@ -57,13 +57,7 @@ module Mayhem
       private
 
       def canonical_url(url)
-        uri = URI(url)
-        uri = URI.parse("https://#{url}") if uri.host.nil?
-        uri.scheme ||= 'https'
-        uri.fragment = nil
-        uri.to_s
-      rescue URI::InvalidURIError
-        url
+        Mayhem::Support::UrlNormalizer.normalize(url)
       end
 
       def homepage_title(url)
