@@ -128,7 +128,7 @@ Creates a new `_websites/<slug>.md` entry by scraping the homepage title, discov
 
 #### Key env/config
 
-- `WEBSITE_SCRAPER_TIMEOUT` – HTTP open/read timeout in seconds (default 10). Falls back to `ORG_SCRAPER_TIMEOUT` if not set.
+- `WEBSITE_SCRAPER_TIMEOUT` – HTTP open/read timeout in seconds (default 10).
 - `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to see skip reasons and newly created paths.
 
 #### Behavior notes

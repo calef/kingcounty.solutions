@@ -16,7 +16,7 @@ module Mayhem
     class Generator
       include Mayhem::Loggable
 
-      WEBSITE_SCRAPER_TIMEOUT = Integer(ENV.fetch('WEBSITE_SCRAPER_TIMEOUT', 10)))
+      WEBSITE_SCRAPER_TIMEOUT = Integer(ENV.fetch('WEBSITE_SCRAPER_TIMEOUT', 10))
 
       def initialize(http_client: nil, feed_finder: nil, sitemap_finder: nil)
         @http = http_client || Mayhem::Support::HttpClient.new(timeout: WEBSITE_SCRAPER_TIMEOUT)
