@@ -87,12 +87,12 @@ class WebsitesGeneratorTest < Minitest::Test
 
     files = Dir.glob(File.join(@website_dir, '*.md'))
     assert_equal 1, files.size
-    fm = Mayhem::FrontMatter::Document.load(files.first).front_matter
-    assert_equal 'Example Site', fm['title']
-    assert_equal 'https://example.com', fm['homepage_url']
-    assert_equal 'https://example.com/events.ics', fm['events_ical_url']
-    assert_equal 'https://example.com/robots.txt', fm['robots_txt_url']
-    assert_equal ['https://example.com/sitemap.xml'], fm['xml_sitemap_urls']
+    website = Mayhem::Models::Website.find(File.basename(files.first, '.md'))
+    assert_equal 'Example Site', website['title']
+    assert_equal 'https://example.com', website['homepage_url']
+    assert_equal 'https://example.com/events.ics', website['events_ical_url']
+    assert_equal 'https://example.com/robots.txt', website['robots_txt_url']
+    assert_equal ['https://example.com/sitemap.xml'], website['xml_sitemap_urls']
   end
 
   def test_run_skips_existing_homepage
