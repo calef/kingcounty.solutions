@@ -18,6 +18,7 @@ require 'mayhem/openai/model_lister'
 require 'mayhem/organizations/generator'
 require 'mayhem/organizations/pruner'
 require 'mayhem/topics/organization_audit'
+require 'mayhem/websites/generator'
 
 # Load the CLI module from bin/mayhem
 load File.expand_path('../../bin/mayhem', __dir__)
@@ -276,23 +277,45 @@ class MayhemCLITest < Minitest::Test
     extractor.verify
   end
 
-  def test_run_new_organization_requires_url
+  def test_run_create_organization_requires_url
     error = nil
 
     _out, err = capture_io do
-      error = assert_raises(SystemExit) { Mayhem::CLI.run_new_organization([]) }
+      error = assert_raises(SystemExit) { Mayhem::CLI.run_create_organization([]) }
     end
 
     assert_equal 1, error.status
-    assert_includes err, 'Usage: mayhem new-organization'
+    assert_includes err, 'Usage: mayhem create-organization'
   end
 
-  def test_run_new_organization_runs_generator
+  def test_run_create_organization_runs_generator
     generator = Minitest::Mock.new
     generator.expect(:run, nil, ['https://example.com'])
 
     Mayhem::Organizations::Generator.stub(:new, generator) do
-      Mayhem::CLI.run_new_organization(['https://example.com'])
+      Mayhem::CLI.run_create_organization(['https://example.com'])
+    end
+
+    generator.verify
+  end
+
+  def test_run_create_website_requires_url
+    error = nil
+
+    _out, err = capture_io do
+      error = assert_raises(SystemExit) { Mayhem::CLI.run_create_website([]) }
+    end
+
+    assert_equal 1, error.status
+    assert_includes err, 'Usage: mayhem create-website'
+  end
+
+  def test_run_create_website_runs_generator
+    generator = Minitest::Mock.new
+    generator.expect(:run, nil, ['https://example.com'])
+
+    Mayhem::Websites::Generator.stub(:new, generator) do
+      Mayhem::CLI.run_create_website(['https://example.com'])
     end
 
     generator.verify

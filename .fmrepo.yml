@@ -2,26 +2,30 @@
 default:
   test: <tmp>         # create a temp repo automatically
 events:
-  test: <tmp>
   development: "."
   production: "."
-locations:
   test: <tmp>
-  development: "."
-  production: "."
-news:
-  test: <tmp>
-  development: "."
-  production: "."
-organizations:
-  test: <tmp>
-  development: "."
-  production: "."
-topics:
-  test: <tmp>
-  development: "."
-  production: "."
 images:
-  test: <tmp>
   development: "."
   production: "."
+  test: <tmp>
+locations:
+  development: "."
+  production: "."
+  test: <tmp>
+news:
+  development: "."
+  production: "."
+  test: <tmp>
+organizations:
+  development: "."
+  production: "."
+  test: <tmp>
+topics:
+  development: "."
+  production: "."
+  test: <tmp>
+websites:
+  development: "."
+  production: "."
+  test: <tmp>
