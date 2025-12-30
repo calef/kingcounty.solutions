@@ -4,7 +4,8 @@ module Mayhem
   module Support
     module ValueNormalizer
       # This file provides utilities for normalizing values across generators.
-      # Methods are available as module-level methods and as instance methods when mixed in.
+      # Methods are available as module-level methods (e.g., ValueNormalizer.normalize_value(val))
+      # and as instance methods when included (e.g., include ValueNormalizer; normalize_value(val)).
 
       module_function
 
