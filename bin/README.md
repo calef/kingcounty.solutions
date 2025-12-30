@@ -17,6 +17,8 @@ The `bin/mayhem` script consolidates content management functionality. Run `bin/
 - `bin/mayhem audit-topics` – Uses OpenAI to reconcile each organization's topics against recent news coverage and optionally rewrites front matter.
 - `bin/mayhem check-integrity` – Runs site integrity checks (front matter, generated HTML/JSON/JS validation) against the built site output.
 - `bin/mayhem check-source-urls` – Checks `source_url` availability, unpublishing posts or deleting events when links are dead.
+- `bin/mayhem create-organization` – Scrapes a site and creates a new `_organizations/*.md` entry.
+- `bin/mayhem create-website` – Scrapes a site and creates a new `_websites/*.md` entry.
 - `bin/mayhem delete-organization` – Deletes all events and news posts associated with an organization.
 - `bin/mayhem expire` – Deletes posts and events outside configured age window.
 - `bin/mayhem extract-events` – Analyzes news posts to identify and create event entries.
@@ -24,7 +26,6 @@ The `bin/mayhem` script consolidates content management functionality. Run `bin/
 - `bin/mayhem import-content` – Runs RSS and iCal importers to fetch partner content.
 - `bin/mayhem ingest` – Runs import-content, summarize, extract-events, summarize again, extract-images, then expire.
 - `bin/mayhem ls-models` – Lists available OpenAI model IDs.
-- `bin/mayhem new-organization` – Scrapes a site and creates a new `_organizations/*.md` entry.
 - `bin/mayhem summarize` – Generates AI summaries for posts and events.
 - `bin/mayhem tidy` – Normalizes Markdown front matter formatting.
 
@@ -87,6 +88,54 @@ Validates every `_posts` and `_events` `source_url`, pruning or deleting entries
 - Deletes events with dead `source_url` values and leaves entries with empty `source_url` untouched.
 - Warns (but does not delete) on transient errors, and uses a dedicated user agent `King County Solutions Link Checker`.
 - Runs concurrently with a small worker pool (default 6; override via `SOURCE_URL_CHECKER_WORKERS`).
+
+### `bin/mayhem create-organization`
+
+#### Purpose
+
+Scrapes a single organization website (following same-host links) and asks OpenAI to draft front matter and a short summary, then writes a new `_organizations/<slug>.md` entry.
+
+#### Usage
+
+- `bin/mayhem create-organization URL`
+
+#### Key env/config
+
+- `OPENAI_API_KEY` – required.
+- `OPENAI_ORG_MODEL` – overrides the default `gpt-4o-mini`.
+- `ORG_SCRAPER_MAX_PAGES` – how many same-host pages to crawl (default 5).
+- `ORG_SCRAPER_PAGE_SNIPPET` – max characters of text per page sent to the prompt (default 3000).
+- `ORG_SCRAPER_TIMEOUT` – HTTP open/read timeout in seconds (default 10).
+- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Set to `INFO` to see skip reasons and newly created paths.
+
+#### Behavior notes
+
+- Skips creation if an existing `_organizations/*.md` already lists the same normalized `website`.
+- Crawls up to the configured page limit on the target host, strips nav/scripts, and feeds truncated text to the LLM along with allowed topics/types inferred from existing files.
+- Coerces `type` to the known set or falls back to `Community-Based Organization`, and keeps acronyms only if they are short uppercase strings.
+- Attempts to auto-detect RSS/Atom and iCal links while scraping and fills `news_rss_url` / `events_ical_url` when absent.
+- Generates a slug from the title, ensures uniqueness, writes ordered front matter plus a 100-word-capped summary body, and logs the created path when the log level allows it.
+
+### `bin/mayhem create-website`
+
+#### Purpose
+
+Creates a new `_websites/<slug>.md` entry by scraping the homepage title, discovering iCal feeds, and probing sitemap metadata.
+
+#### Usage
+
+- `bin/mayhem create-website URL`
+
+#### Key env/config
+
+- `ORG_SCRAPER_TIMEOUT` – HTTP open/read timeout in seconds (default 10).
+- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to see skip reasons and newly created paths.
+
+#### Behavior notes
+
+- Skips creation if an existing `_websites/*.md` already lists the same normalized `homepage_url`.
+- Uses the homepage `<title>` (fallback to host) for `title`, sets `homepage_url`, and fills `events_ical_url` from feed discovery when found.
+- Derives `robots_txt_url` and `xml_sitemap_urls` from the same sitemap discovery logic used by `create-organization`.
 
 ### `bin/mayhem delete-organization`
 
@@ -245,33 +294,6 @@ Simple helper that echoes every model ID visible to the configured OpenAI accoun
 #### Behavior notes
 
 - Returns one line per model and exits; no other arguments are supported.
-
-### `bin/mayhem new-organization`
-
-#### Purpose
-
-Scrapes a single organization website (following same-host links) and asks OpenAI to draft front matter and a short summary, then writes a new `_organizations/<slug>.md` entry.
-
-#### Usage
-
-- `bin/mayhem new-organization URL`
-
-#### Key env/config
-
-- `OPENAI_API_KEY` – required.
-- `OPENAI_ORG_MODEL` – overrides the default `gpt-4o-mini`.
-- `ORG_SCRAPER_MAX_PAGES` – how many same-host pages to crawl (default 5).
-- `ORG_SCRAPER_PAGE_SNIPPET` – max characters of text per page sent to the prompt (default 3000).
-- `ORG_SCRAPER_TIMEOUT` – HTTP open/read timeout in seconds (default 10).
-- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Set to `INFO` to see skip reasons and newly created paths.
-
-#### Behavior notes
-
-- Skips creation if an existing `_organizations/*.md` already lists the same normalized `website`.
-- Crawls up to the configured page limit on the target host, strips nav/scripts, and feeds truncated text to the LLM along with allowed topics/types inferred from existing files.
-- Coerces `type` to the known set or falls back to `Community-Based Organization`, and keeps acronyms only if they are short uppercase strings.
-- Attempts to auto-detect RSS/Atom and iCal links while scraping and fills `news_rss_url` / `events_ical_url` when absent.
-- Generates a slug from the title, ensures uniqueness, writes ordered front matter plus a 100-word-capped summary body, and logs the created path when the log level allows it.
 
 ### `bin/mayhem summarize`
 

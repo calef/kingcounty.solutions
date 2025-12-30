@@ -30,6 +30,14 @@ module Mayhem
         description: 'Checks source_url availability and unpublishes or deletes content when links are dead',
         handler: :run_check_source_urls
       },
+      'create-organization' => {
+        description: 'Scrapes a site and creates a new organization entry',
+        handler: :run_create_organization
+      },
+      'create-website' => {
+        description: 'Scrapes a site and creates a new website entry',
+        handler: :run_create_website
+      },
       'delete-organization' => {
         description: 'Deletes all events and news posts associated with an organization',
         handler: :run_delete_organization
@@ -49,10 +57,6 @@ module Mayhem
       'ingest' => {
         description: 'Runs import-content, summarize, extract-events, summarize, extract-images, expire, check-integrity',
         handler: :run_ingest
-      },
-      'new-organization' => {
-        description: 'Scrapes a site and creates a new organization entry',
-        handler: :run_new_organization
       },
       'import-content' => {
         description: 'Runs RSS and iCal importers to fetch partner content',
@@ -189,6 +193,30 @@ module Mayhem
         Mayhem::Organizations::Pruner.prune(organization_title)
       end
 
+      def run_create_organization(args)
+        require 'mayhem/organizations/generator'
+
+        if args.empty?
+          warn 'Usage: mayhem create-organization URL'
+          exit 1
+        end
+
+        generator = Mayhem::Organizations::Generator.new
+        generator.run(args.first)
+      end
+
+      def run_create_website(args)
+        require 'mayhem/websites/generator'
+
+        if args.empty?
+          warn 'Usage: mayhem create-website URL'
+          exit 1
+        end
+
+        generator = Mayhem::Websites::Generator.new
+        generator.run(args.first)
+      end
+
       def run_expire(_args)
         require 'mayhem/events/stale_event_cleaner'
         require 'mayhem/news/content_age_enforcer'
@@ -218,18 +246,6 @@ module Mayhem
         run_extract_images([])
         run_expire([])
         run_check_integrity([])
-      end
-
-      def run_new_organization(args)
-        require 'mayhem/organizations/generator'
-
-        if args.empty?
-          warn 'Usage: mayhem new-organization URL'
-          exit 1
-        end
-
-        generator = Mayhem::Organizations::Generator.new
-        generator.run(args.first)
       end
 
       def run_import_content(_args)
