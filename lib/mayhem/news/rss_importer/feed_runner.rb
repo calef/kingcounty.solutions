@@ -26,6 +26,10 @@ module Mayhem
 
           stats = FeedStats.new
           page = @http.fetch(rss_url, accept: Mayhem::FeedDiscovery::ACCEPT_FEED)
+          unless feed_like?(page[:body], page[:content_type])
+            log_non_feed_response(source_title, rss_url, page)
+            return
+          end
           rss_content = @feed_sanitizer.sanitize(page[:body], source_title, rss_url)
           feed = RSS::Parser.parse(rss_content, false)
           unless feed
@@ -54,6 +58,43 @@ module Mayhem
         rescue RSS::NotWellFormedError => e
           logger.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
           nil
+        end
+
+        private
+
+        def feed_like?(data, content_type)
+          snippet = normalize_string(data)
+          preview = snippet.downcase
+          ctype = (content_type || '').downcase
+
+          return true if ctype.match?(%r{rss|atom|application/xml|text/xml|xml}) &&
+                         preview.match?(/<(rss|feed|rdf)/)
+
+          preview.match?(/<(rss|feed|rdf)/)
+        end
+
+        def normalize_string(data)
+          return '' if data.nil?
+
+          str = data.dup
+          str.force_encoding('BINARY')
+          str = str[0, 4_000] if str.bytesize > 4_000
+          str.encode('UTF-8', invalid: :replace, undef: :replace)
+        rescue EncodingError
+          str.force_encoding('UTF-8')
+        end
+
+        def log_non_feed_response(source_title, rss_url, page)
+          snippet = normalize_string(page[:body]).strip
+          details = []
+          details << "content-type: #{page[:content_type]}" if page[:content_type]
+          details << "final_url: #{page[:final_url]}" if page[:final_url] && page[:final_url] != rss_url
+          if snippet.match?(/sgcaptcha|sg-captcha|robot challenge/i)
+            details << 'blocked by SG captcha'
+          end
+          details << "preview: #{snippet[0, 140]}" unless snippet.empty?
+          suffix = details.empty? ? '' : " (#{details.join(', ')})"
+          logger.error "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): non-feed response#{suffix}"
         end
       end
     end

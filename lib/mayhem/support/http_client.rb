@@ -156,7 +156,7 @@ module Mayhem
           raise if attempt > @max_retries
 
           wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
-          logger.warn(
+          logger.debug(
             "Retrying #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s " \
             "(attempt #{attempt}/#{max_attempts})"
           )
@@ -239,17 +239,29 @@ module Mayhem
             response: nil
           }
         rescue TooManyRequestsError => e
-          raise if attempt > @max_retries
+          if attempt > @max_retries
+            logger.warn(
+              "Status check failed for #{url} after #{max_attempts} attempts: " \
+              "HTTP 429 Too Many Requests"
+            )
+            return nil
+          end
 
           wait = e.retry_after || @too_many_requests_delay
           log_too_many_requests_backoff(e, wait, attempt: attempt, max_attempts: max_attempts)
           sleep wait
           retry
         rescue *RETRYABLE_ERRORS => e
-          raise if attempt > @max_retries
+          if attempt > @max_retries
+            logger.warn(
+              "Status check failed for #{url} after #{max_attempts} attempts: " \
+              "#{e.class} (#{e.message})"
+            )
+            return nil
+          end
 
           wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
-          logger.warn(
+          logger.debug(
             "Retrying #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s " \
             "(attempt #{attempt}/#{max_attempts})"
           )

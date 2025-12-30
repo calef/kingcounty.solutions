@@ -48,7 +48,7 @@ module Mayhem
           rescue Faraday::ConnectionFailed, Faraday::TimeoutError => e
             next_version = HTTP_VERSIONS[index + 1]
             if next_version
-              logger.warn(
+              logger.debug(
                 "HTTP/#{version[:label]} failed for #{uri} (#{e.class}: #{e.message}), " \
                 "retrying with HTTP/#{next_version[:label]}"
               )
