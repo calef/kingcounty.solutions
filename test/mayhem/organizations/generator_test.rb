@@ -7,6 +7,7 @@ require 'json'
 require 'nokogiri'
 require 'ostruct'
 require_relative '../../../lib/mayhem/organizations/generator'
+require_relative '../../../lib/mayhem/support/value_normalizer'
 
 class OrganizationsGeneratorTest < Minitest::Test
   class FakeLogger
@@ -146,8 +147,8 @@ class OrganizationsGeneratorTest < Minitest::Test
   end
 
   def test_normalize_value_and_enforce_type
-    assert_nil @generator.send(:normalize_value, '   ')
-    assert_equal 'value', @generator.send(:normalize_value, ' value ')
+    assert_nil Mayhem::Support::ValueNormalizer.normalize_value('   ')
+    assert_equal 'value', Mayhem::Support::ValueNormalizer.normalize_value(' value ')
     assert_nil @generator.send(:enforce_type, 'Unknown', ['Known'])
     assert_equal 'Known', @generator.send(:enforce_type, 'known', ['Known'])
   end

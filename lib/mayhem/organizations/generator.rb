@@ -14,6 +14,7 @@ require_relative '../feed/discovery'
 require_relative '../sitemap/discovery'
 require_relative '../support/http_client'
 require_relative '../support/url_utils'
+require_relative '../support/value_normalizer'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
@@ -84,7 +85,7 @@ module Mayhem
         front_matter = build_front_matter(data, types: types)
         if feed_result
           front_matter['news_rss_url'] ||= feed_result.rss_url
-          if (ical_url = normalize_value(feed_result.ical_url))
+          if (ical_url = Mayhem::Support::ValueNormalizer.normalize_value(feed_result.ical_url))
             front_matter['events_ical_url'] ||= ical_url
           end
         end
@@ -254,7 +255,7 @@ module Mayhem
         front_matter = {}
         %w[acronym news_rss_url events_ical_url parent_organization_title phone email address topic_titles
            type].each do |key|
-          value = normalize_value(data[key])
+          value = Mayhem::Support::ValueNormalizer.normalize_value(data[key])
           front_matter[key] = value unless value.nil?
         end
 
@@ -270,21 +271,6 @@ module Mayhem
         end
 
         front_matter
-      end
-
-      def normalize_value(value)
-        return nil if value.nil?
-
-        if value.is_a?(String)
-          trimmed = value.strip
-          return nil if trimmed.empty?
-
-          trimmed
-        elsif value.respond_to?(:empty?) && value.empty?
-          nil
-        else
-          value
-        end
       end
 
       def enforce_type(value, allowed)
@@ -324,7 +310,7 @@ module Mayhem
       end
 
       def body_from_data(data)
-        body = normalize_value(data['summary']) || 'Description forthcoming.'
+        body = Mayhem::Support::ValueNormalizer.normalize_value(data['summary']) || 'Description forthcoming.'
         word_limited = body.split(/\s+/)[0, 100].join(' ').strip
         word_limited.empty? ? 'Description forthcoming.' : word_limited
       end
