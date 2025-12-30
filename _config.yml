@@ -34,11 +34,11 @@ collections:
     permalink: /events/:name/
   images:
     output: false
+  locations:
+    output: false
   organizations:
     output: true
     permalink: /organizations/:name/
-  locations:
-    output: false
   topics:
     output: true
     permalink: /topics/:name/
@@ -91,6 +91,7 @@ exclude:
   - Rakefile
   - TODO.md
   - script/
+  - test/
   - vendor/
 future: true
 github:
