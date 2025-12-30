@@ -77,8 +77,6 @@ module Mayhem
         url.to_s
       end
 
-
-
       def discover_feed_urls(website_url)
         return nil unless website_url
 
