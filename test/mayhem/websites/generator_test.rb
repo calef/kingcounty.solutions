@@ -32,6 +32,10 @@ class WebsitesGeneratorTest < Minitest::Test
     def fetch(url, accept:)
       { body: @body, content_type: 'text/html', final_url: url }
     end
+
+    def response_for(url, accept:)
+      { status: 200, final_url: url }
+    end
   end
 
   class FakeFeedFinder
@@ -85,9 +89,9 @@ class WebsitesGeneratorTest < Minitest::Test
   def test_run_creates_website_file_with_discovery
     @generator.run('https://example.com')
 
-    files = Dir.glob(File.join(@website_dir, '*.md'))
-    assert_equal 1, files.size
-    website = Mayhem::Models::Website.find(File.basename(files.first, '.md'))
+    websites = Mayhem::Models::Website.all.to_a
+    assert_equal 1, websites.size
+    website = websites.first
     assert_equal 'Example Site', website['title']
     assert_equal 'https://example.com', website['homepage_url']
     assert_equal 'https://example.com/events.ics', website['events_ical_url']
