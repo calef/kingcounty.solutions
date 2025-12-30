@@ -225,20 +225,27 @@ module Mayhem
       end
 
       def generate_summary(article_text, front_matter, file_path, generated_from_post: false)
+        location = front_matter['location'].to_s.strip
+        location_instruction = if location.empty?
+                                 'Mention the start date (and end date if it differs) in natural language.'
+                               else
+                                 'Mention the start date (and end date if it differs) plus the location in natural language.'
+                               end
+
         if generated_from_post
           prompt = <<~PROMPT
             Refine the following event description for a community calendar in 150 words or less using Markdown paragraphs, following The Associated Press Stylebook.
 
             Event title: #{front_matter['title']}
             Starts at: #{front_matter['start_date']}
-            Location: #{front_matter['location']}
+            Location: #{location.empty? ? 'Not specified' : location}
 
             Current event description:
             #{article_text}
 
             In the refined description:
               1. Focus on what attendees can expect or do at this specific event.
-              2. Mention the start date (and end date if it differs) plus the location in natural language.
+              2. #{location_instruction}
               3. Do not include links, lists, headings, or code fences.
               4. Always write in English even if the source content is in another language.
               5. Write directly about the event itself, not about the news article that announced it.
@@ -250,11 +257,11 @@ module Mayhem
 
             Event title: #{front_matter['title']}
             Starts at: #{front_matter['start_date']}
-            Location: #{front_matter['location']}
+            Location: #{location.empty? ? 'Not specified' : location}
 
             In the summary:
               1. Emphasize what attendees can expect or do at the event.
-              2. Mention the start date (and end date if it differs) plus the location in natural language.
+              2. #{location_instruction}
               3. Do not include links, lists, headings, or code fences.
               4. Always write in English even if the source content is in another language.
               5. Do not describe the summarization process—write directly about the event.

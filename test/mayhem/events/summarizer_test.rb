@@ -395,4 +395,28 @@ class EventSummarizerTest < Minitest::Test
     post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'))
     assert_empty Array(post_doc.front_matter['event_ids'])
   end
+
+  def test_generate_summary_with_empty_location
+    slug = 'event-no-location'
+    write_event(slug, {
+                  'title' => 'Virtual Event',
+                  'start_date' => '2025-10-10T19:00:00-07:00',
+                  'location' => '',
+                  'generated_from_post' => true,
+                  'feed_content' => '<article>Join us for a virtual gathering to discuss community topics.</article>'
+                })
+
+    summarizer = build_summarizer(
+      client_response: { 'choices' => [{ 'message' => { 'content' => 'Join us for a virtual gathering on Oct. 10, 2025, starting at 7 p.m. to discuss community topics.' } }] },
+      topics: ['Community'],
+      location_titles: ['King County']
+    )
+
+    stats = summarizer.run
+
+    assert_equal 1, stats[:updated]
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"))
+    refute_match(/\[location\]/, document.body, 'Summary should not contain [location] placeholder')
+    assert_equal 'Join us for a virtual gathering on Oct. 10, 2025, starting at 7 p.m. to discuss community topics.', document.body.strip
+  end
 end
