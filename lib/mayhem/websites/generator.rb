@@ -99,7 +99,13 @@ module Mayhem
         base_url = base_url_for(website_url)
         return nil unless base_url
 
-        Mayhem::Support::UrlUtils.absolutize(base_url, Mayhem::SitemapDiscovery::ROBOTS_PATH)
+        robots_url = Mayhem::Support::UrlUtils.absolutize(base_url, Mayhem::SitemapDiscovery::ROBOTS_PATH)
+        return nil unless robots_url
+
+        response = @http.response_for(robots_url, accept: Mayhem::SitemapDiscovery::ACCEPT_ROBOTS)
+        return nil unless response && response[:status] && response[:status] >= 200 && response[:status] < 400
+
+        response[:final_url] || robots_url
       end
 
       def base_url_for(website_url)

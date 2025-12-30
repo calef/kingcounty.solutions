@@ -273,8 +273,6 @@ module Mayhem
         front_matter
       end
 
-
-
       def enforce_type(value, allowed)
         return nil if value.nil?
 

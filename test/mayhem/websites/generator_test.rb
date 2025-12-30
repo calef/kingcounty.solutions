@@ -32,6 +32,10 @@ class WebsitesGeneratorTest < Minitest::Test
     def fetch(url, accept:)
       { body: @body, content_type: 'text/html', final_url: url }
     end
+
+    def response_for(url, accept:)
+      { status: 200, final_url: url }
+    end
   end
 
   class FakeFeedFinder
