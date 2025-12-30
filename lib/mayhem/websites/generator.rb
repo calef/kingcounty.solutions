@@ -9,6 +9,7 @@ require_relative '../sitemap/discovery'
 require_relative '../support/http_client'
 require_relative '../support/url_normalizer'
 require_relative '../support/url_utils'
+require_relative '../support/value_normalizer'
 
 module Mayhem
   module Websites
@@ -42,7 +43,7 @@ module Mayhem
           'homepage_url' => website_url
         }
 
-        if feed_result && (ical_url = normalize_value(feed_result.ical_url))
+        if feed_result && (ical_url = Mayhem::Support::ValueNormalizer.normalize_value(feed_result.ical_url))
           front_matter['events_ical_url'] = ical_url
         end
         if (robots_url = robots_txt_url(website_url))
@@ -76,20 +77,7 @@ module Mayhem
         url.to_s
       end
 
-      def normalize_value(value)
-        return nil if value.nil?
 
-        if value.is_a?(String)
-          trimmed = value.strip
-          return nil if trimmed.empty?
-
-          trimmed
-        elsif value.respond_to?(:empty?) && value.empty?
-          nil
-        else
-          value
-        end
-      end
 
       def discover_feed_urls(website_url)
         return nil unless website_url
