@@ -9,10 +9,6 @@ module Mayhem
         self['last_modified']
       end
 
-      def last_modified
-        self['last_modified']
-      end
-
       def url
         self['url']
       end
