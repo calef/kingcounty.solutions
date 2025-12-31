@@ -89,9 +89,7 @@ module Mayhem
           details = []
           details << "content-type: #{page[:content_type]}" if page[:content_type]
           details << "final_url: #{page[:final_url]}" if page[:final_url] && page[:final_url] != rss_url
-          if snippet.match?(/sgcaptcha|sg-captcha|robot challenge/i)
-            details << 'blocked by SG captcha'
-          end
+          details << 'blocked by SG captcha' if snippet.match?(/sgcaptcha|sg-captcha|robot challenge/i)
           details << "preview: #{snippet[0, 140]}" unless snippet.empty?
           suffix = details.empty? ? '' : " (#{details.join(', ')})"
           logger.error "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): non-feed response#{suffix}"
