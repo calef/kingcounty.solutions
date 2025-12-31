@@ -58,8 +58,8 @@ module Mayhem
         nil
       end
 
-      def candidates_from_robots(base_url)
-        robots_url = Mayhem::Support::UrlUtils.absolutize(base_url, ROBOTS_PATH)
+      def candidates_from_robots(base_url, robots_url = nil)
+        robots_url ||= Mayhem::Support::UrlUtils.absolutize(base_url, ROBOTS_PATH)
         return [] unless robots_url
 
         body = fetch_body(robots_url, accept: ACCEPT_ROBOTS)
@@ -100,9 +100,14 @@ module Mayhem
       end
 
       def valid_sitemaps(candidates)
+        seen = {}
         candidates.each_with_object([]) do |candidate, collection|
           found = verify_candidate(candidate)
-          collection << found if found
+          next unless found
+          next if seen[found]
+
+          seen[found] = true
+          collection << found
         end
       end
 

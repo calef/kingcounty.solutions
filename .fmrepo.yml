@@ -21,11 +21,23 @@ organizations:
   development: "."
   production: "."
   test: <tmp>
+sitemap_index:
+  development: "."
+  production: "."
+  test: <tmp>
+url_sets:
+  development: "."
+  production: "."
+  test: <tmp>
 topics:
   development: "."
   production: "."
   test: <tmp>
 websites:
+  development: "."
+  production: "."
+  test: <tmp>
+xml_sitemaps:
   development: "."
   production: "."
   test: <tmp>

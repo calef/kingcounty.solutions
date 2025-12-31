@@ -26,6 +26,7 @@ The `bin/mayhem` script consolidates content management functionality. Run `bin/
 - `bin/mayhem import-content` – Runs RSS and iCal importers to fetch partner content.
 - `bin/mayhem ingest` – Runs import-content, summarize, extract-events, summarize again, extract-images, then expire.
 - `bin/mayhem ls-models` – Lists available OpenAI model IDs.
+- `bin/mayhem refresh-xml-sitemaps` – Re-reads `robots.txt` for each website to sync `xml_sitemap_urls` and archive the sitemap contents.
 - `bin/mayhem summarize` – Generates AI summaries for posts and events.
 - `bin/mayhem tidy` – Normalizes Markdown front matter formatting.
 
@@ -294,6 +295,22 @@ Simple helper that echoes every model ID visible to the configured OpenAI accoun
 #### Behavior notes
 
 - Returns one line per model and exits; no other arguments are supported.
+
+### `bin/mayhem refresh-xml-sitemaps`
+
+#### Purpose
+
+Aligns each `_websites/*.md` `xml_sitemap_urls` entry with the `Sitemap:` directives discovered in `robots.txt` and caches the referenced sitemap XML contents.
+
+#### Usage
+
+- `bin/mayhem refresh-xml-sitemaps`
+
+#### Behavior notes
+
+- Fetches `robots.txt` for every website that declares `robots_txt_url`, normalizes the listed sitemap URLs, and rewrites the front matter when the lists differ.
+- Downloads each sitemap URL, storing its XML body in `_xml_sitemaps/` with `url`, `website_id`, and a `last_modified` timestamp for the retrieval.
+- Logs warnings and skips individual websites when the robots file cannot be fetched or parsed so the command can continue with the rest of the collection.
 
 ### `bin/mayhem summarize`
 
