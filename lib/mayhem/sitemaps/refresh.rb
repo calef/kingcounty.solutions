@@ -2,7 +2,6 @@
 
 require 'stringio'
 require 'time'
-require 'set'
 require 'zlib'
 
 require_relative '../logging'
@@ -187,6 +186,7 @@ module Mayhem
         seen = Set.new
         urls.each_with_object([]) do |url, collection|
           next if seen.include?(url)
+
           seen.add(url)
           stripped = strip_gz(url)
           next if gz_bases.include?(stripped) && !url_downcase_end_with_gz?(url)
