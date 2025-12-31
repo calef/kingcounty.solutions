@@ -242,7 +242,7 @@ module Mayhem
           if attempt > @max_retries
             logger.warn(
               "Status check failed for #{url} after #{max_attempts} attempts: " \
-              "HTTP 429 Too Many Requests"
+              'HTTP 429 Too Many Requests'
             )
             return nil
           end
