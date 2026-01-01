@@ -8,7 +8,7 @@ module Mayhem
     class SitemapIndex < AbstractSitemap
       COLLECTION_DIR = '_sitemap_indexes'
 
-      repository_role :sitemap_index
+      repository_role :sitemap_indexes
       scope glob: "#{COLLECTION_DIR}/**/*.{md,markdown}"
       naming do |front_matter:, **|
         slug_source = front_matter['url']

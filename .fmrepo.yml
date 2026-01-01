@@ -21,7 +21,11 @@ organizations:
   development: "."
   production: "."
   test: <tmp>
-sitemap_index:
+robots_txts:
+  development: "."
+  production: "."
+  test: <tmp>
+sitemap_indexes:
   development: "."
   production: "."
   test: <tmp>
