@@ -18,7 +18,7 @@ class RobotsTxtModelTest < Minitest::Test
       body: 'User-agent: *'
     )
 
-    assert_equal '_robots_txts/example-com.md', record.id
+    assert_equal '_robots_txts/example-com-robots.txt', record.id
   end
 
   def test_slug_includes_port_when_nonstandard
@@ -27,12 +27,12 @@ class RobotsTxtModelTest < Minitest::Test
       body: ''
     )
 
-    assert_equal '_robots_txts/example-com-8080.md', record.id
+    assert_equal '_robots_txts/example-com-8080-robots.txt', record.id
   end
 
   def test_handles_invalid_url
     record = Mayhem::Models::RobotsTxt.create!({ 'url' => '::not-a-url' }, body: '')
 
-    assert_equal '_robots_txts/not-a-url.md', record.id
+    assert_equal '_robots_txts/not-a-url-robots.txt', record.id
   end
 end

@@ -10,13 +10,12 @@ module Mayhem
       COLLECTION_DIR = '_robots_txts'
 
       repository_role :robots_txts
-      scope glob: "#{COLLECTION_DIR}/**/*.{md,markdown}"
+      scope glob: "#{COLLECTION_DIR}/**/*.{txt}"
       naming do |front_matter:, **|
         url = front_matter['url']
         slug_source = extract_domain(url) || url
-        slug_source = 'untitled' if slug_source.to_s.strip.empty?
         slug = FMRepo.slugify(slug_source)
-        "#{COLLECTION_DIR}/#{slug}.md"
+        "#{COLLECTION_DIR}/#{slug}-robots.txt"
       end
 
       def self.extract_domain(url)
