@@ -1,10 +1,11 @@
 # frozen_string_literal: true
 
 require 'fmrepo'
+require_relative 'abstract_sitemap'
 
 module Mayhem
   module Models
-    class UrlSet < FMRepo::Record
+    class UrlSet < AbstractSitemap
       COLLECTION_DIR = '_url_sets'
 
       repository_role :url_sets
