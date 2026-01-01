@@ -30,7 +30,7 @@ class UrlSetModelTest < Minitest::Test
       body: '<urlset></urlset>'
     )
 
-    assert_equal '_url_sets/https-example-com-sitemap-xml.md', record.id
+    assert_equal '_url_sets/example-com.md', record.id
     assert_equal 'https://example.com/sitemap.xml', record.url
     assert_equal '2024-01-01T00:00:00Z', record.last_modified
     assert_equal website.id, record.website_id

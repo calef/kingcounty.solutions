@@ -12,6 +12,7 @@ module Mayhem
       scope glob: "#{COLLECTION_DIR}/**/*.{md,markdown}"
       naming do |front_matter:, **|
         slug_source = front_matter['url']
+        slug_source = slug_source&.sub(%r{\Ahttps?://}, '')
         slug = FMRepo.slugify(slug_source)
         "#{COLLECTION_DIR}/#{slug}.md"
       end

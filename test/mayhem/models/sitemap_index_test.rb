@@ -30,7 +30,7 @@ class SitemapIndexModelTest < Minitest::Test
       body: '<sitemapindex></sitemapindex>'
     )
 
-    assert_equal '_sitemap_indexes/https-example-com-sitemap-index-xml.md', record.id
+    assert_equal '_sitemap_indexes/example-com-sitemap-index-xml.md', record.id
     assert_equal 'https://example.com/sitemap_index.xml', record.url
     assert_equal '2024-01-01T00:00:00Z', record.last_modified
     assert_equal website.id, record.website_id
