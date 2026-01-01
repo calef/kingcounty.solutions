@@ -309,7 +309,7 @@ Aligns each `_websites/*.md` `xml_sitemap_urls` entry with the `Sitemap:` direct
 #### Behavior notes
 
 - Fetches `robots.txt` for every website that declares `robots_txt_url`, normalizes the listed sitemap URLs, and rewrites the front matter when the lists differ.
-- Downloads each sitemap URL, storing its XML body in `_xml_sitemaps/` with `url`, `website_id`, and a `last_modified` timestamp for the retrieval.
+- Downloads each sitemap URL, storing its XML body in the appropriate collection (`_xml_sitemaps/`, `_url_sets/`, or `_sitemap_indexes/`) with `url`, `website_id`, and a `last_modified` timestamp for the retrieval.
 - Logs warnings and skips individual websites when the robots file cannot be fetched or parsed so the command can continue with the rest of the collection.
 
 ### `bin/mayhem summarize`
