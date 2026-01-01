@@ -29,7 +29,6 @@ xml_sitemap_urls:
 - https://www.commonspirit.org/content/dam/commonspiritorg/devops/seo/stjoh-locations-sitemap.xml
 - https://www.commonspirit.org/content/dam/commonspiritorg/devops/seo/stjoh-providers-sitemap.xml
 - https://www.commonspirit.org/content/dam/commonspiritorg/devops/seo/stjoh-sitemap.xml
-- https://www.commonspirit.org/sitemap.xml
 - https://www.commonspirit.org/sitemap.xml.gz
 ---
 

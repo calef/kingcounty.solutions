@@ -4,7 +4,6 @@ homepage_url: https://www.antioch.edu
 robots_txt_url: https://www.antioch.edu/robots.txt
 title: Antioch University
 xml_sitemap_urls:
-- https://www.antioch.edu/sitemap.xml
 - https://www.antioch.edu/sitemap.xml.gz
 ---
 
