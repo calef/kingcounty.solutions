@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative '../../test_helper'
+require 'mayhem/models/website'
 require 'mayhem/sitemaps/refresh'
 
 class SitemapsRefreshTest < Minitest::Test
@@ -23,7 +24,6 @@ class SitemapsRefreshTest < Minitest::Test
       {
         'title' => 'Example Site',
         'homepage_url' => 'https://example.com',
-        'robots_txt_url' => 'https://example.com/robots.txt',
         'xml_sitemap_urls' => ['https://example.com/old.xml']
       },
       body: ''
@@ -37,7 +37,7 @@ class SitemapsRefreshTest < Minitest::Test
     @url_set_repo&.cleanup
   end
 
-  def test_refresh_updates_website_and_creates_xml_sitemaps
+  def test_refresh_creates_url_sets
     robots_body = <<~ROBOTS
       User-agent: *
       Sitemap: https://example.com/alpha.xml
@@ -63,21 +63,19 @@ class SitemapsRefreshTest < Minitest::Test
     )
 
     finder = Mayhem::SitemapDiscovery::Finder.new(http_client: http_client)
-    Mayhem::Sitemaps::Refresh.new(http_client: http_client, sitemap_finder: finder).run
+    sitemap_urls = finder.find(@website.homepage_url)
+    Mayhem::Sitemaps::Refresh.new(http_client: http_client).refresh(@website, sitemap_urls)
 
-    refreshed = Mayhem::Models::Website.find(@website.id)
-    assert_equal ['https://example.com/alpha.xml', 'https://example.com/beta.xml'], refreshed.xml_sitemap_urls
-
-    sets = Mayhem::Models::UrlSet.where(website_id: refreshed.id).to_a
+    sets = Mayhem::Models::UrlSet.where(website_id: @website.id).to_a
     assert_equal 2, sets.size
     alpha = sets.find { |record| record['url'] == 'https://example.com/alpha.xml' }
     beta = sets.find { |record| record['url'] == 'https://example.com/beta.xml' }
 
-    assert_equal refreshed.id, alpha['website_id']
+    assert_equal @website.id, alpha['website_id']
     assert_equal '<urlset><url>alpha</url></urlset>', alpha.body.strip
     assert alpha['last_modified']
 
-    assert_equal refreshed.id, beta['website_id']
+    assert_equal @website.id, beta['website_id']
     assert_equal '<urlset><url>beta</url></urlset>', beta.body.strip
     assert beta['last_modified']
   end
@@ -104,7 +102,8 @@ class SitemapsRefreshTest < Minitest::Test
     )
 
     finder = Mayhem::SitemapDiscovery::Finder.new(http_client: http_client)
-    Mayhem::Sitemaps::Refresh.new(http_client: http_client, sitemap_finder: finder).run
+    sitemap_urls = finder.find(@website.homepage_url)
+    Mayhem::Sitemaps::Refresh.new(http_client: http_client).refresh(@website, sitemap_urls)
 
     indexes = Mayhem::Models::SitemapIndex.where(website_id: @website.id).to_a
     assert_equal 1, indexes.size
@@ -136,7 +135,8 @@ class SitemapsRefreshTest < Minitest::Test
     )
 
     finder = Mayhem::SitemapDiscovery::Finder.new(http_client: http_client)
-    Mayhem::Sitemaps::Refresh.new(http_client: http_client, sitemap_finder: finder).run
+    sitemap_urls = finder.find(@website.homepage_url)
+    Mayhem::Sitemaps::Refresh.new(http_client: http_client).refresh(@website, sitemap_urls)
 
     url_sets = Mayhem::Models::UrlSet.where(website_id: @website.id).to_a
     assert_equal 1, url_sets.size

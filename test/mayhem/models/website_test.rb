@@ -12,7 +12,6 @@ class WebsiteModelTest < Minitest::Test
           'title' => 'Example Site',
           'homepage_url' => 'https://example.org',
           'events_ical_url' => 'https://example.org/events.ics',
-          'robots_txt_url' => 'https://example.org/robots.txt',
           'xml_sitemap_urls' => ['https://example.org/sitemap.xml']
         },
         body: ''
@@ -22,7 +21,6 @@ class WebsiteModelTest < Minitest::Test
       assert_equal 'Example Site', record.title
       assert_equal 'https://example.org', record.homepage_url
       assert_equal 'https://example.org/events.ics', record.events_ical_url
-      assert_equal 'https://example.org/robots.txt', record.robots_txt_url
       assert_equal ['https://example.org/sitemap.xml'], record.xml_sitemap_urls
 
       loaded = Mayhem::Models::Website.find(record.id)
@@ -40,7 +38,6 @@ class WebsiteModelTest < Minitest::Test
 
       assert_nil record.events_ical_url
       assert_nil record.homepage_url
-      assert_nil record.robots_txt_url
       assert_equal [], record.xml_sitemap_urls
     end
   end

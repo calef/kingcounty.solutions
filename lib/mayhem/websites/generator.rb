@@ -46,9 +46,6 @@ module Mayhem
         if feed_result && (ical_url = Mayhem::Support::ValueNormalizer.normalize_value(feed_result.ical_url))
           front_matter['events_ical_url'] = ical_url
         end
-        if (robots_url = robots_txt_url(website_url))
-          front_matter['robots_txt_url'] = robots_url
-        end
         front_matter['xml_sitemap_urls'] = sitemap_urls.uniq if sitemap_urls&.any?
 
         website = Mayhem::Models::Website.create!(front_matter, body: '')
@@ -93,19 +90,6 @@ module Mayhem
       rescue StandardError => e
         logger.warn "Sitemap discovery failed for #{website_url}: #{e.message}"
         []
-      end
-
-      def robots_txt_url(website_url)
-        base_url = base_url_for(website_url)
-        return nil unless base_url
-
-        robots_url = Mayhem::Support::UrlUtils.absolutize(base_url, Mayhem::SitemapDiscovery::ROBOTS_PATH)
-        return nil unless robots_url
-
-        response = @http.response_for(robots_url, accept: Mayhem::SitemapDiscovery::ACCEPT_ROBOTS)
-        return nil unless response && response[:status] && response[:status] >= 200 && response[:status] < 400
-
-        response[:final_url] || robots_url
       end
 
       def base_url_for(website_url)

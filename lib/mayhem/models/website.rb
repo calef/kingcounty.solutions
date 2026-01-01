@@ -29,10 +29,6 @@ module Mayhem
         self['homepage_url']
       end
 
-      def robots_txt_url
-        self['robots_txt_url']
-      end
-
       def xml_sitemap_urls
         self['xml_sitemap_urls'] || []
       end

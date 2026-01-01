@@ -66,9 +66,9 @@ module Mayhem
         description: 'Lists available OpenAI model IDs',
         handler: :run_ls_models
       },
-      'refresh-xml-sitemaps' => {
-        description: 'Refreshes website xml_sitemap_urls from robots.txt and stores sitemap contents',
-        handler: :run_refresh_xml_sitemaps
+      'refresh-websites' => {
+        description: 'Refreshes websites by refreshing robots.txt, sitemap listings, and sitemap contents',
+        handler: :run_refresh_websites
       },
       'summarize' => {
         description: 'Generates AI summaries for posts and events',
@@ -266,11 +266,10 @@ module Mayhem
         Mayhem::OpenAI::ModelLister.new.run
       end
 
-      def run_refresh_xml_sitemaps(_args)
-        require 'mayhem/sitemaps/refresh'
+      def run_refresh_websites(_args)
+        require 'mayhem/websites/refresh'
 
-        refresher = Mayhem::Sitemaps::Refresh.new
-        refresher.run
+        Mayhem::Websites::Refresh.new.run
       end
 
       def run_summarize(_args)

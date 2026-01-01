@@ -95,7 +95,6 @@ class WebsitesGeneratorTest < Minitest::Test
     assert_equal 'Example Site', website['title']
     assert_equal 'https://example.com', website['homepage_url']
     assert_equal 'https://example.com/events.ics', website['events_ical_url']
-    assert_equal 'https://example.com/robots.txt', website['robots_txt_url']
     assert_equal ['https://example.com/sitemap.xml'], website['xml_sitemap_urls']
   end
 
