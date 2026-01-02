@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'rss'
+require 'seldon'
 require 'time'
 require_relative 'guid_extractor'
 
@@ -8,7 +9,7 @@ module Mayhem
   module News
     class RssImporter
       class ItemParser
-        include Mayhem::Loggable
+        include Seldon::Loggable
         include GuidExtractor
 
         def published_at(item)

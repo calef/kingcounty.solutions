@@ -182,7 +182,7 @@ module Mayhem
       end
 
       def run_delete_organization(args)
-        require 'mayhem/logging'
+        require 'seldon'
         require 'mayhem/organizations/pruner'
 
         if args.empty?
@@ -191,9 +191,9 @@ module Mayhem
         end
 
         organization_title = args.first
-        logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem')
+        logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem')
 
-        Mayhem::Logging.logger = logger
+        Seldon::Logging.logger = logger
         Mayhem::Organizations::Pruner.prune(organization_title)
       end
 
@@ -273,11 +273,11 @@ module Mayhem
       end
 
       def run_summarize(_args)
-        require 'mayhem/logging'
+        require 'seldon'
         require 'mayhem/news/summarizer'
         require 'mayhem/events/summarizer'
 
-        logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem')
+        logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem')
         news_stats = Mayhem::News::PostSummarizer.new.run
         events_stats = Mayhem::Events::EventSummarizer.new.run
 

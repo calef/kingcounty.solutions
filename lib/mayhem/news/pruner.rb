@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 require 'fileutils'
+require 'seldon'
 
 require_relative '../front_matter/document'
 require_relative '../images/pruner'
-require_relative '../logging'
 require_relative '../models/news'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
@@ -12,7 +12,7 @@ require_relative '../models/news'
 module Mayhem
   module News
     class Pruner
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       def initialize(images_pruner:)
         @posts_dir = Mayhem::Models::News.collection_dir

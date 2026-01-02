@@ -1,23 +1,22 @@
 # frozen_string_literal: true
 
+require 'seldon'
 require 'stringio'
 require 'time'
 require 'zlib'
 
-require_relative '../logging'
 require_relative '../models/xml_sitemap'
 require_relative '../models/sitemap_index'
 require_relative '../models/url_set'
 require_relative '../sitemap/discovery'
-require_relative '../support/http_client'
 
 module Mayhem
   module Sitemaps
     class Refresh
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       def initialize(http_client: nil)
-        @http = http_client || Mayhem::Support::HttpClient.new
+        @http = http_client || Seldon::Support::HttpClient.new
       end
 
       def refresh(website, sitemap_urls)

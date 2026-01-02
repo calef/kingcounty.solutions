@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
 require 'ruby/openai'
-require_relative '../logging'
+require 'seldon'
 
 module Mayhem
   module OpenAI
     class ChatClient
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       DEFAULT_TEMPERATURE = 0.3
 

@@ -2,24 +2,20 @@
 
 require 'nokogiri'
 require 'uri'
-require_relative '../logging'
+require 'seldon'
 require_relative '../models/website'
 require_relative '../feed/discovery'
 require_relative '../sitemap/discovery'
-require_relative '../support/http_client'
-require_relative '../support/url_normalizer'
-require_relative '../support/url_utils'
-require_relative '../support/value_normalizer'
 
 module Mayhem
   module Websites
     class Generator
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       WEBSITE_SCRAPER_TIMEOUT = Integer(ENV.fetch('WEBSITE_SCRAPER_TIMEOUT', 10))
 
       def initialize(http_client: nil, feed_finder: nil, sitemap_finder: nil)
-        @http = http_client || Mayhem::Support::HttpClient.new(timeout: WEBSITE_SCRAPER_TIMEOUT)
+        @http = http_client || Seldon::Support::HttpClient.new(timeout: WEBSITE_SCRAPER_TIMEOUT)
         @feed_finder = feed_finder || Mayhem::FeedDiscovery::FeedFinder.new(@http)
         @sitemap_finder = sitemap_finder || Mayhem::SitemapDiscovery::Finder.new(http_client: @http)
       end
@@ -43,7 +39,7 @@ module Mayhem
           'homepage_url' => website_url
         }
 
-        if feed_result && (ical_url = Mayhem::Support::ValueNormalizer.normalize_value(feed_result.ical_url))
+        if feed_result && (ical_url = Seldon::Support::ValueNormalizer.normalize_value(feed_result.ical_url))
           front_matter['events_ical_url'] = ical_url
         end
         front_matter['xml_sitemap_urls'] = sitemap_urls.uniq if sitemap_urls&.any?
@@ -55,7 +51,7 @@ module Mayhem
       private
 
       def canonical_url(url)
-        Mayhem::Support::UrlNormalizer.normalize(url)
+        Seldon::Support::UrlNormalizer.normalize(url)
       end
 
       def homepage_title(url)
@@ -93,7 +89,7 @@ module Mayhem
       end
 
       def base_url_for(website_url)
-        normalized = Mayhem::Support::UrlNormalizer.normalize(website_url)
+        normalized = Seldon::Support::UrlNormalizer.normalize(website_url)
         return nil unless normalized
 
         uri = URI.parse(normalized)

@@ -1,4 +1,12 @@
 GIT
+  remote: git@github.com:calef/seldon.git
+  revision: e2bf681c8986738f04b126b17f9102e7675b2a39
+  specs:
+    seldon (0.2.0)
+      faraday
+      faraday-typhoeus
+
+GIT
   remote: https://github.com/calef/fmrepo.git
   revision: 8fbbc5d49089bc4cebb5c44cb320bbdbfc6f6fcb
   specs:
@@ -164,7 +172,7 @@ GEM
     reverse_markdown (3.0.1)
       nokogiri
     rexml (3.4.4)
-    rouge (4.6.1)
+    rouge (4.7.0)
     rspec (3.13.2)
       rspec-core (~> 3.13.0)
       rspec-expectations (~> 3.13.0)
@@ -264,6 +272,7 @@ DEPENDENCIES
   rubocop
   rubocop-minitest
   ruby-openai
+  seldon!
   simplecov
   time
   uri

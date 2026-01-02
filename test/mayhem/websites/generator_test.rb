@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require_relative '../../test_helper'
 require 'minitest/autorun'
 require 'ostruct'
 require 'tmpdir'
+require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/websites/generator'
 
 class WebsitesGeneratorTest < Minitest::Test
@@ -70,7 +70,7 @@ class WebsitesGeneratorTest < Minitest::Test
     @website_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :websites)
     @website_dir = Mayhem::Models::Website.collection_dir
     @logger = FakeLogger.new
-    Mayhem::Logging.logger = @logger
+    Seldon::Logging.logger = @logger
     @http_client = FakeHttpClient.new('<html><head><title>Example Site</title></head></html>')
     @feed_finder = FakeFeedFinder.new(OpenStruct.new(ical_url: 'https://example.com/events.ics'))
     @sitemap_finder = FakeSitemapFinder.new(['https://example.com/sitemap.xml'])
@@ -82,7 +82,7 @@ class WebsitesGeneratorTest < Minitest::Test
   end
 
   def teardown
-    Mayhem::Logging.reset_logger
+    Seldon::Logging.reset_logger
     @website_repo_override.cleanup if @website_repo_override
   end
 

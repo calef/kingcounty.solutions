@@ -1,11 +1,12 @@
 # frozen_string_literal: true
 
-require 'tmpdir'
 require_relative '../../test_helper'
-require_relative '../../../lib/mayhem/topics/organization_audit'
+require 'tmpdir'
 require 'mayhem/models/organization'
 require 'mayhem/models/news'
 require 'mayhem/models/topic'
+require 'seldon'
+require_relative '../../../lib/mayhem/topics/organization_audit'
 
 class OrganizationAuditTest < Minitest::Test
   FakeClient = Struct.new(:response) do
@@ -34,14 +35,14 @@ class OrganizationAuditTest < Minitest::Test
   def setup
     client = FakeClient.new
     @logger = FakeLogger.new
-    Mayhem::Logging.logger = @logger
+    Seldon::Logging.logger = @logger
     @audit = Mayhem::Topics::OrganizationAudit.new(
       client: client
     )
   end
 
   def teardown
-    Mayhem::Logging.reset_logger
+    Seldon::Logging.reset_logger
   end
 
   def test_normalize_response_strips_triple_backtick_json

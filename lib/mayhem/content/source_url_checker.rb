@@ -1,17 +1,16 @@
 # frozen_string_literal: true
 
-require_relative '../logging'
+require 'seldon'
 require_relative '../events/pruner'
 require_relative '../images/pruner'
 require_relative '../news/pruner'
 require_relative '../models/event'
 require_relative '../models/news'
-require_relative '../support/http_status_resolver'
 
 module Mayhem
   module Content
     class SourceUrlChecker
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
 
@@ -28,7 +27,7 @@ module Mayhem
         workers: ENV.fetch('SOURCE_URL_CHECKER_WORKERS', '6').to_i
       )
         @user_agent = user_agent
-        @http_status_resolver = http_status_resolver || Mayhem::Support::HttpStatusResolver.new(
+        @http_status_resolver = http_status_resolver || Seldon::Support::HttpStatusResolver.new(
           user_agent: @user_agent,
           http_client: http_client
         )

@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
-require 'fileutils'
-require 'tmpdir'
 require_relative '../../test_helper'
+require 'fileutils'
 require 'mayhem/events/pruner'
 require 'mayhem/images/pruner'
 require 'mayhem/models/image'
 require 'mayhem/front_matter/document'
-require 'mayhem/logging'
+require 'seldon'
+require 'tmpdir'
 
 # TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
 
@@ -21,7 +21,7 @@ class EventsPrunerTest < Minitest::Test
     @images_dir = Mayhem::Models::Image.collection_dir
     @assets_dir = Dir.mktmpdir('assets')
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir])
-    @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
+    @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
     @images_pruner = Mayhem::Images::Pruner.new(
       assets_dir: @assets_dir
     )

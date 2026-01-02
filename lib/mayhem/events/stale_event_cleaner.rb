@@ -4,7 +4,7 @@ require 'date'
 require 'fileutils'
 require 'time'
 
-require_relative '../logging'
+require 'seldon'
 require_relative '../front_matter/document'
 require_relative '../models/event'
 require_relative '../models/news'
@@ -14,7 +14,7 @@ require_relative '../models/news'
 module Mayhem
   module Events
     class StaleEventCleaner
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       GRACE_PERIOD_DAYS = 1
 

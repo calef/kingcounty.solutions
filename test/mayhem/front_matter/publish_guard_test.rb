@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'seldon'
 require 'tmpdir'
 require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/front_matter/publish_guard'
@@ -9,7 +10,7 @@ module Support
     PublishGuard = Mayhem::FrontMatter::PublishGuard
 
     def teardown
-      Mayhem::Logging.reset_logger
+      Seldon::Logging.reset_logger
     end
 
     def test_unpublished_returns_true_when_flagged_false
@@ -75,7 +76,7 @@ module Support
           raise StandardError, 'boom'
         end
 
-        Mayhem::Logging.logger = logger
+        Seldon::Logging.logger = logger
 
         Mayhem::FrontMatter::Document.stub(:load, stub) do
           refute PublishGuard.unpublished?(path)

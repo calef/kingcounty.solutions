@@ -1,9 +1,10 @@
 # frozen_string_literal: true
 
-require_relative '../../test_helper'
 require 'minitest/autorun'
 require 'nokogiri'
+require 'seldon'
 require 'time'
+require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/events/summarizer'
 
 class EventSummarizerTest < Minitest::Test
@@ -83,11 +84,11 @@ class EventSummarizerTest < Minitest::Test
     @logger = FakeLogger.new
     FileUtils.mkdir_p(@tmp_posts)
     FileUtils.mkdir_p(@tmp_events)
-    Mayhem::Logging.logger = @logger
+    Seldon::Logging.logger = @logger
   end
 
   def teardown
-    Mayhem::Logging.reset_logger
+    Seldon::Logging.reset_logger
     FileUtils.remove_entry(@tmp_topics)
     FileUtils.remove_entry(@tmp_images)
     FileUtils.remove_entry(@tmp_assets_root)

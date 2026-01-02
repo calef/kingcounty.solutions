@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
-require_relative '../logging'
+require 'seldon'
 require_relative '../models/location'
 
 module Mayhem
   module Locations
     class Repository
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       def initialize(
         location_repo: nil,

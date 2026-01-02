@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 require 'ruby/openai'
-require_relative '../logging'
+require 'seldon'
 require_relative 'repository'
 
 module Mayhem
   module Locations
     class Classifier
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       DEFAULT_MODEL = ENV.fetch('OPENAI_LOCATION_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
 

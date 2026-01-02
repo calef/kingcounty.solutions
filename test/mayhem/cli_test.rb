@@ -9,7 +9,6 @@ require 'mayhem/events/summarizer'
 require 'mayhem/front_matter/tidier'
 require 'mayhem/images/extractor'
 require 'mayhem/integrity/checker'
-require 'mayhem/logging'
 require 'mayhem/news/content_age_enforcer'
 require 'mayhem/news/event_extractor'
 require 'mayhem/news/rss_importer'
@@ -19,6 +18,7 @@ require 'mayhem/organizations/generator'
 require 'mayhem/organizations/pruner'
 require 'mayhem/topics/organization_audit'
 require 'mayhem/websites/generator'
+require 'seldon'
 
 # Load the CLI module from bin/mayhem
 load File.expand_path('../../bin/mayhem', __dir__)
@@ -270,8 +270,8 @@ class MayhemCLITest < Minitest::Test
     pruner_title = nil
     logger_set = nil
 
-    Mayhem::Logging.stub(:build_logger, ->(**args) { logger_args = args; logger }) do
-      Mayhem::Logging.stub(:logger=, ->(value) { logger_set = value }) do
+    Seldon::Logging.stub(:build_logger, ->(**args) { logger_args = args; logger }) do
+      Seldon::Logging.stub(:logger=, ->(value) { logger_set = value }) do
         Mayhem::Organizations::Pruner.stub(:prune, ->(title) { pruner_title = title }) do
           Mayhem::CLI.run_delete_organization(['Org'])
         end
@@ -355,7 +355,7 @@ class MayhemCLITest < Minitest::Test
     events = Minitest::Mock.new
     events.expect(:run, { updated: 3 })
 
-    Mayhem::Logging.stub(:build_logger, ->(**_args) { logger }) do
+    Seldon::Logging.stub(:build_logger, ->(**_args) { logger }) do
       Mayhem::News::PostSummarizer.stub(:new, news) do
         Mayhem::Events::EventSummarizer.stub(:new, events) do
           Mayhem::CLI.run_summarize([])

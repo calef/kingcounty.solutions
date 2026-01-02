@@ -1,15 +1,16 @@
 # frozen_string_literal: true
 
+require 'seldon'
 require_relative '../../content/html_normalizer'
 require_relative '../../front_matter/slug_generator'
 
 module Mayhem
   module News
     class RssImporter
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       class PostWriter
-        include Mayhem::Loggable
+        include Seldon::Loggable
 
         MAX_FILENAME_BYTES = 255
         DEFAULT_NEWS_DIR = '_posts'

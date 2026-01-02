@@ -2,10 +2,10 @@
 
 require_relative '../../test_helper'
 require 'fileutils'
-require 'time'
-require_relative '../../../lib/mayhem/news/rss_importer'
 require 'mayhem/models/news'
 require 'mayhem/models/organization'
+require 'time'
+require_relative '../../../lib/mayhem/news/rss_importer'
 
 class RssImporterMethodsTest < Minitest::Test
   class FakeLogger
@@ -52,7 +52,7 @@ class RssImporterMethodsTest < Minitest::Test
     @tmp_posts = Mayhem::Models::News.repo.root.join('_posts').to_s
     @tmp_orgs = Mayhem::Models::Organization.repo.root.join('_organizations').to_s
     @logger = FakeLogger.new
-    Mayhem::Logging.logger = @logger
+    Seldon::Logging.logger = @logger
     @fake_http = FakeHttpClient.new(resolved_url: 'https://pubmed.ncbi.nlm.nih.gov/final?utm_source=abc')
     @item_parser = Mayhem::News::RssImporter::ItemParser.new()
     @canonicalizer = Mayhem::News::RssImporter::Canonicalizer.new(http_client: @fake_http)
@@ -70,7 +70,7 @@ class RssImporterMethodsTest < Minitest::Test
   def teardown
     @org_repo_override.cleanup if @org_repo_override
     @news_repo_override.cleanup if @news_repo_override
-    Mayhem::Logging.reset_logger
+    Seldon::Logging.reset_logger
   end
 
   def test_published_at_prefers_pubdate_and_fallbacks
@@ -276,7 +276,7 @@ class RssImporterMethodsTest < Minitest::Test
     item = Object.new
     source = build_source_record
     link_url = 'https://example.com/article'
-    normalized = Mayhem::Support::UrlNormalizer.normalize(link_url, base: source&.website_url)
+    normalized = Seldon::Support::UrlNormalizer.normalize(link_url, base: source&.website_url)
     published_at = Time.now
     fetcher = Minitest::Mock.new
     fetcher.expect(:fetch, { html: '', canonical_url: nil, not_found: true }, [link_url])
@@ -350,7 +350,7 @@ class RssImporterMethodsTest < Minitest::Test
     item = Object.new
     source = build_source_record
     link_url = 'https://example.com/article'
-    normalized = Mayhem::Support::UrlNormalizer.normalize(link_url, base: source&.website_url)
+    normalized = Seldon::Support::UrlNormalizer.normalize(link_url, base: source&.website_url)
     published_at = Time.now
     duplicate_tracker = Minitest::Mock.new
     duplicate_tracker.expect(:duplicate?, false, [normalized, 'guid-123'])
@@ -439,7 +439,7 @@ class RssImporterMethodsTest < Minitest::Test
     url = 'https://pubmed.ncbi.nlm.nih.gov/item'
     @fake_http.resolved_url = 'https://pubmed.ncbi.nlm.nih.gov/item?utm_source=ignore'
     result = @canonicalizer.canonical_link(url)
-    expected = Mayhem::Support::UrlNormalizer.normalize(@fake_http.resolved_url)
+    expected = Seldon::Support::UrlNormalizer.normalize(@fake_http.resolved_url)
     assert_equal expected, result
   end
 
@@ -461,7 +461,7 @@ class RssImporterMethodsTest < Minitest::Test
   end
 
   def test_fetch_article_body_marks_not_found_and_logs_warning
-    error = Mayhem::Support::HttpClient::NotFoundError.new(
+    error = Seldon::Support::HttpClient::NotFoundError.new(
       url: 'https://example.com/missing',
       origin_url: 'https://example.com/missing',
       operation: 'content_fetch'
@@ -481,7 +481,7 @@ class RssImporterMethodsTest < Minitest::Test
   end
 
   def test_fetch_article_body_logs_warning_on_http_error
-    error = Mayhem::Support::HttpClient::HttpError.new(
+    error = Seldon::Support::HttpClient::HttpError.new(
       url: 'https://example.com/error',
       origin_url: 'https://example.com/error',
       operation: 'content_fetch',

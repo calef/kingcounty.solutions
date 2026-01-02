@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
-require 'fileutils'
 require_relative '../../test_helper'
+require 'fileutils'
 require 'mayhem/content/source_url_checker'
 require 'mayhem/front_matter/document'
-require 'mayhem/logging'
 require 'mayhem/models/event'
 require 'mayhem/models/image'
 require 'mayhem/models/news'
+require 'seldon'
 
 # TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
 
@@ -29,7 +29,7 @@ class SourceUrlCheckerTest < Minitest::Test
     FileUtils.mkdir_p(@events_dir)
     FileUtils.mkdir_p(@images_dir)
     FileUtils.mkdir_p(@assets_dir)
-    @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
+    @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
   end
 
   def teardown

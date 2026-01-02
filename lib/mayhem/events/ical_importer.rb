@@ -4,14 +4,11 @@ require 'date'
 require 'fileutils'
 require 'icalendar'
 require 'nokogiri'
-require_relative '../logging'
+require 'seldon'
 require_relative '../front_matter/document'
-require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../front_matter/slug_generator'
-require_relative '../support/url_normalizer'
 require_relative '../content/content_fetcher'
-require_relative '../support/encoding_utils'
 require_relative '../content/content_utils'
 require_relative '../front_matter/publish_guard'
 require_relative '../content/html_normalizer'
@@ -23,7 +20,7 @@ require_relative '../models/organization'
 module Mayhem
   module Events
     class IcalImporter
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       MAX_FILENAME_BYTES = 255
       DEFAULT_MAX_WORKERS = begin
@@ -39,7 +36,7 @@ module Mayhem
         workers: DEFAULT_MAX_WORKERS,
         time_source: -> { Time.now }
       )
-        @http_client = http_client || Mayhem::Support::HttpClient.new
+        @http_client = http_client || Seldon::Support::HttpClient.new
         @content_fetcher = Mayhem::Content::ContentFetcher.new(http_client: @http_client)
         @time_source = time_source
         @workers = [workers, 1].max
@@ -213,7 +210,7 @@ module Mayhem
                             stats: stats)
         end
 
-        location = Mayhem::Support::EncodingUtils.ensure_utf8(event_location(event))
+        location = Seldon::Support::EncodingUtils.ensure_utf8(event_location(event))
         end_time = resolve_time(event.dtend) || start_time
         start_prefix = start_time.strftime('%Y-%m-%d')
         start_value = start_time.iso8601
@@ -227,9 +224,9 @@ module Mayhem
         )
         filename = File.join(events_dir, "#{start_prefix}-#{slug}.md")
 
-        description_html = Mayhem::Support::EncodingUtils.ensure_utf8(raw_html)
+        description_html = Seldon::Support::EncodingUtils.ensure_utf8(raw_html)
         description_html = Mayhem::Content::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?
-        description_html = Mayhem::Support::EncodingUtils.ensure_utf8(description_html)
+        description_html = Seldon::Support::EncodingUtils.ensure_utf8(description_html)
         normalized_description = Mayhem::Content::HtmlNormalizer.normalize(description_html, base_url: canonical_url)
         checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_description)
 
@@ -240,8 +237,8 @@ module Mayhem
         end
 
         front_matter = {
-          'title' => Mayhem::Support::EncodingUtils.ensure_utf8(summary),
-          'organization_title' => Mayhem::Support::EncodingUtils.ensure_utf8(source_title),
+          'title' => Seldon::Support::EncodingUtils.ensure_utf8(summary),
+          'organization_title' => Seldon::Support::EncodingUtils.ensure_utf8(source_title),
           'start_date' => start_value,
           'end_date' => end_value,
           'location' => location,
@@ -282,7 +279,7 @@ module Mayhem
       end
 
       def normalized_link(link, website)
-        Mayhem::Support::UrlNormalizer.normalize(link, base: website)
+        Seldon::Support::UrlNormalizer.normalize(link, base: website)
       end
 
       def register_event_url(url)
@@ -358,7 +355,7 @@ module Mayhem
         return unless url
 
         @content_fetcher.fetch(url)
-      rescue Mayhem::Support::HttpClient::NotFoundError => e
+      rescue Seldon::Support::HttpClient::NotFoundError => e
         record_stat(:fetch_failed, stats)
         logger.warn "Source returned 404 for #{url}: #{e.message}"
         { html: '', canonical_url: url, not_found: true }
@@ -389,7 +386,7 @@ module Mayhem
     end
 
     class IcalImporterCLI
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       def self.run
         new.run
@@ -398,7 +395,7 @@ module Mayhem
       def initialize(
         http_client: nil
       )
-        @http_client = http_client || Mayhem::Support::HttpClient.new
+        @http_client = http_client || Seldon::Support::HttpClient.new
       end
 
       def run

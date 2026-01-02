@@ -1,37 +1,36 @@
 # frozen_string_literal: true
 
+require 'seldon'
 require 'uri'
-require_relative '../../support/http_client'
-require_relative '../../support/url_normalizer'
 
 module Mayhem
   module News
     class RssImporter
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       class Canonicalizer
-        include Mayhem::Loggable
+        include Seldon::Loggable
 
         CANONICAL_REDIRECT_HOSTS = %w[
           pubmed.ncbi.nlm.nih.gov
         ].freeze
 
         def initialize(http_client: nil)
-          @http = http_client || Mayhem::Support::HttpClient.new
+          @http = http_client || Seldon::Support::HttpClient.new
         end
 
         def canonical_link(link_url, html_canonical: nil)
           return link_url if link_url.to_s.empty?
 
           if html_canonical
-            normalized = Mayhem::Support::UrlNormalizer.normalize(html_canonical)
+            normalized = Seldon::Support::UrlNormalizer.normalize(html_canonical)
             return normalized if normalized
           end
 
           return link_url unless redirect_host?(link_url)
 
           resolved = @http.resolve_final_url(link_url)
-          normalized = Mayhem::Support::UrlNormalizer.normalize(resolved)
+          normalized = Seldon::Support::UrlNormalizer.normalize(resolved)
           normalized || link_url
         rescue StandardError => e
           logger.debug "Failed to canonicalize #{link_url}: #{e.message}"

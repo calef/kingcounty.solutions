@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 require 'fileutils'
+require 'seldon'
 require 'time'
 require 'yaml'
 
-require_relative '../logging'
 require_relative '../images/pruner'
 require_relative '../news/pruner'
 require_relative '../front_matter/document'
@@ -16,7 +16,7 @@ require_relative '../models/news'
 module Mayhem
   module News
     class ContentAgeEnforcer
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       DEFAULT_MAX_AGE_DAYS = 365

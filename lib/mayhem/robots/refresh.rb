@@ -1,22 +1,19 @@
 # frozen_string_literal: true
 
+require 'seldon'
 require 'time'
 require 'uri'
 
-require_relative '../logging'
 require_relative '../models/robots_txt'
 require_relative '../sitemap/discovery'
-require_relative '../support/http_client'
-require_relative '../support/url_normalizer'
-require_relative '../support/url_utils'
 
 module Mayhem
   module Robots
     class Refresh
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       def initialize(http_client: nil)
-        @http = http_client || Mayhem::Support::HttpClient.new
+        @http = http_client || Seldon::Support::HttpClient.new
       end
 
       def refresh(website)
@@ -54,11 +51,11 @@ module Mayhem
         base_url = base_url_for(homepage_url)
         return nil unless base_url
 
-        Mayhem::Support::UrlUtils.absolutize(base_url, Mayhem::SitemapDiscovery::ROBOTS_PATH)
+        Seldon::Support::UrlUtils.absolutize(base_url, Mayhem::SitemapDiscovery::ROBOTS_PATH)
       end
 
       def base_url_for(url)
-        normalized = Mayhem::Support::UrlNormalizer.normalize(url)
+        normalized = Seldon::Support::UrlNormalizer.normalize(url)
         return nil unless normalized
 
         uri = URI.parse(normalized)
@@ -72,7 +69,7 @@ module Mayhem
       end
 
       def normalize_url(value)
-        Mayhem::Support::UrlNormalizer.normalize(value)
+        Seldon::Support::UrlNormalizer.normalize(value)
       rescue StandardError
         nil
       end

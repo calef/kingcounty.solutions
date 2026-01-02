@@ -4,22 +4,19 @@ require 'nokogiri'
 require_relative 'article_body_selectors'
 require_relative 'content_utils'
 require_relative '../feed/discovery'
-require_relative '../support/http_client'
-require_relative '../support/url_utils'
-require_relative '../support/url_normalizer'
-require_relative '../logging'
+require 'seldon'
 
 module Mayhem
   module Content
     class ContentFetcher
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       def initialize(
         http_client: nil,
         selectors: ArticleBodySelectors::SELECTORS,
         accept: Mayhem::FeedDiscovery::ACCEPT_HTML
       )
-        @http_client = http_client || Mayhem::Support::HttpClient.new
+        @http_client = http_client || Seldon::Support::HttpClient.new
         @selectors = selectors
         @accept = accept
       end
@@ -109,7 +106,7 @@ module Mayhem
         final_url = page[:final_url].to_s
 
         return true if NON_HTML_CONTENT_TYPES.any? { |type| content_type.include?(type) }
-        return true if Mayhem::Support::UrlUtils.non_feed_url?(final_url)
+        return true if Seldon::Support::UrlUtils.non_feed_url?(final_url)
 
         false
       end
@@ -132,7 +129,7 @@ module Mayhem
         href = node&.[]('href').to_s.strip
         return nil if href.empty?
 
-        Mayhem::Support::UrlNormalizer.normalize(href, base: base_url)
+        Seldon::Support::UrlNormalizer.normalize(href, base: base_url)
       rescue StandardError => e
         logger.debug "Failed to extract canonical link from #{base_url}: #{e.message}"
         nil

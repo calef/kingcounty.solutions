@@ -2,8 +2,8 @@
 
 require 'digest'
 require 'nokogiri'
+require 'seldon'
 require 'uri'
-require_relative '../support/url_normalizer'
 
 module Mayhem
   module Content
@@ -60,7 +60,7 @@ module Mayhem
       end
 
       def normalize_url_attribute(value, base_url)
-        normalized = Mayhem::Support::UrlNormalizer.normalize(value, base: base_url)
+        normalized = Seldon::Support::UrlNormalizer.normalize(value, base: base_url)
         return value unless normalized
 
         canonicalize_url(normalized)

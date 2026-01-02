@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
-require_relative '../logging'
-require_relative '../support/http_client'
+require 'seldon'
 require_relative '../content/content_fetcher'
 require_relative '../content/article_body_selectors'
 require_relative '../models/news'
@@ -21,7 +20,7 @@ require_relative 'rss_importer/source_enumerator'
 module Mayhem
   module News
     class RssImporter
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       ARTICLE_BODY_SELECTORS = Mayhem::Content::ArticleBodySelectors::SELECTORS
 
@@ -68,7 +67,7 @@ module Mayhem
         @open_timeout = open_timeout
         @read_timeout = read_timeout
         @fetch_retries = fetch_retries
-        @http = http_client || Mayhem::Support::HttpClient.new(
+        @http = http_client || Seldon::Support::HttpClient.new(
           open_timeout: @open_timeout,
           read_timeout: @read_timeout,
           max_retries: @fetch_retries

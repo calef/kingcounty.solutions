@@ -1,20 +1,18 @@
 # frozen_string_literal: true
 
-require_relative '../logging'
+require 'seldon'
 require_relative '../models/website'
 require_relative '../robots/refresh'
 require_relative '../sitemaps/refresh'
 require_relative '../sitemap/discovery'
-require_relative '../support/http_client'
-require_relative '../support/url_normalizer'
 
 module Mayhem
   module Websites
     class Refresh
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       def initialize(http_client: nil, sitemap_finder: nil, robots_refresher: nil, sitemaps_refresher: nil)
-        @http = http_client || Mayhem::Support::HttpClient.new
+        @http = http_client || Seldon::Support::HttpClient.new
         finder = sitemap_finder || Mayhem::SitemapDiscovery::Finder.new(http_client: @http)
         @sitemap_finder = finder
         @robots_refresher = robots_refresher || Mayhem::Robots::Refresh.new(http_client: @http)
@@ -60,7 +58,7 @@ module Mayhem
       def normalize_url(value, base_url = nil)
         return nil if value.nil?
 
-        Mayhem::Support::UrlNormalizer.normalize(value, base: base_url)
+        Seldon::Support::UrlNormalizer.normalize(value, base: base_url)
       rescue StandardError
         nil
       end

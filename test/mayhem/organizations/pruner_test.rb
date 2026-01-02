@@ -1,9 +1,8 @@
 # frozen_string_literal: true
 
+require_relative '../../test_helper'
 require 'fileutils'
 require 'fmrepo'
-require 'tmpdir'
-require_relative '../../test_helper'
 require 'mayhem/organizations/pruner'
 require 'mayhem/events/pruner'
 require 'mayhem/news/pruner'
@@ -11,7 +10,8 @@ require 'mayhem/images/pruner'
 require 'mayhem/models/image'
 require 'mayhem/models/organization'
 require 'mayhem/front_matter/document'
-require 'mayhem/logging'
+require 'seldon'
+require 'tmpdir'
 
 # TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
 
@@ -27,7 +27,7 @@ class OrganizationsPrunerTest < Minitest::Test
     @assets_dir = Dir.mktmpdir('assets')
     @organizations_dir = Mayhem::Models::Organization.collection_dir
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir, @organizations_dir])
-    @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
+    @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
 
     @images_pruner = Mayhem::Images::Pruner.new(
       assets_dir: @assets_dir

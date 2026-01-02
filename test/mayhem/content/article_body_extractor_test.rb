@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'seldon'
 require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/content/article_body_extractor'
 
@@ -41,7 +42,7 @@ class ArticleBodyExtractorTest < Minitest::Test
 
   def test_sanitized_html_returns_full_when_within_limit
     sample = '<p>short</p>'
-    assert_equal Mayhem::Support::EncodingUtils.ensure_utf8(sample),
+    assert_equal Seldon::Support::EncodingUtils.ensure_utf8(sample),
                  Mayhem::Content::ArticleBodyExtractor.sanitized_html(sample, max_chars: 100)
   end
 end
