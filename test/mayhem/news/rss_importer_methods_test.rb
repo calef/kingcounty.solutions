@@ -4,6 +4,7 @@ require_relative '../../test_helper'
 require 'fileutils'
 require 'mayhem/models/news'
 require 'mayhem/models/organization'
+require 'seldon'
 require 'time'
 require_relative '../../../lib/mayhem/news/rss_importer'
 

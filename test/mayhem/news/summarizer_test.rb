@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'minitest/autorun'
+require 'seldon'
 require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/news/summarizer'
 
