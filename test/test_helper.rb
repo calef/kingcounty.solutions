@@ -23,8 +23,6 @@ require 'minitest/mock'
 # Load default gems so tests can use the same environment as the site build.
 Bundler.require(:default, :test)
 
-require 'seldon'
-
 require 'fmrepo'
 FMRepo.environment = fmrepo_env
 FMRepo.configure do |config|
