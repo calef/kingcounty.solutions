@@ -1,74 +1,94 @@
 ---
-date: '2025-12-29T15:30:00+00:00'
+date: '2026-01-01T15:30:00+00:00'
 event_ids: []
 events_extracted: true
 feed_content: |-
-  <h2>How tele-emergency care helped a Veteran on the road to recovery</h2>
+  <h2>Join the Million Veteran Program to take the survey today</h2>
 
 
 
-  <p>“My telehealth emergency care visit helped me keep my active lifestyle,” said Daniel Bryan, an Air Force Veteran, about his recent experience using tele-emergency care.</p>
+  <p>VA’s Million Veteran Program (MVP) recently launched the Military Experiences and Toxic Exposures Survey to learn more about the ways military experiences and toxic exposures affect health. MVP, <a>VA’s largest research effort</a>, is studying health conditions that matter to Veterans, including mental health, heart health, cancer, tinnitus and more. All Veterans are invited to <a>join MVP and complete the survey</a>.</p>
 
 
 
-  <h2>An unexpected injury</h2>
+  <h2>What does the Military Experiences and Toxic Exposures Survey ask about?</h2>
 
 
 
-  <p>On a sunny day in Orlando, Bryan decided to take his children to the beach to enjoy jumping in the surf. When he tweaked his knee after a particularly powerful wave knocked him down, Bryan thought nothing of it. He went home, took a pain reliever and went to bed.</p>
+  <p>The survey asks questions about:</p>
 
 
 
-  <p>But the next morning, Bryan could see and feel the inflammation in his knee.</p>
+  <ul>
+  <li>Your military service and deployment history.</li>
 
 
 
-  <p>“I woke up in excruciating pain,” Bryan said. “I couldn’t even put weight on my leg and knew I needed to see someone right away.”</p>
+  <li>Occupation(s) in and out of the military.</li>
 
 
 
-  <h2>Telehealth triage</h2>
+  <li>Military job tasks and deployment activities.</li>
 
 
 
-  <p>As a Veteran who had been using the VA health care system in Orlando for several years, Bryan immediately called <a>VA Health Connect</a> to see if he could be seen at the medical center that day. It had no openings, but the nurse on the line recommended he see an emergency care provider through <a>VA Telehealth Services</a>.</p>
+  <li>Exposure to toxic or hazardous substances while deployed.</li>
 
 
 
-  <p>“The nurse connected me right away,” Bryan said. “It was a seamless process. I was able to get on a video call and show the doctor what was going on.”</p>
+  <li>Exposure to loud sounds.</li>
 
 
 
-  <h2>On-the-spot care</h2>
+  <li>Combat experiences.</li>
 
 
 
-  <p>Bryan was impressed with the care that he received from the emergency care provider.</p>
+  <li>Lifestyle and home exposures.</li>
+  </ul>
 
 
 
-  <p>“After looking at my knee and asking me to do a couple of movements, she knew exactly what was wrong,” said Bryan. “She told me how much pain medicine to take and what type of brace to get to support my knee.”</p>
+  <p>By completing this survey, you can help researchers better understand how to screen for, detect, prevent and treat health conditions associated with military experiences and exposures. This survey is for health research purposes and will not impact your disability benefits or your access to VA health care.</p>
 
 
 
-  <p>The emergency care provider was able to schedule an MRI appointment for Bryan the next day, speeding up his eventual diagnosis and recovery.</p>
+  <h2>How do I take the Military Experiences and Toxic Exposures Survey?</h2>
 
 
 
-  <h2>Quick triage leads to fast recoveries</h2>
+  <p>All Veterans are invited to <a>join the Million Veteran Program and take the survey</a>.</p>
 
 
 
-  <p>Bryan has since started physical therapy for his knee and credits the initial tele-emergency care appointment for the progress he’s made.</p>
+  <p>To join MVP today, visit www.mvp.va.gov, click “Sign in” and then “Get started.”</p>
 
 
 
-  <p>“I’m glad I could use tele-emergency care, because if I had walked on it into an urgent care or emergency department, it would have taken longer, and I could have made it worse,” Bryan said. “I trust VA doctors. The atmosphere at the medical centers and online is incredible.”</p>
+  <p>Veterans who are already part of MVP can take the survey using the following steps:</p>
 
 
 
-  <p>Veterans can review tele-emergency care options on VA.gov’s <a>Tele-Emergency Care page</a> on VA.gov or through <a>VA Health Connect</a>.</p>
-feed_content_checksum: 15de85921a49379f97e86e418573c9b3f5acde44
+  <ol>
+  <li>Visit www.mvp.va.gov and click “Sign in.”</li>
+
+
+
+  <li>Choose a secure VA partner to sign in.</li>
+
+
+
+  <li>Once you are signed in, select “Surveys” and then “Continue.”</li>
+
+
+
+  <li>Click “Toxic Exposures Survey” icon.</li>
+
+
+
+  <li>Click “Start the survey.”</li>
+  </ol>
+feed_content_checksum: c6347d7b3b4da5cc8ef928af4d57ac1c93429d61
 image_checksums: []
 location_titles:
 - King County
@@ -82,49 +102,50 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   !important;\n\t\t\t\t\tbackground-position: 0 0;\n\t\t\t\t\tcolor:rgba(0, 0, 0,
   0);\n\t\t\t\t}\n\t\t\t\t#wpadminbar #wp-admin-bar-wp-logo.hover > .ab-item .ab-icon
   {\n\t\t\t\t\tbackground-position: 0 0;\n\t\t\t\t}\n\t\t\t</style>\n<!-- Search Engine
-  Optimization by Rank Math PRO - https://rankmath.com/ -->\n<title>Emergency care
-  made easy through telehealth - VA News</title>\n<meta name=\"description\" content=\"After
-  an unexpected injury, a Veteran was able to start his recovery quickly with a telehealth
-  visit.\"/>\n<meta name=\"robots\" content=\"follow, index, max-snippet:-1, max-video-preview:-1,
-  max-image-preview:large\"/>\n<link rel=\"canonical\" href=\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/\"
+  Optimization by Rank Math PRO - https://rankmath.com/ -->\n<title>Veterans: Join
+  MVP’s military experiences and exposures survey - VA News</title>\n<meta name=\"description\"
+  content=\"MVP recently launched a survey to learn more about the ways military experiences
+  and toxic exposures affect health. Join MVP and take the survey today.\"/>\n<meta
+  name=\"robots\" content=\"follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large\"/>\n<link
+  rel=\"canonical\" href=\"https://news.va.gov/144249/join-mvps-military-experiences-exposures-survey/\"
   />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\"
-  content=\"article\" />\n<meta property=\"og:title\" content=\"Emergency care made
-  easy through telehealth - VA News\" />\n<meta property=\"og:description\" content=\"After
-  an unexpected injury, a Veteran was able to start his recovery quickly with a telehealth
-  visit.\" />\n<meta property=\"og:url\" content=\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/\"
+  content=\"article\" />\n<meta property=\"og:title\" content=\"Veterans: Join MVP’s
+  military experiences and exposures survey - VA News\" />\n<meta property=\"og:description\"
+  content=\"MVP recently launched a survey to learn more about the ways military experiences
+  and toxic exposures affect health. Join MVP and take the survey today.\" />\n<meta
+  property=\"og:url\" content=\"https://news.va.gov/144249/join-mvps-military-experiences-exposures-survey/\"
   />\n<meta property=\"og:site_name\" content=\"VA News\" />\n<meta property=\"article:tag\"
-  content=\"emergency care\" />\n<meta property=\"article:tag\" content=\"VA Health
-  Connect\" />\n<meta property=\"article:tag\" content=\"VA Telehealth Services\"
-  />\n<meta property=\"article:section\" content=\"Health\" />\n<meta property=\"og:image\"
-  content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"
-  />\n<meta property=\"og:image:secure_url\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"
+  content=\"MIllion Veteran Program\" />\n<meta property=\"article:tag\" content=\"Toxic
+  exposure\" />\n<meta property=\"article:section\" content=\"Health\" />\n<meta property=\"og:image\"
+  content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/MVP-Jan-2026-VA-News-graphic_van1.jpg\"
+  />\n<meta property=\"og:image:secure_url\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/MVP-Jan-2026-VA-News-graphic_van1.jpg\"
   />\n<meta property=\"og:image:width\" content=\"1400\" />\n<meta property=\"og:image:height\"
-  content=\"787\" />\n<meta property=\"og:image:alt\" content=\"A man in an orange
-  safety vest stands confidently beside a large aircraft jet engine on an airport
-  tarmac, conveying a sense of professionalism. He uses V A&#039;s telehealth services.\"
-  />\n<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta property=\"article:published_time\"
-  content=\"2025-12-29T10:30:00-05:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\"
-  />\n<meta name=\"twitter:title\" content=\"Emergency care made easy through telehealth
-  - VA News\" />\n<meta name=\"twitter:description\" content=\"After an unexpected
-  injury, a Veteran was able to start his recovery quickly with a telehealth visit.\"
-  />\n<meta name=\"twitter:image\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"
+  content=\"787\" />\n<meta property=\"og:image:alt\" content=\"Laptop on a blue background
+  with text: &quot;Take MVP’s new Military Experiences and Toxic Exposures Survey.&quot;
+  Includes website, MVP logo, and survey prompt.\" />\n<meta property=\"og:image:type\"
+  content=\"image/jpeg\" />\n<meta property=\"article:published_time\" content=\"2026-01-01T10:30:00-05:00\"
+  />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:title\"
+  content=\"Veterans: Join MVP’s military experiences and exposures survey - VA News\"
+  />\n<meta name=\"twitter:description\" content=\"MVP recently launched a survey
+  to learn more about the ways military experiences and toxic exposures affect health.
+  Join MVP and take the survey today.\" />\n<meta name=\"twitter:image\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/MVP-Jan-2026-VA-News-graphic_van1.jpg\"
   />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n<meta name=\"twitter:data1\"
   content=\"Nikki Verbeck\" />\n<meta name=\"twitter:label2\" content=\"Time to read\"
-  />\n<meta name=\"twitter:data2\" content=\"2 minutes\" />\n<script type=\"application/ld+json\"
+  />\n<meta name=\"twitter:data2\" content=\"1 minute\" />\n<script type=\"application/ld+json\"
   class=\"rank-math-schema-pro\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":[\"GovernmentOrganization\",\"Organization\"],\"@id\":\"https://news.va.gov/#organization\",\"name\":\"US
   Department of Veterans Affairs\",\"url\":\"https://news.va.gov\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://news.va.gov/#logo\",\"url\":\"https://news.va.gov/wp-content/uploads/sites/3/2022/05/va-og-twitter-image.png\",\"contentUrl\":\"https://news.va.gov/wp-content/uploads/sites/3/2022/05/va-og-twitter-image.png\",\"caption\":\"VA
   News\",\"inLanguage\":\"en-US\"}},{\"@type\":\"WebSite\",\"@id\":\"https://news.va.gov/#website\",\"url\":\"https://news.va.gov\",\"name\":\"VA
-  News\",\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\",\"url\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\",\"width\":\"1400\",\"height\":\"787\",\"caption\":\"A
-  man in an orange safety vest stands confidently beside a large aircraft jet engine
-  on an airport tarmac, conveying a sense of professionalism. He uses V A's telehealth
-  services.\",\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#webpage\",\"url\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/\",\"name\":\"Emergency
-  care made easy through telehealth - VA News\",\"datePublished\":\"2025-12-29T10:30:00-05:00\",\"dateModified\":\"2025-12-29T10:30:00-05:00\",\"isPartOf\":{\"@id\":\"https://news.va.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"},\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
+  News\",\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/MVP-Jan-2026-VA-News-graphic_van1.jpg\",\"url\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/MVP-Jan-2026-VA-News-graphic_van1.jpg\",\"width\":\"1400\",\"height\":\"787\",\"caption\":\"Laptop
+  on a blue background with text: \\\"Take MVP\\u2019s new Military Experiences and
+  Toxic Exposures Survey.\\\" Includes website, MVP logo, and survey prompt.\",\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://news.va.gov/144249/join-mvps-military-experiences-exposures-survey/#webpage\",\"url\":\"https://news.va.gov/144249/join-mvps-military-experiences-exposures-survey/\",\"name\":\"Veterans:
+  Join MVP\\u2019s military experiences and exposures survey - VA News\",\"datePublished\":\"2026-01-01T10:30:00-05:00\",\"dateModified\":\"2026-01-01T10:30:00-05:00\",\"isPartOf\":{\"@id\":\"https://news.va.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/MVP-Jan-2026-VA-News-graphic_van1.jpg\"},\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
   Verbeck\",\"url\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://secure.gravatar.com/avatar/c5832bcfd5b050f9e65ef4f0a1f64b45c42d91f61c65e4faa2dfc95d644f7c03?s=96&amp;d=blank&amp;r=g\",\"url\":\"https://secure.gravatar.com/avatar/c5832bcfd5b050f9e65ef4f0a1f64b45c42d91f61c65e4faa2dfc95d644f7c03?s=96&amp;d=blank&amp;r=g\",\"caption\":\"Nikki
-  Verbeck\",\"inLanguage\":\"en-US\"},\"worksFor\":{\"@id\":\"https://news.va.gov/#organization\"}},{\"@type\":\"NewsArticle\",\"headline\":\"Emergency
-  care made easy through telehealth - VA News\",\"keywords\":\"Telehealth\",\"datePublished\":\"2025-12-29T10:30:00-05:00\",\"dateModified\":\"2025-12-29T10:30:00-05:00\",\"articleSection\":\"Health\",\"author\":{\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
-  Verbeck\"},\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"description\":\"After
-  an unexpected injury, a Veteran was able to start his recovery quickly with a telehealth
-  visit.\",\"name\":\"Emergency care made easy through telehealth - VA News\",\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#richSnippet\",\"isPartOf\":{\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#webpage\"},\"image\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"},\"inLanguage\":\"en-US\",\"mainEntityOfPage\":{\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#webpage\"}}]}</script>\n<!--
+  Verbeck\",\"inLanguage\":\"en-US\"},\"worksFor\":{\"@id\":\"https://news.va.gov/#organization\"}},{\"@type\":\"NewsArticle\",\"headline\":\"Veterans:
+  Join MVP\\u2019s military experiences and exposures survey - VA News\",\"keywords\":\"Exposures\",\"datePublished\":\"2026-01-01T10:30:00-05:00\",\"dateModified\":\"2026-01-01T10:30:00-05:00\",\"articleSection\":\"Health\",\"author\":{\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
+  Verbeck\"},\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"description\":\"MVP
+  recently launched a survey to learn more about the ways military experiences and
+  toxic exposures affect health. Join MVP and take the survey today.\",\"name\":\"Veterans:
+  Join MVP\\u2019s military experiences and exposures survey - VA News\",\"@id\":\"https://news.va.gov/144249/join-mvps-military-experiences-exposures-survey/#richSnippet\",\"isPartOf\":{\"@id\":\"https://news.va.gov/144249/join-mvps-military-experiences-exposures-survey/#webpage\"},\"image\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/MVP-Jan-2026-VA-News-graphic_van1.jpg\"},\"inLanguage\":\"en-US\",\"mainEntityOfPage\":{\"@id\":\"https://news.va.gov/144249/join-mvps-military-experiences-exposures-survey/#webpage\"}}]}</script>\n<!--
   /Rank Math WordPress SEO plugin -->\n\n<link rel='dns-prefetch' href='//cdn.parsely.com'
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"VA News &raquo;
   Feed\" href=\"https://news.va.gov/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
@@ -137,11 +158,11 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   type=\"image/png\">\n\t\t\n\t\t\t\t\t<!-- MS Edge Icon -->\n\t\t\t\t\t\t<meta name=\"msapplication-TileImage\"
   content=\"https://news.va.gov/wp-content/uploads/sites/3/2021/07/apple-icon-152x152-1.png\"
   type=\"image/png\">\n\t\t\t\t<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"VA News &raquo; Emergency care made easy through telehealth Comments Feed\"
-  href=\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/feed/\"
+  title=\"VA News &raquo; Veterans: Join MVP’s military experiences and exposures
+  survey Comments Feed\" href=\"https://news.va.gov/144249/join-mvps-military-experiences-exposures-survey/feed/\"
   />\n<link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\"
-  href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144221%2Femergency-care-made-easy-through-telehealth%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144221%2Femergency-care-made-easy-through-telehealth%2F&#038;format=xml\"
+  href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144249%2Fjoin-mvps-military-experiences-exposures-survey%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144249%2Fjoin-mvps-military-experiences-exposures-survey%2F&#038;format=xml\"
   />\n<style id='wp-img-auto-sizes-contain-inline-css'>\nimg:is([sizes=auto i],[sizes^=\"auto,\"
   i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css
   */\n</style>\n<style id='wp-block-library-inline-css'>\n:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media
@@ -166,7 +187,9 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   sourceURL=wp-block-library-inline-css */\n</style><style id='wp-block-heading-inline-css'>\nh1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em
   2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}\n/*#
   sourceURL=https://news.va.gov/wp-includes/blocks/heading/style.min.css */\n</style>\n<style
-  id='wp-block-paragraph-inline-css'>\n.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em
+  id='wp-block-list-inline-css'>\nol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em
+  2.375em}\n/*# sourceURL=https://news.va.gov/wp-includes/blocks/list/style.min.css
+  */\n</style>\n<style id='wp-block-paragraph-inline-css'>\n.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em
   .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n/*#
@@ -224,20 +247,18 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}body
   .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex
   > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*,
-  div){margin: 0;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color:
-  var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white)
-  !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color:
-  var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color:
-  var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vi"
-rss_guid: https://news.va.gov/?p=144221
-slug: emergency-care-made-easy-through-telehealth
-source_url: https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/
+  div){margin: 0;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{co"
+rss_guid: https://news.va.gov/?p=144249
+slug: veterans-join-mvp-s-military-experiences-and-exposures-survey
+source_url: https://news.va.gov/144249/join-mvps-military-experiences-exposures-survey/
 summarized: true
-title: Emergency care made easy through telehealth
+title: 'Veterans: Join MVP’s military experiences and exposures survey'
 topic_titles:
 - Health Care
+- Mental Health & Counseling
+- Disabilities
 ---
 
-Daniel Bryan, an Air Force Veteran, shared his positive experience with tele-emergency care after injuring his knee at the beach. Following a powerful wave that knocked him down, Bryan initially dismissed the pain but woke up the next day with significant inflammation and excruciating pain. Unable to bear weight on his leg, he contacted VA Health Connect for an appointment but found no openings. A nurse suggested he use VA Telehealth Services for immediate care.
+The Million Veteran Program (MVP) has launched the Military Experiences and Toxic Exposures Survey to gather information on how military service and toxic exposures impact health. This initiative is part of VA's largest research effort aimed at understanding health issues relevant to Veterans, including mental health, heart health, cancer, and tinnitus. All Veterans are encouraged to participate in the survey, which includes questions about military service, deployment history, job tasks, exposure to hazardous substances, combat experiences, and lifestyle factors.
 
-Bryan was quickly connected to an emergency care provider via video call, where he could show his knee injury. The provider assessed his condition, advised on pain management, and recommended a brace. Additionally, she scheduled an MRI for the following day, facilitating a faster diagnosis and recovery process. Bryan has since begun physical therapy and credits the tele-emergency care for his progress, stating that it allowed him to avoid worsening his injury by waiting for an in-person visit. He expressed trust in VA doctors and praised the care he received. Veterans can explore tele-emergency care options on the VA website or through VA Health Connect.
+By participating, Veterans can help researchers identify ways to better screen, detect, prevent, and treat health conditions linked to military service. The survey is intended for health research and will not affect participants' disability benefits or access to VA health care. Veterans interested in taking the survey can join MVP by visiting the MVP website and following the provided instructions. Current members of MVP can access the survey by signing in and selecting the survey option.

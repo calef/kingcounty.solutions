@@ -1,9 +1,6 @@
 ---
 date: '2025-12-16T21:16:57+00:00'
 event_ids:
-- 2025-12-29-winter-celebration.md
-- 2025-12-29-board-games.md
-- 2025-12-30-reading-party.md
 - 2025-12-31-craft-events-for-new-year-s-celebrations.md
 events_extracted: true
 feed_content: |-

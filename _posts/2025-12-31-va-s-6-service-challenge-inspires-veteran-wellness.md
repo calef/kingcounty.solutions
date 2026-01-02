@@ -1,74 +1,74 @@
 ---
-date: '2025-12-29T15:30:00+00:00'
+date: '2025-12-31T15:30:00+00:00'
 event_ids: []
 events_extracted: true
 feed_content: |-
-  <h2>How tele-emergency care helped a Veteran on the road to recovery</h2>
+  <h2>Staying healthy and connected with wellness technology</h2>
 
 
 
-  <p>“My telehealth emergency care visit helped me keep my active lifestyle,” said Daniel Bryan, an Air Force Veteran, about his recent experience using tele-emergency care.</p>
+  <p>Veterans are taking charge of their well-being through the Whole Health <a>6-Service Challenge</a>, a special competition that uses VA’s <a>Share My Health Data</a> app to inspire healthy habits, friendly teamwork and real results.</p>
 
 
 
-  <h2>An unexpected injury</h2>
+  <p>The 6-Service Challenge is part of <a>VA Whole Health</a>, a care approach that puts each Veteran at the center of their health journey. Instead of focusing on illness and injuries, Whole Health looks at what matters most to each individual Veteran for their physical, emotional and social well-being. VA Whole Health coaches work with Veterans both virtually and in person to help them make healthy changes, set personal goals and to support their overall wellness.</p>
 
 
 
-  <p>On a sunny day in Orlando, Bryan decided to take his children to the beach to enjoy jumping in the surf. When he tweaked his knee after a particularly powerful wave knocked him down, Bryan thought nothing of it. He went home, took a pain reliever and went to bed.</p>
+  <h2>From local innovation to national model</h2>
 
 
 
-  <p>But the next morning, Bryan could see and feel the inflammation in his knee.</p>
+  <p>The first Whole Health 6-Service Challenge began in 2024 as a fun new way for Veterans at the Cincinnati VA Medical Center to get moving. This year, it grew to include VA medical centers in Cleveland, Ohio; Detroit, Michigan; and Black Hills, South Dakota. More than 236 Veterans from every branch signed up for the 10-week program. They set activity goals, encouraged each other and competed in teams to see which branch could achieve the most movement.</p>
 
 
 
-  <p>“I woke up in excruciating pain,” Bryan said. “I couldn’t even put weight on my leg and knew I needed to see someone right away.”</p>
+  <p>The centerpiece of the Challenge was the Share My Health Data app. Veterans used the app with their fitness devices—including Fitbit, Apple Watch and Garmin—to track steps, distance and calories burned.</p>
 
 
 
-  <h2>Telehealth triage</h2>
+  <p>Over the course of the Challenge, the 236 Veterans achieved remarkable results: They walked 378 million steps, traveled 189,000 miles and burned 94 million calories.</p>
 
 
 
-  <p>As a Veteran who had been using the VA health care system in Orlando for several years, Bryan immediately called <a>VA Health Connect</a> to see if he could be seen at the medical center that day. It had no openings, but the nurse on the line recommended he see an emergency care provider through <a>VA Telehealth Services</a>.</p>
+  <p>“My steps have improved from 600 to 6,000 steps daily… I liked having someone to help maintain accountability,” said one Veteran who participated in the challenge.</p>
 
 
 
-  <p>“The nurse connected me right away,” Bryan said. “It was a seamless process. I was able to get on a video call and show the doctor what was going on.”</p>
+  <h2>Bridging Veterans and care teams with technology</h2>
 
 
 
-  <h2>On-the-spot care</h2>
+  <p>The Share My Health Data app does more than record steps and calories; it brings Veterans, their coaches and their VA physicians together as a team. When Veterans track their physical activity, their health data is shared instantly and securely with their care teams.</p>
 
 
 
-  <p>Bryan was impressed with the care that he received from the emergency care provider.</p>
+  <p>This real-time information makes it easier for health care professionals and coaches to give advice that is meaningful and tailored to each Veteran’s needs and helps them celebrate progress together.</p>
 
 
 
-  <p>“After looking at my knee and asking me to do a couple of movements, she knew exactly what was wrong,” said Bryan. “She told me how much pain medicine to take and what type of brace to get to support my knee.”</p>
+  <p>“My blood pressure and cholesterol are better controlled [after starting the challenge],” said one Veteran.</p>
 
 
 
-  <p>The emergency care provider was able to schedule an MRI appointment for Bryan the next day, speeding up his eventual diagnosis and recovery.</p>
+  <h2>Wellness beyond the numbers</h2>
 
 
 
-  <h2>Quick triage leads to fast recoveries</h2>
+  <p>The 6-Service Challenge offers benefits far beyond exercise alone. Veterans made new friends both in person and online, encouraged each other, and cheered for their branches and teams. Many saw improvements in cholesterol, blood pressure or the amount of medicine they needed, which motivated them to stay active.</p>
 
 
 
-  <p>Bryan has since started physical therapy for his knee and credits the initial tele-emergency care appointment for the progress he’s made.</p>
+  <p>The Challenge also built stronger relationships between Veterans and their Whole Health coaches, creating trust and a sense of pride as Veterans worked toward their goals.</p>
 
 
 
-  <p>“I’m glad I could use tele-emergency care, because if I had walked on it into an urgent care or emergency department, it would have taken longer, and I could have made it worse,” Bryan said. “I trust VA doctors. The atmosphere at the medical centers and online is incredible.”</p>
+  <p>By giving Veterans new tools to track, share and discuss their health, and by building strong connections among Veterans, coaches and VA staff, the Share My Health Data app is helping the Veteran community become healthier—from Ohio and Michigan to South Dakota and beyond.</p>
 
 
 
-  <p>Veterans can review tele-emergency care options on VA.gov’s <a>Tele-Emergency Care page</a> on VA.gov or through <a>VA Health Connect</a>.</p>
-feed_content_checksum: 15de85921a49379f97e86e418573c9b3f5acde44
+  <p>Learn more about the <a>Share My Health Data app</a> on the <a>VA Mobile App Store page</a>.</p>
+feed_content_checksum: c27dab92781dd8cc55169e6ee8714653f9b21daf
 image_checksums: []
 location_titles:
 - King County
@@ -82,49 +82,50 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   !important;\n\t\t\t\t\tbackground-position: 0 0;\n\t\t\t\t\tcolor:rgba(0, 0, 0,
   0);\n\t\t\t\t}\n\t\t\t\t#wpadminbar #wp-admin-bar-wp-logo.hover > .ab-item .ab-icon
   {\n\t\t\t\t\tbackground-position: 0 0;\n\t\t\t\t}\n\t\t\t</style>\n<!-- Search Engine
-  Optimization by Rank Math PRO - https://rankmath.com/ -->\n<title>Emergency care
-  made easy through telehealth - VA News</title>\n<meta name=\"description\" content=\"After
-  an unexpected injury, a Veteran was able to start his recovery quickly with a telehealth
-  visit.\"/>\n<meta name=\"robots\" content=\"follow, index, max-snippet:-1, max-video-preview:-1,
-  max-image-preview:large\"/>\n<link rel=\"canonical\" href=\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/\"
+  Optimization by Rank Math PRO - https://rankmath.com/ -->\n<title>VA’s 6-Service
+  Challenge inspires Veteran wellness - VA News</title>\n<meta name=\"description\"
+  content=\"Discover how Veterans improve wellness and build community through VA’s
+  Whole Health 6-Service Challenge using the Share My Health Data app and wearables.\"/>\n<meta
+  name=\"robots\" content=\"follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large\"/>\n<link
+  rel=\"canonical\" href=\"https://news.va.gov/144245/6-service-challenge-inspires-veteran-wellness/\"
   />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\"
-  content=\"article\" />\n<meta property=\"og:title\" content=\"Emergency care made
-  easy through telehealth - VA News\" />\n<meta property=\"og:description\" content=\"After
-  an unexpected injury, a Veteran was able to start his recovery quickly with a telehealth
-  visit.\" />\n<meta property=\"og:url\" content=\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/\"
+  content=\"article\" />\n<meta property=\"og:title\" content=\"VA’s 6-Service Challenge
+  inspires Veteran wellness - VA News\" />\n<meta property=\"og:description\" content=\"Discover
+  how Veterans improve wellness and build community through VA’s Whole Health 6-Service
+  Challenge using the Share My Health Data app and wearables.\" />\n<meta property=\"og:url\"
+  content=\"https://news.va.gov/144245/6-service-challenge-inspires-veteran-wellness/\"
   />\n<meta property=\"og:site_name\" content=\"VA News\" />\n<meta property=\"article:tag\"
-  content=\"emergency care\" />\n<meta property=\"article:tag\" content=\"VA Health
-  Connect\" />\n<meta property=\"article:tag\" content=\"VA Telehealth Services\"
-  />\n<meta property=\"article:section\" content=\"Health\" />\n<meta property=\"og:image\"
-  content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"
-  />\n<meta property=\"og:image:secure_url\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"
+  content=\"Digital Health Office\" />\n<meta property=\"article:tag\" content=\"wearable
+  technology\" />\n<meta property=\"article:tag\" content=\"wellness\" />\n<meta property=\"article:section\"
+  content=\"Health\" />\n<meta property=\"og:image\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/VAs-6-Service-Challenge-inspires-Veteran-wellness_van1.jpg\"
+  />\n<meta property=\"og:image:secure_url\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/VAs-6-Service-Challenge-inspires-Veteran-wellness_van1.jpg\"
   />\n<meta property=\"og:image:width\" content=\"1400\" />\n<meta property=\"og:image:height\"
-  content=\"787\" />\n<meta property=\"og:image:alt\" content=\"A man in an orange
-  safety vest stands confidently beside a large aircraft jet engine on an airport
-  tarmac, conveying a sense of professionalism. He uses V A&#039;s telehealth services.\"
-  />\n<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta property=\"article:published_time\"
-  content=\"2025-12-29T10:30:00-05:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\"
-  />\n<meta name=\"twitter:title\" content=\"Emergency care made easy through telehealth
-  - VA News\" />\n<meta name=\"twitter:description\" content=\"After an unexpected
-  injury, a Veteran was able to start his recovery quickly with a telehealth visit.\"
-  />\n<meta name=\"twitter:image\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"
+  content=\"787\" />\n<meta property=\"og:image:alt\" content=\"A group of people
+  poses in front of a building, holding signs for Navy, Marine Corps, and Air Force,
+  symbolizing a 6-Service Veteran Challenge. for wellness.\" />\n<meta property=\"og:image:type\"
+  content=\"image/jpeg\" />\n<meta property=\"article:published_time\" content=\"2025-12-31T10:30:00-05:00\"
+  />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:title\"
+  content=\"VA’s 6-Service Challenge inspires Veteran wellness - VA News\" />\n<meta
+  name=\"twitter:description\" content=\"Discover how Veterans improve wellness and
+  build community through VA’s Whole Health 6-Service Challenge using the Share My
+  Health Data app and wearables.\" />\n<meta name=\"twitter:image\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/VAs-6-Service-Challenge-inspires-Veteran-wellness_van1.jpg\"
   />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n<meta name=\"twitter:data1\"
   content=\"Nikki Verbeck\" />\n<meta name=\"twitter:label2\" content=\"Time to read\"
   />\n<meta name=\"twitter:data2\" content=\"2 minutes\" />\n<script type=\"application/ld+json\"
   class=\"rank-math-schema-pro\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":[\"GovernmentOrganization\",\"Organization\"],\"@id\":\"https://news.va.gov/#organization\",\"name\":\"US
   Department of Veterans Affairs\",\"url\":\"https://news.va.gov\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://news.va.gov/#logo\",\"url\":\"https://news.va.gov/wp-content/uploads/sites/3/2022/05/va-og-twitter-image.png\",\"contentUrl\":\"https://news.va.gov/wp-content/uploads/sites/3/2022/05/va-og-twitter-image.png\",\"caption\":\"VA
   News\",\"inLanguage\":\"en-US\"}},{\"@type\":\"WebSite\",\"@id\":\"https://news.va.gov/#website\",\"url\":\"https://news.va.gov\",\"name\":\"VA
-  News\",\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\",\"url\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\",\"width\":\"1400\",\"height\":\"787\",\"caption\":\"A
-  man in an orange safety vest stands confidently beside a large aircraft jet engine
-  on an airport tarmac, conveying a sense of professionalism. He uses V A's telehealth
-  services.\",\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#webpage\",\"url\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/\",\"name\":\"Emergency
-  care made easy through telehealth - VA News\",\"datePublished\":\"2025-12-29T10:30:00-05:00\",\"dateModified\":\"2025-12-29T10:30:00-05:00\",\"isPartOf\":{\"@id\":\"https://news.va.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"},\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
+  News\",\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/VAs-6-Service-Challenge-inspires-Veteran-wellness_van1.jpg\",\"url\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/VAs-6-Service-Challenge-inspires-Veteran-wellness_van1.jpg\",\"width\":\"1400\",\"height\":\"787\",\"caption\":\"A
+  group of people poses in front of a building, holding signs for Navy, Marine Corps,
+  and Air Force, symbolizing a 6-Service Veteran Challenge. for wellness.\",\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://news.va.gov/144245/6-service-challenge-inspires-veteran-wellness/#webpage\",\"url\":\"https://news.va.gov/144245/6-service-challenge-inspires-veteran-wellness/\",\"name\":\"VA\\u2019s
+  6-Service Challenge inspires Veteran wellness - VA News\",\"datePublished\":\"2025-12-31T10:30:00-05:00\",\"dateModified\":\"2025-12-31T10:30:00-05:00\",\"isPartOf\":{\"@id\":\"https://news.va.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/VAs-6-Service-Challenge-inspires-Veteran-wellness_van1.jpg\"},\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
   Verbeck\",\"url\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://secure.gravatar.com/avatar/c5832bcfd5b050f9e65ef4f0a1f64b45c42d91f61c65e4faa2dfc95d644f7c03?s=96&amp;d=blank&amp;r=g\",\"url\":\"https://secure.gravatar.com/avatar/c5832bcfd5b050f9e65ef4f0a1f64b45c42d91f61c65e4faa2dfc95d644f7c03?s=96&amp;d=blank&amp;r=g\",\"caption\":\"Nikki
-  Verbeck\",\"inLanguage\":\"en-US\"},\"worksFor\":{\"@id\":\"https://news.va.gov/#organization\"}},{\"@type\":\"NewsArticle\",\"headline\":\"Emergency
-  care made easy through telehealth - VA News\",\"keywords\":\"Telehealth\",\"datePublished\":\"2025-12-29T10:30:00-05:00\",\"dateModified\":\"2025-12-29T10:30:00-05:00\",\"articleSection\":\"Health\",\"author\":{\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
-  Verbeck\"},\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"description\":\"After
-  an unexpected injury, a Veteran was able to start his recovery quickly with a telehealth
-  visit.\",\"name\":\"Emergency care made easy through telehealth - VA News\",\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#richSnippet\",\"isPartOf\":{\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#webpage\"},\"image\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"},\"inLanguage\":\"en-US\",\"mainEntityOfPage\":{\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#webpage\"}}]}</script>\n<!--
+  Verbeck\",\"inLanguage\":\"en-US\"},\"worksFor\":{\"@id\":\"https://news.va.gov/#organization\"}},{\"@type\":\"NewsArticle\",\"headline\":\"VA\\u2019s
+  6-Service Challenge inspires Veteran wellness - VA News\",\"keywords\":\"Wellness\",\"datePublished\":\"2025-12-31T10:30:00-05:00\",\"dateModified\":\"2025-12-31T10:30:00-05:00\",\"articleSection\":\"Health\",\"author\":{\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
+  Verbeck\"},\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"description\":\"Discover
+  how Veterans improve wellness and build community through VA\\u2019s Whole Health
+  6-Service Challenge using the Share My Health Data app and wearables.\",\"name\":\"VA\\u2019s
+  6-Service Challenge inspires Veteran wellness - VA News\",\"@id\":\"https://news.va.gov/144245/6-service-challenge-inspires-veteran-wellness/#richSnippet\",\"isPartOf\":{\"@id\":\"https://news.va.gov/144245/6-service-challenge-inspires-veteran-wellness/#webpage\"},\"image\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/VAs-6-Service-Challenge-inspires-Veteran-wellness_van1.jpg\"},\"inLanguage\":\"en-US\",\"mainEntityOfPage\":{\"@id\":\"https://news.va.gov/144245/6-service-challenge-inspires-veteran-wellness/#webpage\"}}]}</script>\n<!--
   /Rank Math WordPress SEO plugin -->\n\n<link rel='dns-prefetch' href='//cdn.parsely.com'
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"VA News &raquo;
   Feed\" href=\"https://news.va.gov/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
@@ -137,11 +138,11 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   type=\"image/png\">\n\t\t\n\t\t\t\t\t<!-- MS Edge Icon -->\n\t\t\t\t\t\t<meta name=\"msapplication-TileImage\"
   content=\"https://news.va.gov/wp-content/uploads/sites/3/2021/07/apple-icon-152x152-1.png\"
   type=\"image/png\">\n\t\t\t\t<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"VA News &raquo; Emergency care made easy through telehealth Comments Feed\"
-  href=\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/feed/\"
+  title=\"VA News &raquo; VA’s 6-Service Challenge inspires Veteran wellness Comments
+  Feed\" href=\"https://news.va.gov/144245/6-service-challenge-inspires-veteran-wellness/feed/\"
   />\n<link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\"
-  href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144221%2Femergency-care-made-easy-through-telehealth%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144221%2Femergency-care-made-easy-through-telehealth%2F&#038;format=xml\"
+  href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144245%2F6-service-challenge-inspires-veteran-wellness%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144245%2F6-service-challenge-inspires-veteran-wellness%2F&#038;format=xml\"
   />\n<style id='wp-img-auto-sizes-contain-inline-css'>\nimg:is([sizes=auto i],[sizes^=\"auto,\"
   i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css
   */\n</style>\n<style id='wp-block-library-inline-css'>\n:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media
@@ -225,19 +226,18 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex
   > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*,
   div){margin: 0;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color:
-  var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white)
-  !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color:
-  var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color:
-  var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vi"
-rss_guid: https://news.va.gov/?p=144221
-slug: emergency-care-made-easy-through-telehealth
-source_url: https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/
+  var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--"
+rss_guid: https://news.va.gov/?p=144245
+slug: va-s-6-service-challenge-inspires-veteran-wellness
+source_url: https://news.va.gov/144245/6-service-challenge-inspires-veteran-wellness/
 summarized: true
-title: Emergency care made easy through telehealth
+title: VA’s 6-Service Challenge inspires Veteran wellness
 topic_titles:
 - Health Care
 ---
 
-Daniel Bryan, an Air Force Veteran, shared his positive experience with tele-emergency care after injuring his knee at the beach. Following a powerful wave that knocked him down, Bryan initially dismissed the pain but woke up the next day with significant inflammation and excruciating pain. Unable to bear weight on his leg, he contacted VA Health Connect for an appointment but found no openings. A nurse suggested he use VA Telehealth Services for immediate care.
+Veterans are enhancing their well-being through the Whole Health 6-Service Challenge, a competition utilizing the VA’s Share My Health Data app to promote healthy habits and teamwork. The challenge, part of VA Whole Health, focuses on individual wellness rather than just illness. It began in 2024 at the Cincinnati VA Medical Center and has expanded to include facilities in Cleveland, Detroit, and Black Hills, with over 236 Veterans participating.
 
-Bryan was quickly connected to an emergency care provider via video call, where he could show his knee injury. The provider assessed his condition, advised on pain management, and recommended a brace. Additionally, she scheduled an MRI for the following day, facilitating a faster diagnosis and recovery process. Bryan has since begun physical therapy and credits the tele-emergency care for his progress, stating that it allowed him to avoid worsening his injury by waiting for an in-person visit. He expressed trust in VA doctors and praised the care he received. Veterans can explore tele-emergency care options on the VA website or through VA Health Connect.
+During the 10-week program, participants set activity goals and supported each other while competing for movement achievements. They collectively walked 378 million steps, traveled 189,000 miles, and burned 94 million calories. The Share My Health Data app plays a crucial role by allowing Veterans to track their fitness alongside their coaches and physicians, fostering real-time communication and personalized health advice.
+
+Beyond physical activity, the challenge has helped Veterans build friendships and improve their health metrics, such as blood pressure and cholesterol. It also strengthened connections between Veterans and their Whole Health coaches, fostering trust and motivation as they worked toward their health goals. The initiative highlights the positive impact of technology on Veteran wellness across multiple states.
