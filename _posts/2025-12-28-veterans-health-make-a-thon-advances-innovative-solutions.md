@@ -1,7 +1,6 @@
 ---
 date: '2025-12-28T21:30:00+00:00'
-event_ids:
-- 2025-12-28-2025-veterans-health-make-a-thon.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Driving innovation, improving Veteran care</h2>
