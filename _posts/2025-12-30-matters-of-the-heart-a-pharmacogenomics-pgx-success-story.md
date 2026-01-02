@@ -1,74 +1,88 @@
 ---
-date: '2025-12-29T15:30:00+00:00'
+date: '2025-12-30T15:30:00+00:00'
 event_ids: []
 events_extracted: true
 feed_content: |-
-  <h2>How tele-emergency care helped a Veteran on the road to recovery</h2>
+  <h2>A Veteran’s journey to better health with personalized medicine and pharmacogenomics </h2>
 
 
 
-  <p>“My telehealth emergency care visit helped me keep my active lifestyle,” said Daniel Bryan, an Air Force Veteran, about his recent experience using tele-emergency care.</p>
+  <p>For years, Army Veteran Dariton Robinson had a big problem: high cholesterol.</p>
 
 
 
-  <h2>An unexpected injury</h2>
+  <p>He tried everything his doctors suggested. He took different pills—like pravastatin, atorvastatin and rosuvastatin—but each one came with frustrating side effects. He experienced muscle pain and a fluttering heartbeat.</p>
 
 
 
-  <p>On a sunny day in Orlando, Bryan decided to take his children to the beach to enjoy jumping in the surf. When he tweaked his knee after a particularly powerful wave knocked him down, Bryan thought nothing of it. He went home, took a pain reliever and went to bed.</p>
+  <p>“Nothing ever seemed to work right,” he recalled. “I was starting to think maybe this was just how it had to be.”</p>
 
 
 
-  <p>But the next morning, Bryan could see and feel the inflammation in his knee.</p>
+  <p>But his luck changed when he met Dr. Paula Newberry, a specialist and Clinical Pharmacy Practitioner (CPP). Clinical Pharmacy Practitioners are health care professionals who provide direct patient care, medication therapy management and patient counseling. They work closely with patients to optimize medication therapy.</p>
 
 
 
-  <p>“I woke up in excruciating pain,” Bryan said. “I couldn’t even put weight on my leg and knew I needed to see someone right away.”</p>
+  <h2>The power of personalized medicine</h2>
 
 
 
-  <h2>Telehealth triage</h2>
+  <p>In VA health care, an exciting change is happening: a shift to personalized medicine. This means providers now have a tool they can use to better tailor medications for patients.</p>
 
 
 
-  <p>As a Veteran who had been using the VA health care system in Orlando for several years, Bryan immediately called <a>VA Health Connect</a> to see if he could be seen at the medical center that day. It had no openings, but the nurse on the line recommended he see an emergency care provider through <a>VA Telehealth Services</a>.</p>
+  <p>Dr. Newberry introduced Robinson to a powerful, cutting-edge tool: <a>Pharmacogenomics (PGx) testing</a>.</p>
 
 
 
-  <p>“The nurse connected me right away,” Bryan said. “It was a seamless process. I was able to get on a video call and show the doctor what was going on.”</p>
+  <ul>
+  <li>What is PGx? It’s a special test that analyzes how a person’s genes affect the way their body processes medications. Think of it as a roadmap that shows which drugs will work best and which ones might cause bad side effects.</li>
 
 
 
-  <h2>On-the-spot care</h2>
+  <li>Dr. Newberry recently completed VA training on adding PGx testing to her practice. She was eager to use her new skill to help the Veteran.</li>
 
 
 
-  <p>Bryan was impressed with the care that he received from the emergency care provider.</p>
+  <li>“She explained that this test could help us understand how my body reacts to statins,” Robinson said. “It wasn’t just trial and error anymore. The plan would be more personalized to me.”</li>
+  </ul>
 
 
 
-  <p>“After looking at my knee and asking me to do a couple of movements, she knew exactly what was wrong,” said Bryan. “She told me how much pain medicine to take and what type of brace to get to support my knee.”</p>
+  <h2>A tailored success story</h2>
 
 
 
-  <p>The emergency care provider was able to schedule an MRI appointment for Bryan the next day, speeding up his eventual diagnosis and recovery.</p>
+  <p>The test results were a game-changer.</p>
 
 
 
-  <h2>Quick triage leads to fast recoveries</h2>
+  <p>With the new genetic information, Dr. Newberry was able to carefully adjust his treatment plan, choosing a regimen that was personalized to how his body metabolizes medications.</p>
 
 
 
-  <p>Bryan has since started physical therapy for his knee and credits the initial tele-emergency care appointment for the progress he’s made.</p>
+  <p>Robinson is now doing well. His cholesterol numbers have never been better, and he feels great.</p>
 
 
 
-  <p>“I’m glad I could use tele-emergency care, because if I had walked on it into an urgent care or emergency department, it would have taken longer, and I could have made it worse,” Bryan said. “I trust VA doctors. The atmosphere at the medical centers and online is incredible.”</p>
+  <p>“I finally feel like we’re on the right track,” he shared. “My cholesterol levels have improved, and I am within my goal.”</p>
 
 
 
-  <p>Veterans can review tele-emergency care options on VA.gov’s <a>Tele-Emergency Care page</a> on VA.gov or through <a>VA Health Connect</a>.</p>
-feed_content_checksum: 15de85921a49379f97e86e418573c9b3f5acde44
+  <p>This Veteran’s success story shows how dedicated VA is to delivering precision health care. By using pharmacogenomics, VA health care providers are tailoring treatments to each Veteran’s unique genetic makeup, reducing adverse drug reactions and improving outcomes.</p>
+
+
+
+  <p>Because when it comes to your health, personalized care isn’t just better—it’s the care you deserve.</p>
+
+
+
+  <p>Note: Managing chronic conditions like diabetes, high blood pressure or high cholesterol can feel overwhelming, but you don’t have to do it alone. Ask your primary care team how you can partner with a clinical pharmacy practitioner on your journey to take charge of your health.</p>
+
+
+
+  <p>Your health is a team effort and you’re the most important member of the team.</p>
+feed_content_checksum: 7b40d21fff6095266097ad7ee1c36bdf1d8bd105
 image_checksums: []
 location_titles:
 - King County
@@ -82,49 +96,50 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   !important;\n\t\t\t\t\tbackground-position: 0 0;\n\t\t\t\t\tcolor:rgba(0, 0, 0,
   0);\n\t\t\t\t}\n\t\t\t\t#wpadminbar #wp-admin-bar-wp-logo.hover > .ab-item .ab-icon
   {\n\t\t\t\t\tbackground-position: 0 0;\n\t\t\t\t}\n\t\t\t</style>\n<!-- Search Engine
-  Optimization by Rank Math PRO - https://rankmath.com/ -->\n<title>Emergency care
-  made easy through telehealth - VA News</title>\n<meta name=\"description\" content=\"After
-  an unexpected injury, a Veteran was able to start his recovery quickly with a telehealth
-  visit.\"/>\n<meta name=\"robots\" content=\"follow, index, max-snippet:-1, max-video-preview:-1,
-  max-image-preview:large\"/>\n<link rel=\"canonical\" href=\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/\"
+  Optimization by Rank Math PRO - https://rankmath.com/ -->\n<title>Matters of the
+  heart: A pharmacogenomics (PGx) success story - VA News</title>\n<meta name=\"description\"
+  content=\"Discover how personalized medicine and pharmacogenomics testing helped
+  Army Veteran Dariton Robinson manage his high cholesterol with fewer side effects.\"/>\n<meta
+  name=\"robots\" content=\"follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large\"/>\n<link
+  rel=\"canonical\" href=\"https://news.va.gov/144240/matters-of-heart-pharmacogenomics-pgx-success/\"
   />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\"
-  content=\"article\" />\n<meta property=\"og:title\" content=\"Emergency care made
-  easy through telehealth - VA News\" />\n<meta property=\"og:description\" content=\"After
-  an unexpected injury, a Veteran was able to start his recovery quickly with a telehealth
-  visit.\" />\n<meta property=\"og:url\" content=\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/\"
+  content=\"article\" />\n<meta property=\"og:title\" content=\"Matters of the heart:
+  A pharmacogenomics (PGx) success story - VA News\" />\n<meta property=\"og:description\"
+  content=\"Discover how personalized medicine and pharmacogenomics testing helped
+  Army Veteran Dariton Robinson manage his high cholesterol with fewer side effects.\"
+  />\n<meta property=\"og:url\" content=\"https://news.va.gov/144240/matters-of-heart-pharmacogenomics-pgx-success/\"
   />\n<meta property=\"og:site_name\" content=\"VA News\" />\n<meta property=\"article:tag\"
-  content=\"emergency care\" />\n<meta property=\"article:tag\" content=\"VA Health
-  Connect\" />\n<meta property=\"article:tag\" content=\"VA Telehealth Services\"
-  />\n<meta property=\"article:section\" content=\"Health\" />\n<meta property=\"og:image\"
-  content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"
-  />\n<meta property=\"og:image:secure_url\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"
+  content=\"Cholesterol\" />\n<meta property=\"article:tag\" content=\"Pharmacogenomics\"
+  />\n<meta property=\"article:tag\" content=\"VISN 16\" />\n<meta property=\"article:section\"
+  content=\"Health\" />\n<meta property=\"og:image\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/PGx_Veteran_H_van1.jpg\"
+  />\n<meta property=\"og:image:secure_url\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/PGx_Veteran_H_van1.jpg\"
   />\n<meta property=\"og:image:width\" content=\"1400\" />\n<meta property=\"og:image:height\"
-  content=\"787\" />\n<meta property=\"og:image:alt\" content=\"A man in an orange
-  safety vest stands confidently beside a large aircraft jet engine on an airport
-  tarmac, conveying a sense of professionalism. He uses V A&#039;s telehealth services.\"
-  />\n<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta property=\"article:published_time\"
-  content=\"2025-12-29T10:30:00-05:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\"
-  />\n<meta name=\"twitter:title\" content=\"Emergency care made easy through telehealth
-  - VA News\" />\n<meta name=\"twitter:description\" content=\"After an unexpected
-  injury, a Veteran was able to start his recovery quickly with a telehealth visit.\"
-  />\n<meta name=\"twitter:image\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"
+  content=\"787\" />\n<meta property=\"og:image:alt\" content=\"A man wearing a dark
+  striped shirt stands in front of a blurred landscape painting. Pharmacogenomics
+  testing helped him manage his high cholesterol.\" />\n<meta property=\"og:image:type\"
+  content=\"image/jpeg\" />\n<meta property=\"article:published_time\" content=\"2025-12-30T10:30:00-05:00\"
+  />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:title\"
+  content=\"Matters of the heart: A pharmacogenomics (PGx) success story - VA News\"
+  />\n<meta name=\"twitter:description\" content=\"Discover how personalized medicine
+  and pharmacogenomics testing helped Army Veteran Dariton Robinson manage his high
+  cholesterol with fewer side effects.\" />\n<meta name=\"twitter:image\" content=\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/PGx_Veteran_H_van1.jpg\"
   />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n<meta name=\"twitter:data1\"
   content=\"Nikki Verbeck\" />\n<meta name=\"twitter:label2\" content=\"Time to read\"
   />\n<meta name=\"twitter:data2\" content=\"2 minutes\" />\n<script type=\"application/ld+json\"
   class=\"rank-math-schema-pro\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":[\"GovernmentOrganization\",\"Organization\"],\"@id\":\"https://news.va.gov/#organization\",\"name\":\"US
   Department of Veterans Affairs\",\"url\":\"https://news.va.gov\",\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://news.va.gov/#logo\",\"url\":\"https://news.va.gov/wp-content/uploads/sites/3/2022/05/va-og-twitter-image.png\",\"contentUrl\":\"https://news.va.gov/wp-content/uploads/sites/3/2022/05/va-og-twitter-image.png\",\"caption\":\"VA
   News\",\"inLanguage\":\"en-US\"}},{\"@type\":\"WebSite\",\"@id\":\"https://news.va.gov/#website\",\"url\":\"https://news.va.gov\",\"name\":\"VA
-  News\",\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\",\"url\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\",\"width\":\"1400\",\"height\":\"787\",\"caption\":\"A
-  man in an orange safety vest stands confidently beside a large aircraft jet engine
-  on an airport tarmac, conveying a sense of professionalism. He uses V A's telehealth
-  services.\",\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#webpage\",\"url\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/\",\"name\":\"Emergency
-  care made easy through telehealth - VA News\",\"datePublished\":\"2025-12-29T10:30:00-05:00\",\"dateModified\":\"2025-12-29T10:30:00-05:00\",\"isPartOf\":{\"@id\":\"https://news.va.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"},\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
+  News\",\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/PGx_Veteran_H_van1.jpg\",\"url\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/PGx_Veteran_H_van1.jpg\",\"width\":\"1400\",\"height\":\"787\",\"caption\":\"A
+  man wearing a dark striped shirt stands in front of a blurred landscape painting.
+  Pharmacogenomics testing helped him manage his high cholesterol.\",\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://news.va.gov/144240/matters-of-heart-pharmacogenomics-pgx-success/#webpage\",\"url\":\"https://news.va.gov/144240/matters-of-heart-pharmacogenomics-pgx-success/\",\"name\":\"Matters
+  of the heart: A pharmacogenomics (PGx) success story - VA News\",\"datePublished\":\"2025-12-30T10:30:00-05:00\",\"dateModified\":\"2025-12-30T10:30:00-05:00\",\"isPartOf\":{\"@id\":\"https://news.va.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/PGx_Veteran_H_van1.jpg\"},\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
   Verbeck\",\"url\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://secure.gravatar.com/avatar/c5832bcfd5b050f9e65ef4f0a1f64b45c42d91f61c65e4faa2dfc95d644f7c03?s=96&amp;d=blank&amp;r=g\",\"url\":\"https://secure.gravatar.com/avatar/c5832bcfd5b050f9e65ef4f0a1f64b45c42d91f61c65e4faa2dfc95d644f7c03?s=96&amp;d=blank&amp;r=g\",\"caption\":\"Nikki
-  Verbeck\",\"inLanguage\":\"en-US\"},\"worksFor\":{\"@id\":\"https://news.va.gov/#organization\"}},{\"@type\":\"NewsArticle\",\"headline\":\"Emergency
-  care made easy through telehealth - VA News\",\"keywords\":\"Telehealth\",\"datePublished\":\"2025-12-29T10:30:00-05:00\",\"dateModified\":\"2025-12-29T10:30:00-05:00\",\"articleSection\":\"Health\",\"author\":{\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
-  Verbeck\"},\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"description\":\"After
-  an unexpected injury, a Veteran was able to start his recovery quickly with a telehealth
-  visit.\",\"name\":\"Emergency care made easy through telehealth - VA News\",\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#richSnippet\",\"isPartOf\":{\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#webpage\"},\"image\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/Emergency-care-made-easy-through-telehealth_van1.jpg\"},\"inLanguage\":\"en-US\",\"mainEntityOfPage\":{\"@id\":\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/#webpage\"}}]}</script>\n<!--
+  Verbeck\",\"inLanguage\":\"en-US\"},\"worksFor\":{\"@id\":\"https://news.va.gov/#organization\"}},{\"@type\":\"NewsArticle\",\"headline\":\"Matters
+  of the heart: A pharmacogenomics (PGx) success story - VA News\",\"keywords\":\"pharmacogenomics\",\"datePublished\":\"2025-12-30T10:30:00-05:00\",\"dateModified\":\"2025-12-30T10:30:00-05:00\",\"articleSection\":\"Health\",\"author\":{\"@id\":\"https://news.va.gov/author/f85cecaca145b1a5/\",\"name\":\"Nikki
+  Verbeck\"},\"publisher\":{\"@id\":\"https://news.va.gov/#organization\"},\"description\":\"Discover
+  how personalized medicine and pharmacogenomics testing helped Army Veteran Dariton
+  Robinson manage his high cholesterol with fewer side effects.\",\"name\":\"Matters
+  of the heart: A pharmacogenomics (PGx) success story - VA News\",\"@id\":\"https://news.va.gov/144240/matters-of-heart-pharmacogenomics-pgx-success/#richSnippet\",\"isPartOf\":{\"@id\":\"https://news.va.gov/144240/matters-of-heart-pharmacogenomics-pgx-success/#webpage\"},\"image\":{\"@id\":\"https://news.va.gov/wp-content/uploads/sites/3/2025/12/PGx_Veteran_H_van1.jpg\"},\"inLanguage\":\"en-US\",\"mainEntityOfPage\":{\"@id\":\"https://news.va.gov/144240/matters-of-heart-pharmacogenomics-pgx-success/#webpage\"}}]}</script>\n<!--
   /Rank Math WordPress SEO plugin -->\n\n<link rel='dns-prefetch' href='//cdn.parsely.com'
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"VA News &raquo;
   Feed\" href=\"https://news.va.gov/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
@@ -137,11 +152,11 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   type=\"image/png\">\n\t\t\n\t\t\t\t\t<!-- MS Edge Icon -->\n\t\t\t\t\t\t<meta name=\"msapplication-TileImage\"
   content=\"https://news.va.gov/wp-content/uploads/sites/3/2021/07/apple-icon-152x152-1.png\"
   type=\"image/png\">\n\t\t\t\t<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"VA News &raquo; Emergency care made easy through telehealth Comments Feed\"
-  href=\"https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/feed/\"
+  title=\"VA News &raquo; Matters of the heart: A pharmacogenomics (PGx) success story
+  Comments Feed\" href=\"https://news.va.gov/144240/matters-of-heart-pharmacogenomics-pgx-success/feed/\"
   />\n<link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\"
-  href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144221%2Femergency-care-made-easy-through-telehealth%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144221%2Femergency-care-made-easy-through-telehealth%2F&#038;format=xml\"
+  href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144240%2Fmatters-of-heart-pharmacogenomics-pgx-success%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://news.va.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.va.gov%2F144240%2Fmatters-of-heart-pharmacogenomics-pgx-success%2F&#038;format=xml\"
   />\n<style id='wp-img-auto-sizes-contain-inline-css'>\nimg:is([sizes=auto i],[sizes^=\"auto,\"
   i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css
   */\n</style>\n<style id='wp-block-library-inline-css'>\n:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media
@@ -166,7 +181,9 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   sourceURL=wp-block-library-inline-css */\n</style><style id='wp-block-heading-inline-css'>\nh1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em
   2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}\n/*#
   sourceURL=https://news.va.gov/wp-includes/blocks/heading/style.min.css */\n</style>\n<style
-  id='wp-block-paragraph-inline-css'>\n.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em
+  id='wp-block-list-inline-css'>\nol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em
+  2.375em}\n/*# sourceURL=https://news.va.gov/wp-includes/blocks/list/style.min.css
+  */\n</style>\n<style id='wp-block-paragraph-inline-css'>\n.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em
   .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n/*#
@@ -226,18 +243,18 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*,
   div){margin: 0;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color:
   var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white)
-  !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color:
-  var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color:
-  var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vi"
-rss_guid: https://news.va.gov/?p=144221
-slug: emergency-care-made-easy-through-telehealth
-source_url: https://news.va.gov/144221/emergency-care-made-easy-through-telehealth/
+  !impo"
+rss_guid: https://news.va.gov/?p=144240
+slug: matters-of-the-heart-a-pharmacogenomics-pgx-success-story
+source_url: https://news.va.gov/144240/matters-of-heart-pharmacogenomics-pgx-success/
 summarized: true
-title: Emergency care made easy through telehealth
+title: 'Matters of the heart: A pharmacogenomics (PGx) success story'
 topic_titles:
 - Health Care
 ---
 
-Daniel Bryan, an Air Force Veteran, shared his positive experience with tele-emergency care after injuring his knee at the beach. Following a powerful wave that knocked him down, Bryan initially dismissed the pain but woke up the next day with significant inflammation and excruciating pain. Unable to bear weight on his leg, he contacted VA Health Connect for an appointment but found no openings. A nurse suggested he use VA Telehealth Services for immediate care.
+Army Veteran Dariton Robinson struggled with high cholesterol for years, experiencing side effects from various medications like pravastatin and atorvastatin. His situation improved after meeting Dr. Paula Newberry, a Clinical Pharmacy Practitioner at the VA. She introduced Robinson to pharmacogenomics (PGx) testing, which analyzes how genes affect medication processing. This personalized approach allows healthcare providers to create tailored treatment plans rather than relying on trial and error.
 
-Bryan was quickly connected to an emergency care provider via video call, where he could show his knee injury. The provider assessed his condition, advised on pain management, and recommended a brace. Additionally, she scheduled an MRI for the following day, facilitating a faster diagnosis and recovery process. Bryan has since begun physical therapy and credits the tele-emergency care for his progress, stating that it allowed him to avoid worsening his injury by waiting for an in-person visit. He expressed trust in VA doctors and praised the care he received. Veterans can explore tele-emergency care options on the VA website or through VA Health Connect.
+After Dr. Newberry completed her training on PGx testing, she used the results to adjust Robinson’s medication regimen based on his genetic makeup. This led to significant improvements in his health, with better cholesterol levels and an overall sense of well-being. Robinson expressed his satisfaction, stating, “I finally feel like we’re on the right track.”
+
+This case highlights the VA's commitment to precision health care, utilizing pharmacogenomics to enhance treatment outcomes and reduce adverse drug reactions. Veterans are encouraged to collaborate with their primary care teams and clinical pharmacy practitioners to manage chronic conditions effectively. Personalized care is essential to achieving optimal health outcomes.

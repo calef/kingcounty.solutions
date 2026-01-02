@@ -1,7 +1,6 @@
 ---
 date: '2025-12-27T01:17:55+00:00'
-event_ids:
-- 2025-12-27-metro-service-impacts.md
+event_ids: []
 events_extracted: true
 feed_content: 'Weekend Service Impacts Routes 101, 150, ST 545, ST 550, and ST 554
   will have stop #620 (4th Avenue S &amp; S Jackson Street, Northbound) closed on
