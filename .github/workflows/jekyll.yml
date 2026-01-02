@@ -33,7 +33,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.4.7'   # or whatever version you prefer
+          ruby-version: .ruby-version
           bundler-cache: true     # caches gems between runs
 
       - name: Install dependencies
