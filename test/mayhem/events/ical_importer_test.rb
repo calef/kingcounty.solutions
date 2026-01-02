@@ -110,9 +110,6 @@ class IcalImporterTest < Minitest::Test
     @org_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :organizations)
     @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
     @org_repo = Mayhem::Models::Organization.repo
-    @events_repo = Mayhem::Models::Event.repo
-    @org_dir = Mayhem::Models::Organization.collection_dir
-    @events_dir = Mayhem::Models::Event.collection_dir
 
     Mayhem::Models::Organization.create!(
       {
@@ -139,24 +136,22 @@ class IcalImporterTest < Minitest::Test
 
   def test_imports_single_event
     @importer.run
-    files = Dir.glob(File.join(@events_dir, '*.md'))
-    assert_equal 1, files.count
+    events = Mayhem::Models::Event.all.to_a
+    assert_equal 1, events.count
+    event = events.first
 
-    assert_equal '2024-02-12-test-event.md', File.basename(files.first)
-
-    content = File.read(files.first)
-
-    assert_includes content, 'title: Test Event'
-    assert_includes content, 'organization_title: Test Organization'
-    assert_includes content, "start_date: '2024-02-12T18:00:00+00:00'"
-    assert_includes content, "end_date: '2024-02-12T20:00:00+00:00'"
-    assert_includes content, 'location: Community Hall'
-    assert_includes content, 'source_url: https://example.org/events/test'
-    assert_includes content, 'feed_content: "<p>Article body</p>"'
-    assert_includes content, 'feed_content_checksum:'
-    refute_includes content, 'original_content:'
-    refute_includes content, '<script'
-    assert_includes content, 'Article body'
+    assert_equal '_events/2024-02-12-test-event.md', event.id
+    assert_equal 'Test Event', event.title
+    assert_equal 'Test Organization', event.organization_title
+    assert_equal '2024-02-12T18:00:00+00:00', event.start_date
+    assert_equal '2024-02-12T20:00:00+00:00', event.end_date
+    assert_equal 'Community Hall', event.location
+    assert_equal 'https://example.org/events/test', event.source_url
+    assert_equal '<p>Article body</p>', event.feed_content
+    refute_includes event.feed_content, '<script'
+    assert_includes event.feed_content, 'Article body'
+    assert event.feed_content_checksum
+    assert_nil event.original_source_html
   end
 
   def test_respects_locked_flag
@@ -174,14 +169,10 @@ class IcalImporterTest < Minitest::Test
       },
       body: 'Locked body'
     )
-    locked_path = locked_record.path.to_s
-
-    frozen_content = File.read(locked_path)
+    locked_body = locked_record.body.dup
     @importer.run
-
-    files = Dir.glob(File.join(@events_dir, '*.md'))
-    assert_equal 1, files.count
-    assert_equal frozen_content, File.read(locked_path)
+    assert_equal 1, Mayhem::Models::Event.all.count
+    assert_equal locked_body.strip, Mayhem::Models::Event.find(locked_record.id).body.strip
   end
 
   def test_uses_canonical_source_url
@@ -200,11 +191,9 @@ class IcalImporterTest < Minitest::Test
     )
 
     @importer.run
-    files = Dir.glob(File.join(@events_dir, '*.md'))
-    assert_equal 1, files.count
-
-    content = File.read(files.first)
-    assert_includes content, "source_url: #{canonical}"
+    events = Mayhem::Models::Event.all.to_a
+    assert_equal 1, events.count
+    assert_equal canonical, events.first.source_url
   end
 
   def test_skips_past_events
@@ -219,12 +208,10 @@ class IcalImporterTest < Minitest::Test
     )
 
     @importer.run
-    files = Dir.glob(File.join(@events_dir, '*.md'))
-    assert_equal 1, files.count
-
-    content = File.read(files.first)
-    assert_includes content, 'title: Future Event'
-    refute_includes content, 'title: Old Event'
+    titles = Mayhem::Models::Event.all.map(&:title)
+    assert_equal 1, titles.count
+    assert_includes titles, 'Future Event'
+    refute_includes titles, 'Old Event'
   end
 
   def test_skips_duplicate_when_canonical_exists
@@ -237,8 +224,6 @@ class IcalImporterTest < Minitest::Test
       },
       body: 'Existing body'
     )
-    existing_path = existing_record.path.to_s
-
     @http = StubHttpClient.new(
       'https://example.org/events.ics' => { body: ICS_BODY, content_type: 'text/calendar' },
       'https://example.org/events/test' => {
@@ -253,8 +238,9 @@ class IcalImporterTest < Minitest::Test
     )
 
     @importer.run
-    files = Dir.glob(File.join(@events_dir, '*.md')).sort
-    assert_equal [existing_path], files
+    events = Mayhem::Models::Event.all.to_a
+    assert_equal 1, events.count
+    assert_equal existing_record.id, events.first.id
   end
 
   def test_ignores_far_future_events
@@ -269,11 +255,9 @@ class IcalImporterTest < Minitest::Test
     )
 
     @importer.run
-    files = Dir.glob(File.join(@events_dir, '*.md'))
-    assert_equal 1, files.count
-
-    content = File.read(files.first)
-    assert_includes content, 'title: Near Future Event'
-    refute_includes content, 'title: Too Far Event'
+    titles = Mayhem::Models::Event.all.map(&:title)
+    assert_equal 1, titles.count
+    assert_includes titles, 'Near Future Event'
+    refute_includes titles, 'Too Far Event'
   end
 end
