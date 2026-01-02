@@ -29,13 +29,6 @@ The `bin/mayhem` script consolidates content management functionality. Run `bin/
 - `bin/mayhem summarize` – Generates AI summaries for posts and events.
 - `bin/mayhem tidy` – Normalizes Markdown front matter formatting.
 
-## Chio commands
-
-Website archive scraping and refresh workflows moved to the dedicated `chio` CLI.
-
-- `bin/chio create-website` — Scrapes a homepage to create a `_websites` entry, discovering feeds/sitemaps.
-- `bin/chio refresh-websites` — Fetches robots.txt and sitemap data for every archived website and stores the results under `_robots_txts`, `_sitemap_indexes`, `_url_sets`, and `_xml_sitemaps`. Use this when you want to rebuild the sitemap archives.
-
 ## Freezing files during automation
 
 Set `locked: true` in a post or event's front matter to freeze it in place. Importers, summarizers, and the image extractor all detect this flag and skip the entry so curated edits stay untouched while the rest of the pipeline continues to run.
