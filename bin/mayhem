@@ -34,10 +34,6 @@ module Mayhem
         description: 'Scrapes a site and creates a new organization entry',
         handler: :run_create_organization
       },
-      'create-website' => {
-        description: 'Scrapes a site and creates a new website entry',
-        handler: :run_create_website
-      },
       'delete-organization' => {
         description: 'Deletes all events and news posts associated with an organization',
         handler: :run_delete_organization
@@ -65,10 +61,6 @@ module Mayhem
       'ls-models' => {
         description: 'Lists available OpenAI model IDs',
         handler: :run_ls_models
-      },
-      'refresh-websites' => {
-        description: 'Refreshes websites by refreshing robots.txt, sitemap listings, and sitemap contents',
-        handler: :run_refresh_websites
       },
       'summarize' => {
         description: 'Generates AI summaries for posts and events',
@@ -209,18 +201,6 @@ module Mayhem
         generator.run(args.first)
       end
 
-      def run_create_website(args)
-        require 'mayhem/websites/generator'
-
-        if args.empty?
-          warn 'Usage: mayhem create-website URL'
-          exit 1
-        end
-
-        generator = Mayhem::Websites::Generator.new
-        generator.run(args.first)
-      end
-
       def run_expire(_args)
         require 'mayhem/events/stale_event_cleaner'
         require 'mayhem/news/content_age_enforcer'
@@ -264,12 +244,6 @@ module Mayhem
         require 'mayhem/openai/model_lister'
 
         Mayhem::OpenAI::ModelLister.new.run
-      end
-
-      def run_refresh_websites(_args)
-        require 'mayhem/websites/refresh'
-
-        Mayhem::Websites::Refresh.new.run
       end
 
       def run_summarize(_args)

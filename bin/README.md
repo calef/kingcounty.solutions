@@ -18,7 +18,6 @@ The `bin/mayhem` script consolidates content management functionality. Run `bin/
 - `bin/mayhem check-integrity` – Runs site integrity checks (front matter, generated HTML/JSON/JS validation) against the built site output.
 - `bin/mayhem check-source-urls` – Checks `source_url` availability, unpublishing posts or deleting events when links are dead.
 - `bin/mayhem create-organization` – Scrapes a site and creates a new `_organizations/*.md` entry.
-- `bin/mayhem create-website` – Scrapes a site and creates a new `_websites/*.md` entry.
 - `bin/mayhem delete-organization` – Deletes all events and news posts associated with an organization.
 - `bin/mayhem expire` – Deletes posts and events outside configured age window.
 - `bin/mayhem extract-events` – Analyzes news posts to identify and create event entries.
@@ -29,6 +28,13 @@ The `bin/mayhem` script consolidates content management functionality. Run `bin/
 - `bin/mayhem refresh-xml-sitemaps` – Re-reads `robots.txt` for each website to sync `xml_sitemap_urls` and archive the sitemap contents.
 - `bin/mayhem summarize` – Generates AI summaries for posts and events.
 - `bin/mayhem tidy` – Normalizes Markdown front matter formatting.
+
+## Chio commands
+
+Website archive scraping and refresh workflows moved to the dedicated `chio` CLI.
+
+- `bin/chio create-website` — Scrapes a homepage to create a `_websites` entry, discovering feeds/sitemaps.
+- `bin/chio refresh-websites` — Fetches robots.txt and sitemap data for every archived website and stores the results under `_robots_txts`, `_sitemap_indexes`, `_url_sets`, and `_xml_sitemaps`. Use this when you want to rebuild the sitemap archives.
 
 ## Freezing files during automation
 
