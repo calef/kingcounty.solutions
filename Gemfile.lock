@@ -251,7 +251,6 @@ DEPENDENCIES
   base64
   digest
   faraday
-  faraday-typhoeus
   fileutils
   fmrepo!
   html5_validator
