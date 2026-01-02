@@ -3,8 +3,9 @@
 require 'digest'
 require 'tmpdir'
 require 'fileutils'
+require 'seldon'
+
 require_relative '../../test_helper'
-require_relative '../../../lib/mayhem/logging'
 require_relative '../../../lib/mayhem/images/extractor'
 require_relative '../../../lib/mayhem/image_files/downloader'
 require_relative '../../../lib/mayhem/image_files/converter'

@@ -1,7 +1,8 @@
 # frozen_string_literal: true
 
-require_relative '../../test_helper'
 require 'minitest/autorun'
+require 'seldon'
+require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/news/summarizer'
 
 class PostSummarizerTest < Minitest::Test
@@ -13,7 +14,7 @@ class PostSummarizerTest < Minitest::Test
     @tmp_assets_root = Dir.mktmpdir('assets')
     @tmp_assets = File.join(@tmp_assets_root, 'images')
     FileUtils.mkdir_p(@tmp_assets)
-    @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+    @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL')
     FileUtils.mkdir_p(@tmp_posts)
   end
 

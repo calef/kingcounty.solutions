@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
-require 'mayhem/logging'
 require 'mayhem/front_matter/document'
 require 'mayhem/front_matter/spacing_normalizer'
+require 'seldon'
 
 module Mayhem
   module FrontMatter
     class Tidier
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       # Rewrites every Markdown target (file or directory) so the front matter
       # keys are alphabetically ordered and the document is wrapped with a single

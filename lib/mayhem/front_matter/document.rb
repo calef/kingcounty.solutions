@@ -4,7 +4,7 @@ require 'yaml'
 require 'date'
 require 'time'
 require 'mayhem/front_matter/spacing_normalizer'
-require 'mayhem/logging'
+require 'seldon'
 
 module Mayhem
   module FrontMatter
@@ -12,8 +12,8 @@ module Mayhem
     # YAML front matter. Centralizing the parsing logic ensures scripts share
     # consistent behavior and makes unit testing easier.
     class Document
-      include Mayhem::Loggable
-      extend Mayhem::Loggable
+      include Seldon::Loggable
+      extend Seldon::Loggable
 
       PERMITTED_CLASSES = [Date, Time].freeze
 

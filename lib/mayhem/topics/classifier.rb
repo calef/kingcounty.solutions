@@ -1,15 +1,15 @@
 # frozen_string_literal: true
 
 require 'json'
+require 'seldon'
 
-require_relative '../logging'
 require_relative '../openai/chat_client'
 require_relative '../models/topic'
 
 module Mayhem
   module Topics
     class Classifier
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-5.1'))
       DEFAULT_TEMPERATURE = 0.2

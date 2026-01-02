@@ -3,7 +3,7 @@
 require_relative '../../test_helper'
 require 'minitest/autorun'
 require 'mayhem/sitemap/discovery'
-require 'mayhem/support/http_client'
+require 'seldon'
 require 'stringio'
 require 'zlib'
 
@@ -15,7 +15,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
     def fetch(url, accept:)
       response = @responses.fetch(url) do
-        raise Mayhem::Support::HttpClient::NotFoundError.new(
+        raise Seldon::Support::HttpClient::NotFoundError.new(
           url: url,
           origin_url: url,
           operation: 'content_fetch',
@@ -37,11 +37,11 @@ class SitemapDiscoveryTest < Minitest::Test
 
   def setup
     @logger = NullLogger.new
-    Mayhem::Logging.logger = @logger
+    Seldon::Logging.logger = @logger
   end
 
   def teardown
-    Mayhem::Logging.reset_logger
+    Seldon::Logging.reset_logger
   end
 
   def urlset_xml
@@ -113,7 +113,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
   def test_robots_missing_falls_back_to_defaults
     responses = {
-      'https://example.com/robots.txt' => Mayhem::Support::HttpClient::NotFoundError.new(
+      'https://example.com/robots.txt' => Seldon::Support::HttpClient::NotFoundError.new(
         url: 'https://example.com/robots.txt',
         origin_url: 'https://example.com/robots.txt',
         operation: 'content_fetch',
@@ -148,13 +148,13 @@ class SitemapDiscoveryTest < Minitest::Test
 
   def test_falls_back_to_index_when_default_missing
     responses = {
-      'https://example.com/robots.txt' => Mayhem::Support::HttpClient::NotFoundError.new(
+      'https://example.com/robots.txt' => Seldon::Support::HttpClient::NotFoundError.new(
         url: 'https://example.com/robots.txt',
         origin_url: 'https://example.com/robots.txt',
         operation: 'content_fetch',
         status: 404
       ),
-      'https://example.com/sitemap.xml' => Mayhem::Support::HttpClient::NotFoundError.new(
+      'https://example.com/sitemap.xml' => Seldon::Support::HttpClient::NotFoundError.new(
         url: 'https://example.com/sitemap.xml',
         origin_url: 'https://example.com/sitemap.xml',
         operation: 'content_fetch',
@@ -198,7 +198,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
   def test_accepts_sitemap_with_text_html_content_type
     responses = {
-      'https://example.com/robots.txt' => Mayhem::Support::HttpClient::NotFoundError.new(
+      'https://example.com/robots.txt' => Seldon::Support::HttpClient::NotFoundError.new(
         url: 'https://example.com/robots.txt',
         origin_url: 'https://example.com/robots.txt',
         operation: 'content_fetch',
@@ -218,7 +218,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
   def test_accepts_gzipped_sitemap_body
     responses = {
-      'https://example.com/robots.txt' => Mayhem::Support::HttpClient::NotFoundError.new(
+      'https://example.com/robots.txt' => Seldon::Support::HttpClient::NotFoundError.new(
         url: 'https://example.com/robots.txt',
         origin_url: 'https://example.com/robots.txt',
         operation: 'content_fetch',
@@ -238,7 +238,7 @@ class SitemapDiscoveryTest < Minitest::Test
 
   def test_follows_redirect_and_returns_final_url
     responses = {
-      'https://example.com/robots.txt' => Mayhem::Support::HttpClient::NotFoundError.new(
+      'https://example.com/robots.txt' => Seldon::Support::HttpClient::NotFoundError.new(
         url: 'https://example.com/robots.txt',
         origin_url: 'https://example.com/robots.txt',
         operation: 'content_fetch',

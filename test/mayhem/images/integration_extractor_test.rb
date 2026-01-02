@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require_relative '../../test_helper'
 require 'minitest/autorun'
 require 'webmock/minitest'
+require 'seldon'
 require 'tmpdir'
+require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/images/extractor'
-require_relative '../../../lib/mayhem/logging'
 
 class ImageExtractorIntegrationTest < Minitest::Test
   def setup

@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'seldon'
 require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/content/content_fetcher'
 
@@ -23,7 +24,7 @@ class ContentFetcherTest < Minitest::Test
   end
 
   def setup
-    @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+    @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL')
   end
 
   def test_returns_selector_snippet_and_canonical_url

@@ -4,15 +4,13 @@ require 'net/http'
 require 'nokogiri'
 require 'openssl'
 require 'uri'
-require 'mayhem/logging'
-require_relative '../support/http_client'
-require_relative '../support/url_utils'
+require 'seldon'
 
 module Mayhem
   module FeedDiscovery
-    LOGGER = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
-    UrlHelpers = Mayhem::Support::UrlUtils
-    HttpClient = Mayhem::Support::HttpClient
+    LOGGER = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL')
+    UrlHelpers = Seldon::Support::UrlUtils
+    HttpClient = Seldon::Support::HttpClient
     UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_0) AppleWebKit/537.36 ' \
          '(KHTML, like Gecko) Chrome/125.0 Safari/537.36'
     REQUEST_DELAY = 0.15
@@ -92,7 +90,7 @@ module Mayhem
     end
 
     class CandidateCollector
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       include UrlHelpers
 
@@ -210,7 +208,7 @@ module Mayhem
     end
 
     class SecondaryPageCollector
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       include UrlHelpers
 
@@ -283,7 +281,7 @@ module Mayhem
     end
 
     class FeedFinder
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       include UrlHelpers
 

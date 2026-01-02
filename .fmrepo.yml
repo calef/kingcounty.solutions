@@ -25,7 +25,3 @@ topics:
   development: "."
   production: "."
   test: <tmp>
-websites:
-  development: "."
-  production: "."
-  test: <tmp>

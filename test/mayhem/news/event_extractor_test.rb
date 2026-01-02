@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
-require 'fileutils'
-require 'tmpdir'
-require 'time'
 require_relative '../../test_helper'
+require 'fileutils'
 require 'mayhem/news/event_extractor'
 require 'mayhem/front_matter/document'
-require 'mayhem/logging'
+require 'seldon'
+require 'tmpdir'
+require 'time'
 
 # TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
 
@@ -18,7 +18,7 @@ class EventExtractorTest < Minitest::Test
     @events_dir = Mayhem::Models::Event.collection_dir
     FileUtils.mkdir_p(@posts_dir)
     FileUtils.mkdir_p(@events_dir)
-    @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
+    @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
   end
 
   def teardown

@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
-require 'fileutils'
-require 'tmpdir'
-require 'time'
 require_relative '../../test_helper'
+require 'fileutils'
 require 'mayhem/news/content_age_enforcer'
 require 'mayhem/front_matter/document'
-require 'mayhem/logging'
+require 'seldon'
+require 'tmpdir'
+require 'time'
 
 # TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
 
@@ -25,7 +25,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     FileUtils.mkdir_p(@assets_dir)
     FileUtils.mkdir_p(@events_dir)
     @config_path = File.join(@tmpdir, 'config.yml')
-    @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
+    @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
     @reference_time = Time.utc(2025, 12, 31)
   end
 

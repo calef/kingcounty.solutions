@@ -1,14 +1,14 @@
 # frozen_string_literal: true
 
 require 'json'
-require_relative '../logging'
+require 'seldon'
 require_relative '../models/organization'
 require_relative '../models/topic'
 
 module Mayhem
   module Topics
     class OrganizationAudit
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_AUDIT_MODEL', 'gpt-4o-mini')
       DEFAULT_MAX_POSTS = 5

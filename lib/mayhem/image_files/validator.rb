@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
 require 'mini_magick'
-require_relative '../logging'
+require 'seldon'
 
 module Mayhem
   module ImageFiles
     class Validator
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       RASTER_EXTENSIONS = %w[.jpg .jpeg .png .gif .bmp .tif .tiff].freeze
       ALLOWED_EXTENSIONS = (RASTER_EXTENSIONS + %w[.webp .svg]).freeze

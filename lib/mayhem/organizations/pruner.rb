@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'fileutils'
+require 'seldon'
 
 require_relative '../front_matter/document'
 require_relative '../events/pruner'
@@ -14,7 +15,7 @@ require_relative '../models/news'
 module Mayhem
   module Organizations
     class Pruner
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       def self.prune(organization_title)
         # Set up directory paths

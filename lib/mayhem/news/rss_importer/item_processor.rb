@@ -1,15 +1,14 @@
 # frozen_string_literal: true
 
-require_relative '../../support/http_client'
-require_relative '../../support/url_normalizer'
+require 'seldon'
 
 module Mayhem
   module News
     class RssImporter
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       class ItemProcessor
-        include Mayhem::Loggable
+        include Seldon::Loggable
 
         def initialize(item_parser:, canonicalizer:, content_fetcher:, duplicate_tracker:, post_writer:, max_item_age_days:)
           @item_parser = item_parser
@@ -22,7 +21,7 @@ module Mayhem
 
         def process(item, source_title, source_record, stats)
           link_url = @item_parser.link_url(item)
-          normalized = Mayhem::Support::UrlNormalizer.normalize(link_url, base: source_record&.website_url)
+          normalized = Seldon::Support::UrlNormalizer.normalize(link_url, base: source_record&.website_url)
           normalized = @canonicalizer.canonical_link(normalized)
           if normalized.to_s.strip.empty?
             stats.increment(:missing_link)
@@ -115,11 +114,11 @@ module Mayhem
           return { html: '', canonical_url: nil } unless url
 
           @content_fetcher.fetch(url)
-        rescue Mayhem::Support::HttpClient::NotFoundError => e
+        rescue Seldon::Support::HttpClient::NotFoundError => e
           logger.warn "Article URL returned 404 (#{url}): #{e.message}"
           { html: '', canonical_url: url, not_found: true }
-        rescue Mayhem::Support::HttpClient::HttpError,
-               Mayhem::Support::HttpClient::TooManyRequestsError,
+        rescue Seldon::Support::HttpClient::HttpError,
+               Seldon::Support::HttpClient::TooManyRequestsError,
                Faraday::Error,
                SocketError,
                Timeout::Error,

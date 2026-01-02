@@ -1,14 +1,15 @@
 # frozen_string_literal: true
 
+require 'seldon'
 require 'yaml'
 
 module Mayhem
   module News
     class RssImporter
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       class Config
-        include Mayhem::Loggable
+        include Seldon::Loggable
 
         MAX_ITEM_AGE_DAYS = 365
         DEFAULT_CONFIG_PATH = File.expand_path('../../../../_config.yml', __dir__)

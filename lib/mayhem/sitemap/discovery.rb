@@ -1,12 +1,9 @@
 # frozen_string_literal: true
 
+require 'seldon'
 require 'stringio'
 require 'uri'
 require 'zlib'
-require 'mayhem/logging'
-require_relative '../support/http_client'
-require_relative '../support/url_normalizer'
-require_relative '../support/url_utils'
 
 module Mayhem
   module SitemapDiscovery
@@ -22,10 +19,10 @@ module Mayhem
     ACCEPT_XML = 'application/xml,text/xml,application/rss+xml;q=0.9,*/*;q=0.1'
 
     class Finder
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       def initialize(http_client: nil)
-        @http = http_client || Mayhem::Support::HttpClient.new
+        @http = http_client || Seldon::Support::HttpClient.new
       end
 
       def find(website_url)
@@ -45,7 +42,7 @@ module Mayhem
       private
 
       def base_url_for(website_url)
-        normalized = Mayhem::Support::UrlNormalizer.normalize(website_url)
+        normalized = Seldon::Support::UrlNormalizer.normalize(website_url)
         return nil unless normalized
 
         uri = URI.parse(normalized)
@@ -58,8 +55,8 @@ module Mayhem
         nil
       end
 
-      def candidates_from_robots(base_url)
-        robots_url = Mayhem::Support::UrlUtils.absolutize(base_url, ROBOTS_PATH)
+      def candidates_from_robots(base_url, robots_url = nil)
+        robots_url ||= Seldon::Support::UrlUtils.absolutize(base_url, ROBOTS_PATH)
         return [] unless robots_url
 
         body = fetch_body(robots_url, accept: ACCEPT_ROBOTS)
@@ -80,7 +77,7 @@ module Mayhem
       end
 
       def normalize_candidate(candidate, base_url)
-        Mayhem::Support::UrlNormalizer.normalize(candidate, base: base_url)
+        Seldon::Support::UrlNormalizer.normalize(candidate, base: base_url)
       end
 
       def dedupe_candidates(candidates)
@@ -95,14 +92,19 @@ module Mayhem
 
       def default_candidates(base_url)
         DEFAULT_PATHS.filter_map do |path|
-          Mayhem::Support::UrlUtils.absolutize(base_url, path)
+          Seldon::Support::UrlUtils.absolutize(base_url, path)
         end
       end
 
       def valid_sitemaps(candidates)
+        seen = {}
         candidates.each_with_object([]) do |candidate, collection|
           found = verify_candidate(candidate)
-          collection << found if found
+          next unless found
+          next if seen[found]
+
+          seen[found] = true
+          collection << found
         end
       end
 

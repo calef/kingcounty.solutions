@@ -1,10 +1,11 @@
 # frozen_string_literal: true
 
 require_relative '../../test_helper'
-require 'minitest/autorun'
-require_relative '../../../lib/mayhem/locations/classifier'
 require 'fmrepo'
 require 'mayhem/models/location'
+require 'minitest/autorun'
+require 'seldon'
+require_relative '../../../lib/mayhem/locations/classifier'
 
 class LocationClassifierTest < Minitest::Test
   class FakeLogger
@@ -40,11 +41,11 @@ class LocationClassifierTest < Minitest::Test
     @tmp_locations = Dir.mktmpdir('locations')
     @fm_repo = FMRepo::Repository.new(root: @tmp_locations)
     @logger = FakeLogger.new
-    Mayhem::Logging.logger = @logger
+    Seldon::Logging.logger = @logger
   end
 
   def teardown
-    Mayhem::Logging.reset_logger
+    Seldon::Logging.reset_logger
     FileUtils.remove_entry(@tmp_locations)
   end
 

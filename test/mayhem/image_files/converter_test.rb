@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative '../../test_helper'
 require 'mini_magick'
 require 'minitest/autorun'
+require 'seldon'
+require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/image_files/converter'
-require_relative '../../../lib/mayhem/logging'
 
 class ImageFilesConverterTest < Minitest::Test
   FakeImage = Struct.new(:width, :height, :blob) do
@@ -16,7 +16,7 @@ class ImageFilesConverterTest < Minitest::Test
   end
 
   def setup
-    @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+    @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL')
     @converter = Mayhem::ImageFiles::Converter.new()
   end
 

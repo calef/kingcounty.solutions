@@ -1,14 +1,14 @@
 # frozen_string_literal: true
 
+require 'seldon'
 require 'uri'
 require_relative 'validator'
 require_relative '../feed/discovery'
-require_relative '../logging'
 
 module Mayhem
   module ImageFiles
     class Downloader
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       attr_reader :http_client, :validator
 

@@ -1,12 +1,13 @@
 # frozen_string_literal: true
 
 require 'nokogiri'
+require 'seldon'
 
 module Mayhem
   module News
     class RssImporter
       class FeedSanitizer
-        include Mayhem::Loggable
+        include Seldon::Loggable
 
         def sanitize(xml, source_title, rss_url)
           return xml unless xml

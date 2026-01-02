@@ -2,13 +2,12 @@
 
 require 'json'
 require 'ruby/openai'
-require_relative '../logging'
+require 'seldon'
 require_relative '../topics/classifier'
 require_relative '../locations/classifier'
 require_relative '../news/pruner'
 require_relative '../images/pruner'
 require_relative '../front_matter/document'
-require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../summarizer/helpers'
 require_relative '../content/article_body_extractor'
@@ -20,7 +19,7 @@ require_relative '../models/news'
 module Mayhem
   module News
     class PostSummarizer
-      include Mayhem::Loggable
+      include Seldon::Loggable
       include Mayhem::SummarizerHelpers
 
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
@@ -47,7 +46,7 @@ module Mayhem
       )
         @posts_dir = Mayhem::Models::News.collection_dir
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-        @http = http_client || Mayhem::Support::HttpClient.new
+        @http = http_client || Seldon::Support::HttpClient.new
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
                               client: @client
@@ -261,7 +260,7 @@ module Mayhem
         return nil unless url
 
         page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML)
-        Mayhem::Support::EncodingUtils.ensure_utf8(page[:body])
+        Seldon::Support::EncodingUtils.ensure_utf8(page[:body])
       rescue StandardError => e
         logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"
         nil

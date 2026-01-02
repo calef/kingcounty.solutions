@@ -1,12 +1,13 @@
 # frozen_string_literal: true
 
+require 'seldon'
 require_relative 'document'
 
 module Mayhem
   module FrontMatter
     # Utility helpers for determining whether a Markdown document is purposely hidden.
     module PublishGuard
-      extend Mayhem::Loggable
+      extend Seldon::Loggable
 
       module_function
 
@@ -16,7 +17,7 @@ module Mayhem
         document = Mayhem::FrontMatter::Document.load(path)
         document && document.front_matter['published'] == false
       rescue StandardError => e
-        Mayhem::Logging.logger.warn("Failed to inspect #{path} for published flag: #{e.message}")
+        Seldon::Logging.logger.warn("Failed to inspect #{path} for published flag: #{e.message}")
         false
       end
     end

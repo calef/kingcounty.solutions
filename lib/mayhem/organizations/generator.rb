@@ -5,23 +5,20 @@ require 'fmrepo'
 require 'json'
 require 'nokogiri'
 require 'ruby/openai'
+require 'seldon'
 require 'uri'
-require_relative '../logging'
 require_relative '../models/organization'
 require_relative '../models/topic'
 require_relative '../front_matter/document'
 require_relative '../feed/discovery'
 require_relative '../sitemap/discovery'
-require_relative '../support/http_client'
-require_relative '../support/url_utils'
-require_relative '../support/value_normalizer'
 
 # TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module Organizations
     class Generator
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       DEFAULT_TYPE = 'Community-Based Organization'
       MAX_PAGES = Integer(ENV.fetch('ORG_SCRAPER_MAX_PAGES', 5))
@@ -40,7 +37,7 @@ module Mayhem
         @topic_repo = topic_repo
         @topic_model = topic_model
         @client = client
-        @http = http_client || Mayhem::Support::HttpClient.new(timeout: READ_TIMEOUT)
+        @http = http_client || Seldon::Support::HttpClient.new(timeout: READ_TIMEOUT)
         @feed_finder = feed_finder || default_feed_finder
         @sitemap_finder = sitemap_finder || default_sitemap_finder
       end
@@ -85,7 +82,7 @@ module Mayhem
         front_matter = build_front_matter(data, types: types)
         if feed_result
           front_matter['news_rss_url'] ||= feed_result.rss_url
-          if (ical_url = Mayhem::Support::ValueNormalizer.normalize_value(feed_result.ical_url))
+          if (ical_url = Seldon::Support::ValueNormalizer.normalize_value(feed_result.ical_url))
             front_matter['events_ical_url'] ||= ical_url
           end
         end
@@ -255,7 +252,7 @@ module Mayhem
         front_matter = {}
         %w[acronym news_rss_url events_ical_url parent_organization_title phone email address topic_titles
            type].each do |key|
-          value = Mayhem::Support::ValueNormalizer.normalize_value(data[key])
+          value = Seldon::Support::ValueNormalizer.normalize_value(data[key])
           front_matter[key] = value unless value.nil?
         end
 
@@ -306,11 +303,11 @@ module Mayhem
       end
 
       def absolutize(base, href)
-        Mayhem::Support::UrlUtils.absolutize(base, href)
+        Seldon::Support::UrlUtils.absolutize(base, href)
       end
 
       def body_from_data(data)
-        body = Mayhem::Support::ValueNormalizer.normalize_value(data['summary']) || 'Description forthcoming.'
+        body = Seldon::Support::ValueNormalizer.normalize_value(data['summary']) || 'Description forthcoming.'
         word_limited = body.split(/\s+/)[0, 100].join(' ').strip
         word_limited.empty? ? 'Description forthcoming.' : word_limited
       end

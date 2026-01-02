@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 require 'fileutils'
+require 'seldon'
 
 require_relative '../front_matter/document'
-require_relative '../logging'
 require_relative '../models/event'
 require_relative '../models/image'
 require_relative '../models/news'
@@ -13,7 +13,7 @@ require_relative '../models/news'
 module Mayhem
   module Images
     class Pruner
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       attr_reader :posts_dir, :images_dir, :assets_dir
 

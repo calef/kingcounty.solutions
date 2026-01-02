@@ -18,7 +18,6 @@ The `bin/mayhem` script consolidates content management functionality. Run `bin/
 - `bin/mayhem check-integrity` – Runs site integrity checks (front matter, generated HTML/JSON/JS validation) against the built site output.
 - `bin/mayhem check-source-urls` – Checks `source_url` availability, unpublishing posts or deleting events when links are dead.
 - `bin/mayhem create-organization` – Scrapes a site and creates a new `_organizations/*.md` entry.
-- `bin/mayhem create-website` – Scrapes a site and creates a new `_websites/*.md` entry.
 - `bin/mayhem delete-organization` – Deletes all events and news posts associated with an organization.
 - `bin/mayhem expire` – Deletes posts and events outside configured age window.
 - `bin/mayhem extract-events` – Analyzes news posts to identify and create event entries.
@@ -135,7 +134,7 @@ Creates a new `_websites/<slug>.md` entry by scraping the homepage title, discov
 
 - Skips creation if an existing `_websites/*.md` already lists the same normalized `homepage_url`.
 - Uses the homepage `<title>` (fallback to host) for `title`, sets `homepage_url`, and fills `events_ical_url` from feed discovery when found.
-- Derives `robots_txt_url` and `xml_sitemap_urls` from the same sitemap discovery logic used by `create-organization`.
+- Derives `xml_sitemap_urls` from the same sitemap discovery logic used by `create-organization`.
 
 ### `bin/mayhem delete-organization`
 

@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
-require_relative '../../test_helper'
-require 'minitest/autorun'
-require 'tmpdir'
 require 'json'
+require 'minitest/autorun'
 require 'nokogiri'
 require 'ostruct'
+require 'seldon'
+require 'tmpdir'
+require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/organizations/generator'
-require_relative '../../../lib/mayhem/support/value_normalizer'
 
 class OrganizationsGeneratorTest < Minitest::Test
   class FakeLogger
@@ -65,7 +65,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     @fake_client = Object.new
     @feed_finder = FakeFeedFinder.new(OpenStruct.new(rss_url: 'https://feed', ical_url: 'https://calendar'))
     @sitemap_finder = FakeSitemapFinder.new(['https://example.com/sitemap.xml'])
-    Mayhem::Logging.logger = @logger
+    Seldon::Logging.logger = @logger
     @generator = Mayhem::Organizations::Generator.new(
       topic_repo: @topic_repo,
       client: @fake_client,
@@ -75,7 +75,7 @@ class OrganizationsGeneratorTest < Minitest::Test
   end
 
   def teardown
-    Mayhem::Logging.reset_logger
+    Seldon::Logging.reset_logger
     @org_repo_override.cleanup if @org_repo_override
     FileUtils.remove_entry(@topic_dir)
   end
@@ -147,8 +147,8 @@ class OrganizationsGeneratorTest < Minitest::Test
   end
 
   def test_normalize_value_and_enforce_type
-    assert_nil Mayhem::Support::ValueNormalizer.normalize_value('   ')
-    assert_equal 'value', Mayhem::Support::ValueNormalizer.normalize_value(' value ')
+    assert_nil Seldon::Support::ValueNormalizer.normalize_value('   ')
+    assert_equal 'value', Seldon::Support::ValueNormalizer.normalize_value(' value ')
     assert_nil @generator.send(:enforce_type, 'Unknown', ['Known'])
     assert_equal 'Known', @generator.send(:enforce_type, 'known', ['Known'])
   end

@@ -3,10 +3,9 @@
 require 'digest'
 require 'fileutils'
 require 'mini_magick'
+require 'seldon'
 require 'uri'
-require_relative '../logging'
 require_relative '../front_matter/document'
-require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../image_files/validator'
 require_relative '../image_files/converter'
@@ -20,7 +19,7 @@ require_relative '../models/news'
 module Mayhem
   module Images
     class Extractor
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       IMAGE_DOCS_DIR = '_images'
       IMAGE_ASSET_DIR = File.join('assets', 'images')
@@ -55,7 +54,7 @@ module Mayhem
         @read_timeout = read_timeout
         @min_dimension = min_dimension
         FileUtils.mkdir_p(@image_docs_dir)
-        @http = http_client || Mayhem::Support::HttpClient.new(timeout: @read_timeout)
+        @http = http_client || Seldon::Support::HttpClient.new(timeout: @read_timeout)
 
         @validator = Mayhem::ImageFiles::Validator.new(min_dimension: @min_dimension)
         @converter = Mayhem::ImageFiles::Converter.new

@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require_relative '../../test_helper'
 require 'uri'
 require 'minitest/autorun'
+require 'seldon'
+require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/image_files/downloader'
 require_relative '../../../lib/mayhem/image_files/validator'
-require_relative '../../../lib/mayhem/logging'
 
 class ImageFilesDownloaderTest < Minitest::Test
   class DummyHttp
@@ -17,7 +17,7 @@ class ImageFilesDownloaderTest < Minitest::Test
   end
 
   def setup
-    @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+    @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL')
     @validator = Mayhem::ImageFiles::Validator.new(min_dimension: 300)
     @http = DummyHttp.new
     @downloader = Mayhem::ImageFiles::Downloader.new(http_client: @http,

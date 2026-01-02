@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative '../../support/url_normalizer'
+require 'seldon'
 require_relative 'guid_extractor'
 
 module Mayhem
@@ -58,7 +58,7 @@ module Mayhem
           @news_model.all.to_a.each_with_object({}) do |post, memo|
             next unless post.feed_content
 
-            url = Mayhem::Support::UrlNormalizer.normalize(post.source_url)
+            url = Seldon::Support::UrlNormalizer.normalize(post.source_url)
             key = key_for_link(url)
             memo[key] = true if key
 

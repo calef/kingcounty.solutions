@@ -2,11 +2,10 @@
 
 require 'json'
 require 'time'
-require_relative '../logging'
+require 'seldon'
 require_relative '../openai/chat_client'
 require_relative '../front_matter/document'
 require_relative '../front_matter/slug_generator'
-require_relative '../support/encoding_utils'
 require_relative '../content/html_normalizer'
 require_relative '../models/event'
 require_relative '../models/news'
@@ -16,7 +15,7 @@ require_relative '../models/news'
 module Mayhem
   module News
     class EventExtractor
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       MAX_FILENAME_BYTES = 255
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_EXTRACTION_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
@@ -254,7 +253,7 @@ module Mayhem
 
         unless description.to_s.strip.empty?
           normalized_description = Mayhem::Content::HtmlNormalizer.normalize(
-            Mayhem::Support::EncodingUtils.ensure_utf8(description)
+            Seldon::Support::EncodingUtils.ensure_utf8(description)
           )
           front_matter['feed_content'] = normalized_description
           front_matter['feed_content_checksum'] = Mayhem::Content::HtmlNormalizer.checksum(normalized_description)

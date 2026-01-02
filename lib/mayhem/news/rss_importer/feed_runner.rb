@@ -2,16 +2,17 @@
 
 require 'faraday'
 require 'rss'
+require 'seldon'
 require_relative '../../feed/discovery'
 require_relative 'feed_stats'
 
 module Mayhem
   module News
     class RssImporter
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       class FeedRunner
-        include Mayhem::Loggable
+        include Seldon::Loggable
 
         def initialize(http_client:, feed_sanitizer:, item_processor:)
           @http = http_client
@@ -42,9 +43,9 @@ module Mayhem
 
           logger.info stats.summary_line(source_title, rss_url)
           stats
-        rescue Mayhem::Support::HttpClient::HttpError,
-               Mayhem::Support::HttpClient::NotFoundError,
-               Mayhem::Support::HttpClient::TooManyRequestsError,
+        rescue Seldon::Support::HttpClient::HttpError,
+               Seldon::Support::HttpClient::NotFoundError,
+               Seldon::Support::HttpClient::TooManyRequestsError,
                Faraday::Error,
                SocketError,
                Timeout::Error,

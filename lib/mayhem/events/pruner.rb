@@ -4,7 +4,7 @@ require 'fileutils'
 
 require_relative '../front_matter/document'
 require_relative '../images/pruner'
-require_relative '../logging'
+require 'seldon'
 require_relative '../models/event'
 require_relative '../models/news'
 
@@ -13,7 +13,7 @@ require_relative '../models/news'
 module Mayhem
   module Events
     class Pruner
-      include Mayhem::Loggable
+      include Seldon::Loggable
 
       def initialize(images_pruner:)
         @posts_dir = Mayhem::Models::News.collection_dir

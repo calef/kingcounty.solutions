@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative '../../test_helper'
+require 'seldon'
 require 'mayhem/feed/discovery'
 
 FeedDiscovery = Mayhem::FeedDiscovery unless defined?(FeedDiscovery)
@@ -185,7 +186,7 @@ class FeedFinderTest < Minitest::Test
   def error_level_logger
     original = ENV.fetch('LOG_LEVEL', nil)
     ENV['LOG_LEVEL'] = 'ERROR'
-    Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'ERROR')
+    Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'ERROR')
   ensure
     ENV['LOG_LEVEL'] = original
   end
