@@ -134,7 +134,7 @@ Creates a new `_websites/<slug>.md` entry by scraping the homepage title, discov
 
 - Skips creation if an existing `_websites/*.md` already lists the same normalized `homepage_url`.
 - Uses the homepage `<title>` (fallback to host) for `title`, sets `homepage_url`, and fills `events_ical_url` from feed discovery when found.
-- Derives `xml_sitemap_urls` from the same sitemap discovery logic used by `create-organization`; robots.txt fetching is deferred to `refresh-websites`.
+- Derives `xml_sitemap_urls` from the same sitemap discovery logic used by `create-organization`.
 
 ### `bin/mayhem delete-organization`
 
@@ -293,22 +293,6 @@ Simple helper that echoes every model ID visible to the configured OpenAI accoun
 #### Behavior notes
 
 - Returns one line per model and exits; no other arguments are supported.
-
-### `bin/mayhem refresh-websites`
-
-#### Purpose
-
-Refreshes every website by fetching `robots.txt`, aligning the stored sitemap URLs, and persisting the latest sitemap XML in the proper collections.
-
-#### Usage
-
-- `bin/mayhem refresh-websites`
-
-#### Behavior notes
-
-- Fetches `robots.txt` for every website (deriving the URL from the robots collection or the homepage base) and normalizes the `Sitemap:` entries, updating `xml_sitemap_urls` when the list changes.
-- Downloads each sitemap URL, storing its XML body in the appropriate collection (`_xml_sitemaps/`, `_url_sets/`, or `_sitemap_indexes/`) with `url`, `website_id`, and a `last_modified` timestamp for the retrieval.
-- Logs warnings and skips individual websites when the robots file cannot be fetched or parsed so the command can continue with the rest of the collection.
 
 ### `bin/mayhem summarize`
 
