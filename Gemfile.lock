@@ -1,16 +1,16 @@
 GIT
-  remote: git@github.com:calef/seldon.git
+  remote: https://github.com/calef/fmrepo.git
+  revision: 8fbbc5d49089bc4cebb5c44cb320bbdbfc6f6fcb
+  specs:
+    fmrepo (0.2.5)
+
+GIT
+  remote: https://github.com/calef/seldon.git
   revision: e32915246a17a4a74e9523bf95e85dfb10361eeb
   specs:
     seldon (0.3.0)
       faraday
       faraday-typhoeus
-
-GIT
-  remote: https://github.com/calef/fmrepo.git
-  revision: 8fbbc5d49089bc4cebb5c44cb320bbdbfc6f6fcb
-  specs:
-    fmrepo (0.2.5)
 
 GEM
   remote: https://rubygems.org/

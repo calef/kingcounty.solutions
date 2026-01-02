@@ -23,7 +23,7 @@ gem 'nokogiri'
 gem 'reverse_markdown'
 gem 'rss'
 gem 'ruby-openai'
-gem 'seldon', git: 'git@github.com:calef/seldon.git'
+gem 'seldon', github: 'calef/seldon'
 gem 'simplecov', require: false
 gem 'time'
 gem 'uri'
