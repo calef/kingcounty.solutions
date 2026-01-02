@@ -1,7 +1,6 @@
 ---
 date: '2025-12-26T01:12:24-08:00'
-event_ids:
-- 2025-12-29-daytime-pilot-car-operations-on-us-2-stevens-pass.md
+event_ids: []
 events_extracted: true
 feed_content: STEVENS PASS – Work to repair one of several damaged locations on US
   2, a stretch near Stevens Pass between Scenic (milepost 58) and Mill Creek Road
