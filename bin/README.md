@@ -25,7 +25,6 @@ The `bin/mayhem` script consolidates content management functionality. Run `bin/
 - `bin/mayhem import-content` – Runs RSS and iCal importers to fetch partner content.
 - `bin/mayhem ingest` – Runs import-content, summarize, extract-events, summarize again, extract-images, then expire.
 - `bin/mayhem ls-models` – Lists available OpenAI model IDs.
-- `bin/mayhem refresh-xml-sitemaps` – Re-reads `robots.txt` for each website to sync `xml_sitemap_urls` and archive the sitemap contents.
 - `bin/mayhem summarize` – Generates AI summaries for posts and events.
 - `bin/mayhem tidy` – Normalizes Markdown front matter formatting.
 
