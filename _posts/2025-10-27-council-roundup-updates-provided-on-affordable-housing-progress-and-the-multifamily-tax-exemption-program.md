@@ -1,7 +1,6 @@
 ---
 date: '2025-10-27T03:10:52+00:00'
-event_ids:
-- 2026-01-01-draft-strategy-presentation.md
+event_ids: []
 events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Updates provided on Affordable Housing progress and the Multifamily Tax

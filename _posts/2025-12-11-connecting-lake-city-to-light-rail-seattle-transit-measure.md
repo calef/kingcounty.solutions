@@ -1,7 +1,6 @@
 ---
 date: '2025-12-11T23:00:13+00:00'
-event_ids:
-- 2026-01-01-launch-of-route-77.md
+event_ids: []
 events_extracted: true
 feed_content: 'Blog stats: 500 words | 3-minute read Good news for Lake City! New
   transportation connections are coming your way next year. King County Metro will
