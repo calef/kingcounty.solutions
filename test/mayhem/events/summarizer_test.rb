@@ -108,6 +108,10 @@ class EventSummarizerTest < Minitest::Test
     path
   end
 
+  def event_id_for(slug)
+    File.join('_events', "#{slug}.md")
+  end
+
   def build_summarizer(client_response:, topics: [], location_titles: ['Seattle'], http_body: '<html><body><article>Story</article></body></html>')
     client = FakeChatClient.new(response: client_response)
     http = FakeHttpClient.new(response: { body: http_body, content_type: 'text/html' })
@@ -134,7 +138,7 @@ class EventSummarizerTest < Minitest::Test
                   'feed_content' => '<article>Body text</article>',
                   'feed_content_checksum' => 'abc'
                 }, '')
-    write_post('post-one', { 'event_ids' => ["#{slug}.md"] })
+    write_post('post-one', { 'event_ids' => [event_id_for(slug)] })
 
     summarizer = build_summarizer(
       client_response: { 'choices' => [{ 'message' => { 'content' => 'Refined summary.' } }] },
@@ -366,7 +370,7 @@ class EventSummarizerTest < Minitest::Test
                          'source_url' => 'https://example.com/event',
                          'generated_from_post' => true
                        }, 'Old summary')
-    write_post('post-one', { 'event_ids' => [slug] })
+    write_post('post-one', { 'event_ids' => [event_id_for(slug)] })
     document = Mayhem::FrontMatter::Document.load(path)
     stats = Hash.new(0)
     event_pruner = Minitest::Mock.new

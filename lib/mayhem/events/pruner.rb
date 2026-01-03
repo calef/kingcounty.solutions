@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'fileutils'
+require 'pathname'
 
 require_relative '../front_matter/document'
 require_relative '../images/pruner'
@@ -34,7 +35,7 @@ module Mayhem
       end
 
       def delete(path, document = nil)
-        event_id = File.basename(path)
+        event_id = event_id_for_path(path)
 
         # If document is provided, collect and prune images
         if document
@@ -93,6 +94,11 @@ module Mayhem
 
       def events_dir
         Mayhem::Models::Event.collection_dir
+      end
+
+      def event_id_for_path(path)
+        root = Pathname.new(events_dir).parent
+        Pathname.new(path).relative_path_from(root).to_s
       end
     end
   end

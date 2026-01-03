@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'json'
+require 'pathname'
 require 'time'
 require 'seldon'
 require_relative '../openai/chat_client'
@@ -231,11 +232,12 @@ module Mayhem
           max_bytes: MAX_FILENAME_BYTES
         )
         filename = File.join(events_dir, "#{date_prefix}-#{slug}.md")
+        event_id = event_id_for_filename(filename)
 
         # Check if event already exists
         if File.exist?(filename)
           stats[:duplicate_events] += 1
-          return File.basename(filename)
+          return event_id
         end
 
         # Create event frontmatter
@@ -271,7 +273,7 @@ module Mayhem
         stats[:events_created] += 1
         logger.info "Created event #{filename}"
 
-        File.basename(filename)
+        event_id
       rescue StandardError => e
         logger.error "Failed to create event: #{e.message}"
         stats[:event_creation_failed] += 1
@@ -311,6 +313,11 @@ module Mayhem
 
       def events_dir
         Mayhem::Models::Event.collection_dir
+      end
+
+      def event_id_for_filename(filename)
+        root = Pathname.new(events_dir).parent
+        Pathname.new(filename).relative_path_from(root).to_s
       end
     end
   end
