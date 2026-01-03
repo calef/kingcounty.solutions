@@ -197,8 +197,8 @@ module Mayhem
         start_value = start_time.iso8601
         end_value = end_time.iso8601
 
-        existing_event = Mayhem::Models::Event.all.to_a.find do |event|
-          canonicalized_url(event.source_url, nil) == canonical_url
+        existing_event = Mayhem::Models::Event.all.to_a.find do |candidate_event|
+          canonicalized_url(candidate_event.source_url, nil) == canonical_url
         end
 
         description_html = Seldon::Support::EncodingUtils.ensure_utf8(raw_html)
