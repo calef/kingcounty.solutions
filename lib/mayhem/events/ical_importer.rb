@@ -1,16 +1,12 @@
 # frozen_string_literal: true
 
 require 'date'
-require 'fileutils'
 require 'icalendar'
 require 'nokogiri'
 require 'seldon'
-require_relative '../front_matter/document'
 require_relative '../feed/discovery'
-require_relative '../front_matter/slug_generator'
 require_relative '../content/content_fetcher'
 require_relative '../content/content_utils'
-require_relative '../front_matter/publish_guard'
 require_relative '../content/html_normalizer'
 require_relative '../models/event'
 require_relative '../models/organization'
@@ -50,16 +46,15 @@ module Mayhem
       end
 
       def run
-        ensure_events_dir
         @existing_urls = build_existing_event_index
         queue = Queue.new
-        Dir.glob(File.join(org_dir, '*.md')).each { |org_path| queue << org_path }
+        Mayhem::Models::Organization.all.each { |org| queue << org }
 
         threads = Array.new(@workers) do
           Thread.new do
             loop do
-              org_path = queue.pop(true)
-              process_org_path(org_path)
+              org_record = queue.pop(true)
+              process_org_record(org_record)
             rescue ThreadError
               break
             end
@@ -71,18 +66,10 @@ module Mayhem
 
       private
 
-      def ensure_events_dir
-        FileUtils.mkdir_p(events_dir)
-      end
-
       def build_existing_event_index
         index = {}
-        Dir.glob(File.join(events_dir, '*.md')).each do |path|
-          document = Mayhem::FrontMatter::Document.load(path)
-          next unless document
-
-          front_matter = document.front_matter
-          url = normalized_link(front_matter['source_url'], nil)
+        Mayhem::Models::Event.all.each do |event|
+          url = normalized_link(event.source_url, nil)
           index[url] = true if url
         end
         index
@@ -137,10 +124,10 @@ module Mayhem
         parts.empty? ? 'no_changes' : parts.join(', ')
       end
 
-      def process_org_path(org_path)
+      def process_org_record(org_record)
         increment_processed_orgs
         stats = Hash.new(0)
-        summary = process_organization(org_path, stats)
+        summary = process_organization(org_record, stats)
         log_org_summary(summary[:title], summary[:source], stats) if summary
       end
 
@@ -152,15 +139,14 @@ module Mayhem
         @processed_lock.synchronize { @processed_orgs }
       end
 
-      def process_organization(path, stats)
-        document = Mayhem::FrontMatter::Document.load(path)
-        return unless document
+      def process_organization(org_record, stats)
+        return unless org_record
 
-        ical_url = document.front_matter['events_ical_url'].to_s.strip
+        ical_url = org_record.events_ical_url.to_s.strip
         return if ical_url.empty?
 
-        source_title = document.front_matter['title'] || File.basename(path, '.md')
-        website_url = document.front_matter['website_url']
+        source_title = org_record.title
+        website_url = org_record.website_url
 
         import_from_url(ical_url, source_title, website_url, stats)
         { title: source_title, source: ical_url }
@@ -196,33 +182,24 @@ module Mayhem
 
         source_url = normalized_link(event.url, website)
         return skip_event(reason: :missing_url, reason_detail: summary, stats: stats) unless source_url
-        return skip_event(reason: :duplicate, reason_detail: source_url, stats: stats) if event_registered?(source_url)
 
         fetch_result = fetch_event_body(source_url, stats)
         raw_html = fetch_result && fetch_result[:html]
         canonical_url = fetch_result && fetch_result[:canonical_url]
-        canonical_url = normalized_link(canonical_url, website) if canonical_url
+        canonical_url = canonicalized_url(canonical_url, website)
+        canonical_url ||= canonicalized_url(source_url, website)
         canonical_url = source_url if canonical_url.to_s.strip.empty?
         return skip_event(reason: :missing_url, reason_detail: summary, stats: stats) if canonical_url.to_s.strip.empty?
 
-        if event_registered?(canonical_url)
-          return skip_event(reason: :duplicate, reason_detail: canonical_url,
-                            stats: stats)
-        end
-
         location = Seldon::Support::EncodingUtils.ensure_utf8(event_location(event))
         end_time = resolve_time(event.dtend) || start_time
-        start_prefix = start_time.strftime('%Y-%m-%d')
+        start_time.strftime('%Y-%m-%d')
         start_value = start_time.iso8601
         end_value = end_time.iso8601
 
-        slug = Mayhem::FrontMatter::SlugGenerator.filename_slug(
-          title: summary,
-          link: canonical_url || source_title,
-          date_prefix: start_prefix,
-          max_bytes: MAX_FILENAME_BYTES
-        )
-        filename = File.join(events_dir, "#{start_prefix}-#{slug}.md")
+        existing_event = Mayhem::Models::Event.all.to_a.find do |event|
+          canonicalized_url(event.source_url, nil) == canonical_url
+        end
 
         description_html = Seldon::Support::EncodingUtils.ensure_utf8(raw_html)
         description_html = Mayhem::Content::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?
@@ -230,10 +207,12 @@ module Mayhem
         normalized_description = Mayhem::Content::HtmlNormalizer.normalize(description_html, base_url: canonical_url)
         checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_description)
 
-        if locked_entry?(filename)
+        if existing_event
           register_event_url(canonical_url)
           register_event_url(source_url) unless canonical_url == source_url
-          return skip_event(reason: :locked, reason_detail: filename, stats: stats)
+          return skip_event(reason: :locked, reason_detail: canonical_url, stats: stats) if existing_event.locked?
+
+          return skip_event(reason: :duplicate, reason_detail: canonical_url, stats: stats)
         end
 
         front_matter = {
@@ -250,19 +229,10 @@ module Mayhem
           front_matter['feed_content_checksum'] = checksum
         end
         body_content = ''
-        if event_content_unchanged?(filename, normalized_description, checksum, canonical_url)
-          register_event_url(canonical_url)
-          register_event_url(source_url) unless canonical_url == source_url
-          return skip_event(reason: :unchanged, reason_detail: filename, stats: stats)
-        end
-        document = Mayhem::FrontMatter::Document.new(
-          path: filename,
-          front_matter: front_matter,
+        Mayhem::Models::Event.create!(
+          front_matter,
           body: body_content
         )
-        return skip_event(reason: :unpublished, reason_detail: filename, stats: stats) if Mayhem::FrontMatter::PublishGuard.unpublished?(filename)
-
-        document.save
         record_stat(:created, stats)
         register_event_url(canonical_url)
         register_event_url(source_url) unless canonical_url == source_url
@@ -279,7 +249,18 @@ module Mayhem
       end
 
       def normalized_link(link, website)
+        return nil if link.to_s.strip.empty?
+
         Seldon::Support::UrlNormalizer.normalize(link, base: website)
+      end
+
+      def canonicalized_url(url, website)
+        return nil if url.to_s.strip.empty?
+
+        normalized = normalized_link(url, website)
+        return nil if normalized.to_s.strip.empty?
+
+        Mayhem::Content::HtmlNormalizer.canonicalize_url(normalized)
       end
 
       def register_event_url(url)
@@ -294,29 +275,6 @@ module Mayhem
         return false if normalized.to_s.strip.empty?
 
         @existing_lock.synchronize { @existing_urls.key?(normalized) }
-      end
-
-      def event_content_unchanged?(filename, normalized_html, checksum, canonical_url)
-        return false unless File.exist?(filename)
-        return false if normalized_html.to_s.strip.empty?
-
-        document = Mayhem::FrontMatter::Document.load(filename)
-        return false unless document
-
-        front_matter = document.front_matter
-        existing_checksum = front_matter['feed_content_checksum'].to_s
-        return true if !existing_checksum.empty? && existing_checksum == checksum
-
-        existing_content = front_matter['feed_content']
-        return false unless existing_content
-
-        base_url = front_matter['source_url'].to_s
-        base_url = canonical_url if base_url.empty?
-        existing_normalized = Mayhem::Content::HtmlNormalizer.normalize(existing_content, base_url: base_url)
-        existing_normalized == normalized_html
-      rescue StandardError => e
-        logger.debug "Failed to compare existing event #{filename}: #{e.message}"
-        false
       end
 
       def event_location(event)
@@ -347,10 +305,6 @@ module Mayhem
         field.value if field.respond_to?(:value)
       end
 
-      def locked_entry?(path)
-        Mayhem::FrontMatter::Document.locked?(path)
-      end
-
       def fetch_event_body(url, stats)
         return unless url
 
@@ -374,14 +328,6 @@ module Mayhem
           now = current_time
           (now.to_datetime >> 3).to_time
         end
-      end
-
-      def org_dir
-        @org_dir ||= Mayhem::Models::Organization.collection_dir
-      end
-
-      def events_dir
-        Mayhem::Models::Event.collection_dir
       end
     end
 

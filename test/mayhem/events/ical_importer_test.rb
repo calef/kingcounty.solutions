@@ -162,7 +162,7 @@ class IcalImporterTest < Minitest::Test
         'start_date' => '2024-02-12T18:00:00+00:00',
         'end_date' => '2024-02-12T20:00:00+00:00',
         'location' => 'Anywhere',
-        'source_url' => 'https://example.org/events/locked',
+        'source_url' => 'https://example.org/events/test',
         'feed_content' => '<p>Locked</p>',
         'locked' => true,
         'slug' => '2024-02-12-test-event'
