@@ -1,7 +1,7 @@
 ---
 date: '2025-12-18T19:15:37+00:00'
 event_ids:
-- 2026-01-01-opening-of-second-bridge-pointe-home.md
+- _events/2026-01-01-opening-of-second-bridge-pointe-home.md
 events_extracted: true
 feed_content: Last month, Friends of Youth welcomed community members to our Kirkland
   campus for a very special occasion—the ribbon cutting ceremony for Bridge Pointe

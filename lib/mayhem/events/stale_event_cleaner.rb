@@ -1,15 +1,9 @@
 # frozen_string_literal: true
 
 require 'date'
-require 'fileutils'
 require 'time'
-
 require 'seldon'
-require_relative '../front_matter/document'
 require_relative '../models/event'
-require_relative '../models/news'
-
-# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module Events
@@ -32,7 +26,6 @@ module Mayhem
       def initialize(
         clock: -> { Time.now }
       )
-        @posts_dir = Mayhem::Models::News.collection_dir
         @clock = clock
       end
 
@@ -41,19 +34,25 @@ module Mayhem
         cutoff_date = self.class.cutoff_date(current_time)
         removed = []
 
-        Dir.glob(File.join(events_dir, '*.md')).each do |path|
-          start_time, end_time = event_times_for(path)
+        stale_candidates = Mayhem::Models::Event.where(
+          'start_date' => lambda { |value|
+            !value.nil? && !(value.respond_to?(:empty?) && value.empty?)
+          }
+        )
+
+        stale_candidates.each do |event|
+          start_time = parse_time(event.start_date, event.id, 'start_date', required: true)
           next unless start_time
+
+          end_time = parse_time(event.end_date, event.id, 'end_date', required: false)
           next unless self.class.stale?(start_time: start_time, end_time: end_time, cutoff_date: cutoff_date)
 
-          event_id = File.basename(path)
-          remove_file(path)
+          event_id = event.id
+          remove_event_from_post(event)
+          event.destroy
           removed << event_id
-          logger.info "Removed past event #{File.basename(path)}"
+          logger.info "Removed past event #{event_id}"
         end
-
-        # Clean up event references from posts
-        clean_post_event_links(removed) if removed.any?
 
         if removed.empty?
           logger.info 'No past events were removed.'
@@ -64,22 +63,9 @@ module Mayhem
 
       private
 
-      def event_times_for(path)
-        document = Mayhem::FrontMatter::Document.load(path)
-        return unless document
-
-        front_matter = document.front_matter
-        start_time = parse_time(front_matter['start_date'], path, 'start_date', required: true)
-        return unless start_time
-
-        end_time = parse_time(front_matter['end_date'], path, 'end_date', required: false)
-
-        [start_time, end_time]
-      end
-
-      def parse_time(value, path, field_name, required:)
+      def parse_time(value, event_id, field_name, required:)
         if value.nil? || (value.respond_to?(:empty?) && value.empty?)
-          logger.warn "Skipping #{File.basename(path)}: missing #{field_name}" if required
+          logger.warn "Skipping #{event_id}: missing #{field_name}" if required
           return nil
         end
 
@@ -92,48 +78,21 @@ module Mayhem
           Time.iso8601(value.to_s)
         end
       rescue ArgumentError => e
-        logger.warn "Skipping #{File.basename(path)}: invalid #{field_name} '#{value}' (#{e.message})"
+        logger.warn "Skipping #{event_id}: invalid #{field_name} '#{value}' (#{e.message})"
         nil
       end
 
-      def remove_file(path)
-        FileUtils.rm(path)
-      rescue Errno::ENOENT
-        # already removed
-      end
+      def remove_event_from_post(event)
+        post = event.news
+        return unless post
 
-      def clean_post_event_links(removed_event_ids)
-        removed_set = removed_event_ids.to_set
-        posts_updated = 0
+        event_ids = Array(post.event_ids)
+        updated_events = event_ids.reject { |existing_id| existing_id == event.id }
+        return unless updated_events.size < event_ids.size
 
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
-          document = Mayhem::FrontMatter::Document.load(post_path)
-          next unless document
-
-          front_matter = document.front_matter
-          event_ids = front_matter['event_ids']
-          next unless event_ids.is_a?(Array)
-          next if event_ids.empty?
-
-          original_size = event_ids.size
-          updated_events = event_ids.reject { |event_id| removed_set.include?(event_id) }
-
-          next unless updated_events.size < original_size
-
-          front_matter['event_ids'] = updated_events
-          document.front_matter = front_matter
-          document.save
-          posts_updated += 1
-          logger.info "Cleaned event links from #{File.basename(post_path)}"
-        end
-
-        return unless posts_updated.positive?
-
-        logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links."
-      end
-
-      def events_dir
-        Mayhem::Models::Event.collection_dir
+        post['event_ids'] = updated_events
+        post.save!
+        logger.info "Cleaned event links from #{post.id}"
       end
     end
   end

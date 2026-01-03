@@ -1,10 +1,10 @@
 ---
 date: '2025-12-31T18:43:39+00:00'
 event_ids:
-- 2026-01-02-disaster-assistance-center-at-auburn-library.md
-- 2026-01-03-disaster-assistance-center-at-auburn-library.md
-- 2026-01-04-disaster-assistance-center-at-king-county-library-system-administrative-office.md
-- 2026-01-05-disaster-assistance-center-at-carnation-library.md
+- _events/2026-01-02-disaster-assistance-center-at-auburn-library.md
+- _events/2026-01-03-disaster-assistance-center-at-auburn-library.md
+- _events/2026-01-04-disaster-assistance-center-at-king-county-library-system-administrative-office.md
+- _events/2026-01-05-disaster-assistance-center-at-carnation-library.md
 events_extracted: true
 feed_content: This is King County Emergency Management. You are receiving this message
   because you filled out the damage assessment survey following the floods. We are

@@ -131,7 +131,7 @@ class SourceUrlCheckerTest < Minitest::Test
 
   def test_deleted_event_removed_from_post_references
     event_id = 'event789'
-    event_filename = "#{event_id}.md"
+    event_filename = event_id_for(event_id)
     write_event(event_id, 'https://example.com/missing-event')
     post_path = write_post_with_event_ids('2025-01-01-test.md', 'https://example.com/valid', [event_filename])
 
@@ -223,8 +223,11 @@ class SourceUrlCheckerTest < Minitest::Test
     write_event('event1', 'https://example.com/missing1')
     write_event('event2', 'https://example.com/missing2')
     write_event('event3', 'https://example.com/valid')
-    post_path = write_post_with_event_ids('2025-01-01-test.md', 'https://example.com/valid',
-                                       %w[event1.md event2.md event3.md])
+    post_path = write_post_with_event_ids(
+      '2025-01-01-test.md',
+      'https://example.com/valid',
+      [event_id_for('event1'), event_id_for('event2'), event_id_for('event3')]
+    )
 
     checker = build_checker(http_client: lambda { |url|
       url.include?('missing') ? :not_found : :success
@@ -234,12 +237,16 @@ class SourceUrlCheckerTest < Minitest::Test
     document = Mayhem::FrontMatter::Document.load(post_path)
     events = document.front_matter['event_ids'] || []
 
-    assert_equal ['event3.md'], events, 'Only valid event should remain'
+    assert_equal [event_id_for('event3')], events, 'Only valid event should remain'
   end
 
   def test_post_with_only_deleted_events_has_empty_events_array
     write_event('event1', 'https://example.com/missing')
-    post_path = write_post_with_event_ids('2025-01-01-test.md', 'https://example.com/valid', ['event1.md'])
+    post_path = write_post_with_event_ids(
+      '2025-01-01-test.md',
+      'https://example.com/valid',
+      [event_id_for('event1')]
+    )
 
     checker = build_checker(http_client: lambda { |url|
       url.include?('missing') ? :not_found : :success
@@ -332,6 +339,10 @@ class SourceUrlCheckerTest < Minitest::Test
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
+  end
+
+  def event_id_for(id)
+    File.join('_events', "#{id}.md")
   end
 
   def write_post_without_source_url(filename)

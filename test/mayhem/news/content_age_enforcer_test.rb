@@ -77,7 +77,11 @@ class ContentAgeEnforcerTest < Minitest::Test
   def test_removes_generated_events_when_post_removed
     write_config(content_max_age_days: 30)
     # Create old post with event references
-    old_post = write_post_with_event_ids('2025-01-01-old.md', 300, %w[event1.md event2.md])
+    old_post = write_post_with_event_ids(
+      '2025-01-01-old.md',
+      300,
+      [event_id_for('event1'), event_id_for('event2')]
+    )
 
     # Create the events (one generated, one not)
     event1 = write_event(@events_dir, 'event1', generated: true)
@@ -104,8 +108,9 @@ class ContentAgeEnforcerTest < Minitest::Test
   def test_keeps_generated_events_with_remaining_post_references
     write_config(content_max_age_days: 30)
     # Create two posts that reference the same event
-    old_post = write_post_with_event_ids('2025-01-01-old.md', 300, ['shared-event.md'])
-    new_post = write_post_with_event_ids('2025-12-01-new.md', 10, ['shared-event.md'])
+    shared_event_id = event_id_for('shared-event')
+    old_post = write_post_with_event_ids('2025-01-01-old.md', 300, [shared_event_id])
+    new_post = write_post_with_event_ids('2025-12-01-new.md', 10, [shared_event_id])
 
     # Create the shared generated event
     shared_event = write_event(@events_dir, 'shared-event', generated: true)
@@ -155,6 +160,10 @@ class ContentAgeEnforcerTest < Minitest::Test
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
+  end
+
+  def event_id_for(id)
+    File.join('_events', "#{id}.md")
   end
 
   def write_event(events_dir, id, generated:)

@@ -1,7 +1,7 @@
 ---
 date: '2025-12-10T00:32:27+00:00'
 event_ids:
-- 2026-03-06-2026-frederick-j-krause-scholarship-application-deadline.md
+- _events/2026-03-06-2026-frederick-j-krause-scholarship-application-deadline.md
 events_extracted: true
 feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>2026
   Disability and Health Scholarship Now Open</h2>\n<p><img src=\"https://ihdd.org/wp-content/uploads/2025/12/disabled-college-student-wheelchair.jpg\">The

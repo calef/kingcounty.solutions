@@ -1,7 +1,7 @@
 ---
 date: '2025-12-18T20:30:12+00:00'
 event_ids:
-- 2026-01-26-essentials-first-day-of-action.md
+- _events/2026-01-26-essentials-first-day-of-action.md
 events_extracted: true
 feed_content: "<p>The first Essentials First’s annual Day of Action is happening on
   <strong>Monday, January 26, 2026</strong>, in Olympia, and we invite you to mark
