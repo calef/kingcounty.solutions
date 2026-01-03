@@ -1,7 +1,7 @@
 ---
 date: '2025-12-18T08:47:13+00:00'
 event_ids:
-- 2026-01-01-dbt-skills-class-for-teens.md
+- _events/2026-01-01-dbt-skills-class-for-teens.md
 events_extracted: true
 feed_content: The DBT team at Friends of Youth is excited to share that our next Dialectical
   Behavior Therapy (DBT) Skills Class will begin in early January 2026, and enrollment

@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'fileutils'
+require 'pathname'
 require 'seldon'
 require 'time'
 require 'yaml'
@@ -136,7 +137,7 @@ module Mayhem
         remaining_event_refs = remaining_event_references
 
         event_ids.each do |event_id|
-          event_path = File.join(events_dir, event_id)
+          event_path = event_path_for(event_id)
           next unless File.exist?(event_path)
 
           # Only remove events that were generated from posts
@@ -174,6 +175,11 @@ module Mayhem
 
       def events_dir
         Mayhem::Models::Event.collection_dir
+      end
+
+      def event_path_for(event_id)
+        root = Pathname.new(events_dir).parent
+        root.join(event_id.to_s).to_s
       end
     end
   end

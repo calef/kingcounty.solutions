@@ -102,7 +102,7 @@ class OrganizationsPrunerTest < Minitest::Test
 
   def test_prune_organization_content_removes_event_links_from_posts
     write_event('event-1', 'Test Organization')
-    write_post('post-with-event.md', 'Other Organization', event_ids: ['event-1.md'])
+    write_post('post-with-event.md', 'Other Organization', event_ids: [event_id_for('event-1')])
 
     result = @pruner.prune_organization_content('Test Organization')
 
@@ -157,6 +157,10 @@ class OrganizationsPrunerTest < Minitest::Test
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
+  end
+
+  def event_id_for(id)
+    File.join('_events', "#{id}.md")
   end
 
   def write_event(id, organization_title, image_checksums: [])

@@ -1,7 +1,7 @@
 ---
 date: '2025-12-16T21:16:57+00:00'
 event_ids:
-- 2025-12-31-craft-events-for-new-year-s-celebrations.md
+- _events/2025-12-31-craft-events-for-new-year-s-celebrations.md
 events_extracted: true
 feed_content: |-
   <p>Looking for family fun and community while the kids are on winter break? Our libraries have planned board game bashes, crafternoons, maker events and early New Year’s parties. We are also hosting regular <a>story times</a> and other family programming.</p>

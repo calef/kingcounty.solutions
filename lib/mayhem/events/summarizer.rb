@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'ruby/openai'
+require 'pathname'
 require 'seldon'
 require_relative '../topics/classifier'
 require_relative '../locations/classifier'
@@ -209,7 +210,7 @@ module Mayhem
         if should_unpublish
           @event_pruner.unpublish(file_path, document)
           if generated_from_post
-            event_id = File.basename(file_path)
+            event_id = event_id_for_path(file_path)
             removed_refs = remove_event_references(event_id)
             stats[:events_unlinked] += removed_refs if removed_refs&.positive?
           end
@@ -373,13 +374,18 @@ module Mayhem
 
         return unless generated_from_post
 
-        event_slug = File.basename(file_path, '.md')
-        removed_refs = remove_event_references(event_slug)
+        event_id = event_id_for_path(file_path)
+        removed_refs = remove_event_references(event_id)
         stats[:events_unlinked] += removed_refs if removed_refs&.positive?
       end
 
       def events_dir
         Mayhem::Models::Event.collection_dir
+      end
+
+      def event_id_for_path(path)
+        root = Pathname.new(events_dir).parent
+        Pathname.new(path).relative_path_from(root).to_s
       end
     end
   end
