@@ -1,7 +1,6 @@
 ---
 date: '2025-11-17T18:16:35+00:00'
-event_ids:
-- _events/2026-01-01-award-decisions-for-housing-funding.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p class="has-medium-font-size"><strong>Applications for 6,791 housing units came from 23 counties.</strong></p>
