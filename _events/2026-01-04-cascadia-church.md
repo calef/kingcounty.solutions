@@ -1,0 +1,206 @@
+---
+end_date: '2026-01-04T12:00:00-08:00'
+feed_content: '<div> <div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
+  Event Series: </span> <a> <span> Cascadia Church </span> </a> </div> <h1>Cascadia
+  Church</h1> <div> <div> <span>January 4 @ 9:00 am</span> – <span>12:00 pm</span>
+  </div> </div> <div> <div> <div> <div> <div> <ul> <li> <a> Google Calendar </a> </li>
+  <li> <a> iCalendar </a> </li> <li> <a> Outlook 365 </a> </li> <li> <a> Outlook Live
+  </a> </li> </ul> </div> </div> </div> </div> <div> <div> <h2> Details </h2> <ul>
+  <li> <span>Date:</span> <span> <abbr> January 4 </abbr> </span> </li> <li> <span>Time:</span>
+  <span> <div> <div>9:00 am – 12:00 pm</div> </div> </span> </li> <dt>Series: </dt>
+  <dd> <a> Cascadia Church </a> </dd> </ul> </div> </div> </div> </div> </section>
+  </div> </div> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://federalwayseniorcenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+  </script>'
+feed_content_checksum: 68f4efaf9781739e0b8264ed736a10d018f4665c
+image_checksums: []
+location: ''
+location_titles:
+- King County
+organization_title: Federal Way Senior Center
+original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
+  />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<link
+  rel='stylesheet' id='tribe-events-pro-views-v2-print-css' href='https://federalwayseniorcenter.org/wp-content/plugins/events-calendar-pro/build/css/views-print.css?ver=7.7.11'
+  media='print' />\n<meta name='robots' content='max-image-preview:large' />\n<title>Cascadia
+  Church &#8211; Federal Way Senior Center</title>\n<link rel='dns-prefetch' href='//connect.facebook.net'
+  />\n<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />\n<link
+  rel=\"alternate\" type=\"application/rss+xml\" title=\"Federal Way Senior Center
+  &raquo; Feed\" href=\"https://federalwayseniorcenter.org/feed/\" />\n<link rel=\"alternate\"
+  type=\"application/rss+xml\" title=\"Federal Way Senior Center &raquo; Comments
+  Feed\" href=\"https://federalwayseniorcenter.org/comments/feed/\" />\n<link rel=\"alternate\"
+  type=\"text/calendar\" title=\"Federal Way Senior Center &raquo; iCal Feed\" href=\"https://federalwayseniorcenter.org/events/?ical=1\"
+  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Federal Way Senior
+  Center &raquo; Cascadia Church Comments Feed\" href=\"https://federalwayseniorcenter.org/event/cascadia-church/2026-01-04/feed/\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\"
+  href=\"https://federalwayseniorcenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffederalwayseniorcenter.org%2Fevent%2Fcascadia-church%2F2026-01-04%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://federalwayseniorcenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffederalwayseniorcenter.org%2Fevent%2Fcascadia-church%2F2026-01-04%2F&#038;format=xml\"
+  />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v9.11.0
+  - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
+  src=\"//www.googletagmanager.com/gtag/js?id=G-DMPLNFKYC2\"  data-cfasync=\"false\"
+  data-wpfc-render=\"false\" async></script>\n\t\t\t<script data-cfasync=\"false\"
+  data-wpfc-render=\"false\">\n\t\t\t\tvar mi_version = '9.11.0';\n\t\t\t\tvar mi_track_user
+  = true;\n\t\t\t\tvar mi_no_track_reason = '';\n\t\t\t\t\t\t\t\tvar MonsterInsightsDefaultLocations
+  = {\"page_location\":\"https:\\/\\/federalwayseniorcenter.org\\/event\\/cascadia-church\\/2026-01-04\\/\"};\n\t\t\t\t\t\t\t\tif
+  ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {\n\t\t\t\t\tvar MonsterInsightsLocations
+  = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter(
+  MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations
+  );\n\t\t\t\t} else {\n\t\t\t\t\tvar MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery
+  === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;\n\t\t\t\t}\n\n\t\t\t\t\t\t\t\tvar
+  disableStrs = [\n\t\t\t\t\t\t\t\t\t\t'ga-disable-G-DMPLNFKYC2',\n\t\t\t\t\t\t\t\t\t];\n\n\t\t\t\t/*
+  Function to detect opted out users */\n\t\t\t\tfunction __gtagTrackerIsOptedOut()
+  {\n\t\t\t\t\tfor (var index = 0; index < disableStrs.length; index++) {\n\t\t\t\t\t\tif
+  (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {\n\t\t\t\t\t\t\treturn
+  true;\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\treturn false;\n\t\t\t\t}\n\n\t\t\t\t/*
+  Disable tracking if the opt-out cookie exists. */\n\t\t\t\tif (__gtagTrackerIsOptedOut())
+  {\n\t\t\t\t\tfor (var index = 0; index < disableStrs.length; index++) {\n\t\t\t\t\t\twindow[disableStrs[index]]
+  = true;\n\t\t\t\t\t}\n\t\t\t\t}\n\n\t\t\t\t/* Opt-out function */\n\t\t\t\tfunction
+  __gtagTrackerOptout() {\n\t\t\t\t\tfor (var index = 0; index < disableStrs.length;
+  index++) {\n\t\t\t\t\t\tdocument.cookie = disableStrs[index] + '=true; expires=Thu,
+  31 Dec 2099 23:59:59 UTC; path=/';\n\t\t\t\t\t\twindow[disableStrs[index]] = true;\n\t\t\t\t\t}\n\t\t\t\t}\n\n\t\t\t\tif
+  ('undefined' === typeof gaOptout) {\n\t\t\t\t\tfunction gaOptout() {\n\t\t\t\t\t\t__gtagTrackerOptout();\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\t\t\t\t\twindow.dataLayer
+  = window.dataLayer || [];\n\n\t\t\t\twindow.MonsterInsightsDualTracker = {\n\t\t\t\t\thelpers:
+  {},\n\t\t\t\t\ttrackers: {},\n\t\t\t\t};\n\t\t\t\tif (mi_track_user) {\n\t\t\t\t\tfunction
+  __gtagDataLayer() {\n\t\t\t\t\t\tdataLayer.push(arguments);\n\t\t\t\t\t}\n\n\t\t\t\t\tfunction
+  __gtagTracker(type, name, parameters) {\n\t\t\t\t\t\tif (!parameters) {\n\t\t\t\t\t\t\tparameters
+  = {};\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\tif (parameters.send_to) {\n\t\t\t\t\t\t\t__gtagDataLayer.apply(null,
+  arguments);\n\t\t\t\t\t\t\treturn;\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\tif (type === 'event')
+  {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tparameters.send_to = monsterinsights_frontend.v4_id;\n\t\t\t\t\t\t\tvar
+  hookName = name;\n\t\t\t\t\t\t\tif (typeof parameters['event_category'] !== 'undefined')
+  {\n\t\t\t\t\t\t\t\thookName = parameters['event_category'] + ':' + name;\n\t\t\t\t\t\t\t}\n\n\t\t\t\t\t\t\tif
+  (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {\n\t\t\t\t\t\t\t\tMonsterInsightsDualTracker.trackers[hookName](parameters);\n\t\t\t\t\t\t\t}
+  else {\n\t\t\t\t\t\t\t\t__gtagDataLayer('event', name, parameters);\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t}
+  else {\n\t\t\t\t\t\t\t__gtagDataLayer.apply(null, arguments);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\t__gtagTracker('js',
+  new Date());\n\t\t\t\t\t__gtagTracker('set', {\n\t\t\t\t\t\t'developer_id.dZGIzZG':
+  true,\n\t\t\t\t\t\t\t\t\t\t\t});\n\t\t\t\t\tif ( MonsterInsightsLocations.page_location
+  ) {\n\t\t\t\t\t\t__gtagTracker('set', MonsterInsightsLocations);\n\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t__gtagTracker('config',
+  'G-DMPLNFKYC2', {\"forceSSL\":\"true\",\"link_attribution\":\"true\"} );\n\t\t\t\t\t\t\t\t\t\twindow.gtag
+  = __gtagTracker;\t\t\t\t\t\t\t\t\t\t(function () {\n\t\t\t\t\t\t/* https://developers.google.com/analytics/devguides/collection/analyticsjs/
+  */\n\t\t\t\t\t\t/* ga and __gaTracker compatibility shim. */\n\t\t\t\t\t\tvar noopfn
+  = function () {\n\t\t\t\t\t\t\treturn null;\n\t\t\t\t\t\t};\n\t\t\t\t\t\tvar newtracker
+  = function () {\n\t\t\t\t\t\t\treturn new Tracker();\n\t\t\t\t\t\t};\n\t\t\t\t\t\tvar
+  Tracker = function () {\n\t\t\t\t\t\t\treturn null;\n\t\t\t\t\t\t};\n\t\t\t\t\t\tvar
+  p = Tracker.prototype;\n\t\t\t\t\t\tp.get = noopfn;\n\t\t\t\t\t\tp.set = noopfn;\n\t\t\t\t\t\tp.send
+  = function () {\n\t\t\t\t\t\t\tvar args = Array.prototype.slice.call(arguments);\n\t\t\t\t\t\t\targs.unshift('send');\n\t\t\t\t\t\t\t__gaTracker.apply(null,
+  args);\n\t\t\t\t\t\t};\n\t\t\t\t\t\tvar __gaTracker = function () {\n\t\t\t\t\t\t\tvar
+  len = arguments.length;\n\t\t\t\t\t\t\tif (len === 0) {\n\t\t\t\t\t\t\t\treturn;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\tvar
+  f = arguments[len - 1];\n\t\t\t\t\t\t\tif (typeof f !== 'object' || f === null ||
+  typeof f.hitCallback !== 'function') {\n\t\t\t\t\t\t\t\tif ('send' === arguments[0])
+  {\n\t\t\t\t\t\t\t\t\tvar hitConverted, hitObject = false, action;\n\t\t\t\t\t\t\t\t\tif
+  ('event' === arguments[1]) {\n\t\t\t\t\t\t\t\t\t\tif ('undefined' !== typeof arguments[3])
+  {\n\t\t\t\t\t\t\t\t\t\t\thitObject = {\n\t\t\t\t\t\t\t\t\t\t\t\t'eventAction': arguments[3],\n\t\t\t\t\t\t\t\t\t\t\t\t'eventCategory':
+  arguments[2],\n\t\t\t\t\t\t\t\t\t\t\t\t'eventLabel': arguments[4],\n\t\t\t\t\t\t\t\t\t\t\t\t'value':
+  arguments[5] ? arguments[5] : 1,\n\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\tif
+  ('pageview' === arguments[1]) {\n\t\t\t\t\t\t\t\t\t\tif ('undefined' !== typeof
+  arguments[2]) {\n\t\t\t\t\t\t\t\t\t\t\thitObject = {\n\t\t\t\t\t\t\t\t\t\t\t\t'eventAction':
+  'page_view',\n\t\t\t\t\t\t\t\t\t\t\t\t'page_path': arguments[2],\n\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\tif
+  (typeof arguments[2] === 'object') {\n\t\t\t\t\t\t\t\t\t\thitObject = arguments[2];\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\tif
+  (typeof arguments[5] === 'object') {\n\t\t\t\t\t\t\t\t\t\tObject.assign(hitObject,
+  arguments[5]);\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\tif ('undefined' !== typeof
+  arguments[1].hitType) {\n\t\t\t\t\t\t\t\t\t\thitObject = arguments[1];\n\t\t\t\t\t\t\t\t\t\tif
+  ('pageview' === hitObject.hitType) {\n\t\t\t\t\t\t\t\t\t\t\thitObject.eventAction
+  = 'page_view';\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\tif
+  (hitObject) {\n\t\t\t\t\t\t\t\t\t\taction = 'timing' === arguments[1].hitType ?
+  'timing_complete' : hitObject.eventAction;\n\t\t\t\t\t\t\t\t\t\thitConverted = mapArgs(hitObject);\n\t\t\t\t\t\t\t\t\t\t__gtagTracker('event',
+  action, hitConverted);\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\treturn;\n\t\t\t\t\t\t\t}\n\n\t\t\t\t\t\t\tfunction
+  mapArgs(args) {\n\t\t\t\t\t\t\t\tvar arg, hit = {};\n\t\t\t\t\t\t\t\tvar gaMap =
+  {\n\t\t\t\t\t\t\t\t\t'eventCategory': 'event_category',\n\t\t\t\t\t\t\t\t\t'eventAction':
+  'event_action',\n\t\t\t\t\t\t\t\t\t'eventLabel': 'event_label',\n\t\t\t\t\t\t\t\t\t'eventValue':
+  'event_value',\n\t\t\t\t\t\t\t\t\t'nonInteraction': 'non_interaction',\n\t\t\t\t\t\t\t\t\t'timingCategory':
+  'event_category',\n\t\t\t\t\t\t\t\t\t'timingVar': 'name',\n\t\t\t\t\t\t\t\t\t'timingValue':
+  'value',\n\t\t\t\t\t\t\t\t\t'timingLabel': 'event_label',\n\t\t\t\t\t\t\t\t\t'page':
+  'page_path',\n\t\t\t\t\t\t\t\t\t'location': 'page_location',\n\t\t\t\t\t\t\t\t\t'title':
+  'page_title',\n\t\t\t\t\t\t\t\t\t'referrer' : 'page_referrer',\n\t\t\t\t\t\t\t\t};\n\t\t\t\t\t\t\t\tfor
+  (arg in args) {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif (!(!args.hasOwnProperty(arg)
+  || !gaMap.hasOwnProperty(arg))) {\n\t\t\t\t\t\t\t\t\t\thit[gaMap[arg]] = args[arg];\n\t\t\t\t\t\t\t\t\t}
+  else {\n\t\t\t\t\t\t\t\t\t\thit[arg] = args[arg];\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\treturn
+  hit;\n\t\t\t\t\t\t\t}\n\n\t\t\t\t\t\t\ttry {\n\t\t\t\t\t\t\t\tf.hitCallback();\n\t\t\t\t\t\t\t}
+  catch (ex) {\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t};\n\t\t\t\t\t\t__gaTracker.create =
+  newtracker;\n\t\t\t\t\t\t__gaTracker.getByName = newtracker;\n\t\t\t\t\t\t__gaTracker.getAll
+  = function () {\n\t\t\t\t\t\t\treturn [];\n\t\t\t\t\t\t};\n\t\t\t\t\t\t__gaTracker.remove
+  = noopfn;\n\t\t\t\t\t\t__gaTracker.loaded = true;\n\t\t\t\t\t\twindow['__gaTracker']
+  = __gaTracker;\n\t\t\t\t\t})();\n\t\t\t\t\t\t\t\t\t} else {\n\t\t\t\t\t\t\t\t\t\tconsole.log(\"\");\n\t\t\t\t\t(function
+  () {\n\t\t\t\t\t\tfunction __gtagTracker() {\n\t\t\t\t\t\t\treturn null;\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\twindow['__gtagTracker']
+  = __gtagTracker;\n\t\t\t\t\t\twindow['gtag'] = __gtagTracker;\n\t\t\t\t\t})();\n\t\t\t\t\t\t\t\t\t}\n\t\t\t</script>\n\t\t\t\t\t\t\t<!--
+  / Google Analytics by MonsterInsights -->\n\t\t<style id='wp-img-auto-sizes-contain-inline-css'>\nimg:is([sizes=auto
+  i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css
+  */\n</style>\n<style id='wp-block-spacer-inline-css'>\n.wp-block-spacer{clear:both}\n/*#
+  sourceURL=https://federalwayseniorcenter.org/wp-content/plugins/gutenberg/build/styles/block-library/spacer/style.css
+  */\n</style>\n<style id='wp-block-navigation-link-inline-css'>\n.wp-block-navigation
+  .wp-block-navigation-item__label{overflow-wrap:break-word}.wp-block-navigation .wp-block-navigation-item__description{display:none}.link-ui-tools{outline:1px
+  solid #f0f0f0;padding:8px}.link-ui-block-inserter{padding-top:8px}.link-ui-block-inserter__back{margin-left:8px;text-transform:uppercase}\n\n\t\t\t\t.is-style-arrow-link
+  .wp-block-navigation-item__label:after {\n\t\t\t\t\tcontent: \"\\2197\";\n\t\t\t\t\tpadding-inline-start:
+  0.25rem;\n\t\t\t\t\tvertical-align: middle;\n\t\t\t\t\ttext-decoration: none;\n\t\t\t\t\tdisplay:
+  inline-block;\n\t\t\t\t}\n/*# sourceURL=wp-block-navigation-link-inline-css */\n</style>\n<style
+  id='wp-block-navigation-inline-css'>\n.wp-block-navigation{position:relative}.wp-block-navigation
+  ul{margin-bottom:0;margin-left:0;margin-top:0;padding-left:0}.wp-block-navigation
+  ul,.wp-block-navigation ul li{list-style:none;padding:0}.wp-block-navigation .wp-block-navigation-item{align-items:center;background-color:inherit;display:flex;position:relative}.wp-block-navigation
+  .wp-block-navigation-item .wp-block-navigation__submenu-container:empty{display:none}.wp-block-navigation
+  .wp-block-navigation-item__content{display:block;z-index:1}.wp-block-navigation
+  .wp-block-navigation-item__content.wp-block-navigation-item__content{color:inherit}.wp-block-navigation.has-text-decoration-underline
+  .wp-block-navigation-item__content,.wp-block-navigation.has-text-decoration-underline
+  .wp-block-navigation-item__content:active,.wp-block-navigation.has-text-decoration-underline
+  .wp-block-navigation-item__content:focus{text-decoration:underline}.wp-block-navigation.has-text-decoration-line-through
+  .wp-block-navigation-item__content,.wp-block-navigation.has-text-decoration-line-through
+  .wp-block-navigation-item__content:active,.wp-block-navigation.has-text-decoration-line-through
+  .wp-block-navigation-item__content:focus{text-decoration:line-through}.wp-block-navigation
+  :where(a),.wp-block-navigation :where(a:active),.wp-block-navigation :where(a:focus){text-decoration:none}.wp-block-navigation
+  .wp-block-navigation__submenu-icon{align-self:center;background-color:inherit;border:none;color:currentColor;display:inline-block;font-size:inherit;height:.6em;line-height:0;margin-left:.25em;padding:0;width:.6em}.wp-block-navigation
+  .wp-block-navigation__submenu-icon svg{stroke:currentColor;display:inline-block;height:inherit;margin-top:.075em;width:inherit}.wp-block-navigation{--navigation-layout-justification-setting:flex-start;--navigation-layout-direction:row;--navigation-layout-wrap:wrap;--navigation-layout-justify:flex-start;--navigation-layout-align:center}.wp-block-navigation.is-vertical{--navigation-layout-direction:column;--navigation-layout-justify:initial;--navigation-layout-align:flex-start}.wp-block-navigation.no-wrap{--navigation-layout-wrap:nowrap}.wp-block-navigation.items-justified-center{--navigation-layout-justification-setting:center;--navigation-layout-justify:center}.wp-block-navigation.items-justified-center.is-vertical{--navigation-layout-align:center}.wp-block-navigation.items-justified-right{--navigation-layout-justification-setting:flex-end;--navigation-layout-justify:flex-end}.wp-block-navigation.items-justified-right.is-vertical{--navigation-layout-align:flex-end}.wp-block-navigation.items-justified-space-between{--navigation-layout-justification-setting:space-between;--navigation-layout-justify:space-between}.wp-block-navigation
+  .has-child .wp-block-navigation__submenu-container{align-items:normal;background-color:inherit;color:inherit;display:flex;flex-direction:column;opacity:0;position:absolute;z-index:2}@media
+  not (prefers-reduced-motion){.wp-block-navigation .has-child .wp-block-navigation__submenu-container{transition:opacity
+  .1s linear}}.wp-block-navigation .has-child .wp-block-navigation__submenu-container{height:0;overflow:hidden;visibility:hidden;width:0}.wp-block-navigation
+  .has-child .wp-block-navigation__submenu-container>.wp-block-navigation-item>.wp-block-navigation-item__content{display:flex;flex-grow:1;padding:.5em
+  1em}.wp-block-navigation .has-child .wp-block-navigation__submenu-container>.wp-block-navigation-item>.wp-block-navigation-item__content
+  .wp-block-navigation__submenu-icon{margin-left:auto;margin-right:0}.wp-block-navigation
+  .has-child .wp-block-navigation__submenu-container .wp-block-navigation-item__content{margin:0}.wp-block-navigation
+  .has-child .wp-block-navigation__submenu-container{left:-1px;top:100%}@media (min-width:782px){.wp-block-navigation
+  .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{left:100%;top:-1px}.wp-block-navigation
+  .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container:before{background:#0000;content:\"\";display:block;height:100%;position:absolute;right:100%;width:.5em}.wp-block-navigation
+  .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-icon{margin-right:.25em}.wp-block-navigation
+  .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-icon
+  svg{transform:rotate(-90deg)}}.wp-block-navigation .has-child .wp-block-navigation-submenu__toggle[aria-expanded=true]~.wp-block-navigation__submenu-container,.wp-block-navigation
+  .has-child:not(.open-on-click):hover>.wp-block-navigation__submenu-container,.wp-block-navigation
+  .has-child:not(.open-on-click):not(.open-on-hover-click):focus-within>.wp-block-navigation__submenu-container{height:auto;min-width:200px;opacity:1;overflow:visible;visibility:visible;width:auto}.wp-block-navigation.has-background
+  .has-child .wp-block-navigation__submenu-container{left:0;top:100%}@media (min-width:782px){.wp-block-navigation.has-background
+  .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{left:100%;top:0}}.wp-block-navigation-submenu{display:flex;position:relative}.wp-block-navigation-submenu
+  .wp-block-navigation__submenu-icon svg{stroke:currentColor}button.wp-block-navigation-item__content{background-color:initial;border:none;color:currentColor;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-align:left;text-transform:inherit}.wp-block-navigation-submenu__toggle{cursor:pointer}.wp-block-navigation-submenu__toggle[aria-expanded=true]+.wp-block-navigation__submenu-icon>svg,.wp-block-navigation-submenu__toggle[aria-expanded=true]>svg{transform:rotate(180deg)}.wp-block-navigation-item.open-on-click
+  .wp-block-navigation-submenu__toggle{padding-left:0;padding-right:.85em}.wp-block-navigation-item.open-on-click
+  .wp-block-navigation-submenu__toggle+.wp-block-navigation__submenu-icon{margin-left:-.6em;pointer-events:none}.wp-block-navigation-item.open-on-click
+  button.wp-block-navigation-item__content:not(.wp-block-navigation-submenu__toggle){padding:0}.wp-block-navigation
+  .wp-block-page-list,.wp-block-navigation__container,.wp-block-navigation__responsive-close,.wp-block-navigation__responsive-container,.wp-block-navigation__responsive-container-content,.wp-block-navigation__responsive-dialog{gap:inherit}:where(.wp-block-navigation.has-background
+  .wp-block-navigation-item a:not(.wp-element-button)),:where(.wp-block-navigation.has-background
+  .wp-block-navigation-submenu a:not(.wp-element-button)){padding:.5em 1em}:where(.wp-block-navigation
+  .wp-block-navigation__submenu-container .wp-block-navigation-item a:not(.wp-element-button)),:where(.wp-block-navigation
+  .wp-block-navigation__submenu-container .wp-block-navigation-submenu a:not(.wp-element-button)),:where(.wp-block-navigation
+  .wp-block-navigation__submenu-container .wp-block-navigation-submenu button.wp-block-navigation-item__content),:where(.wp-block-navigation
+  .wp-block-navigation__submenu-container .wp-block-pages-list__item button.wp-block-navigation-item__content){padding:.5em
+  1em}.wp-block-navigation.items-justified-right .wp-block-navigation__container .has-child
+  .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-right
+  .wp-block-page-list>.has-child .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between
+  .wp-block-page-list>.has-child:last-child .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between>.wp-block-navigation__container>.has-child:last-child
+  .wp-block-navigation__submenu-container{left:auto;right:0}.wp-block-navigation.items-justified-right
+  .wp-block-navigation__container .has-child .wp-block-navigation__submenu-container
+  .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-right
+  .wp-block-page-list>.has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between
+  .wp-block-page-list>.has-child:last-child .wp-block-navigation__submenu-container
+  .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between>.wp-block-navigation__container>.has-child:last-child
+  .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{left:-1px;right:-1px}@media
+  (min-width:782px){.wp-block-navigation.items-justified-right .wp-block-navigation__container
+  .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-right
+  .wp-block-page-list>.has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between
+  .wp-block-page-list>.has-child:last-child .wp-block-navigation__submenu-container
+  .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between>.wp-block-navigation__container>.has-child:last-child
+  .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{left:auto;right:100%}}.wp-block-navigation:not(.has-background)
+  .wp-block-navigation__submenu-container{background-color:#fff;border:1px solid #00000026}.wp-block-navigation.has-background
+  .wp-block-navigation__submenu-container{background-color:inherit}.wp-block-navigation:not(.has-text-color)
+  .wp-block-navigation__submenu-container{color:#000}.wp-block-navigation__container{align-items:var(--navigation-layout-align,initial);display:flex;flex-direction:var(--navigation-layout-direction,initial);flex-wrap:var(--navigation-layout-wrap,wrap);justify-content:var(--navigation-layout-justify,initial);list-style:none;margin:0;padding-left:0}.wp-block-navigation__container
+  .is-responsive{display:none}.wp-block-navigation__container:only-child,.wp-block-page-list:only-child{flex-grow:1}@keyframes
+  overlay-menu__fade-in-animation{0%{opacity:0;transform:translateY(.5em)}to{opacity:1;transform:translateY(0)}}.wp-block-navigation__responsive-container{bottom:0;display:none;left:"
+published: false
+source_url: https://federalwayseniorcenter.org/event/cascadia-church/2026-01-04/
+start_date: '2026-01-04T09:00:00-08:00'
+summarized: true
+title: Cascadia Church
+topic_titles: []
+---
+
+Join the Cascadia Church community on January 4 from 9 a.m. to noon for an engaging morning of worship and fellowship. Attendees can expect uplifting services, inspiring messages, and opportunities to connect with others. This event is open to everyone looking to deepen their faith and build community ties. Come experience a welcoming atmosphere and participate in meaningful discussions.
