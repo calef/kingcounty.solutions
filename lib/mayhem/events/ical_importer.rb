@@ -193,7 +193,6 @@ module Mayhem
 
         location = Seldon::Support::EncodingUtils.ensure_utf8(event_location(event))
         end_time = resolve_time(event.dtend) || start_time
-        start_time.strftime('%Y-%m-%d')
         start_value = start_time.iso8601
         end_value = end_time.iso8601
 
