@@ -220,9 +220,8 @@ module Mayhem
               Mayhem::Content::HtmlNormalizer.checksum(existing_normalized)
             end
 
-          if existing_checksum && existing_checksum == checksum
-            return skip_event(reason: :unchanged, reason_detail: canonical_url, stats: stats)
-          end
+          return skip_event(reason: :unchanged, reason_detail: canonical_url, stats: stats) if existing_checksum && existing_checksum == checksum
+
           return skip_event(reason: :duplicate, reason_detail: canonical_url, stats: stats)
         end
 
