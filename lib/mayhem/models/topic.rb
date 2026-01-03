@@ -7,7 +7,7 @@ module Mayhem
   module Models
     class Topic < AbstractJekyllCollection
       repository_role :topics
-      scope glob: '_topics/**/*.{md,markdown}'
+      scope glob: '_topics/**/*.md'
       naming do |front_matter:, **|
         slug_source = front_matter['slug'] || front_matter['title'] || 'untitled'
         slug = FMRepo.slugify(slug_source)

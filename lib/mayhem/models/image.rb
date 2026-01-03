@@ -9,7 +9,7 @@ module Mayhem
       include Mayhem::Models::Concerns::Sourced
 
       repository_role :images
-      scope glob: '_images/**/*.{md,markdown}'
+      scope glob: '_images/**/*.md'
       naming do |front_matter:, **|
         checksum = front_matter['checksum'] || 'untitled'
         "_images/#{checksum}.md"
