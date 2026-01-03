@@ -1,7 +1,6 @@
 ---
 date: '2025-12-22T21:39:00+00:00'
-event_ids:
-- _events/2026-01-01-free-flood-debris-disposal.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div>
