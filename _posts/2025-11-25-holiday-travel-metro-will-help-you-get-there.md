@@ -1,8 +1,8 @@
 ---
 date: '2025-11-25T16:00:01+00:00'
 event_ids:
-- 2025-12-31-new-year-s-eve-transit-schedule.md
-- 2026-01-01-new-year-s-day-transit-schedule.md
+- _events/2025-12-31-new-year-s-eve-transit-schedule.md
+- _events/2026-01-01-new-year-s-day-transit-schedule.md
 events_extracted: true
 feed_content: The holidays are coming! Whether you are going to holiday events, shopping
   or celebrating with friends and family, it’s a great time to explore your transit

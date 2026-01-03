@@ -39,7 +39,7 @@ class EventsPrunerTest < Minitest::Test
 
   def test_delete_removes_file_and_cleans_post_references
     event_path = write_event('event-1')
-    write_post('post.md', ['event-1.md'])
+    write_post('post.md', [event_id_for('event-1')])
 
     @pruner.delete(event_path)
 
@@ -88,6 +88,10 @@ class EventsPrunerTest < Minitest::Test
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
+  end
+
+  def event_id_for(id)
+    File.join('_events', "#{id}.md")
   end
 
   def write_image_metadata(id)

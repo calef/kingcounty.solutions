@@ -200,7 +200,7 @@ Analyzes news posts to identify event announcements using LLM, creates correspon
 - Processes **all** posts in `_posts/` directory, skipping only those marked with `locked: true`, `published: false`, or `events_extracted: true`.
 - Sends post title and content to the LLM to extract structured event data (title, date/time, location, description).
 - The LLM is instructed to extract only future events relative to the article's publication date, filtering out past events automatically.
-- Creates `_events/<date>-<slug>.md` entries with `generated_from_post: true` flag and links them in the post's `event_ids` front matter array using the full event filenames.
+- Creates `_events/<date>-<slug>.md` entries with `generated_from_post: true` flag and links them in the post's `event_ids` front matter array using full event ids (for example, `_events/2025-01-01-sample.md`).
 - Uses post's `source_url` as the event's `source_url` for proper attribution.
 - Marks posts with `events_extracted: true` to avoid reprocessing, even when no events are found.
 - Generated events are automatically cleaned up when their source posts are removed by `bin/mayhem expire` or when they expire via `StaleEventCleaner`.

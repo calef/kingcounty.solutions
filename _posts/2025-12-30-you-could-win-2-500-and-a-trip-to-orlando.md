@@ -1,7 +1,7 @@
 ---
 date: '2025-12-30T23:59:09+00:00'
 event_ids:
-- 2026-06-30-2026-dav-and-auxiliary-national-convention-prize-drawing.md
+- _events/2026-06-30-2026-dav-and-auxiliary-national-convention-prize-drawing.md
 events_extracted: true
 feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/uploads/RecruitMember_Orlando.jpg\">Your
   mission is simple: Sign up just one fully paid new DAV member, and you’ll instantly

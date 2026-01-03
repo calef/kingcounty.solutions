@@ -153,7 +153,8 @@ class EventExtractorTest < Minitest::Test
     event_files = Dir.glob(File.join(@events_dir, '*.md'))
 
     assert_equal 1, event_files.size
-    assert_equal File.basename(event_files.first), doc.front_matter['event_ids'].first
+    expected_event_id = File.join('_events', File.basename(event_files.first))
+    assert_equal expected_event_id, doc.front_matter['event_ids'].first
 
     event_doc = Mayhem::FrontMatter::Document.load(event_files.first)
 
