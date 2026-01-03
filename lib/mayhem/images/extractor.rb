@@ -4,6 +4,7 @@ require 'digest'
 require 'fileutils'
 require 'mini_magick'
 require 'seldon'
+require 'time'
 require 'uri'
 require_relative '../front_matter/document'
 require_relative '../feed/discovery'
@@ -203,7 +204,7 @@ module Mayhem
         frontmatter_data['title'] = title
         organization_title = frontmatter['organization_title']
         frontmatter_data['organization_title'] = organization_title unless organization_title.to_s.strip.empty?
-        frontmatter_data['date'] = frontmatter['date'] if frontmatter['date']
+        frontmatter_data['date'] = resolve_date(frontmatter)
 
         document = Mayhem::FrontMatter::Document.new(
           path: doc_path,
@@ -236,6 +237,27 @@ module Mayhem
 
       def events_dir
         Mayhem::Models::Event.collection_dir
+      end
+
+      def resolve_date(frontmatter)
+        candidate = frontmatter['date'] || frontmatter['start_date']
+        if candidate
+          normalize_date(candidate)
+        else
+          fallback = Time.now.utc.iso8601
+          logger.warn "Missing date for image metadata; using #{fallback}"
+          fallback
+        end
+      end
+
+      def normalize_date(value)
+        Time.iso8601(value.to_s).iso8601
+      rescue ArgumentError
+        Time.parse(value.to_s).iso8601
+      rescue StandardError => e
+        fallback = Time.now.utc.iso8601
+        logger.warn "Invalid date #{value.inspect} (#{e.message}); using #{fallback}"
+        fallback
       end
     end
   end

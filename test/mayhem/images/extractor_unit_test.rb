@@ -62,6 +62,34 @@ class ImageExtractorUnitTest < Minitest::Test
     assert_equal frontmatter['organization_title'], doc.front_matter['organization_title']
   end
 
+  def test_ensure_image_doc_prefers_start_date_when_date_missing
+    frontmatter = {
+      'title' => 'Event',
+      'organization_title' => 'Test Org',
+      'start_date' => '2026-01-15T16:00:00-08:00'
+    }
+    checksum = 'cafebabe'
+    filename = 'cafebabe.webp'
+    original_url = 'https://example.com/banner.png'
+
+    @extractor.send(:ensure_image_doc, checksum, 'Banner', filename, frontmatter, original_url)
+
+    doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_images, "#{checksum}.md"))
+    assert_equal frontmatter['start_date'], doc.front_matter['date']
+  end
+
+  def test_ensure_image_doc_falls_back_to_now_when_date_missing
+    frontmatter = { 'title' => 'No Date', 'organization_title' => 'Test Org' }
+    checksum = 'beadfeed'
+    filename = 'beadfeed.webp'
+    original_url = 'https://example.com/no-date.png'
+
+    @extractor.send(:ensure_image_doc, checksum, 'Alt', filename, frontmatter, original_url)
+
+    doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_images, "#{checksum}.md"))
+    Time.iso8601(doc.front_matter['date'])
+  end
+
   def test_run_skips_unsummarized_posts
     fm = <<~MD
       ---
