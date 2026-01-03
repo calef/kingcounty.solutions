@@ -11,8 +11,7 @@ module Mayhem
       scope glob: '_events/**/*.md'
       naming do |front_matter:, **|
         slug_source = front_matter['slug'] || front_matter['title'] || 'untitled'
-        raw_slug = FMRepo.slugify(slug_source)
-        slug = raw_slug.empty? ? 'untitled' : raw_slug
+        slug = FMRepo.slugify(slug_source)
         prefix = begin
           value = front_matter['start_date'].to_s.strip
           value.empty? ? nil : Date.parse(value).strftime('%Y-%m-%d')
