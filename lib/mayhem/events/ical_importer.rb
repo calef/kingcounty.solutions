@@ -193,7 +193,6 @@ module Mayhem
 
         location = Seldon::Support::EncodingUtils.ensure_utf8(event_location(event))
         end_time = resolve_time(event.dtend) || start_time
-        start_time.strftime('%Y-%m-%d')
         start_value = start_time.iso8601
         end_value = end_time.iso8601
 
@@ -212,6 +211,20 @@ module Mayhem
           register_event_url(source_url) unless canonical_url == source_url
           return skip_event(reason: :locked, reason_detail: canonical_url, stats: stats) if existing_event.locked?
 
+          existing_checksum =
+            if existing_event.respond_to?(:feed_content_checksum) && existing_event.feed_content_checksum
+              existing_event.feed_content_checksum
+            elsif existing_event.respond_to?(:feed_content) && existing_event.feed_content
+              existing_normalized = Mayhem::Content::HtmlNormalizer.normalize(
+                existing_event.feed_content,
+                base_url: canonical_url
+              )
+              Mayhem::Content::HtmlNormalizer.checksum(existing_normalized)
+            end
+
+          if existing_checksum && existing_checksum == checksum
+            return skip_event(reason: :unchanged, reason_detail: canonical_url, stats: stats)
+          end
           return skip_event(reason: :duplicate, reason_detail: canonical_url, stats: stats)
         end
 
