@@ -6,9 +6,9 @@ GIT
 
 GIT
   remote: https://github.com/calef/seldon.git
-  revision: e32915246a17a4a74e9523bf95e85dfb10361eeb
+  revision: 1c6e2acbfe3bd5475bbc093007c32591f84a6aaa
   specs:
-    seldon (0.3.0)
+    seldon (0.3.1)
       faraday
       faraday-typhoeus
 
