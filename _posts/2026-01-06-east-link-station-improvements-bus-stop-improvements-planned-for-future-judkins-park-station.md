@@ -1,21 +1,20 @@
 ---
-date: '2026-01-03T01:02:32+00:00'
-event_ids: []
-events_extracted: true
-feed_content: 'Weekend Service Impacts Routes 101, 102, 111, 150, 177, 212, 218, 256,
-  ST 545, and ST 554 will have stop #700 4th Avenue &amp; Pike Street (northbound)
-  closed from Friday, January...'
-feed_content_checksum: 668927bb8b2453bc1ba6ee98803a8ca34e8b14f1
+date: '2026-01-06T17:55:05+00:00'
+feed_content: Project description As part of the transit integration project to provide
+  new and upgraded bus stops near Sound Transit East Link stations, King County Metro
+  Transit (Metro) will install four...
+feed_content_checksum: fa9d0000090a289b6d329827107941a8e4fed5a1
 image_checksums: []
 location_titles:
 - King County
 organization_title: King County Metro Transit
 original_source_html: "<!doctype html>\n<html lang=\"en-US\" id=\"html\" class=\"no-js\"
   itemtype=\"https://schema.org/Blog\" itemscope>\n<head>\n\t<meta charset=\"UTF-8\">\n\t<meta
-  name=\"viewport\" content=\"width=device-width, initial-scale=1, minimum-scale=1\">\n\t<title>Metro
-  Weekend Update – January 2-4, 2026 &#8211; Metro Matters</title>\n<meta name='robots'
-  content='max-image-preview:large' />\n<link rel=\"alternate\" hreflang=\"en\" href=\"https://kingcountymetro.blog/2026/01/02/metro-weekend-update-january-2-4-2026/\"
-  />\n<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://kingcountymetro.blog/2026/01/02/metro-weekend-update-january-2-4-2026/\"
+  name=\"viewport\" content=\"width=device-width, initial-scale=1, minimum-scale=1\">\n\t<title>East
+  Link Station Improvements: bus stop improvements planned for future Judkins Park
+  Station &#8211; Metro Matters</title>\n<meta name='robots' content='max-image-preview:large'
+  />\n<link rel=\"alternate\" hreflang=\"en\" href=\"https://kingcountymetro.blog/2026/01/06/east-link-station-improvements-bus-stop-improvements-planned-for-future-judkins-park-station/\"
+  />\n<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://kingcountymetro.blog/2026/01/06/east-link-station-improvements-bus-stop-improvements-planned-for-future-judkins-park-station/\"
   />\n<link rel='dns-prefetch' href='//secure.gravatar.com' />\n<link rel='dns-prefetch'
   href='//stats.wp.com' />\n<link rel='dns-prefetch' href='//widgets.wp.com' />\n<link
   rel='dns-prefetch' href='//s0.wp.com' />\n<link rel='dns-prefetch' href='//0.gravatar.com'
@@ -27,11 +26,11 @@ original_source_html: "<!doctype html>\n<html lang=\"en-US\" id=\"html\" class=\
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Metro Matters &raquo;
   Comments Feed\" href=\"https://kingcountymetro.blog/comments/feed/\" />\n\t\t\t<script>document.documentElement.classList.remove(
   'no-js' );</script>\n\t\t\t<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"Metro Matters &raquo; Metro Weekend Update – January 2-4, 2026 Comments
-  Feed\" href=\"https://kingcountymetro.blog/2026/01/02/metro-weekend-update-january-2-4-2026/feed/\"
+  title=\"Metro Matters &raquo; East Link Station Improvements: bus stop improvements
+  planned for future Judkins Park Station Comments Feed\" href=\"https://kingcountymetro.blog/2026/01/06/east-link-station-improvements-bus-stop-improvements-planned-for-future-judkins-park-station/feed/\"
   />\n<link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\"
-  href=\"https://kingcountymetro.blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkingcountymetro.blog%2F2026%2F01%2F02%2Fmetro-weekend-update-january-2-4-2026%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://kingcountymetro.blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkingcountymetro.blog%2F2026%2F01%2F02%2Fmetro-weekend-update-january-2-4-2026%2F&#038;format=xml\"
+  href=\"https://kingcountymetro.blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkingcountymetro.blog%2F2026%2F01%2F06%2Feast-link-station-improvements-bus-stop-improvements-planned-for-future-judkins-park-station%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://kingcountymetro.blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkingcountymetro.blog%2F2026%2F01%2F06%2Feast-link-station-improvements-bus-stop-improvements-planned-for-future-judkins-park-station%2F&#038;format=xml\"
   />\n<style id='wp-img-auto-sizes-contain-inline-css'>\nimg:is([sizes=auto i],[sizes^=\"auto,\"
   i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css
   */\n</style>\n<link rel='stylesheet' id='cnss_font_awesome_css-css' href='https://kingcountymetro.blog/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=7.0.0'
@@ -179,18 +178,19 @@ original_source_html: "<!doctype html>\n<html lang=\"en-US\" id=\"html\" class=\
   2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap:
   1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color:
   var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray)
-  !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color:
-  var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red)
-  !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange)
-  !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber)
-  !important;}.has-light-green-cyan-color{"
-rss_guid: https://kingcountymetro.blog/?p=68022
-slug: metro-weekend-update-january-2-4-2026
-source_url: https://kingcountymetro.blog/2026/01/02/metro-weekend-update-january-2-4-2026/
+  !important;}.has-white-color{color: var(--wp--preset--color--white) !importan"
+published: false
+rss_guid: https://kingcountymetro.blog/?p=68049
+slug: east-link-station-improvements-bus-stop-improvements-planned-for-future-judkins-park-station
+source_url: https://kingcountymetro.blog/2026/01/06/east-link-station-improvements-bus-stop-improvements-planned-for-future-judkins-park-station/
 summarized: true
-title: Metro Weekend Update – January 2-4, 2026
-topic_titles:
-- Transportation & Mobility
+title: 'East Link Station Improvements: bus stop improvements planned for future Judkins
+  Park Station'
+topic_titles: []
 ---
 
-Metro service will be impacted over the weekend, with routes 101, 102, 111, 150, 177, 212, 218, 256, ST 545, and ST 554 experiencing a closure at stop #700 4th Avenue & Pike Street (northbound) from January 2 through January 10 due to construction. Riders are encouraged to use transit for access to sporting and community events at major venues including T-Mobile Park, Husky Stadium, Lumen Field, and Climate Pledge Arena. The Water Taxi is operating under a winter schedule since October 11. The Seattle Center Monorail will run from 7:30 a.m. to 11 p.m. on Friday, 8:30 a.m. to 11 p.m. on Saturday, and 8:30 a.m. to 9 p.m. on Sunday, with departures approximately every 10 minutes. Riders can obtain next departure times by texting their stop number to 62550. Signing up for email or text alerts about King County Metro service is free and customizable.
+King County Metro Transit plans to enhance bus service near the upcoming Sound Transit Judkins Park Station by installing four new bus stops. These stops will be located on Rainier Avenue South and I-90, as well as on 23rd Avenue South and I-90. The project includes the construction of underground conduits for power supply, which will involve digging trenches approximately 2.5 feet deep and 2 feet wide for about 150 feet on Rainier Avenue and similar work on 23rd Avenue.
+
+Benvenuto Viewpoint and Sam Smith Park will be temporarily impacted during construction, with a small area of each park being used for conduit installation. The I-90 Trail may also see a temporary closure for up to five days. However, access to park amenities will remain open.
+
+The project is currently under review, with exploratory soil testing expected by late 2025 or early 2026. Actual construction is anticipated to begin in late February or March 2026. Following construction, all disturbed areas will be restored to their original condition. Public comments can be directed to King County Metro Transit by February 9, 2026.
