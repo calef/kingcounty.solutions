@@ -17,7 +17,7 @@ class ImageDocumentsTest < Minitest::Test
   def setup
     @image_docs = Dir['_images/*.md'].map { |path| { path:, data: load_front_matter(path) } }
     @organization_titles = load_organization_titles
-    @post_image_references = load_post_image_references
+    @content_image_references = load_content_image_references
   end
 
   def test_required_fields_are_present
@@ -154,10 +154,10 @@ class ImageDocumentsTest < Minitest::Test
       normalized = checksum.strip
       next if normalized.empty?
 
-      posts = @post_image_references[normalized]
-      next if posts && !posts.empty?
+      references = @content_image_references[normalized]
+      next if references && !references.empty?
 
-      "#{relative_path(doc[:path])}: expected at least one _posts/*.md to reference checksum #{normalized}"
+      "#{relative_path(doc[:path])}: expected at least one _posts/*.md or _events/*.md to reference checksum #{normalized}"
     end
 
     assert_empty errors, errors.join("\n")
@@ -194,17 +194,19 @@ class ImageDocumentsTest < Minitest::Test
     flunk "#{path} has invalid YAML front matter: #{e.message}"
   end
 
-  def load_post_image_references
+  def load_content_image_references
     references_with_default = Hash.new { |hash, key| hash[key] = Set.new }
-    Dir['_posts/*.md'].each do |path|
-      data = load_front_matter(path)
-      Array(data['image_checksums']).each do |checksum|
-        next unless checksum.is_a?(String)
+    %w[_posts/*.md _events/*.md].each do |pattern|
+      Dir[pattern].each do |path|
+        data = load_front_matter(path)
+        Array(data['image_checksums']).each do |checksum|
+          next unless checksum.is_a?(String)
 
-        normalized = checksum.strip
-        next if normalized.empty?
+          normalized = checksum.strip
+          next if normalized.empty?
 
-        references_with_default[normalized] << relative_path(path)
+          references_with_default[normalized] << relative_path(path)
+        end
       end
     end
 

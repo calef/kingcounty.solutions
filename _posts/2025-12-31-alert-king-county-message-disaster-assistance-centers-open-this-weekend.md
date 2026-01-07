@@ -1,5 +1,5 @@
 ---
-date: '2025-12-31T18:43:39+00:00'
+date: '2025-12-31T20:32:03+00:00'
 event_ids:
 - _events/2026-01-02-disaster-assistance-center-at-auburn-library.md
 - _events/2026-01-03-disaster-assistance-center-at-auburn-library.md
@@ -7,11 +7,11 @@ event_ids:
 - _events/2026-01-05-disaster-assistance-center-at-carnation-library.md
 events_extracted: true
 feed_content: This is King County Emergency Management. You are receiving this message
-  because you filled out the damage assessment survey following the floods. We are
-  following up to let you know about potential recovery support. Information is available
-  on our blog (https://kcemergency.com) and you can receive in person assistance at
-  one of our Disaster Assistance Centers […]
-feed_content_checksum: 6730ef53404b48e1a845d69cba1acad98bda0d98
+  because you subscribed to receive ALERT King County messages. We are reaching out
+  to let you know about potential recovery support for individuals impacted by recent
+  flooding. Information is available on our blog https://kcemergency.com/ and you
+  can receive more information in person at one […]
+feed_content_checksum: 536abc8ae68507ffcd0790993fe327d5421daf68
 image_checksums: []
 location_titles:
 - King County
@@ -189,14 +189,13 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta htt
   !important;}.has-white-border-color{border-color: var(--wp--preset--color--white)
   !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink)
   !important;}.has-vivid-red-border-color{border-color: var(--wp-"
-rss_guid: https://kcemergency.com/2025/12/31/disaster-assistance-centers-open-this-weekend/
+published: false
+rss_guid: https://kcemergency.com/2025/12/31/disaster-assistance-centers-open-this-weekend-2/
 slug: alert-king-county-message-disaster-assistance-centers-open-this-weekend
-source_url: https://kcemergency.com/2025/12/31/disaster-assistance-centers-open-this-weekend/
+source_url: https://kcemergency.com/2025/12/31/disaster-assistance-centers-open-this-weekend-2/
 summarized: true
 title: ALERT King County Message – Disaster Assistance Centers Open This Weekend
 topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---
-
-King County Emergency Management announces the opening of Disaster Assistance Centers this weekend for residents affected by recent floods. The centers will provide recovery support and are located at three sites in the region. The Auburn Library will be open on January 2 from 10 a.m. to 6 p.m. and January 3 from 1 p.m. to 6 p.m. The King County Library System Administrative Office in Issaquah will operate on January 4 from 11 a.m. to 6 p.m., while the Carnation Library will be open on January 5 from 11 a.m. to 5 p.m. Residents whose homes suffered major damage may qualify for financial assistance. To apply, individuals need to bring identification, proof of residency in King County, proof of income, and evidence of damage, such as photographs. For those unable to attend in person, there will be an option to apply online, with further details to be provided later.
