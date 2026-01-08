@@ -1,7 +1,6 @@
 ---
 date: '2026-01-05T21:30:00+00:00'
-event_ids:
-- _events/2026-01-05-live-whole-health-299-letting-go-of-worry.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Many of us carry some kind of worry or concern in our minds. It could be a small worry, like “I hope my commute is not going to be as bad as yesterday,” or it could be a big worry, such as worrying about the health of a family member.</p>

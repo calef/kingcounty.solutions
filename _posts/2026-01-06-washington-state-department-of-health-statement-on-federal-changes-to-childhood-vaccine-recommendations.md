@@ -1,17 +1,46 @@
 ---
-date: '2026-01-06T17:02:20+00:00'
+date: '2026-01-06T01:29:27+00:00'
 event_ids: []
 events_extracted: true
-feed_content: The Washington State Department of Health emphasizes the critical role
-  of childhood immunizations in preventing serious illnesses and outbreaks. Recent
-  federal changes weaken vaccine recommendations without scientific review, risking
-  public health. The state maintains that vaccines are essential, urging families
-  to stay updated on vaccinations and consult health care providers for guidance.
-feed_content_checksum: 4c057e38427d907d153f301a0e2ed9dbe830fad0
+feed_content: |-
+  <span>Washington State Department of Health Statement on Federal Changes to Childhood Vaccine Recommendations</span>
+
+              <div>
+  <time>January 5, 2026 - 5:26pm</time>
+  </div>
+        <span><span>stevie.mathieu…</span></span>
+  <span><time>January 5, 2026 - 5:29pm</time>
+  </span>
+
+    <div>
+      <div>News Category</div>
+            <div>
+                <div><a>health-news</a></div>
+                </div>
+        </div>
+
+              <div>
+  <p><strong>For immediate release: </strong>January 5, 2026   (26-002)</p>
+
+  <p><strong>Contact:</strong> <a>DOH Communications</a></p>
+
+  <p><strong>OLYMPIA –</strong> Vaccines save lives. Childhood immunizations prevent serious illness, hospitalization, long-term complications, and death. They also help stop the spread of disease in families, schools, and communities. Changed federal recommendations have removed routine childhood immunizations for several diseases that can have serious health impacts, including hepatitis A and B, rotavirus, RSV, influenza, and meningococcal disease. Weakening routine childhood vaccine recommendations risks lowering vaccination rates and increasing the likelihood of outbreaks of preventable, and sometimes deadly, diseases.</p>
+
+  <p>These federal changes were made without the standard scientific review process involving the Advisory Committee on Immunization Practices, pediatric experts, or public input, and are not based on new evidence about vaccine safety or effectiveness.</p>
+
+  <p>In Washington, our commitment to evidence-based public health has not changed. State <a>immunization recommendations</a>, aligned with the American Academy of Pediatrics, are based on decades of research showing vaccines are effective and essential for protecting health.</p>
+
+  <p>Thanks to high vaccination rates, children in the U.S. experience far fewer severe illnesses and hospitalizations than they would without these vaccines. We strongly encourage families to keep their children up to date on <a>recommended vaccinations</a> and to talk with trusted health care providers about any questions or concerns.</p>
+
+  <p>Our <a>website</a> is your source for <em>a healthy dose of information</em>. Get updates by following us on <a>social media</a>.</p>
+
+  <p>###</p>
+  </div>
+feed_content_checksum: 5c48bf0d32ffecf1c9cb7457c1a37380a2a60d03
 image_checksums: []
 location_titles:
 - King County
-organization_title: King County School Health
+organization_title: Department of Health
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\"
   />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<title>Washington
   State Department of Health Statement on Federal Changes to Childhood Vaccine Recommendations 
@@ -203,14 +232,13 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charse
   var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family:
   var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family:
   var(--wp--preset--font-family--merriweather) !important;}.has-m"
-rss_guid: http://kingcountyschoolhealthdotcom.wordpress.com/?p=6957
+published: false
+rss_guid: 40054 at https://doh.wa.gov
 slug: washington-state-department-of-health-statement-on-federal-changes-to-childhood-vaccine-recommendations
-source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2026/01/06/washington-state-department-of-health-statement-on-federal-changes-to-childhood-vaccine-recommendations/
+source_url: https://doh.wa.gov/newsroom/washington-state-department-health-statement-federal-changes-childhood-vaccine-recommendations
 summarized: true
 title: Washington State Department of Health Statement on Federal Changes to Childhood
-  Vaccine Recommendations 
+  Vaccine Recommendations
 topic_titles:
 - Health Care
 ---
-
-The Washington State Department of Health issued a statement on January 5, 2026, emphasizing the critical role of vaccines in saving lives and preventing serious illnesses in children. Recent federal changes have removed routine immunizations for diseases like hepatitis A and B, rotavirus, RSV, influenza, and meningococcal disease. These modifications may lower vaccination rates, increasing the risk of outbreaks of preventable diseases. The alterations were made without the usual scientific review process, including input from the Advisory Committee on Immunization Practices and pediatric experts, and are not based on new evidence regarding vaccine safety or effectiveness. Washington's immunization recommendations remain aligned with the American Academy of Pediatrics and are grounded in extensive research supporting the effectiveness of vaccines. High vaccination rates have significantly reduced severe illnesses and hospitalizations among children in the U.S. The department encourages families to keep their children up to date on vaccinations and to consult with trusted healthcare providers regarding any concerns. Additional information is available on the department's website and social media channels.

@@ -2,7 +2,6 @@
 date: '2025-12-31T15:49:58+00:00'
 event_ids:
 - _events/2026-01-28-annual-member-meeting.md
-- _events/2026-01-05-board-of-directors-public-meeting.md
 events_extracted: true
 feed_content: |-
   <p>Happy New Year! I hope you have had Happy Holidays and are looking forward to a fun and exciting year.</p>
