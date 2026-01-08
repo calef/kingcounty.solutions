@@ -1,7 +1,6 @@
 ---
 date: '2025-12-23T19:00:27+00:00'
-event_ids:
-- _events/2026-01-05-weekly-meal-orders-volunteer-calling.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>Program:</strong> Meals on Wheels<br>

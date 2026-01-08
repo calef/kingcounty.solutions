@@ -1,8 +1,6 @@
 ---
 date: '2026-01-03T01:02:32+00:00'
-event_ids:
-- _events/2026-01-03-seattle-center-monorail-service.md
-- _events/2026-01-04-seattle-center-monorail-service.md
+event_ids: []
 events_extracted: true
 feed_content: 'Weekend Service Impacts Routes 101, 102, 111, 150, 177, 212, 218, 256,
   ST 545, and ST 554 will have stop #700 4th Avenue &amp; Pike Street (northbound)
