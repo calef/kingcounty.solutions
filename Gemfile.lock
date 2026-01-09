@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/calef/fmrepo.git
-  revision: 895ce13538f7764da8168e45caa2c4e82a81cb44
+  revision: 5ec36e4c6241d954a8340813c3e2e752bb6013de
   specs:
-    fmrepo (0.2.6)
+    fmrepo (0.2.8)
 
 GIT
   remote: https://github.com/calef/seldon.git
