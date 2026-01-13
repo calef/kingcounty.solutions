@@ -1,58 +1,37 @@
 ---
-date: '2026-01-06T19:06:56+00:00'
-event_ids: []
-events_extracted: true
-feed_content: Seattle Parks and Recreation is excited to welcome back the Magnolia
-  community to the renovated Magnolia Community Center!  Please join us on Sat. January
-  10, 2026, starting at 11 a.m. with a ribbon cutting followed by tours of the building
-  and li...
-feed_content_checksum: 656f27c7ec169a2c7e3ea474b638240f0e2729a1
+date: '2026-01-10T01:00:10+00:00'
+feed_content: |-
+  <p><a>COMPLETE-PACKET</a></p>
+  <p>Please join us for Tuesday night’s Town Council meeting.</p>
+  <p>Your questions and comments are welcome, whether ahead of the meeting or at the meeting. You can reply to this mail, or email <a>depclerk@yarrowpointwa.gov</a>.</p>
+  <p>Join Zoom Meeting</p>
+  <p><a>https://us02web.zoom.us/j/83659826796?pwd=NyPk53SB8daGHUaqna9bfsccT2SOe1.1</a></p>
+  <p>Or call in (audio only)</p>
+  <p>1-253-215-8782 United States, Seattle</p>
+  <p>Meeting ID: 836 5982 6796#</p>
+  <p>Passcode: 101969</p>
+  <p>Your attendance is always encouraged.</p>
+  <p>Mayor Katy Kinney Harris</p>
+feed_content_checksum: 6a24b96937556daf55ed719a38fa72773ce623b1
 image_checksums: []
 location_titles:
-- King County
-organization_title: City of Seattle
-original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"
-  \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
-  lang=\"en-US\" xml:lang=\"en-US\">\n<head profile=\"http://gmpg.org/xfn/11\">\n<meta
-  http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n\t\n\n<meta
-  name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta name='robots'
-  content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
+- Yarrow Point
+organization_title: Town of Yarrow Point
+original_source_html: "<!doctype html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<meta
+  name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=10.0,
+  user-scalable=yes\">\n\t<link rel=\"profile\" href=\"http://gmpg.org/xfn/11\">\n\t<title>NOTICE:
+  Town Council Regular Meeting &#8211; January 13, 2025: 4:00 PM/ Town Hall &#8211;
+  Town of Yarrow Point</title>\n<meta name='robots' content='max-image-preview:large'
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
-  3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
-  v26.6 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<title>Seattle Parks and
-  Recreation “Welcomes you back to Magnolia Community Center!” - Parkways</title>\n\t<link
-  rel=\"canonical\" href=\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"
-  />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
-  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Seattle Parks and
-  Recreation “Welcomes you back to Magnolia Community Center!” - Parkways\" />\n\t<meta
-  property=\"og:description\" content=\"Seattle Parks and Recreation is excited to
-  welcome back the Magnolia community to the renovated Magnolia Community Center!&nbsp;
-  Please join us on Sat. January 10, 2026, starting at 11 a.m. with a ribbon cutting
-  followed by tours of the building and light refreshments until 1 p.m. This is an
-  opportunity for the community to learn [&hellip;]\" />\n\t<meta property=\"og:url\"
-  content=\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"
-  />\n\t<meta property=\"og:site_name\" content=\"Parkways\" />\n\t<meta property=\"article:published_time\"
-  content=\"2026-01-06T19:06:56+00:00\" />\n\t<meta property=\"article:modified_time\"
-  content=\"2026-01-06T21:55:57+00:00\" />\n\t<meta property=\"og:image\" content=\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\"
-  />\n\t<meta property=\"og:image:width\" content=\"624\" />\n\t<meta property=\"og:image:height\"
-  content=\"651\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n\t<meta
-  name=\"author\" content=\"Karen O&#039;Connor\" />\n\t<meta name=\"twitter:card\"
-  content=\"summary_large_image\" />\n\t<meta name=\"twitter:label1\" content=\"Written
-  by\" />\n\t<meta name=\"twitter:data1\" content=\"Karen O&#039;Connor\" />\n\t<meta
-  name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\"
-  content=\"2 minutes\" />\n\t<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\",\"url\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\",\"name\":\"Seattle
-  Parks and Recreation “Welcomes you back to Magnolia Community Center!” - Parkways\",\"isPartOf\":{\"@id\":\"https://parkways.seattle.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\"},\"image\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\"},\"thumbnailUrl\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\",\"datePublished\":\"2026-01-06T19:06:56+00:00\",\"dateModified\":\"2026-01-06T21:55:57+00:00\",\"author\":{\"@id\":\"https://parkways.seattle.gov/#/schema/person/c33461a33bd046c3c10df7cb422f86ae\"},\"breadcrumb\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\",\"url\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\",\"contentUrl\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://parkways.seattle.gov/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Seattle
-  Parks and Recreation “Welcomes you back to Magnolia Community Center!”\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://parkways.seattle.gov/#website\",\"url\":\"https://parkways.seattle.gov/\",\"name\":\"Parkways\",\"description\":\"Seattle
-  Parks and Recreation\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://parkways.seattle.gov/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://parkways.seattle.gov/#/schema/person/c33461a33bd046c3c10df7cb422f86ae\",\"name\":\"Karen
-  O'Connor\",\"url\":\"https://parkways.seattle.gov/author/oconnok/\"}]}</script>\n\t<!--
-  / Yoast SEO plugin. -->\n\n\n<link rel='dns-prefetch' href='//platform-api.sharethis.com'
-  />\n<link rel='dns-prefetch' href='//kit.fontawesome.com' />\n<link rel='dns-prefetch'
-  href='//fonts.googleapis.com' />\n<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com'
-  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Parkways &raquo;
-  Feed\" href=\"https://parkways.seattle.gov/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"Parkways &raquo; Comments Feed\" href=\"https://parkways.seattle.gov/comments/feed/\"
+  3000px 1500px }</style>\n\t<link rel='dns-prefetch' href='//fonts.googleapis.com'
+  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Town of Yarrow
+  Point &raquo; Feed\" href=\"https://yarrowpointwa.gov/feed/\" />\n<link rel=\"alternate\"
+  type=\"application/rss+xml\" title=\"Town of Yarrow Point &raquo; Comments Feed\"
+  href=\"https://yarrowpointwa.gov/comments/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
+  title=\"Town of Yarrow Point &raquo; NOTICE: Town Council Regular Meeting &#8211;
+  January 13, 2025: 4:00 PM/ Town Hall Comments Feed\" href=\"https://yarrowpointwa.gov/2026/01/notice-town-council-regular-meeting-january-13-2025-400-pm-town-hall/feed/\"
   />\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nwindow._wpemojiSettings
-  = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/parkways.seattle.gov\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.8.3\"}};\n/*!
+  = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/yarrowpointwa.gov\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.8.3\"}};\n/*!
   This file is auto-generated */\n!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new
   Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function
   p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new
@@ -81,7 +60,7 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   none !important;\n\t\theight: 1em !important;\n\t\twidth: 1em !important;\n\t\tmargin:
   0 0.07em !important;\n\t\tvertical-align: -0.1em !important;\n\t\tbackground: none
   !important;\n\t\tpadding: 0 !important;\n\t}\n</style>\n<link rel='stylesheet' id='wp-block-library-css'
-  href='https://parkways.seattle.gov/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3'
+  href='https://yarrowpointwa.gov/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3'
   type='text/css' media='all' />\n<style id='classic-theme-styles-inline-css' type='text/css'>\n/*!
   This file is auto-generated */\n.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em
   + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}\n</style>\n<style
@@ -173,24 +152,67 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   var(--wp--preset--font-size--x-large) !important;}\n:where(.wp-block-post-template.is-layout-flex){gap:
   1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}\n:where(.wp-block-columns.is-layout-flex){gap:
   2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}\n:root :where(.wp-block-pullquote){font-size:
-  1.5em;line-height: 1.6;}\n</style>\n<link rel='stylesheet' id='share-this-share-buttons-sticky-css'
-  href='https://parkways.seattle.gov/wp-content/plugins/sharethis-share-buttons/css/mu-style.css?ver=1754714307'
-  type='text/css' media='all' />\n<link rel='stylesheet' id='font-montserrat-css'
-  href='https://fonts.googleapis.com/css?family=Montserrat%3A700&#038;ver=6.8.3' type='text/css'
-  media='all' />\n<link rel='stylesheet' id='font-open-sans-css' h"
-rss_guid: https://parkways.seattle.gov/?p=17087
-slug: seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center
-source_url: https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/
+  1.5em;line-height: 1.6;}\n</style>\n<link rel='stylesheet' id='wp-components-css'
+  href='https://yarrowpointwa.gov/wp-includes/css/dist/components/style.min.css?ver=6.8.3'
+  type='text/css' media='all' />\n<link rel='stylesheet' id='godaddy-styles-css' href='https://yarrowpointwa.gov/wp-content/mu-plugins/vendor/wpex/godaddy-launch/includes/Dependencies/GoDaddy/Styles/build/latest.css?ver=2.0.2'
+  type='text/css' media='all' />\n<link rel='stylesheet' id='font-awesome-5-css' href='https://yarrowpointwa.gov/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/css/all.min.css?ver=2.9.4.2'
+  type='text/css' media='all' />\n<link rel='stylesheet' id='font-awesome-css' href='https://yarrowpointwa.gov/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/css/v4-shims.min.css?ver=2.9.4.2'
+  type='text/css' media='all' />\n<link rel='stylesheet' id='customify-google-font-css'
+  href='//fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C400i%2C700%7CLato%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C700%2C700i%2C900%2C900i&#038;display=swap&#038;ver=0.4.13'
+  type='text/css' media='all' />\n<link rel='stylesheet' id='customify-style-css'
+  href='https://yarrowpointwa.gov/wp-content/themes/customify/style.min.css?ver=0.4.13'
+  type='text/css' media='all' />\n<style id='customify-style-inline-css' type='text/css'>\n.header-top
+  .header--row-inner,body:not(.fl-builder-edit) .button,body:not(.fl-builder-edit)
+  button:not(.menu-mobile-toggle, .components-button, .customize-partial-edit-shortcut-button),body:not(.fl-builder-edit)
+  input[type=\"button\"]:not(.ed_button),button.button,input[type=\"button\"]:not(.ed_button,
+  .components-button, .customize-partial-edit-shortcut-button),input[type=\"reset\"]:not(.components-button,
+  .customize-partial-edit-shortcut-button),input[type=\"submit\"]:not(.components-button,
+  .customize-partial-edit-shortcut-button),.pagination .nav-links > *:hover,.pagination
+  .nav-links span,.nav-menu-desktop.style-full-height .primary-menu-ul > li.current-menu-item
+  > a,.nav-menu-desktop.style-full-height .primary-menu-ul > li.current-menu-ancestor
+  > a,.nav-menu-desktop.style-full-height .primary-menu-ul > li > a:hover,.posts-layout
+  .readmore-button:hover{    background-color: #323232;}.posts-layout .readmore-button
+  {color: #323232;}.pagination .nav-links > *:hover,.pagination .nav-links span,.entry-single
+  .tags-links a:hover,.entry-single .cat-links a:hover,.posts-layout .readmore-button,.posts-layout
+  .readmore-button:hover{    border-color: #323232;}.customify-builder-btn{    background-color:
+  #c3512f;}body{    color: #323232;}abbr, acronym {    border-bottom-color: #323232;}a
+  \               {                    color: #6a9442;}a:hover,a:focus,.link-meta:hover,
+  .link-meta a:hover{    color: #776e64;}h2 + h3,.comments-area h2 + .comments-title,.h2
+  + h3,.comments-area .h2 + .comments-title,.page-breadcrumb {    border-top-color:
+  #beb8a7;}blockquote,.site-content .widget-area .menu li.current-menu-item > a:before{
+  \   border-left-color: #beb8a7;}@media screen and (min-width: 64em) {    .comment-list
+  .children li.comment {        border-left-color: #beb8a7;    }    .comment-list
+  .children li.comment:after {        background-color: #beb8a7;    }}.page-titlebar,
+  .page-breadcrumb,.posts-layout .entry-inner {    border-bottom-color: #beb8a7;}.header-search-form
+  .search-field,.entry-content .page-links a,.header-search-modal,.pagination .nav-links
+  > *,.entry-footer .tags-links a, .entry-footer .cat-links a,.search .content-area
+  article,.site-content .widget-area .menu li.current-menu-item > a,.posts-layout
+  .entry-inner,.post-navigation .nav-links,article.comment .comment-meta,.widget-area
+  .widget_pages li a, .widget-area .widget_categories li a, .widget-area .widget_archive
+  li a, .widget-area .widget_meta li a, .widget-area .widget_nav_menu li a, .widget-area
+  .widget_product_categories li a, .widget-area .widget_recent_entries li a, .widget-area
+  .widget_rss li a,.widget-area .widget_recent_comments li{    border-color: #beb8a7;}.header-search-modal::before
+  {    border-top-color: #beb8a7;    border-left-color: #beb8a7;}@media screen and
+  (min-width: 48em) {    .content-sidebar.sidebar_vertical_border .content-area {
+  \       border-right-color: #beb8a7;    }    .sidebar-content.sidebar_vertical_border
+  .content-area {        border-left-color: #beb8a7;    }    .sidebar-sidebar-content.sidebar_vertical_border
+  .sidebar-primary {        border-right-color: #beb8a7;    }    .sidebar-sidebar-content.sidebar_vertical_border
+  .sidebar-secondary {        border-right-color: #beb8a7;    }    .content-sidebar-sidebar.sidebar_vertical_border
+  .sidebar-primary {        border-left-color: #beb8a7;    }    .content-sidebar-sidebar.sidebar_vertical_border
+  .sidebar-secondary {        border-left-color: #beb8a7;    }    .sidebar-content-sidebar.sidebar_vertical_border
+  .content-area {        border-left-color: #beb8a7;        border-right-color: #beb8a7;
+  \   }    .sidebar-content-sidebar.sidebar_vertical_border .content-area {        border-left-color:
+  #beb8a7;        border-right-color: #beb8a7;    }}article.comment .comment-post-author
+  {background: #323232;}.pagination .nav-links > *,.link-meta,.link-meta a,.color-meta,.entry-single
+  .tags-links:before,.entry-single .cats-links:before{    color: #323232;}h1, h2,
+  h3, h4, h5, h6 { color: "
+published: false
+rss_guid: https://yarrowpointwa.gov/?p=8194
+slug: notice-town-council-regular-meeting-january-13-2025-4-00-pm-town-hall
+source_url: https://yarrowpointwa.gov/2026/01/notice-town-council-regular-meeting-january-13-2025-400-pm-town-hall/
 summarized: true
-title: Seattle Parks and Recreation “Welcomes you back the Magnolia Community Center!”
-topic_titles:
-- Disabilities
-- Senior Services
-- Transportation & Mobility
+title: 'NOTICE: Town Council Regular Meeting – January 13, 2025: 4:00 PM/ Town Hall'
+topic_titles: []
 ---
 
-Seattle Parks and Recreation is set to reopen the Magnolia Community Center on January 10, 2026, following extensive renovations. The celebration will begin at 11 a.m. with a ribbon-cutting ceremony, tours of the updated facility, and light refreshments until 1 p.m. Community members are encouraged to attend to learn about the center's upgrades and share input on future programming.
-
-The renovation project, funded by the Seattle Park District and Real-Estate Excise Tax at a cost of $6.2 million, focused on enhancing the center’s lifespan and programming capabilities. Key improvements include a new wheelchair lift for better accessibility, roof replacement, structural enhancements, a new gym floor, and upgraded windows for better heating and cooling. Additional renovations feature a remodeled reception area, kitchen, and restrooms, as well as electrical and ventilation upgrades.
-
-These enhancements aim to create a safe, functional, and welcoming space for all generations in the community. Seattle Parks and Recreation looks forward to reconnecting with the Magnolia community and gathering feedback for future activities.
+The Town Council of Yarrow Point will hold a regular meeting on January 13, 2025, at 4:00 PM at the Town Hall. Residents are encouraged to attend and share their questions or comments either before or during the meeting. Participation can be done via email or through a provided Zoom link, which allows for virtual attendance. The meeting can also be accessed by phone for audio-only participation. Mayor Katy Kinney Harris invites all community members to join the discussion.

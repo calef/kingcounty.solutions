@@ -1,63 +1,37 @@
 ---
-date: '2026-01-07T00:44:36+00:00'
+date: '2026-01-08T21:36:02+00:00'
 event_ids: []
 events_extracted: true
-feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>Special
-  Education in Washington State</h2>\n<h3>WA INCLUDE Community Session<br>\nFriday,
-  January 9, 2026 | 12:00 to 1:00 PM (PT)</h3>\n<p>The January <a>WA INCLUDE</a> community
-  session will focus on Special Education in Washington State. This session is sponsored
-  by the Complex Behavior ECHO and will feature Dr. Tania May, Assistant Superintendent
-  of Special Education for the Washington State Office of Superintendent of Public
-  Instruction.</p>\n<p><img src=\"https://ihdd.org/wp-content/uploads/2026/01/tania-may.jpg\"><b>Guest
-  Speaker:</b> Dr. Tania May, Ed.D., Assistant Superintendent of Special Education,
-  OSPI</p>\n<p>Dr. May collaborates with schools, community partners, families, and
-  students to support improved outcomes for students with disabilities across Washington
-  State. She brings more than 30 years of experience in special education, including
-  inclusive elementary practices, high school co-teaching, multilingual supports for
-  students with disabilities, and behavioral supports in non-public agency settings.</p>\n<p>She
-  holds a doctorate in educational leadership from the University of Washington Tacoma,
-  a master’s degree in special education from San Francisco State University, and
-  a bachelor’s degree in political economy from the University of California, Berkeley.
-  She is also the parent of an autistic teenager.</p>\n<h3>Event Details</h3>\n<ul>\n<li>Date:
-  Friday, January 9, 2026</li>\n<li>Time: 12:00 to 1:00 PM PT</li>\n<li>Location:
-  <a>Zoom</a>\n</li>\n</ul>\n<p>Add the event to your <a>calendar</a></p>\n<p>Connect
-  with Dr. May on <a>Facebook</a>, <a>X</a> (Twitter), <a>LinkedIn</a></p>\n\n\t<div></div>\n</div>\n\n\t</div>\n\t<div>\n\n<div>\n\n\t\n\t<h2>Special
-  Education in Washington State</h2>\n<h3>WA INCLUDE Community Session<br>\nFriday,
-  January 9, 2026 | 12:00 to 1:00 PM (PT)</h3>\n<p>The January <a>WA INCLUDE</a> community
-  session will focus on Special Education in Washington State. This session is sponsored
-  by the Complex Behavior ECHO and will feature Dr. Tania May, Assistant Superintendent
-  of Special Education for the Washington State Office of Superintendent of Public
-  Instruction.</p>\n<p><img src=\"https://ihdd.org/wp-content/uploads/2026/01/tania-may.jpg\"><b>Guest
-  Speaker:</b> Dr. Tania May, Ed.D., Assistant Superintendent of Special Education,
-  OSPI</p>\n<p>Dr. May collaborates with schools, community partners, families, and
-  students to support improved outcomes for students with disabilities across Washington
-  State. She brings more than 30 years of experience in special education, including
-  inclusive elementary practices, high school co-teaching, multilingual supports for
-  students with disabilities, and behavioral supports in non-public agency settings.</p>\n<p>She
-  holds a doctorate in educational leadership from the University of Washington Tacoma,
-  a master’s degree in special education from San Francisco State University, and
-  a bachelor’s degree in political economy from the University of California, Berkeley.
-  She is also the parent of an autistic teenager.</p>\n<h3>Event Details</h3>\n<ul>\n<li>Date:
-  Friday, January 9, 2026</li>\n<li>Time: 12:00 to 1:00 PM PT</li>\n<li>Location:
-  <a>Zoom</a>\n</li>\n</ul>\n<p>Add the event to your <a>calendar</a></p>\n<p>Connect
-  with Dr. May on <a>Facebook</a>, <a>X</a> (Twitter), <a>LinkedIn</a></p>\n\n\t<div></div>\n</div>\n\n\t</div>\n\n<div></div>\n\n</div>\n\n<div>\n\t\n<div></div>\n\n\n<aside>\n\t<div>\n\t\t<section><div>\n<div>\n\t<div>\n<div><div>\n<div><div><img
+feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>Care
+  Coordination Training Pilot Program</h2>\n<div><img src=\"https://ihdd.org/wp-content/uploads/2025/10/wa-include-logo-grey-back.jpg\"></div>\n<p>WA
+  INCLUDE has launched a Care Coordination Training Curriculum and Pilot Program focused
+  on improving care coordination for families and youth with autism, intellectual
+  and developmental disabilities, and co-occurring mental health needs. The initiative
+  aims to strengthen the skills and knowledge of care coordinators while examining
+  existing systems to identify strategies that improve access to care in a financially
+  sustainable way.</p>\n<p>The pilot program emphasizes workforce development and
+  systems improvement, recognizing the critical role care coordinators play in helping
+  families navigate complex service systems. Through targeted training and evaluation,
+  the initiative seeks to reduce barriers to care, improve coordination across providers
+  and agencies, and support more timely and effective services for children and families.</p>\n<p>Learn
+  more on <a>WAINCLUDE.org</a></p>\n\n\t<div></div>\n</div>\n\n\t</div>\n\n<div></div>\n\n</div>\n\n<div>\n\t\n<div></div>\n\n\n<aside>\n\t<div>\n\t\t<section><div>\n<div>\n\t<div>\n<div><div>\n<div><div><img
   src=\"https://ihdd.org/wp-content/uploads/2023/01/top-stories-rs.jpg\"></div></div>\n<div></div>\n</div></div>\t<div>\n\n<div>\n\n\t\n\t<p></p>\n<center>\n<h3>News
   &amp; Events</h3>\n<p>Have story ideas or events to share? Please 'Contact Us' and
   tell us about them.<br>\n</p>\n</center>\n\n\t<div></div>\n</div>\n\n\t</div>\n\n<div>\n\n\t\n\t\t<a><span>Contact
   Us</span></a>\n\n\t\n</div>\n\n\t\t<div></div>\n\t</div>\n</div>\n</div></section><section><div>Posted
   on:</div>\n<div>\n<font></font><center></center>\n</div></section><section><div>Recent
   News</div>\n        <ul>\n\n\t\t\n        <li>\n        \t        <a>\n\t\t        \t\t\t\t
-  <img src=\"https://ihdd.org/wp-content/uploads/2026/01/tania-may-150x150.jpg\">\n\t\t\t</a>\n\t\t\n\n
+  <img src=\"https://ihdd.org/wp-content/uploads/2023/10/image-project-echo-red-logo-150x150.jpg\">\n\t\t\t</a>\n\t\t\n\n
+  \       <div>\n        <a>New ECHO Complex Care Program</a>\n        <div>\n\t       \t
+  \      <time>January 8, 2026</time>\n\t          \t   </div>\n       </div>\n\n
+  \      <div></div>\n       </li>\n\n        \n        <li>\n        \t        <a>\n\t\t
+  \       \t\t\t\t <img src=\"https://ihdd.org/wp-content/uploads/2025/10/wa-include-logo-grey-back-150x150.jpg\">\n\t\t\t</a>\n\t\t\n\n
+  \       <div>\n        <a>Care Coordination Training Pilot Program</a>\n        <div>\n\t
+  \      \t       <time>January 8, 2026</time>\n\t          \t   </div>\n       </div>\n\n
+  \      <div></div>\n       </li>\n\n        \n        <li>\n        \t        <a>\n\t\t
+  \       \t\t\t\t <img src=\"https://ihdd.org/wp-content/uploads/2026/01/tania-may-150x150.jpg\">\n\t\t\t</a>\n\t\t\n\n
   \       <div>\n        <a>Special Education in Washington State</a>\n        <div>\n\t
   \      \t       <time>January 6, 2026</time>\n\t          \t   </div>\n       </div>\n\n
-  \      <div></div>\n       </li>\n\n        \n        <li>\n        \t        <a>\n\t\t
-  \       \t\t\t\t <img src=\"https://ihdd.org/wp-content/uploads/2026/01/empty-wheelchair-medical-office-150x150.jpg\">\n\t\t\t</a>\n\t\t\n\n
-  \       <div>\n        <a>GAO Report Examines Health Care Accessibility Barriers</a>\n
-  \       <div>\n\t       \t       <time>January 5, 2026</time>\n\t          \t   </div>\n
-  \      </div>\n\n       <div></div>\n       </li>\n\n        \n        <li>\n        \t
-  \       <a>\n\t\t        \t\t\t\t <img src=\"https://ihdd.org/wp-content/uploads/2023/02/sara-jane-webb-phd-150x150.jpg\">\n\t\t\t</a>\n\t\t\n\n
-  \       <div>\n        <a>IDDRC Special Issue Highlights UW Research</a>\n        <div>\n\t
-  \      \t       <time>December 19, 2025</time>\n\t          \t   </div>\n       </div>\n\n
   \      <div></div>\n       </li>\n\n        \n        </ul>\n        </section><section><div><span>\n<div>\n\t<div>\t<div>\n\n<div>\n\n\t\n\t<p></p>\n<center>\n<h3>Subscribe
   to the IHDD Newsletter</h3>\n<p></p>\n</center>\n<script>(function() {\n\twindow.mc4wp
   = window.mc4wp || {\n\t\tlisteners: [],\n\t\tforms: {\n\t\t\ton: function(evt, cb)
@@ -67,8 +41,8 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   this field empty if you're human: <input></label><input><input><input><div></div>\n</form>\n<!--
   / Mailchimp for WordPress Plugin -->\n\n\t<div></div>\n</div>\n\n\t</div>\n\n<div></div>\n\n\n\t\t<div></div>\n\t</div>\n</div>\n\n<div></div>\n\n</span></div></section><section><div>Follow
   Us On:</div>\t\t\t<div>\n<p><a><img src=\"https://ihdd.org/wp-content/uploads/2025/12/linkedin-logo.png\"></a></p>\n</div>\n\t\t</section>\t</div>\n</aside>\n\n</div>\n\t</div>\n\n</div><p>The
-  post <a>Special Education in Washington State</a> appeared first on <a>UW IHDD</a>.</p>"
-feed_content_checksum: e3148a9108042d7582b06934c936794c779cb7d6
+  post <a>Care Coordination Training Pilot Program</a> appeared first on <a>UW IHDD</a>.</p>"
+feed_content_checksum: 1577a7afffc880b635abbf0cbf1e84a6147b0c31
 image_checksums: []
 location_titles:
 - King County
@@ -116,31 +90,34 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\" >\n<head>\n\t<!-- G
   transparent-circle{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}.ball-spin-fade-loader{position:relative;top:-10px;left:-10px;display:inline-block}.ball-spin-fade-loader>div{width:15px;height:15px;border-radius:100%;margin:2px;animation-fill-mode:both;position:absolute;animation:ball-spin-fade-loader
   1s infinite linear}.ball-spin-fade-loader>div:nth-child(1){top:25px;left:0;animation-delay:-.84s;-webkit-animation-delay:-.84s}.ball-spin-fade-loader>div:nth-child(2){top:17.05px;left:17.05px;animation-delay:-.72s;-webkit-animation-delay:-.72s}.ball-spin-fade-loader>div:nth-child(3){top:0;left:25px;animation-delay:-.6s;-webkit-animation-delay:-.6s}.ball-spin-fade-loader>div:nth-child(4){top:-17.05px;left:17.05px;animation-delay:-.48s;-webkit-animation-delay:-.48s}.ball-spin-fade-loader>div:nth-child(5){top:-25px;left:0;animation-delay:-.36s;-webkit-animation-delay:-.36s}.ball-spin-fade-loader>div:nth-child(6){top:-17.05px;left:-17.05px;animation-delay:-.24s;-webkit-animation-delay:-.24s}.ball-spin-fade-loader>div:nth-child(7){top:0;left:-25px;animation-delay:-.12s;-webkit-animation-delay:-.12s}.ball-spin-fade-loader>div:nth-child(8){top:17.05px;left:-17.05px;animation-delay:0s;-webkit-animation-delay:0s}@keyframes
   ball-spin-fade-loader{50%{opacity:.3;transform:scale(.4)}100%{opacity:1;transform:scale(1)}}\t\t</style>\n\n\t\t\n\t<!--
-  This site is optimized with the Yoast SEO plugin v26.6 - https://yoast.com/wordpress/plugins/seo/
-  -->\n\t<title>Special Education in Washington State</title>\n\t<meta name=\"description\"
-  content=\"The January WA INCLUDE community session is sponsored by the Complex Behavior
-  ECHO and will feature Dr. Tania May, Assistant Superintendent...\" />\n\t<link rel=\"canonical\"
-  href=\"https://ihdd.org/2026/01/06/special-education-in-washington-state/\" />\n\t<meta
+  This site is optimized with the Yoast SEO plugin v26.7 - https://yoast.com/wordpress/plugins/seo/
+  -->\n\t<title>Care Coordination Training Pilot Program</title>\n\t<meta name=\"description\"
+  content=\"WA INCLUDE has launched a Care Coordination Training Curriculum and Pilot
+  Program focused on improving care coordination for families...\" />\n\t<link rel=\"canonical\"
+  href=\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/\" />\n\t<meta
   property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\" content=\"article\"
-  />\n\t<meta property=\"og:title\" content=\"Special Education in Washington State\"
-  />\n\t<meta property=\"og:description\" content=\"The January WA INCLUDE community
-  session is sponsored by the Complex Behavior ECHO and will feature Dr. Tania May,
-  Assistant Superintendent...\" />\n\t<meta property=\"og:url\" content=\"https://ihdd.org/2026/01/06/special-education-in-washington-state/\"
+  />\n\t<meta property=\"og:title\" content=\"Care Coordination Training Pilot Program\"
+  />\n\t<meta property=\"og:description\" content=\"WA INCLUDE has launched a Care
+  Coordination Training Curriculum and Pilot Program focused on improving care coordination
+  for families...\" />\n\t<meta property=\"og:url\" content=\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/\"
   />\n\t<meta property=\"og:site_name\" content=\"UW IHDD\" />\n\t<meta property=\"article:published_time\"
-  content=\"2026-01-07T00:44:36+00:00\" />\n\t<meta property=\"article:modified_time\"
-  content=\"2026-01-07T00:46:00+00:00\" />\n\t<meta property=\"og:image\" content=\"https://ihdd.org/wp-content/uploads/2026/01/tania-may.jpg\"
-  />\n\t<meta property=\"og:image:width\" content=\"400\" />\n\t<meta property=\"og:image:height\"
-  content=\"400\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n\t<meta
+  content=\"2026-01-08T21:36:02+00:00\" />\n\t<meta property=\"og:image\" content=\"https://ihdd.org/wp-content/uploads/2025/10/wa-include-logo-grey-back.jpg\"
+  />\n\t<meta property=\"og:image:width\" content=\"600\" />\n\t<meta property=\"og:image:height\"
+  content=\"420\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n\t<meta
   name=\"author\" content=\"IHDD Admin\" />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\"
   />\n\t<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\"
   content=\"IHDD Admin\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading
-  time\" />\n\t<meta name=\"twitter:data2\" content=\"2 minutes\" />\n\t<script type=\"application/ld+json\"
-  class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://ihdd.org/2026/01/06/special-education-in-washington-state/\",\"url\":\"https://ihdd.org/2026/01/06/special-education-in-washington-state/\",\"name\":\"Special
-  Education in Washington State\",\"isPartOf\":{\"@id\":\"https://ihdd.org/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://ihdd.org/2026/01/06/special-education-in-washington-state/#primaryimage\"},\"image\":{\"@id\":\"https://ihdd.org/2026/01/06/special-education-in-washington-state/#primaryimage\"},\"thumbnailUrl\":\"https://ihdd.org/wp-content/uploads/2026/01/tania-may.jpg\",\"datePublished\":\"2026-01-07T00:44:36+00:00\",\"dateModified\":\"2026-01-07T00:46:00+00:00\",\"author\":{\"@id\":\"https://ihdd.org/#/schema/person/4e983bd4b9a96f662c51b2a1b4e0dac9\"},\"description\":\"The
-  January WA INCLUDE community session is sponsored by the Complex Behavior ECHO and
-  will feature Dr. Tania May, Assistant Superintendent...\",\"breadcrumb\":{\"@id\":\"https://ihdd.org/2026/01/06/special-education-in-washington-state/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ihdd.org/2026/01/06/special-education-in-washington-state/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://ihdd.org/2026/01/06/special-education-in-washington-state/#primaryimage\",\"url\":\"https://ihdd.org/wp-content/uploads/2026/01/tania-may.jpg\",\"contentUrl\":\"https://ihdd.org/wp-content/uploads/2026/01/tania-may.jpg\",\"width\":400,\"height\":400,\"caption\":\"Dr.
-  Tania May, OSPI\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ihdd.org/2026/01/06/special-education-in-washington-state/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://ihdd.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"News\",\"item\":\"https://ihdd.org/category/news/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Special
-  Education in Washington State\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://ihdd.org/#website\",\"url\":\"https://ihdd.org/\",\"name\":\"UW
+  time\" />\n\t<meta name=\"twitter:data2\" content=\"1 minute\" />\n\t<script type=\"application/ld+json\"
+  class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/#article\",\"isPartOf\":{\"@id\":\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/\"},\"author\":{\"name\":\"IHDD
+  Admin\",\"@id\":\"https://ihdd.org/#/schema/person/4e983bd4b9a96f662c51b2a1b4e0dac9\"},\"headline\":\"Care
+  Coordination Training Pilot Program\",\"datePublished\":\"2026-01-08T21:36:02+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/\"},\"wordCount\":195,\"commentCount\":0,\"image\":{\"@id\":\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/#primaryimage\"},\"thumbnailUrl\":\"https://ihdd.org/wp-content/uploads/2025/10/wa-include-logo-grey-back.jpg\",\"keywords\":[\"Autism
+  Training Program\",\"Care Coordination Training\",\"UCEDD\",\"WA INCLUDE\",\"Webinar\"],\"articleSection\":[\"Leadership
+  Opportunities\",\"News\",\"UCEDD\",\"WA INCLUDE\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/#respond\"]}]},{\"@type\":\"WebPage\",\"@id\":\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/\",\"url\":\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/\",\"name\":\"Care
+  Coordination Training Pilot Program\",\"isPartOf\":{\"@id\":\"https://ihdd.org/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/#primaryimage\"},\"image\":{\"@id\":\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/#primaryimage\"},\"thumbnailUrl\":\"https://ihdd.org/wp-content/uploads/2025/10/wa-include-logo-grey-back.jpg\",\"datePublished\":\"2026-01-08T21:36:02+00:00\",\"author\":{\"@id\":\"https://ihdd.org/#/schema/person/4e983bd4b9a96f662c51b2a1b4e0dac9\"},\"description\":\"WA
+  INCLUDE has launched a Care Coordination Training Curriculum and Pilot Program focused
+  on improving care coordination for families...\",\"breadcrumb\":{\"@id\":\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/#primaryimage\",\"url\":\"https://ihdd.org/wp-content/uploads/2025/10/wa-include-logo-grey-back.jpg\",\"contentUrl\":\"https://ihdd.org/wp-content/uploads/2025/10/wa-include-logo-grey-back.jpg\",\"width\":600,\"height\":420,\"caption\":\"WA
+  INCLUDE logo\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://ihdd.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"News\",\"item\":\"https://ihdd.org/category/news/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Care
+  Coordination Training Pilot Program\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://ihdd.org/#website\",\"url\":\"https://ihdd.org/\",\"name\":\"UW
   IHDD\",\"description\":\"Institute on Human Development and Disability\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://ihdd.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://ihdd.org/#/schema/person/4e983bd4b9a96f662c51b2a1b4e0dac9\",\"name\":\"IHDD
   Admin\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://ihdd.org/#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/bd1b9b4f43a4901257eb6c8dde76ac57cefefd5811c68b4a47e70bf9eca96ced?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/bd1b9b4f43a4901257eb6c8dde76ac57cefefd5811c68b4a47e70bf9eca96ced?s=96&d=mm&r=g\",\"caption\":\"IHDD
   Admin\"},\"url\":\"https://ihdd.org/author/pgilmouw-edu/\"}]}</script>\n\t<!-- /
@@ -149,9 +126,9 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\" >\n<head>\n\t<!-- G
   type=\"application/rss+xml\" title=\"UW IHDD &raquo; Comments Feed\" href=\"https://ihdd.org/comments/feed/\"
   />\n\n<link rel=\"shortcut icon\" href=\"https://ihdd.org/wp-content/uploads/2023/05/uw-fav-white-w.png\"
   \ />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"UW IHDD &raquo;
-  Special Education in Washington State Comments Feed\" href=\"https://ihdd.org/2026/01/06/special-education-in-washington-state/feed/\"
+  Care Coordination Training Pilot Program Comments Feed\" href=\"https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/feed/\"
   />\n<script type=\"text/javascript\">window.abb = {};php = {};window.PHP = {};PHP.ajax
-  = \"https://ihdd.org/wp-admin/admin-ajax.php\";PHP.wp_p_id = \"17112\";var mk_header_parallax,
+  = \"https://ihdd.org/wp-admin/admin-ajax.php\";PHP.wp_p_id = \"17126\";var mk_header_parallax,
   mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax;var mk_images_dir
   = \"https://ihdd.org/wp-content/themes/jupiter/assets/images\",mk_theme_js_path
   = \"https://ihdd.org/wp-content/themes/jupiter/assets/js\",mk_theme_dir = \"https://ihdd.org/wp-content/themes/jupiter\",mk_captcha_placeholder
@@ -166,8 +143,8 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\" >\n<head>\n\t<!-- G
   = [\"Encode Sans Condensed:100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic,100,200,300,400,500,600,700,800,900\",\"Open
   Sans:100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic,100,200,300,400,500,600,700,800,900\"],mk_global_lazyload
   = true;</script><link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\"
-  href=\"https://ihdd.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fihdd.org%2F2026%2F01%2F06%2Fspecial-education-in-washington-state%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://ihdd.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fihdd.org%2F2026%2F01%2F06%2Fspecial-education-in-washington-state%2F&#038;format=xml\"
+  href=\"https://ihdd.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fihdd.org%2F2026%2F01%2F08%2Fcare-coordination-training-pilot-program%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://ihdd.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fihdd.org%2F2026%2F01%2F08%2Fcare-coordination-training-pilot-program%2F&#038;format=xml\"
   />\n<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>\nimg:is([sizes=auto
   i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css
   */\n</style>\n<style id='wp-block-library-inline-css' type='text/css'>\n:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media
@@ -194,24 +171,16 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\" >\n<head>\n\t<!-- G
   4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3:
   2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black:
   #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white:
-  #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red:
-  #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber:
-  #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan:
-  #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue:
-  #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:
-  linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:
-  linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:
-  linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:
-  linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:
-  linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset-"
-rss_guid: https://ihdd.org/?p=17112
-slug: special-education-in-washington-state
-source_url: https://ihdd.org/2026/01/06/special-education-in-washington-state/
+  #ffffff;--wp--p"
+rss_guid: https://ihdd.org/?p=17126
+slug: care-coordination-training-pilot-program
+source_url: https://ihdd.org/2026/01/08/care-coordination-training-pilot-program/
 summarized: true
-title: Special Education in Washington State
+title: Care Coordination Training Pilot Program
 topic_titles:
 - Disabilities
-- Education & Learning
+- Mental Health & Counseling
+- Health Care
 ---
 
-The WA INCLUDE community session on Special Education in Washington State is scheduled for January 9, 2026, from 12:00 to 1:00 PM PT via Zoom. The event, sponsored by the Complex Behavior ECHO, will feature Dr. Tania May, Assistant Superintendent of Special Education for the Washington State Office of Superintendent of Public Instruction. Dr. May has over 30 years of experience in special education, focusing on inclusive practices, co-teaching, multilingual support, and behavioral strategies in various educational settings. She holds a doctorate in educational leadership from the University of Washington Tacoma, a master's in special education from San Francisco State University, and a bachelor's in political economy from the University of California, Berkeley. Additionally, she is a parent of an autistic teenager. The session aims to enhance collaboration among schools, community partners, families, and students to improve outcomes for students with disabilities across the state.
+WA INCLUDE has launched a Care Coordination Training Curriculum and Pilot Program aimed at enhancing care coordination for families and youth with autism, intellectual and developmental disabilities, and co-occurring mental health needs. The program focuses on developing the skills and knowledge of care coordinators while assessing current systems to find strategies that improve access to care sustainably. It highlights the importance of workforce development and system improvement, acknowledging the vital role care coordinators have in helping families navigate complex service systems. By providing targeted training and evaluation, the initiative aims to lessen barriers to care, enhance coordination among providers and agencies, and facilitate more timely and effective services for children and families.

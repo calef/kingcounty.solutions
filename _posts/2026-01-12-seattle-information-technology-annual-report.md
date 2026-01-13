@@ -1,12 +1,7 @@
 ---
-date: '2026-01-06T19:06:56+00:00'
-event_ids: []
-events_extracted: true
-feed_content: Seattle Parks and Recreation is excited to welcome back the Magnolia
-  community to the renovated Magnolia Community Center!  Please join us on Sat. January
-  10, 2026, starting at 11 a.m. with a ribbon cutting followed by tours of the building
-  and li...
-feed_content_checksum: 656f27c7ec169a2c7e3ea474b638240f0e2729a1
+date: '2026-01-12T21:12:33+00:00'
+feed_content: Read Seattle IT's 2024 Annual Report
+feed_content_checksum: c5f108cbcd1e6e90eebc06212b3caddbd426eac6
 image_checksums: []
 location_titles:
 - King County
@@ -19,40 +14,37 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
   3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
-  v26.6 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<title>Seattle Parks and
-  Recreation “Welcomes you back to Magnolia Community Center!” - Parkways</title>\n\t<link
-  rel=\"canonical\" href=\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"
+  v26.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<title>Seattle Information
+  Technology Annual Report - Tech Talk</title>\n\t<link rel=\"canonical\" href=\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
-  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Seattle Parks and
-  Recreation “Welcomes you back to Magnolia Community Center!” - Parkways\" />\n\t<meta
-  property=\"og:description\" content=\"Seattle Parks and Recreation is excited to
-  welcome back the Magnolia community to the renovated Magnolia Community Center!&nbsp;
-  Please join us on Sat. January 10, 2026, starting at 11 a.m. with a ribbon cutting
-  followed by tours of the building and light refreshments until 1 p.m. This is an
-  opportunity for the community to learn [&hellip;]\" />\n\t<meta property=\"og:url\"
-  content=\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"
-  />\n\t<meta property=\"og:site_name\" content=\"Parkways\" />\n\t<meta property=\"article:published_time\"
-  content=\"2026-01-06T19:06:56+00:00\" />\n\t<meta property=\"article:modified_time\"
-  content=\"2026-01-06T21:55:57+00:00\" />\n\t<meta property=\"og:image\" content=\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\"
-  />\n\t<meta property=\"og:image:width\" content=\"624\" />\n\t<meta property=\"og:image:height\"
-  content=\"651\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n\t<meta
-  name=\"author\" content=\"Karen O&#039;Connor\" />\n\t<meta name=\"twitter:card\"
+  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Seattle Information
+  Technology Annual Report - Tech Talk\" />\n\t<meta property=\"og:description\" content=\"Read
+  Seattle IT&#039;s 2024 Annual Report\" />\n\t<meta property=\"og:url\" content=\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/\"
+  />\n\t<meta property=\"og:site_name\" content=\"Tech Talk\" />\n\t<meta property=\"article:published_time\"
+  content=\"2026-01-12T21:12:33+00:00\" />\n\t<meta property=\"article:modified_time\"
+  content=\"2026-01-12T21:20:49+00:00\" />\n\t<meta property=\"og:image\" content=\"https://techtalk.seattle.gov/wp-content/uploads/sites/12/2026/01/Seattle-IT-Annual-Report.png\"
+  />\n\t<meta property=\"og:image:width\" content=\"1545\" />\n\t<meta property=\"og:image:height\"
+  content=\"2000\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n\t<meta
+  name=\"author\" content=\"Kristen Glundberg-Prossor\" />\n\t<meta name=\"twitter:card\"
   content=\"summary_large_image\" />\n\t<meta name=\"twitter:label1\" content=\"Written
-  by\" />\n\t<meta name=\"twitter:data1\" content=\"Karen O&#039;Connor\" />\n\t<meta
-  name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\"
-  content=\"2 minutes\" />\n\t<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\",\"url\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\",\"name\":\"Seattle
-  Parks and Recreation “Welcomes you back to Magnolia Community Center!” - Parkways\",\"isPartOf\":{\"@id\":\"https://parkways.seattle.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\"},\"image\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\"},\"thumbnailUrl\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\",\"datePublished\":\"2026-01-06T19:06:56+00:00\",\"dateModified\":\"2026-01-06T21:55:57+00:00\",\"author\":{\"@id\":\"https://parkways.seattle.gov/#/schema/person/c33461a33bd046c3c10df7cb422f86ae\"},\"breadcrumb\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\",\"url\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\",\"contentUrl\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://parkways.seattle.gov/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Seattle
-  Parks and Recreation “Welcomes you back to Magnolia Community Center!”\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://parkways.seattle.gov/#website\",\"url\":\"https://parkways.seattle.gov/\",\"name\":\"Parkways\",\"description\":\"Seattle
-  Parks and Recreation\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://parkways.seattle.gov/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://parkways.seattle.gov/#/schema/person/c33461a33bd046c3c10df7cb422f86ae\",\"name\":\"Karen
-  O'Connor\",\"url\":\"https://parkways.seattle.gov/author/oconnok/\"}]}</script>\n\t<!--
+  by\" />\n\t<meta name=\"twitter:data1\" content=\"Seattle IT\" />\n\t<meta name=\"twitter:label2\"
+  content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"1 minute\"
+  />\n\t<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/#article\",\"isPartOf\":{\"@id\":\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/\"},\"author\":{\"name\":\"Kristen
+  Glundberg-Prossor\",\"@id\":\"https://techtalk.seattle.gov/#/schema/person/64aacd0b355482dd0b801bed5c809bb7\"},\"headline\":\"Seattle
+  Information Technology Annual Report\",\"datePublished\":\"2026-01-12T21:12:33+00:00\",\"dateModified\":\"2026-01-12T21:20:49+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/\"},\"wordCount\":5,\"image\":{\"@id\":\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/#primaryimage\"},\"thumbnailUrl\":\"https://techtalk.seattle.gov/wp-content/uploads/sites/12/2026/01/Seattle-IT-Annual-Report.png\",\"keywords\":[\"Seattle
+  IT\",\"Seattle IT Annual Report 2024\"],\"articleSection\":[\"News\",\"Tech Talk\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/\",\"url\":\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/\",\"name\":\"Seattle
+  Information Technology Annual Report - Tech Talk\",\"isPartOf\":{\"@id\":\"https://techtalk.seattle.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/#primaryimage\"},\"image\":{\"@id\":\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/#primaryimage\"},\"thumbnailUrl\":\"https://techtalk.seattle.gov/wp-content/uploads/sites/12/2026/01/Seattle-IT-Annual-Report.png\",\"datePublished\":\"2026-01-12T21:12:33+00:00\",\"dateModified\":\"2026-01-12T21:20:49+00:00\",\"author\":{\"@id\":\"https://techtalk.seattle.gov/#/schema/person/64aacd0b355482dd0b801bed5c809bb7\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/#primaryimage\",\"url\":\"https://techtalk.seattle.gov/wp-content/uploads/sites/12/2026/01/Seattle-IT-Annual-Report.png\",\"contentUrl\":\"https://techtalk.seattle.gov/wp-content/uploads/sites/12/2026/01/Seattle-IT-Annual-Report.png\",\"width\":1545,\"height\":2000,\"caption\":\"Decorative
+  boxes depicting Seattle IT\"},{\"@type\":\"WebSite\",\"@id\":\"https://techtalk.seattle.gov/#website\",\"url\":\"https://techtalk.seattle.gov/\",\"name\":\"Tech
+  Talk\",\"description\":\"Seattle Information Technology\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://techtalk.seattle.gov/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://techtalk.seattle.gov/#/schema/person/64aacd0b355482dd0b801bed5c809bb7\",\"name\":\"Kristen
+  Glundberg-Prossor\",\"sameAs\":[\"http://techtalk.seattle.gov/\"],\"url\":\"\"}]}</script>\n\t<!--
   / Yoast SEO plugin. -->\n\n\n<link rel='dns-prefetch' href='//platform-api.sharethis.com'
   />\n<link rel='dns-prefetch' href='//kit.fontawesome.com' />\n<link rel='dns-prefetch'
   href='//fonts.googleapis.com' />\n<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com'
-  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Parkways &raquo;
-  Feed\" href=\"https://parkways.seattle.gov/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"Parkways &raquo; Comments Feed\" href=\"https://parkways.seattle.gov/comments/feed/\"
+  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Tech Talk &raquo;
+  Feed\" href=\"https://techtalk.seattle.gov/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
+  title=\"Tech Talk &raquo; Comments Feed\" href=\"https://techtalk.seattle.gov/comments/feed/\"
   />\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nwindow._wpemojiSettings
-  = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/parkways.seattle.gov\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.8.3\"}};\n/*!
+  = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/techtalk.seattle.gov\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.8.3\"}};\n/*!
   This file is auto-generated */\n!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new
   Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function
   p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new
@@ -81,7 +73,7 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   none !important;\n\t\theight: 1em !important;\n\t\twidth: 1em !important;\n\t\tmargin:
   0 0.07em !important;\n\t\tvertical-align: -0.1em !important;\n\t\tbackground: none
   !important;\n\t\tpadding: 0 !important;\n\t}\n</style>\n<link rel='stylesheet' id='wp-block-library-css'
-  href='https://parkways.seattle.gov/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3'
+  href='https://techtalk.seattle.gov/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3'
   type='text/css' media='all' />\n<style id='classic-theme-styles-inline-css' type='text/css'>\n/*!
   This file is auto-generated */\n.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em
   + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}\n</style>\n<style
@@ -174,23 +166,18 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}\n:where(.wp-block-columns.is-layout-flex){gap:
   2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}\n:root :where(.wp-block-pullquote){font-size:
   1.5em;line-height: 1.6;}\n</style>\n<link rel='stylesheet' id='share-this-share-buttons-sticky-css'
-  href='https://parkways.seattle.gov/wp-content/plugins/sharethis-share-buttons/css/mu-style.css?ver=1754714307'
+  href='https://techtalk.seattle.gov/wp-content/plugins/sharethis-share-buttons/css/mu-style.css?ver=1754714307'
   type='text/css' media='all' />\n<link rel='stylesheet' id='font-montserrat-css'
   href='https://fonts.googleapis.com/css?family=Montserrat%3A700&#038;ver=6.8.3' type='text/css'
-  media='all' />\n<link rel='stylesheet' id='font-open-sans-css' h"
-rss_guid: https://parkways.seattle.gov/?p=17087
-slug: seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center
-source_url: https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/
+  media='all' />\n<link rel='stylesheet' id='font-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700%2C800%2C600%2C300&#038;ver=6.8.3'
+  type='text/css' media='all' />"
+published: false
+rss_guid: https://techtalk.seattle.gov/?p=282067
+slug: seattle-information-technology-annual-report
+source_url: https://techtalk.seattle.gov/2026/01/12/seattle-information-technology-annual-report/
 summarized: true
-title: Seattle Parks and Recreation “Welcomes you back the Magnolia Community Center!”
-topic_titles:
-- Disabilities
-- Senior Services
-- Transportation & Mobility
+title: Seattle Information Technology Annual Report
+topic_titles: []
 ---
 
-Seattle Parks and Recreation is set to reopen the Magnolia Community Center on January 10, 2026, following extensive renovations. The celebration will begin at 11 a.m. with a ribbon-cutting ceremony, tours of the updated facility, and light refreshments until 1 p.m. Community members are encouraged to attend to learn about the center's upgrades and share input on future programming.
-
-The renovation project, funded by the Seattle Park District and Real-Estate Excise Tax at a cost of $6.2 million, focused on enhancing the center’s lifespan and programming capabilities. Key improvements include a new wheelchair lift for better accessibility, roof replacement, structural enhancements, a new gym floor, and upgraded windows for better heating and cooling. Additional renovations feature a remodeled reception area, kitchen, and restrooms, as well as electrical and ventilation upgrades.
-
-These enhancements aim to create a safe, functional, and welcoming space for all generations in the community. Seattle Parks and Recreation looks forward to reconnecting with the Magnolia community and gathering feedback for future activities.
+Seattle Information Technology released its annual report for 2024 on January 12, 2026. The report highlights the department's achievements and initiatives over the past year. Key areas of focus include advancements in digital equity, cybersecurity measures, and improvements in digital government services. The report outlines efforts to enhance broadband access and promote open data initiatives, which aim to increase transparency and accessibility for residents. Additionally, Seattle IT emphasizes its commitment to protecting user privacy and implementing robust cybersecurity protocols to safeguard sensitive information. The annual report serves as a comprehensive overview of the department's performance and strategic priorities, reflecting its ongoing mission to leverage technology for the benefit of the Seattle community.

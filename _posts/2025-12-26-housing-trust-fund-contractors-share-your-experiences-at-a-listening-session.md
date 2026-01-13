@@ -1,7 +1,6 @@
 ---
 date: '2025-12-26T19:05:28+00:00'
 event_ids:
-- _events/2026-01-07-listening-session-for-housing-trust-fund-contractors.md
 - _events/2026-01-15-listening-session-for-housing-trust-fund-contractors.md
 events_extracted: true
 feed_content: |-

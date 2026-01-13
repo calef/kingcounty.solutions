@@ -1,12 +1,11 @@
 ---
-date: '2026-01-06T19:06:56+00:00'
+date: '2026-01-08T23:31:43+00:00'
 event_ids: []
 events_extracted: true
-feed_content: Seattle Parks and Recreation is excited to welcome back the Magnolia
-  community to the renovated Magnolia Community Center!  Please join us on Sat. January
-  10, 2026, starting at 11 a.m. with a ribbon cutting followed by tours of the building
-  and li...
-feed_content_checksum: 656f27c7ec169a2c7e3ea474b638240f0e2729a1
+feed_content: |-
+  <p>Yesterday, armed ICE agents in an unmarked vehicle detained three North Seattle neighbors at Washelli Cemetery. I am furious at the federal government’s abuse of power. It is unacceptable to kidnap people who are simply going about their lives. There is no place for it in Seattle. This latest abuse comes on the heels of […]</p>
+  <p>The post <a>Mayor Wilson’s statement on ICE activity</a> appeared first on <a>Office of the Mayor</a>.</p>
+feed_content_checksum: 58e0e026d2040f0ef9ba6df58e34cd215d179ed2
 image_checksums: []
 location_titles:
 - King County
@@ -19,40 +18,41 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
   3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
-  v26.6 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<title>Seattle Parks and
-  Recreation “Welcomes you back to Magnolia Community Center!” - Parkways</title>\n\t<link
-  rel=\"canonical\" href=\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"
+  v26.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<title>Mayor Wilson’s statement
+  on ICE activity - Office of the Mayor</title>\n\t<link rel=\"canonical\" href=\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
-  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Seattle Parks and
-  Recreation “Welcomes you back to Magnolia Community Center!” - Parkways\" />\n\t<meta
-  property=\"og:description\" content=\"Seattle Parks and Recreation is excited to
-  welcome back the Magnolia community to the renovated Magnolia Community Center!&nbsp;
-  Please join us on Sat. January 10, 2026, starting at 11 a.m. with a ribbon cutting
-  followed by tours of the building and light refreshments until 1 p.m. This is an
-  opportunity for the community to learn [&hellip;]\" />\n\t<meta property=\"og:url\"
-  content=\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"
-  />\n\t<meta property=\"og:site_name\" content=\"Parkways\" />\n\t<meta property=\"article:published_time\"
-  content=\"2026-01-06T19:06:56+00:00\" />\n\t<meta property=\"article:modified_time\"
-  content=\"2026-01-06T21:55:57+00:00\" />\n\t<meta property=\"og:image\" content=\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\"
-  />\n\t<meta property=\"og:image:width\" content=\"624\" />\n\t<meta property=\"og:image:height\"
-  content=\"651\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n\t<meta
-  name=\"author\" content=\"Karen O&#039;Connor\" />\n\t<meta name=\"twitter:card\"
-  content=\"summary_large_image\" />\n\t<meta name=\"twitter:label1\" content=\"Written
-  by\" />\n\t<meta name=\"twitter:data1\" content=\"Karen O&#039;Connor\" />\n\t<meta
-  name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\"
-  content=\"2 minutes\" />\n\t<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\",\"url\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\",\"name\":\"Seattle
-  Parks and Recreation “Welcomes you back to Magnolia Community Center!” - Parkways\",\"isPartOf\":{\"@id\":\"https://parkways.seattle.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\"},\"image\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\"},\"thumbnailUrl\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\",\"datePublished\":\"2026-01-06T19:06:56+00:00\",\"dateModified\":\"2026-01-06T21:55:57+00:00\",\"author\":{\"@id\":\"https://parkways.seattle.gov/#/schema/person/c33461a33bd046c3c10df7cb422f86ae\"},\"breadcrumb\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\",\"url\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\",\"contentUrl\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://parkways.seattle.gov/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Seattle
-  Parks and Recreation “Welcomes you back to Magnolia Community Center!”\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://parkways.seattle.gov/#website\",\"url\":\"https://parkways.seattle.gov/\",\"name\":\"Parkways\",\"description\":\"Seattle
-  Parks and Recreation\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://parkways.seattle.gov/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://parkways.seattle.gov/#/schema/person/c33461a33bd046c3c10df7cb422f86ae\",\"name\":\"Karen
-  O'Connor\",\"url\":\"https://parkways.seattle.gov/author/oconnok/\"}]}</script>\n\t<!--
+  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Mayor Wilson’s statement
+  on ICE activity - Office of the Mayor\" />\n\t<meta property=\"og:description\"
+  content=\"Watch the video here. Read the statement below. Yesterday, armed ICE agents
+  in an unmarked vehicle detained three North Seattle neighbors at Washelli Cemetery.
+  I am furious at the federal government&#8217;s abuse of power. It is unacceptable
+  to kidnap people who are simply going about their lives. There is no place for it
+  in Seattle. [&hellip;]\" />\n\t<meta property=\"og:url\" content=\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/\"
+  />\n\t<meta property=\"og:site_name\" content=\"Office of the Mayor\" />\n\t<meta
+  property=\"article:published_time\" content=\"2026-01-08T23:31:43+00:00\" />\n\t<meta
+  property=\"article:modified_time\" content=\"2026-01-08T23:48:54+00:00\" />\n\t<meta
+  name=\"author\" content=\"Ben Dalgetty\" />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\"
+  />\n\t<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\"
+  content=\"Ben Dalgetty\" />\n\t<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/#article\",\"isPartOf\":{\"@id\":\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/\"},\"author\":{\"name\":\"Ben
+  Dalgetty\",\"@id\":\"https://wilson.seattle.gov/#/schema/person/923cf21e2446b764510b0eda54ec4714\"},\"headline\":\"Mayor
+  Wilson’s statement on ICE activity\",\"datePublished\":\"2026-01-08T23:31:43+00:00\",\"dateModified\":\"2026-01-08T23:48:54+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/\"},\"wordCount\":427,\"commentCount\":0,\"articleSection\":[\"Public
+  Safety\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/#respond\"]}]},{\"@type\":\"WebPage\",\"@id\":\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/\",\"url\":\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/\",\"name\":\"Mayor
+  Wilson’s statement on ICE activity - Office of the Mayor\",\"isPartOf\":{\"@id\":\"https://wilson.seattle.gov/#website\"},\"datePublished\":\"2026-01-08T23:31:43+00:00\",\"dateModified\":\"2026-01-08T23:48:54+00:00\",\"author\":{\"@id\":\"https://wilson.seattle.gov/#/schema/person/923cf21e2446b764510b0eda54ec4714\"},\"breadcrumb\":{\"@id\":\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://wilson.seattle.gov/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mayor
+  Wilson’s statement on ICE activity\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://wilson.seattle.gov/#website\",\"url\":\"https://wilson.seattle.gov/\",\"name\":\"Office
+  of the Mayor\",\"description\":\"Mayor Katie B. Wilson\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://wilson.seattle.gov/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://wilson.seattle.gov/#/schema/person/923cf21e2446b764510b0eda54ec4714\",\"name\":\"Ben
+  Dalgetty\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://wilson.seattle.gov/#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/5565a12a0f5e3e0da7dc1638076bdb0393a157d1e36a83de49907cbc6f3ff11f?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/5565a12a0f5e3e0da7dc1638076bdb0393a157d1e36a83de49907cbc6f3ff11f?s=96&d=mm&r=g\",\"caption\":\"Ben
+  Dalgetty\"},\"url\":\"https://wilson.seattle.gov/author/dalgetb2/\"}]}</script>\n\t<!--
   / Yoast SEO plugin. -->\n\n\n<link rel='dns-prefetch' href='//platform-api.sharethis.com'
   />\n<link rel='dns-prefetch' href='//kit.fontawesome.com' />\n<link rel='dns-prefetch'
   href='//fonts.googleapis.com' />\n<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com'
-  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Parkways &raquo;
-  Feed\" href=\"https://parkways.seattle.gov/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"Parkways &raquo; Comments Feed\" href=\"https://parkways.seattle.gov/comments/feed/\"
+  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Office of the Mayor
+  &raquo; Feed\" href=\"https://wilson.seattle.gov/feed/\" />\n<link rel=\"alternate\"
+  type=\"application/rss+xml\" title=\"Office of the Mayor &raquo; Comments Feed\"
+  href=\"https://wilson.seattle.gov/comments/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
+  title=\"Office of the Mayor &raquo; Mayor Wilson’s statement on ICE activity Comments
+  Feed\" href=\"https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/feed/\"
   />\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nwindow._wpemojiSettings
-  = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/parkways.seattle.gov\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.8.3\"}};\n/*!
+  = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/wilson.seattle.gov\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.8.3\"}};\n/*!
   This file is auto-generated */\n!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new
   Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function
   p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new
@@ -81,7 +81,7 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   none !important;\n\t\theight: 1em !important;\n\t\twidth: 1em !important;\n\t\tmargin:
   0 0.07em !important;\n\t\tvertical-align: -0.1em !important;\n\t\tbackground: none
   !important;\n\t\tpadding: 0 !important;\n\t}\n</style>\n<link rel='stylesheet' id='wp-block-library-css'
-  href='https://parkways.seattle.gov/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3'
+  href='https://wilson.seattle.gov/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3'
   type='text/css' media='all' />\n<style id='classic-theme-styles-inline-css' type='text/css'>\n/*!
   This file is auto-generated */\n.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em
   + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}\n</style>\n<style
@@ -174,23 +174,22 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}\n:where(.wp-block-columns.is-layout-flex){gap:
   2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}\n:root :where(.wp-block-pullquote){font-size:
   1.5em;line-height: 1.6;}\n</style>\n<link rel='stylesheet' id='share-this-share-buttons-sticky-css'
-  href='https://parkways.seattle.gov/wp-content/plugins/sharethis-share-buttons/css/mu-style.css?ver=1754714307'
+  href='https://wilson.seattle.gov/wp-content/plugins/sharethis-share-buttons/css/mu-style.css?ver=1754714307'
   type='text/css' media='all' />\n<link rel='stylesheet' id='font-montserrat-css'
   href='https://fonts.googleapis.com/css?family=Montserrat%3A700&#038;ver=6.8.3' type='text/css'
-  media='all' />\n<link rel='stylesheet' id='font-open-sans-css' h"
-rss_guid: https://parkways.seattle.gov/?p=17087
-slug: seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center
-source_url: https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/
+  media='all' />\n<link rel='stylesheet' id='font-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700%2C800%2C600%2C300&#038;ver=6.8.3'
+  type='text/css' media='all' />\n<link rel='stylesheet' i"
+rss_guid: https://wilson.seattle.gov/?p=44
+slug: mayor-wilson-s-statement-on-ice-activity
+source_url: https://wilson.seattle.gov/2026/01/08/mayor-wilsons-statement-on-ice-activity/
 summarized: true
-title: Seattle Parks and Recreation “Welcomes you back the Magnolia Community Center!”
+title: Mayor Wilson’s statement on ICE activity
 topic_titles:
-- Disabilities
-- Senior Services
-- Transportation & Mobility
+- Legal Aid
 ---
 
-Seattle Parks and Recreation is set to reopen the Magnolia Community Center on January 10, 2026, following extensive renovations. The celebration will begin at 11 a.m. with a ribbon-cutting ceremony, tours of the updated facility, and light refreshments until 1 p.m. Community members are encouraged to attend to learn about the center's upgrades and share input on future programming.
+Mayor Katie B. Wilson expressed outrage over the recent detention of three North Seattle residents by armed ICE agents in an unmarked vehicle. In her statement, Wilson condemned the federal government's actions as an abuse of power, stating that such behavior has no place in Seattle. She referenced the recent murder of poet Renee Nicole Good by federal agents, emphasizing the real harm being inflicted on families and communities.
 
-The renovation project, funded by the Seattle Park District and Real-Estate Excise Tax at a cost of $6.2 million, focused on enhancing the center’s lifespan and programming capabilities. Key improvements include a new wheelchair lift for better accessibility, roof replacement, structural enhancements, a new gym floor, and upgraded windows for better heating and cooling. Additional renovations feature a remodeled reception area, kitchen, and restrooms, as well as electrical and ventilation upgrades.
+Wilson acknowledged the fear and anger among residents regarding ICE and federal enforcement tactics. She outlined her commitment to working with Police Chief Barnes, City Attorney Evans, immigrant rights groups, and local leaders to explore all legal avenues to protect the community. Seattle has laws preventing local police from assisting ICE in most cases, but Wilson highlighted that more is needed to ensure safety.
 
-These enhancements aim to create a safe, functional, and welcoming space for all generations in the community. Seattle Parks and Recreation looks forward to reconnecting with the Magnolia community and gathering feedback for future activities.
+She called for community involvement, urging residents to sign up for mobilization alerts and to advocate for protective measures from elected officials. Wilson reassured immigrant residents that Seattle is a welcoming city and that her administration is dedicated to ensuring their safety and well-being. Resources for immigrant support, including legal consultations and safety planning, are available through the Seattle Office of Immigrant and Refugee Affairs.

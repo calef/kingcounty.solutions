@@ -1,15 +1,16 @@
 ---
-date: '2026-01-06T19:06:56+00:00'
+date: '2026-01-09T00:49:29+00:00'
 event_ids: []
 events_extracted: true
-feed_content: Seattle Parks and Recreation is excited to welcome back the Magnolia
-  community to the renovated Magnolia Community Center!  Please join us on Sat. January
-  10, 2026, starting at 11 a.m. with a ribbon cutting followed by tours of the building
-  and li...
-feed_content_checksum: 656f27c7ec169a2c7e3ea474b638240f0e2729a1
+feed_content: Sharing a meal with others feels good. Food has always connected people
+  and has the ability to break down cultural barriers, build connections, and evoke
+  a feeling of wellbeing – both physically and mentally. And that is exactly what
+  the...
+feed_content_checksum: b4d0bd2f9a576ab78bb6ce2c52f7f8ee3ac22ea6
 image_checksums: []
 location_titles:
-- King County
+- Seattle
+- South King County
 organization_title: City of Seattle
 original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"
   \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
@@ -19,40 +20,51 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
   3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
-  v26.6 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<title>Seattle Parks and
-  Recreation “Welcomes you back to Magnolia Community Center!” - Parkways</title>\n\t<link
-  rel=\"canonical\" href=\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"
+  v26.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<title>American Polynesian
+  Organization Builds Community for South Seattle Seniors One Plate at a Time.   -
+  Front Porch</title>\n\t<link rel=\"canonical\" href=\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
-  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Seattle Parks and
-  Recreation “Welcomes you back to Magnolia Community Center!” - Parkways\" />\n\t<meta
-  property=\"og:description\" content=\"Seattle Parks and Recreation is excited to
-  welcome back the Magnolia community to the renovated Magnolia Community Center!&nbsp;
-  Please join us on Sat. January 10, 2026, starting at 11 a.m. with a ribbon cutting
-  followed by tours of the building and light refreshments until 1 p.m. This is an
-  opportunity for the community to learn [&hellip;]\" />\n\t<meta property=\"og:url\"
-  content=\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"
-  />\n\t<meta property=\"og:site_name\" content=\"Parkways\" />\n\t<meta property=\"article:published_time\"
-  content=\"2026-01-06T19:06:56+00:00\" />\n\t<meta property=\"article:modified_time\"
-  content=\"2026-01-06T21:55:57+00:00\" />\n\t<meta property=\"og:image\" content=\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\"
-  />\n\t<meta property=\"og:image:width\" content=\"624\" />\n\t<meta property=\"og:image:height\"
-  content=\"651\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n\t<meta
-  name=\"author\" content=\"Karen O&#039;Connor\" />\n\t<meta name=\"twitter:card\"
-  content=\"summary_large_image\" />\n\t<meta name=\"twitter:label1\" content=\"Written
-  by\" />\n\t<meta name=\"twitter:data1\" content=\"Karen O&#039;Connor\" />\n\t<meta
-  name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\"
-  content=\"2 minutes\" />\n\t<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\",\"url\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\",\"name\":\"Seattle
-  Parks and Recreation “Welcomes you back to Magnolia Community Center!” - Parkways\",\"isPartOf\":{\"@id\":\"https://parkways.seattle.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\"},\"image\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\"},\"thumbnailUrl\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\",\"datePublished\":\"2026-01-06T19:06:56+00:00\",\"dateModified\":\"2026-01-06T21:55:57+00:00\",\"author\":{\"@id\":\"https://parkways.seattle.gov/#/schema/person/c33461a33bd046c3c10df7cb422f86ae\"},\"breadcrumb\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\",\"url\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\",\"contentUrl\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://parkways.seattle.gov/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Seattle
-  Parks and Recreation “Welcomes you back to Magnolia Community Center!”\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://parkways.seattle.gov/#website\",\"url\":\"https://parkways.seattle.gov/\",\"name\":\"Parkways\",\"description\":\"Seattle
-  Parks and Recreation\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://parkways.seattle.gov/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://parkways.seattle.gov/#/schema/person/c33461a33bd046c3c10df7cb422f86ae\",\"name\":\"Karen
-  O'Connor\",\"url\":\"https://parkways.seattle.gov/author/oconnok/\"}]}</script>\n\t<!--
+  content=\"article\" />\n\t<meta property=\"og:title\" content=\"American Polynesian
+  Organization Builds Community for South Seattle Seniors One Plate at a Time.   -
+  Front Porch\" />\n\t<meta property=\"og:description\" content=\"Sharing a meal with
+  others feels&nbsp;good. Food has always connected people and&nbsp;has the ability
+  to&nbsp;break down cultural barriers, build connections, and evoke a feeling of
+  wellbeing – both physically and mentally. And that is exactly what the American
+  Polynesian Organization (APO) meal program does each week for hundreds of low-income
+  seniors living in South Seattle.&nbsp;&nbsp;&nbsp; [&hellip;]\" />\n\t<meta property=\"og:url\"
+  content=\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/\"
+  />\n\t<meta property=\"og:site_name\" content=\"Front Porch\" />\n\t<meta property=\"article:published_time\"
+  content=\"2026-01-09T00:49:29+00:00\" />\n\t<meta property=\"article:modified_time\"
+  content=\"2026-01-09T18:03:58+00:00\" />\n\t<meta property=\"og:image\" content=\"https://frontporch.seattle.gov/wp-content/uploads/sites/8/2026/01/APO-Youtube-cover-1280x720-1.jpg\"
+  />\n\t<meta property=\"og:image:width\" content=\"1280\" />\n\t<meta property=\"og:image:height\"
+  content=\"720\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n\t<meta
+  name=\"author\" content=\"cateo\" />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\"
+  />\n\t<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\"
+  content=\"SEA_Neighborhoods\" />\n\t<meta name=\"twitter:label2\" content=\"Est.
+  reading time\" />\n\t<meta name=\"twitter:data2\" content=\"2 minutes\" />\n\t<script
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/#article\",\"isPartOf\":{\"@id\":\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/\"},\"author\":{\"name\":\"cateo\",\"@id\":\"https://frontporch.seattle.gov/#/schema/person/a6ae17001d9d7772b0a751de79afedc4\"},\"headline\":\"American
+  Polynesian Organization Builds Community for South Seattle Seniors One Plate at
+  a Time.  \",\"datePublished\":\"2026-01-09T00:49:29+00:00\",\"dateModified\":\"2026-01-09T18:03:58+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/\"},\"wordCount\":286,\"image\":{\"@id\":\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/#primaryimage\"},\"thumbnailUrl\":\"https://frontporch.seattle.gov/wp-content/uploads/sites/8/2026/01/APO-Youtube-cover-1280x720-1.jpg\",\"keywords\":[\"Asian
+  Stories\",\"Beacon Hill\",\"Community Stories\",\"Food Equity Fund\",\"Grants\",\"Mount
+  Baker\",\"Rainier Beach\"],\"articleSection\":[\"Community Stories\",\"Grants and
+  Funding\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/\",\"url\":\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/\",\"name\":\"American
+  Polynesian Organization Builds Community for South Seattle Seniors One Plate at
+  a Time.   - Front Porch\",\"isPartOf\":{\"@id\":\"https://frontporch.seattle.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/#primaryimage\"},\"image\":{\"@id\":\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/#primaryimage\"},\"thumbnailUrl\":\"https://frontporch.seattle.gov/wp-content/uploads/sites/8/2026/01/APO-Youtube-cover-1280x720-1.jpg\",\"datePublished\":\"2026-01-09T00:49:29+00:00\",\"dateModified\":\"2026-01-09T18:03:58+00:00\",\"author\":{\"@id\":\"https://frontporch.seattle.gov/#/schema/person/a6ae17001d9d7772b0a751de79afedc4\"},\"breadcrumb\":{\"@id\":\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/#primaryimage\",\"url\":\"https://frontporch.seattle.gov/wp-content/uploads/sites/8/2026/01/APO-Youtube-cover-1280x720-1.jpg\",\"contentUrl\":\"https://frontporch.seattle.gov/wp-content/uploads/sites/8/2026/01/APO-Youtube-cover-1280x720-1.jpg\",\"width\":1280,\"height\":720,\"caption\":\"An
+  illustration of Chief Moi Masaniai, a Polynesian American man with a grey goatee
+  and blue baseball cap. Handwritten text: \\\" Fa'a Samoa thing – love. We love everybody.
+  Anybody that comes in, we don't look at the color, the creed or whatever. We love
+  everybody.\\\"\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://frontporch.seattle.gov/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"American
+  Polynesian Organization Builds Community for South Seattle Seniors One Plate at
+  a Time.  \"}]},{\"@type\":\"WebSite\",\"@id\":\"https://frontporch.seattle.gov/#website\",\"url\":\"https://frontporch.seattle.gov/\",\"name\":\"Front
+  Porch\",\"description\":\"Seattle Department of Neighborhoods\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://frontporch.seattle.gov/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://frontporch.seattle.gov/#/schema/person/a6ae17001d9d7772b0a751de79afedc4\",\"name\":\"cateo\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://frontporch.seattle.gov/#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/9dff27108258043602b5c2a39dbe9df50ab0dea9331d53faabff889f1f3efbd8?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/9dff27108258043602b5c2a39dbe9df50ab0dea9331d53faabff889f1f3efbd8?s=96&d=mm&r=g\",\"caption\":\"cateo\"},\"url\":\"\"}]}</script>\n\t<!--
   / Yoast SEO plugin. -->\n\n\n<link rel='dns-prefetch' href='//platform-api.sharethis.com'
   />\n<link rel='dns-prefetch' href='//kit.fontawesome.com' />\n<link rel='dns-prefetch'
   href='//fonts.googleapis.com' />\n<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com'
-  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Parkways &raquo;
-  Feed\" href=\"https://parkways.seattle.gov/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"Parkways &raquo; Comments Feed\" href=\"https://parkways.seattle.gov/comments/feed/\"
+  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Front Porch &raquo;
+  Feed\" href=\"https://frontporch.seattle.gov/feed/\" />\n<link rel=\"alternate\"
+  type=\"application/rss+xml\" title=\"Front Porch &raquo; Comments Feed\" href=\"https://frontporch.seattle.gov/comments/feed/\"
   />\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nwindow._wpemojiSettings
-  = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/parkways.seattle.gov\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.8.3\"}};\n/*!
+  = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/frontporch.seattle.gov\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.8.3\"}};\n/*!
   This file is auto-generated */\n!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new
   Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function
   p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new
@@ -81,7 +93,7 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   none !important;\n\t\theight: 1em !important;\n\t\twidth: 1em !important;\n\t\tmargin:
   0 0.07em !important;\n\t\tvertical-align: -0.1em !important;\n\t\tbackground: none
   !important;\n\t\tpadding: 0 !important;\n\t}\n</style>\n<link rel='stylesheet' id='wp-block-library-css'
-  href='https://parkways.seattle.gov/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3'
+  href='https://frontporch.seattle.gov/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3'
   type='text/css' media='all' />\n<style id='classic-theme-styles-inline-css' type='text/css'>\n/*!
   This file is auto-generated */\n.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em
   + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}\n</style>\n<style
@@ -155,42 +167,16 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color:
   var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color:
   var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background:
-  var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background:
-  var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background:
-  var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background:
-  var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background:
-  var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background:
-  var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background:
-  var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background:
-  var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background:
-  var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background:
-  var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background:
-  var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background:
-  var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size:
-  var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size:
-  var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size:
-  var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size:
-  var(--wp--preset--font-size--x-large) !important;}\n:where(.wp-block-post-template.is-layout-flex){gap:
-  1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}\n:where(.wp-block-columns.is-layout-flex){gap:
-  2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}\n:root :where(.wp-block-pullquote){font-size:
-  1.5em;line-height: 1.6;}\n</style>\n<link rel='stylesheet' id='share-this-share-buttons-sticky-css'
-  href='https://parkways.seattle.gov/wp-content/plugins/sharethis-share-buttons/css/mu-style.css?ver=1754714307'
-  type='text/css' media='all' />\n<link rel='stylesheet' id='font-montserrat-css'
-  href='https://fonts.googleapis.com/css?family=Montserrat%3A700&#038;ver=6.8.3' type='text/css'
-  media='all' />\n<link rel='stylesheet' id='font-open-sans-css' h"
-rss_guid: https://parkways.seattle.gov/?p=17087
-slug: seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center
-source_url: https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/
+  var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient"
+rss_guid: https://frontporch.seattle.gov/?p=10717
+slug: american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time
+source_url: https://frontporch.seattle.gov/2026/01/08/american-polynesian-organization-builds-community-for-south-seattle-seniors-one-plate-at-a-time/
 summarized: true
-title: Seattle Parks and Recreation “Welcomes you back the Magnolia Community Center!”
+title: American Polynesian Organization Builds Community for South Seattle Seniors One
+  Plate at a Time.  
 topic_titles:
-- Disabilities
+- Food & Nutrition
 - Senior Services
-- Transportation & Mobility
 ---
 
-Seattle Parks and Recreation is set to reopen the Magnolia Community Center on January 10, 2026, following extensive renovations. The celebration will begin at 11 a.m. with a ribbon-cutting ceremony, tours of the updated facility, and light refreshments until 1 p.m. Community members are encouraged to attend to learn about the center's upgrades and share input on future programming.
-
-The renovation project, funded by the Seattle Park District and Real-Estate Excise Tax at a cost of $6.2 million, focused on enhancing the center’s lifespan and programming capabilities. Key improvements include a new wheelchair lift for better accessibility, roof replacement, structural enhancements, a new gym floor, and upgraded windows for better heating and cooling. Additional renovations feature a remodeled reception area, kitchen, and restrooms, as well as electrical and ventilation upgrades.
-
-These enhancements aim to create a safe, functional, and welcoming space for all generations in the community. Seattle Parks and Recreation looks forward to reconnecting with the Magnolia community and gathering feedback for future activities.
+The American Polynesian Organization is working to strengthen community ties among seniors in South Seattle through shared meals. The initiative focuses on the importance of food as a way to connect individuals, foster relationships, and bridge cultural divides. By providing meals, the organization aims to create a welcoming environment where seniors can socialize and support one another. This effort not only addresses food security but also emphasizes the significance of community engagement among older residents. The organization’s programs are designed to enhance the quality of life for seniors, promoting both physical nourishment and emotional well-being through companionship.

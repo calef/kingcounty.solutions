@@ -1,0 +1,228 @@
+---
+date: '2026-01-12T20:31:51+00:00'
+feed_content: |-
+  <p>The following Tribal Members will receive tickets to concerts and events at Climate Pledge Arena.</p>
+  <p>All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your game please email <strong>TCR@snoqualmietribe.us</strong> at your earliest convenience.</p>
+  <p> </p>
+  <table>
+  <tbody>
+  <tr>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Roberto Chavez</td>
+  <td>TWICE [THIS IS FOR] WORLD TOUR IN SEATTLE Tue • Jan 13, 2026 • 08:00 PM</td>
+  </tr>
+  <tr>
+  <td>Barbara Rivera</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Autumn Liner-Sanders</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Catalina Rivera</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Charles Lauck</td>
+  <td>Battle of the Sound: Thunderbirds vs. Silvertips Sat • Jan 31, 2026 • 06:05 PM</td>
+  </tr>
+  <tr>
+  <td>Tess Baldwin</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Lilly Mullen</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Cody James</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Aron De Los Angeles</td>
+  <td>The Harlem Globetrotters 100 Year Tour Sun • Feb 1, 2026 • 03:00 PM</td>
+  </tr>
+  <tr>
+  <td>Nicole Heming</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Jennifer Arriaga</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Staci Moses</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Nacole Mulkeit</td>
+  <td>Jo Koy: Just Being Koy Tour Sat • Feb 14, 2026 • 08:00 PM</td>
+  </tr>
+  <tr>
+  <td>Jason Smalley</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Kanium T Ventura</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Marilyn Henry</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Debra Mathis</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Kanium G Ventura</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Desiree Jai Weese</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Sandy Mattingly</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Robert de los Angeles</td>
+  <td>GHOST: Skeletour World Tour 2026 Sun • Feb 15, 2026 • 08:00 PM</td>
+  </tr>
+  <tr>
+  <td>Tiffany Harriman</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Johnathan Barker</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Caden De Los Angeles</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Jon Jacobson</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Amelia Zeiler</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Mckenzie Bauer</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Alexis Ross</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Aryanna Carpenter</td>
+  <td>Cardi B – Little Miss Drama Tour Sun • Feb 22, 2026 • 07:30 PM</td>
+  </tr>
+  <tr>
+  <td>Terran Hightower</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Kealean Carpenter</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Marcus Enick</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Christina Sundborg</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Rebecca Wadhams</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Nani Little</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Elisa Slowey</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td></td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>April Lutz</td>
+  <td>Conan Gray: Wishbone World Tour Mon • Mar 16, 2026 • 08:00 PM</td>
+  </tr>
+  <tr>
+  <td>WillaMae Madsen</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>Alex Colver</td>
+  <td></td>
+  </tr>
+  </tbody>
+  </table>
+feed_content_checksum: '02891689db8b0cd993f2ab260dffc9bb73538be5'
+image_checksums: []
+location_titles:
+- King County
+organization_title: Snoqualmie Indian Tribe
+original_source_html: |-
+  <!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="pingback" href="https://snoqualmietribe.us/xmlrpc.php" /><title>2026 Quarter 1 Concerts &#038; Events Ticket Distribution | Snoqualmie Indian Tribe</title><link rel="stylesheet" id="siteground-optimizer-combined-css-fc2eceb45c38e8396749b1b4c7c4fe3e" href="https://snoqualmietribe.us/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-fc2eceb45c38e8396749b1b4c7c4fe3e.css" media="all" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><style id="et-divi-open-sans-inline-css">/* Original: https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=cyrillic,cyrillic-ext,greek,greek-ext,hebrew,latin,latin-ext,vietnamese&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVc.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVc.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf) format('truetype');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVQ&skey=743457fe2cc29280&v=v44) format('woff');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVQ&skey=743457fe2cc29280&v=v44) format('woff');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVQ&skey=743457fe2cc29280&v=v44) format('woff');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVQ&skey=743457fe2cc29280&v=v44) format('woff');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVQ&skey=743457fe2cc29280&v=v44) format('woff');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4k&skey=62c1cbfccc78b4b2&v=v44) format('woff');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4k&skey=62c1cbfccc78b4b2&v=v44) format('woff');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4k&skey=62c1cbfccc78b4b2&v=v44) format('woff');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4k&skey=62c1cbfccc78b4b2&v=v44) format('woff');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4k&skey=62c1cbfccc78b4b2&v=v44) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVI.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVI.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjaVI.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVI.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: italic;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjaVI.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 300;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4i.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 400;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4i.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 600;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4i.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 700;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4i.woff2) format('woff2');}@font-face {font-family: 'Open Sans';font-style: normal;font-weight: 800;font-stretch: normal;font-display: swap;src: url(https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4i.woff2) format('woff2');}</style><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Arvo:regular,italic,700,700italic&#038;subset=latin&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Arvo';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/arvo/v23/tDbN2oWUg0MKqSIg75Tq.ttf) format('truetype');}@font-face {font-family: 'Arvo';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/arvo/v23/tDbO2oWUg0MKqSIoVLH68dr6.ttf) format('truetype');}@font-face {font-family: 'Arvo';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/arvo/v23/tDbD2oWUg0MKqScQ6A.ttf) format('truetype');}@font-face {font-family: 'Arvo';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/arvo/v23/tDbM2oWUg0MKoZw1-LPK9g.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Arvo';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=tDbN2oWUg0MKqSIg75Tp&skey=2dd72678c3f42e85&v=v23) format('woff');}@font-face {font-family: 'Arvo';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=tDbO2oWUg0MKqSIoVLH68dr5&skey=a6e16a2b31a2dc20&v=v23) format('woff');}@font-face {font-family: 'Arvo';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=tDbD2oWUg0MKqScQ6w&skey=40c49b2c9e3d24ba&v=v23) format('woff');}@font-face {font-family: 'Arvo';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=tDbM2oWUg0MKoZw1-LPK9Q&skey=32d0e4970a9f038b&v=v23) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Arvo';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/arvo/v23/tDbN2oWUg0MKqSIg75Tv.woff2) format('woff2');}@font-face {font-family: 'Arvo';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/arvo/v23/tDbO2oWUg0MKqSIoVLH68dr_.woff2) format('woff2');}@font-face {font-family: 'Arvo';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/arvo/v23/tDbD2oWUg0MKqScQ7Q.woff2) format('woff2');}@font-face {font-family: 'Arvo';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/arvo/v23/tDbM2oWUg0MKoZw1-LPK8w.woff2) format('woff2');}</style><meta name='robots' content='max-image-preview:large' /><link rel='dns-prefetch' href='//www.googletagmanager.com' /><link rel="alternate" type="application/rss+xml" title="Snoqualmie Indian Tribe &raquo; Feed" href="https://snoqualmietribe.us/feed/" /><link rel="alternate" type="application/rss+xml" title="Snoqualmie Indian Tribe &raquo; Comments Feed" href="https://snoqualmietribe.us/comments/feed/" /><link rel="alternate" type="text/calendar" title="Snoqualmie Indian Tribe &raquo; iCal Feed" href="https://snoqualmietribe.us/events/?ical=1" /><link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://snoqualmietribe.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsnoqualmietribe.us%2F2026-quarter-1-concerts-events-ticket-distribution%2F" /><link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://snoqualmietribe.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsnoqualmietribe.us%2F2026-quarter-1-concerts-events-ticket-distribution%2F&#038;format=xml" /><meta content="Divi v.4.27.5" name="generator"/> <style id='wp-block-button-inline-css' type='text/css'> .wp-block-button__link{align-content:center;box-sizing:border-box;cursor:pointer;display:inline-block;height:100%;text-align:center;word-break:break-word}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{flex-basis:100%;width:100%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}:root :where(.wp-block-button .wp-block-button__link.is-style-outline),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link){border:2px solid;padding:.667em 1.333em}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color)){color:currentColor}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background)){background-color:initial;background-image:none}
+  /*# sourceURL=https://snoqualmietribe.us/wp-includes/blocks/button/style.min.css */ </style> <style id='wp-block-buttons-inline-css' type='text/css'> .wp-block-buttons{box-sizing:border-box}.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons .wp-block-button__link{width:100%}.wp-block-button.aligncenter{text-align:center}
+  /*# sourceURL=https://snoqualmietribe.us/wp-includes/blocks/buttons/style.min.css */ </style> <style id='wp-block-columns-inline-css' type='text/css'> .wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+  /*# sourceURL=https://snoqualmietribe.us/wp-includes/blocks/columns/style.min.css */ </style> <style id='wp-block-group-inline-css' type='text/css'> .wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+  /*# sourceURL=https://snoqualmietribe.us/wp-includes/blocks/group/style.min.css */ </style> <style id='wp-block-group-theme-inline-css' type='text/css'> :where(.wp-block-group.has-background){padding:1.25em 2.375em}
+  /*# sourceURL=https://snoqualmietribe.us/wp-includes/blocks/group/theme.min.css */ </style> <style id='global-styles-inline-css' type='text/css'> :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46
+published: false
+rss_guid: https://snoqualmietribe.us/?p=7040
+slug: 2026-quarter-1-concerts-and-events-ticket-distribution
+source_url: https://snoqualmietribe.us/2026-quarter-1-concerts-events-ticket-distribution/
+summarized: true
+title: 2026 Quarter 1 Concerts & Events Ticket Distribution
+topic_titles: []
+---
+
+Tribal members of the Snoqualmie Tribe will receive electronic tickets for various concerts and events at Climate Pledge Arena in early 2026. Tickets will be sent to the email addresses on file, and attendees must have a Ticketmaster account. If members cannot attend their event, they should email TCR@snoqualmietribe.us as soon as possible.
+
+Upcoming events include:
+
+- TWICE World Tour on Jan. 13
+- Battle of the Sound: Thunderbirds vs. Silvertips on Jan. 31
+- The Harlem Globetrotters 100 Year Tour on Feb. 1
+- Jo Koy: Just Being Koy Tour on Feb. 14
+- GHOST: Skeletour World Tour 2026 on Feb. 15
+- Cardi B – Little Miss Drama Tour on Feb. 22
+- Conan Gray: Wishbone World Tour on Mar. 16
+
+The distribution of tickets aims to enhance community engagement and provide access to popular entertainment.

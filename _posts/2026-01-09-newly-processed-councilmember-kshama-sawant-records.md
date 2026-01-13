@@ -1,12 +1,9 @@
 ---
-date: '2026-01-06T19:06:56+00:00'
-event_ids: []
-events_extracted: true
-feed_content: Seattle Parks and Recreation is excited to welcome back the Magnolia
-  community to the renovated Magnolia Community Center!  Please join us on Sat. January
-  10, 2026, starting at 11 a.m. with a ribbon cutting followed by tours of the building
-  and li...
-feed_content_checksum: 656f27c7ec169a2c7e3ea474b638240f0e2729a1
+date: '2026-01-09T00:33:05+00:00'
+feed_content: |-
+  <p>We have recently completed processing the records of Councilmember Kshama Sawant, including seven different record series. Sawant served on City Council from 2014 through 2023, first in a citywide position and then representing District 3 after a charter amendment reorganized the council into geographical districts. She was associated with the successful push for a $15/hour […]</p>
+  <p>The post <a>Newly Processed: Councilmember Kshama Sawant Records</a> appeared first on <a>Primary Sources</a>.</p>
+feed_content_checksum: 2c178e43fc4b31c6308474e763c9d28fd778d8f1
 image_checksums: []
 location_titles:
 - King County
@@ -19,40 +16,47 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
   3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
-  v26.6 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<title>Seattle Parks and
-  Recreation “Welcomes you back to Magnolia Community Center!” - Parkways</title>\n\t<link
-  rel=\"canonical\" href=\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"
-  />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
-  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Seattle Parks and
-  Recreation “Welcomes you back to Magnolia Community Center!” - Parkways\" />\n\t<meta
-  property=\"og:description\" content=\"Seattle Parks and Recreation is excited to
-  welcome back the Magnolia community to the renovated Magnolia Community Center!&nbsp;
-  Please join us on Sat. January 10, 2026, starting at 11 a.m. with a ribbon cutting
-  followed by tours of the building and light refreshments until 1 p.m. This is an
-  opportunity for the community to learn [&hellip;]\" />\n\t<meta property=\"og:url\"
-  content=\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"
-  />\n\t<meta property=\"og:site_name\" content=\"Parkways\" />\n\t<meta property=\"article:published_time\"
-  content=\"2026-01-06T19:06:56+00:00\" />\n\t<meta property=\"article:modified_time\"
-  content=\"2026-01-06T21:55:57+00:00\" />\n\t<meta property=\"og:image\" content=\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\"
-  />\n\t<meta property=\"og:image:width\" content=\"624\" />\n\t<meta property=\"og:image:height\"
-  content=\"651\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n\t<meta
-  name=\"author\" content=\"Karen O&#039;Connor\" />\n\t<meta name=\"twitter:card\"
+  v26.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<title>Newly Processed:
+  Councilmember Kshama Sawant Records - Primary Sources</title>\n\t<link rel=\"canonical\"
+  href=\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/\" />\n\t<meta
+  property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\" content=\"article\"
+  />\n\t<meta property=\"og:title\" content=\"Newly Processed: Councilmember Kshama
+  Sawant Records - Primary Sources\" />\n\t<meta property=\"og:description\" content=\"We
+  recently completed processing the records of Councilmember Kshama Sawant, including
+  seven different record series. Sawant served on City Council from 2014 through 2023,
+  first in a citywide position and then representing District 3 after a charter amendment
+  reorganized the council into geographical districts. She was associated with the
+  successful push for a $15/hour minimum [&hellip;]\" />\n\t<meta property=\"og:url\"
+  content=\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/\"
+  />\n\t<meta property=\"og:site_name\" content=\"Primary Sources\" />\n\t<meta property=\"article:published_time\"
+  content=\"2026-01-09T00:33:05+00:00\" />\n\t<meta property=\"article:modified_time\"
+  content=\"2026-01-09T22:42:00+00:00\" />\n\t<meta property=\"og:image\" content=\"https://primarysources.seattle.gov/wp-content/uploads/sites/42/2026/01/194244.jpg\"
+  />\n\t<meta property=\"og:image:width\" content=\"700\" />\n\t<meta property=\"og:image:height\"
+  content=\"467\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n\t<meta
+  name=\"author\" content=\"Seattle Municipal Archives\" />\n\t<meta name=\"twitter:card\"
   content=\"summary_large_image\" />\n\t<meta name=\"twitter:label1\" content=\"Written
-  by\" />\n\t<meta name=\"twitter:data1\" content=\"Karen O&#039;Connor\" />\n\t<meta
+  by\" />\n\t<meta name=\"twitter:data1\" content=\"Seattle Municipal Archives\" />\n\t<meta
   name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\"
-  content=\"2 minutes\" />\n\t<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\",\"url\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\",\"name\":\"Seattle
-  Parks and Recreation “Welcomes you back to Magnolia Community Center!” - Parkways\",\"isPartOf\":{\"@id\":\"https://parkways.seattle.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\"},\"image\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\"},\"thumbnailUrl\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\",\"datePublished\":\"2026-01-06T19:06:56+00:00\",\"dateModified\":\"2026-01-06T21:55:57+00:00\",\"author\":{\"@id\":\"https://parkways.seattle.gov/#/schema/person/c33461a33bd046c3c10df7cb422f86ae\"},\"breadcrumb\":{\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#primaryimage\",\"url\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\",\"contentUrl\":\"https://parkways.seattle.gov/wp-content/uploads/sites/25/2026/01/Ribbon-Cutting-1.10.2026.png\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://parkways.seattle.gov/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Seattle
-  Parks and Recreation “Welcomes you back to Magnolia Community Center!”\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://parkways.seattle.gov/#website\",\"url\":\"https://parkways.seattle.gov/\",\"name\":\"Parkways\",\"description\":\"Seattle
-  Parks and Recreation\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://parkways.seattle.gov/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://parkways.seattle.gov/#/schema/person/c33461a33bd046c3c10df7cb422f86ae\",\"name\":\"Karen
-  O'Connor\",\"url\":\"https://parkways.seattle.gov/author/oconnok/\"}]}</script>\n\t<!--
+  content=\"2 minutes\" />\n\t<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/#article\",\"isPartOf\":{\"@id\":\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/\"},\"author\":{\"name\":\"Seattle
+  Municipal Archives\",\"@id\":\"https://primarysources.seattle.gov/#/schema/person/125a2fdff325ba936a3730931c9fc3b2\"},\"headline\":\"Newly
+  Processed: Councilmember Kshama Sawant Records\",\"datePublished\":\"2026-01-09T00:33:05+00:00\",\"dateModified\":\"2026-01-09T22:42:00+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/\"},\"wordCount\":288,\"commentCount\":0,\"image\":{\"@id\":\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/#primaryimage\"},\"thumbnailUrl\":\"https://primarysources.seattle.gov/wp-content/uploads/sites/42/2026/01/194244.jpg\",\"keywords\":[\"2010s\",\"2020s\",\"District
+  3\",\"Elected Officials\",\"Newly Processed\"],\"articleSection\":[\"Collection
+  Highlights\",\"What’s Happening\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/#respond\"]}]},{\"@type\":\"WebPage\",\"@id\":\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/\",\"url\":\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/\",\"name\":\"Newly
+  Processed: Councilmember Kshama Sawant Records - Primary Sources\",\"isPartOf\":{\"@id\":\"https://primarysources.seattle.gov/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/#primaryimage\"},\"image\":{\"@id\":\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/#primaryimage\"},\"thumbnailUrl\":\"https://primarysources.seattle.gov/wp-content/uploads/sites/42/2026/01/194244.jpg\",\"datePublished\":\"2026-01-09T00:33:05+00:00\",\"dateModified\":\"2026-01-09T22:42:00+00:00\",\"author\":{\"@id\":\"https://primarysources.seattle.gov/#/schema/person/125a2fdff325ba936a3730931c9fc3b2\"},\"breadcrumb\":{\"@id\":\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/#primaryimage\",\"url\":\"https://primarysources.seattle.gov/wp-content/uploads/sites/42/2026/01/194244.jpg\",\"contentUrl\":\"https://primarysources.seattle.gov/wp-content/uploads/sites/42/2026/01/194244.jpg\",\"width\":700,\"height\":467},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://primarysources.seattle.gov/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Newly
+  Processed: Councilmember Kshama Sawant Records\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://primarysources.seattle.gov/#website\",\"url\":\"https://primarysources.seattle.gov/\",\"name\":\"Primary
+  Sources\",\"description\":\"Seattle Municipal Archives\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://primarysources.seattle.gov/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://primarysources.seattle.gov/#/schema/person/125a2fdff325ba936a3730931c9fc3b2\",\"name\":\"Seattle
+  Municipal Archives\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://primarysources.seattle.gov/#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/7f35f983e4c68ae327ad08a84e5022a1fcac68709a205870461431080635b331?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/7f35f983e4c68ae327ad08a84e5022a1fcac68709a205870461431080635b331?s=96&d=mm&r=g\",\"caption\":\"Seattle
+  Municipal Archives\"},\"url\":\"https://primarysources.seattle.gov/author/kerssej/\"}]}</script>\n\t<!--
   / Yoast SEO plugin. -->\n\n\n<link rel='dns-prefetch' href='//platform-api.sharethis.com'
   />\n<link rel='dns-prefetch' href='//kit.fontawesome.com' />\n<link rel='dns-prefetch'
   href='//fonts.googleapis.com' />\n<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com'
-  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Parkways &raquo;
-  Feed\" href=\"https://parkways.seattle.gov/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"Parkways &raquo; Comments Feed\" href=\"https://parkways.seattle.gov/comments/feed/\"
+  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Primary Sources
+  &raquo; Feed\" href=\"https://primarysources.seattle.gov/feed/\" />\n<link rel=\"alternate\"
+  type=\"application/rss+xml\" title=\"Primary Sources &raquo; Comments Feed\" href=\"https://primarysources.seattle.gov/comments/feed/\"
+  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Primary Sources
+  &raquo; Newly Processed: Councilmember Kshama Sawant Records Comments Feed\" href=\"https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/feed/\"
   />\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nwindow._wpemojiSettings
-  = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/parkways.seattle.gov\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.8.3\"}};\n/*!
+  = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/16.0.1\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/primarysources.seattle.gov\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.8.3\"}};\n/*!
   This file is auto-generated */\n!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new
   Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function
   p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new
@@ -81,7 +85,7 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   none !important;\n\t\theight: 1em !important;\n\t\twidth: 1em !important;\n\t\tmargin:
   0 0.07em !important;\n\t\tvertical-align: -0.1em !important;\n\t\tbackground: none
   !important;\n\t\tpadding: 0 !important;\n\t}\n</style>\n<link rel='stylesheet' id='wp-block-library-css'
-  href='https://parkways.seattle.gov/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3'
+  href='https://primarysources.seattle.gov/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3'
   type='text/css' media='all' />\n<style id='classic-theme-styles-inline-css' type='text/css'>\n/*!
   This file is auto-generated */\n.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em
   + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}\n</style>\n<style
@@ -163,34 +167,16 @@ original_source_html: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitiona
   var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background:
   var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background:
   var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background:
-  var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background:
-  var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background:
-  var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background:
-  var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size:
-  var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size:
-  var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size:
-  var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size:
-  var(--wp--preset--font-size--x-large) !important;}\n:where(.wp-block-post-template.is-layout-flex){gap:
-  1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}\n:where(.wp-block-columns.is-layout-flex){gap:
-  2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}\n:root :where(.wp-block-pullquote){font-size:
-  1.5em;line-height: 1.6;}\n</style>\n<link rel='stylesheet' id='share-this-share-buttons-sticky-css'
-  href='https://parkways.seattle.gov/wp-content/plugins/sharethis-share-buttons/css/mu-style.css?ver=1754714307'
-  type='text/css' media='all' />\n<link rel='stylesheet' id='font-montserrat-css'
-  href='https://fonts.googleapis.com/css?family=Montserrat%3A700&#038;ver=6.8.3' type='text/css'
-  media='all' />\n<link rel='stylesheet' id='font-open-sans-css' h"
-rss_guid: https://parkways.seattle.gov/?p=17087
-slug: seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center
-source_url: https://parkways.seattle.gov/2026/01/06/seattle-parks-and-recreation-welcomes-you-back-the-magnolia-community-center/
+  var(--wp--preset--gradient--luminous-dusk) !import"
+published: false
+rss_guid: https://primarysources.seattle.gov/?p=148
+slug: newly-processed-councilmember-kshama-sawant-records
+source_url: https://primarysources.seattle.gov/2026/01/09/kshama-sawant-records/
 summarized: true
-title: Seattle Parks and Recreation “Welcomes you back the Magnolia Community Center!”
-topic_titles:
-- Disabilities
-- Senior Services
-- Transportation & Mobility
+title: 'Newly Processed: Councilmember Kshama Sawant Records'
+topic_titles: []
 ---
 
-Seattle Parks and Recreation is set to reopen the Magnolia Community Center on January 10, 2026, following extensive renovations. The celebration will begin at 11 a.m. with a ribbon-cutting ceremony, tours of the updated facility, and light refreshments until 1 p.m. Community members are encouraged to attend to learn about the center's upgrades and share input on future programming.
+The Seattle Municipal Archives has completed processing the records of former Councilmember Kshama Sawant, who served from 2014 to 2023. The records include seven series, with the largest being the Subject Files, which contain 4.8 cubic feet of paper records and over 11,000 digital files. Sawant was instrumental in advocating for a $15/hour minimum wage and an ordinance banning caste discrimination, as well as supporting rent control and labor unions. Her documentation includes significant work on landlord-tenant law, winter eviction regulations, and various labor issues like secure scheduling and union activities.
 
-The renovation project, funded by the Seattle Park District and Real-Estate Excise Tax at a cost of $6.2 million, focused on enhancing the center’s lifespan and programming capabilities. Key improvements include a new wheelchair lift for better accessibility, roof replacement, structural enhancements, a new gym floor, and upgraded windows for better heating and cooling. Additional renovations feature a remodeled reception area, kitchen, and restrooms, as well as electrical and ventilation upgrades.
-
-These enhancements aim to create a safe, functional, and welcoming space for all generations in the community. Seattle Parks and Recreation looks forward to reconnecting with the Magnolia community and gathering feedback for future activities.
+Additional records showcase her leadership in council committees, including the Energy and Environment Committee and the Sustainability and Renters’ Rights Committee. These records feature agendas, presentations, and reports. Another notable collection is the Posters and Flyers series, which contains materials promoting various causes such as labor rights, minimum wage initiatives, and progressive taxation. Some items were created for labor union rallies at companies like Starbucks and Amazon. The records are available in both paper and digital formats, with selected items accessible in Digital Collections.
