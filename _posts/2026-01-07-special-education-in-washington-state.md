@@ -1,7 +1,6 @@
 ---
 date: '2026-01-07T00:44:36+00:00'
-event_ids:
-- _events/2026-01-09-wa-include-community-session-on-special-education.md
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>Special
   Education in Washington State</h2>\n<h3>WA INCLUDE Community Session<br>\nFriday,

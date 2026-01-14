@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/calef/seldon.git
-  revision: ee48fed7917cddabf8c605708aeb395abb40f7ea
+  revision: 192c22f1164e81f67d3c50e76b8b3d0ef8b2996d
   specs:
     seldon (0.3.1)
       faraday

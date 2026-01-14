@@ -1,7 +1,6 @@
 ---
 date: '2026-01-06T19:06:56+00:00'
-event_ids:
-- _events/2026-01-10-magnolia-community-center-reopening-celebration.md
+event_ids: []
 events_extracted: true
 feed_content: Seattle Parks and Recreation is excited to welcome back the Magnolia
   community to the renovated Magnolia Community Center!  Please join us on Sat. January
