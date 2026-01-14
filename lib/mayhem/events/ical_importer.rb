@@ -70,7 +70,7 @@ module Mayhem
         index = {}
         Mayhem::Models::Event.all.each do |event|
           url = normalized_link(event.source_url, nil)
-          index[url] = true if url
+          index[url] = event if url
         end
         index
       end
@@ -196,7 +196,8 @@ module Mayhem
         start_value = start_time.iso8601
         end_value = end_time.iso8601
 
-        existing_event = Mayhem::Models::Event.find_by(source_url: canonical_url)
+        normalized_canonical = normalized_link(canonical_url, nil)
+        existing_event = @existing_lock.synchronize { @existing_urls[normalized_canonical] }
 
         description_html = Seldon::Support::EncodingUtils.ensure_utf8(raw_html)
         description_html = Mayhem::Content::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?
@@ -205,8 +206,8 @@ module Mayhem
         checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_description)
 
         if existing_event
-          register_event_url(canonical_url)
-          register_event_url(source_url) unless canonical_url == source_url
+          register_event_url(canonical_url, existing_event)
+          register_event_url(source_url, existing_event) unless canonical_url == source_url
           return skip_event(reason: :locked, reason_detail: canonical_url, stats: stats) if existing_event.locked?
 
           existing_checksum =
@@ -239,13 +240,13 @@ module Mayhem
           front_matter['feed_content_checksum'] = checksum
         end
         body_content = ''
-        Mayhem::Models::Event.create!(
+        new_event = Mayhem::Models::Event.create!(
           front_matter,
           body: body_content
         )
         record_stat(:created, stats)
-        register_event_url(canonical_url)
-        register_event_url(source_url) unless canonical_url == source_url
+        register_event_url(canonical_url, new_event)
+        register_event_url(source_url, new_event) unless canonical_url == source_url
       rescue StandardError => e
         logger.warn "Failed to persist event #{summary || '<untitled>'}: #{e.message}"
         record_stat(:write_failed, stats)
@@ -273,11 +274,11 @@ module Mayhem
         Mayhem::Content::HtmlNormalizer.canonicalize_url(normalized)
       end
 
-      def register_event_url(url)
+      def register_event_url(url, event = nil)
         normalized = normalized_link(url, nil)
         return if normalized.to_s.strip.empty?
 
-        @existing_lock.synchronize { @existing_urls[normalized] = true }
+        @existing_lock.synchronize { @existing_urls[normalized] = event || true }
       end
 
       def event_registered?(url)
