@@ -53,26 +53,26 @@ class StaleEventCleanerTest < Minitest::Test
   def test_removes_event_links_from_posts
     old_source = 'https://example.com/old'
     future_source = 'https://example.com/future'
-    old_event = write_event('old-event', '2025-12-03T10:00:00-08:00', source_url: old_source)
-    future_event = write_event('future-event', '2025-12-06T10:00:00-08:00', source_url: future_source)
+    old_event_path = write_event('old-event', '2025-12-03T10:00:00-08:00', source_url: old_source)
+    future_event_path = write_event('future-event', '2025-12-06T10:00:00-08:00', source_url: future_source)
 
-    # Create posts that link to events
-    post1 = write_post('post1', [event_id_for('old-event'), event_id_for('future-event')], source_url: old_source)
-    post2 = write_post('post2', [event_id_for('future-event')], source_url: future_source)
+    # Create posts that link to events - use actual event IDs
+    post1 = write_post('post1', [old_event_path, future_event_path], source_url: old_source)
+    post2 = write_post('post2', [future_event_path], source_url: future_source)
 
     @cleaner.run
 
     # Verify old event removed
-    refute_path_exists old_event
-    assert_path_exists future_event
+    refute_path_exists old_event_path
+    assert_path_exists future_event_path
 
     # Verify post1 only has future event link
     post1_doc = Mayhem::Models::News.find(post1.id)
-    assert_equal [event_id_for('future-event')], post1_doc.event_ids
+    assert_equal [future_event_path], post1_doc.event_ids
 
     # Verify post2 still has its event link
     post2_doc = Mayhem::Models::News.find(post2.id)
-    assert_equal [event_id_for('future-event')], post2_doc.event_ids
+    assert_equal [future_event_path], post2_doc.event_ids
   end
 
   private
@@ -93,9 +93,5 @@ class StaleEventCleanerTest < Minitest::Test
       'source_url' => source_url
     }
     Mayhem::Models::News.create!(front_matter, body: '')
-  end
-
-  def event_id_for(name)
-    File.join('_events', "#{name}.md")
   end
 end
