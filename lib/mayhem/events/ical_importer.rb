@@ -206,8 +206,8 @@ module Mayhem
         checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_description)
 
         if existing_event
-          register_event_url(canonical_url)
-          register_event_url(source_url) unless canonical_url == source_url
+          register_event_url(canonical_url, existing_event)
+          register_event_url(source_url, existing_event) unless canonical_url == source_url
           return skip_event(reason: :locked, reason_detail: canonical_url, stats: stats) if existing_event.locked?
 
           existing_checksum =
@@ -240,13 +240,13 @@ module Mayhem
           front_matter['feed_content_checksum'] = checksum
         end
         body_content = ''
-        Mayhem::Models::Event.create!(
+        new_event = Mayhem::Models::Event.create!(
           front_matter,
           body: body_content
         )
         record_stat(:created, stats)
-        register_event_url(canonical_url)
-        register_event_url(source_url) unless canonical_url == source_url
+        register_event_url(canonical_url, new_event)
+        register_event_url(source_url, new_event) unless canonical_url == source_url
       rescue StandardError => e
         logger.warn "Failed to persist event #{summary || '<untitled>'}: #{e.message}"
         record_stat(:write_failed, stats)
@@ -285,7 +285,7 @@ module Mayhem
         normalized = normalized_link(url, nil)
         return false if normalized.to_s.strip.empty?
 
-        @existing_lock.synchronize { @existing_urls.key?(normalized) && @existing_urls[normalized] }
+        @existing_lock.synchronize { @existing_urls.key?(normalized) }
       end
 
       def event_location(event)
