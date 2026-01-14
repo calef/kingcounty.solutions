@@ -70,7 +70,7 @@ module Mayhem
         index = {}
         Mayhem::Models::Event.all.each do |event|
           url = normalized_link(event.source_url, nil)
-          index[url] = true if url
+          index[url] = event if url
         end
         index
       end
@@ -196,7 +196,8 @@ module Mayhem
         start_value = start_time.iso8601
         end_value = end_time.iso8601
 
-        existing_event = Mayhem::Models::Event.find_by(source_url: canonical_url)
+        normalized_canonical = normalized_link(canonical_url, nil)
+        existing_event = @existing_lock.synchronize { @existing_urls[normalized_canonical] }
 
         description_html = Seldon::Support::EncodingUtils.ensure_utf8(raw_html)
         description_html = Mayhem::Content::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?
@@ -273,18 +274,18 @@ module Mayhem
         Mayhem::Content::HtmlNormalizer.canonicalize_url(normalized)
       end
 
-      def register_event_url(url)
+      def register_event_url(url, event = nil)
         normalized = normalized_link(url, nil)
         return if normalized.to_s.strip.empty?
 
-        @existing_lock.synchronize { @existing_urls[normalized] = true }
+        @existing_lock.synchronize { @existing_urls[normalized] = event || true }
       end
 
       def event_registered?(url)
         normalized = normalized_link(url, nil)
         return false if normalized.to_s.strip.empty?
 
-        @existing_lock.synchronize { @existing_urls.key?(normalized) }
+        @existing_lock.synchronize { @existing_urls.key?(normalized) && @existing_urls[normalized] }
       end
 
       def event_location(event)
