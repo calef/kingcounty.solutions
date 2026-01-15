@@ -28,7 +28,7 @@ class EventModelTest < Minitest::Test
         body: 'A test community event.'
       )
 
-      assert_equal '_events/community-meeting.md', record.id
+      assert_equal '_events/2025-12-20-community-meeting.md', record.id
       assert_equal 'Community Meeting', record.title
       assert_equal '2025-12-20T09:00:00-08:00', record.start_date
       assert_equal '2025-12-20T10:30:00-08:00', record.end_date

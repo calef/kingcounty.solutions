@@ -7,7 +7,7 @@ module Mayhem
   module Models
     class News < AbstractContent
       repository_role :news
-      scope glob: '_posts/**/*.{md,markdown}'
+      scope glob: '_posts/**/*.md'
       naming do |front_matter:, **|
         slug_source = front_matter['slug'] || front_matter['title'] || 'untitled'
         slug = FMRepo.slugify(slug_source)
