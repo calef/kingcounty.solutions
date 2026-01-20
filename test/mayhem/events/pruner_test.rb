@@ -4,6 +4,7 @@ require_relative '../../test_helper'
 require 'fileutils'
 require 'mayhem/events/pruner'
 require 'mayhem/images/pruner'
+require 'mayhem/models/event'
 require 'mayhem/models/image'
 require 'mayhem/front_matter/document'
 require 'seldon'
@@ -38,12 +39,14 @@ class EventsPrunerTest < Minitest::Test
   end
 
   def test_delete_removes_file_and_cleans_post_references
-    event_path = write_event('event-1')
-    write_post('post.md', [event_id_for('event-1')])
+    write_event('event-1')
+    event_id = event_id_for('event-1')
+    write_post('post.md', [event_id])
+    event = Mayhem::Models::Event.find(event_id)
 
-    @pruner.delete(event_path)
+    @pruner.delete(event)
 
-    refute_path_exists event_path
+    refute_path_exists File.join(@events_dir, 'event-1.md')
     updated = Mayhem::FrontMatter::Document.load(File.join(@posts_dir, 'post.md'))
     assert_empty updated.front_matter['event_ids']
   end
@@ -52,14 +55,15 @@ class EventsPrunerTest < Minitest::Test
     image_id = 'event-img'
     write_image_metadata(image_id)
     write_asset(image_id)
-    event_path = write_event('event-2', image_checksums: [image_id])
-    document = Mayhem::FrontMatter::Document.load(event_path)
+    write_event('event-2', image_checksums: [image_id])
+    event_id = event_id_for('event-2')
+    event = Mayhem::Models::Event.find(event_id)
 
-    @pruner.unpublish(event_path, document)
+    @pruner.unpublish(event)
 
-    updated = Mayhem::FrontMatter::Document.load(event_path)
-    refute updated.front_matter['published']
-    assert_empty updated.front_matter['image_checksums']
+    updated = Mayhem::Models::Event.find(event_id)
+    refute updated['published']
+    assert_empty updated['image_checksums']
     refute_path_exists File.join(@images_dir, "#{image_id}.md")
     assert_empty Dir.glob(File.join(@assets_dir, "#{image_id}.*"))
   end

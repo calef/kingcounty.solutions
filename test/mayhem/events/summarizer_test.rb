@@ -363,18 +363,19 @@ class EventSummarizerTest < Minitest::Test
 
   def test_handle_unusable_content_marks_unpublished_and_unlinks_posts
     slug = 'event-empty'
-    path = write_event(slug, {
-                         'title' => 'Empty Event',
-                         'start_date' => '2025-09-09',
-                         'location' => 'Library',
-                         'source_url' => 'https://example.com/event',
-                         'generated_from_post' => true
-                       }, 'Old summary')
+    write_event(slug, {
+                  'title' => 'Empty Event',
+                  'start_date' => '2025-09-09',
+                  'location' => 'Library',
+                  'source_url' => 'https://example.com/event',
+                  'generated_from_post' => true
+                }, 'Old summary')
     write_post('post-one', { 'event_ids' => [event_id_for(slug)] })
-    document = Mayhem::FrontMatter::Document.load(path)
+    event_id = event_id_for(slug)
+    event = Mayhem::Models::Event.find(event_id)
     stats = Hash.new(0)
     event_pruner = Minitest::Mock.new
-    event_pruner.expect(:unpublish, nil, [path, document])
+    event_pruner.expect(:unpublish, nil, [event])
 
     summarizer = Mayhem::Events::EventSummarizer.new(
       assets_dir: @tmp_assets,
@@ -386,14 +387,14 @@ class EventSummarizerTest < Minitest::Test
       model: 'test-model'
     )
 
-    summarizer.send(:handle_unusable_content, document, document.front_matter, path, stats, generated_from_post: true)
+    summarizer.send(:handle_unusable_content, event, event_id, stats, generated_from_post: true)
 
     event_pruner.verify
-    updated = Mayhem::FrontMatter::Document.load(path)
-    assert_equal true, updated.front_matter['summarized']
-    refute updated.front_matter['published']
-    assert_equal [], Array(updated.front_matter['topic_titles'])
-    assert_equal [], Array(updated.front_matter['location_titles'])
+    updated = Mayhem::Models::Event.find(event_id)
+    assert_equal true, updated['summarized']
+    refute updated['published']
+    assert_equal [], Array(updated['topic_titles'])
+    assert_equal [], Array(updated['location_titles'])
     assert_equal '', updated.body
     assert_equal 1, stats[:failed_summary]
     assert_equal 1, stats[:events_unlinked]

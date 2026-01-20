@@ -73,15 +73,13 @@ module Mayhem
 
       def prune_events(organization_title)
         deleted_count = 0
-        Dir.glob(File.join(events_dir, '*.md')).each do |event_path|
-          document = Mayhem::FrontMatter::Document.load(event_path)
-          next unless document
-
-          event_org = document.front_matter['organization_title']
+        Mayhem::Models::Event.relation.to_a.each do |event|
+          event_org = event['organization_title']
           next unless event_org == organization_title
 
+          event_path = event.path.to_s
           logger.info "Deleting event: #{File.basename(event_path)}"
-          @events_pruner.delete(event_path, document)
+          @events_pruner.delete(event)
           deleted_count += 1
         end
         deleted_count

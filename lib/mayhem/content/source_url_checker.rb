@@ -115,7 +115,7 @@ module Mayhem
       end
 
       def unpublish_post(record)
-        image_checksums = @news_pruner.collect_image_checksums('image_checksums' => record.image_checksums)
+        image_checksums = @images_pruner.collect_image_checksums('image_checksums' => record.image_checksums)
         record['published'] = false
         record['image_checksums'] = []
         record.save!
@@ -128,14 +128,12 @@ module Mayhem
       end
 
       def delete_event(record)
-        path = record_path(record, base_dir: @events_dir)
-        image_checksums = @events_pruner.collect_image_checksums('image_checksums' => record.image_checksums)
-        @events_pruner.delete(path)
+        image_checksums = @images_pruner.collect_image_checksums('image_checksums' => record.image_checksums)
+        @events_pruner.delete(record)
 
         return if image_checksums.empty?
 
-        excluded_paths = path.to_s.empty? ? Set.new : Set[path]
-        @events_pruner.prune_images(image_checksums, excluded_paths: excluded_paths)
+        @events_pruner.prune_images(image_checksums, excluded_events: [record])
       end
 
       def record_path(record, base_dir:)

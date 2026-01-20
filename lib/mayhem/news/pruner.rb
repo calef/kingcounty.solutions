@@ -42,10 +42,6 @@ module Mayhem
         @images_pruner.prune(image_checksums, excluded_paths: excluded_paths)
       end
 
-      def collect_image_checksums(front_matter)
-        @images_pruner.collect_image_checksums(front_matter)
-      end
-
       private
 
       def delete_file(path)

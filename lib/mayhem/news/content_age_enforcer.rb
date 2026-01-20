@@ -106,7 +106,7 @@ module Mayhem
 
           memo << {
             path: path,
-            image_checksums: @news_pruner.collect_image_checksums(document.front_matter),
+            image_checksums: @images_pruner.collect_image_checksums(document.front_matter),
             event_ids: collect_event_ids(document.front_matter)
           }
         end

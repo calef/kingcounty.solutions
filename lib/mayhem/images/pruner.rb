@@ -51,12 +51,33 @@ module Mayhem
         counts
       end
 
-      def prune(image_checksums, excluded_paths: Set.new)
+      def prune(image_checksums, excluded_paths: Set.new, excluded_events: nil)
+        excluded_paths = normalize_excluded_paths(excluded_paths, excluded_events)
         remaining_refs = remaining_image_counts(excluded_paths)
         prune_images(image_checksums, remaining_refs)
       end
 
       private
+
+      def normalize_excluded_paths(excluded_paths, excluded_events)
+        paths = Set.new(Array(excluded_paths).compact)
+        Array(excluded_events).each do |event|
+          next unless event
+
+          path = event_path_for(event)
+          paths << path unless path.empty?
+        end
+        paths
+      end
+
+      def event_path_for(event)
+        path = event.path.to_s
+        path = event.id.to_s if path.empty? && event.respond_to?(:id)
+        return '' if path.empty?
+
+        root = File.expand_path('..', events_dir.to_s)
+        File.absolute_path(path, root)
+      end
 
       def prune_images(image_checksums, remaining_refs)
         removed = []
