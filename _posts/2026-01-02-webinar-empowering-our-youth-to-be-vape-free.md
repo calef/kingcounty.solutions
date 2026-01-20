@@ -1,7 +1,6 @@
 ---
 date: '2026-01-02T18:16:16+00:00'
-event_ids:
-- _events/2026-01-13-webinar-empowering-our-youth-to-be-vape-free.md
+event_ids: []
 events_extracted: true
 feed_content: A free webinar titled "Empowering Our Youth to Be Vape Free" will be
   held on January 13, 2026, featuring Heather Hansen from Eastern Idaho Public Health.
