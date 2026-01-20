@@ -23,7 +23,7 @@ class ImageExtractorIntegrationTest < Minitest::Test
     FileUtils.mkdir_p(@assets_images)
 
     # create a post with original_source_html containing an image
-    post = Mayhem::Models::News.create!(
+    Mayhem::Models::News.create!(
       {
         'title' => 'Img Post',
         'date' => Time.now.iso8601,

@@ -120,11 +120,13 @@ module Mayhem
 
       def delete_event(record)
         image_checksums = @images_pruner.collect_image_checksums('image_checksums' => record.image_checksums)
+        # Capture event identifier before deletion
+        event_identifier = record.path.to_s
         @events_pruner.delete(record)
 
         return if image_checksums.empty?
 
-        @events_pruner.prune_images(image_checksums, excluded_events: [record])
+        @events_pruner.prune_images(image_checksums, excluded_events: [event_identifier])
       end
 
       def record_label(record)
