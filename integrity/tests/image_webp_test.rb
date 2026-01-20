@@ -2,7 +2,7 @@
 
 require 'pathname'
 require_relative '../test_helper'
-require_relative '../../lib/mayhem/front_matter/document'
+require_relative '../../lib/mayhem/models/image'
 
 class ImageWebPTest < Minitest::Test
   ASSET_DIR = File.join('assets', 'images')
@@ -20,21 +20,18 @@ class ImageWebPTest < Minitest::Test
   end
 
   def test_image_documents_reference_webp_assets
-    errors = Dir['_images/*.md'].filter_map do |path|
-      document = Mayhem::FrontMatter::Document.load(path)
-      next unless document
-
-      image_url = document.front_matter['image_url']
+    errors = Mayhem::Models::Image.all.filter_map do |image|
+      image_url = image['image_url']
       next unless image_url.is_a?(String) && image_url.start_with?(LOCAL_PREFIX)
 
       relative_path = image_url.sub(%r{\A/+}, '')
       asset_path = Pathname.new(relative_path).cleanpath
       asset_path = Pathname.pwd.join(asset_path) unless asset_path.absolute?
-      next "#{path}: referenced asset #{image_url} does not exist" unless asset_path.file?
+      next "#{image.id}: referenced asset #{image_url} does not exist" unless asset_path.file?
 
       next if PERMITTED_EXTENSIONS.include?(asset_path.extname.downcase)
 
-      "#{path}: image_url #{image_url} must reference a WebP or SVG asset"
+      "#{image.id}: image_url #{image_url} must reference a WebP or SVG asset"
     end
 
     assert_empty errors, errors.join("\n")
