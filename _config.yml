@@ -77,6 +77,7 @@ exclude:
   - .jekyll-cache/
   - .sass-cache/
   - AGENTS.md
+  - CLAUDE.md
   - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock
