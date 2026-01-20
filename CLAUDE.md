@@ -1,4 +1,3 @@
----
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -6,6 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Project Overview
 
 Jekyll-based static site aggregating public service resources for King County, WA. Two-layer architecture:
+
 1. **Jekyll static site** - Collections in `_organizations/`, `_locations/`, `_topics/`, `_events/`, `_posts/`, `_images/`
 2. **Mayhem automation** - Ruby library in `lib/mayhem/` handling content imports, AI summarization, image extraction
 
@@ -100,7 +100,7 @@ To re-record a VCR cassette, delete the YAML file and re-run the test.
 ## Environment Variables
 
 | Variable | Purpose |
-|----------|---------|
+| ---------- | --------- |
 | `OPENAI_API_KEY` | Required for AI commands |
 | `OPENAI_MODEL` | Default model (gpt-4o-mini) |
 | `LOG_LEVEL` | TRACE/DEBUG/INFO/WARN/ERROR/FATAL |
