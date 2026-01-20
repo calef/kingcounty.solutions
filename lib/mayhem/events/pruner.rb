@@ -56,7 +56,7 @@ module Mayhem
           post['event_ids'] = updated_events
           post.save!
           posts_updated += 1
-          logger.info "Cleaned event links from #{post.id || post.path}"
+          logger.info "Cleaned event links from #{post.id}"
         end
 
         logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links." if posts_updated.positive?
