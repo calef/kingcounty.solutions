@@ -1,9 +1,6 @@
 ---
 date: '2026-01-10T01:52:26+00:00'
-event_ids:
-- _events/2026-01-10-route-62-reroute.md
-- _events/2026-01-09-route-st-545-stop-closures.md
-- _events/2026-01-09-3rd-avenue-and-virginia-street-closure.md
+event_ids: []
 events_extracted: true
 feed_content: Weekend Service Impacts Routes 1, 2, 3, 4, 5, 13, 14, 21, 24, 27, 28,
   33, 40, 56, 62, 124, 131, 132, RapidRide C, D, E, and H Line will be...

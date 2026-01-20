@@ -1,7 +1,6 @@
 ---
 date: '2025-12-30T03:00:35+00:00'
-event_ids:
-- _events/2026-01-15-networking-social.md
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t<div>\n\t\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img
   src=\"https://opalfoodandbody.com/wp-content/uploads/2025/12/jan-15-event-image.jpeg\">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t<div>\n\t\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t<p></p>\n<p></p>\n<p><strong>When:</strong>

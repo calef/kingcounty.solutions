@@ -1,7 +1,6 @@
 ---
 date: '2026-01-10T00:22:10+00:00'
-event_ids:
-- _events/2026-01-13-hearing-for-house-bill-2238.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>One of our priority bills, HB 2238: Statewide Food Security, will be heard in House Agriculture and Natural Resources Committee on Tuesday, January 13 at 8am. Please consider <a>signing in pro in support of this bill</a> to let lawmakers know that it has widespread support!</p>

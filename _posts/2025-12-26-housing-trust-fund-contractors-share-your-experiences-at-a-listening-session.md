@@ -1,7 +1,6 @@
 ---
 date: '2025-12-26T19:05:28+00:00'
-event_ids:
-- _events/2026-01-15-listening-session-for-housing-trust-fund-contractors.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Commerce will host two listening sessions to improve program guidelines</h2>

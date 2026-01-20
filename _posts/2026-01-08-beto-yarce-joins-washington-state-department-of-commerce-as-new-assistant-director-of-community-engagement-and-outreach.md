@@ -1,7 +1,6 @@
 ---
 date: '2026-01-08T22:00:24+00:00'
-event_ids:
-- _events/2026-01-12-beto-yarce-joins-washington-state-department-of-commerce.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Yarce joins the agency on Jan. 12</p>

@@ -1,7 +1,6 @@
 ---
 date: '2026-01-08T19:12:02+00:00'
 event_ids:
-- _events/2026-01-09-full-closure-of-northbound-i-5.md
 - _events/2026-01-12-two-lane-reduction-on-northbound-i-5.md
 events_extracted: true
 feed_content: 'Blog stats: 1,000 words | 5-minute read At-a-glance: WSDOT’s 2026 Construction
