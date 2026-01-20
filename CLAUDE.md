@@ -73,7 +73,7 @@ Mayhem::Models::Event.all.each { |e| e.save! }
 - `lib/mayhem/events/` - iCal import (`IcalImporter`), summarization, cleanup
 - `lib/mayhem/images/` - Image extraction, WebP conversion, pruning
 - `lib/mayhem/content/` - Article body extraction, HTML normalization, URL checking
-- `lib/mayhem/front_matter/` - YAML front matter manipulation (`Tidier`, `PublishGuard`)
+- `lib/mayhem/front_matter/` - YAML front matter manipulation (`Tidier`)
 
 **Important**: The `FrontMatter::Document` class is deprecated. Use `Mayhem::Models::*` classes (News, Event, Organization, Image, Topic, Location) instead. These models provide the same functionality with proper FMRepo integration.
 
