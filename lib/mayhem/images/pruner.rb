@@ -3,106 +3,113 @@
 require 'fileutils'
 require 'seldon'
 
-require_relative '../front_matter/document'
 require_relative '../models/event'
 require_relative '../models/image'
 require_relative '../models/news'
-
-# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module Images
     class Pruner
       include Seldon::Loggable
 
-      attr_reader :posts_dir, :images_dir, :assets_dir
-
-      def initialize(assets_dir:)
-        @posts_dir = Mayhem::Models::News.collection_dir
-        @images_dir = Mayhem::Models::Image.collection_dir
-        @assets_dir = assets_dir
+      def initialize(assets_dir: nil)
+        # assets_dir is deprecated and ignored; asset paths are derived from Image#image_url
       end
 
-      def collect_image_checksums(front_matter)
-        Array(front_matter['image_checksums']).map(&:to_s).map(&:strip).reject(&:empty?)
+      def collect_image_checksums(record)
+        checksums = record['image_checksums'] || record[:image_checksums]
+        Array(checksums).map(&:to_s).map(&:strip).reject(&:empty?)
       end
 
-      def remaining_image_counts(excluded_paths = Set.new)
+      def remaining_image_counts(excluded_posts: [], excluded_events: [])
         counts = Hash.new(0)
+        excluded_post_ids = build_exclusion_set(excluded_posts)
+        excluded_event_ids = build_exclusion_set(excluded_events)
 
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
-          next if excluded_paths.include?(path)
+        Mayhem::Models::News.all.each do |post|
+          next if excluded_post_ids.include?(record_identifier(post))
 
-          document = Mayhem::FrontMatter::Document.load(path)
-          next unless document
-
-          collect_image_checksums(document.front_matter).each { |id| counts[id] += 1 }
+          collect_image_checksums(post).each { |id| counts[id] += 1 }
         end
 
-        Dir.glob(File.join(events_dir, '*.md')).each do |path|
-          next if excluded_paths.include?(path)
+        Mayhem::Models::Event.all.each do |event|
+          next if excluded_event_ids.include?(record_identifier(event))
 
-          document = Mayhem::FrontMatter::Document.load(path)
-          next unless document
-
-          collect_image_checksums(document.front_matter).each { |id| counts[id] += 1 }
+          collect_image_checksums(event).each { |id| counts[id] += 1 }
         end
 
         counts
       end
 
-      def prune(image_checksums, excluded_paths: Set.new, excluded_events: nil)
-        excluded_paths = normalize_excluded_paths(excluded_paths, excluded_events)
-        remaining_refs = remaining_image_counts(excluded_paths)
+      def prune(image_checksums, excluded_posts: [], excluded_events: [])
+        remaining_refs = remaining_image_counts(excluded_posts: excluded_posts, excluded_events: excluded_events)
         prune_images(image_checksums, remaining_refs)
       end
 
       private
 
-      def normalize_excluded_paths(excluded_paths, excluded_events)
-        paths = Set.new(Array(excluded_paths).compact)
-        Array(excluded_events).each do |event|
-          next unless event
-
-          path = event_path_for(event)
-          paths << path unless path.empty?
-        end
-        paths
+      def build_exclusion_set(records)
+        Set.new(Array(records).compact.map { |r| record_identifier(r) })
       end
 
-      def event_path_for(event)
-        path = event.path.to_s
-        path = event.id.to_s if path.empty? && event.respond_to?(:id)
-        return '' if path.empty?
+      def record_identifier(record)
+        return record.to_s if record.is_a?(String)
 
-        root = File.expand_path('..', events_dir.to_s)
-        File.absolute_path(path, root)
+        # Try path first (works for both Models and FrontMatter::Document)
+        # then id (Models only), then fall back to object_id
+        if record.respond_to?(:path) && record.path
+          record.path.to_s
+        elsif record.respond_to?(:id) && record.id
+          record.id.to_s
+        else
+          record.object_id.to_s
+        end
       end
 
       def prune_images(image_checksums, remaining_refs)
         removed = []
-        image_checksums.each do |id|
-          next if remaining_refs[id]&.positive?
+        image_checksums.each do |checksum|
+          next if remaining_refs[checksum]&.positive?
 
-          removed << id
-          delete_image_files(id)
+          removed << checksum
+          delete_image(checksum)
         end
         removed
       end
 
-      def delete_image_files(image_id)
-        delete_file(File.join(@images_dir, "#{image_id}.md"))
-        Dir.glob(File.join(@assets_dir, "#{image_id}.*")).each { |asset| delete_file(asset) }
+      def delete_image(checksum)
+        image = Mayhem::Models::Image.find_by(checksum: checksum)
+        return delete_orphaned_assets(checksum) unless image
+
+        delete_image_asset(image)
+        image.destroy
       end
 
-      def delete_file(path)
-        FileUtils.rm(path)
+      def delete_image_asset(image)
+        if image.image_url
+          asset_path = image.image_url.sub(%r{\A/}, '')
+          full_path = File.join(repo_root, asset_path)
+          FileUtils.rm(full_path)
+        else
+          # Fall back to checksum-based pattern if image_url is not set
+          delete_orphaned_assets(image.checksum)
+        end
       rescue Errno::ENOENT
-        # already removed
+        # Asset already removed
       end
 
-      def events_dir
-        Mayhem::Models::Event.collection_dir
+      def delete_orphaned_assets(checksum)
+        # Handle case where image metadata is missing but asset files exist
+        pattern = File.join(repo_root, 'assets', 'images', "#{checksum}.*")
+        Dir.glob(pattern).each do |path|
+          FileUtils.rm(path)
+        rescue Errno::ENOENT
+          # Already removed
+        end
+      end
+
+      def repo_root
+        Mayhem::Models::Image.repo.root.to_s
       end
     end
   end

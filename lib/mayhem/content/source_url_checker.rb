@@ -44,7 +44,6 @@ module Mayhem
                            images_pruner: @images_pruner
                          )
         @news_model = news_model
-        @posts_dir = @news_model.collection_dir
         @events_model = events_model
         @workers = [workers, 1].max
         @pruner_mutex = Mutex.new
@@ -122,9 +121,7 @@ module Mayhem
 
         return if image_checksums.empty?
 
-        excluded_path = record_path(record, base_dir: @posts_dir)
-        excluded_paths = excluded_path.to_s.empty? ? Set.new : Set[excluded_path]
-        @news_pruner.prune_images(image_checksums, excluded_paths: excluded_paths)
+        @news_pruner.prune_images(image_checksums, excluded_posts: [record])
       end
 
       def delete_event(record)
@@ -134,15 +131,6 @@ module Mayhem
         return if image_checksums.empty?
 
         @events_pruner.prune_images(image_checksums, excluded_events: [record])
-      end
-
-      def record_path(record, base_dir:)
-        path = record.path.to_s if record.respond_to?(:path) && record.path
-        path = record.id.to_s if path.to_s.empty? && record.respond_to?(:id)
-        return '' if path.to_s.empty?
-
-        root = base_dir ? File.expand_path('..', base_dir.to_s) : Dir.pwd
-        File.absolute_path(path, root)
       end
 
       def record_label(record)

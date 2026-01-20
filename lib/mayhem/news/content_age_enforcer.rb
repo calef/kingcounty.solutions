@@ -53,8 +53,6 @@ module Mayhem
           return
         end
 
-        excluded_paths = posts.to_set { |entry| entry[:path] }
-
         # Collect event IDs from posts being removed
         removed_event_ids = posts.flat_map { |entry| entry[:event_ids] }.uniq.compact
 
@@ -63,9 +61,10 @@ module Mayhem
           remove_file(entry[:path])
         end
 
+        # Posts are already deleted, so no exclusions needed - they won't be found by Model queries
         removed_image_checksums = @news_pruner.prune_images(
           posts.flat_map { |entry| entry[:image_checksums] }.uniq,
-          excluded_paths: excluded_paths
+          excluded_posts: []
         )
 
         # Clean up events generated from removed posts

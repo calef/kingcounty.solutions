@@ -18,7 +18,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     @tmpdir = Mayhem::Models::News.repo.root.to_s
     @posts_dir = Mayhem::Models::News.collection_dir
     @images_dir = Mayhem::Models::Image.collection_dir
-    @assets_dir = File.join(@tmpdir, 'assets', 'images')
+    @assets_dir = File.join(Mayhem::Models::Image.repo.root.to_s, 'assets', 'images')
     @events_dir = Mayhem::Models::Event.collection_dir
     FileUtils.mkdir_p(@posts_dir)
     FileUtils.mkdir_p(@images_dir)
@@ -179,7 +179,13 @@ class ContentAgeEnforcerTest < Minitest::Test
 
   def write_image_metadata(id)
     path = File.join(@images_dir, "#{id}.md")
-    File.write(path, "---\nchecksum: #{id}\n---\n")
+    content = <<~YAML
+      ---
+      checksum: #{id}
+      image_url: "/assets/images/#{id}.webp"
+      ---
+    YAML
+    File.write(path, content)
   end
 
   def write_asset(id)

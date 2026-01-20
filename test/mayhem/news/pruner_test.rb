@@ -19,12 +19,10 @@ class NewsPrunerTest < Minitest::Test
     @posts_dir = Mayhem::Models::News.collection_dir
     @events_dir = Mayhem::Models::Event.collection_dir
     @images_dir = Mayhem::Models::Image.collection_dir
-    @assets_dir = Dir.mktmpdir('assets')
+    @assets_dir = File.join(Mayhem::Models::Image.repo.root.to_s, 'assets', 'images')
     FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir])
     @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
-    @images_pruner = Mayhem::Images::Pruner.new(
-      assets_dir: @assets_dir
-    )
+    @images_pruner = Mayhem::Images::Pruner.new
     @pruner = Mayhem::News::Pruner.new(images_pruner: @images_pruner)
   end
 
@@ -32,7 +30,6 @@ class NewsPrunerTest < Minitest::Test
     @news_repo_override.cleanup if @news_repo_override
     @event_repo_override.cleanup if @event_repo_override
     @images_repo_override.cleanup if @images_repo_override
-    FileUtils.remove_entry(@assets_dir) if @assets_dir && File.exist?(@assets_dir)
   end
 
   def test_unpublish_updates_front_matter_and_prunes_images
@@ -67,7 +64,13 @@ class NewsPrunerTest < Minitest::Test
   end
 
   def write_image_metadata(id)
-    File.write(File.join(@images_dir, "#{id}.md"), "---\nchecksum: #{id}\n---\n")
+    content = <<~YAML
+      ---
+      checksum: #{id}
+      image_url: "/assets/images/#{id}.webp"
+      ---
+    YAML
+    File.write(File.join(@images_dir, "#{id}.md"), content)
   end
 
   def write_asset(id)
