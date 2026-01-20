@@ -28,7 +28,7 @@ module Mayhem
 
         image_checksums = @images_pruner.collect_image_checksums(event)
         event_id = event.id.to_s
-        event&.destroy
+        event.destroy
 
         @images_pruner.prune(image_checksums, excluded_events: [event]) if image_checksums.any?
         prune_event_links([event_id])

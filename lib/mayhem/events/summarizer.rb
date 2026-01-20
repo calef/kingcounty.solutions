@@ -217,8 +217,8 @@ module Mayhem
         logger.error "Error processing #{record_id}: #{e.class} - #{e.message}"
       end
 
-      def generate_summary(article_text, front_matter, file_path, generated_from_post: false)
-        location = front_matter['location'].to_s.strip
+      def generate_summary(article_text, event, record_id, generated_from_post: false)
+        location = event['location'].to_s.strip
         location_instruction = if location.empty?
                                  'Mention the start date (and end date if it differs) in natural language.'
                                else
@@ -229,8 +229,8 @@ module Mayhem
           prompt = <<~PROMPT
             Refine the following event description for a community calendar in 150 words or less using Markdown paragraphs, following The Associated Press Stylebook.
 
-            Event title: #{front_matter['title']}
-            Starts at: #{front_matter['start_date']}
+            Event title: #{event['title']}
+            Starts at: #{event['start_date']}
             Location: #{location.empty? ? 'Not specified' : location}
 
             Current event description:
@@ -248,8 +248,8 @@ module Mayhem
           prompt = <<~PROMPT
             Summarize the following event for a community calendar in 150 words or less using Markdown paragraphs, following The Associated Press Stylebook.
 
-            Event title: #{front_matter['title']}
-            Starts at: #{front_matter['start_date']}
+            Event title: #{event['title']}
+            Starts at: #{event['start_date']}
             Location: #{location.empty? ? 'Not specified' : location}
 
             In the summary:
@@ -280,7 +280,7 @@ module Mayhem
               }
             )
             if (error_message = response.dig('error', 'message'))
-              logger.warn "OpenAI error for #{file_path}: #{error_message}"
+              logger.warn "OpenAI error for #{record_id}: #{error_message}"
               break
             end
 
@@ -292,7 +292,7 @@ module Mayhem
           end
         end
 
-        logger.warn "Skipped #{file_path}: could not summarize event"
+        logger.warn "Skipped #{record_id}: could not summarize event"
         nil
       end
 
@@ -358,17 +358,12 @@ module Mayhem
         event['published'] = false
         event['summarized'] = true
         event.body = ''
-        event.save!
         @event_pruner.unpublish(event)
 
         return unless generated_from_post
 
         removed_refs = remove_event_references(event)
         stats[:events_unlinked] += removed_refs if removed_refs&.positive?
-      end
-
-      def events_dir
-        Mayhem::Models::Event.collection_dir
       end
 
       def needs_classification_for_record?(record, key)
@@ -385,23 +380,24 @@ module Mayhem
         end
 
         expanded = identifiers.compact.map(&:to_s).uniq
+        additional_identifiers = []
         expanded.each do |identifier|
           next if identifier.empty?
 
           if identifier.end_with?('.md') && !identifier.include?('/')
-            expanded << File.join('_events', identifier)
+            additional_identifiers << File.join('_events', identifier)
           elsif !identifier.include?('/')
-            expanded << File.join('_events', "#{identifier}.md")
+            additional_identifiers << File.join('_events', "#{identifier}.md")
           end
 
           begin
-            expanded << event_id_for_path(identifier)
+            additional_identifiers << event_id_for_path(identifier)
           rescue StandardError
             nil
           end
         end
 
-        expanded.compact.map(&:to_s).uniq
+        (expanded + additional_identifiers).compact.map(&:to_s).uniq
       end
 
       def event_id_for_path(path)
