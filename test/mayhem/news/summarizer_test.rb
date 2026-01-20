@@ -44,15 +44,13 @@ class PostSummarizerTest < Minitest::Test
   end
 
   def write_post(filename, front_matter, body = '')
-    path = File.join(@tmp_posts, filename)
-    content = Mayhem::FrontMatter::Document.build_markdown(front_matter, body)
-    File.write(path, content)
-    path
+    post = Mayhem::Models::News.create!(front_matter, body: body)
+    post.id
   end
 
   def write_topic(filename, title, summary = '')
     path = File.join(@tmp_topics, filename)
-    content = Mayhem::FrontMatter::Document.build_markdown({ 'title' => title }, summary)
+    content = "---\ntitle: #{title}\n---\n#{summary}"
     File.write(path, content)
     path
   end
@@ -129,11 +127,11 @@ class PostSummarizerTest < Minitest::Test
 
   def test_run_stores_original_source_html_from_scraped_html
     html = '<article><p>Scraped news</p></article>'
-    write_post('2025-01-06-source-html.md', {
-                 'source_url' => 'http://ok-detail',
-                 'summarized' => false,
-                 'feed_content' => '<article><p>Fallback</p></article>'
-               }, 'body')
+    post_id = write_post('2025-01-06-source-html.md', {
+                           'source_url' => 'http://ok-detail',
+                           'summarized' => false,
+                           'feed_content' => '<article><p>Fallback</p></article>'
+                         }, 'body')
 
     http_stub = Object.new
     def http_stub.fetch(*)
@@ -151,23 +149,23 @@ class PostSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:updated]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-06-source-html.md'))
+    post = Mayhem::Models::News.find(post_id)
     expected_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(
       html,
       max_chars: Mayhem::News::PostSummarizer::MAX_ARTICLE_CHARS
     )
-    assert_equal expected_html, document.front_matter['original_source_html']
-    assert_equal 'Fresh summary.', document.body.strip
+    assert_equal expected_html, post['original_source_html']
+    assert_equal 'Fresh summary.', post.body.strip
   end
 
   def test_backfills_location_titles_for_unpublished_summarized_post
-    write_post('2025-01-04-test.md', {
-                 'source_url' => 'http://ok3',
-                 'summarized' => true,
-                 'published' => false,
-                 'topic_titles' => [],
-                 'image_checksums' => ['https://example.com/image.jpg']
-               }, 'Summarized post without locations')
+    post_id = write_post('2025-01-04-test.md', {
+                           'source_url' => 'http://ok3',
+                           'summarized' => true,
+                           'published' => false,
+                           'topic_titles' => [],
+                           'image_checksums' => ['https://example.com/image.jpg']
+                         }, 'Summarized post without locations')
 
     # For unpublished posts, we should not call the classifier
     # It should just set location_titles to [] and clear image_checksums
@@ -184,10 +182,10 @@ class PostSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:locations_backfilled]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-04-test.md'))
+    post = Mayhem::Models::News.find(post_id)
 
-    assert_empty document.front_matter['location_titles']
-    assert_empty document.front_matter['image_checksums']
+    assert_empty post['location_titles']
+    assert_empty post['image_checksums']
   end
 
   def test_run_skips_classification_when_topic_titles_and_location_titles_explicitly_empty
@@ -220,18 +218,18 @@ class PostSummarizerTest < Minitest::Test
   end
 
   def test_unpublishes_when_summary_missing_even_with_topics_and_locations
-    write_post('2025-01-07-test.md', {
-                 'summarized' => true,
-                 'topic_titles' => ['Health'],
-                 'location_titles' => ['Seattle']
-               }, '')
+    post_id = write_post('2025-01-07-test.md', {
+                           'summarized' => true,
+                           'topic_titles' => ['Health'],
+                           'location_titles' => ['Seattle']
+                         }, '')
 
     summarizer = build_summarizer(client: Object.new)
 
     stats = summarizer.run
 
     assert_equal 1, stats[:updated]
-    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-07-test.md'))
-    assert_equal false, document.front_matter['published']
+    post = Mayhem::Models::News.find(post_id)
+    assert_equal false, post['published']
   end
 end

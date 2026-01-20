@@ -6,11 +6,9 @@ require 'mayhem/events/pruner'
 require 'mayhem/images/pruner'
 require 'mayhem/models/event'
 require 'mayhem/models/image'
-require 'mayhem/front_matter/document'
+require 'mayhem/models/news'
 require 'seldon'
 require 'tmpdir'
-
-# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
 
 class EventsPrunerTest < Minitest::Test
   def setup
@@ -36,24 +34,22 @@ class EventsPrunerTest < Minitest::Test
   end
 
   def test_delete_removes_file_and_cleans_post_references
-    write_event('event-1')
-    event_id = event_id_for('event-1')
-    write_post('post.md', [event_id])
+    event_id = write_event('event-1')
+    post_id = write_post('post.md', [event_id])
     event = Mayhem::Models::Event.find(event_id)
 
     @pruner.delete(event)
 
-    refute_path_exists File.join(@events_dir, 'event-1.md')
-    updated = Mayhem::FrontMatter::Document.load(File.join(@posts_dir, 'post.md'))
-    assert_empty updated.front_matter['event_ids']
+    assert_raises(FMRepo::NotFound) { Mayhem::Models::Event.find(event_id) }
+    updated = Mayhem::Models::News.find(post_id)
+    assert_empty updated['event_ids']
   end
 
   def test_unpublish_removes_images
     image_id = 'event-img'
     write_image_metadata(image_id)
     write_asset(image_id)
-    write_event('event-2', image_checksums: [image_id])
-    event_id = event_id_for('event-2')
+    event_id = write_event('event-2', image_checksums: [image_id])
     event = Mayhem::Models::Event.find(event_id)
 
     @pruner.unpublish(event)
@@ -61,22 +57,21 @@ class EventsPrunerTest < Minitest::Test
     updated = Mayhem::Models::Event.find(event_id)
     refute updated['published']
     assert_empty updated['image_checksums']
-    refute_path_exists File.join(@images_dir, "#{image_id}.md")
+    assert_nil Mayhem::Models::Image.find_by(checksum: image_id)
     assert_empty Dir.glob(File.join(@assets_dir, "#{image_id}.*"))
   end
 
   private
 
   def write_event(id, image_checksums: [])
-    path = File.join(@events_dir, "#{id}.md")
     front_matter = {
       'title' => "Event #{id}",
       'start_date' => Time.now.utc.iso8601,
       'image_checksums' => image_checksums,
       'published' => true
     }
-    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
-    path
+    event = Mayhem::Models::Event.create!(front_matter, body: '')
+    event.id
   end
 
   def write_post(filename, event_ids)
@@ -86,23 +81,16 @@ class EventsPrunerTest < Minitest::Test
       'source_url' => 'https://example.com',
       'event_ids' => event_ids
     }
-    path = File.join(@posts_dir, filename)
-    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
-    path
-  end
-
-  def event_id_for(id)
-    File.join('_events', "#{id}.md")
+    post = Mayhem::Models::News.create!(front_matter, body: '')
+    post.id
   end
 
   def write_image_metadata(id)
-    content = <<~YAML
-      ---
-      checksum: #{id}
-      image_url: "/assets/images/#{id}.webp"
-      ---
-    YAML
-    File.write(File.join(@images_dir, "#{id}.md"), content)
+    front_matter = {
+      'checksum' => id,
+      'image_url' => "/assets/images/#{id}.webp"
+    }
+    Mayhem::Models::Image.create!(front_matter, body: '')
   end
 
   def write_asset(id)

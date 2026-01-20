@@ -1,16 +1,13 @@
 # frozen_string_literal: true
 
-require 'fileutils'
 require 'seldon'
 
-require_relative '../front_matter/document'
 require_relative '../events/pruner'
 require_relative '../news/pruner'
 require_relative '../images/pruner'
 require_relative '../models/event'
 require_relative '../models/news'
-
-# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
+require_relative '../models/organization'
 
 module Mayhem
   module Organizations
@@ -18,14 +15,8 @@ module Mayhem
       include Seldon::Loggable
 
       def self.prune(organization_title)
-        # Set up directory paths
-        assets_dir = File.expand_path('assets/images', Dir.pwd)
-        organizations_dir = File.expand_path('_organizations', Dir.pwd)
-
         # Create pruner instances
-        images_pruner = Mayhem::Images::Pruner.new(
-          assets_dir: assets_dir
-        )
+        images_pruner = Mayhem::Images::Pruner.new
 
         events_pruner = Mayhem::Events::Pruner.new(
           images_pruner: images_pruner
@@ -36,7 +27,6 @@ module Mayhem
         )
 
         pruner = new(
-          organizations_dir: organizations_dir,
           events_pruner: events_pruner,
           news_pruner: news_pruner
         )
@@ -44,9 +34,7 @@ module Mayhem
         pruner.prune_organization_content(organization_title)
       end
 
-      def initialize(organizations_dir:, events_pruner:, news_pruner:)
-        @posts_dir = Mayhem::Models::News.collection_dir
-        @organizations_dir = organizations_dir
+      def initialize(events_pruner:, news_pruner:)
         @events_pruner = events_pruner
         @news_pruner = news_pruner
       end
@@ -87,15 +75,13 @@ module Mayhem
 
       def prune_news(organization_title)
         deleted_count = 0
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
-          document = Mayhem::FrontMatter::Document.load(post_path)
-          next unless document
-
-          source = document.front_matter['organization_title']
+        Mayhem::Models::News.all.each do |post|
+          source = post['organization_title']
           next unless source == organization_title
 
-          logger.info "Deleting post: #{File.basename(post_path)}"
-          @news_pruner.delete(post_path, document)
+          record_id = post.id || post.path || 'unknown-post'
+          logger.info "Deleting post: #{record_id}"
+          @news_pruner.delete(post)
 
           deleted_count += 1
         end
@@ -103,28 +89,16 @@ module Mayhem
       end
 
       def delete?(organization_title)
-        Dir.glob(File.join(@organizations_dir, '*.md')).each do |org_path|
-          document = Mayhem::FrontMatter::Document.load(org_path)
-          next unless document
-
-          title = document.front_matter['title']
+        Mayhem::Models::Organization.all.each do |org|
+          title = org['title']
           next unless title == organization_title
 
-          logger.info "Deleting organization file: #{File.basename(org_path)}"
-          delete_file(org_path)
+          record_id = org.id || org.path || 'unknown-org'
+          logger.info "Deleting organization file: #{record_id}"
+          org.destroy
           return true
         end
         false
-      end
-
-      def delete_file(path)
-        FileUtils.rm(path)
-      rescue Errno::ENOENT
-        # already removed
-      end
-
-      def events_dir
-        Mayhem::Models::Event.collection_dir
       end
     end
   end

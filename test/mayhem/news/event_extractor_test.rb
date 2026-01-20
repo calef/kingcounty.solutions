@@ -3,12 +3,11 @@
 require_relative '../../test_helper'
 require 'fileutils'
 require 'mayhem/news/event_extractor'
-require 'mayhem/front_matter/document'
+require 'mayhem/models/event'
+require 'mayhem/models/news'
 require 'seldon'
 require 'tmpdir'
 require 'time'
-
-# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
 
 class EventExtractorTest < Minitest::Test
   def setup
@@ -72,7 +71,7 @@ class EventExtractorTest < Minitest::Test
   end
 
   def test_skips_unsummarized_posts
-    path = write_post('2025-01-01-unsummarized.md', summarized: false)
+    post_id = write_post('2025-01-01-unsummarized.md', summarized: false)
     mock_chat_client = Class.new do
       def call(*)
         raise 'Event extractor should not run on unsummarized posts'
@@ -85,14 +84,14 @@ class EventExtractorTest < Minitest::Test
 
     assert_equal 1, stats[:skipped_unsummarized]
 
-    doc = Mayhem::FrontMatter::Document.load(path)
-    assert_nil doc.front_matter['events_extracted']
-    assert_nil doc.front_matter['event_ids']
-    assert Dir.glob(File.join(@events_dir, '*.md')).empty?
+    post = Mayhem::Models::News.find(post_id)
+    assert_nil post['events_extracted']
+    assert_nil post['event_ids']
+    assert_empty Mayhem::Models::Event.all.to_a
   end
 
   def test_marks_post_when_no_events_found
-    write_post('2025-01-01-no-events.md', title: 'Just news')
+    post_id = write_post('2025-01-01-no-events.md', title: 'Just news')
     mock_chat_client = Minitest::Mock.new
     mock_chat_client.expect(:call, '[]') do |args|
       args.is_a?(Hash) && args.key?(:messages)
@@ -106,19 +105,18 @@ class EventExtractorTest < Minitest::Test
     assert_equal 0, stats[:posts_with_events]
 
     # Verify post was marked as extracted
-    post_path = File.join(@posts_dir, '2025-01-01-no-events.md')
-    doc = Mayhem::FrontMatter::Document.load(post_path)
+    post = Mayhem::Models::News.find(post_id)
 
-    assert doc.front_matter['events_extracted']
-    assert_empty doc.front_matter['event_ids']
+    assert post['events_extracted']
+    assert_empty post['event_ids']
 
     mock_chat_client.verify
   end
 
   def test_creates_events_and_updates_post
-    write_post('2025-01-01-event-announcement.md',
-               title: 'Upcoming Meeting',
-               content: 'Join us for a meeting on Dec 15, 2025 at 6pm')
+    post_id = write_post('2025-01-01-event-announcement.md',
+                         title: 'Upcoming Meeting',
+                         content: 'Join us for a meeting on Dec 15, 2025 at 6pm')
 
     event_json = [
       {
@@ -143,34 +141,30 @@ class EventExtractorTest < Minitest::Test
     assert_equal 1, stats[:events_created]
 
     # Verify post was updated with event link
-    post_path = File.join(@posts_dir, '2025-01-01-event-announcement.md')
-    doc = Mayhem::FrontMatter::Document.load(post_path)
+    post = Mayhem::Models::News.find(post_id)
 
-    assert doc.front_matter['events_extracted']
-    assert_equal 1, doc.front_matter['event_ids'].size
+    assert post['events_extracted']
+    assert_equal 1, post['event_ids'].size
 
     # Verify event was created
-    event_files = Dir.glob(File.join(@events_dir, '*.md'))
+    events = Mayhem::Models::Event.all.to_a
 
-    assert_equal 1, event_files.size
-    expected_event_id = File.join('_events', File.basename(event_files.first))
-    assert_equal expected_event_id, doc.front_matter['event_ids'].first
+    assert_equal 1, events.size
+    event = events.first
 
-    event_doc = Mayhem::FrontMatter::Document.load(event_files.first)
-
-    assert_equal 'Planning Meeting', event_doc.front_matter['title']
-    assert_equal '2025-12-15T18:00:00-08:00', event_doc.front_matter['start_date']
-    assert_equal 'City Hall', event_doc.front_matter['location']
-    assert_equal 'Test Source', event_doc.front_matter['organization_title']
-    assert event_doc.front_matter['generated_from_post']
+    assert_equal 'Planning Meeting', event['title']
+    assert_equal '2025-12-15T18:00:00-08:00', event['start_date']
+    assert_equal 'City Hall', event['location']
+    assert_equal 'Test Source', event['organization_title']
+    assert event['generated_from_post']
 
     mock_chat_client.verify
   end
 
   def test_skips_past_events
-    write_post('2025-01-01-past-event.md',
-               title: 'Past Event Announcement',
-               content: 'Event happened last week')
+    post_id = write_post('2025-01-01-past-event.md',
+                         title: 'Past Event Announcement',
+                         content: 'Event happened last week')
 
     # LLM returns a past event
     event_json = [
@@ -198,16 +192,13 @@ class EventExtractorTest < Minitest::Test
     assert_equal 1, stats[:past_events_skipped]
 
     # Verify post was marked as extracted with no events
-    post_path = File.join(@posts_dir, '2025-01-01-past-event.md')
-    doc = Mayhem::FrontMatter::Document.load(post_path)
+    post = Mayhem::Models::News.find(post_id)
 
-    assert doc.front_matter['events_extracted']
-    assert_empty doc.front_matter['event_ids']
+    assert post['events_extracted']
+    assert_empty post['event_ids']
 
     # Verify no event files were created
-    event_files = Dir.glob(File.join(@events_dir, '*.md'))
-
-    assert_equal 0, event_files.size
+    assert_empty Mayhem::Models::Event.all.to_a
 
     mock_chat_client.verify
   end
@@ -229,8 +220,7 @@ class EventExtractorTest < Minitest::Test
 
     body = options[:content] || 'Test content'
 
-    path = File.join(@posts_dir, filename)
-    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, body))
-    path
+    post = Mayhem::Models::News.create!(front_matter, body: body)
+    post.id
   end
 end

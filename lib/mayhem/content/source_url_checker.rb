@@ -12,10 +12,7 @@ module Mayhem
     class SourceUrlChecker
       include Seldon::Loggable
 
-      IMAGE_ASSETS_DIR = File.join('assets', 'images')
-
       def initialize(
-        assets_dir: IMAGE_ASSETS_DIR,
         http_client: nil,
         http_status_resolver: nil,
         news_pruner: nil,
@@ -31,10 +28,7 @@ module Mayhem
           user_agent: @user_agent,
           http_client: http_client
         )
-        @images_pruner = images_pruner ||
-                         Mayhem::Images::Pruner.new(
-                           assets_dir: assets_dir
-                         )
+        @images_pruner = images_pruner || Mayhem::Images::Pruner.new
         @news_pruner = news_pruner ||
                        Mayhem::News::Pruner.new(
                          images_pruner: @images_pruner

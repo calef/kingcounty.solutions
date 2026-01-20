@@ -7,14 +7,10 @@ require_relative '../topics/classifier'
 require_relative '../locations/classifier'
 require_relative '../news/pruner'
 require_relative '../images/pruner'
-require_relative '../front_matter/document'
 require_relative '../feed/discovery'
 require_relative '../summarizer/helpers'
 require_relative '../content/article_body_extractor'
-require_relative '../models/event'
 require_relative '../models/news'
-
-# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module News
@@ -44,7 +40,6 @@ module Mayhem
         news_pruner: nil,
         images_pruner: nil
       )
-        @posts_dir = Mayhem::Models::News.collection_dir
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Seldon::Support::HttpClient.new
         @topic_classifier = topic_classifier ||
@@ -67,8 +62,8 @@ module Mayhem
 
       def run
         stats = Hash.new(0)
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |file_path|
-          process_post(file_path, stats)
+        Mayhem::Models::News.all.each do |post|
+          process_post(post, stats)
         end
         log_summary(stats)
         stats
@@ -76,49 +71,45 @@ module Mayhem
 
       private
 
-      def process_post(file_path, stats)
-        document = Mayhem::FrontMatter::Document.load(file_path)
-        unless document
-          stats[:skipped_no_frontmatter] += 1
-          return
-        end
+      def process_post(post, stats)
+        record_id = post.id || post.path || 'unknown-post'
 
-        front_matter = document.front_matter
-        if front_matter['locked'] == true
-          logger.debug "Skipping #{file_path}: locked is true"
+        if post.locked? == true
+          logger.debug "Skipping #{record_id}: locked is true"
           stats[:skipped_locked] += 1
           return
         end
-        if front_matter['published'] == false
-          logger.debug "Skipping #{file_path}: published is false"
+        if post['published'] == false
+          logger.debug "Skipping #{record_id}: published is false"
           stats[:skipped_unpublished] += 1
           # For unpublished posts during backfill, just set location_titles to empty array
           # without making API calls to classify locations
-          needs_location_titles = !front_matter.key?('location_titles')
-          if needs_location_titles && front_matter['summarized'] == true
-            front_matter['location_titles'] = []
-            @news_pruner.unpublish(file_path, document)
+          needs_location_titles = post['location_titles'].nil?
+          if needs_location_titles && post.summarized? == true
+            post['location_titles'] = []
+            post.save!
+            @news_pruner.unpublish(post)
             stats[:locations_backfilled] += 1
-            logger.info "Set location_titles to [] and cleaned up images for unpublished #{file_path}"
+            logger.info "Set location_titles to [] and cleaned up images for unpublished #{record_id}"
           end
           return
         end
 
-        existing_summary = document.body&.strip
-        needs_summary = front_matter['summarized'] != true
-        needs_topic_titles = needs_classification?(front_matter, 'topic_titles')
-        needs_location_titles = needs_classification?(front_matter, 'location_titles')
-        summary_missing = front_matter['summarized'] == true && existing_summary.to_s.empty?
+        existing_summary = post.body&.strip
+        needs_summary = post.summarized? != true
+        needs_topic_titles = needs_classification_for_record?(post, 'topic_titles')
+        needs_location_titles = needs_classification_for_record?(post, 'location_titles')
+        summary_missing = post.summarized? == true && existing_summary.to_s.empty?
         return unless needs_summary || needs_topic_titles || needs_location_titles || summary_missing
 
-        source_url = front_matter['source_url']
+        source_url = post.source_url
         if needs_summary && source_url.nil?
-          logger.warn "Skipping #{file_path}: no source_url"
+          logger.warn "Skipping #{record_id}: no source_url"
           stats[:skipped_missing_source] += 1
           return
         end
 
-        feed_html = front_matter['feed_content']
+        feed_html = post.feed_content
         fallback_text = Mayhem::Content::ArticleBodyExtractor.text_from_html(feed_html)
         html_for_summary = nil
         article_text = nil
@@ -129,7 +120,7 @@ module Mayhem
           if prefer_fallback_body?(scraped_text, fallback_text)
             article_text = fallback_text
             html_for_summary = feed_html
-            logger.debug "Using fallback body for #{file_path}"
+            logger.debug "Using fallback body for #{record_id}"
           else
             article_text = scraped_text
             html_for_summary = scraped_html
@@ -138,36 +129,35 @@ module Mayhem
           html_for_summary ||= feed_html
           article_text = article_text&.strip
           if article_text.to_s.empty?
-            logger.warn "Skipping #{file_path}: no usable content to summarize"
+            logger.warn "Skipping #{record_id}: no usable content to summarize"
             stats[:failed_summary] += 1
-            mark_unsummarizable(document, front_matter)
+            mark_unsummarizable(post, record_id)
             return
           end
           if article_text.length > MAX_ARTICLE_CHARS
-            logger.info "Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
+            logger.info "Truncating #{record_id} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
             article_text = article_text[0, MAX_ARTICLE_CHARS]
           end
 
           if (source_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(html_for_summary, max_chars: MAX_ARTICLE_CHARS))
-            front_matter['original_source_html'] = source_html
+            post['original_source_html'] = source_html
           end
-          summary_text = generate_summary(article_text, source_url, file_path,
-                                          stats)
+          summary_text = generate_summary(article_text, source_url, record_id, stats)
           return if needs_summary && (summary_text.nil? || summary_text.empty?)
 
-          front_matter['summarized'] = true
+          post['summarized'] = true
         else
-          summary_text = document.body&.strip
+          summary_text = post.body&.strip
         end
 
-        summary_text ||= document.body&.strip || ''
+        summary_text ||= post.body&.strip || ''
         summary_missing = summary_text.to_s.strip.empty?
 
         if needs_topic_titles
           classified_topic_titles = @topic_classifier.classify(summary_text)
-          front_matter['topic_titles'] = classified_topic_titles
+          post['topic_titles'] = classified_topic_titles
           if classified_topic_titles.empty?
-            logger.info "No topics matched for #{file_path}"
+            logger.info "No topics matched for #{record_id}"
             stats[:missing_topics] += 1
           end
         end
@@ -175,35 +165,34 @@ module Mayhem
         if needs_location_titles
           classified_locations = @location_classifier.classify(
             summary_text,
-            content_title: front_matter['title'],
-            content_source: front_matter['organization_title']
+            content_title: post['title'],
+            content_source: post['organization_title']
           )
-          front_matter['location_titles'] = classified_locations
+          post['location_titles'] = classified_locations
           if classified_locations.empty?
-            logger.info "No locations matched for #{file_path}"
+            logger.info "No locations matched for #{record_id}"
             stats[:missing_locations] += 1
           end
         end
 
         # Set published to false if either topic titles or location titles are empty
         should_unpublish = summary_missing ||
-                           (needs_topic_titles && Array(front_matter['topic_titles']).empty?) ||
-                           (needs_location_titles && Array(front_matter['location_titles']).empty?)
+                           (needs_topic_titles && Array(post['topic_titles']).empty?) ||
+                           (needs_location_titles && Array(post['location_titles']).empty?)
 
-        document.front_matter = front_matter
-        document.body = summary_text
-        document.save
+        post.body = summary_text
+        post.save!
 
-        @news_pruner.unpublish(file_path, document) if should_unpublish
+        @news_pruner.unpublish(post) if should_unpublish
 
         stats[:updated] += 1
-        logger.info "Updated #{file_path}"
+        logger.info "Updated #{record_id}"
       rescue StandardError => e
         stats[:errors] += 1
-        logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
+        logger.error "Error processing #{record_id}: #{e.class} - #{e.message}"
       end
 
-      def generate_summary(article_text, source_url, file_path, stats)
+      def generate_summary(article_text, source_url, record_id, stats)
         prompt = <<~PROMPT
           Summarize the following article in 200 words or less in Markdown format for a news aggregator blog, adhering to The Associated Press Stylebook.
 
@@ -239,7 +228,7 @@ module Mayhem
               }
             )
             if (error_message = response.dig('error', 'message'))
-              logger.warn "OpenAI error for #{file_path}: #{error_message}"
+              logger.warn "OpenAI error for #{record_id}: #{error_message}"
               break
             end
 
@@ -251,7 +240,7 @@ module Mayhem
           end
         end
 
-        logger.warn "Skipped #{file_path}: could not summarize"
+        logger.warn "Skipped #{record_id}: could not summarize"
         stats[:failed_summary] += 1
         nil
       end
@@ -269,7 +258,6 @@ module Mayhem
       def log_summary(stats)
         summary_fields = {
           updated: stats[:updated],
-          skipped_no_frontmatter: stats[:skipped_no_frontmatter],
           skipped_unpublished: stats[:skipped_unpublished],
           skipped_locked: stats[:skipped_locked],
           skipped_missing_source: stats[:skipped_missing_source],
@@ -284,13 +272,16 @@ module Mayhem
       end
 
       # Ensure required fields are present even when we cannot summarize due to missing content
-      def mark_unsummarizable(document, front_matter)
-        front_matter['summarized'] = true
-        front_matter['topic_titles'] = []
-        front_matter['location_titles'] = []
-        document.front_matter = front_matter
-        document.save
-        @news_pruner.unpublish(document.path, document)
+      def mark_unsummarizable(post, _record_id)
+        post['summarized'] = true
+        post['topic_titles'] = []
+        post['location_titles'] = []
+        post.save!
+        @news_pruner.unpublish(post)
+      end
+
+      def needs_classification_for_record?(record, key)
+        record[key].nil?
       end
 
       def prefer_fallback_body?(scraped_text, fallback_body)

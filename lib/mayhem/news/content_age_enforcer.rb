@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'fileutils'
 require 'pathname'
 require 'seldon'
 require 'time'
@@ -8,36 +7,26 @@ require 'yaml'
 
 require_relative '../images/pruner'
 require_relative '../news/pruner'
-require_relative '../front_matter/document'
 require_relative '../models/event'
 require_relative '../models/news'
-
-# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module News
     class ContentAgeEnforcer
       include Seldon::Loggable
 
-      IMAGE_ASSETS_DIR = File.join('assets', 'images')
       DEFAULT_MAX_AGE_DAYS = 365
       CONFIG_PATH = File.expand_path('../../../_config.yml', __dir__)
 
       def initialize(
-        assets_dir: IMAGE_ASSETS_DIR,
         config_path: CONFIG_PATH,
         clock: -> { Time.now },
         news_pruner: nil,
         images_pruner: nil
       )
-        @posts_dir = Mayhem::Models::News.collection_dir
-        @assets_dir = assets_dir
         @config_path = config_path
         @clock = clock
-        @images_pruner = images_pruner ||
-                         Mayhem::Images::Pruner.new(
-                           assets_dir: assets_dir
-                         )
+        @images_pruner = images_pruner || Mayhem::Images::Pruner.new
         @news_pruner = news_pruner ||
                        Mayhem::News::Pruner.new(
                          images_pruner: @images_pruner
@@ -47,30 +36,32 @@ module Mayhem
       def run
         max_age_days = determine_max_age_days
         cutoff = @clock.call - (max_age_days * 24 * 60 * 60)
-        posts = posts_older_than(cutoff)
-        if posts.empty?
+        old_posts = posts_older_than(cutoff)
+        if old_posts.empty?
           logger.info "No posts older than #{max_age_days} days were found."
           return
         end
 
-        # Collect event IDs from posts being removed
-        removed_event_ids = posts.flat_map { |entry| entry[:event_ids] }.uniq.compact
+        # Collect data before destroying posts
+        removed_event_ids = old_posts.flat_map { |post| collect_event_ids(post) }.uniq.compact
+        image_checksums = old_posts.flat_map { |post| @images_pruner.collect_image_checksums(post) }.uniq
 
-        posts.each do |entry|
-          logger.info "Removing post #{File.basename(entry[:path])}"
-          remove_file(entry[:path])
+        old_posts.each do |post|
+          record_id = post.id || post.path || 'unknown-post'
+          logger.info "Removing post #{record_id}"
+          post.destroy
         end
 
-        # Posts are already deleted, so no exclusions needed - they won't be found by Model queries
+        # Posts are already deleted, so no exclusions needed
         removed_image_checksums = @news_pruner.prune_images(
-          posts.flat_map { |entry| entry[:image_checksums] }.uniq,
+          image_checksums,
           excluded_posts: []
         )
 
         # Clean up events generated from removed posts
         prune_generated_events(removed_event_ids) if removed_event_ids.any?
 
-        logger.info "Removed #{posts.size} post#{'s' unless posts.size == 1} older than #{max_age_days} days."
+        logger.info "Removed #{old_posts.size} post#{'s' unless old_posts.size == 1} older than #{max_age_days} days."
         logger.info "Removed #{removed_image_checksums.size} image metadata entr#{removed_image_checksums.size == 1 ? 'y' : 'ies'}."
       end
 
@@ -95,19 +86,9 @@ module Mayhem
       end
 
       def posts_older_than(cutoff)
-        Dir.glob(File.join(@posts_dir, '*.md')).each_with_object([]) do |path, memo|
-          document = Mayhem::FrontMatter::Document.load(path)
-          next unless document
-
-          published_at = parse_date(document.front_matter['date'])
-          next unless published_at
-          next unless published_at < cutoff
-
-          memo << {
-            path: path,
-            image_checksums: @images_pruner.collect_image_checksums(document.front_matter),
-            event_ids: collect_event_ids(document.front_matter)
-          }
+        Mayhem::Models::News.all.select do |post|
+          published_at = parse_date(post['date'])
+          published_at && published_at < cutoff
         end
       end
 
@@ -120,14 +101,8 @@ module Mayhem
         nil
       end
 
-      def collect_event_ids(front_matter)
-        Array(front_matter['event_ids']).map(&:to_s).map(&:strip).reject(&:empty?)
-      end
-
-      def remove_file(path)
-        FileUtils.rm(path)
-      rescue Errno::ENOENT
-        # already removed
+      def collect_event_ids(post)
+        Array(post['event_ids']).map(&:to_s).map(&:strip).reject(&:empty?)
       end
 
       def prune_generated_events(event_ids)
@@ -136,13 +111,11 @@ module Mayhem
         remaining_event_refs = remaining_event_references
 
         event_ids.each do |event_id|
-          event_path = event_path_for(event_id)
-          next unless File.exist?(event_path)
+          event = find_event_by_id(event_id)
+          next unless event
 
           # Only remove events that were generated from posts
-          document = Mayhem::FrontMatter::Document.load(event_path)
-          next unless document
-          next unless document.front_matter['generated_from_post'] == true
+          next unless event['generated_from_post'] == true
 
           # Check if any remaining posts still reference this event
           if remaining_event_refs[event_id]&.positive?
@@ -150,7 +123,7 @@ module Mayhem
             next
           end
 
-          remove_file(event_path)
+          event.destroy
           removed += 1
           logger.info "Removed generated event #{event_id}"
         end
@@ -160,11 +133,8 @@ module Mayhem
 
       def remaining_event_references
         counts = Hash.new(0)
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
-          document = Mayhem::FrontMatter::Document.load(path)
-          next unless document
-
-          event_ids = document.front_matter['event_ids']
+        Mayhem::Models::News.all.each do |post|
+          event_ids = post['event_ids']
           next unless event_ids.is_a?(Array)
 
           event_ids.each { |event_id| counts[event_id] += 1 }
@@ -172,13 +142,10 @@ module Mayhem
         counts
       end
 
-      def events_dir
-        Mayhem::Models::Event.collection_dir
-      end
-
-      def event_path_for(event_id)
-        root = Pathname.new(events_dir).parent
-        root.join(event_id.to_s).to_s
+      def find_event_by_id(event_id)
+        Mayhem::Models::Event.find(event_id)
+      rescue FMRepo::NotFound
+        nil
       end
     end
   end

@@ -11,8 +11,6 @@ require_relative '../content/html_normalizer'
 require_relative '../models/event'
 require_relative '../models/organization'
 
-# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
-
 module Mayhem
   module Events
     class IcalImporter

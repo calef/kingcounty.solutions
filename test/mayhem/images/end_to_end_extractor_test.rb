@@ -10,9 +10,9 @@ require_relative '../../../lib/mayhem/images/extractor'
 require_relative '../../../lib/mayhem/image_files/downloader'
 require_relative '../../../lib/mayhem/image_files/converter'
 require_relative '../../../lib/mayhem/image_files/validator'
-require_relative '../../../lib/mayhem/front_matter/document'
-
-# TODO: change from using mayhem/front_matter/document to using the appropriate Mayhem::Models classes instead.
+require_relative '../../../lib/mayhem/models/event'
+require_relative '../../../lib/mayhem/models/image'
+require_relative '../../../lib/mayhem/models/news'
 
 module News
   class ImageExtractorEndToEndTest < Minitest::Test
@@ -26,7 +26,7 @@ module News
       end
 
       converter_stub = Minitest::Mock.new
-      converter_stub.expect(:convert_to_webp, ['image-data', '.webp']) do |data, ext, url|
+      converter_stub.expect(:convert_to_webp, ['image-data', '.webp', false]) do |data, ext, url|
         data.is_a?(String) && ext.is_a?(String) && url.is_a?(String)
       end
 
@@ -44,91 +44,80 @@ module News
 
     public
 
-  def test_updates_post_with_downloaded_image
+    def test_updates_post_with_downloaded_image
       FMRepo::TestHelpers.with_temp_repo(role: :news) do
         FMRepo::TestHelpers.with_temp_repo(role: :events) do
-          Dir.mktmpdir do |dir|
-            posts_dir = Mayhem::Models::News.collection_dir
-            images_dir = File.join(dir, 'images')
-            assets_dir = File.join(dir, 'assets')
-            FileUtils.mkdir_p(posts_dir)
+          FMRepo::TestHelpers.with_temp_repo(role: :images) do
+            assets_dir = File.join(Mayhem::Models::Image.repo.root.to_s, 'assets', 'images')
+            FileUtils.mkdir_p(assets_dir)
 
-            post_path = File.join(posts_dir, 'sample.md')
-            File.write(
-              post_path,
-              <<~MD
-                ---
-                title: Sample
-                source: Example Org
-                source_url: https://example.org/post
-                summarized: true
-                original_source_html: "![Alt text](https://example.org/image.png)"
-                ---
-                Body content
-              MD
+            # Create a post using Models
+            post = Mayhem::Models::News.create!(
+              {
+                'title' => 'Sample',
+                'source' => 'Example Org',
+                'source_url' => 'https://example.org/post',
+                'summarized' => true,
+                'original_source_html' => '![Alt text](https://example.org/image.png)'
+              },
+              body: 'Body content'
             )
+            post_id = post.id
 
             extractor = Mayhem::Images::Extractor.new(
-              image_docs_dir: images_dir,
               asset_dir: assets_dir
             )
 
             stubs = stub_image_processing(extractor)
             extractor.run
 
-            document = Mayhem::FrontMatter::Document.load(post_path)
-            checksums = document.front_matter['image_checksums']
+            updated_post = Mayhem::Models::News.find(post_id)
+            checksums = updated_post['image_checksums']
 
             refute_nil checksums
             assert_equal 1, checksums.length
 
             checksum = Digest::SHA256.hexdigest('image-data')
-            image_doc_path = File.join(images_dir, "#{checksum}.md")
+            image = Mayhem::Models::Image.find_by(checksum: checksum)
 
-            assert_path_exists image_doc_path, 'expected image document to be created'
+            refute_nil image, 'expected image record to be created'
 
             stubs.each(&:verify)
           end
         end
       end
-  end
+    end
 
-  def test_processes_events_directory
+    def test_processes_events_directory
       FMRepo::TestHelpers.with_temp_repo(role: :news) do
         FMRepo::TestHelpers.with_temp_repo(role: :events) do
-          Dir.mktmpdir do |dir|
-            posts_dir = Mayhem::Models::News.collection_dir
-            images_dir = File.join(dir, 'images')
-            assets_dir = File.join(dir, 'assets')
-            events_dir = Mayhem::Models::Event.collection_dir
-            FileUtils.mkdir_p(posts_dir)
-            FileUtils.mkdir_p(events_dir)
+          FMRepo::TestHelpers.with_temp_repo(role: :images) do
+            assets_dir = File.join(Mayhem::Models::Image.repo.root.to_s, 'assets', 'images')
+            FileUtils.mkdir_p(assets_dir)
 
-            event_path = File.join(events_dir, 'event.md')
-            File.write(
-              event_path,
-              <<~MD
-                ---
-                title: Sample Event
-                organization_title: Example Org
-                source_url: https://example.org/event
-                summarized: true
-                original_source_html: "![Event image](https://example.org/event.png)"
-                ---
-                Event body
-              MD
+            # Create an event using Models
+            event = Mayhem::Models::Event.create!(
+              {
+                'title' => 'Sample Event',
+                'organization_title' => 'Example Org',
+                'source_url' => 'https://example.org/event',
+                'start_date' => Time.now.utc.iso8601,
+                'summarized' => true,
+                'original_source_html' => '![Event image](https://example.org/event.png)'
+              },
+              body: 'Event body'
             )
+            event_id = event.id
 
             extractor = Mayhem::Images::Extractor.new(
-              image_docs_dir: images_dir,
               asset_dir: assets_dir
             )
 
             stubs = stub_image_processing(extractor)
             extractor.run
 
-            document = Mayhem::FrontMatter::Document.load(event_path)
-            checksums = document.front_matter['image_checksums']
+            updated_event = Mayhem::Models::Event.find(event_id)
+            checksums = updated_event['image_checksums']
 
             refute_nil checksums
             assert_equal 1, checksums.length
@@ -137,44 +126,39 @@ module News
           end
         end
       end
-  end
+    end
 
-  def test_skips_locked_entries
+    def test_skips_locked_entries
       FMRepo::TestHelpers.with_temp_repo(role: :news) do
         FMRepo::TestHelpers.with_temp_repo(role: :events) do
-          Dir.mktmpdir do |dir|
-            posts_dir = Mayhem::Models::News.collection_dir
-            images_dir = File.join(dir, 'images')
-            assets_dir = File.join(dir, 'assets')
-            FileUtils.mkdir_p(posts_dir)
+          FMRepo::TestHelpers.with_temp_repo(role: :images) do
+            assets_dir = File.join(Mayhem::Models::Image.repo.root.to_s, 'assets', 'images')
+            FileUtils.mkdir_p(assets_dir)
 
-            post_path = File.join(posts_dir, 'locked.md')
-            File.write(
-              post_path,
-              <<~MD
-                ---
-                title: Locked Post
-                source: Example Org
-                source_url: https://example.org/post
-                original_source_html: "![Alt](https://example.org/image.png)"
-                locked: true
-                ---
-                Body
-              MD
+            # Create a locked post using Models
+            post = Mayhem::Models::News.create!(
+              {
+                'title' => 'Locked Post',
+                'source' => 'Example Org',
+                'source_url' => 'https://example.org/post',
+                'original_source_html' => '![Alt](https://example.org/image.png)',
+                'locked' => true
+              },
+              body: 'Body'
             )
+            post_id = post.id
 
             extractor = Mayhem::Images::Extractor.new(
-              image_docs_dir: images_dir,
               asset_dir: assets_dir
             )
 
             extractor.run
 
-            document = Mayhem::FrontMatter::Document.load(post_path)
-            assert_nil document.front_matter['image_checksums']
+            updated_post = Mayhem::Models::News.find(post_id)
+            assert_nil updated_post['image_checksums']
           end
         end
       end
-  end
+    end
   end
 end
