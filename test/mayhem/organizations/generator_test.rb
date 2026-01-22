@@ -194,10 +194,10 @@ class OrganizationsGeneratorTest < Minitest::Test
     orgs = Mayhem::Models::Organization.all.to_a
     assert_equal 1, orgs.size
     org = orgs.first
-    assert_equal 'https://feed', org['news_rss_url']
-    assert_equal ['Health'], org['topic_titles']
-    assert_equal 'https://calendar', org['events_ical_url']
-    assert_equal ['https://example.com/sitemap.xml'], org['website_xml_sitemap_urls']
+    assert_equal 'https://feed', org.news_rss_url
+    assert_equal ['Health'], org.topic_titles
+    assert_equal 'https://calendar', org.events_ical_url
+    assert_equal ['https://example.com/sitemap.xml'], org.website_xml_sitemap_urls
   end
 
   def test_run_records_multiple_sitemaps
@@ -230,7 +230,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     assert_equal [
       'https://example.com/sitemap.xml',
       'https://example.com/sitemap-index.xml'
-    ], org['website_xml_sitemap_urls']
+    ], org.website_xml_sitemap_urls
   end
 
   def test_run_omits_sitemap_when_missing
@@ -256,7 +256,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     orgs = Mayhem::Models::Organization.all.to_a
     assert_equal 1, orgs.size
     org = orgs.first
-    assert_nil org['website_xml_sitemap_urls']
+    assert_empty org.website_xml_sitemap_urls
   end
 
   def test_run_skips_existing_website

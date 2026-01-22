@@ -17,12 +17,7 @@ module Mayhem
       end
 
       def collect_image_checksums(record)
-        checksums = if record.respond_to?(:image_checksums)
-                      record.image_checksums
-                    else
-                      record['image_checksums'] || record[:image_checksums]
-                    end
-        Array(checksums).map(&:to_s).map(&:strip).reject(&:empty?)
+        Array(record.image_checksums).map(&:to_s).map(&:strip).reject(&:empty?)
       end
 
       def remaining_image_counts(excluded_posts: [], excluded_events: [])

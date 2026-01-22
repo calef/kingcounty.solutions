@@ -85,8 +85,8 @@ class EventExtractorTest < Minitest::Test
     assert_equal 1, stats[:skipped_unsummarized]
 
     post = Mayhem::Models::News.find(post_id)
-    assert_nil post['events_extracted']
-    assert_nil post['event_ids']
+    assert_nil post.events_extracted
+    assert_empty post.event_ids
     assert_empty Mayhem::Models::Event.all.to_a
   end
 
@@ -107,8 +107,8 @@ class EventExtractorTest < Minitest::Test
     # Verify post was marked as extracted
     post = Mayhem::Models::News.find(post_id)
 
-    assert post['events_extracted']
-    assert_empty post['event_ids']
+    assert post.events_extracted
+    assert_empty post.event_ids
 
     mock_chat_client.verify
   end
@@ -143,8 +143,8 @@ class EventExtractorTest < Minitest::Test
     # Verify post was updated with event link
     post = Mayhem::Models::News.find(post_id)
 
-    assert post['events_extracted']
-    assert_equal 1, post['event_ids'].size
+    assert post.events_extracted
+    assert_equal 1, post.event_ids.size
 
     # Verify event was created
     events = Mayhem::Models::Event.all.to_a
@@ -152,11 +152,11 @@ class EventExtractorTest < Minitest::Test
     assert_equal 1, events.size
     event = events.first
 
-    assert_equal 'Planning Meeting', event['title']
-    assert_equal '2025-12-15T18:00:00-08:00', event['start_date']
-    assert_equal 'City Hall', event['location']
-    assert_equal 'Test Source', event['organization_title']
-    assert event['generated_from_post']
+    assert_equal 'Planning Meeting', event.title
+    assert_equal '2025-12-15T18:00:00-08:00', event.start_date
+    assert_equal 'City Hall', event.location
+    assert_equal 'Test Source', event.organization_title
+    assert event.generated_from_post
 
     mock_chat_client.verify
   end
@@ -194,8 +194,8 @@ class EventExtractorTest < Minitest::Test
     # Verify post was marked as extracted with no events
     post = Mayhem::Models::News.find(post_id)
 
-    assert post['events_extracted']
-    assert_empty post['event_ids']
+    assert post.events_extracted
+    assert_empty post.event_ids
 
     # Verify no event files were created
     assert_empty Mayhem::Models::Event.all.to_a

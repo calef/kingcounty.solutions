@@ -72,7 +72,7 @@ module News
             extractor.run
 
             updated_post = Mayhem::Models::News.find(post_id)
-            checksums = updated_post['image_checksums']
+            checksums = updated_post.image_checksums
 
             refute_nil checksums
             assert_equal 1, checksums.length
@@ -117,7 +117,7 @@ module News
             extractor.run
 
             updated_event = Mayhem::Models::Event.find(event_id)
-            checksums = updated_event['image_checksums']
+            checksums = updated_event.image_checksums
 
             refute_nil checksums
             assert_equal 1, checksums.length
@@ -155,7 +155,7 @@ module News
             extractor.run
 
             updated_post = Mayhem::Models::News.find(post_id)
-            assert_nil updated_post['image_checksums']
+            assert_empty updated_post.image_checksums
           end
         end
       end

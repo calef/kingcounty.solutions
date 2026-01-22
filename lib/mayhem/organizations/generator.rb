@@ -117,7 +117,7 @@ module Mayhem
 
       def load_existing_websites
         Mayhem::Models::Organization.all.each_with_object(Set.new) do |org, set|
-          website_url = org['website_url']
+          website_url = org.website_url
           next unless website_url
 
           set << normalize_url(website_url)
@@ -126,7 +126,7 @@ module Mayhem
 
       def load_existing_types
         Mayhem::Models::Organization.all.each_with_object(Set.new) do |org, set|
-          type = org['type']
+          type = org.type
           set << type if type
         end
       end

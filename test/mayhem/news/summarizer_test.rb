@@ -154,7 +154,7 @@ class PostSummarizerTest < Minitest::Test
       html,
       max_chars: Mayhem::News::PostSummarizer::MAX_ARTICLE_CHARS
     )
-    assert_equal expected_html, post['original_source_html']
+    assert_equal expected_html, post.original_source_html
     assert_equal 'Fresh summary.', post.body.strip
   end
 
@@ -184,8 +184,8 @@ class PostSummarizerTest < Minitest::Test
     assert_equal 1, stats[:locations_backfilled]
     post = Mayhem::Models::News.find(post_id)
 
-    assert_empty post['location_titles']
-    assert_empty post['image_checksums']
+    assert_empty post.location_titles
+    assert_empty post.image_checksums
   end
 
   def test_run_skips_classification_when_topic_titles_and_location_titles_explicitly_empty
@@ -230,6 +230,6 @@ class PostSummarizerTest < Minitest::Test
 
     assert_equal 1, stats[:updated]
     post = Mayhem::Models::News.find(post_id)
-    assert_equal false, post['published']
+    assert_equal false, post.published
   end
 end

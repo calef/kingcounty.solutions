@@ -148,12 +148,12 @@ class EventSummarizerTest < Minitest::Test
     event = Mayhem::Models::Event.find(event_id)
 
     assert_equal 'Refined summary.', event.body.strip
-    refute event['published']
-    assert_empty Array(event['topic_titles'])
-    assert_empty Array(event['location_titles'])
+    refute event.published
+    assert_empty event.topic_titles
+    assert_empty event.location_titles
     post = Mayhem::Models::News.find(post_id)
 
-    assert_empty Array(post['event_ids'])
+    assert_empty post.event_ids
   end
 
   def test_run_records_original_source_html_for_generated_event
@@ -180,7 +180,7 @@ class EventSummarizerTest < Minitest::Test
       html,
       max_chars: Mayhem::Events::EventSummarizer::MAX_ARTICLE_CHARS
     )
-    assert_equal expected_html, event['original_source_html']
+    assert_equal expected_html, event.original_source_html
     assert_equal 'Summary text', event.body.strip
   end
 
@@ -254,8 +254,8 @@ class EventSummarizerTest < Minitest::Test
     assert_equal 0, stats[:updated]
     event = Mayhem::Models::Event.find(event_id)
 
-    assert_equal %w[Seattle Bellevue], event['location_titles']
-    assert_nil event['published']
+    assert_equal %w[Seattle Bellevue], event.location_titles
+    assert_nil event.published
   end
 
   def test_run_marks_unpublished_when_backfilled_location_titles_empty
@@ -278,9 +278,9 @@ class EventSummarizerTest < Minitest::Test
     assert_equal 1, stats[:locations_backfilled]
     event = Mayhem::Models::Event.find(event_id)
 
-    assert_empty event['location_titles']
-    assert_empty event['image_checksums']
-    refute event['published']
+    assert_empty event.location_titles
+    assert_empty event.image_checksums
+    refute event.published
   end
 
   def test_run_skips_classification_when_topic_titles_and_location_titles_explicitly_empty
@@ -334,8 +334,8 @@ class EventSummarizerTest < Minitest::Test
     assert_equal 0, stats[:updated]
     assert_match(/locked is true/, @logger.debugs.last)
     event = Mayhem::Models::Event.find(event_id)
-    assert_equal true, event['locked']
-    refute event['summarized']
+    assert_equal true, event.locked
+    refute event.summarized
   end
 
   def test_prefer_fallback_body_prefers_only_when_scraped_empty
@@ -374,15 +374,15 @@ class EventSummarizerTest < Minitest::Test
 
     event_pruner.verify
     updated = Mayhem::Models::Event.find(event_id)
-    assert_equal true, updated['summarized']
-    refute updated['published']
-    assert_equal [], Array(updated['topic_titles'])
-    assert_equal [], Array(updated['location_titles'])
+    assert_equal true, updated.summarized
+    refute updated.published
+    assert_equal [], updated.topic_titles
+    assert_equal [], updated.location_titles
     assert_equal '', updated.body
     assert_equal 1, stats[:failed_summary]
     assert_equal 1, stats[:events_unlinked]
     post = Mayhem::Models::News.find(post_id)
-    assert_empty Array(post['event_ids'])
+    assert_empty post.event_ids
   end
 
   def test_generate_summary_with_empty_location

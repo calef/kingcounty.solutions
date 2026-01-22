@@ -38,13 +38,13 @@ class SourceUrlCheckerTest < Minitest::Test
   def test_successful_url_check_does_not_modify_post
     post_id = write_post('2025-01-01-test.md', 'https://example.com/article')
     original_post = Mayhem::Models::News.find(post_id)
-    original_published = original_post['published']
+    original_published = original_post.published
 
     checker = build_checker(http_client: ->(_url) { :success })
     checker.run
 
     updated_post = Mayhem::Models::News.find(post_id)
-    assert_equal original_published, updated_post['published'], 'Post should not be modified'
+    assert_equal original_published, updated_post.published, 'Post should not be modified'
   end
 
   def test_not_found_url_unpublishes_post
@@ -55,7 +55,7 @@ class SourceUrlCheckerTest < Minitest::Test
 
     post = Mayhem::Models::News.find(post_id)
 
-    refute post['published'], 'Post should be unpublished'
+    refute post.published, 'Post should be unpublished'
   end
 
   def test_not_found_url_clears_post_images
@@ -69,7 +69,7 @@ class SourceUrlCheckerTest < Minitest::Test
 
     post = Mayhem::Models::News.find(post_id)
 
-    assert_empty post['image_checksums'], 'Image IDs array should be cleared'
+    assert_empty post.image_checksums, 'Image IDs array should be cleared'
   end
 
   def test_not_found_url_removes_unreferenced_images
@@ -103,13 +103,13 @@ class SourceUrlCheckerTest < Minitest::Test
   def test_error_status_logs_warning_but_does_not_modify_post
     post_id = write_post('2025-01-01-test.md', 'https://example.com/error')
     original_post = Mayhem::Models::News.find(post_id)
-    original_published = original_post['published']
+    original_published = original_post.published
 
     checker = build_checker(http_client: ->(_url) { :error })
     checker.run
 
     updated_post = Mayhem::Models::News.find(post_id)
-    assert_equal original_published, updated_post['published'], 'Post should not be modified on error'
+    assert_equal original_published, updated_post.published, 'Post should not be modified on error'
   end
 
   def test_not_found_event_is_deleted
@@ -140,7 +140,7 @@ class SourceUrlCheckerTest < Minitest::Test
     checker.run
 
     post = Mayhem::Models::News.find(post_id)
-    events = post['event_ids'] || []
+    events = post.event_ids
 
     refute_includes events, event_id, 'Event reference should be removed from post'
   end
@@ -148,13 +148,13 @@ class SourceUrlCheckerTest < Minitest::Test
   def test_post_without_source_url_is_not_checked
     post_id = write_post_without_source_url('2025-01-01-test.md')
     original_post = Mayhem::Models::News.find(post_id)
-    original_published = original_post['published']
+    original_published = original_post.published
 
     checker = build_checker(http_client: ->(_url) { :not_found })
     checker.run
 
     updated_post = Mayhem::Models::News.find(post_id)
-    assert_equal original_published, updated_post['published'], 'Post without source_url should not be modified'
+    assert_equal original_published, updated_post.published, 'Post without source_url should not be modified'
   end
 
   def test_event_without_source_url_is_not_checked
@@ -169,13 +169,13 @@ class SourceUrlCheckerTest < Minitest::Test
   def test_empty_source_url_is_not_checked
     post_id = write_post('2025-01-01-test.md', '')
     original_post = Mayhem::Models::News.find(post_id)
-    original_published = original_post['published']
+    original_published = original_post.published
 
     checker = build_checker(http_client: ->(_url) { :not_found })
     checker.run
 
     updated_post = Mayhem::Models::News.find(post_id)
-    assert_equal original_published, updated_post['published'], 'Post with empty source_url should not be modified'
+    assert_equal original_published, updated_post.published, 'Post with empty source_url should not be modified'
   end
 
   def test_multiple_valid_posts_and_events_remain_unchanged
@@ -187,7 +187,7 @@ class SourceUrlCheckerTest < Minitest::Test
 
     # Valid post should be unchanged
     post = Mayhem::Models::News.find(post_id)
-    refute_equal false, post['published']
+    refute_equal false, post.published
 
     # Valid event should exist
     refute_nil Mayhem::Models::Event.find(event_id)
@@ -202,7 +202,7 @@ class SourceUrlCheckerTest < Minitest::Test
 
     # Missing post should be unpublished
     post = Mayhem::Models::News.find(post_id)
-    refute post['published']
+    refute post.published
 
     # Missing event should be deleted
     assert_raises(FMRepo::NotFound) { Mayhem::Models::Event.find(event_id) }
@@ -216,8 +216,8 @@ class SourceUrlCheckerTest < Minitest::Test
 
     post = Mayhem::Models::News.find(post_id)
 
-    refute_nil post['published'], 'published key should have a value'
-    refute post['published'], 'published should be false'
+    refute_nil post.published, 'published key should have a value'
+    refute post.published, 'published should be false'
   end
 
   def test_multiple_event_references_cleaned_from_single_post
@@ -236,7 +236,7 @@ class SourceUrlCheckerTest < Minitest::Test
     checker.run
 
     post = Mayhem::Models::News.find(post_id)
-    events = post['event_ids'] || []
+    events = post.event_ids
 
     assert_equal [event3_id], events, 'Only valid event should remain'
   end
@@ -255,7 +255,7 @@ class SourceUrlCheckerTest < Minitest::Test
     checker.run
 
     post = Mayhem::Models::News.find(post_id)
-    events = post['event_ids'] || []
+    events = post.event_ids
 
     assert_empty events, 'Events array should be empty'
   end
@@ -263,26 +263,26 @@ class SourceUrlCheckerTest < Minitest::Test
   def test_invalid_url_scheme_returns_error
     post_id = write_post('2025-01-01-test.md', 'ftp://example.com/file')
     original_post = Mayhem::Models::News.find(post_id)
-    original_published = original_post['published']
+    original_published = original_post.published
 
     # No http_client provided, so real check_url will be used
     checker = build_checker
     checker.run
 
     updated_post = Mayhem::Models::News.find(post_id)
-    assert_equal original_published, updated_post['published'], 'Post should not be modified for invalid scheme'
+    assert_equal original_published, updated_post.published, 'Post should not be modified for invalid scheme'
   end
 
   def test_malformed_url_returns_error
     post_id = write_post('2025-01-01-test.md', 'not a url at all')
     original_post = Mayhem::Models::News.find(post_id)
-    original_published = original_post['published']
+    original_published = original_post.published
 
     checker = build_checker
     checker.run
 
     updated_post = Mayhem::Models::News.find(post_id)
-    assert_equal original_published, updated_post['published'], 'Post should not be modified for malformed URL'
+    assert_equal original_published, updated_post.published, 'Post should not be modified for malformed URL'
   end
 
   private

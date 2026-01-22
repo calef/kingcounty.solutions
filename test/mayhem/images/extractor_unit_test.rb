@@ -55,11 +55,11 @@ class ImageExtractorUnitTest < Minitest::Test
     @extractor.send(:ensure_image_record, checksum, 'Alt', filename, frontmatter, original_url)
 
     image = Mayhem::Models::Image.find_by(checksum: checksum)
-    assert_equal checksum, image['checksum']
-    assert_match(%r{/#{Regexp.escape(filename)}\z}, image['image_url'])
-    assert_equal original_url, image['source_url']
-    assert_equal 'Alt', image['title']
-    assert_equal frontmatter['organization_title'], image['organization_title']
+    assert_equal checksum, image.checksum
+    assert_match(%r{/#{Regexp.escape(filename)}\z}, image.image_url)
+    assert_equal original_url, image.source_url
+    assert_equal 'Alt', image.title
+    assert_equal frontmatter['organization_title'], image.organization_title
   end
 
   def test_ensure_image_record_prefers_start_date_when_date_missing
@@ -75,7 +75,7 @@ class ImageExtractorUnitTest < Minitest::Test
     @extractor.send(:ensure_image_record, checksum, 'Banner', filename, frontmatter, original_url)
 
     image = Mayhem::Models::Image.find_by(checksum: checksum)
-    assert_equal frontmatter['start_date'], image['date']
+    assert_equal frontmatter['start_date'], image.date
   end
 
   def test_ensure_image_record_falls_back_to_now_when_date_missing
@@ -87,7 +87,7 @@ class ImageExtractorUnitTest < Minitest::Test
     @extractor.send(:ensure_image_record, checksum, 'Alt', filename, frontmatter, original_url)
 
     image = Mayhem::Models::Image.find_by(checksum: checksum)
-    Time.iso8601(image['date'])
+    Time.iso8601(image.date)
   end
 
   def test_run_skips_unsummarized_posts

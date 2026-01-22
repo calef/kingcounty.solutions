@@ -70,17 +70,17 @@ class OrganizationsPrunerTest < Minitest::Test
     assert result[:organization]
 
     # Verify target organization content is removed
-    test_org = Mayhem::Models::Organization.all.to_a.find { |o| o['title'] == 'Test Organization' }
+    test_org = Mayhem::Models::Organization.all.to_a.find { |o| o.title == 'Test Organization' }
     assert_nil test_org
-    test_posts = Mayhem::Models::News.all.select { |p| p['organization_title'] == 'Test Organization' }
+    test_posts = Mayhem::Models::News.all.select { |p| p.organization_title == 'Test Organization' }
     assert_empty test_posts
-    test_events = Mayhem::Models::Event.all.select { |e| e['organization_title'] == 'Test Organization' }
+    test_events = Mayhem::Models::Event.all.select { |e| e.organization_title == 'Test Organization' }
     assert_empty test_events
 
     # Verify other organization content remains
     refute_nil Mayhem::Models::News.find(other_post_id)
     refute_nil Mayhem::Models::Event.find(other_event_id)
-    other_org = Mayhem::Models::Organization.all.to_a.find { |o| o['title'] == 'Other Organization' }
+    other_org = Mayhem::Models::Organization.all.to_a.find { |o| o.title == 'Other Organization' }
     refute_nil other_org
   end
 
@@ -93,7 +93,7 @@ class OrganizationsPrunerTest < Minitest::Test
     result = @pruner.prune_organization_content('Test Organization')
 
     assert_equal 1, result[:posts]
-    test_posts = Mayhem::Models::News.all.select { |p| p['organization_title'] == 'Test Organization' }
+    test_posts = Mayhem::Models::News.all.select { |p| p.organization_title == 'Test Organization' }
     assert_empty test_posts
     assert_nil Mayhem::Models::Image.find_by(checksum: image_id)
     assert_empty Dir.glob(File.join(@assets_dir, "#{image_id}.*"))
@@ -109,7 +109,7 @@ class OrganizationsPrunerTest < Minitest::Test
 
     # Verify event link is removed from post
     updated_post = Mayhem::Models::News.find(post_id)
-    assert_empty updated_post['event_ids']
+    assert_empty updated_post.event_ids
   end
 
   def test_prune_organization_content_no_matches_returns_zero
@@ -126,7 +126,7 @@ class OrganizationsPrunerTest < Minitest::Test
     # Verify content remains
     refute_nil Mayhem::Models::News.find(other_post_id)
     refute_nil Mayhem::Models::Event.find(other_event_id)
-    other_org = Mayhem::Models::Organization.all.to_a.find { |o| o['title'] == 'Other Organization' }
+    other_org = Mayhem::Models::Organization.all.to_a.find { |o| o.title == 'Other Organization' }
     refute_nil other_org
   end
 

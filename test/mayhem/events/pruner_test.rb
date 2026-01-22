@@ -42,7 +42,7 @@ class EventsPrunerTest < Minitest::Test
 
     assert_raises(FMRepo::NotFound) { Mayhem::Models::Event.find(event_id) }
     updated = Mayhem::Models::News.find(post_id)
-    assert_empty updated['event_ids']
+    assert_empty updated.event_ids
   end
 
   def test_unpublish_removes_images
@@ -55,8 +55,8 @@ class EventsPrunerTest < Minitest::Test
     @pruner.unpublish(event)
 
     updated = Mayhem::Models::Event.find(event_id)
-    refute updated['published']
-    assert_empty updated['image_checksums']
+    refute updated.published
+    assert_empty updated.image_checksums
     assert_nil Mayhem::Models::Image.find_by(checksum: image_id)
     assert_empty Dir.glob(File.join(@assets_dir, "#{image_id}.*"))
   end
