@@ -15,16 +15,9 @@ class ContentAgeEnforcerTest < Minitest::Test
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
     @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
     @images_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :images)
-    @tmpdir = Mayhem::Models::News.repo.root.to_s
-    @posts_dir = Mayhem::Models::News.collection_dir
-    @images_dir = Mayhem::Models::Image.collection_dir
     @assets_dir = File.join(Mayhem::Models::Image.repo.root.to_s, 'assets', 'images')
-    @events_dir = Mayhem::Models::Event.collection_dir
-    FileUtils.mkdir_p(@posts_dir)
-    FileUtils.mkdir_p(@images_dir)
     FileUtils.mkdir_p(@assets_dir)
-    FileUtils.mkdir_p(@events_dir)
-    @config_path = File.join(@tmpdir, 'config.yml')
+    @config_path = File.join(Mayhem::Models::News.repo.root.to_s, 'config.yml')
     @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
     @reference_time = Time.utc(2025, 12, 31)
   end

@@ -13,10 +13,6 @@ class EventExtractorTest < Minitest::Test
   def setup
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
     @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
-    @posts_dir = Mayhem::Models::News.collection_dir
-    @events_dir = Mayhem::Models::Event.collection_dir
-    FileUtils.mkdir_p(@posts_dir)
-    FileUtils.mkdir_p(@events_dir)
     @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
   end
 

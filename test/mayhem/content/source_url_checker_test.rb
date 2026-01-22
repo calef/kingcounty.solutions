@@ -13,18 +13,7 @@ class SourceUrlCheckerTest < Minitest::Test
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
     @events_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
     @images_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :images)
-
-    @news_repo = Mayhem::Models::News.repo
-    @events_repo = Mayhem::Models::Event.repo
-    @images_repo = Mayhem::Models::Image.repo
-
-    @posts_dir = Mayhem::Models::News.collection_dir
-    @events_dir = Mayhem::Models::Event.collection_dir
-    @images_dir = @images_repo.root.join('_images').to_s
-    @assets_dir = @images_repo.root.join('assets', 'images').to_s
-    FileUtils.mkdir_p(@posts_dir)
-    FileUtils.mkdir_p(@events_dir)
-    FileUtils.mkdir_p(@images_dir)
+    @assets_dir = Mayhem::Models::Image.repo.root.join('assets', 'images').to_s
     FileUtils.mkdir_p(@assets_dir)
     @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
   end

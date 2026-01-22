@@ -20,12 +20,8 @@ class OrganizationsPrunerTest < Minitest::Test
     @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
     @org_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :organizations)
     @images_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :images)
-    @posts_dir = Mayhem::Models::News.collection_dir
-    @events_dir = Mayhem::Models::Event.collection_dir
-    @images_dir = Mayhem::Models::Image.collection_dir
     @assets_dir = File.join(Mayhem::Models::Image.repo.root.to_s, 'assets', 'images')
-    @organizations_dir = Mayhem::Models::Organization.collection_dir
-    FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir, @organizations_dir])
+    FileUtils.mkdir_p(@assets_dir)
     @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
 
     @images_pruner = Mayhem::Images::Pruner.new
