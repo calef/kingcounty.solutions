@@ -302,7 +302,7 @@ module Mayhem
           post.event_ids = updated_events.empty? ? [] : updated_events
           post.save!
           updated_posts += 1
-          logger.info "Removed event #{identifiers.first} from #{post.path || post.id}"
+          logger.info "Removed event #{identifiers.first} from #{post.id}"
         end
         updated_posts
       end

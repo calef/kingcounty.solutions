@@ -64,8 +64,7 @@ module Mayhem
         Mayhem::Models::Event.relation.to_a.each do |event|
           next unless event.organization_title == organization_title
 
-          event_path = event.path.to_s
-          logger.info "Deleting event: #{File.basename(event_path)}"
+          logger.info "Deleting event: #{event.id}"
           @events_pruner.delete(event)
           deleted_count += 1
         end
