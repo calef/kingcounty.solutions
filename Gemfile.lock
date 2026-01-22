@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/calef/fmrepo.git
-  revision: 5ec36e4c6241d954a8340813c3e2e752bb6013de
+  revision: f606094ef0935dae852ef81a15d2aee7bf060f6c
   specs:
     fmrepo (0.2.8)
 
@@ -169,7 +169,7 @@ GEM
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
-    reverse_markdown (3.0.1)
+    reverse_markdown (3.0.2)
       nokogiri
     rexml (3.4.4)
     rouge (4.7.0)
