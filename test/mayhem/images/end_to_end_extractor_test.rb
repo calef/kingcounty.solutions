@@ -26,7 +26,7 @@ module News
       end
 
       converter_stub = Minitest::Mock.new
-      converter_stub.expect(:convert_to_webp, ['image-data', '.webp', false]) do |data, ext, url|
+      converter_stub.expect(:convert_to_webp, ['image-data', '.webp']) do |data, ext, url|
         data.is_a?(String) && ext.is_a?(String) && url.is_a?(String)
       end
 
