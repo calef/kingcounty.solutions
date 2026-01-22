@@ -10,6 +10,10 @@ module Mayhem
           self['location_titles'] || []
         end
 
+        def location_titles=(value)
+          self['location_titles'] = value
+        end
+
         def locations
           location_titles.map do |location_title|
             Location.find_by(title: location_title)

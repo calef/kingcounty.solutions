@@ -84,11 +84,11 @@ module Mayhem
             summary_text = event.body&.strip || ''
             classified_locations = @location_classifier.classify(
               summary_text,
-              content_title: event['title'],
-              content_location: event['location'],
-              content_source: event['organization_title']
+              content_title: event.title,
+              content_location: event.location,
+              content_source: event.organization_title
             )
-            event['location_titles'] = classified_locations
+            event.location_titles = classified_locations
 
             if classified_locations.empty?
               @event_pruner.unpublish(event)
@@ -156,7 +156,7 @@ module Mayhem
           end
 
           if (source_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(html_for_summary, max_chars: MAX_ARTICLE_CHARS))
-            event['original_source_html'] = source_html
+            event.original_source_html = source_html
           end
 
           summary_text = generate_summary(article_text, event, record_id, generated_from_post: generated_from_post)
@@ -164,7 +164,7 @@ module Mayhem
             stats[:failed_summary] += 1
             return
           end
-          event['summarized'] = true
+          event.summarized = true
           event.body = summary_text
         else
           summary_text = event.body&.strip
@@ -174,7 +174,7 @@ module Mayhem
 
         if needs_topic_titles
           classified_topic_titles = @topic_classifier.classify(summary_text)
-          event['topic_titles'] = classified_topic_titles
+          event.topic_titles = classified_topic_titles
           if classified_topic_titles.empty?
             logger.info "No topics matched for #{record_id}"
             stats[:missing_topics] += 1
@@ -184,11 +184,11 @@ module Mayhem
         if needs_location_titles
           classified_locations = @location_classifier.classify(
             summary_text,
-            content_title: event['title'],
-            content_location: event['location'],
-            content_source: event['organization_title']
+            content_title: event.title,
+            content_location: event.location,
+            content_source: event.organization_title
           )
-          event['location_titles'] = classified_locations
+          event.location_titles = classified_locations
           if classified_locations.empty?
             logger.info "No locations matched for #{record_id}"
             stats[:missing_locations] += 1
@@ -196,8 +196,8 @@ module Mayhem
         end
 
         # Set published to false if either topic titles or location titles are empty
-        should_unpublish = (needs_topic_titles && Array(event['topic_titles']).empty?) ||
-                           (needs_location_titles && Array(event['location_titles']).empty?)
+        should_unpublish = (needs_topic_titles && event.topic_titles.empty?) ||
+                           (needs_location_titles && event.location_titles.empty?)
 
         if should_unpublish
           @event_pruner.unpublish(event)
@@ -217,7 +217,7 @@ module Mayhem
       end
 
       def generate_summary(article_text, event, record_id, generated_from_post: false)
-        location = event['location'].to_s.strip
+        location = event.location.to_s.strip
         location_instruction = if location.empty?
                                  'Mention the start date (and end date if it differs) in natural language.'
                                else
@@ -228,8 +228,8 @@ module Mayhem
           prompt = <<~PROMPT
             Refine the following event description for a community calendar in 150 words or less using Markdown paragraphs, following The Associated Press Stylebook.
 
-            Event title: #{event['title']}
-            Starts at: #{event['start_date']}
+            Event title: #{event.title}
+            Starts at: #{event.start_date}
             Location: #{location.empty? ? 'Not specified' : location}
 
             Current event description:
@@ -247,8 +247,8 @@ module Mayhem
           prompt = <<~PROMPT
             Summarize the following event for a community calendar in 150 words or less using Markdown paragraphs, following The Associated Press Stylebook.
 
-            Event title: #{event['title']}
-            Starts at: #{event['start_date']}
+            Event title: #{event.title}
+            Starts at: #{event.start_date}
             Location: #{location.empty? ? 'Not specified' : location}
 
             In the summary:
@@ -299,12 +299,12 @@ module Mayhem
         identifiers = event_identifiers(event)
         updated_posts = 0
         Mayhem::Models::News.relation.to_a.each do |post|
-          event_ids = post['event_ids']
-          next unless event_ids.is_a?(Array)
+          event_ids = post.event_ids
+          next if event_ids.empty?
           next unless event_ids.any? { |id| identifiers.include?(id.to_s) }
 
           updated_events = event_ids.reject { |id| identifiers.include?(id.to_s) }
-          post['event_ids'] = updated_events.empty? ? [] : updated_events
+          post.event_ids = updated_events.empty? ? [] : updated_events
           post.save!
           updated_posts += 1
           logger.info "Removed event #{identifiers.first} from #{post.path || post.id}"
@@ -352,10 +352,10 @@ module Mayhem
         logger.warn "Skipping #{record_id}: no usable content to summarize"
         stats[:failed_summary] += 1
 
-        event['topic_titles'] = [] if event['topic_titles'].nil?
-        event['location_titles'] = [] if event['location_titles'].nil?
-        event['published'] = false
-        event['summarized'] = true
+        event.topic_titles = [] if event['topic_titles'].nil?
+        event.location_titles = [] if event['location_titles'].nil?
+        event.published = false
+        event.summarized = true
         event.body = ''
         @event_pruner.unpublish(event)
 

@@ -15,9 +15,9 @@ module Mayhem
       end
 
       def unpublish(post)
-        post['published'] = false
+        post.published = false
         image_checksums = @images_pruner.collect_image_checksums(post)
-        post['image_checksums'] = []
+        post.image_checksums = []
         post.save!
 
         @images_pruner.prune(image_checksums, excluded_posts: [post]) if image_checksums.any?

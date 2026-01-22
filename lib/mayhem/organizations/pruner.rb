@@ -62,8 +62,7 @@ module Mayhem
       def prune_events(organization_title)
         deleted_count = 0
         Mayhem::Models::Event.relation.to_a.each do |event|
-          event_org = event['organization_title']
-          next unless event_org == organization_title
+          next unless event.organization_title == organization_title
 
           event_path = event.path.to_s
           logger.info "Deleting event: #{File.basename(event_path)}"
@@ -76,8 +75,7 @@ module Mayhem
       def prune_news(organization_title)
         deleted_count = 0
         Mayhem::Models::News.all.each do |post|
-          source = post['organization_title']
-          next unless source == organization_title
+          next unless post.organization_title == organization_title
 
           record_id = post.id || post.path || 'unknown-post'
           logger.info "Deleting post: #{record_id}"
@@ -90,8 +88,7 @@ module Mayhem
 
       def delete?(organization_title)
         Mayhem::Models::Organization.all.each do |org|
-          title = org['title']
-          next unless title == organization_title
+          next unless org.title == organization_title
 
           record_id = org.id || org.path || 'unknown-org'
           logger.info "Deleting organization file: #{record_id}"

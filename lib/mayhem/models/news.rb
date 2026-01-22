@@ -26,8 +26,16 @@ module Mayhem
         self['date']
       end
 
+      def date=(value)
+        self['date'] = value
+      end
+
       def event_ids
         self['event_ids'] || []
+      end
+
+      def event_ids=(value)
+        self['event_ids'] = value
       end
 
       def events
@@ -41,12 +49,20 @@ module Mayhem
         self['events_extracted']
       end
 
+      def events_extracted=(value)
+        self['events_extracted'] = value
+      end
+
       def events_extracted?
         self['events_extracted'] == true
       end
 
       def rss_guid
         self['rss_guid']
+      end
+
+      def rss_guid=(value)
+        self['rss_guid'] = value
       end
     end
   end

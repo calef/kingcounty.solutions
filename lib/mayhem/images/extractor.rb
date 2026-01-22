@@ -75,7 +75,7 @@ module Mayhem
           logger.debug "Skipping #{record_id}: locked is true"
           return
         end
-        handle_unpublished(record, stats) && return if record['published'] == false
+        handle_unpublished(record, stats) && return unless record.published?
 
         unless record.summarized? == true
           stats[:skipped_unsummarized] += 1
@@ -89,7 +89,7 @@ module Mayhem
           return
         end
 
-        source_html = record['original_source_html'] || record['feed_content']
+        source_html = record.original_source_html || record.feed_content
         unless source_html
           stats[:missing_source_html] += 1
           ensure_empty_image_checksums(record, stats)
@@ -110,11 +110,11 @@ module Mayhem
           return
         end
 
-        existing_ids = Array(record['image_checksums']).map(&:to_s)
+        existing_ids = record.image_checksums.map(&:to_s)
         updated_ids = (existing_ids + collected_ids).uniq
         return if updated_ids == existing_ids
 
-        record['image_checksums'] = updated_ids
+        record.image_checksums = updated_ids
         record.save!
         stats[:posts_updated] += 1
         logger.info "Updated #{record_id} with #{collected_ids.length} image IDs"
@@ -126,9 +126,9 @@ module Mayhem
       end
 
       def ensure_empty_image_checksums(record, stats)
-        return if record['image_checksums'].is_a?(Array) && record['image_checksums'].empty?
+        return if record.image_checksums.empty? && !record['image_checksums'].nil?
 
-        record['image_checksums'] = []
+        record.image_checksums = []
         record.save!
         record_id = record.id || record.path || 'unknown-record'
         logger.info "Set empty image_checksums list for #{record_id}"
@@ -184,7 +184,7 @@ module Mayhem
 
         title = alt.to_s.strip
         title = 'Image' if title.empty?
-        organization_title = source_record['organization_title']
+        organization_title = source_record.respond_to?(:organization_title) ? source_record.organization_title : source_record['organization_title']
 
         front_matter = {
           'checksum' => checksum,

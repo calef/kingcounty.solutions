@@ -44,14 +44,14 @@ module Mayhem
           stats[:skipped_locked] += 1
           return
         end
-        if post['published'] == false
+        unless post.published?
           logger.debug "Skipping #{record_id}: published is false"
           stats[:skipped_unpublished] += 1
           return
         end
 
         # Skip if already processed
-        if post['events_extracted'] == true
+        if post.events_extracted?
           stats[:skipped_already_extracted] += 1
           return
         end
@@ -64,9 +64,9 @@ module Mayhem
 
         # Get post content for analysis
         post_content = post.body || ''
-        post_title = post['title'] || ''
-        post_date = post['date']
-        organization_title = post['organization_title']
+        post_title = post.title || ''
+        post_date = post.date
+        organization_title = post.organization_title
         source_url = post.source_url
         reference_time = reference_time_from(post_date)
 
@@ -84,8 +84,8 @@ module Mayhem
 
         if events.empty?
           # Mark as extracted even if no events found
-          post['events_extracted'] = true
-          post['event_ids'] = []
+          post.events_extracted = true
+          post.event_ids = []
           post.save!
           stats[:no_events_found] += 1
           return
@@ -99,16 +99,16 @@ module Mayhem
             organization_title,
             source_url,
             stats,
-            post['topic_titles'],
-            post['location_titles'],
+            post.topic_titles,
+            post.location_titles,
             reference_time
           )
           event_ids << event_id if event_id
         end
 
         # Update post with event links
-        post['events_extracted'] = true
-        post['event_ids'] = event_ids
+        post.events_extracted = true
+        post.event_ids = event_ids
         post.save!
 
         if event_ids.empty?

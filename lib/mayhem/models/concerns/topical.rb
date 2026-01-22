@@ -15,6 +15,10 @@ module Mayhem
         def topic_titles
           self['topic_titles'] || []
         end
+
+        def topic_titles=(value)
+          self['topic_titles'] = value
+        end
       end
     end
   end

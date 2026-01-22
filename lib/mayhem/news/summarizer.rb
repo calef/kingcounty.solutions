@@ -79,14 +79,14 @@ module Mayhem
           stats[:skipped_locked] += 1
           return
         end
-        if post['published'] == false
+        unless post.published?
           logger.debug "Skipping #{record_id}: published is false"
           stats[:skipped_unpublished] += 1
           # For unpublished posts during backfill, just set location_titles to empty array
           # without making API calls to classify locations
           needs_location_titles = post['location_titles'].nil?
           if needs_location_titles && post.summarized? == true
-            post['location_titles'] = []
+            post.location_titles = []
             post.save!
             @news_pruner.unpublish(post)
             stats[:locations_backfilled] += 1
@@ -140,12 +140,12 @@ module Mayhem
           end
 
           if (source_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(html_for_summary, max_chars: MAX_ARTICLE_CHARS))
-            post['original_source_html'] = source_html
+            post.original_source_html = source_html
           end
           summary_text = generate_summary(article_text, source_url, record_id, stats)
           return if needs_summary && (summary_text.nil? || summary_text.empty?)
 
-          post['summarized'] = true
+          post.summarized = true
         else
           summary_text = post.body&.strip
         end
@@ -155,7 +155,7 @@ module Mayhem
 
         if needs_topic_titles
           classified_topic_titles = @topic_classifier.classify(summary_text)
-          post['topic_titles'] = classified_topic_titles
+          post.topic_titles = classified_topic_titles
           if classified_topic_titles.empty?
             logger.info "No topics matched for #{record_id}"
             stats[:missing_topics] += 1
@@ -165,10 +165,10 @@ module Mayhem
         if needs_location_titles
           classified_locations = @location_classifier.classify(
             summary_text,
-            content_title: post['title'],
-            content_source: post['organization_title']
+            content_title: post.title,
+            content_source: post.organization_title
           )
-          post['location_titles'] = classified_locations
+          post.location_titles = classified_locations
           if classified_locations.empty?
             logger.info "No locations matched for #{record_id}"
             stats[:missing_locations] += 1
@@ -177,8 +177,8 @@ module Mayhem
 
         # Set published to false if either topic titles or location titles are empty
         should_unpublish = summary_missing ||
-                           (needs_topic_titles && Array(post['topic_titles']).empty?) ||
-                           (needs_location_titles && Array(post['location_titles']).empty?)
+                           (needs_topic_titles && post.topic_titles.empty?) ||
+                           (needs_location_titles && post.location_titles.empty?)
 
         post.body = summary_text
         post.save!
@@ -273,9 +273,9 @@ module Mayhem
 
       # Ensure required fields are present even when we cannot summarize due to missing content
       def mark_unsummarizable(post, _record_id)
-        post['summarized'] = true
-        post['topic_titles'] = []
-        post['location_titles'] = []
+        post.summarized = true
+        post.topic_titles = []
+        post.location_titles = []
         post.save!
         @news_pruner.unpublish(post)
       end

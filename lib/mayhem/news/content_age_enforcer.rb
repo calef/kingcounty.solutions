@@ -86,7 +86,7 @@ module Mayhem
 
       def posts_older_than(cutoff)
         Mayhem::Models::News.all.select do |post|
-          published_at = parse_date(post['date'])
+          published_at = parse_date(post.date)
           published_at && published_at < cutoff
         end
       end
@@ -101,7 +101,7 @@ module Mayhem
       end
 
       def collect_event_ids(post)
-        Array(post['event_ids']).map(&:to_s).map(&:strip).reject(&:empty?)
+        post.event_ids.map(&:to_s).map(&:strip).reject(&:empty?)
       end
 
       def prune_generated_events(event_ids)
@@ -114,7 +114,7 @@ module Mayhem
           next unless event
 
           # Only remove events that were generated from posts
-          next unless event['generated_from_post'] == true
+          next unless event.generated_from_post?
 
           # Check if any remaining posts still reference this event
           if remaining_event_refs[event_id]&.positive?
@@ -133,10 +133,7 @@ module Mayhem
       def remaining_event_references
         counts = Hash.new(0)
         Mayhem::Models::News.all.each do |post|
-          event_ids = post['event_ids']
-          next unless event_ids.is_a?(Array)
-
-          event_ids.each { |event_id| counts[event_id] += 1 }
+          post.event_ids.each { |event_id| counts[event_id] += 1 }
         end
         counts
       end

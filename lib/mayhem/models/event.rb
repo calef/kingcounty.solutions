@@ -26,8 +26,16 @@ module Mayhem
         self['end_date']
       end
 
+      def end_date=(value)
+        self['end_date'] = value
+      end
+
       def generated_from_post
         self['generated_from_post']
+      end
+
+      def generated_from_post=(value)
+        self['generated_from_post'] = value
       end
 
       def generated_from_post?
@@ -38,6 +46,10 @@ module Mayhem
         self['location']
       end
 
+      def location=(value)
+        self['location'] = value
+      end
+
       def news
         require_relative 'news'
         News.find_by(source_url: source_url)
@@ -45,6 +57,10 @@ module Mayhem
 
       def start_date
         self['start_date']
+      end
+
+      def start_date=(value)
+        self['start_date'] = value
       end
     end
   end

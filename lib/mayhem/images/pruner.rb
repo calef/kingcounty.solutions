@@ -17,7 +17,11 @@ module Mayhem
       end
 
       def collect_image_checksums(record)
-        checksums = record['image_checksums'] || record[:image_checksums]
+        checksums = if record.respond_to?(:image_checksums)
+                      record.image_checksums
+                    else
+                      record['image_checksums'] || record[:image_checksums]
+                    end
         Array(checksums).map(&:to_s).map(&:strip).reject(&:empty?)
       end
 

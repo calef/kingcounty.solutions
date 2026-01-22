@@ -108,9 +108,9 @@ module Mayhem
       end
 
       def unpublish_post(record)
-        image_checksums = @images_pruner.collect_image_checksums('image_checksums' => record.image_checksums)
-        record['published'] = false
-        record['image_checksums'] = []
+        image_checksums = @images_pruner.collect_image_checksums(record)
+        record.published = false
+        record.image_checksums = []
         record.save!
 
         return if image_checksums.empty?
@@ -119,7 +119,7 @@ module Mayhem
       end
 
       def delete_event(record)
-        image_checksums = @images_pruner.collect_image_checksums('image_checksums' => record.image_checksums)
+        image_checksums = @images_pruner.collect_image_checksums(record)
         @events_pruner.delete(record)
 
         return if image_checksums.empty?

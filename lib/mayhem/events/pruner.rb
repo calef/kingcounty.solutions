@@ -15,9 +15,9 @@ module Mayhem
       end
 
       def unpublish(document)
-        document['published'] = false
+        document.published = false
         image_checksums = @images_pruner.collect_image_checksums(document)
-        document['image_checksums'] = []
+        document.image_checksums = []
         document.save!
 
         @images_pruner.prune(image_checksums, excluded_events: [document]) if image_checksums.any?
@@ -45,15 +45,14 @@ module Mayhem
         posts_updated = 0
 
         Mayhem::Models::News.relation.to_a.each do |post|
-          event_ids = post['event_ids']
-          next unless event_ids.is_a?(Array)
+          event_ids = post.event_ids
           next if event_ids.empty?
 
           original_size = event_ids.size
           updated_events = event_ids.reject { |event_id| removed_set.include?(event_id) }
           next unless updated_events.size < original_size
 
-          post['event_ids'] = updated_events
+          post.event_ids = updated_events
           post.save!
           posts_updated += 1
           logger.info "Cleaned event links from #{post.id}"
