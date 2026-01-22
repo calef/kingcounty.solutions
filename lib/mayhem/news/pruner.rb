@@ -27,9 +27,10 @@ module Mayhem
         return unless post
 
         image_checksums = @images_pruner.collect_image_checksums(post)
+        post_id = post.id.to_s
         post.destroy
 
-        @images_pruner.prune(image_checksums, excluded_posts: [post]) if image_checksums.any?
+        @images_pruner.prune(image_checksums, excluded_posts: [post_id]) if image_checksums.any?
       end
 
       def prune_images(image_checksums, excluded_posts:)
