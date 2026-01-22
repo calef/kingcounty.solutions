@@ -50,10 +50,7 @@ module Mayhem
                                Mayhem::Locations::Classifier.new(
                                  client: @client
                                )
-        @images_pruner = images_pruner ||
-                         Mayhem::Images::Pruner.new(
-                           assets_dir: assets_dir
-                         )
+        @images_pruner = images_pruner || Mayhem::Images::Pruner.new
         @news_pruner = news_pruner ||
                        Mayhem::News::Pruner.new(
                          images_pruner: @images_pruner
@@ -72,7 +69,7 @@ module Mayhem
       private
 
       def process_post(post, stats)
-        record_id = post.id || post.path || 'unknown-post'
+        record_id = post.id
 
         if post.locked? == true
           logger.debug "Skipping #{record_id}: locked is true"

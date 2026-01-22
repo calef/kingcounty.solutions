@@ -68,7 +68,7 @@ module Mayhem
       private
 
       def process_record(record, cache, stats)
-        record_id = record.id || record.path || 'unknown-record'
+        record_id = record.id
 
         if record.locked? == true
           stats[:skipped_locked] += 1
@@ -130,7 +130,7 @@ module Mayhem
 
         record.image_checksums = []
         record.save!
-        record_id = record.id || record.path || 'unknown-record'
+        record_id = record.id
         logger.info "Set empty image_checksums list for #{record_id}"
         stats[:empties_added] += 1
       end

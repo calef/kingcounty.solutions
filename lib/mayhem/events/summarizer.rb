@@ -44,10 +44,7 @@ module Mayhem
                                Mayhem::Locations::Classifier.new(
                                  client: @client
                                )
-        @images_pruner = images_pruner ||
-                         Mayhem::Images::Pruner.new(
-                           assets_dir: assets_dir
-                         )
+        @images_pruner = images_pruner || Mayhem::Images::Pruner.new
         @event_pruner = event_pruner ||
                         Mayhem::Events::Pruner.new(
                           images_pruner: @images_pruner
@@ -71,7 +68,7 @@ module Mayhem
           return
         end
 
-        record_id = event.id || event.path || 'unknown-event'
+        record_id = event.id
         if event.locked? == true
           logger.debug "Skipping #{record_id}: locked is true"
           stats[:skipped_locked] += 1

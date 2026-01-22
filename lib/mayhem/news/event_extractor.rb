@@ -37,7 +37,7 @@ module Mayhem
       private
 
       def process_post(post, stats)
-        record_id = post.id || post.path || 'unknown-post'
+        record_id = post.id
 
         if post.locked? == true
           logger.debug "Skipping #{record_id}: locked is true"
@@ -259,7 +259,7 @@ module Mayhem
         )
 
         stats[:events_created] += 1
-        logger.info "Created event #{new_event.id || new_event.path}"
+        logger.info "Created event #{new_event.id}"
 
         new_event.id || event_id
       rescue StandardError => e

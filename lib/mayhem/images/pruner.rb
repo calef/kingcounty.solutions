@@ -12,9 +12,7 @@ module Mayhem
     class Pruner
       include Seldon::Loggable
 
-      def initialize(assets_dir: nil)
-        # assets_dir is deprecated and ignored; asset paths are derived from Image#image_url
-      end
+      def initialize; end
 
       def collect_image_checksums(record)
         Array(record.image_checksums).map(&:to_s).map(&:strip).reject(&:empty?)
@@ -54,15 +52,7 @@ module Mayhem
       def record_identifier(record)
         return record.to_s if record.is_a?(String)
 
-        # Try path first (works for both Models and FrontMatter::Document)
-        # then id (Models only), then fall back to object_id
-        if record.respond_to?(:path) && record.path
-          record.path.to_s
-        elsif record.respond_to?(:id) && record.id
-          record.id.to_s
-        else
-          record.object_id.to_s
-        end
+        record.id.to_s
       end
 
       def prune_images(image_checksums, remaining_refs)

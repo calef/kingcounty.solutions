@@ -290,7 +290,7 @@ module Mayhem
           front_matter,
           body: "\n#{body.strip}\n"
         )
-        new_org.id || new_org.path
+        new_org.id
       end
     end
   end

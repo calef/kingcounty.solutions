@@ -77,7 +77,7 @@ module Mayhem
         Mayhem::Models::News.all.each do |post|
           next unless post.organization_title == organization_title
 
-          record_id = post.id || post.path || 'unknown-post'
+          record_id = post.id
           logger.info "Deleting post: #{record_id}"
           @news_pruner.delete(post)
 
@@ -90,7 +90,7 @@ module Mayhem
         Mayhem::Models::Organization.all.each do |org|
           next unless org.title == organization_title
 
-          record_id = org.id || org.path || 'unknown-org'
+          record_id = org.id
           logger.info "Deleting organization file: #{record_id}"
           org.destroy
           return true

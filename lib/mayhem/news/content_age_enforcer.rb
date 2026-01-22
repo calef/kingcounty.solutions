@@ -46,7 +46,7 @@ module Mayhem
         image_checksums = old_posts.flat_map { |post| @images_pruner.collect_image_checksums(post) }.uniq
 
         old_posts.each do |post|
-          record_id = post.id || post.path || 'unknown-post'
+          record_id = post.id
           logger.info "Removing post #{record_id}"
           post.destroy
         end
