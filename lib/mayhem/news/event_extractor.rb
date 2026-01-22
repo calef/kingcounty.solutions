@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'json'
-require 'pathname'
 require 'time'
 require 'seldon'
 require_relative '../openai/chat_client'
@@ -212,7 +211,7 @@ module Mayhem
           end
         end
 
-        # Generate filename to check for duplicates
+        # Generate event_id to check for duplicates
         date_prefix = start_time.strftime('%Y-%m-%d')
         slug = Mayhem::FrontMatter::SlugGenerator.filename_slug(
           title: title,
@@ -220,13 +219,15 @@ module Mayhem
           date_prefix: date_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
-        filename = File.join(events_dir, "#{date_prefix}-#{slug}.md")
-        event_id = event_id_for_filename(filename)
+        event_id = "_events/#{date_prefix}-#{slug}.md"
 
         # Check if event already exists
-        if File.exist?(filename)
+        begin
+          Mayhem::Models::Event.find(event_id)
           stats[:duplicate_events] += 1
           return event_id
+        rescue FMRepo::NotFound
+          # Event doesn't exist, continue to create
         end
 
         # Create event frontmatter
@@ -295,15 +296,6 @@ module Mayhem
       rescue StandardError => e
         logger.warn "Failed to parse post date '#{post_date}': #{e.message}"
         Time.now
-      end
-
-      def events_dir
-        Mayhem::Models::Event.collection_dir
-      end
-
-      def event_id_for_filename(filename)
-        root = Pathname.new(events_dir).parent
-        Pathname.new(filename).relative_path_from(root).to_s
       end
     end
   end

@@ -358,7 +358,7 @@ class EventSummarizerTest < Minitest::Test
     event = Mayhem::Models::Event.find(event_id)
     stats = Hash.new(0)
     event_pruner = Minitest::Mock.new
-    event_pruner.expect(:unpublish, nil, [event])
+    event_pruner.expect(:unpublish, nil) { |doc| doc.save! }
 
     summarizer = Mayhem::Events::EventSummarizer.new(
       assets_dir: @tmp_assets,

@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'ruby/openai'
-require 'pathname'
 require 'seldon'
 require_relative '../topics/classifier'
 require_relative '../locations/classifier'
@@ -372,37 +371,9 @@ module Mayhem
       end
 
       def event_identifiers(event)
-        identifiers = []
-        identifiers << event.id.to_s if event.respond_to?(:id) && event.id
-        if event.respond_to?(:path) && event.path
-          identifiers << event.path.to_s
-          identifiers << event_id_for_path(event.path)
-        end
+        return [] unless event.respond_to?(:id) && event.id
 
-        expanded = identifiers.compact.map(&:to_s).uniq
-        additional_identifiers = []
-        expanded.each do |identifier|
-          next if identifier.empty?
-
-          if identifier.end_with?('.md') && !identifier.include?('/')
-            additional_identifiers << File.join('_events', identifier)
-          elsif !identifier.include?('/')
-            additional_identifiers << File.join('_events', "#{identifier}.md")
-          end
-
-          begin
-            additional_identifiers << event_id_for_path(identifier)
-          rescue StandardError
-            nil
-          end
-        end
-
-        (expanded + additional_identifiers).compact.map(&:to_s).uniq
-      end
-
-      def event_id_for_path(path)
-        root = Pathname.new(events_dir).parent
-        Pathname.new(path).relative_path_from(root).to_s
+        [event.id.to_s]
       end
     end
   end
