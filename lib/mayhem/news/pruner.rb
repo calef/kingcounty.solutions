@@ -17,10 +17,11 @@ module Mayhem
       def unpublish(post)
         post.published = false
         image_checksums = @images_pruner.collect_image_checksums(post)
+        post_id = post.id.to_s
         post.image_checksums = []
         post.save!
 
-        @images_pruner.prune(image_checksums, excluded_posts: [post]) if image_checksums.any?
+        @images_pruner.prune(image_checksums, excluded_post_ids: [post_id]) if image_checksums.any?
       end
 
       def delete(post)
@@ -30,11 +31,11 @@ module Mayhem
         post_id = post.id.to_s
         post.destroy
 
-        @images_pruner.prune(image_checksums, excluded_posts: [post_id]) if image_checksums.any?
+        @images_pruner.prune(image_checksums, excluded_post_ids: [post_id]) if image_checksums.any?
       end
 
-      def prune_images(image_checksums, excluded_posts:)
-        @images_pruner.prune(image_checksums, excluded_posts: excluded_posts)
+      def prune_images(image_checksums, excluded_post_ids:)
+        @images_pruner.prune(image_checksums, excluded_post_ids: excluded_post_ids)
       end
     end
   end

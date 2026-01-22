@@ -54,7 +54,7 @@ module Mayhem
         # Posts are already deleted, so no exclusions needed
         removed_image_checksums = @news_pruner.prune_images(
           image_checksums,
-          excluded_posts: []
+          excluded_post_ids: []
         )
 
         # Clean up events generated from removed posts
