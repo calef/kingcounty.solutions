@@ -108,24 +108,11 @@ module Mayhem
       end
 
       def unpublish_post(record)
-        image_checksums = @images_pruner.collect_image_checksums(record)
-        record.published = false
-        record.image_checksums = []
-        record.save!
-
-        return if image_checksums.empty?
-
-        @news_pruner.prune_images(image_checksums, excluded_posts: [record])
+        @news_pruner.unpublish(record)
       end
 
       def delete_event(record)
-        image_checksums = @images_pruner.collect_image_checksums(record)
-        event_id = record.id.to_s
         @events_pruner.delete(record)
-
-        return if image_checksums.empty?
-
-        @events_pruner.prune_images(image_checksums, excluded_events: [event_id])
       end
 
       def record_label(record)
