@@ -8,21 +8,13 @@ require_relative '../../../lib/mayhem/news/summarizer'
 class PostSummarizerTest < Minitest::Test
   def setup
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
-    @tmp_posts = Mayhem::Models::News.collection_dir
     @tmp_topics = Dir.mktmpdir('topics')
-    @tmp_images = Dir.mktmpdir('images')
-    @tmp_assets_root = Dir.mktmpdir('assets')
-    @tmp_assets = File.join(@tmp_assets_root, 'images')
-    FileUtils.mkdir_p(@tmp_assets)
     @logger = Seldon::Logging.build_logger(env_var: 'LOG_LEVEL')
-    FileUtils.mkdir_p(@tmp_posts)
   end
 
   def teardown
     @news_repo_override.cleanup if @news_repo_override
     FileUtils.remove_entry(@tmp_topics)
-    FileUtils.remove_entry(@tmp_images)
-    FileUtils.remove_entry(@tmp_assets_root)
   end
 
   def build_summarizer(**overrides)
@@ -36,7 +28,6 @@ class PostSummarizerTest < Minitest::Test
                           end.new
 
     Mayhem::News::PostSummarizer.new(
-      assets_dir: @tmp_assets,
       topic_classifier: topic_classifier,
       location_classifier: location_classifier,
       **overrides

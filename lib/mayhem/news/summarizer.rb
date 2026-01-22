@@ -18,7 +18,6 @@ module Mayhem
       include Seldon::Loggable
       include Mayhem::SummarizerHelpers
 
-      IMAGE_ASSETS_DIR = File.join('assets', 'images')
       MAX_ARTICLE_CHARS = 20_000
       MIN_SCRAPED_LENGTH = 400
       BOILERPLATE_PATTERNS = [
@@ -32,7 +31,6 @@ module Mayhem
       DEFAULT_TOPIC_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', DEFAULT_MODEL)
 
       def initialize(
-        assets_dir: IMAGE_ASSETS_DIR,
         client: nil,
         http_client: nil,
         topic_classifier: nil,

@@ -74,24 +74,12 @@ class EventSummarizerTest < Minitest::Test
   def setup
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
     @event_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :events)
-    @tmp_events = Mayhem::Models::Event.collection_dir
-    @tmp_posts = Mayhem::Models::News.collection_dir
-    @tmp_topics = Dir.mktmpdir('topics')
-    @tmp_images = Dir.mktmpdir('images')
-    @tmp_assets_root = Dir.mktmpdir('assets')
-    @tmp_assets = File.join(@tmp_assets_root, 'images')
-    FileUtils.mkdir_p(@tmp_assets)
     @logger = FakeLogger.new
-    FileUtils.mkdir_p(@tmp_posts)
-    FileUtils.mkdir_p(@tmp_events)
     Seldon::Logging.logger = @logger
   end
 
   def teardown
     Seldon::Logging.reset_logger
-    FileUtils.remove_entry(@tmp_topics)
-    FileUtils.remove_entry(@tmp_images)
-    FileUtils.remove_entry(@tmp_assets_root)
     @news_repo_override.cleanup if @news_repo_override
     @event_repo_override.cleanup if @event_repo_override
   end
@@ -112,7 +100,6 @@ class EventSummarizerTest < Minitest::Test
     topic_classifier = FakeTopicClassifier.new(topics: topics)
     location_classifier = FakeLocationClassifier.new(location_titles: location_titles)
     Mayhem::Events::EventSummarizer.new(
-      assets_dir: @tmp_assets,
       client: client,
       model: 'test-model',
       http_client: http,
@@ -304,7 +291,6 @@ class EventSummarizerTest < Minitest::Test
     end
 
     summarizer = Mayhem::Events::EventSummarizer.new(
-      assets_dir: @tmp_assets,
       client: FakeChatClient.new(response: {}),
       http_client: FakeHttpClient.new(response: { body: '<html></html>', content_type: 'text/html' }),
       topic_classifier: topic_classifier,
@@ -361,7 +347,6 @@ class EventSummarizerTest < Minitest::Test
     event_pruner.expect(:unpublish, nil) { |doc| doc.save! }
 
     summarizer = Mayhem::Events::EventSummarizer.new(
-      assets_dir: @tmp_assets,
       client: FakeChatClient.new(response: {}),
       http_client: FakeHttpClient.new(response: { body: '<html></html>', content_type: 'text/html' }),
       topic_classifier: FakeTopicClassifier.new(topics: []),

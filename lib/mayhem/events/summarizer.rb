@@ -18,12 +18,10 @@ module Mayhem
       include Seldon::Loggable
       include Mayhem::SummarizerHelpers
 
-      IMAGE_ASSETS_DIR = File.join('assets', 'images')
       MAX_ARTICLE_CHARS = 20_000
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
 
       def initialize(
-        assets_dir: IMAGE_ASSETS_DIR,
         client: nil,
         model: DEFAULT_MODEL,
         http_client: nil,

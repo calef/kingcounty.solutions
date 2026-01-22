@@ -12,8 +12,6 @@ module Mayhem
     class Pruner
       include Seldon::Loggable
 
-      def initialize; end
-
       def collect_image_checksums(record)
         Array(record.image_checksums).map(&:to_s).map(&:strip).reject(&:empty?)
       end
