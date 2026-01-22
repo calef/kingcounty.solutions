@@ -36,7 +36,7 @@ module Mayhem
         allowed_titles = catalog.map(&:title)
         catalog_lines = catalog.map do |topic|
           summary = topic.body
-          "- #{topic['title']}: #{summary&.empty? ? 'No summary provided.' : summary}"
+          "- #{topic.title}: #{summary&.empty? ? 'No summary provided.' : summary}"
         end
 
         prompt = <<~PROMPT
