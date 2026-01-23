@@ -285,7 +285,7 @@ module Mayhem
 
       include UrlHelpers
 
-      def initialize(http_client = HttpClient.new)
+      def initialize(http_client = HttpClient.new(cookie_jar: Seldon::Support::CookieJar.new))
         @http = http_client
       end
 

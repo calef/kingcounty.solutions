@@ -22,7 +22,9 @@ module Mayhem
       include Seldon::Loggable
 
       def initialize(http_client: nil)
-        @http = http_client || Seldon::Support::HttpClient.new
+        @http = http_client || Seldon::Support::HttpClient.new(
+          cookie_jar: Seldon::Support::CookieJar.new
+        )
       end
 
       def find(website_url)

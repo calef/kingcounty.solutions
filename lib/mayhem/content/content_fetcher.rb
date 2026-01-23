@@ -16,7 +16,9 @@ module Mayhem
         selectors: ArticleBodySelectors::SELECTORS,
         accept: Mayhem::FeedDiscovery::ACCEPT_HTML
       )
-        @http_client = http_client || Seldon::Support::HttpClient.new
+        @http_client = http_client || Seldon::Support::HttpClient.new(
+          cookie_jar: Seldon::Support::CookieJar.new
+        )
         @selectors = selectors
         @accept = accept
       end

@@ -30,7 +30,9 @@ module Mayhem
         workers: DEFAULT_MAX_WORKERS,
         time_source: -> { Time.now }
       )
-        @http_client = http_client || Seldon::Support::HttpClient.new
+        @http_client = http_client || Seldon::Support::HttpClient.new(
+          cookie_jar: Seldon::Support::CookieJar.new
+        )
         @content_fetcher = Mayhem::Content::ContentFetcher.new(http_client: @http_client)
         @time_source = time_source
         @workers = [workers, 1].max
@@ -350,7 +352,9 @@ module Mayhem
       def initialize(
         http_client: nil
       )
-        @http_client = http_client || Seldon::Support::HttpClient.new
+        @http_client = http_client || Seldon::Support::HttpClient.new(
+          cookie_jar: Seldon::Support::CookieJar.new
+        )
       end
 
       def run

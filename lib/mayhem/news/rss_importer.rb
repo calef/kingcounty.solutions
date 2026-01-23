@@ -70,7 +70,8 @@ module Mayhem
         @http = http_client || Seldon::Support::HttpClient.new(
           open_timeout: @open_timeout,
           read_timeout: @read_timeout,
-          max_retries: @fetch_retries
+          max_retries: @fetch_retries,
+          cookie_jar: Seldon::Support::CookieJar.new
         )
         @content_fetcher = Mayhem::Content::ContentFetcher.new(
           http_client: @http,

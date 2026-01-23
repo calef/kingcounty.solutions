@@ -34,7 +34,10 @@ module Mayhem
         @topic_repo = topic_repo
         @topic_model = topic_model
         @client = client
-        @http = http_client || Seldon::Support::HttpClient.new(timeout: READ_TIMEOUT)
+        @http = http_client || Seldon::Support::HttpClient.new(
+          timeout: READ_TIMEOUT,
+          cookie_jar: Seldon::Support::CookieJar.new
+        )
         @feed_finder = feed_finder || default_feed_finder
         @sitemap_finder = sitemap_finder || default_sitemap_finder
       end
