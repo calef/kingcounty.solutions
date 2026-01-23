@@ -1,6 +1,5 @@
 ---
 acronym: USA
-news_rss_url: https://blog.usa.gov/rss.xml
 title: United States Federal Government
 topic_titles: []
 type: Country
