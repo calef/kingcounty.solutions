@@ -48,7 +48,10 @@ module Mayhem
         @open_timeout = open_timeout
         @read_timeout = read_timeout
         @min_dimension = min_dimension
-        @http = http_client || Seldon::Support::HttpClient.new(timeout: @read_timeout)
+        @http = http_client || Seldon::Support::HttpClient.new(
+          timeout: @read_timeout,
+          cookie_jar: Seldon::Support::CookieJar.new
+        )
 
         @validator = Mayhem::ImageFiles::Validator.new(min_dimension: @min_dimension)
         @converter = Mayhem::ImageFiles::Converter.new

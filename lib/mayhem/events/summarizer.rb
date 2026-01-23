@@ -33,7 +33,9 @@ module Mayhem
         @posts_dir = Mayhem::Models::News.collection_dir
         @model = model
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-        @http = http_client || Seldon::Support::HttpClient.new
+        @http = http_client || Seldon::Support::HttpClient.new(
+          cookie_jar: Seldon::Support::CookieJar.new
+        )
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
                               client: @client

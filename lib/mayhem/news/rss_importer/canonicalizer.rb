@@ -16,7 +16,9 @@ module Mayhem
         ].freeze
 
         def initialize(http_client: nil)
-          @http = http_client || Seldon::Support::HttpClient.new
+          @http = http_client || Seldon::Support::HttpClient.new(
+            cookie_jar: Seldon::Support::CookieJar.new
+          )
         end
 
         def canonical_link(link_url, html_canonical: nil)
