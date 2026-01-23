@@ -17,10 +17,11 @@ module Mayhem
       def unpublish(document)
         document.published = false
         image_checksums = @images_pruner.collect_image_checksums(document)
+        document_id = document.id.to_s
         document.image_checksums = []
         document.save!
 
-        @images_pruner.prune(image_checksums, excluded_events: [document]) if image_checksums.any?
+        @images_pruner.prune(image_checksums, excluded_event_ids: [document_id]) if image_checksums.any?
       end
 
       def delete(event)
@@ -30,12 +31,12 @@ module Mayhem
         event_id = event.id.to_s
         event.destroy
 
-        @images_pruner.prune(image_checksums, excluded_events: [event]) if image_checksums.any?
+        @images_pruner.prune(image_checksums, excluded_event_ids: [event_id]) if image_checksums.any?
         prune_event_links([event_id])
       end
 
-      def prune_images(image_checksums, excluded_events:)
-        @images_pruner.prune(image_checksums, excluded_events: excluded_events)
+      def prune_images(image_checksums, excluded_event_ids:)
+        @images_pruner.prune(image_checksums, excluded_event_ids: excluded_event_ids)
       end
 
       private
