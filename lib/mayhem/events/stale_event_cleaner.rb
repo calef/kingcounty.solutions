@@ -86,15 +86,14 @@ module Mayhem
         post = event.news
         return unless post
 
-        event_ids = Array(post.event_ids)
-        event_path = event.path.to_s
-        event_identifiers = [event.id, event_path].map(&:to_s)
+        event_ids = post.event_ids
+        event_identifier = event.id.to_s
         updated_events = event_ids.reject do |existing_id|
-          event_identifiers.include?(existing_id.to_s)
+          existing_id.to_s == event_identifier
         end
         return unless updated_events.size < event_ids.size
 
-        post['event_ids'] = updated_events
+        post.event_ids = updated_events
         post.save!
         logger.info "Cleaned event links from #{post.id}"
       end

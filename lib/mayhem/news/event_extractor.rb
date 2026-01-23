@@ -1,17 +1,13 @@
 # frozen_string_literal: true
 
 require 'json'
-require 'pathname'
 require 'time'
 require 'seldon'
 require_relative '../openai/chat_client'
-require_relative '../front_matter/document'
 require_relative '../front_matter/slug_generator'
 require_relative '../content/html_normalizer'
 require_relative '../models/event'
 require_relative '../models/news'
-
-# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module News
@@ -25,15 +21,14 @@ module Mayhem
         model: DEFAULT_MODEL,
         chat_client: nil
       )
-        @posts_dir = Mayhem::Models::News.collection_dir
         @model = model
         @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new
       end
 
       def run
         stats = Hash.new(0)
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |file_path|
-          process_post(file_path, stats)
+        Mayhem::Models::News.all.each do |post|
+          process_post(post, stats)
         end
         log_summary(stats)
         stats
@@ -41,43 +36,38 @@ module Mayhem
 
       private
 
-      def process_post(file_path, stats)
-        document = Mayhem::FrontMatter::Document.load(file_path)
-        unless document
-          stats[:skipped_no_frontmatter] += 1
-          return
-        end
+      def process_post(post, stats)
+        record_id = post.id
 
-        front_matter = document.front_matter
-        if front_matter['locked'] == true
-          logger.debug "Skipping #{file_path}: locked is true"
+        if post.locked? == true
+          logger.debug "Skipping #{record_id}: locked is true"
           stats[:skipped_locked] += 1
           return
         end
-        if front_matter['published'] == false
-          logger.debug "Skipping #{file_path}: published is false"
+        unless post.published?
+          logger.debug "Skipping #{record_id}: published is false"
           stats[:skipped_unpublished] += 1
           return
         end
 
         # Skip if already processed
-        if front_matter['events_extracted'] == true
+        if post.events_extracted?
           stats[:skipped_already_extracted] += 1
           return
         end
 
-        unless front_matter['summarized'] == true
-          logger.debug "Skipping #{file_path}: summarized is not true"
+        unless post.summarized? == true
+          logger.debug "Skipping #{record_id}: summarized is not true"
           stats[:skipped_unsummarized] += 1
           return
         end
 
         # Get post content for analysis
-        post_content = document.body || ''
-        post_title = front_matter['title'] || ''
-        post_date = front_matter['date']
-        organization_title = front_matter['organization_title']
-        source_url = front_matter['source_url']
+        post_content = post.body || ''
+        post_title = post.title || ''
+        post_date = post.date
+        organization_title = post.organization_title
+        source_url = post.source_url
         reference_time = reference_time_from(post_date)
 
         if post_content.strip.empty? && post_title.strip.empty?
@@ -94,10 +84,9 @@ module Mayhem
 
         if events.empty?
           # Mark as extracted even if no events found
-          front_matter['events_extracted'] = true
-          front_matter['event_ids'] = []
-          document.front_matter = front_matter
-          document.save
+          post.events_extracted = true
+          post.event_ids = []
+          post.save!
           stats[:no_events_found] += 1
           return
         end
@@ -110,28 +99,27 @@ module Mayhem
             organization_title,
             source_url,
             stats,
-            front_matter['topic_titles'],
-            front_matter['location_titles'],
+            post.topic_titles,
+            post.location_titles,
             reference_time
           )
           event_ids << event_id if event_id
         end
 
         # Update post with event links
-        front_matter['events_extracted'] = true
-        front_matter['event_ids'] = event_ids
-        document.front_matter = front_matter
-        document.save
+        post.events_extracted = true
+        post.event_ids = event_ids
+        post.save!
 
         if event_ids.empty?
           stats[:no_events_found] += 1
         else
           stats[:posts_with_events] += 1
-          logger.info "Extracted #{event_ids.size} event(s) from #{file_path}"
+          logger.info "Extracted #{event_ids.size} event(s) from #{record_id}"
         end
       rescue StandardError => e
         stats[:errors] += 1
-        logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
+        logger.error "Error processing #{record_id}: #{e.class} - #{e.message}"
       end
 
       def extract_events(title, content, post_date, organization_title, source_url)
@@ -223,7 +211,7 @@ module Mayhem
           end
         end
 
-        # Generate filename
+        # Generate event_id to check for duplicates
         date_prefix = start_time.strftime('%Y-%m-%d')
         slug = Mayhem::FrontMatter::SlugGenerator.filename_slug(
           title: title,
@@ -231,13 +219,15 @@ module Mayhem
           date_prefix: date_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
-        filename = File.join(events_dir, "#{date_prefix}-#{slug}.md")
-        event_id = event_id_for_filename(filename)
+        event_id = "_events/#{date_prefix}-#{slug}.md"
 
         # Check if event already exists
-        if File.exist?(filename)
+        begin
+          Mayhem::Models::Event.find(event_id)
           stats[:duplicate_events] += 1
           return event_id
+        rescue FMRepo::NotFound
+          # Event doesn't exist, continue to create
         end
 
         # Create event frontmatter
@@ -261,19 +251,17 @@ module Mayhem
           front_matter['feed_content_checksum'] = Mayhem::Content::HtmlNormalizer.checksum(normalized_description)
         end
 
-        # Create event document
-        body = "\n#{description}\n"
-        document = Mayhem::FrontMatter::Document.new(
-          path: filename,
-          front_matter: front_matter,
-          body: body
+        # Create event using Models
+        body_content = "\n#{description}\n"
+        new_event = Mayhem::Models::Event.create!(
+          front_matter,
+          body: body_content
         )
-        document.save
 
         stats[:events_created] += 1
-        logger.info "Created event #{filename}"
+        logger.info "Created event #{new_event.id}"
 
-        event_id
+        new_event.id || event_id
       rescue StandardError => e
         logger.error "Failed to create event: #{e.message}"
         stats[:event_creation_failed] += 1
@@ -286,7 +274,6 @@ module Mayhem
           events_created: stats[:events_created],
           no_events_found: stats[:no_events_found],
           past_events_skipped: stats[:past_events_skipped],
-          skipped_no_frontmatter: stats[:skipped_no_frontmatter],
           skipped_unpublished: stats[:skipped_unpublished],
           skipped_unsummarized: stats[:skipped_unsummarized],
           skipped_locked: stats[:skipped_locked],
@@ -309,15 +296,6 @@ module Mayhem
       rescue StandardError => e
         logger.warn "Failed to parse post date '#{post_date}': #{e.message}"
         Time.now
-      end
-
-      def events_dir
-        Mayhem::Models::Event.collection_dir
-      end
-
-      def event_id_for_filename(filename)
-        root = Pathname.new(events_dir).parent
-        Pathname.new(filename).relative_path_from(root).to_s
       end
     end
   end

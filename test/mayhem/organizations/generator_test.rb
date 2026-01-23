@@ -8,6 +8,8 @@ require 'seldon'
 require 'tmpdir'
 require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/organizations/generator'
+require_relative '../../../lib/mayhem/models/organization'
+require_relative '../../../lib/mayhem/models/topic'
 
 class OrganizationsGeneratorTest < Minitest::Test
   class FakeLogger
@@ -80,11 +82,9 @@ class OrganizationsGeneratorTest < Minitest::Test
     FileUtils.remove_entry(@topic_dir)
   end
 
-  def write_doc(dir, name, front_matter)
-    path = File.join(dir, name)
-    FileUtils.mkdir_p(dir)
-    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, 'body'))
-    path
+  def write_org(front_matter)
+    org = Mayhem::Models::Organization.create!(front_matter, body: 'body')
+    org.id
   end
 
   def create_topic(title)
@@ -97,23 +97,14 @@ class OrganizationsGeneratorTest < Minitest::Test
   end
 
   def test_load_existing_websites_and_types
-    write_doc(@org_dir, 'org-one.md', { 'website_url' => 'https://example.com', 'type' => 'Nonprofit' })
-    write_doc(@org_dir, 'org-two.md', { 'website_url' => 'https://example.com/', 'type' => 'Nonprofit' })
+    write_org({ 'title' => 'Org One', 'website_url' => 'https://example.com', 'type' => 'Nonprofit' })
+    write_org({ 'title' => 'Org Two', 'website_url' => 'https://example.com/', 'type' => 'Nonprofit' })
 
     sites = @generator.send(:load_existing_websites)
     types = @generator.send(:load_existing_types)
 
     assert_includes sites, 'https://example.com'
     assert_includes types, 'Nonprofit'
-  end
-
-  def test_slugify_and_ensure_unique_slug
-    FileUtils.mkdir_p(@org_dir)
-    File.write(File.join(@org_dir, 'example.md'), '')
-    slug = @generator.send(:slugify, 'Example')
-    assert_equal 'example', slug
-    unique = @generator.send(:ensure_unique_slug, 'example')
-    assert_equal 'example-1', unique
   end
 
   def test_build_prompt_includes_topics_and_types
@@ -200,13 +191,13 @@ class OrganizationsGeneratorTest < Minitest::Test
 
     generator.run('https://example.com')
 
-    files = Dir.glob(File.join(@org_dir, '*.md'))
-    assert_equal 1, files.size
-    fm = Mayhem::FrontMatter::Document.load(files.first).front_matter
-    assert_equal 'https://feed', fm['news_rss_url']
-    assert_equal ['Health'], fm['topic_titles']
-    assert_equal 'https://calendar', fm['events_ical_url']
-    assert_equal ['https://example.com/sitemap.xml'], fm['website_xml_sitemap_urls']
+    orgs = Mayhem::Models::Organization.all.to_a
+    assert_equal 1, orgs.size
+    org = orgs.first
+    assert_equal 'https://feed', org.news_rss_url
+    assert_equal ['Health'], org.topic_titles
+    assert_equal 'https://calendar', org.events_ical_url
+    assert_equal ['https://example.com/sitemap.xml'], org.website_xml_sitemap_urls
   end
 
   def test_run_records_multiple_sitemaps
@@ -233,13 +224,13 @@ class OrganizationsGeneratorTest < Minitest::Test
 
     generator.run('https://example.com')
 
-    files = Dir.glob(File.join(@org_dir, '*.md'))
-    assert_equal 1, files.size
-    fm = Mayhem::FrontMatter::Document.load(files.first).front_matter
+    orgs = Mayhem::Models::Organization.all.to_a
+    assert_equal 1, orgs.size
+    org = orgs.first
     assert_equal [
       'https://example.com/sitemap.xml',
       'https://example.com/sitemap-index.xml'
-    ], fm['website_xml_sitemap_urls']
+    ], org.website_xml_sitemap_urls
   end
 
   def test_run_omits_sitemap_when_missing
@@ -262,14 +253,14 @@ class OrganizationsGeneratorTest < Minitest::Test
 
     generator.run('https://example.com')
 
-    files = Dir.glob(File.join(@org_dir, '*.md'))
-    assert_equal 1, files.size
-    fm = Mayhem::FrontMatter::Document.load(files.first).front_matter
-    refute fm.key?('website_xml_sitemap_urls')
+    orgs = Mayhem::Models::Organization.all.to_a
+    assert_equal 1, orgs.size
+    org = orgs.first
+    assert_empty org.website_xml_sitemap_urls
   end
 
   def test_run_skips_existing_website
-    write_doc(@org_dir, 'existing.md', { 'website_url' => 'https://example.com' })
+    write_org({ 'title' => 'Existing', 'website_url' => 'https://example.com' })
     generator = Mayhem::Organizations::Generator.new(
       topic_repo: @topic_repo,
       feed_finder: @feed_finder,
@@ -281,7 +272,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     generator.run('https://example.com/')
 
     assert_includes @logger.infos.last, 'already exists'
-    assert_equal 1, Dir.glob(File.join(@org_dir, '*.md')).size
+    assert_equal 1, Mayhem::Models::Organization.all.to_a.size
   end
 
   def stub_pages(generator)

@@ -195,7 +195,7 @@ module Mayhem
         return if additions.empty? && removals.empty?
 
         updated_topics = (Array(org.topic_titles) - removals + additions).uniq.sort
-        org['topic_titles'] = updated_topics
+        org.topic_titles = updated_topics
         org.save!
         logger.info "Updated #{org.id} topic_titles: #{updated_topics.join(', ')}"
       end

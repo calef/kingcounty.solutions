@@ -32,57 +32,70 @@ class StaleEventCleanerTest < Minitest::Test
 
     @cleaner.run
 
-    refute_path_exists old_event
-    assert_path_exists ended_yesterday
-    assert_path_exists early_today
-    assert_path_exists in_progress
-    assert_path_exists ends_today
-    assert_path_exists future_event
-    assert_path_exists spanning_event
+    refute_event_exists old_event
+    assert_event_exists ended_yesterday
+    assert_event_exists early_today
+    assert_event_exists in_progress
+    assert_event_exists ends_today
+    assert_event_exists future_event
+    assert_event_exists spanning_event
   end
 
   def test_skips_events_with_missing_start_date
     event = Mayhem::Models::Event.create!({ 'title' => 'missing-date' }, body: '')
-    event_path = event.path.to_s
 
     @cleaner.run
 
-    assert_path_exists event_path
+    assert_event_exists event.id
   end
 
   def test_removes_event_links_from_posts
     old_source = 'https://example.com/old'
     future_source = 'https://example.com/future'
-    old_event_path = write_event('old-event', '2025-12-03T10:00:00-08:00', source_url: old_source)
-    future_event_path = write_event('future-event', '2025-12-06T10:00:00-08:00', source_url: future_source)
+    old_event_id = write_event('old-event', '2025-12-03T10:00:00-08:00', source_url: old_source)
+    future_event_id = write_event('future-event', '2025-12-06T10:00:00-08:00', source_url: future_source)
 
     # Create posts that link to events - use actual event IDs
-    post1 = write_post('post1', [old_event_path, future_event_path], source_url: old_source)
-    post2 = write_post('post2', [future_event_path], source_url: future_source)
+    post1 = write_post('post1', [old_event_id, future_event_id], source_url: old_source)
+    post2 = write_post('post2', [future_event_id], source_url: future_source)
 
     @cleaner.run
 
     # Verify old event removed
-    refute_path_exists old_event_path
-    assert_path_exists future_event_path
+    refute_event_exists old_event_id
+    assert_event_exists future_event_id
 
     # Verify post1 only has future event link
     post1_doc = Mayhem::Models::News.find(post1.id)
-    assert_equal [future_event_path], post1_doc.event_ids
+    assert_equal [future_event_id], post1_doc.event_ids
 
     # Verify post2 still has its event link
     post2_doc = Mayhem::Models::News.find(post2.id)
-    assert_equal [future_event_path], post2_doc.event_ids
+    assert_equal [future_event_id], post2_doc.event_ids
   end
 
   private
+
+  def assert_event_exists(event_id)
+    event = Mayhem::Models::Event.find(event_id)
+    assert event, "Expected event '#{event_id}' to exist"
+  rescue FMRepo::NotFound
+    flunk "Expected event '#{event_id}' to exist"
+  end
+
+  def refute_event_exists(event_id)
+    Mayhem::Models::Event.find(event_id)
+    flunk "Expected event '#{event_id}' to not exist"
+  rescue FMRepo::NotFound
+    pass
+  end
 
   def write_event(name, start_date, end_date = nil, source_url: nil)
     front_matter = { 'title' => name, 'start_date' => start_date }
     front_matter['end_date'] = end_date if end_date
     front_matter['source_url'] = source_url if source_url
     event = Mayhem::Models::Event.create!(front_matter, body: '')
-    event.path.to_s
+    event.id
   end
 
   def write_post(name, event_ids, source_url: nil)

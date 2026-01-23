@@ -12,10 +12,7 @@ module Mayhem
     class SourceUrlChecker
       include Seldon::Loggable
 
-      IMAGE_ASSETS_DIR = File.join('assets', 'images')
-
       def initialize(
-        assets_dir: IMAGE_ASSETS_DIR,
         http_client: nil,
         http_status_resolver: nil,
         news_pruner: nil,
@@ -31,10 +28,7 @@ module Mayhem
           user_agent: @user_agent,
           http_client: http_client
         )
-        @images_pruner = images_pruner ||
-                         Mayhem::Images::Pruner.new(
-                           assets_dir: assets_dir
-                         )
+        @images_pruner = images_pruner || Mayhem::Images::Pruner.new
         @news_pruner = news_pruner ||
                        Mayhem::News::Pruner.new(
                          images_pruner: @images_pruner
@@ -44,7 +38,6 @@ module Mayhem
                            images_pruner: @images_pruner
                          )
         @news_model = news_model
-        @posts_dir = @news_model.collection_dir
         @events_model = events_model
         @workers = [workers, 1].max
         @pruner_mutex = Mutex.new
@@ -115,36 +108,11 @@ module Mayhem
       end
 
       def unpublish_post(record)
-        image_checksums = @news_pruner.collect_image_checksums('image_checksums' => record.image_checksums)
-        record['published'] = false
-        record['image_checksums'] = []
-        record.save!
-
-        return if image_checksums.empty?
-
-        excluded_path = record_path(record, base_dir: @posts_dir)
-        excluded_paths = excluded_path.to_s.empty? ? Set.new : Set[excluded_path]
-        @news_pruner.prune_images(image_checksums, excluded_paths: excluded_paths)
+        @news_pruner.unpublish(record)
       end
 
       def delete_event(record)
-        path = record_path(record, base_dir: @events_dir)
-        image_checksums = @events_pruner.collect_image_checksums('image_checksums' => record.image_checksums)
-        @events_pruner.delete(path)
-
-        return if image_checksums.empty?
-
-        excluded_paths = path.to_s.empty? ? Set.new : Set[path]
-        @events_pruner.prune_images(image_checksums, excluded_paths: excluded_paths)
-      end
-
-      def record_path(record, base_dir:)
-        path = record.path.to_s if record.respond_to?(:path) && record.path
-        path = record.id.to_s if path.to_s.empty? && record.respond_to?(:id)
-        return '' if path.to_s.empty?
-
-        root = base_dir ? File.expand_path('..', base_dir.to_s) : Dir.pwd
-        File.absolute_path(path, root)
+        @events_pruner.delete(record)
       end
 
       def record_label(record)

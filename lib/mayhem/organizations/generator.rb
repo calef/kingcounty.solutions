@@ -9,11 +9,8 @@ require 'seldon'
 require 'uri'
 require_relative '../models/organization'
 require_relative '../models/topic'
-require_relative '../front_matter/document'
 require_relative '../feed/discovery'
 require_relative '../sitemap/discovery'
-
-# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module Organizations
@@ -78,7 +75,6 @@ module Mayhem
         data = parse_response(content) || {}
 
         title = data.fetch('title', URI(website_url).host)
-        slug = ensure_unique_slug(slugify(title))
         front_matter = build_front_matter(data, types: types)
         if feed_result
           front_matter['news_rss_url'] ||= feed_result.rss_url
@@ -91,8 +87,8 @@ module Mayhem
         front_matter['website_url'] = website_url
 
         body = body_from_data(data)
-        path = write_organization_file(slug, front_matter, body)
-        logger.info "Created #{path}"
+        record_id = write_organization_file(front_matter, body)
+        logger.info "Created #{record_id}"
       end
 
       private
@@ -120,11 +116,8 @@ module Mayhem
       end
 
       def load_existing_websites
-        Dir.glob(File.join(org_dir, '*.md')).each_with_object(Set.new) do |path, set|
-          doc = Mayhem::FrontMatter::Document.load(path)
-          next unless doc
-
-          website_url = doc.front_matter['website_url']
+        Mayhem::Models::Organization.all.each_with_object(Set.new) do |org, set|
+          website_url = org.website_url
           next unless website_url
 
           set << normalize_url(website_url)
@@ -132,11 +125,8 @@ module Mayhem
       end
 
       def load_existing_types
-        Dir.glob(File.join(org_dir, '*.md')).each_with_object(Set.new) do |path, set|
-          doc = Mayhem::FrontMatter::Document.load(path)
-          next unless doc
-
-          type = doc.front_matter['type']
+        Mayhem::Models::Organization.all.each_with_object(Set.new) do |org, set|
+          type = org.type
           set << type if type
         end
       end
@@ -231,23 +221,6 @@ module Mayhem
         nil
       end
 
-      def slugify(title)
-        # FMRepo.slugify handles empty strings by returning 'untitled'
-        # This replaces the old behavior where we returned 'organization' for empty titles.
-        # In practice, the title is never empty because it falls back to the website host.
-        FMRepo.slugify(title)
-      end
-
-      def ensure_unique_slug(base)
-        slug = base
-        idx = 1
-        while File.exist?(File.join(org_dir, "#{slug}.md"))
-          slug = "#{base}-#{idx}"
-          idx += 1
-        end
-        slug
-      end
-
       def build_front_matter(data, types:)
         front_matter = {}
         %w[acronym news_rss_url events_ical_url parent_organization_title phone email address topic_titles
@@ -312,20 +285,12 @@ module Mayhem
         word_limited.empty? ? 'Description forthcoming.' : word_limited
       end
 
-      def write_organization_file(slug, front_matter, body)
-        FileUtils.mkdir_p(org_dir)
-        path = File.join(org_dir, "#{slug}.md")
-        document = Mayhem::FrontMatter::Document.new(
-          path: path,
-          front_matter: front_matter,
+      def write_organization_file(front_matter, body)
+        new_org = Mayhem::Models::Organization.create!(
+          front_matter,
           body: "\n#{body.strip}\n"
         )
-        document.save
-        path
-      end
-
-      def org_dir
-        @org_dir ||= Mayhem::Models::Organization.collection_dir
+        new_org.id
       end
     end
   end

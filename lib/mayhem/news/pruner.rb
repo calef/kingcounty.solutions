@@ -1,13 +1,9 @@
 # frozen_string_literal: true
 
-require 'fileutils'
 require 'seldon'
 
-require_relative '../front_matter/document'
 require_relative '../images/pruner'
 require_relative '../models/news'
-
-# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module News
@@ -15,43 +11,31 @@ module Mayhem
       include Seldon::Loggable
 
       def initialize(images_pruner:)
-        @posts_dir = Mayhem::Models::News.collection_dir
         @images_pruner = images_pruner
       end
 
-      def unpublish(path, document)
-        front_matter = document.front_matter
+      def unpublish(post)
+        post.published = false
+        image_checksums = @images_pruner.collect_image_checksums(post)
+        post_id = post.id.to_s
+        post.image_checksums = []
+        post.save!
 
-        front_matter['published'] = false
-        image_checksums = @images_pruner.collect_image_checksums(front_matter)
-        front_matter['image_checksums'] = []
-
-        document.front_matter = front_matter
-        document.save
-
-        @images_pruner.prune(image_checksums, excluded_paths: Set[path]) if image_checksums.any?
+        @images_pruner.prune(image_checksums, excluded_post_ids: [post_id]) if image_checksums.any?
       end
 
-      def delete(path, document)
-        image_checksums = @images_pruner.collect_image_checksums(document.front_matter)
-        delete_file(path)
-        @images_pruner.prune(image_checksums, excluded_paths: Set[path]) if image_checksums.any?
+      def delete(post)
+        return unless post
+
+        image_checksums = @images_pruner.collect_image_checksums(post)
+        post_id = post.id.to_s
+        post.destroy
+
+        @images_pruner.prune(image_checksums, excluded_post_ids: [post_id]) if image_checksums.any?
       end
 
-      def prune_images(image_checksums, excluded_paths:)
-        @images_pruner.prune(image_checksums, excluded_paths: excluded_paths)
-      end
-
-      def collect_image_checksums(front_matter)
-        @images_pruner.collect_image_checksums(front_matter)
-      end
-
-      private
-
-      def delete_file(path)
-        FileUtils.rm(path)
-      rescue Errno::ENOENT
-        # already removed
+      def prune_images(image_checksums, excluded_post_ids:)
+        @images_pruner.prune(image_checksums, excluded_post_ids: excluded_post_ids)
       end
     end
   end

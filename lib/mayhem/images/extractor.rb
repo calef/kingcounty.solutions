@@ -6,23 +6,20 @@ require 'mini_magick'
 require 'seldon'
 require 'time'
 require 'uri'
-require_relative '../front_matter/document'
 require_relative '../feed/discovery'
 require_relative '../image_files/validator'
 require_relative '../image_files/converter'
 require_relative '../image_files/downloader'
 require_relative '../image_files/writer'
 require_relative '../models/event'
+require_relative '../models/image'
 require_relative '../models/news'
-
-# TODO: replace use of Mayhem::FrontMatter::Document with respective Mayhem::Models::* classes
 
 module Mayhem
   module Images
     class Extractor
       include Seldon::Loggable
 
-      IMAGE_DOCS_DIR = '_images'
       IMAGE_ASSET_DIR = File.join('assets', 'images')
       DEFAULT_OPEN_TIMEOUT = begin
         Integer(ENV.fetch('IMAGE_OPEN_TIMEOUT', '10'))
@@ -41,20 +38,16 @@ module Mayhem
       end
 
       def initialize(
-        image_docs_dir: IMAGE_DOCS_DIR,
         asset_dir: IMAGE_ASSET_DIR,
         open_timeout: DEFAULT_OPEN_TIMEOUT,
         read_timeout: DEFAULT_READ_TIMEOUT,
         min_dimension: MIN_IMAGE_DIMENSION,
         http_client: nil
       )
-        @content_dirs = [Mayhem::Models::News.collection_dir, events_dir].compact.uniq
-        @image_docs_dir = image_docs_dir
         @asset_dir = asset_dir
         @open_timeout = open_timeout
         @read_timeout = read_timeout
         @min_dimension = min_dimension
-        FileUtils.mkdir_p(@image_docs_dir)
         @http = http_client || Seldon::Support::HttpClient.new(timeout: @read_timeout)
 
         @validator = Mayhem::ImageFiles::Validator.new(min_dimension: @min_dimension)
@@ -66,85 +59,79 @@ module Mayhem
       def run
         cache = {}
         stats = Hash.new(0)
-        @content_dirs.each do |dir|
-          Dir.glob(File.join(dir, '*.md')).each do |path|
-            process_post(path, cache, stats)
-          end
-        end
+        Mayhem::Models::News.all.each { |record| process_record(record, cache, stats) }
+        Mayhem::Models::Event.all.each { |record| process_record(record, cache, stats) }
         log_summary(stats)
         stats
       end
 
       private
 
-      def process_post(path, cache, stats)
-        document = Mayhem::FrontMatter::Document.load(path)
-        unless document
-          stats[:missing_frontmatter] += 1
-          return
-        end
-        frontmatter = document.front_matter
-        if frontmatter['locked'] == true
+      def process_record(record, cache, stats)
+        record_id = record.id
+
+        if record.locked? == true
           stats[:skipped_locked] += 1
-          logger.debug "Skipping #{path}: locked is true"
+          logger.debug "Skipping #{record_id}: locked is true"
           return
         end
-        handle_unpublished(document, stats) && return if frontmatter['published'] == false
+        handle_unpublished(record, stats) && return unless record.published?
 
-        unless frontmatter['summarized'] == true
+        unless record.summarized? == true
           stats[:skipped_unsummarized] += 1
-          logger.debug "Skipping #{path}: summarized is not true"
+          logger.debug "Skipping #{record_id}: summarized is not true"
           return
         end
 
-        if frontmatter.key?('image_checksums')
+        unless record['image_checksums'].nil?
           stats[:already_has_images] += 1
-          logger.debug "Skipping #{path}: image_checksums already present"
+          logger.debug "Skipping #{record_id}: image_checksums already present"
           return
         end
 
-        source_html = frontmatter['original_source_html'] || frontmatter['feed_content']
+        source_html = record.original_source_html || record.feed_content
         unless source_html
           stats[:missing_source_html] += 1
-          ensure_empty_image_checksums(document, stats)
+          ensure_empty_image_checksums(record, stats)
           return
         end
 
         images = extract_images(source_html)
         if images.empty?
           stats[:no_images_found] += 1
-          ensure_empty_image_checksums(document, stats)
+          ensure_empty_image_checksums(record, stats)
           return
         end
 
-        collected_ids = download_images(images, cache, frontmatter, stats)
+        collected_ids = download_images(images, cache, record, stats)
         if collected_ids.empty?
           stats[:no_valid_images] += 1
-          ensure_empty_image_checksums(document, stats)
+          ensure_empty_image_checksums(record, stats)
           return
         end
 
-        existing_ids = Array(frontmatter['image_checksums']).map(&:to_s)
+        existing_ids = record.image_checksums.map(&:to_s)
         updated_ids = (existing_ids + collected_ids).uniq
         return if updated_ids == existing_ids
 
-        frontmatter['image_checksums'] = updated_ids
-        document.save
+        record.image_checksums = updated_ids
+        record.save!
         stats[:posts_updated] += 1
-        logger.info "Updated #{path} with #{collected_ids.length} image IDs"
+        logger.info "Updated #{record_id} with #{collected_ids.length} image IDs"
       end
 
-      def handle_unpublished(document, stats)
+      def handle_unpublished(record, stats)
         stats[:skipped_unpublished] += 1
-        ensure_empty_image_checksums(document, stats)
+        ensure_empty_image_checksums(record, stats)
       end
 
-      def ensure_empty_image_checksums(document, stats)
-        return if document.front_matter['image_checksums'].is_a?(Array) && document.front_matter['image_checksums'].empty?
+      def ensure_empty_image_checksums(record, stats)
+        return if record.image_checksums.empty? && !record['image_checksums'].nil?
 
-        document.front_matter['image_checksums'] = []
-        document.save
-        logger.info "Set empty image_checksums list for #{document.path}"
+        record.image_checksums = []
+        record.save!
+        record_id = record.id
+        logger.info "Set empty image_checksums list for #{record_id}"
         stats[:empties_added] += 1
       end
 
@@ -163,7 +150,7 @@ module Mayhem
         results.reject { |img| img[:url].nil? || img[:url].empty? }
       end
 
-      def download_images(images, cache, frontmatter, stats)
+      def download_images(images, cache, record, stats)
         collected_ids = []
         images.each do |img|
           cached_checksum = cache[img[:url]]
@@ -183,35 +170,32 @@ module Mayhem
 
           checksum = Digest::SHA256.hexdigest(converted_data)
           filename = @writer.write(checksum, converted_ext, converted_data)
-          ensure_image_doc(checksum, img[:alt], filename, frontmatter, img[:url])
+          ensure_image_record(checksum, img[:alt], filename, record, img[:url])
           cache[img[:url]] = checksum
           collected_ids << checksum
         end
         collected_ids.uniq
       end
 
-      def ensure_image_doc(checksum, alt, filename, frontmatter, original_url)
-        doc_path = File.join(@image_docs_dir, "#{checksum}.md")
-        return if File.exist?(doc_path)
+      def ensure_image_record(checksum, alt, filename, source_record, original_url)
+        # Check if image record already exists
+        existing = Mayhem::Models::Image.find_by(checksum: checksum)
+        return if existing
 
-        frontmatter_data = {
-          'checksum' => checksum,
-          'image_url' => "/#{@asset_dir}/#{filename}".gsub(%r{//+}, '/'),
-          'source_url' => original_url
-        }
         title = alt.to_s.strip
         title = 'Image' if title.empty?
-        frontmatter_data['title'] = title
-        organization_title = frontmatter['organization_title']
-        frontmatter_data['organization_title'] = organization_title unless organization_title.to_s.strip.empty?
-        frontmatter_data['date'] = resolve_date(frontmatter)
+        organization_title = source_record.respond_to?(:organization_title) ? source_record.organization_title : source_record['organization_title']
 
-        document = Mayhem::FrontMatter::Document.new(
-          path: doc_path,
-          front_matter: frontmatter_data,
-          body: ''
-        )
-        document.save
+        front_matter = {
+          'checksum' => checksum,
+          'image_url' => "/#{@asset_dir}/#{filename}".gsub(%r{//+}, '/'),
+          'source_url' => original_url,
+          'title' => title,
+          'date' => resolve_date(source_record)
+        }
+        front_matter['organization_title'] = organization_title unless organization_title.to_s.strip.empty?
+
+        Mayhem::Models::Image.create!(front_matter, body: '')
       end
 
       def log_summary(stats)
@@ -222,7 +206,6 @@ module Mayhem
           skipped_locked: stats[:skipped_locked],
           skipped_unsummarized: stats[:skipped_unsummarized],
           already_has_images: stats[:already_has_images],
-          missing_frontmatter: stats[:missing_frontmatter],
           missing_source_html: stats[:missing_source_html],
           no_images_found: stats[:no_images_found],
           no_valid_images: stats[:no_valid_images],
@@ -235,12 +218,8 @@ module Mayhem
         logger.info "extract-images-from-content complete: #{summary}"
       end
 
-      def events_dir
-        Mayhem::Models::Event.collection_dir
-      end
-
-      def resolve_date(frontmatter)
-        candidate = frontmatter['date'] || frontmatter['start_date']
+      def resolve_date(record)
+        candidate = record['date'] || record['start_date']
         if candidate
           normalize_date(candidate)
         else

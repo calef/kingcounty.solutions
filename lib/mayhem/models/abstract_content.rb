@@ -16,12 +16,24 @@ module Mayhem
         self['feed_content']
       end
 
+      def feed_content=(value)
+        self['feed_content'] = value
+      end
+
       def feed_content_checksum
         self['feed_content_checksum']
       end
 
+      def feed_content_checksum=(value)
+        self['feed_content_checksum'] = value
+      end
+
       def image_checksums
         self['image_checksums'] || []
+      end
+
+      def image_checksums=(value)
+        self['image_checksums'] = value
       end
 
       def images
@@ -36,6 +48,10 @@ module Mayhem
         self['locked']
       end
 
+      def locked=(value)
+        self['locked'] = value
+      end
+
       def locked?
         self['locked'] == true
       end
@@ -44,8 +60,16 @@ module Mayhem
         self['original_source_html']
       end
 
+      def original_source_html=(value)
+        self['original_source_html'] = value
+      end
+
       def summarized
         self['summarized']
+      end
+
+      def summarized=(value)
+        self['summarized'] = value
       end
 
       def summarized?

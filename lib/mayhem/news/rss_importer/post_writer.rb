@@ -33,17 +33,17 @@ module Mayhem
           existing = find_existing_post(record_id)
 
           if existing&.locked?
-            logger.info "Skipping update for locked post #{existing.path || record_id}"
+            logger.info "Skipping update for locked post #{existing.id}"
             return :skipped_locked
           end
 
           if existing && existing.published == false
-            logger.info "Skipping update for unpublished post #{existing.path || record_id}"
+            logger.info "Skipping update for unpublished post #{existing.id}"
             return :skipped_unpublished
           end
 
           if unchanged_post?(existing, normalized_html, checksum, link_url)
-            logger.debug "Skipping unchanged post #{existing.path || record_id}"
+            logger.debug "Skipping unchanged post #{existing.id}"
             return :skipped_unchanged
           end
 
@@ -90,7 +90,7 @@ module Mayhem
           existing_normalized = Mayhem::Content::HtmlNormalizer.normalize(existing_content, base_url: base_url)
           existing_normalized == normalized_html
         rescue StandardError => e
-          logger.debug "Failed to compare existing post #{record&.path || record&.id}: #{e.message}"
+          logger.debug "Failed to compare existing post #{record&.id}: #{e.message}"
           false
         end
       end

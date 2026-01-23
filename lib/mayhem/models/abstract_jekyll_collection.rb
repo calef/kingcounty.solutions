@@ -72,12 +72,20 @@ module Mayhem
         self['published']
       end
 
+      def published=(value)
+        self['published'] = value
+      end
+
       def published?
         self['published'] != false
       end
 
       def title
         self['title']
+      end
+
+      def title=(value)
+        self['title'] = value
       end
     end
   end

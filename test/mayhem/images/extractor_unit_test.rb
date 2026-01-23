@@ -4,6 +4,7 @@ require_relative '../../test_helper'
 require 'fileutils'
 require 'minitest/autorun'
 require_relative '../../../lib/mayhem/images/extractor'
+require_relative '../../../lib/mayhem/models/image'
 
 class ImageExtractorUnitTest < Minitest::Test
   class DummyHttp
@@ -16,13 +17,12 @@ class ImageExtractorUnitTest < Minitest::Test
 
   def setup
     @news_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :news)
+    @images_repo_override = FMRepo::TestHelpers.with_temp_repo(role: :images)
     @tmp_posts = Mayhem::Models::News.collection_dir
     @tmp_assets = Dir.mktmpdir('assets')
-    @tmp_images = Dir.mktmpdir('images')
     @http = DummyHttp.new
     FileUtils.mkdir_p(@tmp_posts)
     @extractor = Mayhem::Images::Extractor.new(
-      image_docs_dir: @tmp_images,
       asset_dir: @tmp_assets,
       http_client: @http
     )
@@ -30,8 +30,8 @@ class ImageExtractorUnitTest < Minitest::Test
 
   def teardown
     @news_repo_override.cleanup if @news_repo_override
+    @images_repo_override.cleanup if @images_repo_override
     FileUtils.remove_entry(@tmp_assets)
-    FileUtils.remove_entry(@tmp_images)
   end
 
   def test_extract_images_from_markdown_and_html
@@ -46,23 +46,23 @@ class ImageExtractorUnitTest < Minitest::Test
     assert_equal 'embedded', images.last[:alt]
   end
 
-  def test_ensure_image_doc_creates_front_matter
+  def test_ensure_image_record_creates_front_matter
     frontmatter = { 'title' => 'Post', 'organization_title' => 'Test', 'date' => '2025-01-01' }
     checksum = 'deadbeef'
     filename = 'deadbeef.webp'
     original_url = 'https://example.com/img.png'
 
-    @extractor.send(:ensure_image_doc, checksum, 'Alt', filename, frontmatter, original_url)
+    @extractor.send(:ensure_image_record, checksum, 'Alt', filename, frontmatter, original_url)
 
-    doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_images, "#{checksum}.md"))
-    assert_equal checksum, doc.front_matter['checksum']
-    assert_match(%r{/#{Regexp.escape(filename)}\z}, doc.front_matter['image_url'])
-    assert_equal original_url, doc.front_matter['source_url']
-    assert_equal 'Alt', doc.front_matter['title']
-    assert_equal frontmatter['organization_title'], doc.front_matter['organization_title']
+    image = Mayhem::Models::Image.find_by(checksum: checksum)
+    assert_equal checksum, image.checksum
+    assert_match(%r{/#{Regexp.escape(filename)}\z}, image.image_url)
+    assert_equal original_url, image.source_url
+    assert_equal 'Alt', image.title
+    assert_equal frontmatter['organization_title'], image.organization_title
   end
 
-  def test_ensure_image_doc_prefers_start_date_when_date_missing
+  def test_ensure_image_record_prefers_start_date_when_date_missing
     frontmatter = {
       'title' => 'Event',
       'organization_title' => 'Test Org',
@@ -72,22 +72,22 @@ class ImageExtractorUnitTest < Minitest::Test
     filename = 'cafebabe.webp'
     original_url = 'https://example.com/banner.png'
 
-    @extractor.send(:ensure_image_doc, checksum, 'Banner', filename, frontmatter, original_url)
+    @extractor.send(:ensure_image_record, checksum, 'Banner', filename, frontmatter, original_url)
 
-    doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_images, "#{checksum}.md"))
-    assert_equal frontmatter['start_date'], doc.front_matter['date']
+    image = Mayhem::Models::Image.find_by(checksum: checksum)
+    assert_equal frontmatter['start_date'], image.date
   end
 
-  def test_ensure_image_doc_falls_back_to_now_when_date_missing
+  def test_ensure_image_record_falls_back_to_now_when_date_missing
     frontmatter = { 'title' => 'No Date', 'organization_title' => 'Test Org' }
     checksum = 'beadfeed'
     filename = 'beadfeed.webp'
     original_url = 'https://example.com/no-date.png'
 
-    @extractor.send(:ensure_image_doc, checksum, 'Alt', filename, frontmatter, original_url)
+    @extractor.send(:ensure_image_record, checksum, 'Alt', filename, frontmatter, original_url)
 
-    doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_images, "#{checksum}.md"))
-    Time.iso8601(doc.front_matter['date'])
+    image = Mayhem::Models::Image.find_by(checksum: checksum)
+    Time.iso8601(image.date)
   end
 
   def test_run_skips_unsummarized_posts
