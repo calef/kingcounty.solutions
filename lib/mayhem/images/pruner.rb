@@ -16,19 +16,19 @@ module Mayhem
         Array(record.image_checksums).map(&:to_s).map(&:strip).reject(&:empty?)
       end
 
-      def remaining_image_counts(excluded_posts: [], excluded_events: [])
+      def remaining_image_counts(excluded_post_ids: [], excluded_event_ids: [])
         counts = Hash.new(0)
-        excluded_post_ids = build_exclusion_set(excluded_posts)
-        excluded_event_ids = build_exclusion_set(excluded_events)
+        excluded_post_id_set = build_id_set(excluded_post_ids)
+        excluded_event_id_set = build_id_set(excluded_event_ids)
 
         Mayhem::Models::News.all.each do |post|
-          next if excluded_post_ids.include?(record_identifier(post))
+          next if excluded_post_id_set.include?(post.id.to_s)
 
           collect_image_checksums(post).each { |id| counts[id] += 1 }
         end
 
         Mayhem::Models::Event.all.each do |event|
-          next if excluded_event_ids.include?(record_identifier(event))
+          next if excluded_event_id_set.include?(event.id.to_s)
 
           collect_image_checksums(event).each { |id| counts[id] += 1 }
         end
@@ -36,21 +36,15 @@ module Mayhem
         counts
       end
 
-      def prune(image_checksums, excluded_posts: [], excluded_events: [])
-        remaining_refs = remaining_image_counts(excluded_posts: excluded_posts, excluded_events: excluded_events)
+      def prune(image_checksums, excluded_post_ids: [], excluded_event_ids: [])
+        remaining_refs = remaining_image_counts(excluded_post_ids: excluded_post_ids, excluded_event_ids: excluded_event_ids)
         prune_images(image_checksums, remaining_refs)
       end
 
       private
 
-      def build_exclusion_set(records)
-        Set.new(Array(records).compact.map { |r| record_identifier(r) })
-      end
-
-      def record_identifier(record)
-        return record.to_s if record.is_a?(String)
-
-        record.id.to_s
+      def build_id_set(ids)
+        Set.new(Array(ids).compact.map(&:to_s))
       end
 
       def prune_images(image_checksums, remaining_refs)
