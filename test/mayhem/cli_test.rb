@@ -26,14 +26,17 @@ class MayhemCLITest < Minitest::Test
   def test_run_ingest_calls_check_integrity_at_end
     # Track which methods are called and in what order
     calls = []
+    tidy_args = nil
 
     Mayhem::CLI.stub(:run_import_content, ->(_args) { calls << :run_import_content }) do
       Mayhem::CLI.stub(:run_summarize, ->(_args) { calls << :run_summarize }) do
         Mayhem::CLI.stub(:run_extract_events, ->(_args) { calls << :run_extract_events }) do
           Mayhem::CLI.stub(:run_extract_images, ->(_args) { calls << :run_extract_images }) do
             Mayhem::CLI.stub(:run_expire, ->(_args) { calls << :run_expire }) do
-              Mayhem::CLI.stub(:run_check_integrity, ->(_args) { calls << :run_check_integrity }) do
-                Mayhem::CLI.run_ingest([])
+              Mayhem::CLI.stub(:run_tidy, ->(args) { tidy_args = args; calls << :run_tidy }) do
+                Mayhem::CLI.stub(:run_check_integrity, ->(_args) { calls << :run_check_integrity }) do
+                  Mayhem::CLI.run_ingest([])
+                end
               end
             end
           end
@@ -47,6 +50,7 @@ class MayhemCLITest < Minitest::Test
     assert_includes calls, :run_extract_events
     assert_includes calls, :run_extract_images
     assert_includes calls, :run_expire
+    assert_includes calls, :run_tidy
     assert_includes calls, :run_check_integrity
 
     # Verify run_check_integrity is called after run_expire (at the end)
@@ -54,6 +58,40 @@ class MayhemCLITest < Minitest::Test
     integrity_index = calls.index(:run_check_integrity)
     assert integrity_index > expire_index, 'check_integrity should be called after expire'
     assert_equal calls.last, :run_check_integrity, 'check_integrity should be the last call'
+  end
+
+  def test_run_ingest_calls_tidy_before_check_integrity
+    calls = []
+    tidy_args = nil
+
+    Mayhem::CLI.stub(:run_import_content, ->(_args) { calls << :run_import_content }) do
+      Mayhem::CLI.stub(:run_summarize, ->(_args) { calls << :run_summarize }) do
+        Mayhem::CLI.stub(:run_extract_events, ->(_args) { calls << :run_extract_events }) do
+          Mayhem::CLI.stub(:run_extract_images, ->(_args) { calls << :run_extract_images }) do
+            Mayhem::CLI.stub(:run_expire, ->(_args) { calls << :run_expire }) do
+              Mayhem::CLI.stub(:run_tidy, ->(args) { tidy_args = args; calls << :run_tidy }) do
+                Mayhem::CLI.stub(:run_check_integrity, ->(_args) { calls << :run_check_integrity }) do
+                  Mayhem::CLI.run_ingest([])
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+
+    # Verify tidy is called with the correct collection directories
+    expected_dirs = %w[_events _images _locations _organizations _posts _topics]
+    assert_equal expected_dirs, tidy_args
+
+    # Verify tidy is called before check_integrity
+    tidy_index = calls.index(:run_tidy)
+    integrity_index = calls.index(:run_check_integrity)
+    assert tidy_index < integrity_index, 'tidy should be called before check_integrity'
+
+    # Verify tidy is called after expire
+    expire_index = calls.index(:run_expire)
+    assert tidy_index > expire_index, 'tidy should be called after expire'
   end
 
   def test_run_help_shows_help_and_exits
