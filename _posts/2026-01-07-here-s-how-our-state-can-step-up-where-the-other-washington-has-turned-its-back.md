@@ -1,7 +1,6 @@
 ---
 date: '2026-01-07T01:07:41+00:00'
-event_ids:
-- _events/2026-01-19-mlk-lobby-day.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><img src="https://s14621.pcdn.co/wp-content/uploads/2026/01/poverty-action-main-image-801x566-1-361x255.jpg"></p><p>In this Washington, we take care of everyone.</p>

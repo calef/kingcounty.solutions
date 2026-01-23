@@ -3,7 +3,6 @@ date: '2026-01-09T20:30:53+00:00'
 event_ids:
 - _events/2026-02-13-crp-reentry-grants-application-deadline.md
 - _events/2026-02-04-crp-legal-aid-grants-application-deadline.md
-- _events/2026-01-20-local-advisory-teams-applications-deadline.md
 - _events/2026-01-31-announcement-of-new-grants.md
 events_extracted: true
 feed_content: |-

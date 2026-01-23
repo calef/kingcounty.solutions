@@ -2,7 +2,6 @@
 date: '2026-01-17T01:51:07+00:00'
 event_ids:
 - _events/2026-01-19-martin-luther-king-jr-day.md
-- _events/2026-01-18-seattle-center-monorail-service.md
 events_extracted: true
 feed_content: Weekend Service Impacts Routes 1, 2, 3, 4, 5, 13, 14, 21, 24, 27, 28,
   33, 40, 56, 62, 124, 131, 132, RapidRide C, D, E, and H Lines will be...

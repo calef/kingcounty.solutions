@@ -1,7 +1,6 @@
 ---
 date: '2026-01-19T21:30:00+00:00'
-event_ids:
-- _events/2026-01-19-live-whole-health-301-be-still.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Some battles are fought with weapons. Others are fought in silence—in the mind, in the heart, in the soul. As Veterans, we’ve been trained to fight, to endure, to push through pain. But what happens when the battle is internal? When the enemy is invisible—like trauma, guilt, anxiety, or shame?</p>

@@ -1,7 +1,6 @@
 ---
 date: '2025-11-04T04:26:39+00:00'
-event_ids:
-- _events/2026-01-19-cqc-scholarship-application-deadline.md
+event_ids: []
 events_extracted: true
 feed_content: "The City of Carnation is accepting applications for an Association
   of Washington Cities (AWC) Center for Quality Communities (CQC) Scholarship!\n\nThe

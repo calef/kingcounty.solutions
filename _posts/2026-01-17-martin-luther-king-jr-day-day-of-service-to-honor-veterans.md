@@ -1,7 +1,6 @@
 ---
 date: '2026-01-17T14:30:00+00:00'
-event_ids:
-- _events/2026-01-19-martin-luther-king-jr-day-day-of-service.md
+event_ids: []
 events_extracted: true
 feed_content: "<h2>A day on, not a day off</h2>\n\n\n\n<p>Every year on the third
   Monday in January, we celebrate Martin Luther King Jr. Day, a national Day of Service—a
