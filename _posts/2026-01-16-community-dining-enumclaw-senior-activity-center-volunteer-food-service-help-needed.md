@@ -1,7 +1,6 @@
 ---
 date: '2026-01-16T00:21:26+00:00'
 event_ids:
-- _events/2026-01-19-volunteer-food-service-at-enumclaw-senior-activity-center.md
 - _events/2026-01-26-volunteer-food-service-at-enumclaw-senior-activity-center.md
 - _events/2026-02-02-volunteer-food-service-at-enumclaw-senior-activity-center.md
 events_extracted: true

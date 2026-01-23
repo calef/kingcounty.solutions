@@ -1,7 +1,6 @@
 ---
 date: '2026-01-05T23:11:09+00:00'
-event_ids:
-- _events/2026-01-19-mlk-health-fair.md
+event_ids: []
 events_extracted: true
 feed_content: "<span>MLK Health Fair returns to Crossroads Bellevue</span>\n<span><span>CIosso</span></span>\n<span><time>Mon,
   01/05/2026 - 15:11</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>

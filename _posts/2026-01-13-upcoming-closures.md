@@ -1,7 +1,6 @@
 ---
 date: '2026-01-13T18:34:40+00:00'
 event_ids:
-- _events/2026-01-19-martin-luther-king-jr-day-closure.md
 - _events/2026-02-16-presidents-day-closure.md
 events_extracted: true
 feed_content: |-

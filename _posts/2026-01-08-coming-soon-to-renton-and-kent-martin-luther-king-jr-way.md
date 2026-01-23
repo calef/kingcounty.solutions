@@ -1,7 +1,6 @@
 ---
 date: '2026-01-08T01:26:03+00:00'
-event_ids:
-- _events/2026-01-19-extension-of-martin-luther-king-jr-way.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Did you know that there are more than 1,000 streets worldwide named after Dr. Martin Luther King Jr.? More than 950 streets in the U.S. are named after the civil rights leader, including one here in Seattle. And outside of the US, there are: According to History Link, the city of Seattle named its streets after Dr. King in January of 1984, two years after the measure received…</p>
