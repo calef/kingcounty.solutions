@@ -23,11 +23,16 @@ module Mayhem
           item_data = extract_item_data(item, source_record)
           return unless required_fields_valid?(item_data, stats)
 
+          # Early duplicate check to avoid unnecessary content fetching
+          return if already_registered?(item_data, stats)
+
           content_result = fetch_content_if_needed(item_data)
           item_data[:normalized_url] = update_canonical_url(item_data, content_result, stats)
           return unless item_data[:normalized_url]
 
           return unless content_valid?(content_result, stats)
+
+          # Final duplicate check after canonical URL may have been updated
           return if already_registered?(item_data, stats)
 
           write_post_and_record_result(source_title, item_data, content_result, stats)

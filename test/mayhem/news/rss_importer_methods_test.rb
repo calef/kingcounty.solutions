@@ -323,6 +323,7 @@ class RssImporterMethodsTest < Minitest::Test
     fetcher = Minitest::Mock.new
     fetcher.expect(:fetch, { html: '<p>body</p>', canonical_url: updated_url }, [link_url])
     duplicate_tracker = Minitest::Mock.new
+    duplicate_tracker.expect(:duplicate?, false, [link_url, 'guid-dup'])
     duplicate_tracker.expect(:duplicate?, true, [updated_url, 'guid-dup'])
     processor = build_item_processor(
       content_fetcher: fetcher,
@@ -354,6 +355,7 @@ class RssImporterMethodsTest < Minitest::Test
     normalized = Seldon::Support::UrlNormalizer.normalize(link_url, base: source&.website_url)
     published_at = Time.now
     duplicate_tracker = Minitest::Mock.new
+    duplicate_tracker.expect(:duplicate?, false, [normalized, 'guid-123'])
     duplicate_tracker.expect(:duplicate?, false, [normalized, 'guid-123'])
     duplicate_tracker.expect(:register, nil, [normalized, 'guid-123'])
     post_writer = Minitest::Mock.new
