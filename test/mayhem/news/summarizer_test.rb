@@ -51,7 +51,7 @@ class PostSummarizerTest < Minitest::Test
     http_stub = Object.new
     def http_stub.fetch(*) = { body: '', 'content-type' => 'text/plain', final_url: 'http://ok' }
     summarizer = build_summarizer(client: Object.new)
-    def summarizer.fetch_article_html(_url)
+    def summarizer.fetch_html(_url)
       raise StandardError, 'boom'
     end
 
@@ -109,7 +109,7 @@ class PostSummarizerTest < Minitest::Test
     http_stub = Object.new
     def http_stub.fetch(*) = { body: 'abc', 'content-type' => 'text/plain', final_url: 'http://ok' }
     summarizer = build_summarizer(client: client)
-    def summarizer.fetch_article_html(_url) = '<article><p>Scraped</p></article>'
+    def summarizer.fetch_html(_url) = '<article><p>Scraped</p></article>'
 
     stats = summarizer.run
 
@@ -135,7 +135,7 @@ class PostSummarizerTest < Minitest::Test
     end
 
     summarizer = build_summarizer(client: client)
-    def summarizer.fetch_article_html(_url) = '<article><p>Scraped news</p></article>'
+    def summarizer.fetch_html(_url) = '<article><p>Scraped news</p></article>'
 
     stats = summarizer.run
 
