@@ -54,7 +54,7 @@ module Mayhem
 
       def check_posts
         records = @news_model.relation.to_a
-        @executor.run(records, on_error: method(:log_processing_error)) do |record|
+        @executor.run(records, on_error: ->(record, error) { log_processing_error(record, error) }) do |record|
           source_url = record.source_url.to_s.strip
           next if source_url.empty?
 
@@ -72,7 +72,7 @@ module Mayhem
 
       def check_events
         records = @events_model.relation.to_a
-        @executor.run(records, on_error: method(:log_processing_error)) do |record|
+        @executor.run(records, on_error: ->(record, error) { log_processing_error(record, error) }) do |record|
           source_url = record.source_url.to_s.strip
           next if source_url.empty?
 
