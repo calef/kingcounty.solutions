@@ -241,6 +241,7 @@ module Mayhem
           description_html = Seldon::Support::EncodingUtils.ensure_utf8(description_html)
         end
 
+        description_html = Seldon::Support::EncodingUtils.ensure_utf8(description_html)
         normalized = Mayhem::Content::HtmlNormalizer.normalize(description_html, base_url: url_result[:canonical_url])
         checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized)
 
