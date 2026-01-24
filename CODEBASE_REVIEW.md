@@ -18,7 +18,8 @@ This document contains a comprehensive review of the Mayhem library with actiona
 | MEDIUM | 9.2 | Break down IcalImporter#create_event() | PR #439 |
 | MEDIUM | 9.3 | Break down PostSummarizer#process_post() | PR #441 |
 | MEDIUM | 5.1 | Add threading edge case tests | PR #442 |
-| LOW | 2.1 | Standardize naming conventions | Open |
+| LOW | 2.1 | Standardize naming conventions | PR #443 |
+| LOW | 2.2 | Add missing setters to Sourced concern | PR #443 |
 | LOW | 8.2 | Resolve FMRepo introspection fragility | Open |
 | LOW | 8.1 | Add documentation for complex algorithms | Open |
 
@@ -448,3 +449,5 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 | 9.2 | Refactor IcalImporter#create_event() into smaller methods | PR #439 | 2026-01-24 |
 | 9.3 | Refactor PostSummarizer#process_post() into smaller methods | PR #441 | 2026-01-24 |
 | 5.1 | Add threading edge case tests for PoolExecutor and IcalImporter | PR #442 | 2026-01-24 |
+| 2.1 | Standardize naming conventions and add documentation | PR #443 | 2026-01-24 |
+| 2.2 | Add missing setters to Sourced concern | PR #443 | 2026-01-24 |
