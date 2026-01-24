@@ -20,75 +20,136 @@ module Mayhem
         end
 
         def process(item, source_title, source_record, stats)
+          item_data = extract_item_data(item, source_record)
+          return unless required_fields_valid?(item_data, stats)
+
+          content_result = fetch_content_if_needed(item_data)
+          item_data[:normalized_url] = update_canonical_url(item_data, content_result, stats)
+          return unless item_data[:normalized_url]
+
+          return unless content_valid?(content_result, stats)
+          return if already_registered?(item_data, stats)
+
+          write_post_and_record_result(source_title, item_data, content_result, stats)
+        end
+
+        private
+
+        def extract_item_data(item, source_record)
           link_url = @item_parser.link_url(item)
           normalized = Seldon::Support::UrlNormalizer.normalize(link_url, base: source_record&.website_url)
           normalized = @canonicalizer.canonical_link(normalized)
-          if normalized.to_s.strip.empty?
+
+          {
+            normalized_url: normalized,
+            guid: @item_parser.guid(item),
+            title: @item_parser.title_text(item).to_s.strip,
+            published_at: @item_parser.published_at(item),
+            original_html: @item_parser.content_html(item).to_s.strip
+          }
+        end
+
+        def required_fields_valid?(item_data, stats)
+          if item_data[:normalized_url].to_s.strip.empty?
             stats.increment(:missing_link)
-            return
+            return false
           end
-          guid_value = @item_parser.guid(item)
 
-          title_text = @item_parser.title_text(item).to_s.strip
-          if title_text.empty?
+          if item_data[:title].empty?
             stats.increment(:missing_title)
-            return
+            return false
           end
 
-          published_time = @item_parser.published_at(item)
-          unless published_time
+          unless item_data[:published_at]
             stats.increment(:missing_publish_date)
-            return
+            return false
           end
 
-          if stale_item?(published_time)
+          if stale_item?(item_data[:published_at])
             stats.increment(:stale)
-            return
+            return false
           end
 
-          original_html = @item_parser.content_html(item).to_s.strip
-          body_data = nil
-          force_unpublished = false
-          if normalized && (original_html.empty? || @canonicalizer.redirect_host?(normalized))
-            body_data = fetch_article_body(normalized)
-            force_unpublished = true if body_data && body_data[:not_found]
-            fetched_html = body_data[:html].to_s.strip
-            original_html = fetched_html if original_html.empty?
-          end
-          if body_data && body_data[:canonical_url]
-            updated = @canonicalizer.canonical_link(normalized, html_canonical: body_data[:canonical_url])
-            if updated && updated != normalized
-              normalized = updated
-              if @duplicate_tracker.duplicate?(normalized, guid_value)
-                stats.increment(:duplicates)
-                return
-              end
-            end
-          end
-          if original_html.empty?
-            if force_unpublished
-              stats.increment(:not_found)
-            else
-              stats.increment(:empty_content)
-              return
-            end
-          end
+          true
+        end
 
-          if @duplicate_tracker.duplicate?(normalized, guid_value)
+        def fetch_content_if_needed(item_data)
+          normalized = item_data[:normalized_url]
+          original_html = item_data[:original_html]
+
+          needs_fetch = normalized && (original_html.empty? || @canonicalizer.redirect_host?(normalized))
+          return { html: original_html, fetched: false } unless needs_fetch
+
+          body_data = fetch_article_body(normalized)
+          fetched_html = body_data[:html].to_s.strip
+
+          {
+            html: original_html.empty? ? fetched_html : original_html,
+            canonical_url: body_data[:canonical_url],
+            not_found: body_data[:not_found],
+            fetched: true
+          }
+        end
+
+        def update_canonical_url(item_data, content_result, stats)
+          return item_data[:normalized_url] unless content_result[:canonical_url]
+
+          updated = @canonicalizer.canonical_link(
+            item_data[:normalized_url],
+            html_canonical: content_result[:canonical_url]
+          )
+
+          return item_data[:normalized_url] unless updated && updated != item_data[:normalized_url]
+
+          if @duplicate_tracker.duplicate?(updated, item_data[:guid])
             stats.increment(:duplicates)
-            return
+            return nil
           end
 
-          publish_flag = force_unpublished ? false : nil
+          updated
+        end
+
+        def content_valid?(content_result, stats)
+          return true unless content_result[:html].to_s.strip.empty?
+
+          if content_result[:not_found]
+            stats.increment(:not_found)
+            true
+          else
+            stats.increment(:empty_content)
+            false
+          end
+        end
+
+        def already_registered?(item_data, stats)
+          if @duplicate_tracker.duplicate?(item_data[:normalized_url], item_data[:guid])
+            stats.increment(:duplicates)
+            true
+          else
+            false
+          end
+        end
+
+        def write_post_and_record_result(source_title, item_data, content_result, stats)
+          publish_flag = content_result[:not_found] ? false : nil
+          html_content = content_result[:html].to_s.strip.empty? ? '' : content_result[:html]
+
           result = @post_writer.write(
             source_title,
-            title_text,
-            normalized,
-            published_time,
-            original_html,
-            guid_value,
+            item_data[:title],
+            item_data[:normalized_url],
+            item_data[:published_at],
+            html_content,
+            item_data[:guid],
             published: publish_flag
           )
+
+          record_write_result(result, stats)
+          @duplicate_tracker.register(item_data[:normalized_url], item_data[:guid]) if result
+          result
+        end
+
+        def record_write_result(result, stats)
           case result
           when :created
             stats.increment(:created)
@@ -99,11 +160,7 @@ module Mayhem
           when :skipped_locked
             stats.increment(:locked)
           end
-          @duplicate_tracker.register(normalized, guid_value) if result
-          result
         end
-
-        private
 
         def stale_item?(published_time)
           cutoff = Time.now - (@max_item_age_days * 24 * 60 * 60)
