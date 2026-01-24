@@ -5,6 +5,8 @@ require_relative '../topic'
 module Mayhem
   module Models
     module Concerns
+      # Provides topic association attributes for content models.
+      # Includes topic_titles property and topics accessor.
       module Topical
         # Returns Topic records for each title in topic_titles.
         # Topics that cannot be found are excluded from the result.

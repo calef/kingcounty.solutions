@@ -89,6 +89,20 @@ Set `locked: true` in front matter to prevent automation from modifying a file. 
 - Files: kebab-case (e.g., `auburn.md`)
 - Rubocop enforced: `bundle exec rubocop -A`
 
+### Method Naming Conventions
+
+Use consistent prefixes to indicate method purpose:
+
+| Prefix | Purpose | Example |
+| -------- | --------- | --------- |
+| `find_*` | Direct lookups returning records | `find_related_records`, `find_by` |
+| `filter_*` | Conditional filtering of collections | `filter_to_highest_level` |
+| `parse_*` | Parsing external formats (JSON, XML, etc.) | `parse_location_response` |
+| `fetch_*` | HTTP requests to external sources | `fetch_html`, `fetch_page` |
+| `extract_*` | Extracting data from complex structures | `extract_text`, `extract_item_data` |
+| `build_*` | Constructing objects or data structures | `build_prompt`, `build_location_hash` |
+| `collect_*` | Gathering items into collections | `collect_candidates` |
+
 ## Testing Patterns
 
 - **Framework**: Minitest
