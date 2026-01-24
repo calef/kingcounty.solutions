@@ -68,6 +68,12 @@ class SummarizerBaseTest < Minitest::Test
   end
 
   def setup
+    @client = Class.new do
+      def chat(*)
+        { 'choices' => [{ 'message' => { 'content' => 'test response' } }] }
+      end
+    end.new
+
     @topic_classifier = Class.new do
       def classify(_text)
         %w[topic1 topic2]
@@ -83,6 +89,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_run_iterates_over_model_class_all
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -102,6 +109,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_fetch_html_returns_nil_for_empty_url
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -119,6 +127,7 @@ class SummarizerBaseTest < Minitest::Test
     end.new
 
     summarizer = TestSummarizer.new(
+      client: @client,
       http_client: http_stub,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
@@ -129,6 +138,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_extract_text_delegates_to_article_body_extractor
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -141,6 +151,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_truncate_text_truncates_when_over_limit
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -154,6 +165,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_truncate_text_returns_original_when_under_limit
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -166,6 +178,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_truncate_text_handles_nil
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -177,6 +190,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_classify_topics_delegates_to_topic_classifier
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -188,6 +202,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_classify_locations_delegates_to_location_classifier
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -265,6 +280,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_needs_classification_for_record_returns_true_when_nil
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -280,6 +296,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_needs_classification_for_record_returns_false_when_empty_array
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -295,6 +312,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_needs_classification_for_record_returns_false_when_present
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -313,6 +331,7 @@ class SummarizerBaseTest < Minitest::Test
     ENV['OPENAI_MODEL'] = 'test-model'
 
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -342,6 +361,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_store_source_html_sets_original_source_html_on_record
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -358,6 +378,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_store_source_html_does_nothing_when_html_is_nil
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
@@ -373,6 +394,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_store_source_html_truncates_long_content
     summarizer = TestSummarizer.new(
+      client: @client,
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
     )
