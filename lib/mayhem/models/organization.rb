@@ -58,6 +58,8 @@ module Mayhem
         self['parent_organization_title']
       end
 
+      # Returns the parent Organization record.
+      # Returns nil if no parent is configured or the parent cannot be found.
       def parent_organization
         return nil if parent_organization_title.nil? || parent_organization_title.empty?
 

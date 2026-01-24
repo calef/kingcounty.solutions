@@ -36,10 +36,12 @@ module Mayhem
         self['image_checksums'] = value
       end
 
+      # Returns Image records for each checksum in image_checksums.
+      # Images that cannot be found are excluded from the result.
       def images
         require_relative 'image'
 
-        image_checksums.map do |checksum|
+        image_checksums.filter_map do |checksum|
           Image.find_by(checksum:)
         end
       end
