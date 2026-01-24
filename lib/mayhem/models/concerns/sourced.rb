@@ -6,6 +6,8 @@ module Mayhem
   module Models
     module Concerns
       module Sourced
+        # Returns the Organization record for the organization_title.
+        # Returns nil if the organization cannot be found.
         def organization
           Organization.find_by(title: organization_title)
         end

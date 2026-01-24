@@ -6,8 +6,10 @@ module Mayhem
   module Models
     module Concerns
       module Topical
+        # Returns Topic records for each title in topic_titles.
+        # Topics that cannot be found are excluded from the result.
         def topics
-          topic_titles.map do |topic_title|
+          topic_titles.filter_map do |topic_title|
             Topic.find_by(title: topic_title)
           end
         end

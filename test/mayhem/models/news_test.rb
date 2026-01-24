@@ -130,7 +130,8 @@ class NewsModelTest < Minitest::Test
           body: 'News mentioning locations.'
         )
 
-        assert_equal [location.id, nil], record.locations.map { |loc| loc&.id }
+        # Missing locations are excluded from the result
+        assert_equal [location.id], record.locations.map(&:id)
       end
     end
   end
