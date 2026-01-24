@@ -6,6 +6,7 @@ require_relative '../images/pruner'
 require_relative '../news/pruner'
 require_relative '../models/event'
 require_relative '../models/news'
+require_relative '../threading/pool_executor'
 
 module Mayhem
   module Content
@@ -41,6 +42,7 @@ module Mayhem
         @events_model = events_model
         @workers = [workers, 1].max
         @pruner_mutex = Mutex.new
+        @executor = Threading::PoolExecutor.new(workers: @workers)
       end
 
       def run
@@ -52,7 +54,7 @@ module Mayhem
 
       def check_posts
         records = @news_model.relation.to_a
-        process_records(records) do |record|
+        @executor.run(records, on_error: ->(record, error) { log_processing_error(record, error) }) do |record|
           source_url = record.source_url.to_s.strip
           next if source_url.empty?
 
@@ -70,7 +72,7 @@ module Mayhem
 
       def check_events
         records = @events_model.relation.to_a
-        process_records(records) do |record|
+        @executor.run(records, on_error: ->(record, error) { log_processing_error(record, error) }) do |record|
           source_url = record.source_url.to_s.strip
           next if source_url.empty?
 
@@ -86,25 +88,8 @@ module Mayhem
         end
       end
 
-      def process_records(records)
-        records = records.to_a
-        queue = Queue.new
-        records.each { |record| queue << record }
-
-        threads = Array.new([records.size, @workers].min) do
-          Thread.new do
-            loop do
-              record = queue.pop(true)
-              yield(record)
-            rescue ThreadError
-              break
-            rescue StandardError => e
-              logger.debug "Error processing #{record_label(record)}: #{e.class}: #{e.message}"
-            end
-          end
-        end
-
-        threads.each(&:join)
+      def log_processing_error(record, error)
+        logger.debug "Error processing #{record_label(record)}: #{error.class}: #{error.message}"
       end
 
       def unpublish_post(record)

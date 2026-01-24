@@ -10,6 +10,7 @@ require_relative '../content/content_utils'
 require_relative '../content/html_normalizer'
 require_relative '../models/event'
 require_relative '../models/organization'
+require_relative '../threading/pool_executor'
 
 module Mayhem
   module Events
@@ -43,24 +44,14 @@ module Mayhem
         @existing_lock = Mutex.new
         @stats_lock = Mutex.new
         @processed_lock = Mutex.new
+        @executor = Threading::PoolExecutor.new(workers: @workers)
       end
 
       def run
         @existing_urls = build_existing_event_index
-        queue = Queue.new
-        Mayhem::Models::Organization.all.each { |org| queue << org }
-
-        threads = Array.new(@workers) do
-          Thread.new do
-            loop do
-              org_record = queue.pop(true)
-              process_org_record(org_record)
-            rescue ThreadError
-              break
-            end
-          end
+        @executor.run(Mayhem::Models::Organization.all) do |org_record|
+          process_org_record(org_record)
         end
-        threads.each(&:join)
         log_summary
       end
 
