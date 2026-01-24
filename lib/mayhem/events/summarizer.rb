@@ -10,7 +10,6 @@ module Mayhem
     class EventSummarizer < Mayhem::Summarizer::Base
       def initialize(event_pruner: nil, **)
         super(**)
-        @posts_dir = Mayhem::Models::News.collection_dir
         @pruner = event_pruner ||
                   Mayhem::Events::Pruner.new(images_pruner: @images_pruner)
       end
@@ -225,9 +224,10 @@ module Mayhem
         system_message = 'You write concise community event descriptions following The Associated Press Stylebook.'
         summary = call_openai(prompt, system_message, record_id, temperature: 0.5)
 
-        logger.warn "Skipped #{record_id}: could not summarize event" if summary.nil? || summary.empty?
+        return summary unless summary.nil? || summary.empty?
 
-        summary
+        logger.warn "Skipped #{record_id}: could not summarize event"
+        nil
       end
 
       def remove_event_references(event)

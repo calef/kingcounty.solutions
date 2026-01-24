@@ -172,12 +172,11 @@ module Mayhem
         system_message = 'You are a helpful assistant who writes summaries that follow The Associated Press Stylebook.'
         summary = call_openai(prompt, system_message, record_id, temperature: 0.7)
 
-        if summary.nil? || summary.empty?
-          logger.warn "Skipped #{record_id}: could not summarize"
-          stats[:failed_summary] += 1
-        end
+        return summary unless summary.nil? || summary.empty?
 
-        summary
+        logger.warn "Skipped #{record_id}: could not summarize"
+        stats[:failed_summary] += 1
+        nil
       end
 
       def log_summary(stats)

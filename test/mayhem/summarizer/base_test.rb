@@ -22,9 +22,7 @@ class SummarizerBaseTest < Minitest::Test
       end
     end
 
-    def model_class=(klass)
-      @model_class = klass
-    end
+    attr_writer :model_class
 
     def process_record(record, stats)
       @records_processed << record
@@ -71,13 +69,13 @@ class SummarizerBaseTest < Minitest::Test
 
   def setup
     @topic_classifier = Class.new do
-      def classify(text)
-        ['topic1', 'topic2']
+      def classify(_text)
+        %w[topic1 topic2]
       end
     end.new
 
     @location_classifier = Class.new do
-      def classify(text, content_title:, content_location:, content_source:)
+      def classify(_text, **)
         ['location1']
       end
     end.new
@@ -185,7 +183,7 @@ class SummarizerBaseTest < Minitest::Test
 
     result = summarizer.public_classify_topics('some text')
 
-    assert_equal ['topic1', 'topic2'], result
+    assert_equal %w[topic1 topic2], result
   end
 
   def test_classify_locations_delegates_to_location_classifier
@@ -244,9 +242,8 @@ class SummarizerBaseTest < Minitest::Test
     client = Class.new do
       define_method(:chat) do |*|
         call_count += 1
-        if call_count == 1
-          raise Faraday::TooManyRequestsError, 'rate limited'
-        end
+        raise Faraday::TooManyRequestsError, 'rate limited' if call_count == 1
+
         { 'choices' => [{ 'message' => { 'content' => 'Success after retry' } }] }
       end
     end.new
@@ -258,7 +255,7 @@ class SummarizerBaseTest < Minitest::Test
     )
 
     # Override sleep to avoid actual delay
-    summarizer.define_singleton_method(:sleep) { |_| }
+    summarizer.define_singleton_method(:sleep) { |_| nil }
 
     result = summarizer.public_call_openai('prompt', 'system', 'record-1', temperature: 0.7)
 
@@ -273,7 +270,7 @@ class SummarizerBaseTest < Minitest::Test
     )
 
     record = Class.new do
-      def [](key)
+      def [](_key)
         nil
       end
     end.new
@@ -288,7 +285,7 @@ class SummarizerBaseTest < Minitest::Test
     )
 
     record = Class.new do
-      def [](key)
+      def [](_key)
         []
       end
     end.new
@@ -303,7 +300,7 @@ class SummarizerBaseTest < Minitest::Test
     )
 
     record = Class.new do
-      def [](key)
+      def [](_key)
         ['Health']
       end
     end.new
@@ -312,7 +309,7 @@ class SummarizerBaseTest < Minitest::Test
   end
 
   def test_default_model_uses_env_var
-    original_model = ENV['OPENAI_MODEL']
+    original_model = ENV.fetch('OPENAI_MODEL', nil)
     ENV['OPENAI_MODEL'] = 'test-model'
 
     summarizer = TestSummarizer.new(
@@ -341,5 +338,53 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_max_article_chars_constant
     assert_equal 20_000, Mayhem::Summarizer::Base::MAX_ARTICLE_CHARS
+  end
+
+  def test_store_source_html_sets_original_source_html_on_record
+    summarizer = TestSummarizer.new(
+      topic_classifier: @topic_classifier,
+      location_classifier: @location_classifier
+    )
+
+    record = Class.new do
+      attr_accessor :original_source_html
+    end.new
+
+    html = '<article><p>Test content</p></article>'
+    summarizer.public_store_source_html(record, html)
+
+    assert_equal html, record.original_source_html
+  end
+
+  def test_store_source_html_does_nothing_when_html_is_nil
+    summarizer = TestSummarizer.new(
+      topic_classifier: @topic_classifier,
+      location_classifier: @location_classifier
+    )
+
+    record = Class.new do
+      attr_accessor :original_source_html
+    end.new
+
+    summarizer.public_store_source_html(record, nil)
+
+    assert_nil record.original_source_html
+  end
+
+  def test_store_source_html_truncates_long_content
+    summarizer = TestSummarizer.new(
+      topic_classifier: @topic_classifier,
+      location_classifier: @location_classifier
+    )
+
+    record = Class.new do
+      attr_accessor :original_source_html
+    end.new
+
+    # HTML longer than MAX_ARTICLE_CHARS should be truncated
+    long_html = "<article>#{'x' * 25_000}</article>"
+    summarizer.public_store_source_html(record, long_html)
+
+    assert_equal Mayhem::Summarizer::Base::MAX_ARTICLE_CHARS, record.original_source_html.length
   end
 end
