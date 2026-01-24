@@ -22,6 +22,8 @@ module Mayhem
         self['parent_location_title']
       end
 
+      # Returns the parent Location record.
+      # Returns nil if the parent cannot be found.
       def parent_location
         self.class.find_by(title: parent_location_title)
       end

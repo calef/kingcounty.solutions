@@ -51,7 +51,7 @@ class PostSummarizerTest < Minitest::Test
     http_stub = Object.new
     def http_stub.fetch(*) = { body: '', 'content-type' => 'text/plain', final_url: 'http://ok' }
     summarizer = build_summarizer(client: Object.new)
-    def summarizer.fetch_article_html(_url)
+    def summarizer.fetch_html(_url)
       raise StandardError, 'boom'
     end
 
@@ -109,7 +109,7 @@ class PostSummarizerTest < Minitest::Test
     http_stub = Object.new
     def http_stub.fetch(*) = { body: 'abc', 'content-type' => 'text/plain', final_url: 'http://ok' }
     summarizer = build_summarizer(client: client)
-    def summarizer.fetch_article_html(_url) = '<article><p>Scraped</p></article>'
+    def summarizer.fetch_html(_url) = '<article><p>Scraped</p></article>'
 
     stats = summarizer.run
 
@@ -135,15 +135,15 @@ class PostSummarizerTest < Minitest::Test
     end
 
     summarizer = build_summarizer(client: client)
-    def summarizer.fetch_article_html(_url) = '<article><p>Scraped news</p></article>'
+    def summarizer.fetch_html(_url) = '<article><p>Scraped news</p></article>'
 
     stats = summarizer.run
 
     assert_equal 1, stats[:updated]
     post = Mayhem::Models::News.find(post_id)
-    expected_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(
+    expected_html = Mayhem::Content::ArticleBodyExtractor.normalized_html(
       html,
-      max_chars: Mayhem::News::PostSummarizer::MAX_ARTICLE_CHARS
+      max_chars: Mayhem::Summarizer::Base::MAX_ARTICLE_CHARS
     )
     assert_equal expected_html, post.original_source_html
     assert_equal 'Fresh summary.', post.body.strip

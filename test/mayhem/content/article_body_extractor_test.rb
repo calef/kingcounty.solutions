@@ -29,20 +29,21 @@ class ArticleBodyExtractorTest < Minitest::Test
     assert_nil Mayhem::Content::ArticleBodyExtractor.text_from_html(nil)
   end
 
-  def test_sanitized_html_truncates_when_needed
+  def test_normalized_html_truncates_when_needed
     original = 'a' * 100
-    truncated = Mayhem::Content::ArticleBodyExtractor.sanitized_html(original, max_chars: 10)
+    truncated = Mayhem::Content::ArticleBodyExtractor.normalized_html(original, max_chars: 10)
 
     assert_equal 'a' * 10, truncated
   end
 
-  def test_sanitized_html_returns_nil_for_nil
-    assert_nil Mayhem::Content::ArticleBodyExtractor.sanitized_html(nil)
+  def test_normalized_html_returns_nil_for_nil
+    assert_nil Mayhem::Content::ArticleBodyExtractor.normalized_html(nil)
   end
 
-  def test_sanitized_html_returns_full_when_within_limit
+  def test_normalized_html_returns_full_when_within_limit
     sample = '<p>short</p>'
+
     assert_equal Seldon::Support::EncodingUtils.ensure_utf8(sample),
-                 Mayhem::Content::ArticleBodyExtractor.sanitized_html(sample, max_chars: 100)
+                 Mayhem::Content::ArticleBodyExtractor.normalized_html(sample, max_chars: 100)
   end
 end

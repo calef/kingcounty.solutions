@@ -77,12 +77,8 @@ module Mayhem
         def normalize_string(data)
           return '' if data.nil?
 
-          str = data.dup
-          str.force_encoding('BINARY')
-          str = str[0, 4_000] if str.bytesize > 4_000
-          str.encode('UTF-8', invalid: :replace, undef: :replace)
-        rescue EncodingError
-          str.force_encoding('UTF-8')
+          str = Seldon::Support::EncodingUtils.ensure_utf8(data)
+          str.bytesize > 4_000 ? str[0, 4_000] : str
         end
 
         def log_non_feed_response(source_title, rss_url, page)

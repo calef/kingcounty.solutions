@@ -50,6 +50,8 @@ module Mayhem
         self['location'] = value
       end
 
+      # Returns the News record that shares this event's source_url.
+      # Returns nil if no matching news post is found.
       def news
         require_relative 'news'
         News.find_by(source_url: source_url)

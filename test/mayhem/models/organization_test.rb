@@ -115,7 +115,8 @@ class OrganizationModelTest < Minitest::Test
           body: 'Organization with topics.'
         )
 
-        assert_equal [topic.id, nil], record.topics.map { |found| found&.id }
+        # Missing topics are excluded from the result
+        assert_equal [topic.id], record.topics.map(&:id)
       end
     end
   end
