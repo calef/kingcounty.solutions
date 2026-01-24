@@ -165,84 +165,148 @@ module Mayhem
       end
 
       def create_event(event, source_title, website, stats)
-        summary = normalize_summary(event.summary)
-        return skip_event(reason: :missing_title, reason_detail: event.dtstart, stats: stats) unless summary
+        event_data = extract_event_data(event, website)
+        return unless event_basics_valid?(event_data, stats)
 
-        start_time = resolve_time(event.dtstart)
-        return skip_event(reason: :missing_start_date, reason_detail: summary, stats: stats) unless start_time
-        return skip_event(reason: :past_event, reason_detail: summary, stats: stats) if start_time < current_time
-        return skip_event(reason: :far_future_event, reason_detail: summary, stats: stats) if start_time > future_limit
+        url_result = resolve_event_urls(event_data[:source_url], website, stats)
+        return unless url_result
 
-        source_url = normalized_link(event.url, website)
-        return skip_event(reason: :missing_url, reason_detail: summary, stats: stats) unless source_url
+        content_result = prepare_event_content(url_result, event_data)
+        existing = find_existing_event(url_result[:canonical_url])
 
+        return handle_existing_event(existing, url_result, content_result[:checksum], stats) if existing
+
+        persist_new_event(event_data, url_result, content_result, source_title, stats)
+      rescue StandardError => e
+        logger.warn "Failed to persist event #{event_data&.dig(:summary) || '<untitled>'}: #{e.message}"
+        record_stat(:write_failed, stats)
+      end
+
+      def extract_event_data(event, website)
+        {
+          summary: normalize_summary(event.summary),
+          start_time: resolve_time(event.dtstart),
+          end_time: resolve_time(event.dtend),
+          source_url: normalized_link(event.url, website),
+          location: Seldon::Support::EncodingUtils.ensure_utf8(event_location(event)),
+          description: event.description,
+          dtstart: event.dtstart
+        }
+      end
+
+      def event_basics_valid?(data, stats)
+        return skip_event(reason: :missing_title, reason_detail: data[:dtstart], stats: stats) unless data[:summary]
+
+        return skip_event(reason: :missing_start_date, reason_detail: data[:summary], stats: stats) unless data[:start_time]
+
+        return skip_event(reason: :past_event, reason_detail: data[:summary], stats: stats) if data[:start_time] < current_time
+
+        return skip_event(reason: :far_future_event, reason_detail: data[:summary], stats: stats) if data[:start_time] > future_limit
+
+        return skip_event(reason: :missing_url, reason_detail: data[:summary], stats: stats) unless data[:source_url]
+
+        true
+      end
+
+      def resolve_event_urls(source_url, website, stats)
         fetch_result = fetch_event_body(source_url, stats)
-        raw_html = fetch_result && fetch_result[:html]
-        canonical_url = fetch_result && fetch_result[:canonical_url]
-        canonical_url = canonicalized_url(canonical_url, website)
-        canonical_url ||= canonicalized_url(source_url, website)
-        canonical_url = source_url if canonical_url.to_s.strip.empty?
-        return skip_event(reason: :missing_url, reason_detail: summary, stats: stats) if canonical_url.to_s.strip.empty?
+        canonical_url = determine_canonical_url(fetch_result, source_url, website)
 
-        location = Seldon::Support::EncodingUtils.ensure_utf8(event_location(event))
-        end_time = resolve_time(event.dtend) || start_time
-        start_value = start_time.iso8601
-        end_value = end_time.iso8601
-
-        normalized_canonical = normalized_link(canonical_url, nil)
-        existing_event = @existing_lock.synchronize { @existing_urls[normalized_canonical] }
-
-        description_html = Seldon::Support::EncodingUtils.ensure_utf8(raw_html)
-        description_html = Mayhem::Content::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?
-        description_html = Seldon::Support::EncodingUtils.ensure_utf8(description_html)
-        normalized_description = Mayhem::Content::HtmlNormalizer.normalize(description_html, base_url: canonical_url)
-        checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_description)
-
-        if existing_event
-          register_event_url(canonical_url, existing_event)
-          register_event_url(source_url, existing_event) unless canonical_url == source_url
-          return skip_event(reason: :locked, reason_detail: canonical_url, stats: stats) if existing_event.locked?
-
-          existing_checksum =
-            if existing_event.respond_to?(:feed_content_checksum) && existing_event.feed_content_checksum
-              existing_event.feed_content_checksum
-            elsif existing_event.respond_to?(:feed_content) && existing_event.feed_content
-              existing_normalized = Mayhem::Content::HtmlNormalizer.normalize(
-                existing_event.feed_content,
-                base_url: canonical_url
-              )
-              Mayhem::Content::HtmlNormalizer.checksum(existing_normalized)
-            end
-
-          return skip_event(reason: :unchanged, reason_detail: canonical_url, stats: stats) if existing_checksum && existing_checksum == checksum
-
-          return skip_event(reason: :duplicate, reason_detail: canonical_url, stats: stats)
+        if canonical_url.to_s.strip.empty?
+          skip_event(reason: :missing_url, reason_detail: source_url, stats: stats)
+          return nil
         end
+
+        {
+          source_url: source_url,
+          canonical_url: canonical_url,
+          fetch_result: fetch_result
+        }
+      end
+
+      def determine_canonical_url(fetch_result, source_url, website)
+        canonical = fetch_result && fetch_result[:canonical_url]
+        canonical = canonicalized_url(canonical, website)
+        canonical ||= canonicalized_url(source_url, website)
+        canonical = source_url if canonical.to_s.strip.empty?
+        canonical
+      end
+
+      def prepare_event_content(url_result, event_data)
+        raw_html = url_result[:fetch_result] && url_result[:fetch_result][:html]
+        description_html = Seldon::Support::EncodingUtils.ensure_utf8(raw_html)
+
+        if description_html.to_s.strip.empty?
+          description_html = Mayhem::Content::ContentUtils.sanitize_html(event_data[:description])
+          description_html = Seldon::Support::EncodingUtils.ensure_utf8(description_html)
+        end
+
+        description_html = Seldon::Support::EncodingUtils.ensure_utf8(description_html)
+        normalized = Mayhem::Content::HtmlNormalizer.normalize(description_html, base_url: url_result[:canonical_url])
+        checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized)
+
+        { normalized_description: normalized, checksum: checksum }
+      end
+
+      def find_existing_event(canonical_url)
+        normalized_canonical = normalized_link(canonical_url, nil)
+        @existing_lock.synchronize { @existing_urls[normalized_canonical] }
+      end
+
+      def handle_existing_event(existing, url_result, checksum, stats)
+        register_event_url(url_result[:canonical_url], existing)
+        register_event_url(url_result[:source_url], existing) unless url_result[:canonical_url] == url_result[:source_url]
+
+        return skip_event(reason: :locked, reason_detail: url_result[:canonical_url], stats: stats) if existing.locked?
+
+        existing_checksum = compute_existing_checksum(existing, url_result[:canonical_url])
+        return skip_event(reason: :unchanged, reason_detail: url_result[:canonical_url], stats: stats) if existing_checksum && existing_checksum == checksum
+
+        skip_event(reason: :duplicate, reason_detail: url_result[:canonical_url], stats: stats)
+      end
+
+      def compute_existing_checksum(existing, canonical_url)
+        if existing.respond_to?(:feed_content_checksum) && existing.feed_content_checksum
+          existing.feed_content_checksum
+        elsif existing.respond_to?(:feed_content) && existing.feed_content
+          existing_normalized = Mayhem::Content::HtmlNormalizer.normalize(
+            existing.feed_content,
+            base_url: canonical_url
+          )
+          Mayhem::Content::HtmlNormalizer.checksum(existing_normalized)
+        end
+      end
+
+      def persist_new_event(event_data, url_result, content_result, source_title, stats)
+        front_matter = build_event_front_matter(event_data, url_result, content_result, source_title)
+        new_event = Mayhem::Models::Event.create!(front_matter, body: '')
+
+        record_stat(:created, stats)
+        register_event_url(url_result[:canonical_url], new_event)
+        register_event_url(url_result[:source_url], new_event) unless url_result[:canonical_url] == url_result[:source_url]
+      end
+
+      def build_event_front_matter(event_data, url_result, content_result, source_title)
+        end_time = event_data[:end_time] || event_data[:start_time]
 
         front_matter = {
-          'title' => Seldon::Support::EncodingUtils.ensure_utf8(summary),
+          'title' => Seldon::Support::EncodingUtils.ensure_utf8(event_data[:summary]),
           'organization_title' => Seldon::Support::EncodingUtils.ensure_utf8(source_title),
-          'start_date' => start_value,
-          'end_date' => end_value,
-          'location' => location,
-          'source_url' => canonical_url
+          'start_date' => event_data[:start_time].iso8601,
+          'end_date' => end_time.iso8601,
+          'location' => event_data[:location],
+          'source_url' => url_result[:canonical_url]
         }
+
+        fetch_result = url_result[:fetch_result]
         front_matter['published'] = false if fetch_result && fetch_result[:not_found]
-        unless normalized_description.to_s.strip.empty?
-          front_matter['feed_content'] = normalized_description
-          front_matter['feed_content_checksum'] = checksum
+
+        unless content_result[:normalized_description].to_s.strip.empty?
+          front_matter['feed_content'] = content_result[:normalized_description]
+          front_matter['feed_content_checksum'] = content_result[:checksum]
         end
-        body_content = ''
-        new_event = Mayhem::Models::Event.create!(
-          front_matter,
-          body: body_content
-        )
-        record_stat(:created, stats)
-        register_event_url(canonical_url, new_event)
-        register_event_url(source_url, new_event) unless canonical_url == source_url
-      rescue StandardError => e
-        logger.warn "Failed to persist event #{summary || '<untitled>'}: #{e.message}"
-        record_stat(:write_failed, stats)
+
+        front_matter
       end
 
       def skip_event(reason:, stats:, reason_detail: nil)
