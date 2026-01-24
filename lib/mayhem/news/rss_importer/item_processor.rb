@@ -22,13 +22,13 @@ module Mayhem
         def process(item, source_title, source_record, stats)
           item_data = extract_item_data(item, source_record)
           return unless required_fields_valid?(item_data, stats)
+          return if already_registered?(item_data, stats)
 
           content_result = fetch_content_if_needed(item_data)
           item_data[:normalized_url] = update_canonical_url(item_data, content_result, stats)
           return unless item_data[:normalized_url]
 
           return unless content_valid?(content_result, stats)
-          return if already_registered?(item_data, stats)
 
           write_post_and_record_result(source_title, item_data, content_result, stats)
         end
