@@ -2,6 +2,7 @@
 
 require 'nokogiri'
 require 'reverse_markdown'
+require 'seldon'
 
 module Mayhem
   module Content
@@ -11,9 +12,7 @@ module Mayhem
       def sanitize_html(source)
         return '' unless source
 
-        text = source.to_s.dup
-        text.force_encoding('UTF-8')
-        text.scrub('')
+        text = Seldon::Support::EncodingUtils.ensure_utf8(source.to_s)
         text.gsub(/\s+/, ' ').strip
       end
 
