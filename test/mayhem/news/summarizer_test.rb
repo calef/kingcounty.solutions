@@ -141,7 +141,7 @@ class PostSummarizerTest < Minitest::Test
 
     assert_equal 1, stats[:updated]
     post = Mayhem::Models::News.find(post_id)
-    expected_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(
+    expected_html = Mayhem::Content::ArticleBodyExtractor.normalized_html(
       html,
       max_chars: Mayhem::News::PostSummarizer::MAX_ARTICLE_CHARS
     )

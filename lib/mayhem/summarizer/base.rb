@@ -140,7 +140,7 @@ module Mayhem
       def store_source_html(record, html)
         return unless html
 
-        source_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(
+        source_html = Mayhem::Content::ArticleBodyExtractor.normalized_html(
           html,
           max_chars: MAX_ARTICLE_CHARS
         )

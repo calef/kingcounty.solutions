@@ -19,7 +19,7 @@ module Mayhem
         nil
       end
 
-      def sanitized_html(html, max_chars: nil)
+      def normalized_html(html, max_chars: nil)
         return nil unless html
 
         cleaned = Seldon::Support::EncodingUtils.ensure_utf8(html)

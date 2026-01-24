@@ -163,7 +163,7 @@ class EventSummarizerTest < Minitest::Test
 
     assert_equal 1, stats[:updated]
     event = Mayhem::Models::Event.find(event_id)
-    expected_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(
+    expected_html = Mayhem::Content::ArticleBodyExtractor.normalized_html(
       html,
       max_chars: Mayhem::Events::EventSummarizer::MAX_ARTICLE_CHARS
     )
