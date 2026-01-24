@@ -347,6 +347,7 @@ class SummarizerBaseTest < Minitest::Test
 
   def test_model_can_be_overridden_in_constructor
     summarizer = TestSummarizer.new(
+      client: @client,
       model: 'custom-model',
       topic_classifier: @topic_classifier,
       location_classifier: @location_classifier
