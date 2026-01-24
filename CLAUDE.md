@@ -94,7 +94,7 @@ Set `locked: true` in front matter to prevent automation from modifying a file. 
 Use consistent prefixes to indicate method purpose:
 
 | Prefix | Purpose | Example |
-|--------|---------|---------|
+| -------- | --------- | --------- |
 | `find_*` | Direct lookups returning records | `find_related_records`, `find_by` |
 | `filter_*` | Conditional filtering of collections | `filter_to_highest_level` |
 | `parse_*` | Parsing external formats (JSON, XML, etc.) | `parse_location_response` |
