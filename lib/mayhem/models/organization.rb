@@ -2,11 +2,13 @@
 
 require 'fmrepo'
 require_relative 'abstract_jekyll_collection'
+require_relative 'concerns/relatable'
 require_relative 'concerns/topical'
 
 module Mayhem
   module Models
     class Organization < AbstractJekyllCollection
+      include Mayhem::Models::Concerns::Relatable
       include Mayhem::Models::Concerns::Topical
 
       COLLECTION_DIR = '_organizations'
@@ -37,17 +39,17 @@ module Mayhem
 
       def news
         require_relative 'news'
-        related_records(Mayhem::Models::News)
+        find_related_records(Mayhem::Models::News, match_key: :title, target_field: :organization_title, array_field: false)
       end
 
       def events
         require_relative 'event'
-        related_records(Mayhem::Models::Event)
+        find_related_records(Mayhem::Models::Event, match_key: :title, target_field: :organization_title, array_field: false)
       end
 
       def images
         require_relative 'image'
-        related_records(Mayhem::Models::Image)
+        find_related_records(Mayhem::Models::Image, match_key: :title, target_field: :organization_title, array_field: false)
       end
 
       def news_rss_url
@@ -84,15 +86,6 @@ module Mayhem
 
       def website_xml_sitemap_urls
         self['website_xml_sitemap_urls'] || []
-      end
-
-      private
-
-      def related_records(model)
-        title_value = title.to_s.strip
-        return [] if title_value.empty?
-
-        model.all.select { |record| record.organization_title == title_value }
       end
     end
   end

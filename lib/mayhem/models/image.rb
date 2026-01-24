@@ -1,11 +1,13 @@
 # frozen_string_literal: true
 
 require_relative 'abstract_jekyll_collection'
+require_relative 'concerns/relatable'
 require_relative 'concerns/sourced'
 
 module Mayhem
   module Models
     class Image < AbstractJekyllCollection
+      include Mayhem::Models::Concerns::Relatable
       include Mayhem::Models::Concerns::Sourced
 
       repository_role :images
@@ -29,23 +31,12 @@ module Mayhem
 
       def news
         require_relative 'news'
-        related_records(Mayhem::Models::News)
+        find_related_records(Mayhem::Models::News, match_key: :checksum, target_field: :image_checksums)
       end
 
       def events
         require_relative 'event'
-        related_records(Mayhem::Models::Event)
-      end
-
-      private
-
-      def related_records(model)
-        checksum_value = checksum.to_s.strip
-        return [] if checksum_value.empty?
-
-        model.all.select do |record|
-          Array(record.image_checksums).map(&:to_s).map(&:strip).include?(checksum_value)
-        end
+        find_related_records(Mayhem::Models::Event, match_key: :checksum, target_field: :image_checksums)
       end
     end
   end
