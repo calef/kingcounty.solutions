@@ -36,106 +36,159 @@ module Mayhem
       def process_post(post, stats)
         record_id = post.id
 
-        if post.locked? == true
-          logger.debug "Skipping #{record_id}: locked is true"
-          stats[:skipped_locked] += 1
-          return
-        end
-        unless post.published?
-          logger.debug "Skipping #{record_id}: published is false"
-          stats[:skipped_unpublished] += 1
-          # For unpublished posts during backfill, just set location_titles to empty array
-          # without making API calls to classify locations
-          needs_location_titles = post['location_titles'].nil?
-          if needs_location_titles && post.summarized? == true
-            post.location_titles = []
-            post.save!
-            @pruner.unpublish(post)
-            stats[:locations_backfilled] += 1
-            logger.info "Set location_titles to [] and cleaned up images for unpublished #{record_id}"
-          end
-          return
-        end
+        return if skip_locked_post?(post, record_id, stats)
+        return if skip_unpublished_post?(post, record_id, stats)
 
+        work_needed = determine_work_needed(post)
+        return unless work_needed[:any_work_needed]
+
+        return if skip_missing_source?(post, record_id, work_needed[:needs_summary], stats)
+
+        summary_text = process_summary(post, record_id, work_needed, stats)
+        return if work_needed[:needs_summary] && summary_text.nil?
+
+        summary_text ||= post.body&.strip || ''
+        summary_missing = summary_text.to_s.strip.empty?
+
+        classify_post_topics(post, record_id, summary_text, work_needed[:needs_topic_titles], stats)
+        classify_post_locations(post, record_id, summary_text, work_needed[:needs_location_titles], stats)
+
+        finalize_post(post, record_id, summary_text, summary_missing, work_needed, stats)
+      rescue StandardError => e
+        stats[:errors] += 1
+        logger.error "Error processing #{record_id}: #{e.class} - #{e.message}"
+      end
+
+      def skip_locked_post?(post, record_id, stats)
+        return false unless post.locked? == true
+
+        logger.debug "Skipping #{record_id}: locked is true"
+        stats[:skipped_locked] += 1
+        true
+      end
+
+      def skip_unpublished_post?(post, record_id, stats)
+        return false if post.published?
+
+        logger.debug "Skipping #{record_id}: published is false"
+        stats[:skipped_unpublished] += 1
+        backfill_unpublished_locations(post, record_id, stats)
+        true
+      end
+
+      def backfill_unpublished_locations(post, record_id, stats)
+        needs_location_titles = post['location_titles'].nil?
+        return unless needs_location_titles && post.summarized? == true
+
+        post.location_titles = []
+        post.save!
+        @pruner.unpublish(post)
+        stats[:locations_backfilled] += 1
+        logger.info "Set location_titles to [] and cleaned up images for unpublished #{record_id}"
+      end
+
+      def determine_work_needed(post)
         existing_summary = post.body&.strip
         needs_summary = post.summarized? != true
         needs_topic_titles = needs_classification_for_record?(post, 'topic_titles')
         needs_location_titles = needs_classification_for_record?(post, 'location_titles')
         summary_missing = post.summarized? == true && existing_summary.to_s.empty?
-        return unless needs_summary || needs_topic_titles || needs_location_titles || summary_missing
 
-        source_url = post.source_url
-        if needs_summary && source_url.nil?
-          logger.warn "Skipping #{record_id}: no source_url"
-          stats[:skipped_missing_source] += 1
-          return
+        {
+          needs_summary: needs_summary,
+          needs_topic_titles: needs_topic_titles,
+          needs_location_titles: needs_location_titles,
+          summary_missing: summary_missing,
+          any_work_needed: needs_summary || needs_topic_titles || needs_location_titles || summary_missing
+        }
+      end
+
+      def skip_missing_source?(post, record_id, needs_summary, stats)
+        return false unless needs_summary && post.source_url.nil?
+
+        logger.warn "Skipping #{record_id}: no source_url"
+        stats[:skipped_missing_source] += 1
+        true
+      end
+
+      def process_summary(post, record_id, work_needed, stats)
+        return post.body&.strip unless work_needed[:needs_summary]
+
+        content = fetch_article_content(post, record_id)
+        return handle_empty_content(post, record_id, stats) if content[:article_text].to_s.empty?
+
+        store_source_html(post, content[:html])
+        summary_text = generate_summary(content[:article_text], post.source_url, record_id, stats)
+
+        if summary_text.nil? || summary_text.empty?
+          nil
+        else
+          post.summarized = true
+          summary_text
         end
+      end
 
+      def fetch_article_content(post, record_id)
         feed_html = post.feed_content
         fallback_text = extract_text(feed_html)
-        html_for_summary = nil
-        article_text = nil
+        scraped_html = fetch_html(post.source_url)
+        scraped_text = extract_text(scraped_html)
 
-        if needs_summary
-          scraped_html = fetch_html(source_url)
-          scraped_text = extract_text(scraped_html)
-          if prefer_fallback_body?(scraped_text, fallback_text)
-            article_text = fallback_text
-            html_for_summary = feed_html
-            logger.debug "Using fallback body for #{record_id}"
-          else
-            article_text = scraped_text
-            html_for_summary = scraped_html
-          end
-          article_text ||= fallback_text
-          html_for_summary ||= feed_html
-          article_text = article_text&.strip
-          if article_text.to_s.empty?
-            logger.warn "Skipping #{record_id}: no usable content to summarize"
-            stats[:failed_summary] += 1
-            mark_unsummarizable(post, record_id)
-            return
-          end
-          article_text = truncate_text(article_text, record_id)
-
-          store_source_html(post, html_for_summary)
-          summary_text = generate_summary(article_text, source_url, record_id, stats)
-          return if needs_summary && (summary_text.nil? || summary_text.empty?)
-
-          post.summarized = true
+        if prefer_fallback_body?(scraped_text, fallback_text)
+          logger.debug "Using fallback body for #{record_id}"
+          article_text = fallback_text
+          html = feed_html
         else
-          summary_text = post.body&.strip
+          article_text = scraped_text
+          html = scraped_html
         end
 
-        summary_text ||= post.body&.strip || ''
-        summary_missing = summary_text.to_s.strip.empty?
+        article_text ||= fallback_text
+        html ||= feed_html
+        article_text = truncate_text(article_text&.strip, record_id)
 
-        if needs_topic_titles
-          classified_topic_titles = classify_topics(summary_text)
-          post.topic_titles = classified_topic_titles
-          if classified_topic_titles.empty?
-            logger.info "No topics matched for #{record_id}"
-            stats[:missing_topics] += 1
-          end
-        end
+        { article_text: article_text, html: html }
+      end
 
-        if needs_location_titles
-          classified_locations = classify_locations(
-            summary_text,
-            content_title: post.title,
-            content_source: post.organization_title
-          )
-          post.location_titles = classified_locations
-          if classified_locations.empty?
-            logger.info "No locations matched for #{record_id}"
-            stats[:missing_locations] += 1
-          end
-        end
+      def handle_empty_content(post, record_id, stats)
+        logger.warn "Skipping #{record_id}: no usable content to summarize"
+        stats[:failed_summary] += 1
+        mark_unsummarizable(post, record_id)
+        nil
+      end
 
-        # Set published to false if either topic titles or location titles are empty
+      def classify_post_topics(post, record_id, summary_text, needs_topic_titles, stats)
+        return unless needs_topic_titles
+
+        classified_topic_titles = classify_topics(summary_text)
+        post.topic_titles = classified_topic_titles
+
+        return unless classified_topic_titles.empty?
+
+        logger.info "No topics matched for #{record_id}"
+        stats[:missing_topics] += 1
+      end
+
+      def classify_post_locations(post, record_id, summary_text, needs_location_titles, stats)
+        return unless needs_location_titles
+
+        classified_locations = classify_locations(
+          summary_text,
+          content_title: post.title,
+          content_source: post.organization_title
+        )
+        post.location_titles = classified_locations
+
+        return unless classified_locations.empty?
+
+        logger.info "No locations matched for #{record_id}"
+        stats[:missing_locations] += 1
+      end
+
+      def finalize_post(post, record_id, summary_text, summary_missing, work_needed, stats)
         should_unpublish = summary_missing ||
-                           (needs_topic_titles && post.topic_titles.empty?) ||
-                           (needs_location_titles && post.location_titles.empty?)
+                           (work_needed[:needs_topic_titles] && post.topic_titles.empty?) ||
+                           (work_needed[:needs_location_titles] && post.location_titles.empty?)
 
         post.body = summary_text
         post.save!
@@ -144,9 +197,6 @@ module Mayhem
 
         stats[:updated] += 1
         logger.info "Updated #{record_id}"
-      rescue StandardError => e
-        stats[:errors] += 1
-        logger.error "Error processing #{record_id}: #{e.class} - #{e.message}"
       end
 
       def generate_summary(article_text, source_url, record_id, stats)
