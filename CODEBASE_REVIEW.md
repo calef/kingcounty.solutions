@@ -11,7 +11,7 @@ This document contains a comprehensive review of the Mayhem library with actiona
 |----------|-------|-------------|--------|
 | HIGH | 3.4 | Fix race condition in IcalImporter stats collection | PR #431 |
 | HIGH | 3.1 | Add nil-checking to all `find_by()` calls | PR #432 |
-| HIGH | 1.3 | Extract thread pool pattern to shared utility (~60 lines saved) | Open |
+| HIGH | 1.3 | Extract thread pool pattern to shared utility (~60 lines saved) | PR #433 |
 | MEDIUM | 1.1 | Extract `related_records` pattern to concern (~24 lines saved) | Open |
 | MEDIUM | 4.2 | Create encoding utils to standardize validation | Open |
 | MEDIUM | 9.1-9.3 | Break down complex methods in ItemProcessor, IcalImporter, PostSummarizer | Open |
@@ -439,3 +439,4 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 | - | Rename `sanitized_html` to `normalized_html` | PR #429 | 2026-01-23 |
 | 3.4 | Fix race condition in IcalImporter stats collection | PR #431 | 2026-01-23 |
 | 3.1 | Add nil-checking to find_by() calls | PR #432 | 2026-01-23 |
+| 1.3 | Extract thread pool pattern to PoolExecutor | PR #433 | 2026-01-23 |
