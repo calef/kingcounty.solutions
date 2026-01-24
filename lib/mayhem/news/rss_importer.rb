@@ -16,6 +16,7 @@ require_relative 'rss_importer/item_parser'
 require_relative 'rss_importer/item_processor'
 require_relative 'rss_importer/post_writer'
 require_relative 'rss_importer/source_enumerator'
+require_relative '../threading/pool_executor'
 
 module Mayhem
   module News
@@ -103,23 +104,13 @@ module Mayhem
           organization_model: @organization_model,
           sources_dir: @sources_dir
         )
+        @executor = Threading::PoolExecutor.new(workers: @workers)
       end
 
       def run
-        queue = Queue.new
-        @source_enumerator.records.each { |source| queue << source }
-
-        threads = Array.new(@workers) do
-          Thread.new do
-            loop do
-              source_record = queue.pop(true)
-              @feed_runner.process(source_record)
-            rescue ThreadError
-              break
-            end
-          end
+        @executor.run(@source_enumerator.records) do |source_record|
+          @feed_runner.process(source_record)
         end
-        threads.each(&:join)
       end
     end
   end
