@@ -89,7 +89,9 @@ module Mayhem
       end
 
       def record_stat(key, stats)
-        stats[key] += 1 if stats
+        raise ArgumentError, 'stats hash is required for record_stat' unless stats
+
+        stats[key] += 1
         @stats_lock.synchronize { @stats[key] += 1 }
       end
 
@@ -252,7 +254,7 @@ module Mayhem
         record_stat(:write_failed, stats)
       end
 
-      def skip_event(reason:, reason_detail: nil, stats: nil)
+      def skip_event(reason:, stats:, reason_detail: nil)
         debug_detail = reason_detail ? " (#{reason_detail})" : ''
         logger.debug "Skipping event: #{reason}#{debug_detail}"
         record_stat(reason, stats)
