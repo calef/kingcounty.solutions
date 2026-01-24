@@ -15,7 +15,8 @@ This document contains a comprehensive review of the Mayhem library with actiona
 | MEDIUM | 1.1 | Extract `related_records` pattern to concern (~24 lines saved) | PR #434 |
 | MEDIUM | 4.2 | Standardize encoding to use Seldon utility | PR #436 |
 | MEDIUM | 9.1 | Break down ItemProcessor#process() | PR #438 |
-| MEDIUM | 9.2-9.3 | Break down complex methods in IcalImporter, PostSummarizer | Open |
+| MEDIUM | 9.2 | Break down IcalImporter#create_event() | PR #439 |
+| MEDIUM | 9.3 | Break down PostSummarizer#process_post() | Open |
 | MEDIUM | 5.1 | Add threading edge case tests | Open |
 | LOW | 2.1 | Standardize naming conventions | Open |
 | LOW | 8.2 | Resolve FMRepo introspection fragility | Open |
@@ -444,3 +445,4 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 | 1.1 | Extract related_records pattern to Relatable concern | PR #434 | 2026-01-23 |
 | 4.2 | Standardize encoding to use Seldon::Support::EncodingUtils | PR #436 | 2026-01-23 |
 | 9.1 | Refactor ItemProcessor#process() into smaller methods | PR #438 | 2026-01-24 |
+| 9.2 | Refactor IcalImporter#create_event() into smaller methods | PR #439 | 2026-01-24 |
