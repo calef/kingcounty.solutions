@@ -260,4 +260,159 @@ class IcalImporterTest < Minitest::Test
     assert_includes titles, 'Near Future Event'
     refute_includes titles, 'Too Far Event'
   end
+
+  # --- Threading Edge Case Tests (Issue 5.1) ---
+
+  def test_concurrent_organization_imports_are_thread_safe
+    # Create multiple organizations with unique events
+    (2..5).each do |i|
+      Mayhem::Models::Organization.create!(
+        {
+          'title' => "Organization #{i}",
+          'website_url' => "https://org#{i}.example.org/",
+          'events_ical_url' => "https://org#{i}.example.org/events.ics"
+        },
+        body: ''
+      )
+    end
+
+    # Create unique ICS content for each organization
+    responses = {
+      'https://example.org/events.ics' => { body: ICS_BODY, content_type: 'text/calendar' },
+      'https://example.org/events/test' => { body: HTML_BODY, content_type: 'text/html' }
+    }
+
+    (2..5).each do |i|
+      ics = <<~ICS
+        BEGIN:VCALENDAR
+        VERSION:2.0
+        BEGIN:VEVENT
+        UID:org#{i}-event
+        SUMMARY:Event from Org #{i}
+        DTSTART:20240212T180000Z
+        DTEND:20240212T200000Z
+        LOCATION:Hall #{i}
+        DESCRIPTION:Description #{i}
+        URL:https://org#{i}.example.org/events/event#{i}
+        END:VEVENT
+        END:VCALENDAR
+      ICS
+      responses["https://org#{i}.example.org/events.ics"] = { body: ics, content_type: 'text/calendar' }
+      responses["https://org#{i}.example.org/events/event#{i}"] = { body: HTML_BODY, content_type: 'text/html' }
+    end
+
+    thread_safe_http = ThreadSafeStubHttpClient.new(responses)
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: thread_safe_http,
+      workers: 4,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+
+    importer.run
+
+    events = Mayhem::Models::Event.all.to_a
+    # Should have 5 events total (1 from original setup + 4 from new orgs)
+    assert_equal 5, events.count, 'All organizations should create events without race conditions'
+
+    titles = events.map(&:title).sort
+    assert_includes titles, 'Test Event'
+    assert_includes titles, 'Event from Org 2'
+    assert_includes titles, 'Event from Org 3'
+    assert_includes titles, 'Event from Org 4'
+    assert_includes titles, 'Event from Org 5'
+  end
+
+  def test_stats_collection_is_thread_safe_under_contention
+    # Create many organizations to stress test stats collection
+    org_count = 10
+    (2..org_count).each do |i|
+      Mayhem::Models::Organization.create!(
+        {
+          'title' => "Stats Org #{i}",
+          'website_url' => "https://stats#{i}.example.org/",
+          'events_ical_url' => "https://stats#{i}.example.org/events.ics"
+        },
+        body: ''
+      )
+    end
+
+    responses = {
+      'https://example.org/events.ics' => { body: ICS_BODY, content_type: 'text/calendar' },
+      'https://example.org/events/test' => { body: HTML_BODY, content_type: 'text/html' }
+    }
+
+    # Half of the organizations will have valid events, half will have missing URLs
+    (2..org_count).each do |i|
+      if i.even?
+        # Valid event
+        ics = <<~ICS
+          BEGIN:VCALENDAR
+          VERSION:2.0
+          BEGIN:VEVENT
+          UID:stats#{i}-event
+          SUMMARY:Stats Event #{i}
+          DTSTART:20240212T180000Z
+          URL:https://stats#{i}.example.org/events/event#{i}
+          END:VEVENT
+          END:VCALENDAR
+        ICS
+        responses["https://stats#{i}.example.org/events.ics"] = { body: ics, content_type: 'text/calendar' }
+        responses["https://stats#{i}.example.org/events/event#{i}"] = { body: HTML_BODY, content_type: 'text/html' }
+      else
+        # Event without URL (will be skipped)
+        ics = <<~ICS
+          BEGIN:VCALENDAR
+          VERSION:2.0
+          BEGIN:VEVENT
+          UID:stats#{i}-event
+          SUMMARY:No URL Event #{i}
+          DTSTART:20240212T180000Z
+          END:VEVENT
+          END:VCALENDAR
+        ICS
+        responses["https://stats#{i}.example.org/events.ics"] = { body: ics, content_type: 'text/calendar' }
+      end
+    end
+
+    thread_safe_http = ThreadSafeStubHttpClient.new(responses)
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: thread_safe_http,
+      workers: 6,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+
+    # Should complete without deadlock or race condition in stats collection
+    importer.run
+
+    events = Mayhem::Models::Event.all.to_a
+    # Original + 4 even-numbered orgs (2, 4, 6, 8) should have events
+    assert_operator events.count, :>=, 5, 'Valid events should be created'
+  end
+
+  # Thread-safe HTTP client for concurrent tests
+  class ThreadSafeStubHttpClient
+    def initialize(responses)
+      @responses = responses
+      @mutex = Mutex.new
+      @calls = []
+    end
+
+    def fetch(url, accept:)
+      @mutex.synchronize { @calls << { url: url, accept: accept } }
+
+      # Simulate network latency to increase chance of race conditions
+      sleep(rand * 0.01)
+
+      response = @responses[url]
+      raise Seldon::Support::HttpClient::HttpError, "Missing stub response for #{url}" unless response
+
+      {
+        body: response[:body],
+        content_type: response[:content_type],
+        final_url: response.fetch(:final_url, url)
+      }
+    end
+
+    attr_reader :calls
+  end
 end

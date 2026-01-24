@@ -7,6 +7,12 @@ require 'uri'
 
 module Mayhem
   module Content
+    # Normalizes HTML content for consistent storage and comparison.
+    #
+    # Key operations:
+    # - Strips all attributes except explicitly allowed ones (e.g., src on img)
+    # - Normalizes URLs to absolute form with tracking parameters removed
+    # - Produces consistent output for checksum comparison
     module HtmlNormalizer
       module_function
 
@@ -17,6 +23,11 @@ module Mayhem
         'img' => %w[src]
       }.freeze
 
+      # Normalizes HTML by stripping disallowed attributes and normalizing URLs.
+      #
+      # @param html [String, nil] Raw HTML content
+      # @param base_url [String, nil] Base URL for resolving relative links
+      # @return [String] Normalized HTML, or empty string if input is nil/empty
       def normalize(html, base_url: nil)
         return '' if html.nil?
 
@@ -66,6 +77,16 @@ module Mayhem
         canonicalize_url(normalized)
       end
 
+      # Canonicalizes a URL for consistent comparison and deduplication.
+      #
+      # Operations performed:
+      # 1. Lowercase scheme and host (HTTP/HTTPS only)
+      # 2. Remove tracking parameters (utm_*, fbclid, gclid, etc.)
+      # 3. Sort remaining query parameters alphabetically
+      # 4. Remove empty fragments
+      #
+      # @param url [String] URL to canonicalize
+      # @return [String] Canonicalized URL, or original if parsing fails
       def canonicalize_url(url)
         uri = URI.parse(url)
         return url unless uri.is_a?(URI::HTTP) || uri.is_a?(URI::HTTPS)
