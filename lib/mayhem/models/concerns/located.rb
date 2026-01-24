@@ -5,6 +5,8 @@ require_relative '../location'
 module Mayhem
   module Models
     module Concerns
+      # Provides location association attributes for content models.
+      # Includes location_titles property and locations accessor.
       module Located
         def location_titles
           self['location_titles'] || []

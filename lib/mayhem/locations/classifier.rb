@@ -93,6 +93,12 @@ module Mayhem
         PROMPT
       end
 
+      # Parses the OpenAI response containing a JSON array of location titles.
+      # Validates titles against known locations and filters to highest level.
+      #
+      # @param response [String] Raw response from OpenAI (should contain JSON array)
+      # @param locations [Array<Hash>] Known locations with :title keys
+      # @return [Array<String>] Valid location titles, filtered to highest level
       def parse_location_response(response, locations)
         json_match = response.match(/\[.*\]/m)
         return [] unless json_match

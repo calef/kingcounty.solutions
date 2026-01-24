@@ -37,6 +37,15 @@ module Mayhem
         end.join("\n")
       end
 
+      # Filters a list of location titles to only include the highest-level
+      # locations, removing any that have an ancestor also in the list.
+      #
+      # For example, if both "Seattle" and "King County" are in the list,
+      # and Seattle is a child of King County, only "King County" is returned.
+      #
+      # @param titles [Array<String>] Location titles to filter
+      # @param locations [Array<Hash>] Location data with :title and :parent_location_title
+      # @return [Array<String>] Filtered titles with only highest-level locations
       def filter_to_highest_level(titles, locations)
         return titles if titles.empty?
 
