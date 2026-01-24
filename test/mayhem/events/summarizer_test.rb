@@ -165,7 +165,7 @@ class EventSummarizerTest < Minitest::Test
     event = Mayhem::Models::Event.find(event_id)
     expected_html = Mayhem::Content::ArticleBodyExtractor.normalized_html(
       html,
-      max_chars: Mayhem::Events::EventSummarizer::MAX_ARTICLE_CHARS
+      max_chars: Mayhem::Summarizer::Base::MAX_ARTICLE_CHARS
     )
     assert_equal expected_html, event.original_source_html
     assert_equal 'Summary text', event.body.strip

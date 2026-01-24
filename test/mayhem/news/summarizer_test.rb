@@ -143,7 +143,7 @@ class PostSummarizerTest < Minitest::Test
     post = Mayhem::Models::News.find(post_id)
     expected_html = Mayhem::Content::ArticleBodyExtractor.normalized_html(
       html,
-      max_chars: Mayhem::News::PostSummarizer::MAX_ARTICLE_CHARS
+      max_chars: Mayhem::Summarizer::Base::MAX_ARTICLE_CHARS
     )
     assert_equal expected_html, post.original_source_html
     assert_equal 'Fresh summary.', post.body.strip
