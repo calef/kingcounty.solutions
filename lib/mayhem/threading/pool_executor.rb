@@ -25,20 +25,33 @@ module Mayhem
       # @param on_error [Proc, nil] Called with (item, exception) when processing fails
       # @yield [item] Block called for each item
       def run(items, max_workers: nil, on_error: nil, &)
-        items = items.to_a
-        return if items.empty?
+        # Convert to array only if needed for counting
+        items_array = items.is_a?(Array) ? items : items.to_a
+        return if items_array.empty?
 
-        worker_count = determine_worker_count(items.size, max_workers)
-        queue = build_queue(items)
+        worker_count = determine_worker_count(items_array.size, max_workers)
+        queue = build_queue(items_array)
 
         threads = spawn_workers(worker_count, queue, on_error, &)
-        threads.each(&:join)
+        threads.each(&:value)
       end
 
       private
 
       def determine_worker_count(item_count, max_override)
-        effective_max = max_override || @workers
+        effective_max =
+          if max_override.nil?
+            @workers
+          else
+            begin
+              Integer(max_override)
+            rescue ArgumentError, TypeError
+              @workers
+            end
+          end
+
+        # Ensure we never run with fewer than 1 worker when there are items to process.
+        effective_max = [effective_max, 1].max
         [item_count, effective_max].min
       end
 

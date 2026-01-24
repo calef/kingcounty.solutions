@@ -40,7 +40,7 @@ class PoolExecutorTest < Minitest::Test
 
     # With only 2 items and workers limited to item count,
     # we should see at most 2 unique thread IDs
-    assert thread_ids.uniq.size <= 2
+    assert_operator thread_ids.uniq.size, :<=, 2
   end
 
   def test_on_error_callback_receives_item_and_exception
@@ -113,5 +113,44 @@ class PoolExecutorTest < Minitest::Test
     end
 
     assert_equal [1, 2, 3], results.sort
+  end
+
+  def test_handles_zero_max_workers_override
+    executor = Mayhem::Threading::PoolExecutor.new(workers: 10)
+    results = []
+    mutex = Mutex.new
+
+    # max_workers: 0 should be clamped to 1
+    executor.run([1, 2, 3], max_workers: 0) do |item|
+      mutex.synchronize { results << item }
+    end
+
+    assert_equal [1, 2, 3].sort, results.sort
+  end
+
+  def test_handles_negative_max_workers_override
+    executor = Mayhem::Threading::PoolExecutor.new(workers: 10)
+    results = []
+    mutex = Mutex.new
+
+    # max_workers: -5 should be clamped to 1
+    executor.run([1, 2, 3], max_workers: -5) do |item|
+      mutex.synchronize { results << item }
+    end
+
+    assert_equal [1, 2, 3].sort, results.sort
+  end
+
+  def test_handles_invalid_max_workers_override
+    executor = Mayhem::Threading::PoolExecutor.new(workers: 2)
+    results = []
+    mutex = Mutex.new
+
+    # max_workers: 'invalid' should fall back to default workers
+    executor.run([1, 2, 3], max_workers: 'invalid') do |item|
+      mutex.synchronize { results << item }
+    end
+
+    assert_equal [1, 2, 3].sort, results.sort
   end
 end
