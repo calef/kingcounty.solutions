@@ -21,7 +21,7 @@ This document contains a comprehensive review of the Mayhem library with actiona
 | LOW | 2.1 | Standardize naming conventions | PR #443 |
 | LOW | 2.2 | Add missing setters to Sourced concern | PR #443 |
 | LOW | 8.2 | Resolve FMRepo introspection fragility | Open |
-| LOW | 8.1 | Add documentation for complex algorithms | Open |
+| LOW | 8.1 | Add documentation for complex algorithms | PR #444 |
 
 ---
 
@@ -451,3 +451,4 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 | 5.1 | Add threading edge case tests for PoolExecutor and IcalImporter | PR #442 | 2026-01-24 |
 | 2.1 | Standardize naming conventions and add documentation | PR #443 | 2026-01-24 |
 | 2.2 | Add missing setters to Sourced concern | PR #443 | 2026-01-24 |
+| 8.1 | Add documentation for complex algorithms | PR #444 | 2026-01-24 |
