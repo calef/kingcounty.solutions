@@ -22,9 +22,9 @@ module Mayhem
         "_posts/#{date_prefix}-#{slug}.md"
       end
 
-      fm_accessor :date, :rss_guid
-      fm_accessor :event_ids, default: []
-      fm_boolean :events_extracted
+      attribute :date, :rss_guid
+      attribute :event_ids, default: []
+      boolean_attribute :events_extracted
 
       def events
         require_relative 'event'

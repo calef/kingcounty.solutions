@@ -1,8 +1,9 @@
 GIT
   remote: https://github.com/calef/fmrepo.git
-  revision: 76527fde8cdbac97dd3460362ae255cfa71eeb2d
+  revision: 4126767db39dd5a3dcae11430d42bca6075b6885
+  branch: add-attribute-macros
   specs:
-    fmrepo (0.2.10)
+    fmrepo (0.2.11)
 
 GIT
   remote: https://github.com/calef/seldon.git

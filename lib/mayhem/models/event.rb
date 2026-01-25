@@ -22,8 +22,8 @@ module Mayhem
         "_events/#{name}.md"
       end
 
-      fm_accessor :end_date, :location, :start_date
-      fm_boolean :generated_from_post
+      attribute :end_date, :location, :start_date
+      boolean_attribute :generated_from_post
 
       # Returns the News record that shares this event's source_url.
       # Returns nil if no matching news post is found.

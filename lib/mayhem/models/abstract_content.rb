@@ -12,10 +12,10 @@ module Mayhem
       include Mayhem::Models::Concerns::Sourced
       include Mayhem::Models::Concerns::Topical
 
-      fm_accessor :feed_content, :feed_content_checksum, :original_source_html
-      fm_accessor :image_checksums, default: []
-      fm_boolean :locked
-      fm_boolean :summarized
+      attribute :feed_content, :feed_content_checksum, :original_source_html
+      attribute :image_checksums, default: []
+      boolean_attribute :locked
+      boolean_attribute :summarized
 
       # Returns Image records for each checksum in image_checksums.
       # Images that cannot be found are excluded from the result.

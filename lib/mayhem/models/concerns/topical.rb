@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require_relative '../topic'
-require_relative 'front_matter_accessors'
 
 module Mayhem
   module Models
@@ -10,8 +9,7 @@ module Mayhem
       # Includes topic_titles property and topics accessor.
       module Topical
         def self.included(base)
-          base.include(FrontMatterAccessors) unless base.include?(FrontMatterAccessors)
-          base.fm_accessor :topic_titles, default: []
+          base.attribute :topic_titles, default: []
         end
 
         # Returns Topic records for each title in topic_titles.

@@ -1,15 +1,12 @@
 # frozen_string_literal: true
 
 require 'fmrepo'
-require_relative 'concerns/front_matter_accessors'
 
 module Mayhem
   module Models
     class AbstractJekyllCollection < FMRepo::Record
-      include Concerns::FrontMatterAccessors
-
-      fm_accessor :title
-      fm_boolean :published, default: true
+      attribute :title
+      boolean_attribute :published, default: true
 
       class << self
         def collection_dir

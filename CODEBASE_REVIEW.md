@@ -237,4 +237,4 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 | 8.1 | Add documentation for complex algorithms | PR #444 | 2026-01-24 |
 | 8.2 | Resolve FMRepo introspection fragility | fmrepo PR #45, PR #446 | 2026-01-25 |
 | 1.2 | Extract duplicate Pruner architecture to base class | PR #448 | 2026-01-25 |
-| 1.4 | Extract duplicate model accessor pattern to FrontMatterAccessors | PR #449 | 2026-01-25 |
+| 1.4 | Extract duplicate model accessor pattern to fmrepo | fmrepo PR #46, PR #449 | 2026-01-25 |

@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require_relative '../location'
-require_relative 'front_matter_accessors'
 
 module Mayhem
   module Models
@@ -10,8 +9,7 @@ module Mayhem
       # Includes location_titles property and locations accessor.
       module Located
         def self.included(base)
-          base.include(FrontMatterAccessors) unless base.include?(FrontMatterAccessors)
-          base.fm_accessor :location_titles, default: []
+          base.attribute :location_titles, default: []
         end
 
         # Returns Location records for each title in location_titles.
