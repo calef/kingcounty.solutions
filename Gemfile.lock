@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/calef/fmrepo.git
-  revision: 4126767db39dd5a3dcae11430d42bca6075b6885
-  branch: add-attribute-macros
+  revision: 433373f45c28944fef3facb5e7a281befb880aa8
+  branch: main
   specs:
     fmrepo (0.2.11)
 
