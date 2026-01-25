@@ -391,7 +391,7 @@ class IcalImporterTest < Minitest::Test
 
   def test_normalized_link_warns_on_relative_url_without_base
     logger = Minitest::Mock.new
-    logger.expect(:warn, nil, [/Cannot normalize relative URL without base/])
+    logger.expect(:warn, nil, [/normalized_link: Cannot normalize relative URL without base URL/])
 
     importer = Mayhem::Events::IcalImporter.new(
       http_client: @http,
@@ -414,6 +414,90 @@ class IcalImporterTest < Minitest::Test
     result = importer.send(:normalized_link, 'https://example.org/path', nil)
 
     assert_equal 'https://example.org/path', result
+  end
+
+  def test_normalized_link_warns_on_protocol_relative_url_without_base
+    logger = Minitest::Mock.new
+    logger.expect(:warn, nil, [/normalized_link: Cannot normalize relative URL without base URL/])
+
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+    importer.stub(:logger, logger) do
+      result = importer.send(:normalized_link, '//example.org/path', nil)
+
+      assert_nil result
+    end
+
+    logger.verify
+  end
+
+  def test_normalized_link_handles_unusual_schemes
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+
+    # FTP scheme
+    result = importer.send(:normalized_link, 'ftp://files.example.org/path', nil)
+    assert_equal 'ftp://files.example.org/path', result
+
+    # Mailto scheme
+    result = importer.send(:normalized_link, 'mailto:info@example.org', nil)
+    assert_equal 'mailto:info@example.org', result
+
+    # Data URI scheme
+    result = importer.send(:normalized_link, 'data:text/plain;base64,SGVsbG8=', nil)
+    assert_equal 'data:text/plain;base64,SGVsbG8=', result
+  end
+
+  def test_normalized_link_handles_numeric_schemes
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+
+    # Scheme starting with a number (theoretical but valid per RFC)
+    result = importer.send(:normalized_link, '3g2://example.org/path', nil)
+    assert_equal '3g2://example.org/path', result
+  end
+
+  def test_normalized_link_handles_empty_and_whitespace
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+
+    # Empty string
+    result = importer.send(:normalized_link, '', nil)
+    assert_nil result
+
+    # Whitespace only
+    result = importer.send(:normalized_link, '   ', nil)
+    assert_nil result
+
+    # nil
+    result = importer.send(:normalized_link, nil, nil)
+    assert_nil result
+  end
+
+  def test_normalized_link_handles_malformed_urls
+    logger = Minitest::Mock.new
+    # Malformed URLs should be treated as relative since they lack a proper scheme
+    logger.expect(:warn, nil, [/normalized_link: Cannot normalize relative URL without base URL/])
+
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+    importer.stub(:logger, logger) do
+      result = importer.send(:normalized_link, 'ht tp://broken.com', nil)
+
+      assert_nil result
+    end
+
+    logger.verify
   end
 
   # Thread-safe HTTP client for concurrent tests
