@@ -435,7 +435,7 @@ class RssImporterMethodsTest < Minitest::Test
     record = Struct.new(:feed_content_checksum, :feed_content, :source_url, :path, :id)
                    .new(nil, '<p>body</p>', 'https://example.com', 'post.md', 'post.md')
 
-    Mayhem::Content::HtmlNormalizer.stub(:normalize, ->(*_args) { raise StandardError, 'boom' }) do
+    Mayhem::Content::HtmlNormalizer.stub(:normalize, ->(*_args) { raise Encoding::CompatibilityError, 'incompatible encodings' }) do
       refute @post_writer.send(:unchanged_post?, record, '<p>body</p>', 'checksum', 'https://example.com')
     end
 
