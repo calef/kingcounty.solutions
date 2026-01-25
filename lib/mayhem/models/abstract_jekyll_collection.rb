@@ -5,6 +5,9 @@ require 'fmrepo'
 module Mayhem
   module Models
     class AbstractJekyllCollection < FMRepo::Record
+      attribute :title
+      boolean_attribute :published, default: true
+
       class << self
         def collection_dir
           glob = scope_glob
@@ -29,26 +32,6 @@ module Mayhem
         def scope_glob
           scope_config&.dig(:glob)
         end
-      end
-
-      def published
-        self['published']
-      end
-
-      def published=(value)
-        self['published'] = value
-      end
-
-      def published?
-        self['published'] != false
-      end
-
-      def title
-        self['title']
-      end
-
-      def title=(value)
-        self['title'] = value
       end
     end
   end
