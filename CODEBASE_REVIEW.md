@@ -2,45 +2,32 @@
 
 This document contains a comprehensive review of the Mayhem library with actionable recommendations for improvement.
 
-**Last Updated:** 2026-01-24
+**Last Updated:** 2026-01-25
 **Status:** In Progress
 
-## Summary of Actionable Recommendations (Priority Order)
+## Summary of Remaining Issues (Priority Order)
 
-| Priority | Issue | Description | Status |
-| -------- | ----- | ----------- | ------ |
-| HIGH | 3.4 | Fix race condition in IcalImporter stats collection | PR #431 |
-| HIGH | 3.1 | Add nil-checking to all `find_by()` calls | PR #432 |
-| HIGH | 1.3 | Extract thread pool pattern to shared utility (~60 lines saved) | PR #433 |
-| MEDIUM | 1.1 | Extract `related_records` pattern to concern (~24 lines saved) | PR #434 |
-| MEDIUM | 4.2 | Standardize encoding to use Seldon utility | PR #436 |
-| MEDIUM | 9.1 | Break down ItemProcessor#process() | PR #438 |
-| MEDIUM | 9.2 | Break down IcalImporter#create_event() | PR #439 |
-| MEDIUM | 9.3 | Break down PostSummarizer#process_post() | PR #441 |
-| MEDIUM | 5.1 | Add threading edge case tests | PR #442 |
-| LOW | 2.1 | Standardize naming conventions | PR #443 |
-| LOW | 2.2 | Add missing setters to Sourced concern | PR #443 |
-| LOW | 8.2 | Resolve FMRepo introspection fragility | fmrepo PR #45 |
-| LOW | 8.1 | Add documentation for complex algorithms | PR #444 |
+| Priority | Issue | Description |
+| -------- | ----- | ----------- |
+| MEDIUM | 1.2 | Extract duplicate Pruner architecture |
+| MEDIUM | 1.4 | Extract duplicate model accessor pattern |
+| MEDIUM | 2.3 | Standardize error handling strategies |
+| MEDIUM | 3.2 | Fix silent failures in find() calls |
+| MEDIUM | 3.3 | Fix infinite loop risk in IcalImporter URL normalization |
+| LOW | 3.5 | Simplify redundant logic in Images Extractor |
+| LOW | 4.1 | Address N+1 query problem in model relationships |
+| LOW | 4.3 | Optimize loop-based empty tag stripping |
+| LOW | 5.2 | Add integration tests for FMRepo dependency |
+| LOW | 6.1 | Fix unsafe HTML sanitization |
+| LOW | 6.2 | Wrap environment variable access |
+| LOW | 7.1 | Remove or document unused model methods |
+| LOW | 7.2 | Remove unused parameters |
+| LOW | 10.1 | Resolve circular require dependencies |
+| LOW | 10.2 | Standardize HTTP client initialization |
 
 ---
 
 ## 1. CODE DUPLICATION & REPETITIVE PATTERNS
-
-### Issue 1.1: Duplicate `related_records` Implementation
-
-**Files affected:**
-
-- `lib/mayhem/models/image.rb` (lines 42-48)
-- `lib/mayhem/models/topic.rb` (lines 34-41)
-- `lib/mayhem/models/location.rb` (lines 45-52)
-- `lib/mayhem/models/organization.rb` (lines 89-94)
-
-**Problem:** All four model classes implement nearly identical `related_records` private methods that filter and search through `.all()` collections. Image.rb and Topic.rb use identical logic to filter by checksum/title, Location.rb and Organization.rb filter by title. The pattern is repeated with minor variations.
-
-**Recommendation:** Extract to a shared concern module `Mayhem::Models::Concerns::Filterable` with a generic implementation taking a lambda or block parameter for the filter condition. This reduces duplication by ~24 lines and makes the pattern more maintainable.
-
----
 
 ### Issue 1.2: Duplicate Pruner Architecture
 
@@ -52,36 +39,6 @@ This document contains a comprehensive review of the Mayhem library with actiona
 **Problem:** Both pruners have nearly identical `unpublish()` and `delete()` methods with only minor signature differences (parameter name and excluded_post_ids vs excluded_event_ids). This is 18 lines of duplication.
 
 **Recommendation:** Create a base `Mayhem::Pruners::BasePruner` class with template methods that subclasses override for type-specific behavior.
-
----
-
-### Issue 1.3: Duplicate Threading Pattern
-
-**Files affected:**
-
-- `lib/mayhem/news/rss_importer.rb` (lines 108-123)
-- `lib/mayhem/events/ical_importer.rb` (lines 48-65)
-- `lib/mayhem/content/source_url_checker.rb` (lines 89-108)
-
-**Problem:** All three classes implement identical thread pool pattern:
-
-```ruby
-queue = Queue.new
-records.each { |record| queue << record }
-threads = Array.new(@workers) do
-  Thread.new do
-    loop do
-      record = queue.pop(true)
-      yield(record)
-    rescue ThreadError
-      break
-    end
-  end
-end
-threads.each(&:join)
-```
-
-**Recommendation:** Extract to `Mayhem::Threading::PoolExecutor` utility class that handles the boilerplate, reducing duplication by ~20 lines per file.
 
 ---
 
@@ -116,34 +73,6 @@ def_attribute :property_name, :another_property
 
 ## 2. INCONSISTENT PATTERNS & NAMING
 
-### Issue 2.1: Inconsistent Filter Method Naming
-
-**Files affected:**
-
-- `lib/mayhem/models/image.rb` - uses `related_records()`
-- `lib/mayhem/locations/repository.rb` - uses `filter_to_highest_level()`
-- `lib/mayhem/locations/classifier.rb` - uses `parse_location_response()`
-
-**Problem:** Similar filtering operations use different method names across the codebase (related_records, filter_to_highest_level, parse_location_response), making it harder to recognize patterns and reason about behavior.
-
-**Recommendation:** Standardize on a naming convention. For example, use `find_*` for direct lookups, `filter_*` for conditional filtering, and `parse_*` only for parsing external formats.
-
----
-
-### Issue 2.2: Inconsistent Model Hook Methods
-
-**Files affected:**
-
-- `lib/mayhem/models/concerns/sourced.rb` (line 10) - returns nothing
-- `lib/mayhem/models/concerns/located.rb` (line 14) - sets property
-- `lib/mayhem/models/concerns/topical.rb` (line 19) - sets property
-
-**Problem:** Concern modules inconsistently define getters vs. getters+setters. `Sourced` only provides a getter for `source_url`, while `Located` and `Topical` provide both getters and setters for their respective properties.
-
-**Recommendation:** Add setter for `source_url` in `Sourced` concern to be consistent with other concerns.
-
----
-
 ### Issue 2.3: Inconsistent Error Handling Strategies
 
 **Files affected:**
@@ -159,24 +88,6 @@ def_attribute :property_name, :another_property
 ---
 
 ## 3. POTENTIAL BUGS & ERROR HANDLING ISSUES
-
-### Issue 3.1: Unsafe `find_by()` Calls Without Error Handling
-
-**Files affected:**
-
-- `lib/mayhem/models/event.rb` (line 55) - `News.find_by(source_url: source_url)`
-- `lib/mayhem/models/abstract_content.rb` (line 43) - `Image.find_by(checksum:)`
-- All concern modules calling `find_by()` and `find()`
-
-**Problem:** `find_by()` can return nil if not found, but most callers don't check for nil. The code in Event.rb line 55 calls `News.find_by(source_url: source_url)` without checking if it exists. Similarly, line 43 in abstract_content.rb filters by checksum without nil-checking.
-
-**Recommendation:** Either:
-
-1. Always check return values and provide sensible defaults
-2. Create safe finder methods that raise on not found
-3. Document that callers must handle nil returns
-
----
 
 ### Issue 3.2: Silent Failures in `find()` Calls
 
@@ -198,25 +109,6 @@ def_attribute :property_name, :another_property
 **Problem:** The methods `normalized_link()`, `canonicalized_url()`, and `register_event_url()` are called repeatedly in the `create_event()` method without apparent memoization. The `normalized_link()` call on line 262 with `website: nil` could produce unexpected results since URL normalization requires a base URL.
 
 **Recommendation:** Memoize URL normalization results and add explicit documentation/validation that `website` parameter is required when calling with URLs that might be relative.
-
----
-
-### Issue 3.4: Race Condition in IcalImporter Stats Collection
-
-**File:** `lib/mayhem/events/ical_importer.rb` (lines 91-93)
-
-**Problem:** The `record_stat()` method updates both a local `stats` parameter and the shared `@stats` hash under lock. However, on line 91-93, the stats are recorded but the local variable can be None:
-
-```ruby
-def record_stat(key, stats)
-  stats[key] += 1 if stats  # Only increments if stats is truthy
-  @stats_lock.synchronize { @stats[key] += 1 }
-end
-```
-
-If `stats` is nil, it silently skips the local increment. This could cause inconsistent statistics.
-
-**Recommendation:** Raise an error if stats is nil, or ensure stats is never nil at call sites.
 
 ---
 
@@ -254,24 +146,6 @@ end
 
 ---
 
-### Issue 4.2: Repeated Encoding Validation
-
-**Files affected:**
-
-- `lib/mayhem/news/rss_importer/feed_runner.rb` (lines 66-86)
-- `lib/mayhem/content/content_utils.rb` (lines 11-18)
-- `lib/mayhem/events/ical_importer.rb` (lines 194, 202-204)
-
-**Problem:** Multiple files implement encoding normalization separately:
-
-- `feed_runner.rb` normalizes with `force_encoding('BINARY')` then `encode('UTF-8'...)`
-- `content_utils.rb` uses `force_encoding('UTF-8')` and `scrub('')`
-- `ical_importer.rb` calls `Seldon::Support::EncodingUtils.ensure_utf8()`
-
-**Recommendation:** Create a `Mayhem::EncodingUtils` module that standardizes encoding normalization, or consistently use the Seldon utility.
-
----
-
 ### Issue 4.3: Inefficient Loop-Based Empty Tag Stripping
 
 **File:** `lib/mayhem/content/content_fetcher.rb` (lines 89-97)
@@ -293,20 +167,6 @@ For large HTML documents, this could be O(n^2) or worse. Each iteration re-queri
 ---
 
 ## 5. MISSING TESTS & COVERAGE GAPS
-
-### Issue 5.1: No Tests for Threading Edge Cases
-
-**Files lacking tests:**
-
-- `lib/mayhem/news/rss_importer.rb`
-- `lib/mayhem/events/ical_importer.rb`
-- `lib/mayhem/content/source_url_checker.rb`
-
-**Problem:** None of the threaded code has tests for race conditions, deadlocks, or thread-safety of shared state (like `@existing_urls` in IcalImporter).
-
-**Recommendation:** Add explicit tests for concurrent access, mutex safety, and queue handling.
-
----
 
 ### Issue 5.2: No Integration Tests for FMRepo Dependency
 
@@ -371,60 +231,6 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 
 ---
 
-## 8. MISSING DOCUMENTATION
-
-### Issue 8.1: Complex Algorithm Without Comments
-
-**File:** `lib/mayhem/locations/repository.rb` (lines 40-66)
-
-**Problem:** The `filter_to_highest_level()` method implements non-obvious logic to filter locations by ancestry. The algorithm walks parent chains to exclude ancestors from the result set, but this is not documented.
-
-**Recommendation:** Add docstring explaining the algorithm and use case.
-
----
-
-### Issue 8.2: Fragile FMRepo Dependency Documented But Not Addressed
-
-**File:** `lib/mayhem/models/abstract_jekyll_collection.rb` (lines 25-56)
-
-**Problem:** The documentation in `scope_glob()` is excellent in explaining the risk, but the code still uses the fragile approach. The @todo at line 49 requests a public API but this is never followed up.
-
-**Recommendation:** Open an issue/PR with FMRepo maintainers or implement a wrapper/adapter pattern.
-
----
-
-## 9. OVERLY COMPLEX METHODS
-
-### Issue 9.1: ItemProcessor#process() is Too Complex
-
-**File:** `lib/mayhem/news/rss_importer/item_processor.rb` (lines 22-104)
-
-**Problem:** This method has ~80 lines with complex nesting handling duplicate detection, canonicalization, fetching, and writing. It has 4 early returns and multiple decision branches.
-
-**Recommendation:** Extract sub-methods like `verify_item_requirements()`, `fetch_article_if_needed()`, `check_for_duplicates()`, etc.
-
----
-
-### Issue 9.2: IcalImporter#create_event() is Too Complex
-
-**File:** `lib/mayhem/events/ical_importer.rb` (lines 174-253)
-
-**Problem:** 80 lines with heavy nesting handling time zone parsing, URL canonicalization, HTML normalization, and event creation.
-
-**Recommendation:** Extract sub-methods for each concern.
-
----
-
-### Issue 9.3: PostSummarizer#process_post() is Too Complex
-
-**File:** `lib/mayhem/news/summarizer.rb` (lines 71-190)
-
-**Problem:** 120 lines of complex conditional logic for checking multiple conditions (locked, published, needs_summary, etc.), fetching content, classifying, and saving.
-
-**Recommendation:** Extract to smaller helper methods organized by concern (authorization checks, content fetching, classification, persistence).
-
----
-
 ## 10. DEPENDENCY ISSUES
 
 ### Issue 10.1: Circular Require Dependencies
@@ -475,3 +281,4 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 | 2.1 | Standardize naming conventions and add documentation | PR #443 | 2026-01-24 |
 | 2.2 | Add missing setters to Sourced concern | PR #443 | 2026-01-24 |
 | 8.1 | Add documentation for complex algorithms | PR #444 | 2026-01-24 |
+| 8.2 | Resolve FMRepo introspection fragility | fmrepo PR #45, PR #446 | 2026-01-25 |
