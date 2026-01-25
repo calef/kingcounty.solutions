@@ -2,7 +2,7 @@
 
 This document contains a comprehensive review of the Mayhem library with actionable recommendations for improvement.
 
-**Last Updated:** 2026-01-23
+**Last Updated:** 2026-01-24
 **Status:** In Progress
 
 ## Summary of Actionable Recommendations (Priority Order)
@@ -20,7 +20,7 @@ This document contains a comprehensive review of the Mayhem library with actiona
 | MEDIUM | 5.1 | Add threading edge case tests | PR #442 |
 | LOW | 2.1 | Standardize naming conventions | PR #443 |
 | LOW | 2.2 | Add missing setters to Sourced concern | PR #443 |
-| LOW | 8.2 | Resolve FMRepo introspection fragility | Open |
+| LOW | 8.2 | Resolve FMRepo introspection fragility | fmrepo PR #45 |
 | LOW | 8.1 | Add documentation for complex algorithms | PR #444 |
 
 ---

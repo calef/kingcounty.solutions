@@ -1,8 +1,9 @@
 GIT
   remote: https://github.com/calef/fmrepo.git
-  revision: 2476ab216d306b62fb26d7edd62601fba6cf7022
+  revision: 1f90a2dc18bdc51af77d950b5fee70a2baa96d0f
+  branch: add-scope-config-api
   specs:
-    fmrepo (0.2.8)
+    fmrepo (0.2.10)
 
 GIT
   remote: https://github.com/calef/seldon.git

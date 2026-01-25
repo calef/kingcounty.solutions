@@ -22,49 +22,12 @@ module Mayhem
 
         # Retrieves the glob pattern from FMRepo's scope configuration.
         #
-        # This method uses introspection to access FMRepo's internal implementation
-        # details, specifically the instance variables used to store scope configuration.
-        # This approach is fragile and depends on FMRepo's internal structure remaining
-        # consistent across versions.
+        # Uses the public `scope_config` API provided by FMRepo::Record (v0.2.10+)
+        # to access the glob pattern configured via the `scope` class method.
         #
-        # @return [String, nil] the glob pattern if found, otherwise nil
-        #
-        # @note **Dependency on FMRepo internals:**
-        #   This method directly accesses private instance variables that are set by
-        #   FMRepo::Record when the `scope` class method is called. These variables are:
-        #   - `@scope` - the primary scope configuration hash
-        #   - `@scope_config` - alternative scope configuration storage
-        #   - `@scope_options` - another potential scope storage location
-        #
-        #   These variable names and structure are not part of FMRepo's public API
-        #   and may change in future versions without notice, potentially breaking
-        #   this implementation.
-        #
-        # @note **Risk:**
-        #   If FMRepo changes its internal scope storage mechanism, this method may:
-        #   - Return nil unexpectedly
-        #   - Fail to find the glob pattern
-        #   - Cause collection_dir to raise an error
-        #
-        # @todo Request public API from FMRepo
-        #   Replace introspection-based access with a public API method from FMRepo
-        #   to retrieve scope configuration. This would eliminate the fragile dependency
-        #   on private instance variables and provide a stable, documented interface.
-        #   Proposed API: `FMRepo::Record#scope_config` or similar method to expose
-        #   scope options including the glob pattern.
-        #
-        # @see https://github.com/calef/fmrepo FMRepo gem repository (no public documentation exists for the internal scope storage mechanism)
+        # @return [String, nil] the glob pattern if configured, otherwise nil
         def scope_glob
-          return config.glob if respond_to?(:config) && config.respond_to?(:glob) && config.glob
-
-          %i[@scope @scope_config @scope_options].each do |ivar|
-            next unless instance_variable_defined?(ivar)
-
-            value = instance_variable_get(ivar)
-            return value[:glob] || value['glob'] if value.is_a?(Hash)
-          end
-
-          nil
+          scope_config[:glob]
         end
       end
 
