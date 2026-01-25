@@ -1,8 +1,9 @@
 # frozen_string_literal: true
 
 module Mayhem
-  # Raised when a network operation fails (HTTP errors, timeouts, connection issues).
-  # Wraps low-level network exceptions to provide consistent error handling.
+  # Custom exception for application-level network operation failures.
+  # Use this class to raise custom network errors in your code.
+  # To rescue low-level network exceptions, use the EXCEPTIONS constant.
   class NetworkError < StandardError
     attr_reader :cause
 
