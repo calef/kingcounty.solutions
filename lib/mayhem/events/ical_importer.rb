@@ -316,10 +316,28 @@ module Mayhem
         nil
       end
 
+      # Normalizes a URL for consistent storage and lookup.
+      #
+      # @param link [String, nil] The URL to normalize
+      # @param website [String, nil] Base URL for resolving relative links.
+      #   Pass nil only when the link is known to be absolute (e.g., canonical
+      #   URLs or source_url from saved events). Relative URLs with nil base
+      #   will log a warning and return nil.
+      # @return [String, nil] Normalized URL, or nil if input is empty/invalid
       def normalized_link(link, website)
         return nil if link.to_s.strip.empty?
 
-        Seldon::Support::UrlNormalizer.normalize(link, base: website)
+        link_str = link.to_s
+        if website.nil? && relative_url?(link_str)
+          logger.warn "Cannot normalize relative URL without base: #{link_str}"
+          return nil
+        end
+
+        Seldon::Support::UrlNormalizer.normalize(link_str, base: website)
+      end
+
+      def relative_url?(url)
+        !url.match?(%r{\A[a-z][a-z0-9+.-]*://}i)
       end
 
       def canonicalized_url(url, website)

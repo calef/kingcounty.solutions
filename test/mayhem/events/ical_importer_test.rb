@@ -389,6 +389,33 @@ class IcalImporterTest < Minitest::Test
     assert_operator events.count, :>=, 5, 'Valid events should be created'
   end
 
+  def test_normalized_link_warns_on_relative_url_without_base
+    logger = Minitest::Mock.new
+    logger.expect(:warn, nil, [/Cannot normalize relative URL without base/])
+
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+    importer.stub(:logger, logger) do
+      result = importer.send(:normalized_link, '/relative/path', nil)
+
+      assert_nil result
+    end
+
+    logger.verify
+  end
+
+  def test_normalized_link_allows_absolute_url_without_base
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+    result = importer.send(:normalized_link, 'https://example.org/path', nil)
+
+    assert_equal 'https://example.org/path', result
+  end
+
   # Thread-safe HTTP client for concurrent tests
   class ThreadSafeStubHttpClient
     def initialize(responses)
