@@ -9,7 +9,6 @@ This document contains a comprehensive review of the Mayhem library with actiona
 
 | Priority | Issue | Description |
 | -------- | ----- | ----------- |
-| MEDIUM | 1.2 | Extract duplicate Pruner architecture |
 | MEDIUM | 1.4 | Extract duplicate model accessor pattern |
 | MEDIUM | 2.3 | Standardize error handling strategies |
 | MEDIUM | 3.2 | Fix silent failures in find() calls |
@@ -28,19 +27,6 @@ This document contains a comprehensive review of the Mayhem library with actiona
 ---
 
 ## 1. CODE DUPLICATION & REPETITIVE PATTERNS
-
-### Issue 1.2: Duplicate Pruner Architecture
-
-**Files affected:**
-
-- `lib/mayhem/news/pruner.rb` (lines 17-25, 27-34)
-- `lib/mayhem/events/pruner.rb` (lines 17-25, 27-36)
-
-**Problem:** Both pruners have nearly identical `unpublish()` and `delete()` methods with only minor signature differences (parameter name and excluded_post_ids vs excluded_event_ids). This is 18 lines of duplication.
-
-**Recommendation:** Create a base `Mayhem::Pruners::BasePruner` class with template methods that subclasses override for type-specific behavior.
-
----
 
 ### Issue 1.4: Duplicate Model Accessor Pattern
 
@@ -282,3 +268,4 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 | 2.2 | Add missing setters to Sourced concern | PR #443 | 2026-01-24 |
 | 8.1 | Add documentation for complex algorithms | PR #444 | 2026-01-24 |
 | 8.2 | Resolve FMRepo introspection fragility | fmrepo PR #45, PR #446 | 2026-01-25 |
+| 1.2 | Extract duplicate Pruner architecture to base class | PR #448 | 2026-01-25 |
