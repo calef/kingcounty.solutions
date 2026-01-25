@@ -1,45 +1,20 @@
 # frozen_string_literal: true
 
-require_relative '../images/pruner'
-require 'seldon'
-require_relative '../models/event'
+require_relative '../pruners/base'
 require_relative '../models/news'
 
 module Mayhem
   module Events
-    class Pruner
-      include Seldon::Loggable
-
-      def initialize(images_pruner:)
-        @images_pruner = images_pruner
-      end
-
-      def unpublish(document)
-        document.published = false
-        image_checksums = @images_pruner.collect_image_checksums(document)
-        document_id = document.id.to_s
-        document.image_checksums = []
-        document.save!
-
-        @images_pruner.prune(image_checksums, excluded_event_ids: [document_id]) if image_checksums.any?
-      end
-
-      def delete(event)
-        return unless event
-
-        image_checksums = @images_pruner.collect_image_checksums(event)
-        event_id = event.id.to_s
-        event.destroy
-
-        @images_pruner.prune(image_checksums, excluded_event_ids: [event_id]) if image_checksums.any?
-        prune_event_links([event_id])
-      end
-
-      def prune_images(image_checksums, excluded_event_ids:)
-        @images_pruner.prune(image_checksums, excluded_event_ids: excluded_event_ids)
-      end
-
+    class Pruner < Mayhem::Pruners::Base
       private
+
+      def exclusion_key
+        :excluded_event_ids
+      end
+
+      def after_delete(record_id)
+        prune_event_links([record_id])
+      end
 
       def prune_event_links(removed_event_ids)
         removed_set = removed_event_ids.to_set
@@ -59,7 +34,9 @@ module Mayhem
           logger.info "Cleaned event links from #{post.id}"
         end
 
-        logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links." if posts_updated.positive?
+        return unless posts_updated.positive?
+
+        logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links."
       end
     end
   end
