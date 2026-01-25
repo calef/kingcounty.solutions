@@ -8,12 +8,8 @@ module Mayhem
       # Provides location association attributes for content models.
       # Includes location_titles property and locations accessor.
       module Located
-        def location_titles
-          self['location_titles'] || []
-        end
-
-        def location_titles=(value)
-          self['location_titles'] = value
+        def self.included(base)
+          base.attribute :location_titles, default: []
         end
 
         # Returns Location records for each title in location_titles.

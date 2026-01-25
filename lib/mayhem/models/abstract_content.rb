@@ -12,29 +12,10 @@ module Mayhem
       include Mayhem::Models::Concerns::Sourced
       include Mayhem::Models::Concerns::Topical
 
-      def feed_content
-        self['feed_content']
-      end
-
-      def feed_content=(value)
-        self['feed_content'] = value
-      end
-
-      def feed_content_checksum
-        self['feed_content_checksum']
-      end
-
-      def feed_content_checksum=(value)
-        self['feed_content_checksum'] = value
-      end
-
-      def image_checksums
-        self['image_checksums'] || []
-      end
-
-      def image_checksums=(value)
-        self['image_checksums'] = value
-      end
+      attribute :feed_content, :feed_content_checksum, :original_source_html
+      attribute :image_checksums, default: []
+      boolean_attribute :locked
+      boolean_attribute :summarized
 
       # Returns Image records for each checksum in image_checksums.
       # Images that cannot be found are excluded from the result.
@@ -44,38 +25,6 @@ module Mayhem
         image_checksums.filter_map do |checksum|
           Image.find_by(checksum:)
         end
-      end
-
-      def locked
-        self['locked']
-      end
-
-      def locked=(value)
-        self['locked'] = value
-      end
-
-      def locked?
-        self['locked'] == true
-      end
-
-      def original_source_html
-        self['original_source_html']
-      end
-
-      def original_source_html=(value)
-        self['original_source_html'] = value
-      end
-
-      def summarized
-        self['summarized']
-      end
-
-      def summarized=(value)
-        self['summarized'] = value
-      end
-
-      def summarized?
-        self['summarized'] == true
       end
     end
   end

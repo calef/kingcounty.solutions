@@ -22,47 +22,14 @@ module Mayhem
         "_events/#{name}.md"
       end
 
-      def end_date
-        self['end_date']
-      end
-
-      def end_date=(value)
-        self['end_date'] = value
-      end
-
-      def generated_from_post
-        self['generated_from_post']
-      end
-
-      def generated_from_post=(value)
-        self['generated_from_post'] = value
-      end
-
-      def generated_from_post?
-        self['generated_from_post'] == true
-      end
-
-      def location
-        self['location']
-      end
-
-      def location=(value)
-        self['location'] = value
-      end
+      attribute :end_date, :location, :start_date
+      boolean_attribute :generated_from_post
 
       # Returns the News record that shares this event's source_url.
       # Returns nil if no matching news post is found.
       def news
         require_relative 'news'
         News.find_by(source_url: source_url)
-      end
-
-      def start_date
-        self['start_date']
-      end
-
-      def start_date=(value)
-        self['start_date'] = value
       end
     end
   end
