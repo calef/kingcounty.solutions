@@ -1,10 +1,16 @@
 # frozen_string_literal: true
 
 require 'fmrepo'
+require_relative 'concerns/front_matter_accessors'
 
 module Mayhem
   module Models
     class AbstractJekyllCollection < FMRepo::Record
+      include Concerns::FrontMatterAccessors
+
+      fm_accessor :title
+      fm_boolean :published, default: true
+
       class << self
         def collection_dir
           glob = scope_glob
@@ -29,26 +35,6 @@ module Mayhem
         def scope_glob
           scope_config&.dig(:glob)
         end
-      end
-
-      def published
-        self['published']
-      end
-
-      def published=(value)
-        self['published'] = value
-      end
-
-      def published?
-        self['published'] != false
-      end
-
-      def title
-        self['title']
-      end
-
-      def title=(value)
-        self['title'] = value
       end
     end
   end

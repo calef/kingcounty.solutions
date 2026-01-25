@@ -9,7 +9,6 @@ This document contains a comprehensive review of the Mayhem library with actiona
 
 | Priority | Issue | Description |
 | -------- | ----- | ----------- |
-| MEDIUM | 1.4 | Extract duplicate model accessor pattern |
 | MEDIUM | 2.3 | Standardize error handling strategies |
 | MEDIUM | 3.2 | Fix silent failures in find() calls |
 | MEDIUM | 3.3 | Fix infinite loop risk in IcalImporter URL normalization |
@@ -23,37 +22,6 @@ This document contains a comprehensive review of the Mayhem library with actiona
 | LOW | 7.2 | Remove unused parameters |
 | LOW | 10.1 | Resolve circular require dependencies |
 | LOW | 10.2 | Standardize HTTP client initialization |
-
----
-
-## 1. CODE DUPLICATION & REPETITIVE PATTERNS
-
-### Issue 1.4: Duplicate Model Accessor Pattern
-
-**Files affected:**
-
-- `lib/mayhem/models/abstract_jekyll_collection.rb` (lines 71-89)
-- `lib/mayhem/models/abstract_content.rb` (lines 15-77)
-- `lib/mayhem/models/news.rb` (lines 25-66)
-- `lib/mayhem/models/event.rb` (lines 25-64)
-
-**Problem:** Every model class has repetitive getter/setter pairs:
-
-```ruby
-def property_name
-  self['property_name']
-end
-
-def property_name=(value)
-  self['property_name'] = value
-end
-```
-
-**Recommendation:** Use `attr_accessor` pattern or define a class macro like:
-
-```ruby
-def_attribute :property_name, :another_property
-```
 
 ---
 
@@ -269,3 +237,4 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 | 8.1 | Add documentation for complex algorithms | PR #444 | 2026-01-24 |
 | 8.2 | Resolve FMRepo introspection fragility | fmrepo PR #45, PR #446 | 2026-01-25 |
 | 1.2 | Extract duplicate Pruner architecture to base class | PR #448 | 2026-01-25 |
+| 1.4 | Extract duplicate model accessor pattern to FrontMatterAccessors | PR #449 | 2026-01-25 |

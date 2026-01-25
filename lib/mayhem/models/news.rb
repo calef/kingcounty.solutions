@@ -22,47 +22,15 @@ module Mayhem
         "_posts/#{date_prefix}-#{slug}.md"
       end
 
-      def date
-        self['date']
-      end
-
-      def date=(value)
-        self['date'] = value
-      end
-
-      def event_ids
-        self['event_ids'] || []
-      end
-
-      def event_ids=(value)
-        self['event_ids'] = value
-      end
+      fm_accessor :date, :rss_guid
+      fm_accessor :event_ids, default: []
+      fm_boolean :events_extracted
 
       def events
         require_relative 'event'
         event_ids.map do |event_id|
           Event.find(event_id)
         end
-      end
-
-      def events_extracted
-        self['events_extracted']
-      end
-
-      def events_extracted=(value)
-        self['events_extracted'] = value
-      end
-
-      def events_extracted?
-        self['events_extracted'] == true
-      end
-
-      def rss_guid
-        self['rss_guid']
-      end
-
-      def rss_guid=(value)
-        self['rss_guid'] = value
       end
     end
   end
