@@ -329,7 +329,7 @@ module Mayhem
 
         link_str = link.to_s
         if website.nil? && relative_url?(link_str)
-          logger.warn "Cannot normalize relative URL without base: #{link_str}"
+          logger.warn "normalized_link: Cannot normalize relative URL without base URL. Expected absolute URL but got: #{link_str}"
           return nil
         end
 
@@ -337,7 +337,7 @@ module Mayhem
       end
 
       def relative_url?(url)
-        !url.match?(%r{\A[a-z][a-z0-9+.-]*://}i)
+        !url.match?(%r{\A[a-z0-9][a-z0-9+.-]*://}i)
       end
 
       def canonicalized_url(url, website)
