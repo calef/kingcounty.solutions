@@ -1,7 +1,6 @@
 GIT
   remote: https://github.com/calef/fmrepo.git
-  revision: 1f90a2dc18bdc51af77d950b5fee70a2baa96d0f
-  branch: add-scope-config-api
+  revision: 76527fde8cdbac97dd3460362ae255cfa71eeb2d
   specs:
     fmrepo (0.2.10)
 

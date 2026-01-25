@@ -5,7 +5,7 @@ gem 'base64'
 gem 'digest'
 gem 'faraday'
 gem 'fileutils'
-gem 'fmrepo', github: 'calef/fmrepo', branch: 'add-scope-config-api'
+gem 'fmrepo', github: 'calef/fmrepo'
 gem 'icalendar'
 gem 'jekyll'
 group :jekyll_plugins do
