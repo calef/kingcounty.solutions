@@ -341,7 +341,7 @@ module Mayhem
         # - Allows schemes starting with letter or digit (though RFC mandates letter)
         # - Requires at least 2 characters before colon (avoids Windows drive letters)
         # - Matches both hierarchical (http://) and non-hierarchical (mailto:) schemes
-        !url.match?(%r{\A[a-z0-9][a-z0-9+.-]+:}i)
+        !url.match?(/\A[a-z0-9][a-z0-9+.-]+:/i)
       end
 
       def canonicalized_url(url, website)
