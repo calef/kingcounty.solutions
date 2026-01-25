@@ -72,7 +72,7 @@ module Mayhem
 
         def find_existing_post(record_id)
           @news_model.find(record_id)
-        rescue StandardError
+        rescue FMRepo::NotFound
           nil
         end
 
@@ -89,7 +89,8 @@ module Mayhem
           base_url = link_url if base_url.empty?
           existing_normalized = Mayhem::Content::HtmlNormalizer.normalize(existing_content, base_url: base_url)
           existing_normalized == normalized_html
-        rescue StandardError => e
+        rescue Encoding::CompatibilityError, ArgumentError => e
+          # Content comparison may fail due to encoding issues
           logger.debug "Failed to compare existing post #{record&.id}: #{e.message}"
           false
         end
