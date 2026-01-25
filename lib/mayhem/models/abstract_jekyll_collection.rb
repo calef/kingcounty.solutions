@@ -27,7 +27,7 @@ module Mayhem
         #
         # @return [String, nil] the glob pattern if configured, otherwise nil
         def scope_glob
-          scope_config[:glob]
+          scope_config&.[](:glob)
         end
       end
 
