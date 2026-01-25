@@ -3,6 +3,7 @@
 require 'faraday'
 require 'rss'
 require 'seldon'
+require_relative '../../errors'
 require_relative '../../feed/discovery'
 require_relative 'feed_stats'
 
@@ -46,14 +47,7 @@ module Mayhem
         rescue Seldon::Support::HttpClient::HttpError,
                Seldon::Support::HttpClient::NotFoundError,
                Seldon::Support::HttpClient::TooManyRequestsError,
-               Faraday::Error,
-               SocketError,
-               Timeout::Error,
-               EOFError,
-               Errno::ECONNRESET,
-               Errno::ECONNREFUSED,
-               Errno::EHOSTUNREACH,
-               Errno::ETIMEDOUT => e
+               *Mayhem::NetworkError::EXCEPTIONS => e
           logger.error "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
           nil
         rescue RSS::NotWellFormedError => e

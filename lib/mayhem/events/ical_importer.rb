@@ -4,6 +4,7 @@ require 'date'
 require 'icalendar'
 require 'nokogiri'
 require 'seldon'
+require_relative '../errors'
 require_relative '../feed/discovery'
 require_relative '../content/content_fetcher'
 require_relative '../content/content_utils'
@@ -20,7 +21,7 @@ module Mayhem
       MAX_FILENAME_BYTES = 255
       DEFAULT_MAX_WORKERS = begin
         Integer(ENV.fetch('ICAL_WORKERS', '6'))
-      rescue StandardError
+      rescue ArgumentError, KeyError
         6
       end
 
@@ -148,7 +149,8 @@ module Mayhem
       def import_from_url(url, source_title, website, stats)
         page = @http_client.fetch(url, accept: ACCEPT_HEADER)
         import_calendar(page[:body], source_title, website, stats)
-      rescue StandardError => e
+      rescue Seldon::Support::HttpClient::HttpError,
+             *Mayhem::NetworkError::EXCEPTIONS => e
         record_stat(:fetch_failed, stats)
         logger.warn "Failed to fetch events for #{source_title} (#{url}): #{e.message}"
       end
@@ -159,7 +161,7 @@ module Mayhem
         calendars = Icalendar::Calendar.parse(body)
         events = calendars.flat_map(&:events)
         events.each { |event| create_event(event, source_title, website, stats) }
-      rescue StandardError => e
+      rescue Icalendar::Parser::ParseError => e
         record_stat(:parse_failed, stats)
         logger.error "Failed to parse iCal for #{source_title}: #{e.message}"
       end
@@ -177,7 +179,7 @@ module Mayhem
         return handle_existing_event(existing, url_result, content_result[:checksum], stats) if existing
 
         persist_new_event(event_data, url_result, content_result, source_title, stats)
-      rescue StandardError => e
+      rescue FMRepo::Error, Errno::ENOENT, Errno::EACCES, IOError => e
         logger.warn "Failed to persist event #{event_data&.dig(:summary) || '<untitled>'}: #{e.message}"
         record_stat(:write_failed, stats)
       end
@@ -361,7 +363,7 @@ module Mayhem
         return value if value.is_a?(Time)
 
         value.to_time if value.respond_to?(:to_time)
-      rescue StandardError
+      rescue ArgumentError, TypeError
         nil
       end
 
@@ -381,7 +383,8 @@ module Mayhem
         record_stat(:fetch_failed, stats)
         logger.warn "Source returned 404 for #{url}: #{e.message}"
         { html: '', canonical_url: url, not_found: true }
-      rescue StandardError => e
+      rescue Seldon::Support::HttpClient::HttpError,
+             *Mayhem::NetworkError::EXCEPTIONS => e
         record_stat(:fetch_failed, stats)
         logger.warn "Failed to fetch more info for #{url}: #{e.message}"
         nil
