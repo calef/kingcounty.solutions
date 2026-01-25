@@ -42,7 +42,7 @@ module Mayhem
         def locked?(path)
           document = load(path)
           document&.locked?
-        rescue StandardError
+        rescue Errno::ENOENT, ParseError
           false
         end
 

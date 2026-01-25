@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'seldon'
+require_relative '../../errors'
 
 module Mayhem
   module News
@@ -176,17 +177,12 @@ module Mayhem
           { html: '', canonical_url: url, not_found: true }
         rescue Seldon::Support::HttpClient::HttpError,
                Seldon::Support::HttpClient::TooManyRequestsError,
-               Faraday::Error,
-               SocketError,
-               Timeout::Error,
-               EOFError,
-               Errno::ECONNRESET,
-               Errno::ECONNREFUSED,
-               Errno::EHOSTUNREACH,
-               Errno::ETIMEDOUT => e
+               *Mayhem::NetworkError::EXCEPTIONS => e
           logger.warn "Failed to fetch article body (#{url}): #{e.message}"
           { html: '', canonical_url: nil }
         rescue StandardError => e
+          # Catch-all for unexpected errors to ensure batch processing continues.
+          # Logged at error level to ensure visibility.
           logger.error "Unexpected error scraping #{url}: #{e.message}"
           { html: '', canonical_url: nil }
         end
