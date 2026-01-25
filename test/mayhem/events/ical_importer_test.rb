@@ -389,6 +389,137 @@ class IcalImporterTest < Minitest::Test
     assert_operator events.count, :>=, 5, 'Valid events should be created'
   end
 
+  def test_normalized_link_warns_on_relative_url_without_base
+    logger = Minitest::Mock.new
+    logger.expect(:warn, nil, [/normalized_link: Cannot normalize relative URL without base URL/])
+
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+    importer.stub(:logger, logger) do
+      result = importer.send(:normalized_link, '/relative/path', nil)
+
+      assert_nil result
+    end
+
+    logger.verify
+  end
+
+  def test_normalized_link_allows_absolute_url_without_base
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+    result = importer.send(:normalized_link, 'https://example.org/path', nil)
+
+    assert_equal 'https://example.org/path', result
+  end
+
+  def test_normalized_link_warns_on_protocol_relative_url_without_base
+    logger = Minitest::Mock.new
+    logger.expect(:warn, nil, [/normalized_link: Cannot normalize relative URL without base URL/])
+
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+    importer.stub(:logger, logger) do
+      result = importer.send(:normalized_link, '//example.org/path', nil)
+
+      assert_nil result
+    end
+
+    logger.verify
+  end
+
+  def test_normalized_link_handles_unusual_schemes
+    # Verify that URLs with unusual but valid schemes are recognized as absolute
+    # (i.e., they don't trigger the "relative URL without base" warning).
+    # What UrlNormalizer does with these schemes is outside the scope of this test.
+    
+    logger = Minitest::Mock.new
+    # Mock should not expect any warn calls - these URLs should be treated as absolute
+    
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+    
+    importer.stub(:logger, logger) do
+      # FTP scheme - should be recognized as absolute (has scheme)
+      importer.send(:normalized_link, 'ftp://files.example.org/path', nil)
+      
+      # Mailto scheme - should be recognized as absolute (has scheme)
+      importer.send(:normalized_link, 'mailto:info@example.org', nil)
+      
+      # Data URI scheme - should be recognized as absolute (has scheme)
+      importer.send(:normalized_link, 'data:text/plain;base64,SGVsbG8=', nil)
+    end
+    
+    # If no warnings were logged, the test passes
+    logger.verify
+  end
+
+  def test_normalized_link_handles_numeric_schemes
+    # Verify that URLs with numeric-starting schemes are recognized as absolute
+    # (i.e., they don't trigger the "relative URL without base" warning).
+    # What UrlNormalizer does with these schemes is outside the scope of this test.
+    
+    logger = Minitest::Mock.new
+    # Mock should not expect any warn calls - these URLs should be treated as absolute
+    
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+    
+    importer.stub(:logger, logger) do
+      # Scheme starting with a number (theoretical but valid per RFC 3986)
+      importer.send(:normalized_link, '3g2://example.org/path', nil)
+    end
+    
+    # If no warnings were logged, the test passes
+    logger.verify
+  end
+
+  def test_normalized_link_handles_empty_and_whitespace
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+
+    # Empty string
+    result = importer.send(:normalized_link, '', nil)
+    assert_nil result
+
+    # Whitespace only
+    result = importer.send(:normalized_link, '   ', nil)
+    assert_nil result
+
+    # nil
+    result = importer.send(:normalized_link, nil, nil)
+    assert_nil result
+  end
+
+  def test_normalized_link_handles_malformed_urls
+    logger = Minitest::Mock.new
+    # Malformed URLs should be treated as relative since they lack a proper scheme
+    logger.expect(:warn, nil, [/normalized_link: Cannot normalize relative URL without base URL/])
+
+    importer = Mayhem::Events::IcalImporter.new(
+      http_client: @http,
+      time_source: -> { Time.utc(2024, 1, 1) }
+    )
+    importer.stub(:logger, logger) do
+      result = importer.send(:normalized_link, 'ht tp://broken.com', nil)
+
+      assert_nil result
+    end
+
+    logger.verify
+  end
+
   # Thread-safe HTTP client for concurrent tests
   class ThreadSafeStubHttpClient
     def initialize(responses)
