@@ -8,7 +8,7 @@ This document contains a comprehensive review of the Mayhem library with actiona
 ## Summary of Actionable Recommendations (Priority Order)
 
 | Priority | Issue | Description | Status |
-|----------|-------|-------------|--------|
+| -------- | ----- | ----------- | ------ |
 | HIGH | 3.4 | Fix race condition in IcalImporter stats collection | PR #431 |
 | HIGH | 3.1 | Add nil-checking to all `find_by()` calls | PR #432 |
 | HIGH | 1.3 | Extract thread pool pattern to shared utility (~60 lines saved) | PR #433 |
@@ -30,6 +30,7 @@ This document contains a comprehensive review of the Mayhem library with actiona
 ### Issue 1.1: Duplicate `related_records` Implementation
 
 **Files affected:**
+
 - `lib/mayhem/models/image.rb` (lines 42-48)
 - `lib/mayhem/models/topic.rb` (lines 34-41)
 - `lib/mayhem/models/location.rb` (lines 45-52)
@@ -44,6 +45,7 @@ This document contains a comprehensive review of the Mayhem library with actiona
 ### Issue 1.2: Duplicate Pruner Architecture
 
 **Files affected:**
+
 - `lib/mayhem/news/pruner.rb` (lines 17-25, 27-34)
 - `lib/mayhem/events/pruner.rb` (lines 17-25, 27-36)
 
@@ -56,11 +58,13 @@ This document contains a comprehensive review of the Mayhem library with actiona
 ### Issue 1.3: Duplicate Threading Pattern
 
 **Files affected:**
+
 - `lib/mayhem/news/rss_importer.rb` (lines 108-123)
 - `lib/mayhem/events/ical_importer.rb` (lines 48-65)
 - `lib/mayhem/content/source_url_checker.rb` (lines 89-108)
 
 **Problem:** All three classes implement identical thread pool pattern:
+
 ```ruby
 queue = Queue.new
 records.each { |record| queue << record }
@@ -84,12 +88,14 @@ threads.each(&:join)
 ### Issue 1.4: Duplicate Model Accessor Pattern
 
 **Files affected:**
+
 - `lib/mayhem/models/abstract_jekyll_collection.rb` (lines 71-89)
 - `lib/mayhem/models/abstract_content.rb` (lines 15-77)
 - `lib/mayhem/models/news.rb` (lines 25-66)
 - `lib/mayhem/models/event.rb` (lines 25-64)
 
 **Problem:** Every model class has repetitive getter/setter pairs:
+
 ```ruby
 def property_name
   self['property_name']
@@ -101,6 +107,7 @@ end
 ```
 
 **Recommendation:** Use `attr_accessor` pattern or define a class macro like:
+
 ```ruby
 def_attribute :property_name, :another_property
 ```
@@ -112,6 +119,7 @@ def_attribute :property_name, :another_property
 ### Issue 2.1: Inconsistent Filter Method Naming
 
 **Files affected:**
+
 - `lib/mayhem/models/image.rb` - uses `related_records()`
 - `lib/mayhem/locations/repository.rb` - uses `filter_to_highest_level()`
 - `lib/mayhem/locations/classifier.rb` - uses `parse_location_response()`
@@ -125,6 +133,7 @@ def_attribute :property_name, :another_property
 ### Issue 2.2: Inconsistent Model Hook Methods
 
 **Files affected:**
+
 - `lib/mayhem/models/concerns/sourced.rb` (line 10) - returns nothing
 - `lib/mayhem/models/concerns/located.rb` (line 14) - sets property
 - `lib/mayhem/models/concerns/topical.rb` (line 19) - sets property
@@ -138,6 +147,7 @@ def_attribute :property_name, :another_property
 ### Issue 2.3: Inconsistent Error Handling Strategies
 
 **Files affected:**
+
 - `lib/mayhem/news/rss_importer/item_processor.rb` (lines 113-135) - catches 8 specific exception types
 - `lib/mayhem/events/ical_importer.rb` (lines 158-161, 169-172) - catches StandardError broadly
 - `lib/mayhem/front_matter/document.rb` (lines 30-40) - catches StandardError broadly
@@ -153,6 +163,7 @@ def_attribute :property_name, :another_property
 ### Issue 3.1: Unsafe `find_by()` Calls Without Error Handling
 
 **Files affected:**
+
 - `lib/mayhem/models/event.rb` (line 55) - `News.find_by(source_url: source_url)`
 - `lib/mayhem/models/abstract_content.rb` (line 43) - `Image.find_by(checksum:)`
 - All concern modules calling `find_by()` and `find()`
@@ -160,6 +171,7 @@ def_attribute :property_name, :another_property
 **Problem:** `find_by()` can return nil if not found, but most callers don't check for nil. The code in Event.rb line 55 calls `News.find_by(source_url: source_url)` without checking if it exists. Similarly, line 43 in abstract_content.rb filters by checksum without nil-checking.
 
 **Recommendation:** Either:
+
 1. Always check return values and provide sensible defaults
 2. Create safe finder methods that raise on not found
 3. Document that callers must handle nil returns
@@ -169,6 +181,7 @@ def_attribute :property_name, :another_property
 ### Issue 3.2: Silent Failures in `find()` Calls
 
 **Files affected:**
+
 - `lib/mayhem/news/rss_importer/post_writer.rb` (lines 73-76) - rescues all exceptions to return nil
 - `lib/mayhem/front_matter/document.rb` (lines 30-40) - rescues all exceptions silently
 
@@ -222,12 +235,14 @@ If `stats` is nil, it silently skips the local increment. This could cause incon
 ### Issue 4.1: N+1 Query Problem in Model Relationships
 
 **Files affected:**
+
 - `lib/mayhem/models/topic.rb` (lines 22-29) - calls `model.all.select{}`
 - `lib/mayhem/models/location.rb` (lines 33-41) - calls `model.all.select{}`
 - `lib/mayhem/models/image.rb` (lines 30-37) - calls `model.all.select{}`
 - `lib/mayhem/models/organization.rb` (lines 17-25, 38-51)
 
 **Problem:** Methods like `Topic#organizations()`, `Image#news()`, etc. load ALL records and filter in memory. For large datasets, this is O(n) and inefficient. For example:
+
 ```ruby
 def organizations
   require_relative 'organization'
@@ -242,11 +257,13 @@ end
 ### Issue 4.2: Repeated Encoding Validation
 
 **Files affected:**
+
 - `lib/mayhem/news/rss_importer/feed_runner.rb` (lines 66-86)
 - `lib/mayhem/content/content_utils.rb` (lines 11-18)
 - `lib/mayhem/events/ical_importer.rb` (lines 194, 202-204)
 
 **Problem:** Multiple files implement encoding normalization separately:
+
 - `feed_runner.rb` normalizes with `force_encoding('BINARY')` then `encode('UTF-8'...)`
 - `content_utils.rb` uses `force_encoding('UTF-8')` and `scrub('')`
 - `ical_importer.rb` calls `Seldon::Support::EncodingUtils.ensure_utf8()`
@@ -260,6 +277,7 @@ end
 **File:** `lib/mayhem/content/content_fetcher.rb` (lines 89-97)
 
 **Problem:** The `strip_empty_tags()` method uses a loop that repeatedly traverses the entire DOM tree:
+
 ```ruby
 loop do
   empties = fragment.css('*').select { |node| node.element? && node.inner_html.to_s.strip.empty? }
@@ -279,6 +297,7 @@ For large HTML documents, this could be O(n^2) or worse. Each iteration re-queri
 ### Issue 5.1: No Tests for Threading Edge Cases
 
 **Files lacking tests:**
+
 - `lib/mayhem/news/rss_importer.rb`
 - `lib/mayhem/events/ical_importer.rb`
 - `lib/mayhem/content/source_url_checker.rb`
@@ -308,6 +327,7 @@ For large HTML documents, this could be O(n^2) or worse. Each iteration re-queri
 **Problem:** The `normalized_markdown()` method uses ReverseMarkdown.convert() without any sanitization. If HTML contains malicious scripts, they could be converted to markdown that still contains executable content.
 
 **Recommendation:** Sanitize HTML before conversion using something like:
+
 ```ruby
 sanitized = Nokogiri::HTML.fragment(html_description).to_html
 ```
@@ -317,6 +337,7 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 ### Issue 6.2: Environment Variable Access Without Defaults
 
 **Files affected:**
+
 - `lib/mayhem/openai/chat_client.rb` (line 14)
 - `lib/mayhem/news/summarizer.rb` (line 41)
 - `lib/mayhem/locations/classifier.rb` (line 21)
@@ -409,6 +430,7 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 ### Issue 10.1: Circular Require Dependencies
 
 **Files affected:**
+
 - `lib/mayhem/models/abstract_content.rb` (line 40) - `require_relative 'image'` inside method
 - `lib/mayhem/models/news.rb` (line 42) - `require_relative 'event'` inside method
 - `lib/mayhem/models/event.rb` (line 54) - `require_relative 'news'` inside method
@@ -424,6 +446,7 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 ### Issue 10.2: Inconsistent HTTP Client Initialization
 
 **Files affected:**
+
 - `lib/mayhem/news/rss_importer.rb` (lines 70-75)
 - `lib/mayhem/events/ical_importer.rb` (lines 33-35)
 - `lib/mayhem/content/content_fetcher.rb` (lines 19-21)
@@ -437,7 +460,7 @@ sanitized = Nokogiri::HTML.fragment(html_description).to_html
 ## Completed Items
 
 | Issue | Description | PR/Commit | Date |
-|-------|-------------|-----------|------|
+| ----- | ----------- | --------- | ---- |
 | - | Extract Summarizer::Base class | PR #429 | 2026-01-23 |
 | - | Rename `sanitized_html` to `normalized_html` | PR #429 | 2026-01-23 |
 | 3.4 | Fix race condition in IcalImporter stats collection | PR #431 | 2026-01-23 |
