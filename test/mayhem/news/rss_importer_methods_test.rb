@@ -512,7 +512,7 @@ class RssImporterMethodsTest < Minitest::Test
       url: 'https://example.com/rate-limited',
       origin_url: 'https://example.com/rate-limited',
       operation: 'content_fetch',
-      status: 429
+      retry_after: 60
     )
     fetcher = Class.new do
       define_method(:fetch) do |_url|
@@ -532,7 +532,7 @@ class RssImporterMethodsTest < Minitest::Test
       url: 'https://example.com/unavailable',
       origin_url: 'https://example.com/unavailable',
       operation: 'content_fetch',
-      status: 503
+      retry_after: 60
     )
     fetcher = Class.new do
       define_method(:fetch) do |_url|
