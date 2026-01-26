@@ -507,6 +507,46 @@ class RssImporterMethodsTest < Minitest::Test
     assert_includes @logger.warns.last, 'Failed to fetch article body'
   end
 
+  def test_fetch_article_body_logs_warning_on_too_many_requests_error
+    error = Seldon::Support::HttpClient::TooManyRequestsError.new(
+      url: 'https://example.com/rate-limited',
+      origin_url: 'https://example.com/rate-limited',
+      operation: 'content_fetch',
+      status: 429
+    )
+    fetcher = Class.new do
+      define_method(:fetch) do |_url|
+        raise error
+      end
+    end.new
+    processor = build_item_processor(content_fetcher: fetcher)
+    result = processor.send(:fetch_article_body, 'https://example.com/rate-limited')
+
+    assert_equal '', result[:html]
+    assert_nil result[:canonical_url]
+    assert_includes @logger.warns.last, 'Failed to fetch article body'
+  end
+
+  def test_fetch_article_body_logs_warning_on_service_unavailable_error
+    error = Seldon::Support::HttpClient::ServiceUnavailableError.new(
+      url: 'https://example.com/unavailable',
+      origin_url: 'https://example.com/unavailable',
+      operation: 'content_fetch',
+      status: 503
+    )
+    fetcher = Class.new do
+      define_method(:fetch) do |_url|
+        raise error
+      end
+    end.new
+    processor = build_item_processor(content_fetcher: fetcher)
+    result = processor.send(:fetch_article_body, 'https://example.com/unavailable')
+
+    assert_equal '', result[:html]
+    assert_nil result[:canonical_url]
+    assert_includes @logger.warns.last, 'Failed to fetch article body'
+  end
+
   def test_fetch_article_body_logs_error_on_unexpected_exception
     fetcher = Class.new do
       def fetch(_url)
