@@ -46,7 +46,9 @@ module Mayhem
           stats
         rescue Seldon::Support::HttpClient::HttpError,
                Seldon::Support::HttpClient::NotFoundError,
+               Seldon::Support::HttpClient::ForbiddenError,
                Seldon::Support::HttpClient::TooManyRequestsError,
+               Seldon::Support::HttpClient::ServiceUnavailableError,
                *Mayhem::NetworkError::EXCEPTIONS => e
           logger.error "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
           nil
