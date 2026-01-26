@@ -177,6 +177,7 @@ module Mayhem
           { html: '', canonical_url: url, not_found: true }
         rescue Seldon::Support::HttpClient::HttpError,
                Seldon::Support::HttpClient::TooManyRequestsError,
+               Seldon::Support::HttpClient::ServiceUnavailableError,
                *Mayhem::NetworkError::EXCEPTIONS => e
           logger.warn "Failed to fetch article body (#{url}): #{e.message}"
           { html: '', canonical_url: nil }
