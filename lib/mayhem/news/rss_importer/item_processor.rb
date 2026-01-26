@@ -176,6 +176,7 @@ module Mayhem
           logger.warn "Article URL returned 404 (#{url}): #{e.message}"
           { html: '', canonical_url: url, not_found: true }
         rescue Seldon::Support::HttpClient::HttpError,
+               Seldon::Support::HttpClient::ForbiddenError,
                Seldon::Support::HttpClient::TooManyRequestsError,
                Seldon::Support::HttpClient::ServiceUnavailableError,
                *Mayhem::NetworkError::EXCEPTIONS => e

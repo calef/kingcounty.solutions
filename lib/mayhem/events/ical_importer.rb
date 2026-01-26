@@ -150,6 +150,7 @@ module Mayhem
         page = @http_client.fetch(url, accept: ACCEPT_HEADER)
         import_calendar(page[:body], source_title, website, stats)
       rescue Seldon::Support::HttpClient::HttpError,
+             Seldon::Support::HttpClient::ForbiddenError,
              Seldon::Support::HttpClient::TooManyRequestsError,
              Seldon::Support::HttpClient::ServiceUnavailableError,
              *Mayhem::NetworkError::EXCEPTIONS => e
@@ -408,6 +409,7 @@ module Mayhem
         logger.warn "Source returned 404 for #{url}: #{e.message}"
         { html: '', canonical_url: url, not_found: true }
       rescue Seldon::Support::HttpClient::HttpError,
+             Seldon::Support::HttpClient::ForbiddenError,
              Seldon::Support::HttpClient::TooManyRequestsError,
              Seldon::Support::HttpClient::ServiceUnavailableError,
              *Mayhem::NetworkError::EXCEPTIONS => e
