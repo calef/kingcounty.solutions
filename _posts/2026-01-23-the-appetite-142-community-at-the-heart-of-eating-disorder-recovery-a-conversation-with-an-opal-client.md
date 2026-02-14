@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-23T22:39:34+00:00'
 event_ids: []
 events_extracted: true
@@ -355,6 +356,7 @@ feed_content: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\
   Conversation with an Opal Client</a> appeared first on <a>Opal: Food + Body Wisdom</a>.</p>"
 feed_content_checksum: 54196e4b8b3309e0a13e7431daca41d16136fe6e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: 'Opal: Food + Body Wisdom'

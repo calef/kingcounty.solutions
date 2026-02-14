@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-29T22:26:51+00:00'
 event_ids: []
 events_extracted: true
@@ -39,6 +40,7 @@ feed_content: "<p>The holidays are around the corner and can stir up many emotio
   light, even on the shortest days.</p>\n<p><strong>Because no one should face cancer
   alone.</strong></p>\n<p> </p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

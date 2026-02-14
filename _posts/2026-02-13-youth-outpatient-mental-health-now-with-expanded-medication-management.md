@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-13T16:43:54+00:00'
+event_ids: []
 feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<h1>Youth Outpatient Mental
   Health – Now with expanded medication management</h1>\n<div>\n<span>Our commitment
   to increasing access to coordinated youth mental health care continues to grow at
@@ -30,6 +32,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
   appeared first on <a>LCSNW</a>.</p>"
 feed_content_checksum: ff17f70660aae2be2b60845f66a6253695498452
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Lutheran Community Services Northwest
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"

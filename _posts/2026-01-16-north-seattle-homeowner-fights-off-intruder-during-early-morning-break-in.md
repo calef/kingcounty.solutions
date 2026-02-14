@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-16T12:56:06+00:00'
+event_ids: []
 feed_content: A suspect is seriously injured and in police custody this morning after
   breaking into a home in North Seattle and attacking the 61-year-old homeowner. Seattle
   police officers responded to an in-progress residential burglary in the 6100 block
   of Brookly...
 feed_content_checksum: 03cae96edf1eeb207705f642ff1c97125ec05529
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

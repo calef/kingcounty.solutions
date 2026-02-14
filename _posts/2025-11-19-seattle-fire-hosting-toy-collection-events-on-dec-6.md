@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-19T17:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: 'Seattle Fire is excited to help support the U.S. Marine Corps’ 
   four Seattle fire stations: Come by any of the stations between 2 and 4 p.m. (in
   Magnolia, we’ll ...'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-12T20:44:53+00:00'
+event_ids: []
 feed_content: "<span>Council adopts Diversity Advantage Plan 2035</span>\n<span><span>CIosso</span></span>\n<span><time>Fri,
   12/12/2025 - 12:44</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>
   \   <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-10/dap-news-release-for-bwa-image.png?h=fbf7a813&amp;itok=8KB9Fwyf\">\n\n\n</div>\n
@@ -38,6 +40,7 @@ feed_content: "<span>Council adopts Diversity Advantage Plan 2035</span>\n<span>
   \ </div>"
 feed_content_checksum: 18e8d6a9bb74c2d15299c5eb6cf1f66faf65dee0
 image_checksums: []
+images_extracted: true
 location_titles:
 - Bellevue
 organization_title: City of Bellevue

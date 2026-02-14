@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-11T17:59:17+00:00'
+event_ids: []
 feed_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/Holiday-Lights-3-783x1024.png" alt="" class="wp-image-3614"/></figure>
 
@@ -7,6 +9,7 @@ feed_content: |-
 
   <p>Join us on a drive around Candy Cane Lane! Meet at WCSC for some cookies and hot chocolate beforehand, and then hop on the van to view the famous street of holiday lights. $2 for members, $4 for non-members</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 published: false

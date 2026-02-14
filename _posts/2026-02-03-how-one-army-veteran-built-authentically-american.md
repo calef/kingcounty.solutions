@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-03T14:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>With support and purpose from the U.S. Small Business Administration </h2>
 
@@ -80,6 +82,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: ff83c21c9e1c4e833a4c381546ba3077d3cb16bd
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

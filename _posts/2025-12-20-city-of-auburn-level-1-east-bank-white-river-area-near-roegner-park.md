@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-20T03:08:19+00:00'
+event_ids: []
 feed_content: POSTED December 19, 2025 – 6 p.m. A Level 1 (GET READY) evacuation notice
   for areas along the east and south bank of the White River near Roegner Park. As
   the White River may potentially rise toward approximately 10,000 cubic feet per
   second (cfs), the City of Auburn has identified areas along HESCO and sandbag […]
 feed_content_checksum: c4b0808ad926080edf96181734d39b4e34d70c64
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

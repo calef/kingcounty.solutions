@@ -1,10 +1,12 @@
 ---
+classified: true
 end_date: '2026-04-24T19:30:00-07:00'
 feed_content: "<div> <div> <p>The School of Music and the student-run Improvised Music
   Project (IMP) present IMPFest, featuring UW Jazz Studies students and faculty  performing
   with guest artists of international renown.  </p> <h3> </h3> </div> </div>"
 feed_content_checksum: 5288de87482c911b084f1840681edba2ee945e0a
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

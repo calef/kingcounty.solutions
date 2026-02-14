@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-21T19:42:51+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/01/Wrinkle-in-Time-26-4-791x1024.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>We’re excited to welcome the Wrinkles in Time back to WCSC! Their interactive performance involves skits and stories, movement and sound- all improvised on the spot, using material offered up by YOU, the audience. Sometimes poignant, sometimes amusing, always entertaining- come enjoy! $4 members, $6 non-members. RSVPs appreciated.</p>
 feed_content_checksum: e3729ea889748ab3853f19c97a27b41d7b08ddcb
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

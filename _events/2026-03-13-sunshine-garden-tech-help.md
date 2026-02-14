@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-13T14:00:00-07:00'
 feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </p>
   <div> <span> Event Series: </span> <a> <span> Sunshine Garden: Tech Help </span>
@@ -32,6 +33,7 @@ feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </
   <abbr>WA</abbr> <span>98104</span> </span> <a>+ Google Map</a> </address> </li>
   </ul> </div> </div> </aside> </div>"
 feed_content_checksum: 8f44fb012e7945d51567fd4f413854cf8f5235ed
+image_checksums: []
 location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
 location_titles:
 - King County

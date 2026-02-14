@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-01T20:59:06+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: They enjoy taking photos, playing soccer and practicing peaceful m
   arts. They travel and garden. There are ukulele, piano and guitar players and happy
   grandparents.  Those who ride with them...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

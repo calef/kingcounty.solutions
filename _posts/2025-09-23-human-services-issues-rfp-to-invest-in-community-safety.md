@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-23T22:31:42+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: The City of Seattle Human Services Department announced today the 
   safety.&#160; Selected providers will offer services to reduce gun violence, stabilize
   individuals and families, and strengthen neighborhoods. The funding [&#8230;]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-18T16:23:43+00:00'
+event_ids: []
 feed_content: A 49-year-old man is behind bars this weekend after two days of bank
   robberies when cops found his demand note in the Capitol Hill Goodwill. On the afternoon
   of Jan. 16, the suspect entered the Columbia Bank on Broadway Avenue East. He approached
   the t...
 feed_content_checksum: 9eccb9e02e93895406ca673a310a67da6488d91f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

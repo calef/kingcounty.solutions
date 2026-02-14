@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-10T01:19:09+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: LIHI’s commitment to racial equality and justice is demonstrated
   needs in our communities. We are also proud to have honored many Black heroes by...
 feed_content_checksum: b8c6b51a20e2f1efeb181e8f929e6cda5bd4772b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

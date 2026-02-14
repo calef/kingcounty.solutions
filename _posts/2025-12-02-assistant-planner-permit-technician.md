@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-02T20:16:19+00:00'
+event_ids: []
 feed_content: This position is responsible for professional-level urban planning and
   assistance with a variety of tasks in day-to-day operations of the Community Development
   Department. Work involves activities in support of major planning projects, such
@@ -12,6 +14,7 @@ feed_content: This position is responsible for professional-level urban planning
   Park Municipal Code for building, land use, and environmental regulations, and submittal
   requirements for permit applications.
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Normandy Park
 published: false

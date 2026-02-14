@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-15T22:19:31+00:00'
+event_ids: []
 feed_content: |-
   <p>Asian Counseling and Referral Service (ACRS) is deeply troubled by the recent fatal shooting of Renee Nicole Good by an ICE agent in Minneapolis and by a separate incident in Portland in which federal immigration agents wounded two people. These related events reflect a troubling pattern of the use of force, abuse of power, and disregard for human life by federal immigration authorities across the country. Last year, a record number of 32 individuals died under ICE custody.</p>
   <p>The use of lethal force by federal authorities raises urgent and serious concerns about safety, accountability, and lack of guardrails for this administration’s anti-immigrant agenda. Every day immigrant and refugee communities, particularly those who already experience heightened fear, trauma, and barriers to care, are paying the price</p>
@@ -9,6 +11,7 @@ feed_content: |-
   <p>The post <a>ACRS Statement on recent ICE Shootings</a> appeared first on <a>ACRS</a>.</p>
 feed_content_checksum: bfa952895e3a49166c11575bb499a47561d42f76
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Asian Counseling and Referral Service

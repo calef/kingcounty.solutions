@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-07T18:14:07+00:00'
+event_ids: []
 feed_content: Two men were stabbed during a robbery early Wednesday morning in First
   Hill’s Freeway Park. At 6:30 a.m., dispatchers received reports of two victims stabbed
   in Freeway Park underpass near University Street and Hubbell Place. Officers arrived
   and found...
 feed_content_checksum: bf7870b65f8f8ffd93d8b527cb01c49d1a620c92
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

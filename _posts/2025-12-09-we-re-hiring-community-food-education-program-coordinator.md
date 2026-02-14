@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-09T18:51:33+00:00'
 event_ids: []
 events_extracted: true
@@ -105,6 +106,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
   first on <a>Hunger Intervention Program</a>.</p>"
 feed_content_checksum: f71105d20c60244740aac553cf3a6334c70a7a22
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hunger Intervention Program

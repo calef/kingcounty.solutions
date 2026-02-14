@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-25T22:26:47+00:00'
+event_ids: []
 feed_content: 'Do you love connecting people with nature? Are you looking for ways
   to embrace the outdoors this winter? The Seattle Parks Environmental Education Team
   has exciting news on two fronts: we are expanding our staff, and our calendar is
   packed with unique ...'
 feed_content_checksum: 41f238782fee0da6fcd5839a71a0e2af563a7401
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

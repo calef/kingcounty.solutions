@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-12T21:00:03+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: For Claudia McGinnis, her career in skincare started as a job, but
   clinic. She says that was where she fell in love with the industry. “What I love
   the most i...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

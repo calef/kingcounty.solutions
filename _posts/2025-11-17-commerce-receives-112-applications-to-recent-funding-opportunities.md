@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-17T18:16:35+00:00'
 event_ids: []
 events_extracted: true
@@ -59,6 +60,7 @@ feed_content: |-
 
   <p>Email the application team at <a href="mailto:HTFApp@commerce.wa.gov">HTFApp@commerce.wa.gov</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

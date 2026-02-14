@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-12T19:41:09+00:00'
+event_ids: []
 feed_content: "<span>Council Roundup: Council honors longest-tenured councilmember,
   holds special meeting with state legislators</span>\n<span><span>CIosso</span></span>\n<span><time>Fri,
   12/12/2025 - 11:41</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>
@@ -46,6 +48,7 @@ feed_content: "<span>Council Roundup: Council honors longest-tenured councilmemb
   \           <div>\n<time>December 12 2025</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: f15a6fac8eba63ed0eed49bdb4b1147c81ace03a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-16T20:37:02+00:00'
+event_ids: []
 feed_content: Share OSE’s 2025 Wrapped series on social media:  From embarking on
   a new update to Seattle’s Climate Action Plan to investing millions into community
   organizations to reduce pollution and serving communities hit first and worst by
   climate change,...
 feed_content_checksum: fc41e111c15508261938b2bc353ea511e18fa8aa
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

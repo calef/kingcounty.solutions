@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-01T22:21:27+00:00'
 event_ids: []
 events_extracted: true
@@ -29,6 +30,7 @@ feed_content: |-
 
   The post [Expert Epilepsy and Seizure Care Now Available at Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org/expert-epilepsy-and-seizure-care-now-available-at-snoqualmie-valley-hospital/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

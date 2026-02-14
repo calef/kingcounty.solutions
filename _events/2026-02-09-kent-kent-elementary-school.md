@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-13T17:00:00-08:00'
 feed_content: "<article> <div> <section><div> <h1>Clinic Schedule</h1> <p>The SmileMobile
   is coming to your community! This mobile dental clinic provides care to infants,
@@ -21,6 +22,7 @@ feed_content: "<article> <div> <section><div> <h1>Clinic Schedule</h1> <p>The Sm
   <span>»</span></a></li> </ul> </div> </div> </section> </div> </article>"
 feed_content_checksum: 051ea00db181bce3ec74a5e1d21acb8508880b63
 image_checksums: []
+images_extracted: true
 location: Kent Elementary School, 24700 64th Ave. S., Kent, Washington, 98032, United
   States
 location_titles:

@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-11-12T01:30:16+00:00'
+event_ids: []
 feed_content: Today, we take time to honor the brave men and women who have served
   our country in uniform. To those of you who are veterans — and who continue to serve
   our community with the same integrity, dedication, honor, and courage — thank you.
   Your service to...
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

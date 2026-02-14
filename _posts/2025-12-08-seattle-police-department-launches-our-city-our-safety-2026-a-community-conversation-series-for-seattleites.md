@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-08T22:37:33+00:00'
+event_ids: []
 feed_content: On January 14, the Seattle Police Department will launch the first of
   its 10 monthly community conversations, “Our City, Our Safety 2026” across the city,
   with each gathering designed to influence how the department will approach safety
   neighborhood by...
 feed_content_checksum: f254ed30dc30be2d331c4d84364bc2fb28e983f9
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-15T16:00:00+00:00'
+event_ids: []
 feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/nguyen_spotlight-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
@@ -14,6 +16,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   work and grow in the Technical Resources Unit. In my current role, I manage a talented
   and skilled team of Computer-Aided Design [&#8230;]'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City Light Bill Assistance Programs
 published: false

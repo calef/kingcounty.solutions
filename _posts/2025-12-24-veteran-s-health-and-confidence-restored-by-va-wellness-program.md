@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-24T15:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>Empowering women Veterans through tailored wellness support</h2>
 
@@ -68,6 +70,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: c056e440024a7cc6f75ae3f62db07e54e4f3dcf0
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: |-

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-23T23:45:54+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Upward Bound scholars and families gather to learn about college o
   program ...
 feed_content_checksum: 59afa4673792c48c1f1845408e61848c27d26ab5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-12T20:23:45+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/Moses-Seattle-1-791x1024.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>Seattle historian and author David Norman Lewis will be here to share the interesting mystery of Chief Seattle’s grandson, Moses. Moses traveled from the reservation, to boarding school, to hop fields, to freak shows, to playing accordion at all night dances. No man on Puget Sound ever melded the worlds of history and mythology as much as Moses Seattle, whose tragic death and final moments were clinically recorded. </p>
 feed_content_checksum: 01b2715502cb610468ebbbe657f5ce2fffac0348
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

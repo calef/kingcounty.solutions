@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-08-19T18:48:50+00:00'
+event_ids: []
 feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"16463\" class=\"elementor
   elementor-16463\" data-elementor-post-type=\"post\">\n\t\t\t\t\t\t<section class=\"elementor-section
   elementor-top-section elementor-element elementor-element-16ee2b4 elementor-section-boxed
@@ -68,6 +70,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"16463\" 
   Locker Room Update: Epoxy Flooring Work</a> appeared first on <a href=\"https://itallhappenshere.org\">Federal
   Way Community Center</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Federal Way Community Center
 published: false

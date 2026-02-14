@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-29T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -58,6 +59,7 @@ feed_content: |-
   <p>One year in, Hauser is an example of a Veteran who addressed a health and well-being goal through clinical hypnosis, a complementary and integrative health (CIH) service offered as a part of the VA Whole Health System of care. Clinicians are trained to support Veterans in using clinical hypnosis to help manage concerns such as anxiety, insomnia, pain, obesity and more. To learn more, visit the <a>Whole Health CIH webpage</a>.</p>
 feed_content_checksum: 0c0e548cdf5ab662f6b1c5ada3805a658a40bcf3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

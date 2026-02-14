@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-08T22:00:56+00:00'
 event_ids: []
 events_extracted: true
@@ -15,6 +16,7 @@ feed_content: |-
   <p>The post <a>Living with gratitude.</a> appeared first on <a>Transforming Age | Senior Housing, Community Services, Philanthropy, Technology &amp; Partnerships</a>.</p>
 feed_content_checksum: 9621ec0ef75b8248542d1b102980cd12b5f07d78
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Transforming Age

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-30T23:59:09+00:00'
 event_ids:
 - _events/2026-06-30-2026-dav-and-auxiliary-national-convention-prize-drawing.md
@@ -46,6 +47,7 @@ feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/u
   <a>You could win $2,500 and a trip to Orlando</a> appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: ba0417e047ef81cd8e0f6bc6809f974e7c318cf0
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

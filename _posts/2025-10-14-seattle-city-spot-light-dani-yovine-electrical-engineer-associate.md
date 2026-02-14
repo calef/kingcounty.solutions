@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-14T16:00:00+00:00'
+event_ids: []
 feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/yovine_spotlight-1-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
@@ -14,6 +16,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   in the planning, design, construction, operation, and maintenance of City Light&#8217;s
   hydroelectric generation facilities. My favorite thing about my role is that [&#8230;]'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City Light Bill Assistance Programs
 published: false

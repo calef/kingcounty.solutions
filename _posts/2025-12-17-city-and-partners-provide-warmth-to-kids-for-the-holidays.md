@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-17T19:29:58+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: The Seattle Police Department was proud to join forces with the Se
   for children...
 feed_content_checksum: 725b44e1c0006c9e5bdfb77b2b17c25d155c8d31
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

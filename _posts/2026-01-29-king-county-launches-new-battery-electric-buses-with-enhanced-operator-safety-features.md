@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T23:33:34+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Cross posted from King County Executive news Today, King County Ex
   buses that enhance transit operator safety,...
 feed_content_checksum: 2ce72e17aa486a3646d4e697ce14a3e933f8549f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

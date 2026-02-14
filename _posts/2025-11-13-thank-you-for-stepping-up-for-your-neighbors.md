@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-13T17:20:15+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: November is often the time of year when we reflect on what we can 
   and other challenges. Recognizing multiple things can be true – we reflect on the
   hard  [...]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Multi-Service Center

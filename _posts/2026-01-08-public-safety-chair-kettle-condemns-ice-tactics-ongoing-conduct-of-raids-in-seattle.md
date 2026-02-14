@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-08T19:29:35+00:00'
+event_ids: []
 feed_content: |-
   <p>Today Councilmember Bob Kettle (District 7), issued the following statement after Immigration and Customs Enforcement (ICE) actions this week in Seattle, the shocking killing of a bystander in Minneapolis by agents, and nationwide demonstrations last night in response to the agency’s unprecedented tactics. “Yesterday’s tragic killing by an ICE agent highlights our worst fears and...</p>
   <p>The post <a>Public Safety Chair Kettle condemns ICE tactics, ongoing conduct of raids in Seattle</a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: eeb6349ad91d91534b4c66b88368793e329e49de
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

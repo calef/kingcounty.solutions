@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-01T21:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -69,6 +70,7 @@ feed_content: |-
   <div class="video-shortcode"><iframe title="#LiveWholeHealth: A season of gratitude" width="1400" height="788" src="https://www.youtube.com/embed/o7DhHcj1jE4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div></figure>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

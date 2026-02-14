@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-11T00:06:08+00:00'
+event_ids: []
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Infant
   formula recalled because of possible link to infant botulism cases</span>\n\n            <div
   class=\"field field--name-field-date-and-time field--type-datetime field--label-hidden
@@ -62,6 +64,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   <a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"793e85b5-17aa-40fb-8ac5-3d5b44f34363\"
   href=\"/about-us/contact-us/social-media\">social media</a>.</p>\n\n<p class=\"text-align-center\">###</p></div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Health
 published: false

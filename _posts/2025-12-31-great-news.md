@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-31T21:59:20+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Great news!</a> appeared first on <a>Westside Neighbors Shelter</a>.</p>
 feed_content_checksum: 8d373f6ee4726e0ed54251ebc3893118eb26d7ea
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Westside Neighbors Shelter

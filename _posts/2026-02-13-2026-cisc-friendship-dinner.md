@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-13T18:15:12+00:00'
 event_ids:
 - _events/2026-02-13-2026-cisc-friendship-dinner.md
@@ -12,6 +13,7 @@ feed_content: |-
   <p>The post <a>2026 CISC Friendship Dinner</a> appeared first on <a>CISC</a>.</p>
 feed_content_checksum: 336e2bf0bd8addfdcef17019ddf4e70a354f3650
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Chinese Information & Service Center

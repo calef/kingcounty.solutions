@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-30T04:03:53+00:00'
 event_ids: []
 events_extracted: true
@@ -143,6 +144,7 @@ feed_content: "<div>\n<div><div><div>\n\t<div>\n\t\t<div>\n\t\t\t<p><strong>Key 
   first on <a>Lakeside-Milam Recovery Centers</a>.</p>"
 feed_content_checksum: a2a6e39591ed8425cf281e755e623adc05fc075e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lakeside-Milam Recovery Centers

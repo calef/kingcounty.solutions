@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-13T01:30:09+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: <div><img src="https://i0.wp.com/news.shoreline.edu/wp-content/upl
   a clear and dependable path to continue their …
 feed_content_checksum: 0d9c6c443c5cefa46c155032c54f05ce6d36d5b8
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Shoreline Community College

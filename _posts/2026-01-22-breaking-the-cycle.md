@@ -1,10 +1,12 @@
 ---
+classified: true
 date: '2026-01-22T18:47:43+00:00'
 event_ids: []
 events_extracted: true
 feed_content: "<p>The post <a>Breaking the Cycle</a> appeared first on <a>KCSARC</a>.</p>"
 feed_content_checksum: 85a3ae0f7f8e89df3d69f21064a0731d72c0743d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Sexual Assault Resource Center

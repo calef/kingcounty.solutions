@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-10T15:42:58+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: |-
 
   <p>Originally from &hellip;</p></a>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: The Center for Active Living
 published: false

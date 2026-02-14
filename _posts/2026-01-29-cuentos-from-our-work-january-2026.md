@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-29T22:22:41+00:00'
+event_ids: []
 feed_content: "<div>\n<div>\n<p><strong>Community Power in Action  Clean Air, Environmental
   Justice, and What’s Next</strong></p>\n\n\n\n<p>On January 22, El Centro de la Raza
   welcomed 40+ community members and volunteers to the Centilia Cultural Center for
@@ -84,6 +86,7 @@ feed_content: "<div>\n<div>\n<p><strong>Community Power in Action  Clean Air, En
   la Raza</a>.</p>"
 feed_content_checksum: c53ccab7c352582fdeeee865a77c92efe9d52b67
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: El Centro de la Raza

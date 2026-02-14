@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-16T16:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: The Washington Department of Health announces the launch of the fi
   resistance, and improve patient trust. Additional modules are forthcoming.
 feed_content_checksum: 9988b96174f4534f0cdd66ff102692efd01d078f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

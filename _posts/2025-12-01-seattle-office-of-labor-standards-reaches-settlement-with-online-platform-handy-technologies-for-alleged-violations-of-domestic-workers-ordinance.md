@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-01T16:13:53+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: 'Nearly $136,000 in Remedies to 705 Workers For Immediate Release 
   to 705 Workers Seattle, WA – (December 1, 2025) – The Office of Labor Standards
   (OLS) investigated Handy [&#8230;]'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

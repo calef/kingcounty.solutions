@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-05T19:03:23+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/Qigong-Class-26-4-783x1024.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>The ancient Chinese practice of Qigong uses slow, precise movements and controlled breathing to improve balance, flexibility, and muscle strength. Jean Clough, Qigong Instructor, has been studying Qigong since 1999 and has been teaching for 16 years. With a background in science, Jean delights in teaching Qigong in ways relevant to Western minds and is enchanted by the magic of energy and the power of healing through our minds. $4 for members, $6 for nonmembers. </p>
 feed_content_checksum: 2b605eead08f6d0cf6343515c406d117f457819e
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

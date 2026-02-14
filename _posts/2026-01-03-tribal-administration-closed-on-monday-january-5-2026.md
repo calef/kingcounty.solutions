@@ -1,9 +1,12 @@
 ---
+classified: true
 date: '2026-01-03T02:10:49+00:00'
+event_ids: []
 feed_content: "<p><span>Out of honor and respect for Tribal Elder Karen Boney, the
   Tribal Administration will be closed on Monday,</span> <span>January 5, 2026.</span></p>"
 feed_content_checksum: 3f755a499f646cbe0338ac270f9fec4f1858279c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

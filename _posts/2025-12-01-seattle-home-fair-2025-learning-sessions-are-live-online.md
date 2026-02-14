@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-01T14:29:22+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Missed the Seattle Home Fair? No Problem! If you couldn’t attend
   are now available online, so you can watch at your convenience and get the same
   helpful insights from ...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

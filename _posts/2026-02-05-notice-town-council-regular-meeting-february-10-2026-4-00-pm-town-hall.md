@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-05T21:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><a>COMPLETE PACKET</a></p>
   <p>Join Zoom Meeting<br>
@@ -85,6 +87,7 @@ feed_content: |-
   <p><em> </em></p>
 feed_content_checksum: dc867b35e385295d0bcdd9572bc38649dda51774
 image_checksums: []
+images_extracted: true
 location_titles:
 - Yarrow Point
 organization_title: Town of Yarrow Point

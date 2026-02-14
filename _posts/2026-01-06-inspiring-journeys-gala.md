@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T19:41:21+00:00'
 event_ids:
 - _events/2026-11-01-inspiring-journeys-gala.md
@@ -19,6 +20,7 @@ feed_content: "<div>\n\t\t\n\t\t\t\n<div>\n\t\t<div>\n\n<div>\n\n\t\n\t<p><stron
   post <a>Inspiring Journeys Gala</a> appeared first on <a>Boyer Children's Clinic</a>.</p>"
 feed_content_checksum: b1d52029f2eb4f7b685a676d85d4a0bfd881fe97
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Boyer Children's Clinic

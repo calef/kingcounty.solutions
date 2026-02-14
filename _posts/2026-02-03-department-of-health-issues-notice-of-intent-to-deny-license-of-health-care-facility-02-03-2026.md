@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-03T19:26:36+00:00'
 event_ids: []
 events_extracted: true
@@ -41,6 +42,7 @@ feed_content: "<span>Department of Health issues notice of intent to deny licens
   \         </div>"
 feed_content_checksum: 3a728b4c3c645ce02d7da4d3d147fd7f9c57c0ab
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

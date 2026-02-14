@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-03T17:48:03+00:00'
+event_ids: []
 feed_content: |-
   <div>
   <div><a>Click Here to Purchase Your Tickets NOW!</a></div>
@@ -14,6 +16,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 8eb4dbce39f85f6eed8d886059e20afcc6c1e6e1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospitality House

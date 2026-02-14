@@ -1,9 +1,12 @@
 ---
+classified: true
 date: '2025-12-17T16:52:49+00:00'
+event_ids: []
 feed_content: "<div>\n  \n      \n    <span>01/01/2026 - 11:00am</span>\n      </div>\n\n<div>\n
   \ \n      \n    <p><a>Notice</a></p>\n      </div>"
 feed_content_checksum: b17eb19321ea4c2962c35ef8fa13accae52a6ffb
 image_checksums: []
+images_extracted: true
 location_titles:
 - Black Diamond
 organization_title: City of Black Diamond

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-19T21:38:05+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: |-
   <p><strong>Thank you, Bank of America, for investing in our shared vision of housing as the foundation for a thriving life.</strong></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/behavioral-health-program-gains-strength/">Behavioral Health Program Gains Strength</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Mercy Housing
 published: false

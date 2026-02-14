@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-29T15:36:57+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: In October 2025, Neighborcare introduced the Public Health School-
   is extended to Mercer Middle School's staff for their hospitality. Congratulations
   on the new clinic!
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-10T01:00:10+00:00'
+event_ids: []
 feed_content: |-
   <p><a>COMPLETE-PACKET</a></p>
   <p>Please join us for Tuesday night’s Town Council meeting.</p>
@@ -14,6 +16,7 @@ feed_content: |-
   <p>Mayor Katy Kinney Harris</p>
 feed_content_checksum: 6a24b96937556daf55ed719a38fa72773ce623b1
 image_checksums: []
+images_extracted: true
 location_titles:
 - Yarrow Point
 organization_title: Town of Yarrow Point

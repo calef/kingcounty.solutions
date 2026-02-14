@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-21T19:08:04+00:00'
 event_ids: []
 events_extracted: true
@@ -92,6 +93,7 @@ image_checksums:
 - aae0b5025224a0e0d1cda7e0c6f9e7874de1cc1c55e259082d0cb319c1e5a39a
 - 8cb2f3bdff258826925900db9193d0d8bbbb432fa9a6d64fc268b76842200b79
 - 2313202dfba7d1449f736982bf242ebaef67a65dda3063567bf89d3811c2a591
+images_extracted: true
 location_titles:
 - King County
 organization_title: Federal Way Community Center

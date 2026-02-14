@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-09T18:11:45+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: The Attorney General’s Office is seeking members for the HearMeW
   Selected members will participate in bi-monthly Zoom meetings and receive compensation.
 feed_content_checksum: cb948176a89c1aabcdcef89f8d8459e923b7613c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

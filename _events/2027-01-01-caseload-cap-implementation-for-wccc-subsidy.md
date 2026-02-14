@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: An average monthly caseload cap will be imposed for the Working Connections
   Child Care subsidy.
 feed_content_checksum: 1a40188d3dafc0b631c9ede44d04756a08b4ec78
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

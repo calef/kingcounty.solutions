@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T04:45:21+00:00'
 event_ids: []
 events_extracted: true
@@ -248,6 +249,7 @@ feed_content_checksum: 93e3cb5f5ec88d88afac110f09809e0e3a9b2248
 image_checksums:
 - 0f96038c3bbbaec72a6ec345978c0295122b024c27fbbd34a64262a12849c769
 - a91e04bc4529908af09216290b2ba4a8e2e2f09aaf959967d06f5f93de506537
+images_extracted: true
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

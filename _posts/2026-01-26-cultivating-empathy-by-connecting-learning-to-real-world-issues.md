@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-26T19:19:23+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Vy Nofua, operations manager at Northwest Furniture gives feedback
   solve complex issues, building confidence in […]
 feed_content_checksum: 1ce53b594b168167a8e9627602a6b1b991723053
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Technology Access Foundation

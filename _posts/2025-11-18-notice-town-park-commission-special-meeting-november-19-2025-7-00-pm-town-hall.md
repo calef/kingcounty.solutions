@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-18T21:48:25+00:00'
+event_ids: []
 feed_content: |-
   <p><a href="https://yarrowpointwa.gov/wp-content/uploads/2025/11/COMPLETE-PACKET-1.pdf">COMPLETE PACKET</a></p>
   <p>Notice is hereby given that on Wednesday, November 19, 2025, the Town Park Commission will hold a regular meeting at Town Hall at 7:00 PM.</p>
@@ -20,6 +22,7 @@ feed_content: |-
   <p>Your attendance is always encouraged.</p>
   <p>Thank you.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

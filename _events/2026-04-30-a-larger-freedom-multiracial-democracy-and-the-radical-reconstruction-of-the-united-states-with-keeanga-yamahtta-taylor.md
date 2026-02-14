@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-30T19:30:00-07:00'
 feed_content: "<article> <header> <h1>The Office of Public Lectures presents: A Larger
   Freedom: Multiracial Democracy and the Radical Reconstruction of the United States
@@ -42,6 +43,7 @@ feed_content: "<article> <header> <h1>The Office of Public Lectures presents: A 
   Arts &amp; Sciences, The Graduate School </p> </div> </article>"
 feed_content_checksum: 573aadbbd5c72e0f74019f37cd95c3b9dc125069
 image_checksums: []
+images_extracted: true
 location: Town Hall Seattle
 location_titles:
 - King County

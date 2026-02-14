@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-01T15:56:42+00:00'
+event_ids: []
 feed_content: 'Casi $136.000 en recursos para 705 trabajadores Para publicación inmediata
   Contacto: Cynthia Santana, gerenta de comunicaciones206-256-5219cynthia.santana@seattle.gov
   La Oficina de Normas Laborales de Seattle llega a un acuerdo con la plataforma en
   línea Handy Technologies por presuntas violaciones de la Ordenanza de Trabajadores
   del Hogar Casi $136.000 en recursos para 705 trabajadores Seattle, WA – (1 [&#8230;]'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-28T20:30:32+00:00'
+event_ids: []
 feed_content: |-
   <div>
   <div>
@@ -30,6 +32,7 @@ feed_content: |-
   <p>My time at AFW has been a very meaningful part of my senior year, and I’m truly grateful for the experiences, mentorship, and confidence this internship has brought me. I’ve grown not only as a communicator, but also as a person who understands the power and effect purposeful work can have on others. As I prepare for graduation and the next steps in my career, I’ll bring everything I’ve learned here with me at Angel Flight West.   </p><p>The post <a>Intern Reflection: Meet Elizabeth</a> first appeared on <a>Angel Flight West</a>.</p>
 feed_content_checksum: e84ff1c09f88be91accc989666ed7a5400996c05
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Angel Flight West
 original_source_html: |-

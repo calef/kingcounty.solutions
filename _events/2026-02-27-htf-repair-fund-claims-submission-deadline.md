@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Deadline for submitting claims for costs incurred from July 1, 2025,
   to January 25, 2026.
 feed_content_checksum: ee749de934186c208d9f5dcd194d39dc762bea23
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

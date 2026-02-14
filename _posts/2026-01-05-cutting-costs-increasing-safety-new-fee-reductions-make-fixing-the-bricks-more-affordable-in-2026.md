@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-05T22:51:56+00:00'
+event_ids: []
 feed_content: Seattle’s unreinforced masonry (URM) buildings are an essential part
   of the city’s architectural heritage, and they are also among the most vulnerable
   structures during an earthquake. Over the last several years, the Seattle Department
   of Construction ...
 feed_content_checksum: 6866d3bd21944a320bc75b8307e1b8e9ba7cc6a6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

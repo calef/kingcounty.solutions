@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-13T21:41:40+00:00'
 event_ids: []
 events_extracted: true
@@ -209,6 +210,7 @@ feed_content: "<div id=\"preheader\" style=\"color: transparent; display: none; 
   </p> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </td> </tr> </tbody>
   </table> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </div>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Jubilee Women's Center

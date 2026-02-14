@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-11T19:06:44+00:00'
 event_ids: []
 events_extracted: true
@@ -70,6 +71,7 @@ feed_content: "<span>DOH announces recipients of Perinatal Mental Health Access 
   Department of Health</div>\n          </div>"
 feed_content_checksum: ecc19f41c22f49c09ebfa00751800f363ed41905
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

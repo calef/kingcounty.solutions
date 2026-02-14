@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-27T21:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -62,6 +63,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA Tennessee Valley Healthcare System</a> and has been edited for style and clarity.  </p>
 feed_content_checksum: 662fd942b8db79d2429baeda4130de35d625fc36
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

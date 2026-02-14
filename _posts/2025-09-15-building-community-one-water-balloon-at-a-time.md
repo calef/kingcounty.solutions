@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-15T21:27:46+00:00'
 event_ids: []
 events_extracted: true
@@ -63,6 +64,7 @@ feed_content: |-
   <p class="tmc-caption"><strong>All images by Rachael Green</strong></p>The post <a href="https://www.solid-ground.org/building-community-one-water-balloon-at-a-time/">Building community, one water balloon at a time </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
 image_checksums:
 - 78452c620499bef2349b2eceb5488e1589ddf2dfa7e8ee134d5f51817b1894ae
+images_extracted: true
 location_titles:
 - King County
 organization_title: Solid Ground

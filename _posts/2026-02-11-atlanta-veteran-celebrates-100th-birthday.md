@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-11T15:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>Navy Veteran’s century-long journey celebrated at Trinka Davis Veterans Village</h2>
 
@@ -36,6 +38,7 @@ feed_content: |-
   <p>Donna Wilson-Fant, social worker at the facility, a part of the <a>Atlanta VA Health Care System</a>, said Durden’s life and legacy reflected the enduring spirit of those who serve. “Mr. Durden’s journey stands as a testament to dedication, resilience and continued contribution well beyond military service,” she said. Wilson-Fant added, “It is an honor to serve not only Mr. Durden, but all the Veterans who call Trinka Davis Veteran Village CLC home. Our staff is committed to ensuring every Veteran is treated with dignity, respect and compassion.”</p>
 feed_content_checksum: 9a452c22c9b9c12c8144890ec84aa2a778c6f091
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

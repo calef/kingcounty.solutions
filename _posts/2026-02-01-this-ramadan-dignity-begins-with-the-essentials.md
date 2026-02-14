@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-01T21:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -26,6 +27,7 @@ feed_content: "<p>For thousands of families across King County, many of them ref
   \           \n          \n        \n          \n        \n\n        \n      \n        </figure>"
 feed_content_checksum: 0e5695859ae9d9ed88f4ef6f82dbcf594b692dd4
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Essentials First

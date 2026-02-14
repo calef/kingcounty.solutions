@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-26T19:05:28+00:00'
 event_ids: []
 events_extracted: true
@@ -92,6 +93,7 @@ feed_content: |-
   <p>Please email us at <a>HTFPortfolioMgmt@commerce.wa.gov</a>.</p>
 feed_content_checksum: 7678fc68172ea3e47189e66996cf14e77d164119
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

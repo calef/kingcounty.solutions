@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T12:00:00-08:00'
 feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </p>
   <div> <span> Event Series: </span> <a> <span> LNY Celebration </span> </a> </div>
@@ -22,6 +23,7 @@ feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </
   <span>United States</span> </span> <a>+ Google Map</a> </address> </li> </ul> </div>
   </div> </aside> </div>"
 feed_content_checksum: b3b08d7b153e767140c7b845c01f7daa47702170
+image_checksums: []
 location: Remond Senior & Community Center, 8703 160th Ave NE, Redmond, WA, 98052,
   United States
 location_titles:

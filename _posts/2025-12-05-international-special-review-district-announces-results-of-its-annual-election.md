@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-05T15:41:50+00:00'
+event_ids: []
 feed_content: " The annual election for the International Special Review District
   (ISRD) Board was held by mail, with ballots tabulated on the evening of Tuesday,
   December 2. Seattle Department of Neighborhoods received a total of 89 ballots.
   Three positions were up ..."
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-03T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Boston Job
   Fair, April 2, 2026</h1> <div> <div><span>April 2</span></div> </div> <div> <div>
@@ -9,6 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Boston J
   </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 538772b159bbdca7f0219c764254fc9e722d92db
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

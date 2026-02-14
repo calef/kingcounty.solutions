@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-29T15:23:17+00:00'
 event_ids: []
 events_extracted: true
@@ -15,6 +16,7 @@ feed_content: |-
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/10/peggy-makes-time-for-self-care-at-miriam-housing-center/">Hearing, health and hope</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Mercy Housing
 published: false

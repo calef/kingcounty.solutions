@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-15T20:17:36+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Teen Health Law is a project by the National Center for Youth Law 
   providers about legal impacts. For inquiries, contact NCYL at health@youthlaw.org.
 feed_content_checksum: b8b99e65ae72c8e33494b0bae254776530d21afa
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

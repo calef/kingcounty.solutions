@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-16T22:48:39+00:00'
+event_ids: []
 feed_content: "https://www.youtube.com/embed/cWD-WAX7zyo?feature=oembed\n\nTo help
   Tukwila residents get to know the candidates for the Council positions in the upcoming
   election, the City of Tukwila offers this Video Voters’ Guide as a resource for
@@ -14,6 +16,7 @@ feed_content: "https://www.youtube.com/embed/cWD-WAX7zyo?feature=oembed\n\nTo he
   the November 4th Election](https://www.tukwilawa.gov/view-the-2025-tukwila-video-voters-guide-for-the-november-4th-election/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Tukwila
 published: false

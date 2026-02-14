@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-20T12:00:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1>Monthly
   Ukulele Jam</h1> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div>
@@ -101,6 +102,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   <li><a>{title}</a></li> <li><a>{title}</a></li> </ul> </div> </div> </div>"
 feed_content_checksum: a698591642fee1e688340fb85573feb4322cb47b
 image_checksums: []
+images_extracted: true
 location: Greenwood Senior Center, 525 N. 85th St., Seattle, WA, 98103, United States
 location_titles:
 - King County

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-19T18:00:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
   </span> <a> <span> Civil Service Commission </span> </a> </div> <h1>Civil Service
@@ -33,6 +34,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   to events</a> </p> </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: db2f1385f5e148e3b518f0af64c8b845b8b6db16
 image_checksums: []
+images_extracted: true
 location: 6300 Southcenter Boulevard, 6300 Southcenter Blvd, Tukwila, WA, 98188, United
   States
 location_titles:

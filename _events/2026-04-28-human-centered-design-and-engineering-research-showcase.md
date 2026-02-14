@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-28T18:00:00-07:00'
 feed_content: "<div> <section> <section> <header> <h1> <span>HCDE Research Showcase</span>
   </h1> </header><div> <article> <div> <div> <h2>2026 HCDE Research Showcase</h2>
@@ -24,6 +25,7 @@ feed_content: "<div> <section> <section> <header> <h1> <span>HCDE Research Showc
   </div> <section> <div> <div> <h2>Connect with HCDE</h2> <div>  </div> <p><a>Join
   our Mailing List</a></p> </div> </div> </section> </aside> </div>"
 feed_content_checksum: c9d379f5f7118337317aefb3c6b25880bee1597b
+image_checksums: []
 location: University of Washington Club (Faculty Center) (FAC)
 location_titles:
 - King County

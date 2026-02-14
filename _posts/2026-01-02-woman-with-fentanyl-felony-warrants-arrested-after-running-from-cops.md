@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-02T23:28:05+00:00'
+event_ids: []
 feed_content: Seattle police officers arrested a 25-year-old woman with felony warrants
   in possession of Fentanyl after running from cops in Belltown yesterday afternoon.
   On Jan. 1 just before 1:00 p.m., an SPD officer saw a Mercedes with no license plates
   near Repu...
 feed_content_checksum: 58b96885b726839695b71d5e157819fc3295f7c8
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

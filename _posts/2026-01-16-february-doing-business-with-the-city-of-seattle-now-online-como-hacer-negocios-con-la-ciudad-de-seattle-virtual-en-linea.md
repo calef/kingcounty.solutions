@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-16T22:07:30+00:00'
+event_ids: []
 feed_content: WHEN: Friday, February 6, 2025, 09:00AM – 11:00AM (PST) TALLER EN ESPAÑOL: Viernes
   06 de Febrero de 2026 02:00PM – 03:00PM (PST) Is your firm interested in doing business
   with the City of Seattle? Do you want to learn more about how City purchasi...
 feed_content_checksum: 07e6e2d65fcd565f56462a8a69868a15c9755c06
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

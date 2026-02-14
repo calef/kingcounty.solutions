@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-25T19:28:26+00:00'
 event_ids: []
 events_extracted: true
@@ -71,6 +72,7 @@ feed_content: |-
 
   <p>Learn more about Lincoln Place II and other impactful properties on the <a href="https://vhausa.org/">Vancouver Housing Authority website</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

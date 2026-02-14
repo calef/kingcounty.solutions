@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-02-13T19:43:58+00:00'
+event_ids: []
 feed_content: Seattle Parks and Recreation (SPR) is happy to announce the Hiawatha
   Community Center is welcoming back the community on Saturday, February 21, 2026.
   Please join us for the official ribbon cutting at 10 a.m. in West Seattle’s Admiral
   District, 2700 Cal...
 feed_content_checksum: 71318ceb77fc4ccc49edba1265194d22ba800b17
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

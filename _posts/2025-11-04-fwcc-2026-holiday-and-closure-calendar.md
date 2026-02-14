@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-04T14:30:24+00:00'
+event_ids: []
 feed_content: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t<div>\n\t\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<table>\n
   \ <colgroup>\n    <col>\n    <col>\n  </colgroup>\n  <thead>\n    <tr>\n      <th>Dates</th>\n
   \     <th>Operating Hours</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>January
@@ -31,6 +33,7 @@ feed_content: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\
   Way Community Center</a>.</p>"
 feed_content_checksum: 329bb4afeceb574d2994f57c5fb903a4fe5d6177
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Federal Way Community Center

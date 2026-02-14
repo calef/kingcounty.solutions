@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-03T19:09:39-08:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Thank You for Making Celebrate 2025 a Huge Success!Celebrate 2025
   and deeply meaningful.It was a joy to celebrate the powerful stories from women
   in our program of how God is healing, transforming, and creating new life -
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lighthouse NW

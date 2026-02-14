@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-21T19:53:09+00:00'
 event_ids:
 - _events/2026-02-25-12th-annual-northwest-conference-on-childhood-grief.md
@@ -10,6 +11,7 @@ feed_content: The Safe Crossings Foundation will host its 12th Annual Northwest 
   available.
 feed_content_checksum: 866bfbd97c22a11ed67942cf64913fcd36e26455
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

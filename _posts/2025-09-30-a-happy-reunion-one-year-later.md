@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-30T15:50:23+00:00'
+event_ids: []
 feed_content: |-
   One year ago, Engine 338 and Aid 331 responded to an unforgettable call along Highway 167. A mother en route to the hospital found herself welcoming her baby boy sooner than expected. Our crews were happy to assist and welcome him safely into the world, where King County Medics then transported baby and mom to the hospital.
 
@@ -9,6 +11,7 @@ feed_content: |-
 
   The post [A Happy Reunion One Year Later!](https://www.vrfa.org/2025/09/a-happy-reunion-one-year-later/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Valley Regional Fire Authority
 published: false

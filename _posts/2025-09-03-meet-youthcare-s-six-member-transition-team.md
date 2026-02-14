@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-03T15:57:01+00:00'
 event_ids: []
 events_extracted: true
@@ -91,6 +92,7 @@ feed_content: |-
   <p>The post <a href="https://youthcare.org/blog/meet-youthcares-six-member-transition-team/">Meet YouthCare’s Six-Member Transition Team</a> appeared first on <a href="https://youthcare.org">YouthCare</a>.</p>
 image_checksums:
 - b050654cd7f222f54cc00bef5c295884fcc368679ad0a1f2b308c115dea608fc
+images_extracted: true
 location_titles:
 - King County
 organization_title: YouthCare

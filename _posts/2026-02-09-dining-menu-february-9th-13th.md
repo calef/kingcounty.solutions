@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-09T19:03:06+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>Monday ~</strong> Open Face Hot Turkey w/Mashed Potatoes, Buttered Green Beans &amp; Fruit</p>
 
@@ -33,6 +35,7 @@ feed_content: |-
   <p>The post <a>Dining Menu February 9th – 13th</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: 923c51201eb9f3d21ad578c15dc4c7e08921e5e8
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 original_source_html: |-

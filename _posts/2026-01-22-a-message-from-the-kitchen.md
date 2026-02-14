@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-22T20:30:48+00:00'
 event_ids: []
 events_extracted: true
@@ -89,6 +90,7 @@ feed_content: |-
   <p>The post <a>A message from the kitchen!</a> appeared first on <a>Westside Neighbors Shelter</a>.</p>
 feed_content_checksum: 92e0fadcf9317bd16b5f0f13f544ea8a36736a86
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Westside Neighbors Shelter

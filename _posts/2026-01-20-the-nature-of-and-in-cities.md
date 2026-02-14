@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-20T22:20:18+00:00'
+event_ids: []
 feed_content: By Todd Burley  Across the planet, cities are stepping up to the plate
   to incorporate nature into their communities, recognizing the value that green spaces
   in cities have for broader biodiversity, climate, and health goals. Through such
   efforts a...
 feed_content_checksum: 1d6f85e5439f77f892e1ad17b440fda3e259bbb0
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

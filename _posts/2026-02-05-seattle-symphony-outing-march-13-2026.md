@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-05T19:19:26+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/Symphony-MAR-26-6-791x1024.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>We’re headed back to the Seattle Symphony! This performance will highlight two great Hungarian composers, Liszt and Kodály, beginning with Liszt’s symphonic poem, <em>Les Préludes</em> and Liszt’s high-spirited First Piano Concerto. Then Kodály’s Suite from the opera <em>Háry János</em> draws on Hungarian folk melodies to depict the tall tales of an imaginative veteran. RSVPs required, $6 for members, $8 for nonmembers RSVPs Required</p>
 feed_content_checksum: e407fab6e28c79c4fd31aba91b602a0a7a1ab35d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

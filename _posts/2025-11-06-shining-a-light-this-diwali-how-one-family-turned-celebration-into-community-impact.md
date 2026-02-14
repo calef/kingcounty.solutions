@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-06T02:37:26+00:00'
 event_ids: []
 events_extracted: true
@@ -32,6 +33,7 @@ feed_content: "<p class=\"\">When Mohit and Ojaswani Suley first began hosting t
   data-sqsp-button target=\"_blank\"\n  >\n    Make a gift to join the Suleys in supporting
   Mary's Place!\n  </a>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

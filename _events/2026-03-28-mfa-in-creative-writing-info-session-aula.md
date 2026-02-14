@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-28T11:00:00-07:00'
 feed_content: '<div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li><a>Request
   Info</a></li> <li><a>Visit</a></li> <li><a>Apply</a></li> <li><a>Employment</a></li>
@@ -88,6 +89,7 @@ feed_content: '<div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <l
   </div> </div></div> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.antioch.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1"}}
   </script>'
 feed_content_checksum: 5c42c898c889ac3c260dfb55714f60aed86e5eb8
+image_checksums: []
 location: Virtual Events @ Antioch University
 location_titles:
 - King County

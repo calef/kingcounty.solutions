@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-24T22:42:58+00:00'
+event_ids: []
 feed_content: "The City of Tukwila is assisted in its operations by the volunteers
   who serve on our Boards, Commissions and Committees in several areas. These advisory
   bodies provide guidance to decision-makers and represent the diverse viewpoints
@@ -36,6 +38,7 @@ feed_content: "The City of Tukwila is assisted in its operations by the voluntee
   post [Currently Accepting Applications for Boards, Commissions and Committees](https://www.tukwilawa.gov/currently-accepting-applications-for-boards-commissions-and-committees-2/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Tukwila
 published: false

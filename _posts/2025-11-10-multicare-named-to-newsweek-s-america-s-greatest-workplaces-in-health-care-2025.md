@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-10T23:54:18+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: |-
   <p>Visit <a href="https://rankings.newsweek.com/americas-greatest-workplaces-health-care-2025" data-wpel-link="external" rel="external noopener noreferrer" class="wpel-icon-right">America’s Greatest Workplaces in Health Care 2025<span class="wpel-icon wpel-image wpel-icon-6"></span></a> for a complete list of rankings.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/11/multicare-named-to-newsweeks-americas-greatest-workplaces-in-health-care-2025/" data-wpel-link="internal">MultiCare named to Newsweek’s ‘America’s Greatest Workplaces in Health Care’ 2025</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: MultiCare

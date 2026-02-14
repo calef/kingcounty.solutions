@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-16T15:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>Ultrasound technology offers new hope</h2>
 
@@ -68,6 +70,7 @@ feed_content: |-
   <p>It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to <a>get started</a>.</p>
 feed_content_checksum: 06ebc07dc94f75603e7bef2b774bc67190e43326
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

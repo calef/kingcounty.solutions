@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-01T21:29:58+00:00'
 event_ids: []
 events_extracted: true
@@ -70,6 +71,7 @@ feed_content: |-
 
   <p>RSVP today at 425.690.3150, option 2, or email <a href="mailto:pgunther@psbenefits.net" data-type="mailto" data-id="mailto:pgunther@psbenefits.net">pgunther@psbenefits.net</a> to reserve your spot and make the most of this enrollment season!</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospital District No. 1 (Valley Medical Center)

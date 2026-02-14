@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-08T23:38:09+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: By now, you have probably heard about the heavy winds and rain in 
   major “atmospheri...
 feed_content_checksum: 5f1711c8a76a6e3b7a99459ba4fc0d1afef412bb
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-09T16:42:08+00:00'
+event_ids: []
 feed_content: |-
   <figure><a><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/02/06123636/20230713_Buckley-Lab-Butterfly-Study_0564-1200x800.jpg"></a><figcaption>Repeating an experiment decades later allows researchers to learn about how environmental changes affect organisms. Shown here, UW Professor Lauren Buckley (right) and UW undergraduates Max Oberholtzer (middle) and Jennifer Ortiz (left) are repeating a 25 year-old experiment studying a common Washington butterfly at the Picardo Farm P-Patch Community Garden in Seattle. <span>Photo: Mark Stone/University of Washington</span></figcaption></figure>
   <p>Researchers are trying to understand how changes in the environment lead to changes in organisms. For example, how do warmer spring and summer days affect how well the caterpillar of a common Washington butterfly grows? One way to answer this type of question is by repeating an old experiment years later to see how results have changed over time.</p>
@@ -18,6 +20,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 7b91b2497f80f893f1bbbbe647c0882ab0e502c5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

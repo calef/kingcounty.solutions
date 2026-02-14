@@ -1,6 +1,8 @@
 ---
+classified: true
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Burien, WA
 location_titles:
 - Burien

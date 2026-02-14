@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-16T22:51:25+00:00'
 event_ids: []
 events_extracted: true
@@ -37,6 +38,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
 feed_content_checksum: cbf926679349d348780bc683522b60fd452455e0
 image_checksums:
 - eac2fd0b3f7e2c02947091ccab8876062e5c2f6eab5afabb5fc36bc6f62a44dc
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lutheran Community Services Northwest

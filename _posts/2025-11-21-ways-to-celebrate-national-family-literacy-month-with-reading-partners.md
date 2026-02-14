@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-21T21:30:18+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: "<p>The post <a>Ways to celebrate National Family Literacy Month w
   Reading Partners</a> appeared first on <a>Reading Partners</a>.</p>"
 feed_content_checksum: ca30dbbc90f173adb411b6a151b25fb852bccf34
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Reading Partners

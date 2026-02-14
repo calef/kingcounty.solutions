@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-30T03:48:32+00:00'
 event_ids: []
 events_extracted: true
@@ -383,6 +384,7 @@ feed_content: "## Additional Food Resources\n\n![Hopelink Food Resources 10.30.2
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hopelink

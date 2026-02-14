@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-23T14:58:43+00:00'
 event_ids: []
 events_extracted: true
@@ -1628,6 +1629,7 @@ image_checksums:
 - ff71971427c5f52c74ba86cca0c4a63c431779afddacae694be5d87f55ad797f
 - 29c06a0a5161cb2fdb69a4bce2dc3448a09540b746ecb90a08da443612519bcf
 - 3abc1afa76a5eb1a5dace9dbfe92bfa0b6b6136150d36aa7b015e921933739fb
+images_extracted: true
 location_titles:
 - King County
 organization_title: Rainier Valley Food Bank

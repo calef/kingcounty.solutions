@@ -1,8 +1,11 @@
 ---
+classified: true
 date: '2025-12-23T21:47:56+00:00'
+event_ids: []
 feed_content: <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2025/12/Winter-2026-Program-Calendar-1024x791.png"></figure>
 feed_content_checksum: cb2913eefc6afef3dde3188092cf8e8de568ae7c
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

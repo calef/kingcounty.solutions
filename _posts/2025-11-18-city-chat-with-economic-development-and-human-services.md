@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-18T11:35:00+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_110459
   />Join us for free light refreshments at our "City Chat" on Thursday, November 20
   at the Burien Library and City Hall multipurpose room!
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Burien
 published: false

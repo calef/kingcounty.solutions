@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-01T22:22:37+00:00'
+event_ids: []
 feed_content: We maintain a database of more than 1100 unreinforced masonry (URM)
   buildings that are vulnerable to collapse in an earthquake and pose a significant
   threat to public safety if left un-retrofitted. If you own a retrofitted building,
   or are a design pro...
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-21T20:14:04+00:00'
+event_ids: []
 feed_content: |-
   <p>How did Seattle become a literary city? The roots to that accomplishment began &#8220;in the muck and mire of the frontier city,&#8221; says Cascade PBS host of Mossback&#8217;s Northwest, Knute Berger (aka Mossback).</p>
   <p>Mossback recently aired a <a href="https://www.youtube.com/watch?v=ZnNva0_VnZE&amp;list=PL18y1vgsGPLb3VLSg4y7E-PKU_A1uMu23&amp;index=3&amp;pp=iAQB">fascinating episode</a> on the city&#8217;s literary roots, and its connection to Skid Road. It was filmed partly in the Central Library&#8217;s Seattle Room, a treasure chest of early Seattle artifacts and historical documents.</p>
@@ -12,6 +14,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>&nbsp;</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Homework Help
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-25T16:00:01+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: The holidays are coming! Whether you are going to holiday events, 
   or celebrating with friends and family, it’s a great time to explore your transit
   options. We have some...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

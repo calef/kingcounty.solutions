@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-12T00:01:32+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Inside Northwest Harvest’s Fruitvale Community Market in Yakima</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: cce76e0d545becdaf37a3c3ce40b34383e4322e4
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Northwest Harvest
 published: false

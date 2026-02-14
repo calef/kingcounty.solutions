@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-26T23:27:15+00:00'
 event_ids: []
 events_extracted: true
@@ -17,6 +18,7 @@ feed_content: |-
   <p>Dr. Teng also addresses common concerns about bowel prep, compares colonoscopies with at-home stool tests, and shares symptoms that may require screening before age 45. The conversation highlights the role of Valley’s GI Clinic and Endoscopy Center, including upper endoscopies, other digestive conditions, and Valley’s direct-access colonoscopy program designed to make preventive care as simple and seamless as possible.</p>
 feed_content_checksum: 882f8f69574a96e13f919c71aa65cf34e8d33837
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospital District No. 1 (Valley Medical Center)

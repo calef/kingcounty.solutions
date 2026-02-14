@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-04T23:01:58+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: |-
   <p data-start="2127" data-end="2732">What Dr. McGregor finds most fulfilling is accompanying people through these transitions—supporting patients and families at a time when life feels uncertain, yet also full of possibility for growth. In 2025, Orion merged with Cancer Lifeline, an organization Dr. McGregor had admired for years as a close neighbor in the Dorothy O’Brien Center. Joining forces has been a gift, combining their strengths to expand access and deepen the impact of integrative care across the community. Together, they are ensuring that cancer care addresses not only the body, but also the mind, spirit, and whole person.</p>
   <p> </p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

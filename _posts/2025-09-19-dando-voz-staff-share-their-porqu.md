@@ -1,10 +1,12 @@
 ---
+classified: true
 date: '2025-09-19T14:26:03+00:00'
 event_ids: []
 events_extracted: true
 feed_content: <p>The post <a href="https://www.kcsarc.org/en/dando-voz-staff-share-their-porque/">Dando
   Voz staff share their &#8220;porqué&#8221;</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Sexual Assault Resource Center

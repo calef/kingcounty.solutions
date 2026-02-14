@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-06T19:42:36+00:00'
+event_ids: []
 feed_content: |-
   Dear Yarrow Point Residents,
 
@@ -34,6 +36,7 @@ feed_content: |-
 
   &nbsp;
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

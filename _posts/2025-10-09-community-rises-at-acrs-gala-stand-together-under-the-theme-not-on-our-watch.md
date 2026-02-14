@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-09T17:24:19+00:00'
 event_ids: []
 events_extracted: true
@@ -29,6 +30,7 @@ feed_content: |-
   <div id="attachment_13146" style="width: 310px" class="wp-caption alignleft"><a href="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25.jpg"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13146" class="size-medium wp-image-13146" src="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-300x200.jpg" alt="" width="300" height="200" srcset="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-300x200.jpg 300w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-1024x683.jpg 1024w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-768x512.jpg 768w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25.jpg 1500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><p id="caption-attachment-13146" class="wp-caption-text">Photo credit: Charissa Soriano</p></div>
   <p>The post <a href="https://acrs.org/community-rises-at-2025-acrs-gala-as-ceo-kendee-yamaguchi-announces-relaunch-of-legal-clinic/">Community Rises at ACRS Gala, Stand Together Under the Theme ‘Not On Our Watch’</a> appeared first on <a href="https://acrs.org">ACRS</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Asian Counseling and Referral Service

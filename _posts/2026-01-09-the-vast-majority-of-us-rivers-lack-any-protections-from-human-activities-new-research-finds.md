@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-09T17:57:31+00:00'
+event_ids: []
 feed_content: |-
   <div>
   <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/01/09094135/20220814_Future-Rivers-Skagit_1242-750x500.jpg">
@@ -32,6 +34,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 1e4e01da36a4da0005644b75ca48f9d1b3247fdf
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

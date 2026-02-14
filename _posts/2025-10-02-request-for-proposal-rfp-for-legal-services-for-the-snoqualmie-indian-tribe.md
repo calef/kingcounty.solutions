@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-02T21:50:56+00:00'
+event_ids: []
 feed_content: "The Tribe seeks to retain the services of an experienced law firm to
   provide legal services for a three-year term.\n\nThe successful respondent will,
   in accordance with the highest legal, ethical and professional standards, at the
@@ -44,6 +46,7 @@ feed_content: "The Tribe seeks to retain the services of an experienced law firm
   at the above address.\n\n[Download the full RFP with additional information (PDF
   Format)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Snoqualmie-Legal-Services-RFP.pdf)"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-04T19:45:00+00:00'
 event_ids: []
 events_extracted: true
@@ -53,6 +54,7 @@ feed_content: |-
 
   <p>Visit the Commerce website to learn more about <a href="https://www.commerce.wa.gov/about-us/boards-and-commissions/child-care-collaborative-task-force/child-care-partnership-grants/">Child Care Partnership Grants</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - South King County
 organization_title: Department of Commerce

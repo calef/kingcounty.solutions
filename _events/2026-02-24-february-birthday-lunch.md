@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-24T12:30:00-08:00'
 feed_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <div> <div>
   <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center of
@@ -43,6 +44,7 @@ feed_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <div>
   <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1"}}
   </script>'
 feed_content_checksum: 99192e1b3ecc3a4ee5c9c675abe1364b378471df
+image_checksums: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
 location_titles:

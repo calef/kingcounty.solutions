@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-11-23T17:00:00+00:00'
+event_ids: []
 feed_content: Support small businesses this Small Business Saturday Small businesses
   are what makes Seattle’s economy great. They showcase the creative energy, diverse
   culture, and entrepreneurial drive that makes our city one of a kind. Small Business
   Saturday, and...
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

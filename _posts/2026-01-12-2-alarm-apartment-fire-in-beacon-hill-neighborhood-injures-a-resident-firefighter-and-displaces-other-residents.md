@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-12T00:21:29+00:00'
+event_ids: []
 feed_content: SEATTLE, Wash. –  At 11:58 a.m. on Jan. 11, 2026, the Seattle Fire Department’s
   Fire Alarm Center received a 911 call reporting a fire in an apartment building
   in the 1700 block of 13th Ave. (in the Capitol Hill neighborhood). At 12:01 p.m.,
   crews arri...
 feed_content_checksum: 3a0ddc6855bb88ff042cb1f753fcbb417cef5a38
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

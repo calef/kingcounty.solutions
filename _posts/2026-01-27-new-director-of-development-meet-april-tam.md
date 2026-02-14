@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-27T20:00:00+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://angelflightwest.org/wp-content/uploads/2026/01/IMG_6041-683x1024.jpg"></figure>
 
@@ -24,6 +26,7 @@ feed_content: |-
   <p>Welcome to the AFW team, April!</p><p>The post <a>New Director of Development: Meet April Tam</a> first appeared on <a>Angel Flight West</a>.</p>
 feed_content_checksum: 0c25e952da5af47e87dcea95bf5d75f47f307877
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Angel Flight West
 original_source_html: '<!doctype html> <html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">

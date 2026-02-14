@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-19T18:00:00+00:00'
+event_ids: []
 feed_content: 'We are pleased to announce that we have been ranked #1 in customer
   satisfaction among midsize utilities in the West for the fourth year in a row. We
   earned the highest satisfaction score among electric utilities in the west serving
@@ -7,6 +9,7 @@ feed_content: 'We are pleased to announce that we have been ranked #1 in custome
   Utility Business Customer Satisfaction […]'
 feed_content_checksum: 58ca14b508ce0ae6ea80469f4f75f883e1b96727
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

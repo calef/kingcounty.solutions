@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T00:09:49+00:00'
 event_ids: []
 events_extracted: true
@@ -24,6 +25,7 @@ feed_content: "<div>\n<div>\n\t<div>\n\t\t<div>\n</div>\n\t\t\t\t\t\t<div>\n\t\t
   post <a>In Loving Memory | Girish Joshi</a> appeared first on <a>Nami-Eastside WA</a>.</p>"
 feed_content_checksum: 824a3dd5e11d89ae9565a572ebef85dfec2b86a3
 image_checksums: []
+images_extracted: true
 location_titles:
 - Eastside
 organization_title: National Alliance on Mental Illness Eastside

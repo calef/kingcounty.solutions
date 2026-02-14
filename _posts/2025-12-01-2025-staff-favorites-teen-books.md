@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-01T18:00:02+00:00'
+event_ids: []
 feed_content: |-
   <p><span data-contrast="auto">Every year, we ask staff members around the library system what their favorite reads published this year were. 2025 is no different, and we have a stellar lineup of fiction and graphic novels. </span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="auto">Graphic novels first: <strong><a href="https://seattle.bibliocommons.com/v2/search?query=Cat%20Companions%20Maruru%20and%20Hachi&amp;searchType=smart">Cat Companions Maruru and Hachi</a></strong> began in 2024, but volumes 3 through 5 were published this year. The series follows two cats – pampered Maruru and tough Hachi – as they make their life on the streets of Tokyo.</span><span data-ccp-props="{}"> </span></p>
@@ -31,6 +33,7 @@ feed_content: |-
   <p><span data-contrast="auto">For a contemporary urban fantasy, look no further than Ibi Zoboi’s latest, <strong><a href="https://seattle.bibliocommons.com/v2/record/S30C4026633">(S)kin</a></strong>, which follows two girls.  Their lives intersect as one follows her mother’s path as a soucouyant, a shape-shifting witch who feeds on others’ life force, and the other as she learns her true heritage when the other girl’s mother comes to her home as the new nanny to her baby siblings.</span><span data-ccp-props="{}"> </span></p>
   <p><em>~Posted by Wally B.</em></p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: The Seattle Public Library
 published: false

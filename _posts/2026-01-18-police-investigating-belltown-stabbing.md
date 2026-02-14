@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-18T15:49:34+00:00'
+event_ids: []
 feed_content: Seattle police are investigating a stabbing that injured a woman in
   the Belltown neighborhood this morning. Just after 7:00 a.m., patrol officers found
   the victim near 2nd Avenue and Bell Street suffering from a stab wound to her torso.
   Police and fire...
 feed_content_checksum: 61bc0cfde169e8f23ace22c6ebc36fcbcc25b932
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,8 +1,10 @@
 ---
+classified: true
 end_date: '2026-02-15T23:59:59-08:00'
 feed_content: Route 28 will have its stop relocated due to ongoing work.
 feed_content_checksum: 1a6a50256b81cd5512146cd00117c5ba7320c321
 generated_from_post: true
+image_checksums: []
 location: 8th Avenue NW & NW 80th Street (southbound)
 location_titles:
 - King County

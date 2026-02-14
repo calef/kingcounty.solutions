@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-09T00:25:38+00:00'
 event_ids: []
 events_extracted: true
@@ -47,6 +48,7 @@ feed_content: |-
   <p>The post <a>Thank you, U Village!</a> appeared first on <a>Compass Housing Alliance</a>.</p>
 feed_content_checksum: d0670c4735a43cd11cbd24aaf93965777eaf87b2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Compass Housing Alliance

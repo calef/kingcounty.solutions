@@ -1,9 +1,11 @@
 ---
+classified: true
 end_date: '2026-02-17T10:00:00-08:00'
 feed_content: A listening session to gather input on the Rapid Capital Housing Acquisition
   program aimed at affordable housing developers and Housing Trust Fund contractors.
 feed_content_checksum: 402ad2e2414c73fcc8a2a19b153a211289f492cf
 generated_from_post: true
+image_checksums: []
 location: Virtual
 location_titles:
 - King County

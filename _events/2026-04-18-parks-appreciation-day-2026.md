@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-18T17:00:00-07:00'
 feed_content: "<section> <div> <p> <a> « All Events</a></p> <h1>Parks Appreciation
   Day 2026</h1> <div> <div> <span>April 18 @ 8:00 am</span> - <span>5:00 pm</span>
@@ -15,6 +16,7 @@ feed_content: "<section> <div> <p> <a> « All Events</a></p> <h1>Parks Appreciat
   Free </span> </li> </ul> </div></div> </div> </div> </section>"
 feed_content_checksum: 888a9d397ee546f3dcbdf83eb7d7f31b10b0279a
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

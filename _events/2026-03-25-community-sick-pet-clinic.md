@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-25T14:00:00-07:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>Community
   Sick Pet Clinic</h1> <div> <div><p> <span> March 25 </span> <span> @ </span> <span>
@@ -19,6 +20,7 @@ feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>
   and Learn (Evento en Español) <span>»</span></a></li> </ul> </div> </div> </section></div></article>"
 feed_content_checksum: 4b10dbf092d20b51a0f551a7c57866c623250258
 image_checksums: []
+images_extracted: true
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 location_titles:
 - King County

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-27T00:26:53+00:00'
 event_ids: []
 events_extracted: true
@@ -35,6 +36,7 @@ feed_content: "<span>Plan to advance city affordable housing goals over next sev
   \ </div>"
 feed_content_checksum: edf63d479c11899ef9f19a5bc7e8d09940ee446e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

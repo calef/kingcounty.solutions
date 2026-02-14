@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-31T01:04:29+00:00'
 event_ids: []
 events_extracted: true
@@ -15,6 +16,7 @@ feed_content: |-
   <p>The post <a>Sunshine Garden Activity Schedule – February</a> appeared first on <a>CISC</a>.</p>
 feed_content_checksum: 4378d5e0b72e3c5d4d78261c172436736036d9f8
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Chinese Information & Service Center

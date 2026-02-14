@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-08T17:00:00-07:00'
 feed_content: <a> Skip to main content </a> <div> <div> <div> <div> <div> <div> <a>University
   of Washington</a> </div> <div> <div> <a>School of Public Health</a> <div> <h2>Search</h2>
@@ -27,6 +28,7 @@ feed_content: <a> Skip to main content </a> <div> <div> <div> <div> <div> <div> 
   left","tooltip_selector":"","tooltip_trigger":"hover"},"user":{"uid":0,"permissionsHash":"b12ac19ee53e2754a119a852f1c6d846a02027cafb6cc9351a72cbf089def287"}}</script>
 feed_content_checksum: af61b8e65276dca8094e686496c17649b612795a
 image_checksums: []
+images_extracted: true
 location: Student Union Building (HUB)
 location_titles:
 - King County

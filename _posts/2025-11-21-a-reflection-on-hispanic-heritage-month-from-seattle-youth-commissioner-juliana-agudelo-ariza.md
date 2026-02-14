@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-21T06:11:37+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: By Juliana Agudelo Ariza, Seattle Youth Commissioner Every year, b
   to honor the accomplishments and cultural traditions of Hispanic/Latino people.
   On September 2...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-05T22:35:12+00:00'
+event_ids: []
 feed_content: Landslide season is here, so the City of Seattle is urging residents
   to take preventive measures to protect themselves and their property from possible
   landslides. Did you know that most landslides occur between the months of November
   and March? The th...
 feed_content_checksum: 1eacce6e3dcf64fbb160d4feee9171932ba23b1d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

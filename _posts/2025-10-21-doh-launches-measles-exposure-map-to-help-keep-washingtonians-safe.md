@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-21T20:40:27+00:00'
 event_ids: []
 events_extracted: true
@@ -59,6 +60,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   of information. Get updates by following us on&nbsp;<a href=\"https://doh.wa.gov/about-us/contact-us/social-media\">social
   media</a>.</p>\n\n<p class=\"text-align-center\">###</p></div>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

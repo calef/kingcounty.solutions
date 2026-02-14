@@ -1,9 +1,11 @@
 ---
+classified: true
 feed_content: Anticipated major changes to bus service aligning with the expansion
   of light rail.
 feed_content_checksum: 6a42d53eba2eb7cd80448c2deab6c16928d09aca
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

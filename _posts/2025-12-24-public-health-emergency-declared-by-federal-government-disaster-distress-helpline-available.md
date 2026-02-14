@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-24T20:20:36+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: The U.S. Department of Health and Human Services (HHS) declared a 
   for Medicare &amp; Medicaid Services (CMS) health care […]
 feed_content_checksum: 90133309c0845f657b139eb21005adf2e5180f31
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

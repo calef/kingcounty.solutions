@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-06T00:01:54+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>KCRHA is currently seeking community members to serve in specific seats on the Continuum of Care (CoC) Board, to align with the new requirements in [&#8230;]</p>
   <p>The post <a href="https://kcrha.org/news-become-a-continuum-of-care-board-member/">Become a Continuum of Care Board Member</a> appeared first on <a href="https://kcrha.org">KCRHA</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

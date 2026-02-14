@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-23T21:12:34+00:00'
 event_ids: []
 events_extracted: true
@@ -27,6 +28,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: b1acb62359f6d2b93a0ac0b83db1b265ef2fc1bc
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospital District No. 1 (Valley Medical Center)

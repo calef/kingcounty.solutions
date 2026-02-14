@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-01T18:45:38+00:00'
 event_ids: []
 events_extracted: true
@@ -55,6 +56,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"18973\" 
   Care Access</a> appeared first on <a href=\"https://snoqualmievalleyhealth.org\">Snoqualmie
   Valley Hospital</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

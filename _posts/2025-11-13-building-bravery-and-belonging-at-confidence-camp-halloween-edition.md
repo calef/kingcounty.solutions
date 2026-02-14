@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-13T19:44:07+00:00'
 event_ids: []
 events_extracted: true
@@ -13,6 +14,7 @@ feed_content: |-
   <p><strong>Confidence Camp: Halloween Edition</strong> reminded families that every child can shine on Halloween when they have the tools to communicate, self-regulate, and set boundaries. Most importantly, it created space for kids to celebrate exactly who they are.</p><p>The post <a href="https://encompassnw.org/building-bravery-and-belonging-at-confidence-camp-halloween-edition/">Building Bravery and Belonging at Confidence Camp: Halloween Edition</a> first appeared on <a href="https://encompassnw.org">Encompass</a>.</p>
 image_checksums:
 - 3b78e36104794a6048f1fc06ff6d3b3870bc12c2d25c247ee9145778af3ab8bb
+images_extracted: true
 location_titles:
 - King County
 organization_title: Encompass

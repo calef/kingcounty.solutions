@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-03T02:12:58+00:00'
 event_ids: []
 events_extracted: true
@@ -57,6 +58,7 @@ feed_content: "<p>Once a week, you’ll find Amirah Casey at Mary’s Place, ser
   \  \n    <a>\n      Become a Mary's Place Volunteer!\n    </a>"
 feed_content_checksum: 9c546dcd23960ae6a12fc0346ee951884a1b441b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

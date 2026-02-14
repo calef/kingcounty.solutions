@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-10T18:32:59+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Odessa Brown Children's Clinic offers behavioral health groups for
   and organizational skills.
 feed_content_checksum: 1de8a70593c59e9226d59a59ab67541ca6948714
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-02-03T21:27:59+00:00'
+event_ids: []
 feed_content: |-
   <p>United Way of King County staff possess many talents beyond our prowess for ensuring that all residents in our area have enough to eat, a safe place to call home, access to resources, and a quality education. Take, for example, Gary Rubin, United Way Senior Director of Philanthropic Engagement. Gary connects United Way to our local community. He tells our story and the stories of those we…</p>
   <p><a>Source</a></p>
 feed_content_checksum: df34ab36d5c6714de9353416faf0760c3048d550
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: United Way of King County

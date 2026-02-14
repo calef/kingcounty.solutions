@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T20:00:00-08:00'
 feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Craft
   Night</h1> <div> <div> <span>February 25 @ 6:00 PM</span> - <span>8:00 PM</span>
@@ -15,6 +16,7 @@ feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> 
   </div> <p>Comments are closed.</p> </div> </section> </div> </div> </div>"
 feed_content_checksum: 8f841be9d49df1587941be5e562adb61611eb2bb
 image_checksums: []
+images_extracted: true
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 location_titles:

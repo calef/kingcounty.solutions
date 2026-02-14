@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-16T14:30:00+00:00'
 event_ids:
 - _events/2026-02-11-dav-patriot-boot-camp.md
@@ -69,6 +70,7 @@ feed_content: |-
   <p>Learn more about DAV Patriot Boot Camp at patriotbootcamp.org.</p>
 feed_content_checksum: 28f692c71a16e5ebffd07678d75ce2ece4c5aafd
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

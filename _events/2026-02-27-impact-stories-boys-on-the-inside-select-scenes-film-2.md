@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-27T20:30:00-08:00'
 feed_content: '<div> <h1>Impact Stories: Boys on the Inside (select scenes) | Film
   2</h1> <div><div> <div> <div><div><span><span>C</span></span></div></div> <span>By</span><a>Communication
@@ -60,6 +61,7 @@ feed_content: '<div> <h1>Impact Stories: Boys on the Inside (select scenes) | Fi
   </div> </div></div> <div><div><div>Report this event</div></div></div>'
 feed_content_checksum: 36f53bb15aec9e797125971dcec132877d55ca8d
 image_checksums: []
+images_extracted: true
 location: Mary Gates Hall (MGH)
 location_titles:
 - King County

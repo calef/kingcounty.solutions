@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-19T14:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -270,6 +271,7 @@ feed_content: |-
   <p><a>Norfolk, VA: Hampton Roads Military Community Education Connect (Southside) – Thursdays</a></p>
 feed_content_checksum: 439000d8989df963880bdaf5e883e918887d1c92
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-21T21:26:01+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Seattle police detectives have arrested a 17-year-old boy for atta
   the side of the Ballard Bridge earlier this week. The victim was driving on Nov.
   17 when he saw fou...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-19T18:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: On November 19, Seattle Public Utilities (SPU) and WM announced th
   that are designed to prevent waste, promote recycling, composting and advance a
   circular economy in Sea...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

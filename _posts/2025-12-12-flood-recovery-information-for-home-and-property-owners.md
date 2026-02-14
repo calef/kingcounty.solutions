@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-12T00:48:49+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Property damage caused by flooding can feel overwhelming and stres
   County, Washington […]
 feed_content_checksum: dcd4ca6437a16627320fd8c146b38271fc394998
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-20T19:20:57+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: 'Blog stats: 1,200 words &#124; 6-minute read Summary: Addressing 
   packages, food, and grocery items more than doubled between 2019 and 2021. Growing
   delivery volumes ca...'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

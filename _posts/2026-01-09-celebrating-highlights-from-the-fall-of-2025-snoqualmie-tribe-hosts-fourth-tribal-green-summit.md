@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-09T18:52:00+00:00'
+event_ids: []
 feed_content: |-
   <p><a><img src="https://snoqualmietribe.us/wp-content/uploads/2026/01/Image-of-Chairman-1-700x630.jpg"></a><a><img src="https://snoqualmietribe.us/wp-content/uploads/2026/01/Image-of-Group-1-700x467.jpg"></a></p>
   <p>The Snoqualmie Tribe’s Environmental and Natural Resource (ENR) Department, in partnership with the <a>Tribal Solid Waste Advisory Network (TSWAN)</a>, hosted the Tribal Green Summit at Snoqualmie Casino and Hotel from September 16<sup>th</sup> to the 18<sup>th</sup>. This marked the fourth Summit and the first since 2016.</p>
@@ -9,6 +11,7 @@ feed_content: |-
   <p>[photos: Chairman Robert de los Angeles and Snoqualmie Tribal Members performing traditional songs]</p>
 feed_content_checksum: 1ce53771f36a0153fba830c67ac1aa1ee182e615
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

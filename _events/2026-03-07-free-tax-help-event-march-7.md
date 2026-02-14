@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-07T16:00:00-08:00'
 feed_content: "<div> <div> <div> <h4>United Way of King County helps our neighbors
   create financial stability through providing free tax services every year.</h4>
@@ -17,6 +18,7 @@ feed_content: "<div> <div> <div> <h4>United Way of King County helps our neighbo
   &amp; Hellos: Creating Third Spaces: March 10</h4></a> <p>Mar 10</p> </div> </div>
   </div> <p> <a>&lt;&lt; Back to Events</a> </p> </div> </div> </div>"
 feed_content_checksum: 07d9657082cb77bd38d3bbf5e0f15bc354b5abc5
+image_checksums: []
 location: West Seattle Food Bank, 6516 35th Ave SW, Seattle, 98126, United States
 location_titles:
 - King County

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-23T19:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>The silent superheroes of quality improvement</h2>
 
@@ -88,6 +90,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: e860990321ca63ba41f9051d2c1858c86ab2ceaf
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: |-

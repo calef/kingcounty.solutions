@@ -1,9 +1,11 @@
 ---
+classified: true
 end_date: '2026-03-25T20:00:00-07:00'
 feed_content: <div> {"window_id":"wc2094715","js_file":"/files/ver20251219094801/js/worker.js","key":"2WSB-TGY2T_K9KH-5PTF_12fa6b02c0e2","page_mode":"home","o":"2WSB-TGY2T","account":"WGHV-4MQL8","css_file":"/files/ver20251010102854/css/worker.css","login_page":"8ZK9-CS1HF","requested_app":"253KJ-6K95","original_url":"/uwbg?key=2WSB-TGY2T_K9KH-5PTF_12fa6b02c0e2","ui":"dynamic"}
   </div> <div> <div>Loading </div> </div>
 feed_content_checksum: 235b2c7c75ddc5a08851ca3584aa78306a1710aa
 image_checksums: []
+images_extracted: true
 location: Center for Urban Horticulture Complex (CUH)
 location_titles:
 - King County

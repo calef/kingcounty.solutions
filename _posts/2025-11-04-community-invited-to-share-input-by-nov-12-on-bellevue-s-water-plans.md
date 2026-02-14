@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-04T21:01:37+00:00'
+event_ids: []
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Community
   invited to share input by Nov. 12 on Bellevue’s water plans </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/arich\"
@@ -34,6 +36,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   field--label-hidden field__item\"><time datetime=\"2025-11-04T12:00:00Z\" class=\"datetime\">November
   4 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Bellevue
 published: false

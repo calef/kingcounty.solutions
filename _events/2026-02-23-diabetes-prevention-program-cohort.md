@@ -1,7 +1,9 @@
 ---
+classified: true
 feed_content: The next cohort of the Diabetes Prevention Program begins.
 feed_content_checksum: c8100a029f0ba481cd807b47e467405e0a4f1f16
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

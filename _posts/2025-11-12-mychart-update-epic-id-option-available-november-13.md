@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-12T22:45:19+00:00'
 event_ids: []
 events_extracted: true
@@ -26,6 +27,7 @@ feed_content: |-
 
   <p><strong>What will look different?</strong><br>You may notice a slightly updated login screen. While it looks a little different, it functions the same. The photo at the top of this page shows what the login screen will look like beginning November 13.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospital District No. 1 (Valley Medical Center)

@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-02-13T17:00:59+00:00'
+event_ids: []
 feed_content: 'Today, we have a special Valentine treat: the story of how two of our
   riders, Pat and Don, shared adventure and love via Metro.  A Seattle couple turned
   their golden...'
 feed_content_checksum: 655ba353d9f3509a4bad424c58887dc5974f0039
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

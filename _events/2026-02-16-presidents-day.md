@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T00:00:00-08:00'
 feed_content: "<div> <div> <header> <div> <a>Home</a> <a>Home</a> </div> </header>
   <div> <div> <a><h2>Academic Calendar</h2></a> <div> <h1>2025-2026 Academic Calendar</h1>
@@ -213,6 +214,7 @@ feed_content: "<div> <div> <header> <div> <a>Home</a> <a>Home</a> </div> </heade
   <h4>Connect with us:</h4> </div> </div> </div>"
 feed_content_checksum: 2a43b690a98ee521e31078d433e1388ca29ae099
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-13T14:54:50+00:00'
 event_ids: []
 events_extracted: true
@@ -32,6 +33,7 @@ feed_content: |-
   <p><strong>A:</strong> I am a proud member of Sigma Theta Tau International Honor Society of Nursing, recognizing excellence in nursing scholarship, leadership, and professional practice.</p>
 feed_content_checksum: 711596a03ac8189a320098cdd106f44ef573857d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: THIRA Health

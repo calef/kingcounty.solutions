@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-08T21:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>For many Veterans, the transition to civilian life can be filled with challenges, especially when traditional therapies fall short. Tara Pipia, a Veteran of the Army National Guard, found herself in such a predicament.</p>
 
@@ -56,6 +58,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA Palo Alto Health care System site </a>and has been edited for style and clarity.  </p>
 feed_content_checksum: c35d6c1b7903cadbfef7d20c1f8943548bbae7bc
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

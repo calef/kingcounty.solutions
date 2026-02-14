@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T19:30:00-08:00'
 feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Senior
   Tech Support</h1> <div> <div> <span>February 18 @ 5:30 PM</span> - <span>7:30 PM</span>
@@ -14,6 +15,7 @@ feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> 
   </li> <li> <span>Phone</span> <span> 206-767-2544 </span> </li> </ul> </div> </div>
   </div> <p>Comments are closed.</p> </div> </section> </div> </div> </div>"
 feed_content_checksum: e3eeef83aaa1a6a2c4cfc4d9da42a75d5b92fe1d
+image_checksums: []
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 location_titles:

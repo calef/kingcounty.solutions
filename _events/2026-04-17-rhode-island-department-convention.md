@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-19T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Rhode Island
   Department Convention</h1> <div> <div> <span>April 17</span> - <span>April 18</span>
@@ -12,6 +13,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Rhode Is
   </div>"
 feed_content_checksum: cf8b389ca34d8d24e299dac06691bf12d18e3e99
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

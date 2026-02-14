@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-27T20:30:00-07:00'
 feed_content: '<div> <h1>Impact Stories: The Island of the Shark: Guardians of Malpelo
   | Film 4</h1> <div><div> <div> <div><div><span><span>C</span></span></div></div>
@@ -129,6 +130,7 @@ feed_content: '<div> <h1>Impact Stories: The Island of the Shark: Guardians of M
   </div> </div></div> <div><div><div>Report this event</div></div></div>'
 feed_content_checksum: cb3c04bedfb962a07a8506bd13286da286307fed
 image_checksums: []
+images_extracted: true
 location: Mary Gates Hall (MGH)
 location_titles:
 - King County

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-18T08:27:53+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: November is National Youth Homelessness Awareness Month, and this 
   and...
 feed_content_checksum: c0d9f1cacb0e9cc08d2b87f39e877d7321127296
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Friends of Youth

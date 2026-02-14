@@ -1,9 +1,12 @@
 ---
+classified: true
 date: '2025-09-22T09:25:40-04:00'
+event_ids: []
 feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Mon, 22 Sep 2025 04:26:19
   -0400</p><p>title: New Agents’ and Brokers’ Guide to Plan Year 2026 Marketplace
   Registration and Training</p><p>topic: Registration and Training</p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Centers for Medicare & Medicaid Services
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-07T14:30:00-07:00'
 feed_content: "<a>Skip to main content</a> <div> <div> <div> <div> <section> <form>
   <label>Current site</label>   <label>All of the UW</label> </form> </section> </div>
@@ -77,6 +78,7 @@ feed_content: "<a>Skip to main content</a> <div> <div> <div> <div> <section> <fo
   </section> </div> </aside> </aside> </div> </div> </div> </div>"
 feed_content_checksum: b21156358b6c7b529db47118227a77eb289337ca
 image_checksums: []
+images_extracted: true
 location: Student Union Building (HUB)
 location_titles:
 - King County

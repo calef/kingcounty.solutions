@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-12T19:30:00-08:00'
 feed_content: '<div class="field-items"> <div class="field-item"> <p>Faculty pianist
   Robin McCabe joins forces with guest artist Maria Larionoff in an evening of high
@@ -35,6 +36,7 @@ feed_content: '<div class="field-items"> <div class="field-item"> <p>Faculty pia
   by Paul Siefried. When not playing the violin, she enjoys tennis and long walks
   with Barry and their rescue golden retriever, Pamina.</p> </div> </div>'
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

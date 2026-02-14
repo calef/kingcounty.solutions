@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-13T01:09:04+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: 'Today, we have a special Valentine treat: the story of how two of
   D’Lani...'
 feed_content_checksum: 7fb237d0c7ce5cd1cf23a8bf89d7ce306c18a5c6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

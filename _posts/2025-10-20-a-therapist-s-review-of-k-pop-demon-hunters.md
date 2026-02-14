@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-20T19:25:57+00:00'
 event_ids: []
 events_extracted: true
@@ -113,6 +114,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"\"><div class=\"c
   class=\"vc_empty_space_inner\"></span></div></div></div></div></div></div></div>\n</div>"
 image_checksums:
 - 929fcf43b4f7030575df87192a4f085af2dc33ac308626b53cfac33425c6b178
+images_extracted: true
 location_titles:
 - King County
 organization_title: Samaritan Center of Puget Sound

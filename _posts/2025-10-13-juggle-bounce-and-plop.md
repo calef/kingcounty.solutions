@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-13T19:11:21+00:00'
 event_ids: []
 events_extracted: true
@@ -18,6 +19,7 @@ feed_content: |-
   <p>When: Tuesdays 10:30 am–11:30 am<br>Location: Exercise Room<br>Cost: Member $15<br>Non Member $25</p>
   <p>The post <a href="https://shorelinelfpseniorcenter.org/juggle-bounce-and-plop/">Juggle, Bounce, and Plop</a> appeared first on <a href="https://shorelinelfpseniorcenter.org">Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Shoreline Lake Forest Park Senior Activity Center

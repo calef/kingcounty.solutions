@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-06T22:26:56+00:00'
+event_ids: []
 feed_content: |-
   <p>Data entry error significantly inflated the reported emissions reduction for Commerce programs</p>
 
@@ -48,6 +50,7 @@ feed_content: |-
   <p>As Ecology works to update the report’s greenhouse gas data, lawmakers and the public may still use the current version to understand how the CCA is helping communities across the state. Many of the investments made to date lay a foundation for a clean economy, such as building infrastructure for storing and transmitting renewable energy and developing a skilled workforce to support it. Most projects also increase equity and provide other benefits, such as improving air quality or lowering energy costs for those who need it most. CCA funding is also helping communities adapt to a warming climate, such as preventing wildfires and floods and protecting people from extreme heat.</p>
 feed_content_checksum: 915b6c8d842029234d649973aa68e5537963e5c6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

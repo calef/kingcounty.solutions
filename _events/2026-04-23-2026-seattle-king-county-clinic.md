@@ -1,10 +1,12 @@
 ---
+classified: true
 end_date: '2026-04-26T23:59:59-07:00'
 feed_content: A clinic providing essential care for those in need, focused on community
   collaboration.
 feed_content_checksum: a65c905867e63b0515c77dc40d9d8c31b3b4087b
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Seattle Center
 location_titles:
 - King County

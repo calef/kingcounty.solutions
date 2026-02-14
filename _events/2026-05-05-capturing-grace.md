@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-05T19:30:00-07:00'
 feed_content: "<div> <div> <form> <div><div> <div><div> <div> <div><div>RSVP for Capturing
   Grace Film Screening</div></div> <div> <p><span>Tues May 5 @ 5:30 pm | Screening
@@ -51,6 +52,7 @@ feed_content: "<div> <div> <form> <div><div> <div><div> <div> <div><div>RSVP for
   </li> <li> <span><div> <div></div> <div></div> <div></div> </div></span><span>Report</span>
   </li> </ul></div> </div> </div></div> </div>"
 feed_content_checksum: 02d6b374c268a5565bf56fb5c06a01632ffd2a5f
+image_checksums: []
 location: 'UW Communications Building, Room 120 Lecture Hall: 4109 E Stevens Way NE,
   Seattle, WA 98195'
 location_titles:

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-15T15:40:53+00:00'
+event_ids: []
 feed_content: "<div>\n\n    \n    <figure><img src=\"https://www.dav.org/wp-content/uploads/Sue_Davis.jpg\"><figcaption>Sue
   Davis celebrates after completing the 2025 DAV 5K, proudly displaying her finisher’s
   medal. Davis, who was the top group fundraiser for the 2024 event, continues to
@@ -63,6 +65,7 @@ feed_content: "<div>\n\n    \n    <figure><img src=\"https://www.dav.org/wp-cont
   post <a>How the DAV 5K inspires veterans advocacy</a> appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: a0a54ae67bde992e51fb1ad2658a005c08a7fbcd
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

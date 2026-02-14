@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-12T18:49:49+00:00'
 event_ids: []
 events_extracted: true
@@ -27,6 +28,7 @@ image_checksums:
 - 063fa395185fff720aae08bac672e5c617f67ba971eb9125aea64429924d623a
 - e7bba1c6eab1896f7a9605729bb93de8f54ecca8ff3d2c41f3cd40c18dccb1a8
 - 016bbb2a3eb286a0c37d731aa43096aa061ae84f1db09e7aac119323547f4393
+images_extracted: true
 location_titles:
 - King County
 organization_title: Solid Ground

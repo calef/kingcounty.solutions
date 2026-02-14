@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-29T20:00:00-07:00'
 feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path/to/json2.js"></script>
   <![endif]--> <!--[if lte IE 9]> <base href="/donation/" /> <![endif]--> <base> <meta>
@@ -98,6 +99,7 @@ feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path
   <!-- End Google Tag Manager (noscript) --> <script></script><script></script>  '
 feed_content_checksum: 8ac18b2891177bdd5ebeb69c53ffdef26c298d9e
 image_checksums: []
+images_extracted: true
 location: Bowers Museum, Santa Ana, 2002 N Main St, Santa Ana, CA, 92706, United States
 location_titles: []
 organization_title: Olive Crest
@@ -108,3 +110,4 @@ summarized: true
 title: Strong Families Council Dinner 2026
 topic_titles: []
 ---
+

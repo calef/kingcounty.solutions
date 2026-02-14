@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-13T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -214,6 +215,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA Milwaukee Health care System site </a>and has been edited for style and clarity.  </p>
 feed_content_checksum: 43495002460614cbcd255ece674eb8e681175f4c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

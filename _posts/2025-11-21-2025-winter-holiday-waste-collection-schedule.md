@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-11-21T23:41:12+00:00'
+event_ids: []
 feed_content: 'As we head into the holiday season, we want to share some important
   reminders about our collection services. Garbage, recycling, and food and yard waste
   will NOT be collected on these upcoming holidays: If your regular collection day
   falls on one of th...'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

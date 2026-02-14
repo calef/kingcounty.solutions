@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-19T19:17:24+00:00'
 event_ids: []
 events_extracted: true
@@ -133,6 +134,7 @@ feed_content: "<span>State disciplines health care providers (12-19-2025)</span>
   Department of Health</div>\n          </div>"
 feed_content_checksum: 2aaee7101070e2e110bf4b73fdac3c97edae2152
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

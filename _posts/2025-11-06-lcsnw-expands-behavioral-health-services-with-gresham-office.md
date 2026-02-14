@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-06T01:29:24+00:00'
+event_ids: []
 feed_content: "<div class=\"et_pb_section et_pb_section_2 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_5\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_8
@@ -73,6 +75,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_2 blog-post-type et_sect
   expands behavioral health services with Gresham office</a> appeared first on <a
   href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Lutheran Community Services Northwest
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-29T18:09:11+00:00'
 event_ids: []
 events_extracted: true
@@ -84,6 +85,7 @@ feed_content: |-
   <p>We look forward to seeing everyone at the program! For more information on our programming, calendar, and lunch menu, please follow the links to the right of the page.</p>
   <p>The post <a href="https://lakecityseniors.org/september-2025-update/">September 2025 Update</a> appeared first on <a href="https://lakecityseniors.org">Lake City Seniors</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lake City Seniors

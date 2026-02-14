@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-10T20:54:30+00:00'
 event_ids: []
 events_extracted: true
@@ -48,6 +49,7 @@ feed_content: |-
 
   The post [Suicide Prevention Month: Warning Signs, Resources & How to Help](https://snoqualmievalleyhealth.org/suicide-prevention-month-2/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

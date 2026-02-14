@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-10T20:05:10+00:00'
+event_ids: []
 feed_content: |-
   <p>On Saturday, Jan. 24, more than 1,100 community members streamed into the Broadview Branch to celebrate its <a>50<sup>th</sup> anniversary</a> with storytelling, speeches, cake, music, puzzles, games, and five decades’ worth of history, stories and memories.</p>
 
@@ -138,6 +140,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: f451828f030ab4b50bedcc91cd446d016d3eb2ac
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-19T17:00:00-08:00'
 feed_content: "<article> <header> <h1>IACUC Meeting Schedule and Agenda</h1> </header>
   <div> <p>The IACUC meets monthly and meetings are open to the public. Below you
@@ -32,6 +33,7 @@ feed_content: "<article> <header> <h1>IACUC Meeting Schedule and Agenda</h1> </h
   e-mail at <a>dso@uw.edu</a>.</p> </div> </article>"
 feed_content_checksum: 77fc7fd330786ef1d1ecf1a4122ffec7f1f2a9e0
 image_checksums: []
+images_extracted: true
 location: 3939 15th Ave NE Seattle, WA 98105
 location_titles:
 - King County

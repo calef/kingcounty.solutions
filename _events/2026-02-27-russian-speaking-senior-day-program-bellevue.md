@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-27T14:00:00-08:00'
 feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </p>
   <div> <span> Event Series: </span> <a> <span> Russian-Speaking Senior Day Program
@@ -32,6 +33,7 @@ feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </
   </li> </ul> </div> </div> </aside> </div>"
 feed_content_checksum: 24be19cda93ad1827621524a52d06eeb595f4b67
 image_checksums: []
+images_extracted: true
 location: North Bellevue Community Center, 4063 148th Ave NE, Bellevue, 98007, United
   States
 location_titles:

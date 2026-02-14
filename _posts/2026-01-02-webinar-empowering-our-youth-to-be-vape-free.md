@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-02T18:16:16+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: A free webinar titled "Empowering Our Youth to Be Vape Free" will 
   and engaging youth in peer-led initiatives. Continuing education credits available.
 feed_content_checksum: fe0a26071362f421d0afa32a47fba6eee0216fa7
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T20:23:01+00:00'
 event_ids: []
 events_extracted: true
@@ -397,6 +398,7 @@ feed_content: |-
   <p>The post <a>How to Talk to Loved Ones About Your Triggers During Addiction Recovery</a> appeared first on <a>Lakeside-Milam Recovery Centers</a>.</p>
 feed_content_checksum: 67085ab8f52af18120c3e8aeb5ac658d88264ab9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lakeside-Milam Recovery Centers

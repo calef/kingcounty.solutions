@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-27T17:58:11+00:00'
 event_ids: []
 events_extracted: true
@@ -40,6 +41,7 @@ feed_content: |-
   <p data-start="835" data-end="907"> <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=yes&amp;id=64"><strong data-start="839" data-end="851">Give now</strong> </a></span>and walk alongside students in Issaquah and beyond.</p>
   <p>The post <a href="https://www.youtheastsideservices.org/issaquah-school-district/">YES Brings Mental Health Support to Issaquah School District</a> appeared first on <a href="https://www.youtheastsideservices.org">Youth Eastside Services</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Youth Eastside Services

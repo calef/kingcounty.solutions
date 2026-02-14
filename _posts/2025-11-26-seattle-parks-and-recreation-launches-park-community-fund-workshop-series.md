@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-11-26T19:05:02+00:00'
+event_ids: []
 feed_content: Seattle Parks and Recreation(SPR) is excited to announce the launch
   of the &#160;Park CommUNITY Fund Workshop series.&#160; The Park CommUNITY Fund
   advances park equity in Seattle through a community-led funding process. The fund
   invests in both large ...
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

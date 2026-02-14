@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-20T21:26:11+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p><a>Source</a></p>
 feed_content_checksum: e33f88c71db69820b82dfee65d438263a7527155
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: United Way of King County

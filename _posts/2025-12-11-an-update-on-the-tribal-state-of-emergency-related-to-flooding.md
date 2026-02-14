@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-11T20:15:06+00:00'
 event_ids: []
 events_extracted: true
@@ -24,6 +25,7 @@ feed_content: |-
   <p>If you’re experiencing a flood emergency, please call 911.</p>
 feed_content_checksum: b0d56b03612b70e3d276d03f6ec5ab1255bd033d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

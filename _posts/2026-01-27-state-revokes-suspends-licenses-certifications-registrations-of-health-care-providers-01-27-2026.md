@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-27T15:57:30+00:00'
+event_ids: []
 feed_content: "<span>State revokes, suspends licenses, certifications, registrations
   of health care providers (01-27-2026)</span>\n\n            <div>\n<time>January
   27, 2026 - 7:52am</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>January
@@ -80,6 +82,7 @@ feed_content: "<span>State revokes, suspends licenses, certifications, registrat
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: 7cd416ecb4a085a983fbabc0424d3e515feaf05e
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Health
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og:

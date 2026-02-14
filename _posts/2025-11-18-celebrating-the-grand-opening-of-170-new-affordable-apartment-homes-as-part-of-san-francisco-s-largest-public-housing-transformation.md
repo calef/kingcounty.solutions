@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-18T22:27:36+00:00'
+event_ids: []
 feed_content: |-
   <p><!--StartFragment --></p>
   <p><strong><span class="cf0">The event also marked the groundbreaking of two additional buildings, creating another 184 affordable apartment homes</span></strong></p>
@@ -19,6 +21,7 @@ feed_content: |-
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/grand-opening-170-affordable-apartments/">Celebrating the Grand Opening of 170 New Affordable Apartment Homes as Part of San Francisco’s Largest Public Housing Transformation</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Mercy Housing
 published: false

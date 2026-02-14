@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-09T12:35:39+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Seattle Times | Kent’s Akin wraps families in support and care for brighter days ahead</a> appeared first on <a>akin</a>.</p>
 feed_content_checksum: 9d97913746383a8f6e72722d205579d5041656f9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Akin

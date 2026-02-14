@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-20T13:27:22+00:00'
 event_ids: []
 events_extracted: true
@@ -15,6 +16,7 @@ feed_content: |-
 
   The post [Open Doors for Multicultural Families](https://togethercenter.org/2025/09/20/open-doors-for-multicultural-families/) appeared first on [Together Center](https://togethercenter.org).
 image_checksums: []
+images_extracted: true
 location_titles:
 - South King County
 organization_title: Together Center

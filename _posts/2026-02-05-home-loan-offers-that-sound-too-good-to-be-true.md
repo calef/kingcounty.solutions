@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-05T14:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>As a Veteran or service member, your <a>VA home loan</a> is one of the most powerful benefits you’ve earned. If you have a VA home loan, you have probably received unsolicited offers to refinance your mortgage that may sound too good to be true.</p>
 
@@ -94,6 +96,7 @@ feed_content: |-
   <p>*Editor’s Note: This story updates a <a>previously published post from 2017</a>. </p>
 feed_content_checksum: f705458055f1d77673448b6a4353cfeb99f860a9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T11:30:00-08:00'
 feed_content: "<header> <div> <div> <div> <div> <p>Explore SignUpGenius Solutions</p>
   <div> <figure> <a> <div> <div> <span><b>{{auctionsshortname}}</b></span> <span>Online
@@ -11,6 +12,7 @@ feed_content: "<header> <div> <div> <div> <div> <p>Explore SignUpGenius Solution
   </span> </div> </div> </div>"
 feed_content_checksum: 56bc3260575eed2f9d337092db2b8011df8fa3bd
 image_checksums: []
+images_extracted: true
 location: Lander Hall (LAN)
 location_titles:
 - King County

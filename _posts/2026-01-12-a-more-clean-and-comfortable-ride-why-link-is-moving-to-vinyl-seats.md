@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-12T13:41:38-08:00'
+event_ids: []
 feed_content: |-
   <div><div>
   <p>When passengers talk about what matters most onboard Link light rail, one theme consistently rises to the top: clean, comfortable places to sit. </p>
@@ -7,6 +9,7 @@ feed_content: |-
   </div></div>
 feed_content_checksum: f5a13421ab9aeff1ca31f6e5d58b5344eb22e6d4
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Transit

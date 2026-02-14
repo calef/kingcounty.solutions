@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-14T16:06:25+00:00'
 event_ids: []
 events_extracted: true
@@ -43,6 +44,7 @@ feed_content: "<span>Washington state expands same-day support for opioid use di
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: 8a4ade24c8c48a18940c89ea0141598deb5dbe9e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-27T17:00:00-07:00'
 feed_content: '<div> <div> <div> <div> <div> <div> <div> {1} </div> <div> <a> <span>
   <span>##LOC[OK]##</span> </span> </a> </div> </div> </div> <div> <div> <div> {1}
@@ -297,6 +298,7 @@ feed_content: '<div> <div> <div> <div> <div> <div> <div> {1} </div> <div> <a> <s
   </td></tr> </tbody></table> </div> </div> </div> </div> </div> </div> </div>'
 feed_content_checksum: c4522348a984fb84298d264eec5d5f608b468266
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-24T16:30:00-08:00'
 feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <div>
   <span> Event Series: </span> <a> <span> Social Services Community Connection </span>
@@ -20,6 +21,7 @@ feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> 
   <span> 206-767-2544 </span> </li> </ul> </div> </div> </div> <p>Comments are closed.</p>
   </div> </section> </div> </div> </div>"
 feed_content_checksum: 5fb9ad133c567d2e59165b9bd00c9cd8bef742c7
+image_checksums: []
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 location_titles:

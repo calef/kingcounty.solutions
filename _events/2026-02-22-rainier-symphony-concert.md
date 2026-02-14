@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-22T17:00:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
   </span> <a> <span> Rainier Symphony Concert </span> </a> </div> <h1>Rainier Symphony
@@ -60,6 +61,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   </section>"
 feed_content_checksum: bd47fa4ebef8a8d7d17a7e77d795a21782b8b8ae
 image_checksums: []
+images_extracted: true
 location: Foster High’s Performing Arts Center, 4242 S 144th St, Tukwila, 98188
 location_titles:
 - King County

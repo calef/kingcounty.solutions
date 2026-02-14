@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-14T20:53:58+00:00'
 event_ids: []
 events_extracted: true
@@ -93,6 +94,7 @@ image_checksums:
 - 13ebc71c9895645c57a31903b6744db5dd9188a3774dabf399cce76962112d8e
 - 73ed8c95563093ae6ebdea12987558774e7ea323bf877acf56c0d23071631504
 - a35a2245e1725882d7facee60c125dd9f7ae44afcb4707834a5753b61cf35682
+images_extracted: true
 location_titles:
 - King County
 organization_title: Bellevue LifeSpring

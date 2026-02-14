@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T16:09:58+00:00'
 event_ids: []
 events_extracted: true
@@ -178,6 +179,7 @@ feed_content: |-
   <p>The post <a>When Natural Disasters Disrupt Recovery: How Puget Sound Region Flooding Impacts Mental Health and Substance Use</a> appeared first on <a>Lakeside-Milam Recovery Centers</a>.</p>
 feed_content_checksum: 5e8bffc791cce1d32c9ca4a07a9c929d6c95a321
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lakeside-Milam Recovery Centers

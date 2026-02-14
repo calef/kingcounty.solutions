@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-24T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Joint Base
   Lewis-McChord Job Fair, April 23, 2026</h1> <div> <div><span>April 23</span></div>
@@ -8,6 +9,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Joint Ba
   <div> <div> <h2> Details </h2> <ul> <li> <span>Date:</span> <span> <abbr> April
   23 </abbr> </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 6208dab649c8eceeb152f66cc2999bebbb317b6b
+image_checksums: []
 location: ''
 location_titles:
 - King County

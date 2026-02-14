@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-16T22:58:04+00:00'
+event_ids: []
 feed_content: Seattle police officers arrested a 25-year-old man for punching a Sound
   Transit bus driver in Downtown Seattle last night. At about 10:50 p.m., patrol officers
   responded to reports of a transit driver being assaulted near 3rd Avenue and Stewart
   Street....
 feed_content_checksum: eb724e8bc51902e7518b7350c4f3e48d4b98fdb3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

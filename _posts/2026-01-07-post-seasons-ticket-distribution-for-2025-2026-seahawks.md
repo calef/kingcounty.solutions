@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-07T22:55:34+00:00'
+event_ids: []
 feed_content: |-
   <p>The following Tribal Members will receive tickets to the Post-Season 2025-2026 Seahawks Playoff Football Game One at Lumen Field. Tickets will be distributed electronically.</p>
   <p>Ticket recipients will receive email links to their tickets. If you are unable to attend your game please email <strong>TCR@snoqualmietribe.us</strong> at your earliest convenience.</p>
@@ -82,6 +84,7 @@ feed_content: |-
   </table>
 feed_content_checksum: 94625a149860973569f1b1d19ea3c89ea15f4354
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-04T12:00:00-08:00'
 feed_content: "<header> <div> <div> <h1> <span>Science in Medicine Lecture Series:
   Michael Bruchas, PhD</span> </h1> <div><div><div> <span>March 4 @ 11:00 am</span>
@@ -55,6 +56,7 @@ feed_content: "<header> <div> <div> <h1> <span>Science in Medicine Lecture Serie
   <span>98195</span> <span>United States</span> </span> <a>+ Google Map</a> </address>
   </li> </ul> </div> </div> </div> </div> </section> </div> </div> </div>"
 feed_content_checksum: 76eaa0f6976452b6b796476d8a8bed7d02db5d27
+image_checksums: []
 location: William H. Foege Genome Sciences (GNOM)
 location_titles:
 - King County

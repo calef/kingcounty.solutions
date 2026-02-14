@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-09T20:30:53+00:00'
 event_ids:
 - _events/2026-02-13-crp-reentry-grants-application-deadline.md
@@ -89,6 +90,7 @@ feed_content: |-
   <p>The CRP Team</p>
 feed_content_checksum: fd0dcb304baee0beeba0b69d953063f00d2dc855
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-10T14:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -89,6 +90,7 @@ feed_content: |-
   <p>The post <a>Operation Homefront Assists Veteran’s Spouse</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 2d9871068128013df23c945de98f8887a7551d78
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Operation Homefront

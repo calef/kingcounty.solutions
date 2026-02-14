@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-09T16:34:00+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Let’s celebrate the 2026 School-Based Health Care Awareness Mont
   ready-to-post graphics, customize them to recognize your…
 feed_content_checksum: bd5c7f4d181d2ef7b274a53f38f3270444889457
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T23:20:39+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: |-
   <p>Call us at 888-468-2620 to determine if we’re the right group for you.  You’ll talk to a real person who can help you assess your family situation and if Changes can help you.</p>
 feed_content_checksum: a3cab3fe2617bb82df6777bf7b97acd792818b1d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Changes Parent Support Network

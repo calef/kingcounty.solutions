@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-09T14:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>Here’s your chance to showcase your creativity and honor America’s Veterans through art. The Department of Veterans Affairs (VA) and the Veterans Day National Committee are now accepting submissions for the 2026 Veterans Day Poster Contest.</p>
 
@@ -60,6 +62,7 @@ feed_content: |-
   <p>Thank you to all who have shared their creativity to honor Veterans. We look forward to seeing your submissions for the 2026 Veterans Day Poster Contest!</p>
 feed_content_checksum: 4e664833b443aa4819ce5a1ec031f2207673081f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

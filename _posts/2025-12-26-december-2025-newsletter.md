@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-26T17:33:00+00:00'
+event_ids: []
 feed_content: "<figure>\n          \n        \n        \n\n        \n          <a>\n
   \           \n          \n            \n                \n                \n                \n
   \               \n                \n                \n                \n                <img
@@ -9,6 +11,7 @@ feed_content: "<figure>\n          \n        \n        \n\n        \n          <
   newsletter of 2025  <a>HERE!</a></p>"
 feed_content_checksum: 0a67fb3c66ae94e945ba4fd9d03c6220523c2060
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: CarePoint Clinic

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-09T16:43:57+00:00'
+event_ids: []
 feed_content: |-
   <a><p>Something new is brewing on Wednesday afternoons at The Center! </p>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>Starting in March, we’ll have programming extending into the early evening with rotating fun activities plus refreshments for sale at …</p></a>
 feed_content_checksum: 1d2468485e4e854aeacacff12cc6a4e8a26d977b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Center for Active Living

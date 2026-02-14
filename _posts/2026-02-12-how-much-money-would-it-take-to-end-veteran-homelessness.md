@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-12T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -146,6 +147,7 @@ feed_content: |-
   <p>Together, we can make a meaningful difference and work toward ending Veteran homelessness for good.</p>
 feed_content_checksum: 5855f920cfafb82e81f4bac3533ddd54580bcf2e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-23T19:00:27+00:00'
 event_ids: []
 events_extracted: true
@@ -18,6 +19,7 @@ feed_content: |-
   <p>The post <a>Meals on Wheels: Volunteer Caller in Shoreline!</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: ad1bc88f8bfaa383945a75dcbfcafba94f57abcc
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

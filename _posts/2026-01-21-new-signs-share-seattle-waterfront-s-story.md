@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-21T00:41:34+00:00'
+event_ids: []
 feed_content: This is a blog post from the Waterfront Seattle Program. The Waterfront
   Seattle Program is a collaboration between the Office of the Waterfront, Civic Projects,
   and Sound Transit, and other Seattle departments including the Mayor’s Office, Pa...
 feed_content_checksum: 01044f92a3b12d8cdca8dde23f789a33a722e156
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

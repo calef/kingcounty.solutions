@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-13T19:54:00+00:00'
+event_ids: []
 feed_content: "<span>State disciplines health care providers (02-13-2026)</span>\n\n
   \           <div>\n<time>February 13, 2026 - 11:46am</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>February
   13, 2026 - 11:54am</time>\n</span>\n\n  <div>\n    <div>News Category</div>\n          <div>\n
@@ -98,6 +100,7 @@ feed_content: "<span>State disciplines health care providers (02-13-2026)</span>
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: '0583a2d31dc43dc8b5031a9109502ce54d5eb108'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-17T18:33:34+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: The City of Seattle will continue its commitment to food equity by
   and yout...
 feed_content_checksum: d114b1c4507c9464615d8484a89f7ff4d1316719
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

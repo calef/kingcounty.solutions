@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-02T16:00:00-07:00'
 feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events </a></p>
   <div> <span> Event Series: </span> <a> <span> Warehouse sale </span> </a> </div>
@@ -18,6 +19,7 @@ feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events <
   </ul> </div> </div> </section>"
 feed_content_checksum: 2dad7db5b95eff8df9e229aadb530070c6103bb3
 image_checksums: []
+images_extracted: true
 location: 'Bike works warehouse, 3715 S Hudson St #111, Seattle, Washington, 98118,
   United States'
 location_titles:

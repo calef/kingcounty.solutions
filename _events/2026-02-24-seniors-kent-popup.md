@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-24T15:00:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <li><a>Login</a></li>
   <li><a>Volunteer</a></li> <li><a>DONATE</a></li> </ul></div></div> </div> </div>
@@ -12,6 +13,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
   pm - 3:00 pm </div> </span> </li> </ul> </div> <div> <h2> Venue </h2> <ul> <li>
   Kent, WA, USA </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 12b41ac78b3d165f29efb364f35a0b5bd6f8ebd8
+image_checksums: []
 location: Kent, WA, USA
 location_titles:
 - King County

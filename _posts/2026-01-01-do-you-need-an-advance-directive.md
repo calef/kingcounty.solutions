@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-01T06:00:50+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Do you need an advance directive?</a> appeared first on <a>Aging Wisdom</a>.</p>
 feed_content_checksum: 7b0ad19d533370e93da73ab04444ee30dd68a171
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Aging Wisdom

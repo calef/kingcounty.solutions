@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-10T22:19:45+00:00'
+event_ids: []
 feed_content: |-
   <p><b>Tribal Council Strengthens Federal Advocacy for Environmental and Cultural Protections</b></p>
   <p>In September, Snoqualmie Tribal Council members traveled to Washington, D.C., for government-to-government meetings with federal lawmakers and agency officials to address critical issues affecting the Tribe’s ancestral lands, sacred sites, and sovereignty.</p>
@@ -7,6 +9,7 @@ feed_content: |-
   <p>Council members renewed the Tribe’s call for Federal Aviation Administration (FAA) action to protect Snoqualmie Falls, a sacred site recognized on the National Register of Historic Places. FAA data confirmed more than 3,400 flights within a mile of the Falls in just over a year. Dozens of those flights operated below 900 feet. Snoqualmie people’s traditional religious and cultural practices are adversely affected by low-altitude flights, including the formations and pathways of the rising mists.</p>
 feed_content_checksum: 56c634c684fab44b4d7b39f2f4916ad8cf27ac36
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

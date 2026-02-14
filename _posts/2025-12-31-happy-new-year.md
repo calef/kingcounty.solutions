@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-31T06:43:00+00:00'
+event_ids: []
 feed_content: |-
   <p>We asked our children to help us express what a “helping hand” signifies to them, and this beautiful art was the result.</p>
 
@@ -17,6 +19,7 @@ feed_content: |-
   <p>The post <a>Happy New Year!</a> appeared first on <a>Eastside Legal Assistance Program</a>.</p>
 feed_content_checksum: 33fc18533d51255a13d847fbfecc00ed124fb349
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

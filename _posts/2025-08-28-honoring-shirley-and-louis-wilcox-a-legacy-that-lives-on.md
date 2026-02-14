@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-28T21:15:22+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p class="read-more-container"><a title="Honoring Shirley and Louis Wilcox: A Legacy That Lives On " class="read-more button" href="https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/#more-25232" aria-label="Read more about Honoring Shirley and Louis Wilcox: A Legacy That Lives On ">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/">Honoring Shirley and Louis Wilcox: A Legacy That Lives On </a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Neighborhood House

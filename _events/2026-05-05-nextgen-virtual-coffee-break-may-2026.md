@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-05T13:00:00-04:00'
 feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </p>
   <div> <div> <div> <h2>NextGen Virtual Coffee Break – May 2026</h2> <div> <h3> <span>May
@@ -14,6 +15,7 @@ feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </
   </div> </aside> </div>"
 feed_content_checksum: 3ff7d8d0e440b8e3e5e6ba64c3b81fd319d4dc2e
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: NOSSCR Referral Service

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-13T20:59:15+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>Announcement of a prospective successful contractor expected by Feb. 23</strong></p>
 
@@ -16,6 +18,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 888560943c0852c277a28b00787211041b9751f3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-08T21:42:48+00:00'
+event_ids: []
 feed_content: |-
   <p>The following Tribal Members will receive tickets to Dave Chappelle at Climate Pledge Arena</p>
   <p>All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your event please email <strong>TCR@snoqualmietribe.us</strong> at your earliest convenience.</p>
@@ -50,6 +52,7 @@ feed_content: |-
   </table>
 feed_content_checksum: e8c1a49958b33f65a5c1c8d4e9892d75c7cfb276
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

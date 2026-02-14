@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-04T21:56:38+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Staying socially connected isn’t just “nice to have” for old
   we see every day how friendships, conversation, […]
 feed_content_checksum: 9ec553b186b962e79c7f5955057998e26f2c226b
 image_checksums: []
+images_extracted: true
 location_titles:
 - South King County
 organization_title: Federal Way Senior Center

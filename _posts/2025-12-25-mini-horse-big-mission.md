@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-25T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -58,6 +59,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA Greater Los Angeles Health care System site </a> and has been edited for style and clarity.  </p>
 feed_content_checksum: 439ed42de3495c8e85bd96dc04c0087b19952319
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

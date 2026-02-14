@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-27T05:22:17+00:00'
+event_ids: []
 feed_content: |-
   <p><span>Joint Services will be held for</span></p>
   <h2><span>Tribal Elder Mary Anne Hinzman</span></h2>
@@ -14,6 +16,7 @@ feed_content: |-
   <p><a><img src="https://snoqualmietribe.us/wp-content/uploads/2025/12/Joint-Services-Hinzman-700x587.png"></a></p>
 feed_content_checksum: 52defc79e850f035acf45d0dd5dd13ca609f918e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Ongoing Dungeons &amp; Dragons campaign sessions for Veterans, promoting
   mental health and emotional wellness.
 feed_content_checksum: e58a591cfd2aba22c19c800e8615c8a2a51246e8
 generated_from_post: true
+image_checksums: []
 location: Orlando VA Healthcare System
 location_titles:
 - King County

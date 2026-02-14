@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-11T14:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>Throughout Black History Month (BHM), the Center for Minority Veterans (CMV) is honored to highlight the stories of Black Veterans whose commitment to community endures long after they hang up their uniforms. In this week’s “From Uniform to Unforgettable” feature, we recognize six extraordinary individuals who have turned their service into a lifelong legacy.</p>
 
@@ -36,6 +38,7 @@ feed_content: |-
   <p>From Uniform to Unforgettable celebrates Veterans whose journeys deserve to be heard, honored and remembered. If you are a Veteran, or know a Veteran whose story should be featured, please submit (or nominate them) at https://www.surveymonkey.com/r/cmvveteranspotlight.</p>
 feed_content_checksum: 6a3ec10296d3cd26609fca5c72f72ddb0c3d1f09
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

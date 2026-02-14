@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-22T17:19:57+00:00'
+event_ids: []
 feed_content: '<p class="">Recipe adapted from Ana Sainz</p><p class="">Recipe shared
   in partnership with <a href="https://thepantryseattle.com/" target="_blank">the
   Pantry</a>.&nbsp;</p><p class="">Yield: 6 servings (8-10 cups) </p><p data-rte-preserve-empty="true"
@@ -21,6 +23,7 @@ feed_content: '<p class="">Recipe adapted from Ana Sainz</p><p class="">Recipe s
   everything except for the tostadas until ready to serve.</p><p class="">- Garnish
   as desired and enjoy. </p>'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Rainier Valley Food Bank
 published: false

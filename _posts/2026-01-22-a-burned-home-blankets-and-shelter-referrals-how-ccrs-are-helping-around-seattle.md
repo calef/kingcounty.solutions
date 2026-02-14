@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-22T19:19:38+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>A Burned Home, Blankets, and Shelter Referrals: How CCRs Are Helping Around Seattle</a> appeared first on <a>With CARE</a>.</p>
 feed_content_checksum: 93fd56626e6e11d0a285f0896b8eb7a1ba0737cd
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

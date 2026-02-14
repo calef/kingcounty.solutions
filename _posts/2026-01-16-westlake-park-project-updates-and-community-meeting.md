@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-16T22:32:39+00:00'
+event_ids: []
 feed_content: Westlake Park is at the heart of Seattle’s downtown core and is an important
   gateway to the city. Seattle Parks and Recreation (SPR) and Seattle Parks Foundation
   (SPF) are working collaboratively to update the space by Spring 2026. Join SPR and
   SPF at ...
 feed_content_checksum: e2e802a11718174581c84dd4ef99ff3949bce57b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

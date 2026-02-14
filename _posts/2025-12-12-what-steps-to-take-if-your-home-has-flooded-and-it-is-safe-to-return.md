@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-12T19:39:20+00:00'
 event_ids: []
 events_extracted: true
@@ -33,6 +34,7 @@ feed_content: |-
   <p><a>Download a PDF of this information for reference</a></p>
 feed_content_checksum: 0a607de72666c4ebc730d47792f7467e6af37378
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

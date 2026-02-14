@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-20T01:16:06+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: 'Weekend Service Impacts Routes 7, 106 and ST 554 will have stop 
   on Saturday, December...'
 feed_content_checksum: 124e99a491182efdd05830c0cc662d5608e757c1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

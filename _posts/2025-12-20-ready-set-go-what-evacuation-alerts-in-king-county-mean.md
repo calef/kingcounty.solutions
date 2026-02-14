@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-20T23:58:27+00:00'
+event_ids: []
 feed_content: 'Evacuation alerts can be overwhelming to receive. This is why King
   County uses the Ready, Set, Go framework in order to make our alerts clear. Level
   1 READY: Possible evacuation in your area Level 1 alerts are sent to make residents
@@ -7,6 +9,7 @@ feed_content: 'Evacuation alerts can be overwhelming to receive. This is why Kin
   […]'
 feed_content_checksum: 72dede4ac444533e14eae4a8d85e9c08d4d4d2e2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-01T18:43:37+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: |-
   <p>Among the more than 50,000 facilities represented, MultiCare distinguished itself by ranking above peers in key focus areas, including clinical quality and safety, analytics and data management, cybersecurity, population health, infrastructure, patient engagement, and innovation. The survey evaluates the adoption maturity, outcomes and value of technology integration across health care organizations at all stages of digital maturity — from early phase digitization to advanced transformation.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/12/multicare-receives-17th-consecutive-most-wired-award/" data-wpel-link="internal">MultiCare receives 17th consecutive ‘Most Wired’ award</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: MultiCare

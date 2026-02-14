@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-26T19:23:57+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: When SNAP benefits were disrupted November 1 amid the federal shut
   they would afford to feed their families for unforeseeable future.   On October
   30, Seattle Mayor...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

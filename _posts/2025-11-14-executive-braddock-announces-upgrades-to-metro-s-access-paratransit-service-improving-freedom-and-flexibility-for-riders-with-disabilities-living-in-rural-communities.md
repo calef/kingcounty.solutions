@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-14T17:18:33+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: 'Media release from the King County Executive  Summary: King Coun
   Executive Shannon Braddock, in partnership with Metro, has announced easier and
   more convenient trip-planning options for Access paratransit customers, including...'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

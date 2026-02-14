@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-04T23:08:26+00:00'
 event_ids: []
 events_extracted: true
@@ -72,6 +73,7 @@ feed_content: "<p>Dear Essentials First community,</p><p>\uFEFF<br>\uFEFFWhen my
   \           \n          \n        \n          \n        \n\n        \n      \n        </figure>"
 feed_content_checksum: 7dea0e4428da8d3e9422a46420d36750bb254466
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Essentials First

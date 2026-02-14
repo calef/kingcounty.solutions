@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-11T06:00:29+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>My friend Betsy Fitzgerald, care partner to a lung transplant survivor with metastatic cancer, recently shared an update: “I&#8217;ve been mending my life, Kintsugi, patching broken pieces together. It is not easy; some pieces are sharp edged, some not quite fitting, some missing. We do the best we can.” Her role as a care partner [&#8230;]</p>
   <p>The post <a href="https://agingwisdom.com/caregiving-burnout-and-the-art-of-repair/">Caregiving, Burnout, and the Art of Repair</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Aging Wisdom

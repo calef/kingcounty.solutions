@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-02-13T22:21:10+00:00'
+event_ids: []
 feed_content: |-
   <p>Two Clerk Files from 1956 contain letters from teenagers (all girls) protesting the city’s refusal to allow Elvis Presley the use of the Civic Auditorium, apparently over concern about potential unruly behavior by youth attending the concert. (In a separate Clerk File, a parent applauded the decision, saying kids’ “craze for ‘Rock’n Roll music” would […]</p>
   <p>The post <a>70 Years Ago: Elvis Presley</a> appeared first on <a>Primary Sources</a>.</p>
 feed_content_checksum: 25adbe4354e72e1d883c4ac44cfb980d9695d695
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

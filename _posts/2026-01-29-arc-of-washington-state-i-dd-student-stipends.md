@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T20:23:23+00:00'
 event_ids:
 - _events/2026-03-15-application-deadline-for-i-dd-student-stipend-program.md
@@ -42,6 +43,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   of Washington State I/DD Student Stipends</a> appeared first on <a>UW IHDD</a>.</p>"
 feed_content_checksum: 3d54d52bb342d37a488eaa8fae67ffce8867ee08
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

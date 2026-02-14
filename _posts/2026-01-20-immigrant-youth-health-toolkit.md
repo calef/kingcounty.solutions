@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-20T16:35:37+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: The Washington Chapter of the American Academy of Pediatrics has d
   and empowering healthcare providers to promote their well-being effectively.
 feed_content_checksum: 01aa2186cb079faaf1495ce6fb1ebcbf24f78cd1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

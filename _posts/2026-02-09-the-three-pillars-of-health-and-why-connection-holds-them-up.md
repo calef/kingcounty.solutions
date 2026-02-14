@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-09T20:59:20+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: 'Loneliness isn’t just a feeling. Lately, there’s been more at
   well? Did...'
 feed_content_checksum: 4fc04eeced1f0f2b08c24574a295b1c028e28e10
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Eastside Friends of Seniors

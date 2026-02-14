@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-10T17:23:33+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>SNAP uncertainty piles on stress at local food banks</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: 9e525495f96761be76c225a2ea2481e98134dfb3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Northwest Harvest

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-07T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -84,6 +85,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA West Texas Health care System site </a> and has been edited for style and clarity.  </p>
 feed_content_checksum: 5078cc4f7bae9e18e482bd8e8ce5a4db9f01892c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

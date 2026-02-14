@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-13T15:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>Supporting Veterans</h2>
 
@@ -90,6 +92,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 45f361be6367f8f1d3ee69f95b1948444c3dbc16
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

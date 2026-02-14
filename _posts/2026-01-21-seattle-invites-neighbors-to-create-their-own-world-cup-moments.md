@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-21T21:05:33+00:00'
+event_ids: []
 feed_content: Three City grant programs open door for community-led arts, culture,
   and recreation events across every neighborhood. When the world comes to Seattle
   for the 2026 FIFA World Cup, the biggest moments will not only happen inside the
   stadium. They will ha...
 feed_content_checksum: 4d602b61a0db8809864fea294d3d31876ad84aa9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

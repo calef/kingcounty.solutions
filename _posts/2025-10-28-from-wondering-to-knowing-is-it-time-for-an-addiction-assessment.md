@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-28T15:34:28+00:00'
+event_ids: []
 feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row row\"><div
   class=\"vc_column_container col-md-12\"><div class=\"wpb_wrapper vc_column-inner\">\n\t<div
   class=\"wpb_text_column wpb_content_element\" >\n\t\t<div class=\"wpb_wrapper\">\n\t\t\t<p>It&#8217;s
@@ -140,6 +142,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   Wondering to Knowing: Is It Time for an Addiction Assessment?</a> appeared first
   on <a href=\"https://lakesidemilam.com\">Lakeside-Milam Recovery Centers</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Lakeside-Milam Recovery Centers
 published: false

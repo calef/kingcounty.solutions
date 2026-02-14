@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-17T16:03:48+00:00'
+event_ids: []
 feed_content: |-
   <div>
   <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/12/16121125/TitanStarurn-750x596.jpg">
@@ -45,6 +47,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 4c06ec9b7dbf3473387cafa9c20ffb3675a6e1ea
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

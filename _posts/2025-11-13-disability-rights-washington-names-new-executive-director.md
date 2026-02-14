@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-13T19:06:19+00:00'
 event_ids: []
 events_extracted: true
@@ -128,6 +129,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   Rights Washington Names New Executive Director</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

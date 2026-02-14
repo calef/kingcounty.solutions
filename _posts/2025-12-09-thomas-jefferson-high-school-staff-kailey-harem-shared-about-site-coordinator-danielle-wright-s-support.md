@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-09T07:44:09+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>You just read <a>Thomas Jefferson High School Staff (Kailey Harem) shared about Site Coordinator Danielle Wright’s support</a> on <a>Communities In Schools of South King County</a>.</p>
 feed_content_checksum: 8937cc18847beed2a0e7ec50f623a66a4564e202
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Communities In Schools of South King County

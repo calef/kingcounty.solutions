@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-16T00:26:51+00:00'
+event_ids: []
 feed_content: 'For Immediate Release   January 15, 2026   Contact: Bryan Stevens 
   bryan.stevens@seattle.gov  Seattle Launches “Month of Nisqually Earthquake” 25th
   Anniversary Event Series with Museum of History and Industry (MOHAI) Publi...'
 feed_content_checksum: 683d3a027f456917bbfa6709cabedf224c0310b5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,9 +1,11 @@
 ---
+classified: true
 feed_content: Drawing to select the winner of a prize package for recruiting a new
   member of the Disabled American Veterans.
 feed_content_checksum: d7b6dbd2b955b6b8cec00cab9df497d95b5af700
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Orlando, Florida
 location_titles:
 - King County

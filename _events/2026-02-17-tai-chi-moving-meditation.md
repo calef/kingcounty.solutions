@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T10:00:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1>Tai
   Chi: Moving Meditation</h1> </div> </div> </div> </div> </div> <div> <div> <div>
@@ -103,6 +104,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   </ul> </div> <div> <a>View preferences</a> </div> <div> <ul> <li><a>{title}</a></li>
   <li><a>{title}</a></li> <li><a>{title}</a></li> </ul> </div> </div> </div>"
 feed_content_checksum: 53fd8263b99445c8032852a9f5ae3c94e241367e
+image_checksums: []
 location: Greenwood Senior Center, 525 N. 85th St., Seattle, WA, 98103, United States
 location_titles:
 - King County

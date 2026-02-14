@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-02T19:25:48+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Mayor Wilson Inauguration Speech</a> appeared first on <a>Office of the Mayor</a>.</p>
 feed_content_checksum: dcf08e9949bb6fcc620dd90c95f001cc2d9c8012
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-04T20:46:00+00:00'
 event_ids: []
 events_extracted: true
@@ -118,6 +119,7 @@ feed_content: |-
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/11/committed-to-quality-care-chelons-story/">Committed to Quality Care: Chelon’s Story</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: BrightSpark

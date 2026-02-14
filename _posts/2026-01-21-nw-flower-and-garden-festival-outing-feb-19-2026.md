@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-21T20:13:47+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/01/Nw-Garden-Show-26-1-791x1024.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>Join us for an outing to the 2026 Northwest Flower and Garden Festival! Explore over 20 display gardens, various expert-led sessions and hands on learning activities, and thousands of unique treasures in the garden marketplace. This annual event is perfect for sparking creativity and gathering ideas for beautiful, thriving living spaces. $18 for members, $20 for non-members. RSVPs required. </p>
 feed_content_checksum: be8b2a6bbd28db2a748f0f9a1d85f4ab2ef3bcfc
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

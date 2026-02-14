@@ -1,9 +1,11 @@
 ---
+classified: true
 end_date: '2026-02-19T15:30:00-08:00'
 feed_content: Dr. Emily Knight will present findings on attention and speech perception
   in children with autism and ADHD, including a virtual reality-based training game.
 feed_content_checksum: 625d96f60c345c5c033dfe4a9b6206ff3f65c586
 generated_from_post: true
+image_checksums: []
 location: Haring Center Auditorium
 location_titles:
 - King County

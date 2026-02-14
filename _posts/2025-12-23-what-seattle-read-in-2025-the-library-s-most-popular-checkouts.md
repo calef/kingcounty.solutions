@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-23T18:25:32+00:00'
+event_ids: []
 feed_content: |-
   <p> It’s always fascinating to compile The Seattle Public Library’s top checkouts for the year to get a sense of what’s been on the minds of Seattle’s readers. In 2025, they turned closer to home and explored local voices — perhaps not surprising given the state of national dialogue.</p>
 
@@ -330,6 +332,7 @@ feed_content: |-
   <p><em>This column was <a>originally published</a> in the Seattle Times as part of our monthly column, and is reprinted here with permission.</em></p>
 feed_content_checksum: 0d2879eab35a63e898a04612cffa30e2a549aef5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

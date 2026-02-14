@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-10T13:00:00-07:00'
 feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path/to/json2.js"></script>
   <![endif]--> <!--[if lte IE 9]> <base href="/donation/" /> <![endif]--> <base> <meta>
@@ -98,6 +99,7 @@ feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path
   <!-- End Google Tag Manager (noscript) --> <script></script><script></script>  '
 feed_content_checksum: '0369f817d852c87c67cc4c180a3887da49a09db8'
 image_checksums: []
+images_extracted: true
 location: Ahern Hotel, 300 W Sahara Ave, Las Vegas, NV, 89102
 location_titles: []
 organization_title: Olive Crest
@@ -108,3 +110,4 @@ summarized: true
 title: Power of One | Nevada
 topic_titles: []
 ---
+

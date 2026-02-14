@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-21T17:45:28+00:00'
 event_ids:
 - _events/2027-01-01-launch-of-rapidride-j-line.md
@@ -8,6 +9,7 @@ feed_content: Cross posted from the SDOT Blog Building infrastructure is vital i
   the University District. The RapidRide J...
 feed_content_checksum: 84cf6bab5a92486fdad8ca15c25a239cfd79b43c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

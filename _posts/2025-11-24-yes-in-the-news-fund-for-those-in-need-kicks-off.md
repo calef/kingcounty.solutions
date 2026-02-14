@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-24T21:36:34+00:00'
 event_ids: []
 events_extracted: true
@@ -41,6 +42,7 @@ feed_content: |-
   <p><span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.seattletimes.com/seattle-news/fund-for-those-in-need-kicks-off-as-nonprofits-face-year-like-no-others/">Read the full article on The Seattle Times »</a></span></p>
   <p>The post <a href="https://www.youtheastsideservices.org/yes-in-the-news-fund-for-those-in-need-kicks-off/">YES in the News: Fund for Those in Need kicks off</a> appeared first on <a href="https://www.youtheastsideservices.org">Youth Eastside Services</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Youth Eastside Services

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-16T17:27:15+00:00'
 event_ids: []
 events_extracted: true
@@ -84,6 +85,7 @@ feed_content: |-
   <p>For questions or to request to speak with someone over the phone, email <a>HTFCapacityBuilding@commerce.wa.gov</a>.</p>
 feed_content_checksum: 585958c473d3c57653dbff1d139b0aa483d34af4
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

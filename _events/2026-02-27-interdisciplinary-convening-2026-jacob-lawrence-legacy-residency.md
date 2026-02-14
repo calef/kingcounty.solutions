@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-27T16:30:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <h1> <span>indira allegra: The Book of
   Zero</span> </h1> </div> </div> </div> </div> <div> <div> <div> <div> <div> <div>
@@ -62,6 +63,7 @@ feed_content: "<div> <div> <div> <div> <div> <h1> <span>indira allegra: The Book
   </div> </div> </div>"
 feed_content_checksum: a0c993fe7b56c9fdef7ef3e45e906d95449e6c37
 image_checksums: []
+images_extracted: true
 location: Art Building (ART)
 location_titles:
 - King County

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-15T17:28:48+00:00'
 event_ids: []
 events_extracted: true
@@ -304,6 +305,7 @@ feed_content: |-
   </div><p>The post <a>Your Questions Answered: Inside Our Mobile Clinic</a> first appeared on <a>Care Net of Puget Sound</a>.</p>
 feed_content_checksum: d4a9e1da5eb8fa7a18e39d2fcc37f66c4d7977fd
 image_checksums: []
+images_extracted: true
 location_titles:
 - Auburn
 - Burien

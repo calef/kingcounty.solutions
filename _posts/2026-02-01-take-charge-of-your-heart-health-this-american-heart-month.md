@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-01T21:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -74,6 +75,7 @@ feed_content: |-
   <p>Learn more about  <a>heart health</a> or contact your local VA health care provider.</p>
 feed_content_checksum: 148631b565e25666fd3f95a115a921737fd64e75
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

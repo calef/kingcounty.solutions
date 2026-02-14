@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-20T20:30:00-07:00'
 feed_content: '<div> <h1>Impact Stories: True Dawgs: A Garfield Story | Film 3</h1>
   <div><div> <div> <div><div><span><span>C</span></span></div></div> <span>By</span><a>Communication
@@ -70,6 +71,7 @@ feed_content: '<div> <h1>Impact Stories: True Dawgs: A Garfield Story | Film 3</
   </div> </div></div> <div><div><div>Report this event</div></div></div>'
 feed_content_checksum: 52ffadc564ff9d641acea61c442bac85acea3899
 image_checksums: []
+images_extracted: true
 location: Mary Gates Hall (MGH)
 location_titles:
 - King County

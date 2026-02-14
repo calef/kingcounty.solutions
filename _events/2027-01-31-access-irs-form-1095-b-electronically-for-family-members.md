@@ -1,9 +1,11 @@
 ---
+classified: true
 feed_content: Family members will have the option to access IRS Form 1095-B electronically
   through their own VA.gov accounts.
 feed_content_checksum: dd7f6ac9c7c3a0e98d565627aa67b37ce4d15f74
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

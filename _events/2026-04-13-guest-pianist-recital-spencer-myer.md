@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-13T19:30:00-07:00'
 feed_content: "<div> <div> <p>The School of Music keyboard program presents a solo
   piano recital by Spencer Myer, associate professor of music at the Jacobs School
@@ -33,6 +34,7 @@ feed_content: "<div> <div> <p>The School of Music keyboard program presents a so
   </div>"
 feed_content_checksum: fe74af9aa9d2b47e7519a4daedd28ec93e58e2d2
 image_checksums: []
+images_extracted: true
 location: Music Building (MUS)
 location_titles:
 - King County

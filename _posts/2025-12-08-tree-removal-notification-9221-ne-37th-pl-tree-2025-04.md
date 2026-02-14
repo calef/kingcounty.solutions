@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-08T17:05:09+00:00'
+event_ids: []
 feed_content: |-
   <p><img src="https://yarrowpointwa.gov/wp-content/uploads/2025/12/Tree-Posting-Notice-TREE-2025-04-Page-1-scaled.jpg"></p>
   <p><img src="https://yarrowpointwa.gov/wp-content/uploads/2025/12/Tree-Posting-Notice-TREE-2025-04-Page-2-scaled.jpg"></p>
 feed_content_checksum: 053ef7b74cac81050d9cd4555c9022a31762f7ca
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-31T17:53:47+00:00'
+event_ids: []
 feed_content: Seattle (Dec. 31, 2025) – Today, City Attorney Ann Davison released
   the 2025 Annual Report from her office, detailing successes achieved over the past
   year, as well as significant achievement over the past four years. “When I was elected,
@@ -7,6 +9,7 @@ feed_content: Seattle (Dec. 31, 2025) – Today, City Attorney Ann Davison relea
   Attorney […]
 feed_content_checksum: 3f3e99231cec0995ba1149bba809eb662f6294c2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

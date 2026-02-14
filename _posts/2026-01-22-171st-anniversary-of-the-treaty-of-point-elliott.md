@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-22T18:30:45+00:00'
+event_ids: []
 feed_content: |-
   <p><a><img src="https://snoqualmietribe.us/wp-content/uploads/2026/01/Website-Image_Jan-22-700x418.jpg"></a></p>
   <p>On January 22, 2026, the Snoqualmie Tribe commemorates the 171st anniversary of the signing of the Treaty of Point Elliott, executed in 1855 between tribes and the United States government.</p>
@@ -8,6 +10,7 @@ feed_content: |-
   <p>Snoqualmie leaders were among 82 representatives from tribes across the region who signed the Treaty of Point Elliott. The Snoqualmie Indian Tribe continues to honor the leadership and wisdom of our ancestors, and we hold to our Treaty of Point Elliott of 1855 and our inherent rights as Snoqualmie.</p>
 feed_content_checksum: ed2c7f14bc7e3dc5bcfe1566a20719d1904641a9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-02T19:30:56+00:00'
+event_ids: []
 feed_content: "<p><img src=\"https://s14621.pcdn.co/wp-content/uploads/2025/12/2026-Love-the-earth-NewYearCard-art-801x566-1-361x255.jpg\"></p><p>At
   Solid Ground, we’re inspired every day by the strength, creativity, and endless
   potential of the youngest people we serve.</p>\n<p><span>So when it came time to
@@ -88,6 +90,7 @@ feed_content: "<p><img src=\"https://s14621.pcdn.co/wp-content/uploads/2025/12/2
   Ground</a>."
 feed_content_checksum: 83c0533bf70386e79d430883e6bd15f1c5f43687
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Solid Ground

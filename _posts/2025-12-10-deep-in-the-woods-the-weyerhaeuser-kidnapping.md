@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-10T21:29:55+00:00'
+event_ids: []
 feed_content: |-
   <p>In 1935, nine-year-old George Weyerhaeuser, heir to one of the wealthiest families in America, is snatched off the street two blocks from his home. The boy is kept manacled in a pit, chained to a tree, and locked in a closet. The perpetrators—a career bank robber, a petty thief, and his 19-year-old Mormon wife—quickly become targets of the biggest manhunt in northwest history. Join author Bryan Johnston as he shares how the caper plays out like a Hollywood thriller with multiple twists and a shocking ending. Free</p>
 
@@ -9,6 +11,7 @@ feed_content: |-
   <p>The post <a>Deep in the Woods: The Weyerhaeuser Kidnapping</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: e9a55bf6462e604ef70cd039d11500a577676f11
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Shoreline Lake Forest Park Senior Activity Center
 published: false

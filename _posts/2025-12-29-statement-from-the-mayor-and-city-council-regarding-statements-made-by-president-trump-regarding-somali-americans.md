@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-29T20:05:59+00:00'
+event_ids: []
 feed_content: |-
   <p>Over 30 years ago, the City of Tukwila and South King County began welcoming Somali refugees to our community. Many were fleeing famine, war, and instability and like so many people around the world, looked to the United States for safety and a place to begin their American journey. Tukwila became that place for many.</p>
   <p>We were deeply disappointed and disturbed by President Trump’s recent hateful and divisive remarks about Somali Americans living in Minnesota.</p>
@@ -12,6 +14,7 @@ feed_content: |-
   <p>The post <a>Statement from the Mayor and City Council regarding statements made by President Trump regarding Somali-Americans</a> appeared first on <a>City of Tukwila</a>.</p>
 feed_content_checksum: 59acb776f9d2a822e3db4f909dc66c9cfcdc3662
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Tukwila

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-07T02:06:51+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: 'Weekend Service Impacts Route 2 will have stop #3330 Madrona Dr 
   to construction; Routes 7...'
 feed_content_checksum: 2bb0e46a64b5140bd7600fe934731e63416b9093
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

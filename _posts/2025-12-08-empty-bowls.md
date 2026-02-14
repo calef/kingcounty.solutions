@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-08T21:44:00+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_110459
 feed_content_checksum: 1d84e9f551932d1da5dd031840d07c26abfca17d
 image_checksums:
 - 44877d7cada0d86143d48f054c47e8b98bedd94d528e1b2720e007366b7766ac
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Burien

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-16T12:30:00+00:00'
 feed_content: "<div> <div> <div> <div> <div> <ul> <li> <a> <span>Facebook</span> </a>
   </li> <li> <a> <span>Instagram</span> </a> </li> <li> <a> <span>LinkedIn</span>
@@ -34,6 +35,7 @@ feed_content: "<div> <div> <div> <div> <div> <ul> <li> <a> <span>Facebook</span>
   </div> </div> </div> </div> </div> </div> </div> </div>"
 feed_content_checksum: bbb6d66e25f530c00814d1e20aad3a2fa840c69c
 image_checksums: []
+images_extracted: true
 location: 'Works from the heART, LLC, 301 West North Bend Way #Suite 100A, North Bend,
   WA, 98045'
 location_titles:

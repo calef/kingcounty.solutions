@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-10T01:50:01+00:00'
+event_ids: []
 feed_content: |-
   <p>Due to the current flooding situation and continuing weather event, emergency information is being shared by the cities of Algona, Auburn and Pacific.  Please use the links below for detailed information for your city.</p>
   <p>City of Algona Website: <a>https://www.algonawa.gov/news_detail_T2_R57.php</a></p>
@@ -10,6 +12,7 @@ feed_content: |-
   <p>The post <a>Emergency Flood Information Links for Algona, Auburn and Pacific</a> appeared first on <a>Valley Regional Fire Authority (VRFA)</a>.</p>
 feed_content_checksum: 43ec4fec1a9cbc51fe5ac45d12cf99fc50a8fb81
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Valley Regional Fire Authority
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-16T06:45:38+00:00'
 event_ids: []
 events_extracted: true
@@ -22,6 +23,7 @@ feed_content: |-
   </div>
 feed_content_checksum: dfc2bb3f028f6f3a26a0f67968eafbfbaca522aa
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Children's Therapy Center

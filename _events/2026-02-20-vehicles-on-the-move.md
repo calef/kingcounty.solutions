@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-20T16:00:00-08:00'
 feed_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</span>
   </div> </div> </div> </div> </header> <div> <section> <div> <p> <a> « All Events</a>
@@ -29,6 +30,7 @@ feed_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</sp
   have Successfully Subscribed!</h2> </div> </div> </div> </div> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://normandyparkwa.gov/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1"}}
   </script>
 feed_content_checksum: 0a7cccce065a802cfc660494fd8e6d2caeabf6d1
+image_checksums: []
 location: City Hall – Normandy Park, 801 SW 174th Street, Normandy Park, WA, 98166,
   United States
 location_titles:

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-22T17:40:33+00:00'
 event_ids: []
 events_extracted: true
@@ -45,6 +46,7 @@ feed_content: "<p class=\"\">For Keisha, a single mom of three, stability meant 
   like Keisha's\n  </a>"
 image_checksums:
 - 68ee3e88914cd2fbe6d75610b050fd085e233bbfb83d44796138d4ada80d85cc
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

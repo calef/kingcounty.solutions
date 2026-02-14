@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T19:12:02+00:00'
 event_ids:
 - _events/2026-01-12-two-lane-reduction-on-northbound-i-5.md
@@ -9,6 +10,7 @@ feed_content: 'Blog stats: 1,000 words | 5-minute read At-a-glance: WSDOT’s 20
   wee...'
 feed_content_checksum: '087340de3e852d5d79a2cf83134db6a58be38fe7'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

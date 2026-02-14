@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T21:36:02+00:00'
 event_ids: []
 events_extracted: true
@@ -44,6 +45,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   post <a>Care Coordination Training Pilot Program</a> appeared first on <a>UW IHDD</a>.</p>"
 feed_content_checksum: 1577a7afffc880b635abbf0cbf1e84a6147b0c31
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

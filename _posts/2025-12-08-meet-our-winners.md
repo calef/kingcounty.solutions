@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-08T19:02:21+00:00'
 event_ids: []
 events_extracted: true
@@ -59,6 +60,7 @@ feed_content: |-
   <p>The post <a>Meet our winners</a> appeared first on <a>Eastside Legal Assistance Program</a>.</p>
 feed_content_checksum: 729898376a8e86dc5f39a588f64da9d1a84c6d10
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

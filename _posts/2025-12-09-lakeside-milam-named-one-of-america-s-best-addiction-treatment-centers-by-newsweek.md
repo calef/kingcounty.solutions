@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-09T21:44:26+00:00'
 event_ids: []
 events_extracted: true
@@ -178,6 +179,7 @@ feed_content: "<div>\n<div><div><div>\n\t<div>\n\t\t<div>\n\t\t\t<p><b><span>Key
   Newsweek</a> appeared first on <a>Lakeside-Milam Recovery Centers</a>.</p>"
 feed_content_checksum: ae6176146f2c5f9f5255e5ebd81f9323f47a02f4
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lakeside-Milam Recovery Centers

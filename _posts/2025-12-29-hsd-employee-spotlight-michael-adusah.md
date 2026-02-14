@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-29T17:29:28+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Michael Adusah first joined the Human Services Department in March
   What is your […]
 feed_content_checksum: 4ffd8cea59416dcede91a8c62b8c2ba2f0ab59b3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

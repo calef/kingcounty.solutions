@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-15T10:19:49-07:00'
+event_ids: []
 feed_content: <div><p paraid="1576460122" paraeid="{51d93b13-642c-4426-9f77-65d22a5226e3}{56}">Pacific
   Northwesterners tend to either endure or embrace “The Big Dark” as a point of pride,
   but this winter our long slog of limited daylight will feel just a little brighter
@@ -7,6 +9,7 @@ feed_content: <div><p paraid="1576460122" paraeid="{51d93b13-642c-4426-9f77-65d2
   fact, if you’re a regular 1 Line rider, you’ve probably already noticed lighting
   upgrades at some of Seattle’s downtown stations — they’re hard to miss!&nbsp;&nbsp;</p></div>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Sound Transit
 published: false

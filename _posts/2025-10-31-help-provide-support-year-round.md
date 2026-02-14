@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-31T04:04:10+00:00'
 event_ids: []
 events_extracted: true
@@ -63,6 +64,7 @@ feed_content: |-
   <p>The post <a href="https://www.brightspark.org/2025/10/help-provide-support-year-round/">Help Provide Support Year-Round!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
 image_checksums:
 - b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
+images_extracted: true
 location_titles:
 - King County
 organization_title: BrightSpark

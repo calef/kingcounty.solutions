@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-19T08:39:28+00:00'
 event_ids: []
 events_extracted: true
@@ -24,6 +25,7 @@ feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 60
   These challenges make it difficult for students &#8230;'
 image_checksums:
 - b0e997764bd3bd8c5c5616c633329a4980ea252a94a50a24acf4e3b589e77f8f
+images_extracted: true
 location_titles:
 - King County
 organization_title: Shoreline Community College

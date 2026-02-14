@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-07T16:22:13+00:00'
+event_ids: []
 feed_content: |-
   <p>Hello AFW Command Pilots, specifically IFR-rated Command Pilots. OK, so I feel bad for all the VFR-only Angel Flight Command Pilots, as this article doesn’t apply to you (unless it encourages you to get your instrument rating!).</p>
 
@@ -63,6 +65,7 @@ feed_content: |-
 
   <p></p><p>The post <a href="https://angelflightwest.org/news/advantages-of-filing-ifr-for-afw-missions/">Advantages of Filing IFR for AFW Missions</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Angel Flight West
 published: false

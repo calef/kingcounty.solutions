@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-22T18:44:47+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: Dear Friend of LIHI, We wish you and your family Happy Holidays! W
   people a...
 feed_content_checksum: cbe31aa5c8a900b732918f09ac37f745f03e4215
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

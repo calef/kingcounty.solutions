@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-11T17:22:43+00:00'
+event_ids: []
 feed_content: |-
   By Steven Schauer, Deputy Executive Director
 
@@ -82,6 +84,7 @@ feed_content: |-
 
   The post [Honoring a Legacy: 2025 Steve Bleifuhs Memorial Flood Reduction Grant Program](https://kingcountyfloodcontrol.org/honoring-a-legacy-2025-steve-bleifuhs-memorial-flood-reduction-grant-program/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: King County Flood Control District
 published: false

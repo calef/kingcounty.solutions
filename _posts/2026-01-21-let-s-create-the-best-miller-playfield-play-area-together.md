@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-21T23:59:53+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Please Join Us! Saturday, January 31st Seattle Parks and Recreatio
   11 AM  &amp;#8211...
 feed_content_checksum: 908f9fd90670e2e3e8a9ebbf2111645a69d88a19
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

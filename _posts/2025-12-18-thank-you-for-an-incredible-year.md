@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-18T18:26:21+00:00'
+event_ids: []
 feed_content: 2025 has been a year full of opportunities for our organization to show
   up for our community in ways we could never imagine. Multi-Service Center, even
   despite the barriers, twists, and turns continues to show up in service to others.
   It was a year for MSC to continue our strategies toward shifting into what  [...]
 feed_content_checksum: 5841d81e7e0785e569e12e6ca2e997dab30fb655
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Multi-Service Center

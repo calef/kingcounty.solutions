@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-13T16:37:17-08:00'
+event_ids: []
 feed_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div>
   <p><span><span><strong><span><span>NOTICE OF MEETING CANCELED</span></span></strong></span></span></p>
@@ -8,6 +10,7 @@ feed_content: |-
   <p><span><span><span><span>Deborah Estrada, MMC, Deputy City Clerk</span></span></span></span></p>
   <p class="MsoNoSpacing"><span><span><strong><span><span>Notice:</span></span></strong></span></span></p></div></div></div>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Mercer Island
 published: false

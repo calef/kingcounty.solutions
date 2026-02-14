@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-17T15:00:25+00:00'
 event_ids: []
 events_extracted: true
@@ -21,6 +22,7 @@ feed_content: "<p><strong>Position: </strong>Alternate Delivery Driver      �
   on Wheels: Deliver Meals and a Smile in Federal Way!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

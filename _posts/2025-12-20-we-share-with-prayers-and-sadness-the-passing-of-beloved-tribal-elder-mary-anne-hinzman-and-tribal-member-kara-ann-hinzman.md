@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-20T18:47:19+00:00'
+event_ids: []
 feed_content: |-
   <p><span>We share with prayers and sadness </span><span>the passing of a beloved Tribal Elder and a Tribal Member</span></p>
   <h1><span>Mary Anne Hinzman</span></h1>
@@ -19,6 +21,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 3260a36e1dd79b50df14eb917c1f1338f02fe629
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Snoqualmie Indian Tribe

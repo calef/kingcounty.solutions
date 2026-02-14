@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T21:41:11+00:00'
 event_ids: []
 events_extracted: true
@@ -44,6 +45,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   post <a>New ECHO Complex Care Program</a> appeared first on <a>UW IHDD</a>.</p>"
 feed_content_checksum: e7fa6dc71976e86d8068d94dd99c9305b88f8e16
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

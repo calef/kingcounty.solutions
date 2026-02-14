@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-14T23:19:20+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: "<p>A heartwarming thank you for making Rhythms of Resilience an u
   of Resilience Event Recap</a> appeared first on <a href=\"https://casa-latina.org\">Casa
   Latina</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Casa Latina

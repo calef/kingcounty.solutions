@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-21T00:00:00-08:00'
 feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1><strong><font>Tet
   / Lunar New Year Celebration</font></strong></h1> <div> <div><span>February 20</span></div>
@@ -15,6 +16,7 @@ feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> 
   </div> </div>"
 feed_content_checksum: fb72f7b899817b91690d6bb84d59fd4a105cbfcd
 image_checksums: []
+images_extracted: true
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 location_titles:

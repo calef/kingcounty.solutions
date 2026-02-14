@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-16T19:05:14+00:00'
+event_ids: []
 feed_content: |-
   <p><a>Canceled December 16, 2025 Meeting Notice</a></p>
   <p>Notice is hereby given that the regular Town Planning Commission meeting scheduled for Tuesday, December 16, 2025, has been canceled due to the lack of availability of a quorum. The next scheduled meeting of the Planning Commission is a Regular Meeting on Tuesday, January 20, 2026 at 6:00pm at Town Hall.</p>
@@ -7,6 +9,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 5731169888cc89849716d21a2eece7d5b09e43a0
 image_checksums: []
+images_extracted: true
 location_titles:
 - Yarrow Point
 organization_title: Town of Yarrow Point

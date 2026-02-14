@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-06T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -69,6 +70,7 @@ feed_content: |-
   <li>A healthy mind, body and spirit can make coping with stress easier. Check out the <a href="https://mobile.va.gov/appstore" rel="noopener">VA App Store</a> for free apps to support your wellness throughout this holiday season and beyond.</li>
   </ul>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

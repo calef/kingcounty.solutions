@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-21T21:50:06+00:00'
+event_ids: []
 feed_content: |-
   <a href="https://wscenter.org/get-ready-to-boogie-down/"><p>Get ready to boogie down at our far-out 60&#8217;s Dance Party!</p>
 
@@ -7,6 +9,7 @@ feed_content: |-
 
   <p>Dust off your go-go boots and join us for a groovy night with live DJ music and dancing.<br /><br />Beer, &hellip;</p></a>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: The Center for Active Living
 published: false

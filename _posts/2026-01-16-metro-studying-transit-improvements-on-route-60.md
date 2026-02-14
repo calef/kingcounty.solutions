@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-16T19:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: King County Metro, in collaboration with the Seattle Department of
   service. This bus route runs...
 feed_content_checksum: a805da2da939e5991c62fae9e3dc7432c534ba33
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

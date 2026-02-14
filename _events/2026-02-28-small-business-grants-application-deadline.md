@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Applications for small business grants in several regions, including
   the Pacific Mountain and Olympic Workforce Development Councils, are due.
 feed_content_checksum: 2771bcd414496f5312b50fa9f2c06ae383a2bcf3
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

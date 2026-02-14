@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-11T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -70,6 +71,7 @@ feed_content: |-
   <p>To learn more about telehealth at VA, <a>visit the VA Telehealth Services website</a>.</p>
 feed_content_checksum: 45109a3d9f9df4af71c0064edd8ca670ff9bc8de
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

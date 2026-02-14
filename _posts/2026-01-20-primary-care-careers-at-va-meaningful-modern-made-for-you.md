@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-20T21:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -50,6 +51,7 @@ feed_content: |-
   <p>If you’re all about Veterans like we are, consider a rewarding primary care career at VA. Learn more about working at VA on <a>VA Careers</a>. </p>
 feed_content_checksum: 4fc316c2220f784728f9fac06969e36d5dbb2c03
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-23T23:06:50+00:00'
 event_ids: []
 events_extracted: true
@@ -73,6 +74,7 @@ feed_content_checksum: 55c04e4c45c47ccd5fa4f52190bd39053f073699
 image_checksums:
 - 28a183c50df92609b38713e39f503b168cd6ce8f0c8106d9f9a0c31c12757b01
 - b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
+images_extracted: true
 location_titles:
 - King County
 organization_title: BrightSpark

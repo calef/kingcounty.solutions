@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-06T23:15:45+00:00'
+event_ids: []
 feed_content: 'From block parties to public art, park upgrades to cultural celebrations,
   some of Seattle’s most beloved spaces start the same way: with neighbors who care
   and an idea worth building together. Seattle Department of Neighborhoods (DON) is
   accepting appl...'
 feed_content_checksum: 9879d6344cd579086665d00a34bd0da5a82d33c5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

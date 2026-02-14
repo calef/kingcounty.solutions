@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-07T09:37:44-08:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: <div><p paraid="896395732" paraeid="{6a4ef9ca-33ba-45e7-81b2-c3559
   because we’re making big investments to make it easier to take Sounder, Sound Transit’s
   popular regional train service that celebrated its 25th anniversary this fall.</p></div>
 image_checksums: []
+images_extracted: true
 location_titles:
 - South King County
 organization_title: Sound Transit

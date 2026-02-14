@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-07T18:23:54+00:00'
 event_ids:
 - _events/2026-06-06-rbc-race-for-the-kids.md
@@ -87,6 +88,7 @@ feed_content: "<div>\n\t\t\n\t\t\t\n<div>\n\t<div>\n<span><span></span></span><h
   post <a>Event FAQs</a> appeared first on <a>Boyer Children's Clinic</a>.</p>"
 feed_content_checksum: 29422b8281c681a40b9fb6432a8e79409bfeafcd
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Boyer Children's Clinic

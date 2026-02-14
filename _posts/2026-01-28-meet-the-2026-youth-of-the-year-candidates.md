@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-28T01:15:08+00:00'
+event_ids: []
 feed_content: |-
   <p>Meet the 11 incredible Youth of the Year candidates. Each of these teens has showcased and embodied the mission and values of Boys &amp; Girls Club of King County at the Clubs and in the community.<a><strong> Join us for the celebration on January 31 starting at 2 p.. at Smilow Rainier Vista.</strong></a></p>
   <p> </p>
@@ -13,6 +15,7 @@ feed_content: |-
   <p>The post <a>Meet the 2026 Youth of the Year Candidates</a> appeared first on <a>Boys &amp; Girls Clubs</a>.</p>
 feed_content_checksum: bab5365776b0f8292778b97f9c0fa541d0241264
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Boys & Girls Clubs of King County

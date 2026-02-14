@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-07T19:00:00-07:00'
 feed_content: "<header> <div> <div> <h1> <span>WELCOME SESSION | SOUTHERN CALIFORNIA</span>
   </h1> <div><div><div> <span>May 7 @ 6:00 pm</span> - <span>7:00 pm</span> </div></div></div>
@@ -27,6 +28,7 @@ feed_content: "<header> <div> <div> <h1> <span>WELCOME SESSION | SOUTHERN CALIFO
   </span> </li> </ul> </div> </div> </div> </div> </div> </div> </div> </div>"
 feed_content_checksum: b3a9eae8239f1b8433f57d6eada626c66a3dd794
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Olive Crest

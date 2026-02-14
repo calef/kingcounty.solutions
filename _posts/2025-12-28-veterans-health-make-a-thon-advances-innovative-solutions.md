@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-28T21:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -208,6 +209,7 @@ feed_content: |-
   <p>With over 4,980 person-hours of training already delivered through mentorship and active learning, these teams exemplify VA’s commitment to innovation that improves Veteran health outcomes and operational efficiency.</p>
 feed_content_checksum: 31d57a3c853b62ed3c5cbef1b8dcd0fce87f1969
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

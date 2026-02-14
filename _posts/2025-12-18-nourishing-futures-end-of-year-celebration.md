@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-18T09:15:33+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: This month, Friends of Youth hosted our first End-of-Year Celebrat
   our vision of a future  where every Friends of Youth young person and family experiences...
 feed_content_checksum: 8174a52af1cd18b9a069058ebdaf92eb7aa91e55
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Friends of Youth

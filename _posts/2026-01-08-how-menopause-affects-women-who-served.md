@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T23:59:09+00:00'
 event_ids: []
 events_extracted: true
@@ -131,6 +132,7 @@ feed_content: "<div>\n\n    \n    <figure><img src=\"https://www.dav.org/wp-cont
   post <a>How menopause affects women who served</a> appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: 8e2edcc9e59f348ede8f37cc21f9c39e755e14ec
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

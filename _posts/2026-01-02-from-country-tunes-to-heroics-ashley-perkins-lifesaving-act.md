@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-02T15:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>Lifesaving help never stops</h2>
 
@@ -52,6 +54,7 @@ feed_content: |-
   <p>It’s a powerful reminder of the value that lifesaving skills hold, and how being prepared can make all the difference in moments of crisis. Her story is a testament that everyday people can save lives. Heroes can emerge where we least expect them—sometimes, even amidst the nostalgic notes of an old country song.</p>
 feed_content_checksum: 9b8de3833b2b48437580f16007bf94be65103010
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

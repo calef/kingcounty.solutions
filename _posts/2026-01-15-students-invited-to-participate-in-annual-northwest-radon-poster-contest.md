@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-15T19:03:42+00:00'
+event_ids: []
 feed_content: "<span>Students invited to participate in annual Northwest Radon Poster
   Contest</span>\n\n            <div>\n<time>January 15, 2026 - 10:57am</time>\n</div>\n
   \     <span><span>stevie.mathieu…</span></span>\n<span><time>January 15, 2026 -
@@ -42,6 +44,7 @@ feed_content: "<span>Students invited to participate in annual Northwest Radon P
   media</a>.</p>\n\n<p>###</p>\n</div>"
 feed_content_checksum: 045ffdb9ec86da1fbf0679213a8804400d4e0325
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

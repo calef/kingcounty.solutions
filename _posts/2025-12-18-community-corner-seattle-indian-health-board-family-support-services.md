@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-18T19:30:32+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Community Corner highlights the work of Seattle Human Services’ 
   Jordan Neto...
 feed_content_checksum: b66722ad5fd7d12247a061156d56c8348879bba1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

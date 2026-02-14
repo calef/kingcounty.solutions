@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T14:00:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <li><a>Login</a></li>
   <li><a>Volunteer</a></li> <li><a>DONATE</a></li> </ul></div></div> </div> </div>
@@ -12,6 +13,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
   am - 2:00 pm </div> </span> </li> </ul> </div> <div> <h2> Venue </h2> <ul> <li>
   Bothell, WA, USA </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 950b01045d7f15c7362889d1bdf829d3a9a07004
+image_checksums: []
 location: Bothell, WA, USA
 location_titles:
 - Bothell

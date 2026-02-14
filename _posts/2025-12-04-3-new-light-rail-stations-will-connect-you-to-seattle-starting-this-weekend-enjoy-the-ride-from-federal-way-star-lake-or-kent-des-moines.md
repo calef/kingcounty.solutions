@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-04T00:06:03+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: 'Blog stats: 250 words &#124; 2-minute read Seattle, get ready! So
   three new 1 Line stations in the greater Seattle area on Saturday, December 6. While
   the Seattle...'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T16:19:04+00:00'
 event_ids: []
 events_extracted: true
@@ -54,6 +55,7 @@ feed_content: "<span>The West Coast Health Alliance continues to recommend vacci
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: e6b17348c437b8753d2a0156e7ba98e184ba8a25
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

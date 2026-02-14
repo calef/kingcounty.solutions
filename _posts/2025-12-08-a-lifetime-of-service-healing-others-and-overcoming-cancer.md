@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-08T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -110,6 +111,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 034ac67d46e8f4534386e537c687f7f148d78765
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

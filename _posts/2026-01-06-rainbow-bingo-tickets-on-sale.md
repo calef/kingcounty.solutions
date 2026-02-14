@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-06T18:26:22+00:00'
+event_ids: []
 feed_content: |-
   <a><p>Our first Rainbow Bingo of the year is next week, and it’s a fun theme… Gilligan’s Luau. </p>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>Think your favorite classic TV show + the Hawaiian aloha spirit. Perfect way …</p></a>
 feed_content_checksum: 682ac0d77e1a3b8d1800b9a0469de4049be41bb2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Center for Active Living

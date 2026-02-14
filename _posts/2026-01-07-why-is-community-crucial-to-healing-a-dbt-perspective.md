@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-07T15:43:55+00:00'
 event_ids: []
 events_extracted: true
@@ -29,6 +30,7 @@ feed_content: |-
   <p>If you’re ready to get started, <a><span>contact our team today.</span></a></p>
 feed_content_checksum: bc046f24f5ff40728494b828c27e4dd9cb7e01cd
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: THIRA Health

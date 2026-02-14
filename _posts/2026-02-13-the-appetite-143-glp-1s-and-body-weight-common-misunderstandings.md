@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-13T22:05:48+00:00'
+event_ids: []
 feed_content: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t<div>\n\t\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t<p></p>\n<p><a>Listen
   here!</a></p>\n<p>GLP-1 medications are everywhere in the conversation about weight—but
   how much do we really understand? In this episode, Dr. Lexi Giblin, Executive Director
@@ -64,6 +66,7 @@ feed_content: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\
   appeared first on <a>Opal: Food + Body Wisdom</a>.</p>"
 feed_content_checksum: 6a014c0e7b71870209f0ef70a5894373a434ea75
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: 'Opal: Food + Body Wisdom'

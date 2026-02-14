@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-25T23:27:27+00:00'
 event_ids: []
 events_extracted: true
@@ -16,6 +17,7 @@ feed_content: "<p>We are pleased to share that <strong>Olivia Ferrel</strong> ha
   <img src=\"https://s.w.org/images/core/emoji/16.0.1/72x72/1f49a.png\" alt=\"\U0001F49A\"
   class=\"wp-smiley\" style=\"height: 1em; max-height: 1em;\" /></p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospitality House

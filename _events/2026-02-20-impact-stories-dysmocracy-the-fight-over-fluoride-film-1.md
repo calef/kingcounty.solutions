@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-20T20:30:00-08:00'
 feed_content: '<div> <h1>Impact Stories: Dysmocracy: The Fight Over Fluoride | Film
   1</h1> <div><div> <div> <div><div><span><span>C</span></span></div></div> <span>By</span><a>Communication
@@ -65,6 +66,7 @@ feed_content: '<div> <h1>Impact Stories: Dysmocracy: The Fight Over Fluoride | F
   </div> </div></div> <div><div><div>Report this event</div></div></div>'
 feed_content_checksum: ceece1e92a7a8e2f2564360cfc573c5bdcc40cf3
 image_checksums: []
+images_extracted: true
 location: Mary Gates Hall (MGH)
 location_titles:
 - King County

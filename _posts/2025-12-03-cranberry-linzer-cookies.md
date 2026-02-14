@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-03T20:11:25+00:00'
+event_ids: []
 feed_content: '<p class="">Recipe shared in partnership with <a href="https://thepantryseattle.com/"
   target="_blank"><em>The Pantry Seattle</em></a></p><p class="">Recipe adapted from
   Heather Newton</p><p class="">Yield: 24 cookies </p><h3>Ingredients </h3><h4><strong>Cookies:
@@ -30,6 +32,7 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   amount of the cranberry filling onto one side of the bottom half of a cookie. Place
   the top half of the cookie on top of the cranberry filled side. </p>'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Rainier Valley Food Bank
 published: false

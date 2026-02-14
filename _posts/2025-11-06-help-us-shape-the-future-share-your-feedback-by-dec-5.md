@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-06T13:10:00-08:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: <div><p paraid="260982536" paraeid="{d5cba2c4-b8cd-4807-ab49-ea24a
   paraid="260982536" paraeid="{d5cba2c4-b8cd-4807-ab49-ea24a892632b}{11}"><a href="https://thepollingplace.qualtrics.com/jfe/form/SV_bE2H4G9LBkmqNoO"
   target="_blank" rel="noreferrer noopener">Take the survey here!</a></p></div>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Transit

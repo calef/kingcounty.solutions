@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-23T17:40:33+00:00'
+event_ids: []
 feed_content: Rooted in Roosevelt community celebration As any non-profit, community
   organization, or motivated group of neighbors know, a little bit can go a long way.
   That is certainly the case when it comes to the Small Sparks Fund grants. Part of
   the Neighborhoo...
 feed_content_checksum: 85c0aaab97d86740a96de5f4b77ab3aa1ecf7f37
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

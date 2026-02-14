@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-15T18:15:32+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Zuhoor joined the MSC team in 2023 and serves as a Community Outre
   appropriate support to newly arrived refugees and immigrants. Clients often face
   significant challenges as they adjust to life  [...]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Multi-Service Center

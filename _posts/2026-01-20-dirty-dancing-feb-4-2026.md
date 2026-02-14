@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-20T22:12:57+00:00'
+event_ids: []
 feed_content: |-
   <ul>
   <li>
@@ -14,6 +16,7 @@ feed_content: |-
   <p>1987 American romantic drama dance film starring Patrick Swayze and Jennifer Grey. about letting go of strict societal norms and letting the music embrace you. You dance and feel the beat as opposed to observing rules and steps.</p>
 feed_content_checksum: 41d778736e133888d3178e06fb3d91764a0e7064
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

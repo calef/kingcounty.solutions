@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-09T15:00:00-08:00'
+event_ids: []
 feed_content: |-
   <div>
   <p>The opening day celebration for the 1 Line extension to Federal Way on Saturday, Dec. 6, was a full-day event!</p>
@@ -7,6 +9,7 @@ feed_content: |-
   </div>
 feed_content_checksum: bac471ee3fa1e9e9b307363f6cb4a4f147bf0531
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Sound Transit
 published: false

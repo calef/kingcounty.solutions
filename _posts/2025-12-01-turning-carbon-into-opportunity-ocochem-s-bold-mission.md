@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-01T16:23:14+00:00'
+event_ids: []
 feed_content: |-
   <h2 class="wp-block-heading">From a home garage to a technology powerhouse</h2>
 
@@ -97,6 +99,7 @@ feed_content: |-
 
   <p>Visit the <a href="https://ocochem.com/">OCOchem website</a> to learn more about the company and its mission.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

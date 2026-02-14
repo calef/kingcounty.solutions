@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-04T18:08:12+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: As the days grow shorter and the air turns crisp, November invites
   the other hand, is like taking a detour in the best possible direction. It doesn’t
   erase...
 image_checksums: []
+images_extracted: true
 location_titles:
 - Eastside
 organization_title: Eastside Friends of Seniors

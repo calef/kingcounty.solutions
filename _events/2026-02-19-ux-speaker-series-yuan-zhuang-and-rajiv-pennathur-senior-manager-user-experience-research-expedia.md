@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-19T17:20:00-08:00'
 feed_content: "<div> <section> <section> <header> <h1> <span>UX Speaker Series</span>
   </h1> </header><div> <article> <div> <div> <p> </p> <p>Each winter, the Department
@@ -50,6 +51,7 @@ feed_content: "<div> <section> <section> <header> <h1> <span>UX Speaker Series</
   our Mailing List</a></p> </div> </div> </section> </aside> </div>"
 feed_content_checksum: 4abc4aa2febd19c288c9e9269763ee31a3491c3b
 image_checksums: []
+images_extracted: true
 location: Sieg Building (SIG)
 location_titles:
 - King County

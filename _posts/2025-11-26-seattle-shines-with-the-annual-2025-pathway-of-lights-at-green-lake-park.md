@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-26T20:46:07+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: This annual tradition returns to Green Lake on Saturday, December 
   of Lights, a FREE winter event for the whole family! On Saturday, December 13, 2025,
   from 4:30-...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

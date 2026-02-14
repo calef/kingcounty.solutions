@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Date by which applicants will be notified of their award status for
   the I/DD Student Stipend Program.
 feed_content_checksum: 3d49fb917d22656027ee0a4f211f2c3e21688d0f
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

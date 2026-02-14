@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-14T07:52:37+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: 'Hello, This is King County Emergency Management. As of Saturday e
   This includes areas of: 1. City of Kent from Green river to south 277th […]'
 feed_content_checksum: 3ab01795248b450cedb5e209f96a6d9de0995b01
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

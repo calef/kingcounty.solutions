@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-08T17:04:04+00:00'
+event_ids: []
 feed_content: |-
   <div>
   <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/01/05145952/Seattle_Central_Library_Interior.jpg">
@@ -63,6 +65,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: a598bd1f800401178d8429fddca3a83d54e0adae
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

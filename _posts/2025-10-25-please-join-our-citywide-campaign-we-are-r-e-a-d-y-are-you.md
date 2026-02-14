@@ -1,8 +1,11 @@
 ---
+classified: true
 date: '2025-10-25T00:06:00+00:00'
+event_ids: []
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/READY2024.JPG"
   />
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Auburn
 published: false

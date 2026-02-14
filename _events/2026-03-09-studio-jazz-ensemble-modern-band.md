@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-09T19:30:00-07:00'
 feed_content: "<div> <div> <p> </p> <p>The Studio Jazz Ensemble (Jacob Zimmerman,
   director) and Modern Band (Greg Sinibaldi, director) present a shared program of
@@ -17,6 +18,7 @@ feed_content: "<div> <div> <p> </p> <p>The Studio Jazz Ensemble (Jacob Zimmerma
   Jennings - guitar</p> <h2>Biographies</h2> </div> </div>"
 feed_content_checksum: c3945259497a89b888b2b268d13280f4143184a5
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

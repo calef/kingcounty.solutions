@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-02T21:03:00+00:00'
 event_ids: []
 events_extracted: true
@@ -60,6 +61,7 @@ feed_content: "<p><a><strong>Your gift today</strong></a><strong> makes a direct
 feed_content_checksum: 93f85140b0f9750b9593f1106d2e4037d5e810a4
 image_checksums:
 - f55c4aeb9c4bc72fe180a9edf7b7ae2ae9a21baed592a41042329223973105fd
+images_extracted: true
 location_titles:
 - King County
 organization_title: Essentials First

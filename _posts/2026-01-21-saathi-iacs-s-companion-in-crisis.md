@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-21T21:44:56+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: 'Where Help Finds You: Saathi, IACS’s Companion in Crisis In “
   Companion in Crisis</span></a></p>'
 feed_content_checksum: 113e34d1e660cd47d0432f119a97b6167ab9a3c6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Indian American Community Services

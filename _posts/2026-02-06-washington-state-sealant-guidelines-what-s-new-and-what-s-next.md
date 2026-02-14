@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-06T21:28:24+00:00'
 event_ids: []
 events_extracted: true
@@ -111,6 +112,7 @@ feed_content: |-
   <p>The post <a>Washington State Sealant Guidelines: What’s New and What’s Next</a> appeared first on <a>Arcora Foundation</a>.</p>
 feed_content_checksum: 51d9fbea425f634248bfbac50f61002bfa74f373
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Arcora Foundation

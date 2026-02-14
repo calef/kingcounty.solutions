@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-13T01:59:42+00:00'
+event_ids: []
 feed_content: Weekend Service Impacts Routes 226, 250, 271, 981, ST 550, ST 566 and
   RapidRide B Line are rerouted and will not serve stops inside the Bellevue Transit
   Center due to an...
 feed_content_checksum: 5e032ab47fe3cab694c64601d3c191c6cb7f57d8
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-10T22:37:16+00:00'
 event_ids: []
 events_extracted: true
@@ -84,6 +85,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_5 blog-post-type et_sect
   on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 image_checksums:
 - 418dcd99cbbb28502ade967ed693d63ea82a542575b304600572819766bdad2c
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lutheran Community Services Northwest

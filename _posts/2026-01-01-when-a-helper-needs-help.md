@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-01T14:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -75,6 +76,7 @@ feed_content: |-
   <p>The post <a>When a Helper Needs Help</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: a16895b80572f5a3b57e93b86eed24a280c970e0
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Operation Homefront

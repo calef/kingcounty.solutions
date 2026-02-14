@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-25T18:05:19+00:00'
 event_ids: []
 events_extracted: true
@@ -31,6 +32,7 @@ feed_content: |-
   <p>The post <a href="https://www.compasshousingalliance.org/2025/11/i-penalized-myself-by-keeping-it-in/">&#8220;I penalized myself by keeping it in.&#8221;</a> appeared first on <a href="https://www.compasshousingalliance.org">Compass Housing Alliance</a>.</p>
 image_checksums:
 - 3a309fc1d9633eeeed828078067f5701396d06366e7f979a5d3c77ac579a7331
+images_extracted: true
 location_titles:
 - King County
 organization_title: Compass Housing Alliance

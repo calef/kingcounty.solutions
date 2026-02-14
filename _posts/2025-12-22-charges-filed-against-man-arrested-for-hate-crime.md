@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-22T21:35:25+00:00'
+event_ids: []
 feed_content: The King County Prosecuting Attorney’s Office (KCPAO) filed criminal
   charges against a 30-year-old man following his arrest for a hate crime ten days
   ago. On Dec. 12, at about 9:30 p.m., patrol officers responded to reports of threats
   against a religio...
 feed_content_checksum: e38728a1271da671a44fe3cecef4da9649ad50ce
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

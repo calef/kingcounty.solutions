@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -82,6 +83,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA Hines Health care System site </a> and has been edited for style and clarity.  </p>
 feed_content_checksum: d444da4d50b2680d10883d07b0d0a9c56178d6b9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

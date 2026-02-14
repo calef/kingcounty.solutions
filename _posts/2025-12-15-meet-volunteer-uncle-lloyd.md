@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-15T18:48:06+00:00'
+event_ids: []
 feed_content: "<a><p>There are so many reasons to love spending time at The Center—but
   one of the best is the people you meet and the stories they share. Someone with
   great stories …</p></a>"
 feed_content_checksum: f74d5a5cc6dad320b341b8f95b3e4d611fa21ae8
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Center for Active Living

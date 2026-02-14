@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-23T00:38:33+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: 'Blog stats: 350 words | 2-minute read Twelves, it all comes down 
   game or your...'
 feed_content_checksum: f24724b423b0d0fa80fad34c834d2b8fe68f49ff
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

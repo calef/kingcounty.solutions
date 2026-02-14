@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-29T19:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>Small food choices can lead to significant health benefits. Whether you want to follow a strict vegetarian diet or add a few plant-based meals to your week, the benefits are undeniable.  </p>
 
@@ -53,6 +55,7 @@ feed_content: |-
 
   <p>If you’re interested in exploring vegetarian cooking or any other nutrition-related topics, contact your <a href="https://www.va.gov/find-locations/" rel="noopener">local VA</a> to speak with a <a href="https://news.va.gov/129475/va-dietitians-food-and-nutrition-experts/">registered dietitian</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

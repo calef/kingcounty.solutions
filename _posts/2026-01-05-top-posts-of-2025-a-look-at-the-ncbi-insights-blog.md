@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-05T16:13:19+00:00'
+event_ids: []
 feed_content: 'As we begin a new year, let’s look back at the top viewed NCBI Insights
   Blog posts of 2025!    In case you missed any of these, check them out: Learn more 
   The NCBI Insights Blog is intended to help you better understand NCBI and our resources,
@@ -7,6 +9,7 @@ feed_content: 'As we begin a new year, let’s look back at the top viewed NCBI 
   <span>Top Posts of 2025: A Look at the NCBI Insights Blog</span> <span>→</span></a>'
 feed_content_checksum: b5802c985fcb9a03e79e227218ce8defa7de7727
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: National Center for Biotechnology Information
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta

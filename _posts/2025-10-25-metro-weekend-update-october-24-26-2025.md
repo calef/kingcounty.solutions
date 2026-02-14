@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-25T01:15:51+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: Weekend Service Impacts Construction Route 8 is rerouted off E De
   Way between Fairview Avenue N and E Olive Way on Saturday, October 25 at 1 a.m.
   to 11 a.m.; Routes...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

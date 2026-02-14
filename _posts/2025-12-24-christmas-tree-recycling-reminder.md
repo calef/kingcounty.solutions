@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-24T16:59:18+00:00'
+event_ids: []
 feed_content: Normandy Park WM customers can recycle their Christmas trees for free
   on Jan. 6 and Jan. 20, 2026. Please follow the guidelines in preparing your Christmas
   tree for pickup. Trees must be clean and...
 feed_content_checksum: 8bde3c777a971018e5bd8d92c4e62ebd5a6fb8c4
 image_checksums: []
+images_extracted: true
 location_titles:
 - Normandy Park
 organization_title: City of Normandy Park

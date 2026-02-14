@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-05T19:36:49+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: |-
   <p>The post <a>CLC Newsletter – January to February 2026</a> appeared first on <a>Chinese Information and Service Center</a>.</p>
 feed_content_checksum: d4e7989dfb648613010f7f8e1a428a4b88e772ce
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Chinese Information & Service Center

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-03T16:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -12,6 +13,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/03/a-new-voice
   designed to make it easier for you to connect with us, no matter what language you
   speak. When you call, you’ll be guided more smoothly to the right [&#8230;]'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Seattle Public Utilities

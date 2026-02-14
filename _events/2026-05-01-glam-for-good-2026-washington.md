@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-01T21:00:00-07:00'
 feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path/to/json2.js"></script>
   <![endif]--> <!--[if lte IE 9]> <base href="/donation/" /> <![endif]--> <base> <meta>
@@ -98,6 +99,7 @@ feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path
   <!-- End Google Tag Manager (noscript) --> <script></script><script></script>  '
 feed_content_checksum: b3343a4124b8d43761835bb0c7e10e2b69c0682b
 image_checksums: []
+images_extracted: true
 location: The Westin Bellevue, 600 Bellevue Way NE, Bellevue, WA, 98004, United States
 location_titles: []
 organization_title: Olive Crest
@@ -108,3 +110,4 @@ summarized: true
 title: Glam for Good 2026 | Washington
 topic_titles: []
 ---
+

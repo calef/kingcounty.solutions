@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-09T11:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><strong><strong><strong>Operation Homefront partners with Dollar Tree to welcome Army veteran to new rent-free home</strong></strong></strong></p>
 
@@ -81,6 +83,7 @@ feed_content: |-
   <p>The post <a>Welcome Army Veteran to New Rent-Free Home </a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: bdb945657c8fb5ed24077a005826e87ebf9eec59
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Operation Homefront
 original_source_html: |-

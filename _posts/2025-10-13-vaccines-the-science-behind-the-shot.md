@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-13T18:08:08+00:00'
+event_ids: []
 feed_content: |-
   <p>Join UW Pharmacist Abby Winter for a discussion on vaccines for older adults, and their importance in maintaining health and preventing serious illness as we age. We will dive into vaccine history and development, discuss how common vaccines work, and touch on what it means for a vaccine to be “effective.”</p>
 
@@ -12,6 +14,7 @@ feed_content: |-
   <p>When: Thursday, 12/11<br>2:15 pm—3:15<br>Location: Craft Room<br>Cost: FREE</p>
   <p>The post <a href="https://shorelinelfpseniorcenter.org/vaccines-the-science-behind-the-shot/">Vaccines: The Science Behind the Shot</a> appeared first on <a href="https://shorelinelfpseniorcenter.org">Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Shoreline Lake Forest Park Senior Activity Center
 published: false

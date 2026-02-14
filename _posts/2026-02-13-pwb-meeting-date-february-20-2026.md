@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-13T23:40:35+00:00'
+event_ids: []
 feed_content: |-
   <p>The Public Works Board’s next meeting is on February 20, 2026 from 8:30 a.m. – 12:30 p.m. This is a hybrid meeting with online Zoom and in-person participation options.</p>
 
@@ -22,6 +24,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: c6745a02f5c8676dcf1f6bbfb4b6bf83673c0f35
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 original_source_html: "\n<!doctype html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<meta

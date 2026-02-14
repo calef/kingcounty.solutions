@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-21T19:57:58+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/01/Lunar-New-Years-26-3-791x1024.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>Join WCSC for a Lunar New Year’s celebration. Bring in your dish of choice to share as we usher in the new year together with food, music, and good company!</p>
 feed_content_checksum: 1e8d1b517b41f64bda8fa1962465b708a6dd6394
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

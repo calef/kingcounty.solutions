@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-10T18:39:17+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Over 500 attendees flooded into McCaw Hall at Seattle Center on Tu
   program hosted by The Seattle Office of Arts &#038; Culture and the Office of Economic
   De...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

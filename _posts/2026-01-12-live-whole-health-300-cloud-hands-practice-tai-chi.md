@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-12T21:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>“The sky is the limit” is a common phrase used to say that we can achieve anything and that our options are limitless. It may not always feel that way, especially on those hard days where everything seems to be going wrong. It can be easy to think that things are impossible rather than possible when we hit even the most minor of roadblocks.</p>
 
@@ -38,6 +40,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: e1ba6d497d11babb2a0cfe6fd76ace59806f5d3a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-24T22:00:00-08:00'
 feed_content: '<div> <div> <header> <div> <div> <div> <div> <span>Select Page</span>
   </div> </div> </div> </div> </header> <div> <section> <div> <p> <a> « All Events</a>
@@ -27,6 +28,7 @@ feed_content: '<div> <div> <header> <div> <div> <div> <div> <span>Select Page</s
   </script>'
 feed_content_checksum: 21a63e8a4b2f5469b5bd1eec0c3c1a9a2e834292
 image_checksums: []
+images_extracted: true
 location: Council Chambers, 801 SW 174th Street, Normandy Park, WA, 98166, United
   States
 location_titles:

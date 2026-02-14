@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-05T14:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Air Force Veteran and Family See Housing Program as Life-Changing</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 
@@ -89,6 +91,7 @@ feed_content: |-
   <p>The post <a>Life-Changing Housing Program for Family</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 24aae33e7b5f62ddf2400f74ac266005c9784053
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Operation Homefront
 original_source_html: |-

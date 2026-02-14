@@ -1,10 +1,12 @@
 ---
+classified: true
 end_date: '2026-03-10T19:30:00-07:00'
 feed_content: "<div> <div> <p> </p> <p>The Modern Music Ensemble (Cristina Valdés,
   director) performs music from the mid-20th century and beyond, including world premieres
   of works by living composers. </p> <h2>Director Biography</h2> </div> </div>"
 feed_content_checksum: e857d1d75f41b634ca75104cfe177b6708b0cf6d
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

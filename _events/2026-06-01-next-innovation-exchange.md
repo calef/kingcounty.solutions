@@ -1,7 +1,9 @@
 ---
+classified: true
 feed_content: The next Innovation Exchange event to promote collaboration and innovation.
 feed_content_checksum: 192799e3b570a9b8c996c57727a6da758152978b
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

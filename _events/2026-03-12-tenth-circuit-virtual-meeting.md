@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-12T15:30:00-04:00'
 feed_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <link> <link>
   <link> <link> <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size:
@@ -7612,6 +7613,7 @@ feed_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <link>
   auto);--awb-rule-style:var(--text_rule_style, i</style>'
 feed_content_checksum: a084a9233b2d3ac9a4cfab62f2ddb3988f6cdef8
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: NOSSCR Referral Service

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-03T16:00:00-08:00'
 feed_content: '<base><link><meta><link><meta><link><script>window.WIZ_global_data
   = {"AfY8Hf":true,"DpimGf":false,"EP1ykd":["/_/*","/accounts/*"],"FdrFJe":"-3839657583918286294","HiPsbb":1,"Im6cmf":"/_/DurableDeepLinkUi","LVIXXb":1,"LoQv7e":false,"MT7f9b":[],"MUE6Ne":"DurableDeepLinkUi","QrtxK":"","S06Grb":"","S6lZl":111881503,"TSDtV":"%.@.[[null,[[45459555,null,false,null,null,null,\"Imeoqb\"],[45453720,null,false,null,null,null,\"GkrBt\"]],\"CAMSEB0JjcK5KQjcpfAECNrGAwg\\u003d\"]]]","UUFaWc":"%.@.null,1000,2]","Vvafkd":false,"b5W2zf":"default_DurableDeepLinkUi","cfb2h":"boq_durabledeeplinkserver_20260209.08_p0","eNnkwf":"","eptZe":"/_/DurableDeepLinkUi/","fPDxwd":[97493658,105739270,105813236],"gGcLoe":false,"hsFLT":"%.@.null,1000,2]","iCzhFc":true,"nQyAE":{"GkrBt":"false"},"p9hQne":"https://www.gstatic.com/_/boq-devplatform/_/r/","qwAQke":"DurableDeepLinkUi","qymVe":"","rtQCxc":480,"u4g7r":"%.@.null,1,2]","vJQk6":false,"w2btAe":"%.@.null,null,\"\",false,null,null,true,false]","xn5OId":false,"xnI9P":true,"xwAfE":true,"y2FhP":"prod","yFnxrf":1884,"zChJod":"%.@.true]"};</script><script>window["_F_toggles_default_DurableDeepLinkUi"]
@@ -150,6 +151,7 @@ feed_content: '<base><link><meta><link><meta><link><script>window.WIZ_global_dat
   ccTick(''bl'');</script>'
 feed_content_checksum: 6eebadec00537847532f45238915ee45703087f2
 image_checksums: []
+images_extracted: true
 location: Room 115 ABC - Perkins Coie Room, School of Law, William Gates Hall, University
   of Washington, 4293 Memorial Way NE, Seattle, WA 98195
 location_titles: []
@@ -161,3 +163,4 @@ summarized: true
 title: Op-Eds for Academics | IN-PERSON Workshop
 topic_titles: []
 ---
+

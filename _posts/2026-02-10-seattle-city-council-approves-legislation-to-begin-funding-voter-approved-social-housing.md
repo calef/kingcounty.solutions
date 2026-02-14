@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-10T23:26:24+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Seattle City Council approves legislation to begin funding voter-approved social housing </a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: b0e5cd166717fc695d65e801a3568b7b2bcc360d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

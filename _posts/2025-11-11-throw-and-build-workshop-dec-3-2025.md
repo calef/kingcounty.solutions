@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-11T17:35:26+00:00'
+event_ids: []
 feed_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/build-outing-791x1024.png" alt="" class="wp-image-3598"/></figure>
 
@@ -7,6 +9,7 @@ feed_content: |-
 
   <p>Join us for a workshop at Throw and Build Pottery Studio! Create holiday luminaries that glow! In this hands-on workshop, you&#8217;ll create and decorate luminaries using clay slabs. Learn basic techniques, then unleash your creativity—make them beautiful or adorable. Add details, carve patterns, and choose your glaze. We&#8217;ll fire your pieces, and you&#8217;ll pick up your finished creations in three weeks. RSVPs required. $33 for members and non-members.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 published: false

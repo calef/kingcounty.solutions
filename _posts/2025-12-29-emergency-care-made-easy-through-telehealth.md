@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-29T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -70,6 +71,7 @@ feed_content: |-
   <p>Veterans can review tele-emergency care options on VA.gov’s <a>Tele-Emergency Care page</a> on VA.gov or through <a>VA Health Connect</a>.</p>
 feed_content_checksum: 15de85921a49379f97e86e418573c9b3f5acde44
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

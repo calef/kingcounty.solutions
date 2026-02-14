@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-11T17:46:09+00:00'
+event_ids: []
 feed_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/Holiday-Tea-2-791x1024.png" alt="" class="wp-image-3605"/></figure>
 
@@ -11,6 +13,7 @@ feed_content: |-
 
   <p></p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 published: false

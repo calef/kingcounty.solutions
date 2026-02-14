@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-06T20:13:39+00:00'
+event_ids: []
 feed_content: |-
   <p><span>We share with prayers and sadness </span><span>the passing of a beloved Tribal Elder</span></p>
   <h1><span>Delores “Dee Dee” Burnell</span></h1>
@@ -19,6 +21,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 5d9725fbec420615f6d645f833e37335ac060138
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Snoqualmie Indian Tribe

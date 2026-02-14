@@ -86,9 +86,9 @@ module Mayhem
           return
         end
 
-        unless record['image_checksums'].nil?
+        if record.images_extracted? == true
           stats[:already_has_images] += 1
-          logger.debug "Skipping #{record_id}: image_checksums already present"
+          logger.debug "Skipping #{record_id}: images already extracted"
           return
         end
 
@@ -118,6 +118,7 @@ module Mayhem
         return if updated_ids == existing_ids
 
         record.image_checksums = updated_ids
+        record.images_extracted = true
         record.save!
         stats[:posts_updated] += 1
         logger.info "Updated #{record_id} with #{collected_ids.length} image IDs"
@@ -129,9 +130,10 @@ module Mayhem
       end
 
       def ensure_empty_image_checksums(record, stats)
-        return if record.image_checksums.empty? && !record['image_checksums'].nil?
+        return if record.images_extracted? == true
 
         record.image_checksums = []
+        record.images_extracted = true
         record.save!
         record_id = record.id
         logger.info "Set empty image_checksums list for #{record_id}"

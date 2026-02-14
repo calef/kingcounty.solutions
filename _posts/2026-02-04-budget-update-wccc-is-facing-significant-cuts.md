@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-04T00:01:36+00:00'
 event_ids:
 - _events/2026-07-01-reimbursement-rate-change-for-child-care-providers.md
@@ -188,6 +189,7 @@ feed_content: |-
   <p>The post <a>Budget Update: WCCC is Facing Significant Cuts</a> appeared first on <a>BrightSpark</a>.</p>
 feed_content_checksum: 11827d7d6c1474c61ad274841191d00e54561fa6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: BrightSpark

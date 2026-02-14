@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-31T17:43:30+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: 'UPDATED: December 31, 2025 12:11 p.m. Beginning Friday, and runni
   […]'
 feed_content_checksum: e00f1076f3ec5a1e3de47b255d9f8d7b1b20ec2d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-07T12:37:55-08:00'
+event_ids: []
 feed_content: <div><p paraid="1603083217" paraeid="{b0b48f72-cdcb-42b9-93e5-f8b282adf60c}{116}">Daylight
   hours are waning, the rains have begun, and there’s a collective sense of battening
   down for winter here in the Pacific Northwest.&nbsp;</p><p paraid="1603083217" paraeid="{b0b48f72-cdcb-42b9-93e5-f8b282adf60c}{116}">Yet
@@ -7,6 +9,7 @@ feed_content: <div><p paraid="1603083217" paraeid="{b0b48f72-cdcb-42b9-93e5-f8b2
   and Seattle across the I-90 floating bridge as crews remain hard at work testing
   the 2 Line’s Crosslake Connection.</p></div>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Sound Transit
 published: false

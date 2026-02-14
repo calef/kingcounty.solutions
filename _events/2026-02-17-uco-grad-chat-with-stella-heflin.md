@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T18:00:00-08:00'
 feed_content: <div> <a>Skip to main content</a> <a>Skip to footer unit links</a> </div>
   <div> <div> <div> <div> <div> <ul> <li> <h1> <a> <span>Program on Climate Change</span>
@@ -57,6 +58,7 @@ feed_content: <div> <a>Skip to main content</a> <a>Skip to footer unit links</a>
   </script> </div>
 feed_content_checksum: a5f6f7d7a91aa428c617b249ee6a4f14c07706de
 image_checksums: []
+images_extracted: true
 location: Savery Hall (SAV)
 location_titles:
 - King County

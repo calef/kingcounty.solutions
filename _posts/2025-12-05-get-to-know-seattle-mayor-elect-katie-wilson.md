@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-05T00:14:00+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: On January 1, 2026, Mayor-elect Katie Wilson will be sworn into of
   prepare for this shift in leadership, we want to give the community an opportunity
   to learn more abou...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

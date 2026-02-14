@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-08T23:26:21+00:00'
+event_ids: []
 feed_content: |-
   <p>The Snoqualmie Indian Tribe seeks to retain the services of a qualified consulting firm to conduct a land development feasibility study for up to three separate parcels of land owned by the Tribe. This project is currently in the pre-construction phase with the scope of services listed below based on the outcome of the studies the Tribe’s intent is to select the parcel that best fits the project needs to move forward to a design and construction phase.</p>
   <p>The overall framework of the feasibility study would be executed within the confines and parameters established by the Snoqualmie Indian Tribe with the anticipated outcomes from the feasibility study being:</p>
@@ -18,6 +20,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 612ee4c899a0b8a1821069641413aab483f2e419
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

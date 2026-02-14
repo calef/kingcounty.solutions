@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-17T00:45:01+00:00'
+event_ids: []
 feed_content: A communally-minded, season-inspired Solstice party Seattle, WA – Enter
   a waking dream as King Street Station is transformed in celebration of the winter
   solstice, Dec. 21, the LONGEST NIGHT of 2025. Curated by Vee Hua 華婷婷&amp;#16...
 feed_content_checksum: 7e48fec0cdff40101f14ef359d1387ee2cf97bdf
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

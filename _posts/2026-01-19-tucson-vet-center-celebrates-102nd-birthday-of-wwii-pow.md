@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-19T15:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>A legendary celebration     </h2>
 
@@ -32,6 +34,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA Southern Arizona Health care System site </a>and has been edited for style and clarity.  </p>
 feed_content_checksum: 75c3e542980cfe30b66aca0d01cca2b85dcab06a
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

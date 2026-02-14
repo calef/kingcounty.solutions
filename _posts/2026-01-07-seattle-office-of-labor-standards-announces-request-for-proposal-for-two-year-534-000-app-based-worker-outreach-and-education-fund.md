@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-07T16:15:32+00:00'
+event_ids: []
 feed_content: 'For Immediate Release Contact InformationCynthia SantanaPhone: 206-256-5219Email:
   cynthia.santana@seattle.gov Seattle Office of Labor Standards Announces Request
   for Proposal for Two Year $534,000 App-Based Worker Outreach and Education Fund
@@ -8,6 +10,7 @@ feed_content: 'For Immediate Release Contact InformationCynthia SantanaPhone: 20
   assistance to […]'
 feed_content_checksum: ac46e76ad2eee31e24d945f703583c68acce42c5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

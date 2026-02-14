@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-13T19:30:00-07:00'
 feed_content: "<div> <div> <p> </p> <p>UW Jazz Studies students perform in small combos
   over two consecutive nights of original tunes, homage to the greats of jazz, and
@@ -6,6 +7,7 @@ feed_content: "<div> <div> <p> </p> <p>UW Jazz Studies students perform in smal
   </div> </div>"
 feed_content_checksum: c4bbb2536e1f64ad9302e18bbace5c787578f2e0
 image_checksums: []
+images_extracted: true
 location: Music Building (MUS)
 location_titles:
 - King County

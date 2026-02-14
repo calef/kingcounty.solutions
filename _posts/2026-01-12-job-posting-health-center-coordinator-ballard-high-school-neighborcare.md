@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-12T17:50:59+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Neighborcare Health is hiring a Health Center Coordinator for the 
   supporting Neighborcare Health’s mission and goals.
 feed_content_checksum: 5b88f7af80d19e34325def752d904ced673a3c76
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

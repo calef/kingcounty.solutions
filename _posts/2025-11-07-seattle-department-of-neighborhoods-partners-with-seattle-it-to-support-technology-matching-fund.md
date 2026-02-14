@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-07T20:30:06+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Seattle Department of Neighborhoods (DON) is excited to announce a
   Matching Fund (TMF) grant program and application process.  This collaboration aims
   to ...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

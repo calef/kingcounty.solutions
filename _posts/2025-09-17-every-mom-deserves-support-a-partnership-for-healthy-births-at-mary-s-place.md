@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-17T23:31:06+00:00'
 event_ids: []
 events_extracted: true
@@ -69,6 +70,7 @@ feed_content: "<p class=\"\">Pregnancy and childbirth can be both beautiful and 
   width=\"854\" frameborder=\"0\" height=\"480\"></iframe>"
 image_checksums:
 - cb5a9635dead2951c8347a6061e3224ed5fc8bd2b7f8aa37e219f4473ec3cdb1
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

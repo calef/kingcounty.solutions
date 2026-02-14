@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-29T21:43:10+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>At this year’s annual Paths to Possibility Gala in San Francisco, Juma’s supporters and staff came together to celebrate the achievements of Juma youth and raise funds in support of [&#8230;]</p>
   <p>The post <a href="https://www.juma.org/2025/09/29/paths-to-possibility-2025-supports-youth-in-their-next-chapters/">Paths to Possibility 2025 Supports Youth in Their Next Chapters</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Juma Ventures

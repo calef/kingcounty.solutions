@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T10:15:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1>Cardio
   Sculpt Dance Fitness Class with Seattle Jazzercise</h1> </div> </div> </div> </div>
@@ -107,6 +108,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   <li><a>{title}</a></li> <li><a>{title}</a></li> </ul> </div> </div> </div>"
 feed_content_checksum: d7df72482488974631dc5efdad0865c9b7634456
 image_checksums: []
+images_extracted: true
 location: 'Phinney Center Campus: Blue (upper) Building, 6532 Phinney Ave. N., Seattle,
   WA, 98103, United States'
 location_titles:

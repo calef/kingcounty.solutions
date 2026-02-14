@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-28T14:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>VA’s Office of Research and Development recently published three <a href="https://www.research.va.gov/news_briefs/default.cfm" rel="noopener">News Briefs</a> highlighting research finding on suicide prevention, blast exposure and a potential new lymphoma treatment.</p>
 
@@ -51,6 +53,7 @@ feed_content: |-
 
   <p>For more Office of Research and Development updates, visit&nbsp;<a href="https://www.research.va.gov/" rel="noopener">ORD online</a>&nbsp;or go to https://www.research.va.gov/news_briefs/.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

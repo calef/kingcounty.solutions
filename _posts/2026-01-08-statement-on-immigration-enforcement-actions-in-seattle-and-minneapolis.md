@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T22:13:15+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Statement on Immigration Enforcement Actions in Seattle and Minneapolis</a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: a75e82302d4ce0727e5c89e20dbd569173cd460d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

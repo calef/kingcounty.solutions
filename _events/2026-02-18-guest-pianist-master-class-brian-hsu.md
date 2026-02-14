@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T16:30:00-08:00'
 feed_content: '<div class="field-items"> <div class="field-item"> <p>Guest pianist
   Brian Hsu, associate professor of music at the University of Oregon, leads a master
@@ -51,6 +52,7 @@ feed_content: '<div class="field-items"> <div class="field-item"> <p>Guest piani
   associate professor of piano at the University of Oregon. Prior to Oregon, he was
   the associate professor at Loyola University New Orleans.</p> </div> </div>'
 image_checksums: []
+images_extracted: true
 location: Music Building (MUS)
 location_titles:
 - King County

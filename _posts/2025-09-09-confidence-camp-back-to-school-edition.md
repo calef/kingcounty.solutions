@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-09T18:54:29+00:00'
 event_ids: []
 events_extracted: true
@@ -68,6 +69,7 @@ feed_content: "![](https://encompassnw.org/wp-content/uploads/2025/09/Confidence
   [Confidence Camp: Back-to-School Edition](https://encompassnw.org/confidence-camp-back-to-school-edition/)
   first appeared on [Encompass](https://encompassnw.org)."
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Encompass

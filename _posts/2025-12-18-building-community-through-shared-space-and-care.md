@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-18T18:31:51+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: At Friends of Youth, we believe community grows stronger when peop
   focused on...
 feed_content_checksum: 859637e4ebfad448a22842b3ade4bff5a846337d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Friends of Youth

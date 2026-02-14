@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-01T13:26:32+00:00'
+event_ids: []
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>One of DAV’s greatest
   strengths is helping veterans with world-class services no matter where they are
   in the country.</p>\n<p>This network of support comes from our benefits advocates—our
@@ -85,6 +87,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>One of DAV’s gr
   Trust funding success begins with the AFR: Tips for departments and chapters </a>
   appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Disabled American Veterans
 published: false

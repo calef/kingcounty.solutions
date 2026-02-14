@@ -1,9 +1,12 @@
 ---
+classified: true
 date: '2025-12-01T17:09:17+00:00'
+event_ids: []
 feed_content: |-
   <p>Along with correspondence about Fire Department business, Fire Chief Frank Stetson’s files also include copies of letters to his son Horatio, who was serving in World War I. The younger Stetson had previously been posted in the Philippines during the Spanish-American War and at the Mexican border with the Washington National Guard. As the new […]</p>
   <p>The post <a href="https://primarysources.seattle.gov/2025/12/01/december-find-of-the-month-letters-to-lt-stetson/">December Find of the Month: Letters to Lt. Stetson</a> appeared first on <a href="https://primarysources.seattle.gov/">Primary Sources</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

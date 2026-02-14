@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-28T23:41:50+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: Every day, hundreds of thousands of riders step onto King County M
   buses and count on a smooth, safe and welcoming ride. For many lucky passengers,
   that ride has been...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

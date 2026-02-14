@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-09T17:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p>In 2023, Seattle voters sent a clear message to City Hall: public safety needs to be a priority. The city returned to its basic charter responsibility of “protecting and enhancing the health, safety, environment, and general welfare of the people.” Nearly two years later, I’m proud to say we’ve worked hard towards to achieving a...</p>
   <p>The post <a>Reclaiming Seattle: Public safety progress is no accident</a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: 017602a6d13f5e751efeb2ffc18200bec2737b21
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

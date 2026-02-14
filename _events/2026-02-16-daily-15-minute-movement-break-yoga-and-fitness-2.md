@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-16T11:15:00-08:00'
 feed_content: "<div> <div> <header> <h3>UW NetID sign-in - Stale Request</h3> </header>
   <div> <p>You may be seeing this page because you used the Back button while browsing
@@ -9,6 +10,7 @@ feed_content: "<div> <div> <header> <h3>UW NetID sign-in - Stale Request</h3> </
   you tried to leave, so this page is presented instead.</p> </div> </div> </div>"
 feed_content_checksum: 35b6b98b892cd0171035cd60691a0a1999a2728e
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

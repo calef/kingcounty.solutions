@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-11T18:02:21+00:00'
+event_ids: []
 feed_content: |-
   <figure class="wp-block-image size-full"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/anita-cross-country.jpg" alt="" class="wp-image-3617"/></figure>
 
@@ -7,6 +9,7 @@ feed_content: |-
 
   <p>Road Trip Across the USA-16 States, 9 National Parks and Monuments, and Crazy Road-Side Attractions.<strong> </strong>In June 2021, Anita embarked on a spirited cross-country road trip that blended scenic exploration with personal reflection. The journey spanned diverse landscapes and quirky roadside attractions, capturing the essence of Americana through her lens. From unexpected detours to charming small towns, Anita highlights her signature blend of humor, curiosity, and appreciation for the open road. Each stop became a snapshot of discovery—whether it was savoring local flavors, reconnecting with nature, or simply embracing the joy of movement.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 published: false

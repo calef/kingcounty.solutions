@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-25T19:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>A colorful approach to raising awareness for important causes</h2>
 
@@ -40,6 +42,7 @@ feed_content: |-
   <p>If you are unable to support campaign awareness financially, consider using creativity to embark on a meaningful journey of advocacy. Thomas Mercado’s creative approach demonstrates how personal gestures can significantly contribute to raising awareness and showing support for important causes.</p>
 feed_content_checksum: 27579226186a528dc2a52a97ba365f52bca82910
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

@@ -42,8 +42,8 @@ module Mayhem
         end
         if event.summarized? == true
           stats[:skipped_already_summarized] += 1
-          needs_location_titles = event['location_titles'].nil?
-          if needs_location_titles
+          needs_classification = needs_classification_for_record?(event)
+          if needs_classification
             summary_text = event.body&.strip || ''
             classified_locations = classify_locations(
               summary_text,
@@ -52,6 +52,7 @@ module Mayhem
               content_source: event.organization_title
             )
             event.location_titles = classified_locations
+            event.classified = true
 
             if classified_locations.empty?
               @pruner.unpublish(event)
@@ -67,9 +68,8 @@ module Mayhem
         end
 
         needs_summary = event.summarized? != true
-        needs_topic_titles = needs_classification_for_record?(event, 'topic_titles')
-        needs_location_titles = needs_classification_for_record?(event, 'location_titles')
-        return unless needs_summary || needs_topic_titles || needs_location_titles
+        needs_classification = needs_classification_for_record?(event)
+        return unless needs_summary || needs_classification
 
         generated_from_post = event.generated_from_post? == true
         source_url = event.source_url
@@ -130,16 +130,14 @@ module Mayhem
 
         summary_text ||= ''
 
-        if needs_topic_titles
+        if needs_classification
           classified_topic_titles = classify_topics(summary_text)
           event.topic_titles = classified_topic_titles
           if classified_topic_titles.empty?
             logger.info "No topics matched for #{record_id}"
             stats[:missing_topics] += 1
           end
-        end
 
-        if needs_location_titles
           classified_locations = classify_locations(
             summary_text,
             content_title: event.title,
@@ -151,11 +149,13 @@ module Mayhem
             logger.info "No locations matched for #{record_id}"
             stats[:missing_locations] += 1
           end
+
+          event.classified = true
         end
 
         # Set published to false if either topic titles or location titles are empty
-        should_unpublish = (needs_topic_titles && event.topic_titles.empty?) ||
-                           (needs_location_titles && event.location_titles.empty?)
+        should_unpublish = (needs_classification && event.topic_titles.empty?) ||
+                           (needs_classification && event.location_titles.empty?)
 
         if should_unpublish
           @pruner.unpublish(event)
@@ -277,10 +277,9 @@ module Mayhem
         logger.warn "Skipping #{record_id}: no usable content to summarize"
         stats[:failed_summary] += 1
 
-        event.topic_titles = [] if event['topic_titles'].nil?
-        event.location_titles = [] if event['location_titles'].nil?
         event.published = false
         event.summarized = true
+        event.classified = true
         event.body = ''
         @pruner.unpublish(event)
 

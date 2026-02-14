@@ -1,9 +1,12 @@
 ---
+classified: true
 date: '2025-09-09T22:45:42+00:00'
+event_ids: []
 feed_content: |-
   <p>October 5, 12noon &#8211; 3 pm at the Ballard Commons Park As we wrap up the Season of Creation with a celebration of St. Francis on October 5, St. Luke&#8217;s &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/09/09/blessing-of-the-animals-pet-celebration/" aria-label="Blessing of the Animals &#38; Pet Celebration">Read More</a></p>
   <p>The post <a href="https://stlukesseattle.org/2025/09/09/blessing-of-the-animals-pet-celebration/">Blessing of the Animals &amp; Pet Celebration</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: St. Luke Episcopal Church
 published: false

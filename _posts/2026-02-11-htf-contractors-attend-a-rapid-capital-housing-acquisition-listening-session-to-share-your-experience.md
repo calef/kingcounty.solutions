@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-11T00:40:59+00:00'
 event_ids:
 - _events/2026-02-17-rapid-capital-housing-acquisition-listening-session-1.md
@@ -94,6 +95,7 @@ feed_content: |-
   <p>Please email us at <a><strong>HTFApp@commerce.wa.gov</strong></a>.</p>
 feed_content_checksum: 4819a827238d45410a0d89827516e108dea16621
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-14T23:44:51+00:00'
+event_ids: []
 feed_content: City Council Meeting Roundup on Wednesday, November 12th, the Normandy
   Park City Council held its regular monthly meeting. Below is a summary of key actions
   and discussions. The City has accepted a Flood Control District Flood Reduction
@@ -12,6 +14,7 @@ feed_content: City Council Meeting Roundup on Wednesday, November 12th, the Norm
   the approved increases, this agreement is still the most affordable option available
   to us for our short-term commitments.
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Normandy Park
 published: false

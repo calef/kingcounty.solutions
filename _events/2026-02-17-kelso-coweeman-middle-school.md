@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-20T17:00:00-08:00'
 feed_content: "<article> <div> <section><div> <h1>Clinic Schedule</h1> <p>The SmileMobile
   is coming to your community! This mobile dental clinic provides care to infants,
@@ -21,6 +22,7 @@ feed_content: "<article> <div> <section><div> <h1>Clinic Schedule</h1> <p>The Sm
   <span>»</span></a></li> </ul> </div> </div> </section> </div> </article>"
 feed_content_checksum: 9e610619630319ad9a0ef88913ba93c2e5fb9618
 image_checksums: []
+images_extracted: true
 location: Coweeman Middle School, 2000 Allen St., Kelso, Washington, 98636, United
   States
 location_titles: []

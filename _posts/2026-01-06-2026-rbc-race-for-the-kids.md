@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T19:10:55+00:00'
 event_ids: []
 events_extracted: true
@@ -24,6 +25,7 @@ feed_content: "<div>\n\t\t\n\t\t\t\n<div>\n\t<div>\n<span><span></span></span><h
   post <a>2026 RBC Race for the Kids</a> appeared first on <a>Boyer Children's Clinic</a>.</p>"
 feed_content_checksum: 879925cbffb60c01d0b3ce4b2c6806281168b904
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Boyer Children's Clinic

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-23T09:16:31+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: In 2025, the grip of food insecurity tightened across the region a
   costs of groceries have ...
 feed_content_checksum: 5da5135d6ae9c955c7467ce1296ba7a3447a6061
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

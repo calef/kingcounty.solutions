@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-16T01:50:41+00:00'
 event_ids: []
 events_extracted: true
@@ -40,6 +41,7 @@ feed_content: "<div> <div> <div><ul> <li><a>Alerts</a></li> <li><a>Current Infor
   This Site</h3> <div> <form> <label>Search</label> </form> </div> </div> </div> </div>"
 feed_content_checksum: db2f6d0f8363fc143abd33155448493cada5d60d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

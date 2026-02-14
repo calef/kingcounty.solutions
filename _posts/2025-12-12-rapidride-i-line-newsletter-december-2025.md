@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-12T19:50:29+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: 'Call for Artists: Moving Stories As King County’s population gr
   comes an opportunity to highlight the...'
 feed_content_checksum: c77a5da8e9212299c51bf347d1e41027ea594adf
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-20T14:45:00+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: |-
 image_checksums:
 - 88d157c90fec4762266d22ae8325a5bf491254cec3f3d16b60784dee447d2f12
 - f7783642a368850036bb493cc001bfd98ff56830d601beb33c5e3ab518648575
+images_extracted: true
 location_titles:
 - King County
 organization_title: Washington 211

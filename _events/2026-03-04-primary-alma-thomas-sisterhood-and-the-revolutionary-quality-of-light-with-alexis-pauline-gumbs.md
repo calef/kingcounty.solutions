@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-04T19:30:00-08:00'
 feed_content: '<article id="post-3858" class="post-3858 uw_oplevents type-uw_oplevents
   status-publish hentry category-department-of-anthropology category-graduate-school-sponsored
@@ -65,6 +66,7 @@ feed_content: '<article id="post-3858" class="post-3858 uw_oplevents type-uw_opl
   of Nursing, School of Public Health, Department of Anthropology, Center for Anti-Racism
   and Community Health (ARCH), The Graduate School</p> </div> </article>'
 image_checksums: []
+images_extracted: true
 location: Town Hall Seattle
 location_titles:
 - King County

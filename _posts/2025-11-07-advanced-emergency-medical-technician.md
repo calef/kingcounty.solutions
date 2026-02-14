@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-07T01:40:28+00:00'
 event_ids: []
 events_extracted: true
@@ -1006,6 +1007,7 @@ image_checksums:
 - a97395d4e10f2967a40100351d614f90c7368e658968f66d5aea5fee9a26b55f
 - edd33efcd7f6052ccd08f97b9d69e4e2a4a2922f1c2aabea8ee0b9ce8e28b5c7
 - 3a4f948feedf53330995dda66aa05beb2902c5e65d2ffe01cbc9f59aec5edb26
+images_extracted: true
 location_titles:
 - King County
 organization_title: Pima Medical Institute Seattle Community Dental Clinic

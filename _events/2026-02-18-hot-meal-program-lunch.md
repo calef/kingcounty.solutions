@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T13:00:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1>Hot
   Meal Program (lunch)</h1> </div> </div> </div> </div> </div> <div> <div> <div> <div>
@@ -102,6 +103,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   </ul> </div> <div> <a>View preferences</a> </div> <div> <ul> <li><a>{title}</a></li>
   <li><a>{title}</a></li> <li><a>{title}</a></li> </ul> </div> </div> </div>"
 feed_content_checksum: 445331c983f83f644f3d29150a7f904939125347
+image_checksums: []
 location: St John United Lutheran Church, 5515 Phinney Ave N, Seattle, WA, 98103,
   United States
 location_titles:
