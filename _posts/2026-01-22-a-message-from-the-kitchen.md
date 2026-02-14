@@ -1,7 +1,6 @@
 ---
 date: '2026-01-22T20:30:48+00:00'
-event_ids:
-- _events/2026-01-22-donation-drop-off.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>With the severely cold weather comes more people in need, and Chef Tim has compiled a list of everything the kitchen is just about out of:</p>

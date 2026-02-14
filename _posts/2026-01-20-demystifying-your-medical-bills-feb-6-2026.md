@@ -1,7 +1,6 @@
 ---
 date: '2026-01-20T22:17:14+00:00'
-event_ids:
-- _events/2026-02-06-demystifying-your-medical-bills.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/01/Medical-Billing-1-791x1024.png"></figure>

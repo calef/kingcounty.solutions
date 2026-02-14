@@ -1,7 +1,6 @@
 ---
 date: '2026-01-20T18:16:24+00:00'
-event_ids:
-- _events/2026-01-26-htf-repair-fund-application-acceptance.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Submit feedback on guidelines by Jan. 19; portal to re-open Jan. 26</h2>

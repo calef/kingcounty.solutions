@@ -1,8 +1,6 @@
 ---
 date: '2026-01-22T19:13:09+00:00'
-event_ids:
-- _events/2026-02-01-city-council-study-session.md
-- _events/2026-02-01-registration-for-normandy-park-preschool.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   2026 City Goals: What We’re Working On.

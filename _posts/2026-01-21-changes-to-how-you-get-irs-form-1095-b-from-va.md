@@ -1,8 +1,6 @@
 ---
 date: '2026-01-21T15:30:00+00:00'
 event_ids:
-- _events/2026-01-31-access-irs-form-1095-b-electronically.md
-- _events/2026-01-31-request-irs-form-1095-b-by-phone-for-family-members.md
 - _events/2027-01-31-access-irs-form-1095-b-electronically-for-family-members.md
 events_extracted: true
 feed_content: |-

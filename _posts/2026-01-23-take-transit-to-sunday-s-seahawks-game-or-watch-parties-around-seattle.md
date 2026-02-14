@@ -1,7 +1,6 @@
 ---
 date: '2026-01-23T00:38:33+00:00'
-event_ids:
-- _events/2026-01-23-seahawks-playoff-game.md
+event_ids: []
 events_extracted: true
 feed_content: 'Blog stats: 350 words | 2-minute read Twelves, it all comes down to
   Sunday as the Hawks take on the L.A. Rams at Lumen Field, with a trip to Super Bowl

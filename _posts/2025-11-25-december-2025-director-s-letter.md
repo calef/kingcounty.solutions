@@ -1,7 +1,6 @@
 ---
 date: '2025-11-25T16:55:51+00:00'
-event_ids:
-- _events/2026-01-28-annual-member-meeting.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Happy Holidays!</p>

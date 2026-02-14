@@ -1,7 +1,6 @@
 ---
 date: '2026-01-21T23:59:53+00:00'
-event_ids:
-- _events/2026-01-31-miller-playfield-play-area-design-event.md
+event_ids: []
 events_extracted: true
 feed_content: Please Join Us! Saturday, January 31st Seattle Parks and Recreation
   invites neighbors, families, kids and all community members to help shape the future

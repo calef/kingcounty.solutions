@@ -1,9 +1,6 @@
 ---
 date: '2026-01-02T17:00:00+00:00'
-event_ids:
-- _events/2026-01-27-montlake-branch-monday-hours-added.md
-- _events/2026-01-27-capitol-hill-branch-hours-adjustment.md
-- _events/2026-01-27-douglass-truth-branch-hours-adjustment.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Starting Tuesday, Jan. 27, The Seattle Public Library will update hours at three locations and expand the number of libraries that are open seven days a week – from 13 to 14 locations – with the addition of new Monday hours at the Montlake Branch.</p>

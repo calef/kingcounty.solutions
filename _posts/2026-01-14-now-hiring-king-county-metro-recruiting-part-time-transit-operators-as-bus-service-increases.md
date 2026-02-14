@@ -1,7 +1,6 @@
 ---
 date: '2026-01-14T22:57:17+00:00'
 event_ids:
-- _events/2026-01-23-application-deadline-for-part-time-transit-operators.md
 - _events/2026-09-01-major-service-changes.md
 events_extracted: true
 feed_content: King County Metro launched a new hiring push today as the agency seeks

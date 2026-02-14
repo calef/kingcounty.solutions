@@ -1,6 +1,5 @@
 ---
 email: office@porchlightcares.org
-news_rss_url: https://porchlightcares.org/feed/
 phone: 425-698-1295
 title: PorchLight
 topic_titles:

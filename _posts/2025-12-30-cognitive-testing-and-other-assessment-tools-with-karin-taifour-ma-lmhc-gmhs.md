@@ -1,7 +1,6 @@
 ---
 date: '2025-12-30T21:24:14+00:00'
-event_ids:
-- _events/2026-02-04-cognitive-testing-and-other-assessment-tools-workshop.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>February 4th, 2026<br>8:30am-4:30pm PDT</p>

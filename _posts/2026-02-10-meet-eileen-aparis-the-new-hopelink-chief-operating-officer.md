@@ -1,0 +1,221 @@
+---
+date: '2026-02-10T21:27:57+00:00'
+event_ids:
+- _events/2026-07-01-implementation-of-hopelinks-2027-2029-strategic-plan.md
+events_extracted: true
+feed_content: |-
+  <div>
+  <div>
+  <h2>Meet Eileen Aparis, the New Hopelink Chief Operating Officer</h2>
+
+
+
+  <p>Hopelink is pleased to announce Eileen Aparis as new Chief Operating Officer. This role is responsible for leading Hopelink’s programmatic divisions—Community Services and Transportation, including oversight of all Facilities strategy and operations. The COO works closely with the Chief Executive Officer and the eight-member Executive Leadership Team to implement Hopelink’s mission, vision, and strategic priorities.</p>
+
+
+
+  <p>Eileen brings more than 20 years of diverse leadership experience across public, private, and government sectors. Eileen has expertise in program operations, strategic leadership, and cross functional collaboration from her previous work in education, gender equity, and affordable housing at both regional and international organizations. Eileen’s commitment to strengthening communities is rooted in her own lived experience. </p>
+
+
+
+  <div></div>
+
+
+
+  <div>
+  <figure><img src="https://www.hopelink.org/wp-content/uploads/2026/02/Eileen-Aparis_Headshot-e1770758283403-893x1024.jpg"></figure><div>
+  <p>“I am really grateful that I was invited to be in this role because Hopelink’s vision and mission align with the values I have,” Eileen said. At Hopelink she found that centering community voice and equity is in action. “It’s not aspirational as Hopelink holds themselves accountable to embedding this in the work they do every day.” <br><br>“I am so excited to have someone with Eileen’s experience and expertise join the Hopelink leadership team,” said Meghan Altimore, Hopelink Chief Executive Officer. “Her commitment and passion for serving our community members experiencing poverty jumps out as soon as you meet her. She brings joy to the work. We are all so excited to partner with her to lead Hopelink successfully into the future!”</p>
+  </div>
+  </div>
+
+
+
+  <div></div>
+
+
+
+  <p>Eileen is stepping into the role at a pivotal time, at the beginning of Hopelink’s <a>2027-2029 Strategic Plan</a>, which will go into effect in July 2026. The plan will steer the agency as it navigates meeting rapidly growing community needs – as found in the <a>2025 Community Needs Assessment</a> – by focusing on three key areas: Organizational Resilience, Powered by Community, and Mission-Centered Impact.</p>
+
+
+
+  <p>Eileen is looking forward to strengthening Hopelink’s foundation, so realignment can be made rapidly when challenges occur, and be strategically scalable.</p>
+
+
+
+  <p>As a mission-driven leader, she knows that key partnership across sectors and disciplines is integral in meeting the needs of the community. “I find that bridging different perspectives, skills and resources creates innovation and impact.” She has done this from building schools overseas as an Executive Director with a Philippine Foundation and the creation and launch of Washington’s first digital equity bus, a mobile classroom for communities at the height of the COVID-19 pandemic as the Sr. Vice President of Mission at a social enterprise organization.</p>
+
+
+
+  <p>Eileen’s commitment is rooted in her own experience. As a 1.5-generation Filipina immigrant raised in South Seattle, she brings the lessons of sacrifice and opportunity from her family. Now living near Woodinville with her partner, Marc, Eileen combines local insight with a global perspective in her work at Hopelink. She is most proud of her title as being the favorite auntie.</p>
+
+
+
+  <div></div>
+  </div>
+  </div>
+feed_content_checksum: 44b1f21b01c71157876c1f3307e8ae3ab532fa2a
+location_titles:
+- King County
+organization_title: Hopelink
+original_source_html: "<!doctype html>\n<html lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\">\n\n<head>\n\t<title>Meet
+  Eileen Aparis, the New Hopelink Chief Operating Officer - Hopelink</title>\n\t<meta
+  charset=\"UTF-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, user-scalable=yes,
+  initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0\">\n\t<meta http-equiv=\"X-UA-Compatible\"
+  content=\"ie=edge\"><script type=\"text/javascript\">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:[\"bam.nr-data.net\"]},feature_flags:[\"soft_nav\"],distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:\"1134359494\",accountID:\"3669823\",trustKey:\"66686\",xpid:\"VwABWF5RCxABVFVVBgcOVFwA\",licenseKey:\"NRJS-5aaa44de3f5bce85d0d\",applicationID:\"1047169281\",browserID:\"1134359494\"};;/*!
+  For license information please see nr-loader-spa-1.309.0.min.js.LICENSE.txt */\n(()=>{var
+  e,t,r={384:(e,t,r)=>{\"use strict\";r.d(t,{NT:()=>o,US:()=>l,Zm:()=>c,bQ:()=>u,dV:()=>d,pV:()=>h});var
+  n=r(6154),i=r(1863),s=r(944),a=r(1910);const o={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\"};function
+  c(){return n.gm.NREUM||(n.gm.NREUM={}),void 0===n.gm.newrelic&&(n.gm.newrelic=n.gm.NREUM),n.gm.NREUM}function
+  d(){let e=c();return e.o||(e.o={ST:n.gm.setTimeout,SI:n.gm.setImmediate||n.gm.setInterval,CT:n.gm.clearTimeout,XHR:n.gm.XMLHttpRequest,REQ:n.gm.Request,EV:n.gm.Event,PR:n.gm.Promise,MO:n.gm.MutationObserver,FETCH:n.gm.fetch,WS:n.gm.WebSocket},(0,a.i)(...Object.values(e.o))),e}function
+  u(e,t){let r=c();r.initializedAgents??={},t.initializedAt={ms:(0,i.t)(),date:new
+  Date},r.initializedAgents[e]=t,2===Object.keys(r.initializedAgents).length&&(0,s.R)(69)}function
+  l(e,t){c()[e]=t}function h(){return function(){let e=c();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let
+  e=c();const t=e.init||{};e.init={...t}}(),d(),function(){let e=c();const t=e.loader_config||{};e.loader_config={...t}}(),c()}},782:(e,t,r)=>{\"use
+  strict\";r.d(t,{T:()=>n});const n=r(860).K7.pageViewTiming},860:(e,t,r)=>{\"use
+  strict\";r.d(t,{$J:()=>u,K7:()=>c,P3:()=>d,XX:()=>i,Yy:()=>o,df:()=>s,qY:()=>n,v4:()=>a});const
+  n=\"events\",i=\"jserrors\",s=\"browser/blobs\",a=\"rum\",o=\"browser/logs\",c={ajax:\"ajax\",genericEvents:\"generic_events\",jserrors:i,logging:\"logging\",metrics:\"metrics\",pageAction:\"page_action\",pageViewEvent:\"page_view_event\",pageViewTiming:\"page_view_timing\",sessionReplay:\"session_replay\",sessionTrace:\"session_trace\",softNav:\"soft_navigations\",spa:\"spa\"},d={[c.pageViewEvent]:1,[c.pageViewTiming]:2,[c.metrics]:3,[c.jserrors]:4,[c.spa]:5,[c.ajax]:6,[c.sessionTrace]:7,[c.softNav]:8,[c.sessionReplay]:9,[c.logging]:10,[c.genericEvents]:11},u={[c.pageViewEvent]:a,[c.pageViewTiming]:n,[c.ajax]:n,[c.spa]:n,[c.softNav]:n,[c.metrics]:i,[c.jserrors]:i,[c.sessionTrace]:s,[c.sessionReplay]:s,[c.logging]:o,[c.genericEvents]:\"ins\"}},944:(e,t,r)=>{\"use
+  strict\";r.d(t,{R:()=>i});var n=r(3241);function i(e,t){\"function\"==typeof console.debug&&(console.debug(\"New
+  Relic Warning: https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#\".concat(e),t),(0,n.W)({agentIdentifier:null,drained:null,type:\"data\",name:\"warn\",feature:\"warn\",data:{code:e,secondary:t}}))}},993:(e,t,r)=>{\"use
+  strict\";r.d(t,{A$:()=>s,ET:()=>a,TZ:()=>o,p_:()=>i});var n=r(860);const i={ERROR:\"ERROR\",WARN:\"WARN\",INFO:\"INFO\",DEBUG:\"DEBUG\",TRACE:\"TRACE\"},s={OFF:0,ERROR:1,WARN:2,INFO:3,DEBUG:4,TRACE:5},a=\"log\",o=n.K7.logging},1541:(e,t,r)=>{\"use
+  strict\";r.d(t,{U:()=>i,f:()=>n});const n={MFE:\"MFE\",BA:\"BA\"};function i(e,t){if(2!==t?.harvestEndpointVersion)return{};const
+  r=t.agentRef.runtime.appMetadata.agents[0].entityGuid;return e?{\"source.id\":e.id,\"source.name\":e.name,\"source.type\":e.type,\"parent.id\":e.parent?.id||r,\"parent.type\":e.parent?.type||n.BA}:{\"entity.guid\":r,appId:t.agentRef.info.applicationID}}},1687:(e,t,r)=>{\"use
+  strict\";r.d(t,{Ak:()=>d,Ze:()=>h,x3:()=>u});var n=r(3241),i=r(7836),s=r(3606),a=r(860),o=r(2646);const
+  c={};function d(e,t){const r={staged:!1,priority:a.P3[t]||0};l(e),c[e].get(t)||c[e].set(t,r)}function
+  u(e,t){e&&c[e]&&(c[e].get(t)&&c[e].delete(t),p(e,t,!1),c[e].size&&f(e))}function
+  l(e){if(!e)throw new Error(\"agentIdentifier required\");c[e]||(c[e]=new Map)}function
+  h(e=\"\",t=\"feature\",r=!1){if(l(e),!e||!c[e].get(t)||r)return p(e,t);c[e].get(t).staged=!0,f(e)}function
+  f(e){const t=Array.from(c[e]);t.every(([e,t])=>t.staged)&&(t.sort((e,t)=>e[1].priority-t[1].priority),t.forEach(([t])=>{c[e].delete(t),p(e,t)}))}function
+  p(e,t,r=!0){const a=e?i.ee.get(e):i.ee,c=s.i.handlers;if(!a.aborted&&a.backlog&&c){if((0,n.W)({agentIdentifier:e,type:\"lifecycle\",name:\"drain\",feature:t}),r){const
+  e=a.backlog[t],r=c[t];if(r){for(let t=0;e&&t<e.length;++t)g(e[t],r);Object.entries(r).forEach(([e,t])=>{Object.values(t||{}).forEach(t=>{t[0]?.on&&t[0].context()instanceof
+  o.y&&!t[0].listeners(e).includes(t[1])&&t[0].on(e,t[1])})})}}a.isolatedBacklog||delete
+  c[t],a.backlog[t]=null,a.emit(\"drain-\"+t,[])}}function g(e,t){var r=e[1];Object.values(t[r]||{}).forEach(t=>{var
+  r=e[0];if(t[0]===r){var n=t[1],i=e[3],s=e[2];n.apply(i,s)}})}},1738:(e,t,r)=>{\"use
+  strict\";r.d(t,{U:()=>f,Y:()=>h});var n=r(3241),i=r(9908),s=r(1863),a=r(944),o=r(5701),c=r(3969),d=r(8362),u=r(860),l=r(4261);function
+  h(e,t,r,s){const h=s||r;!h||h[e]&&h[e]!==d.d.prototype[e]||(h[e]=function(){(0,i.p)(c.xV,[\"API/\"+e+\"/called\"],void
+  0,u.K7.metrics,r.ee),(0,n.W)({agentIdentifier:r.agentIdentifier,drained:!!o.B?.[r.agentIdentifier],type:\"data\",name:\"api\",feature:l.Pl+e,data:{}});try{return
+  t.apply(this,arguments)}catch(e){(0,a.R)(23,e)}})}function f(e,t,r,n,a){const o=e.info;null===r?delete
+  o.jsAttributes[t]:o.jsAttributes[t]=r,(a||null===r)&&(0,i.p)(l.Pl+n,[(0,s.t)(),t,r],void
+  0,\"session\",e.ee)}},1741:(e,t,r)=>{\"use strict\";r.d(t,{W:()=>s});var n=r(944),i=r(4261);class
+  s{#e(e,...t){if(this[e]!==s.prototype[e])return this[e](...t);(0,n.R)(35,e)}addPageAction(e,t){return
+  this.#e(i.hG,e,t)}register(e){return this.#e(i.eY,e)}recordCustomEvent(e,t){return
+  this.#e(i.fF,e,t)}setPageViewName(e,t){return this.#e(i.Fw,e,t)}setCustomAttribute(e,t,r){return
+  this.#e(i.cD,e,t,r)}noticeError(e,t){return this.#e(i.o5,e,t)}setUserId(e,t=!1){return
+  this.#e(i.Dl,e,t)}setApplicationVersion(e){return this.#e(i.nb,e)}setErrorHandler(e){return
+  this.#e(i.bt,e)}addRelease(e,t){return this.#e(i.k6,e,t)}log(e,t){return this.#e(i.$9,e,t)}start(){return
+  this.#e(i.d3)}finished(e){return this.#e(i.BL,e)}recordReplay(){return this.#e(i.CH)}pauseReplay(){return
+  this.#e(i.Tb)}addToTrace(e){return this.#e(i.U2,e)}setCurrentRouteName(e){return
+  this.#e(i.PA,e)}interaction(e){return this.#e(i.dT,e)}wrapLogger(e,t,r){return this.#e(i.Wb,e,t,r)}measure(e,t){return
+  this.#e(i.V1,e,t)}consent(e){return this.#e(i.Pv,e)}}},1863:(e,t,r)=>{\"use strict\";function
+  n(){return Math.floor(performance.now())}r.d(t,{t:()=>n})},1910:(e,t,r)=>{\"use
+  strict\";r.d(t,{i:()=>s});var n=r(944);const i=new Map;function s(...e){return e.every(e=>{if(i.has(e))return
+  i.get(e);const t=\"function\"==typeof e?e.toString():\"\",r=t.includes(\"[native
+  code]\"),s=t.includes(\"nrWrapper\");return r||s||(0,n.R)(64,e?.name||t),i.set(e,r),r})}},2555:(e,t,r)=>{\"use
+  strict\";r.d(t,{D:()=>o,f:()=>a});var n=r(384),i=r(8122);const s={beacon:n.NT.beacon,errorBeacon:n.NT.errorBeacon,licenseKey:void
+  0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void
+  0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void
+  0,atts:void 0,transactionName:void 0,tNamePlain:void 0};function a(e){try{return!!e.licenseKey&&!!e.errorBeacon&&!!e.applicationID}catch(e){return!1}}const
+  o=e=>(0,i.a)(e,s)},2614:(e,t,r)=>{\"use strict\";r.d(t,{BB:()=>a,H3:()=>n,g:()=>d,iL:()=>c,tS:()=>o,uh:()=>i,wk:()=>s});const
+  n=\"NRBA\",i=\"SESSION\",s=144e5,a=18e5,o={STARTED:\"session-started\",PAUSE:\"session-pause\",RESET:\"session-reset\",RESUME:\"session-resume\",UPDATE:\"session-update\"},c={SAME_TAB:\"same-tab\",CROSS_TAB:\"cross-tab\"},d={OFF:0,FULL:1,ERROR:2}},2646:(e,t,r)=>{\"use
+  strict\";r.d(t,{y:()=>n});class n{constructor(e){this.contextId=e}}},2843:(e,t,r)=>{\"use
+  strict\";r.d(t,{G:()=>s,u:()=>i});var n=r(3878);function i(e,t=!1,r,i){(0,n.DD)(\"visibilitychange\",function(){if(t)return
+  void(\"hidden\"===document.visibilityState&&e());e(document.visibilityState)},r,i)}function
+  s(e,t,r){(0,n.sp)(\"pagehide\",e,t,r)}},3241:(e,t,r)=>{\"use strict\";r.d(t,{W:()=>s});var
+  n=r(6154);const i=\"newrelic\";function s(e={}){try{n.gm.dispatchEvent(new CustomEvent(i,{detail:e}))}catch(e){}}},3304:(e,t,r)=>{\"use
+  strict\";r.d(t,{A:()=>s});var n=r(7836);const i=()=>{const e=new WeakSet;return(t,r)=>{if(\"object\"==typeof
+  r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function s(e){try{return JSON.stringify(e,i())??\"\"}catch(e){try{n.ee.emit(\"internal-error\",[e])}catch(e){}return\"\"}}},3333:(e,t,r)=>{\"use
+  strict\";r.d(t,{$v:()=>u,TZ:()=>n,Xh:()=>c,Zp:()=>i,kd:()=>d,mq:()=>o,nf:()=>a,qN:()=>s});const
+  n=r(860).K7.genericEvents,i=[\"auxclick\",\"click\",\"copy\",\"keydown\",\"paste\",\"scrollend\"],s=[\"focus\",\"blur\"],a=4,o=1e3,c=2e3,d=[\"PageAction\",\"UserAction\",\"BrowserPerformance\"],u={RESOURCES:\"experimental.resources\",REGISTER:\"register\"}},3434:(e,t,r)=>{\"use
+  strict\";r.d(t,{Jt:()=>s,YM:()=>d});var n=r(7836),i=r(5607);const s=\"nr@original:\".concat(i.W),a=50;var
+  o=Object.prototype.hasOwnProperty,c=!1;function d(e,t){return e||(e=n.ee),r.inPlace=function(e,t,n,i,s){n||(n=\"\");const
+  a=\"-\"===n.charAt(0);for(let o=0;o<t.length;o++){const c=t[o],d=e[c];l(d)||(e[c]=r(d,a?c+n:n,i,c,s))}},r.flag=s,r;function
+  r(t,r,n,c,d){return l(t)?t:(r||(r=\"\"),nrWrapper[s]=t,function(e,t,r){if(Object.defineProperty&&Object.keys)try{return
+  Object.keys(e).forEach(function(r){Object.defineProperty(t,r,{get:function(){return
+  e[r]},set:function(t){return e[r]=t,t}})}),t}catch(e){u([e],r)}for(var n in e)o.call(e,n)&&(t[n]=e[n])}(t,nrWrapper,e),nrWrapper);function
+  nrWrapper(){var s,o,l,h;let f;try{o=this,s=[...arguments],l=\"function\"==typeof
+  n?n(s,o):n||{}}catch(t){u([t,\"\",[s,o,c],l],e)}i(r+\"start\",[s,o,c],l,d);const
+  p=performance.now();let g;try{return h=t.apply(o,s),g=performance.now(),h}catch(e){throw
+  g=performance.now(),i(r+\"err\",[s,o,e],l,d),f=e,f}finally{const e=g-p,t={start:p,end:g,duration:e,isLongTask:e>=a,methodName:c,thrownError:f};t.isLongTask&&i(\"long-task\",[t,o],l,d),i(r+\"end\",[s,o,h],l,d)}}}function
+  i(r,n,i,s){if(!c||t){var a=c;c=!0;try{e.emit(r,n,i,t,s)}catch(t){u([t,r,n,i],e)}c=a}}}function
+  u(e,t){t||(t=n.ee);try{t.emit(\"internal-error\",e)}catch(e){}}function l(e){return!(e&&\"function\"==typeof
+  e&&e.apply&&!e[s])}},3606:(e,t,r)=>{\"use strict\";r.d(t,{i:()=>s});var n=r(9908);s.on=a;var
+  i=s.handlers={};function s(e,t,r,s){a(s||n.d,i,e,t,r)}function a(e,t,r,i,s){s||(s=\"feature\"),e||(e=n.d);var
+  a=t[s]=t[s]||{};(a[r]=a[r]||[]).push([e,i])}},3738:(e,t,r)=>{\"use strict\";r.d(t,{He:()=>i,Kp:()=>o,Lc:()=>d,Rz:()=>u,TZ:()=>n,bD:()=>s,d3:()=>a,jx:()=>l,sl:()=>h,uP:()=>c});const
+  n=r(860).K7.sessionTrace,i=\"bstResource\",s=\"resource\",a=\"-start\",o=\"-end\",c=\"fn\"+a,d=\"fn\"+o,u=\"pushState\",l=1e3,h=3e4},3785:(e,t,r)=>{\"use
+  strict\";r.d(t,{R:()=>c,b:()=>d});var n=r(9908),i=r(1863),s=r(860),a=r(3969),o=r(993);function
+  c(e,t,r={},c=o.p_.INFO,d=!0,u,l=(0,i.t)()){(0,n.p)(a.xV,[\"API/logging/\".concat(c.toLowerCase(),\"/called\")],void
+  0,s.K7.metrics,e),(0,n.p)(o.ET,[l,t,r,c,d,u],void 0,s.K7.logging,e)}function d(e){return\"string\"==typeof
+  e&&Object.values(o.p_).some(t=>t===e.toUpperCase().trim())}},3878:(e,t,r)=>{\"use
+  strict\";function n(e,t){return{capture:e,passive:!1,signal:t}}function i(e,t,r=!1,i){window.addEventListener(e,t,n(r,i))}function
+  s(e,t,r=!1,i){document.addEventListener(e,t,n(r,i))}r.d(t,{DD:()=>s,jT:()=>n,sp:()=>i})},3962:(e,t,r)=>{\"use
+  strict\";r.d(t,{AM:()=>a,O2:()=>l,OV:()=>s,Qu:()=>h,TZ:()=>c,ih:()=>f,pP:()=>o,t1:()=>u,tC:()=>i,wD:()=>d});var
+  n=r(860);const i=[\"click\",\"keydown\",\"submit\"],s=\"popstate\",a=\"api\",o=\"initialPageLoad\",c=n.K7.softNav,d=5e3,u=500,l={INITIAL_PAGE_LOAD:\"\",ROUTE_CHANGE:1,UNSPECIFIED:2},h={INTERACTION:1,AJAX:2,CUSTOM_END:3,CUSTOM_TRACER:4},f={IP:\"in
+  progress\",PF:\"pending finish\",FIN:\"finished\",CAN:\"cancelled\"}},3969:(e,t,r)=>{\"use
+  strict\";r.d(t,{TZ:()=>n,XG:()=>o,rs:()=>i,xV:()=>a,z_:()=>s});const n=r(860).K7.metrics,i=\"sm\",s=\"cm\",a=\"storeSupportabilityMetrics\",o=\"storeEventMetrics\"},4234:(e,t,r)=>{\"use
+  strict\";r.d(t,{W:()=>s});var n=r(7836),i=r(1687);class s{constructor(e,t){this.agentIdentifier=e,this.ee=n.ee.get(e),this.featureName=t,this.blocked=!1}deregisterDrain(){(0,i.x3)(this.agentIdentifier,this.featureName)}}},4261:(e,t,r)=>{\"use
+  strict\";r.d(t,{$9:()=>u,BL:()=>c,CH:()=>p,Dl:()=>R,Fw:()=>w,PA:()=>v,Pl:()=>n,Pv:()=>A,Tb:()=>h,U2:()=>a,V1:()=>E,Wb:()=>T,bt:()=>y,cD:()=>b,d3:()=>x,dT:()=>d,eY:()=>g,fF:()=>f,hG:()=>s,hw:()=>i,k6:()=>o,nb:()=>m,o5:()=>l});const
+  n=\"api-\",i=n+\"ixn-\",s=\"addPageAction\",a=\"addToTrace\",o=\"addRelease\",c=\"finished\",d=\"interaction\",u=\"log\",l=\"noticeError\",h=\"pauseReplay\",f=\"recordCustomEvent\",p=\"recordReplay\",g=\"register\",m=\"setApplicationVersion\",v=\"setCurrentRouteName\",b=\"setCustomAttribute\",y=\"setErrorHandler\",w=\"setPageViewName\",R=\"setUserId\",x=\"start\",T=\"wrapLogger\",E=\"measure\",A=\"consent\"},5205:(e,t,r)=>{\"use
+  strict\";r.d(t,{j:()=>S});var n=r(384),i=r(1741);var s=r(2555),a=r(3333);const o=e=>{if(!e||\"string\"!=typeof
+  e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var
+  c=r(2614),d=r(944),u=r(8122);const l=\"[data-nr-mask]\",h=e=>(0,u.a)(e,(()=>{const
+  e={feature_flags:[],experimental:{allow_registered_children:!1,resources:!1},mask_selector:\"*\",block_selector:\"[data-nr-block]\",mask_input_options:{color:!1,date:!1,\"datetime-local\":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{ajax:{deny_list:void
+  0,block_internal:!0,enabled:!0,autoStart:!0},api:{get allow_registered_children(){return
+  e.feature_flags.includes(a.$v.REGISTER)||e.experimental.allow_registered_children},set
+  allow_registered_children(t){e.experimental.allow_registered_children=t},duplicate_registered_data:!1},browser_consent_mode:{enabled:!1},distributed_tracing:{enabled:void
+  0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void
+  0,allowed_origins:void 0},get feature_flags(){return e.feature_flags},set feature_flags(t){e.feature_flags=t},generic_events:{enabled:!0,autoStart:!0},harvest:{interval:30},jserrors:{enabled:!0,autoStart:!0},logging:{enabled:!0,autoStart:!0},metrics:{enabled:!0,autoStart:!0},obfuscate:void
+  0,page_action:{enabled:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,autoStart:!0},performance:{capture_marks:!1,capture_measures:!1,capture_detail:!0,resources:{get
+  enabled(){return e.feature_flags.includes(a.$v.RESOURCES)||e.experimental.resources},set
+  enabled(t){e.experimental.resources=t},asset_types:[],first_party_domains:[],ignore_newrelic:!0}},privacy:{cookies_enabled:!0},proxy:{assets:void
+  0,beacon:void 0},session:{expiresMs:c.wk,inactiveMs:c.BB},session_replay:{autoStart:!0,enabled:!1,preload:!1,sampling_rate:10,error_sampling_rate:100,collect_fonts:!1,inline_images:!1,fix_stylesheets:!0,mask_all_inputs:!0,get
+  mask_text_selector(){return e.mask_selector},set mask_text_selector(t){o(t)?e.mask_selector=\"\".concat(t,\",\").concat(l):\"\"===t||null===t?e.mask_selector=l:(0,d.R)(5,t)},get
+  block_class(){return\"nr-block\"},get ignore_class(){return\"nr-ignore\"},get mask_text_class(){return\"nr-mask\"},get
+  block_selector(){return e.block_selector},set block_selector(t){o(t)?e.block_selector+=\",\".concat(t):\"\"!==t&&(0,d.R)(6,t)},get
+  mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&\"object\"==typeof
+  t?e.mask_input_options={...t,password:!0}:(0,d.R)(7,t)}},session_trace:{enabled:!0,autoStart:!0},soft_navigations:{enabled:!0,autoStart:!0},spa:{enabled:!0,autoStart:!0},ssl:void
+  0,user_actions:{enabled:!0,elementAttributes:[\"id\",\"className\",\"tagName\",\"type\"]}}})());var
+  f=r(6154),p=r(9324);let g=0;const m={buildEnv:p.F3,distMethod:p.Xs,version:p.xv,originTime:f.WN},v={consented:!1},b={appMetadata:{},get
+  consented(){return this.session?.state?.consent||v.consented},set consented(e){v.consented=e},customTransaction:void
+  0,denyList:void 0,disabled:!1,harvester:void 0,isolatedBacklog:!1,isRecording:!1,loaderType:void
+  0,maxBytes:3e4,obfuscator:void 0,onerror:void 0,ptid:void 0,releaseIds:{},session:void
+  0,timeKeeper:void 0,registeredEntities:[],jsAttributesMetadata:{bytes:0},get harvestCount(){return++g}},y=e=>{const
+  t=(0,u.a)(e,b),r=Object.keys(m).reduce((e,t)=>(e[t]={value:m[t],writable:!1,configurable:!0,enumerable:!0},e),{});return
+  Object.defineProperties(t,r)};var w=r(5701);const R=e=>{const t=e.startsWith(\"http\");e+=\"/\",r.p=t?e:\"https://\"+e};var
+  x=r(7836),T=r(3241);const E={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void
+  0,applicationID:void 0,xpid:void 0},A=e=>(0,u.a)(e,E),_=new Set;function S(e,t={},r,a){let{init:o,info:c,loader_config:d,runtime:u={},exposed:l=!0}=t;if(!c){const
+  e=(0,n.pV)();o=e.init,c=e.info,d=e.loader_config}e.init=h(o||{}),e.loader_config=A(d||{}),c.jsAttributes??={},f.bv&&(c.jsAttributes.isWorker=!0),e.info=(0,s.D)(c);const
+  p=e.init,g=[c.beacon,c.errorBeacon];_.has(e.agentIdentifier)||(p.proxy.assets&&(R(p.proxy.assets),g.push(p.proxy.assets)),p.proxy.beacon&&g.push(p.proxy.beacon),e.beacons=[...g],function(e){const
+  t=(0,n.pV)();Object.getOwnPropertyNames(i.W.prototype).forEach(r=>{const n=i.W.prototype[r];if(\"function\"!=typeof
+  n||\"constructor\"===n)return;let s=t[r];e[r]&&!1!==e.exposed&&\"micro-agent\"!==e.runtime?.loaderType&&(t[r]=(...t)=>{const
+  n=e[r](...t);return s?s(...t):n})})}(e),(0,n.US)(\"activatedFeatures\",w.B)),u.denyList=[...p.ajax.deny_list||[],...p.ajax.block_internal?g:[]],u.ptid=e.agentIdentifier,u.loaderType=r,e.runtime=y(u),_.has(e.agentIdentifier)||(e.ee=x.ee.get(e.agentIdentifier),e.exposed=l,(0,T.W)({agentIdentifier:e.agentIdentifier,drained:!!w.B?.[e.agentIdentifier],type:\"lifecycle\",name:\"initialize\",feature:void
+  0,data:e.config})),_.add(e.agentIdentifier)}},5270:(e,t,r)=>{\"use strict\";r.d(t,{Aw:()=>a,SR:()=>s,rF:()=>o});var
+  n=r(384),i=r(7767);function s(e){return!!(0,n.dV)().o.MO&&(0,i.V)(e)&&!0===e?.session_trace.enabled}function
+  a(e){return!0===e?.session_replay.preload&&s(e)}function o(e,t){try{if(\"string\"==typeof
+  t?.type){if(\"password\"===t.type.toLowerCase())return\"*\".repeat(e?.length||0);if(void
+  0!==t?.dataset?.nrUnmask||t?.classList?.contains(\"nr-unmask\"))return e}}catch(e){}return\"string\"==typeof
+  e?e.replace(/[\\S]/g,\"*\"):\"*\".repeat(e?.length||0)}},5289:(e,t,r)=>{\"use strict\";r.d(t,{GG:()=>a,Qr:()=>c,sB:()=>o});var
+  n=r(3878),i=r(6389);function s(){return\"undefined\"==typeof document||\"complete\"===document.readyState}function
+  a(e,t){if(s())return e();const r=(0,i.J)(e),a=setInterval(()=>{s()&&(clearInterval(a),r())},500);(0,n.sp)(\"load\",r,t)}function
+  o(e){if(s())return e();(0,n.DD)(\"DOMContentLoaded\",e)}function c(e){if(s())return
+  e();(0,n.sp)(\"popstate\",e)}},5607:(e,t,r)=>{\"use strict\";r.d(t,{W:()=>n});const
+  n=(0,r(9566).bz)()},5701:(e,t,r)=>{\"use strict\";r.d(t,{B:()=>s,t:()=>a});var n=r(3241);const
+  i=new Set,s={};function a(e,t){const r=t.agentIdentifier;s[r]??={},e&&\"object\"==typeof
+  e&&(i.has(r)||(t.ee.emit(\"rumresp\",[e]),s[r]=e,i.add(r),(0,n.W)({agentIdentifier:r,loaded:!0,drained:!0,type:\"lifecycle\",name:\"load\",feature:void
+  0,data:e})))}},6154:(e,t,r)=>{\"use strict\";r.d(t,{OF:()=>d,RI:()=>i,WN:()=>h,bv:()=>s,eN:()=>f,gm:()=>a,lR:()=>l,m:()=>c,mw:()=>o,sb:()=>u});var
+  n=r(1863);const i=\"undefined\"!=typeof window&&!!window.document,s=\"undefined\"!=typeof
+  WorkerGlobalScope&&(\"undefined\"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator
+  instanceof WorkerNavigator||\"undefined\"!=typeof globalThis&&globalThis instanceof
+  WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=i?window:\"undefined\"!=typeof
+  WorkerGlobalScope&&(\"undefined\"!=typeof self&&self instanceof WorkerGlobalScope&&self||\"undefined\"!=typeof
+  globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=Boolean(\"hidden\"===a?.document?.visibilityState),c=\"\"+a?."
+rss_guid: https://www.hopelink.org/?p=14134
+slug: meet-eileen-aparis-the-new-hopelink-chief-operating-officer
+source_url: https://www.hopelink.org/blog/meet-eileen-aparis-the-new-hopelink-chief-operating-officer/
+summarized: true
+title: Meet Eileen Aparis, the New Hopelink Chief Operating Officer
+topic_titles:
+- Transportation & Mobility
+---
+
+Hopelink has appointed Eileen Aparis as its new Chief Operating Officer. In her role, she will lead the organization’s Community Services and Transportation divisions, overseeing facilities strategy and operations. Eileen has over 20 years of leadership experience across public, private, and government sectors, with expertise in program operations and strategic leadership. Her past work includes education, gender equity, and affordable housing on both regional and international levels. Eileen expressed gratitude for the opportunity, noting that Hopelink's mission aligns with her own values, emphasizing community voice and equity.
+
+CEO Meghan Altimore praised Eileen's passion for serving those experiencing poverty, highlighting her ability to bring joy to the work. Eileen joins Hopelink as the organization prepares to implement its 2027-2029 Strategic Plan, set to take effect in July 2026. This plan focuses on organizational resilience, community empowerment, and mission-centered impact, addressing rapidly growing community needs. Eileen aims to strengthen Hopelink’s foundation for rapid realignment during challenges. As a 1.5-generation Filipina immigrant from South Seattle, she combines local insight with a global perspective. Eileen currently lives near Woodinville with her partner, Marc, and takes pride in being a favorite auntie.

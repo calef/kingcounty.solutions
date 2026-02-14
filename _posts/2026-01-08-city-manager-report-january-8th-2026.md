@@ -1,8 +1,6 @@
 ---
 date: '2026-01-08T22:24:04+00:00'
 event_ids:
-- _events/2026-01-21-registration-for-normandy-park-preschool.md
-- _events/2026-02-02-registration-for-normandy-park-resident-families.md
 - _events/2026-02-09-open-enrollment-for-normandy-park-preschool.md
 events_extracted: true
 feed_content: |-

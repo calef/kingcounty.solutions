@@ -1,7 +1,6 @@
 ---
 date: '2026-01-20T18:09:03+00:00'
-event_ids:
-- _events/2026-01-22-youth-innovation-summit.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <div>

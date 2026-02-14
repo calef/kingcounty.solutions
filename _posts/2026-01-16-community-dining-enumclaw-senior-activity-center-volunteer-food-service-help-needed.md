@@ -1,8 +1,6 @@
 ---
 date: '2026-01-16T00:21:26+00:00'
-event_ids:
-- _events/2026-01-26-volunteer-food-service-at-enumclaw-senior-activity-center.md
-- _events/2026-02-02-volunteer-food-service-at-enumclaw-senior-activity-center.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>LOCATION:  1350 Cole St, Enumclaw, WA.</p>

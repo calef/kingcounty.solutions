@@ -1,8 +1,6 @@
 ---
 date: '2026-01-16T16:50:00+00:00'
-event_ids:
-- _events/2026-01-22-deadline-for-letters-of-intent-for-capital-clinic-access-grants.md
-- _events/2026-02-06-notification-of-selected-organizations-for-capital-clinic-access-grants.md
+event_ids: []
 events_extracted: true
 feed_content: Crossposted from the Washington School-Based Health Alliance Arcora
   Foundation Capital Clinic Access (CCA) grants provide safety net dental programs—including

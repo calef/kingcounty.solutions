@@ -1,8 +1,6 @@
 ---
 date: '2026-01-22T20:59:19+00:00'
-event_ids:
-- _events/2026-01-25-nfc-championship-game-seattle-seahawks-vs-los-angeles-rams.md
-- _events/2026-01-25-post-game-sailings-from-pier-50-to-seacrest-dock.md
+event_ids: []
 events_extracted: true
 feed_content: Our Seattle Seahawks play the biggest home game of the season on Sunday,
   Jan. 25, with a third and final game against the Los Angeles Rams to determine who

@@ -1,7 +1,6 @@
 ---
 date: '2026-01-12T19:04:18+00:00'
-event_ids:
-- _events/2026-02-07-setup-event-for-clover-place-apartments.md
+event_ids: []
 events_extracted: true
 feed_content: DESC is almost ready to have clients move into Clover Place and we need
   your help to make our 95 incoming tenants feel at home in their apartments right

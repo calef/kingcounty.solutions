@@ -1,7 +1,6 @@
 ---
 date: '2026-01-14T23:58:11+00:00'
-event_ids:
-- _events/2026-02-01-ihdd-pilot-grant-application-deadline.md
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>2026
   IHDD Pilot Grant Applications Still Open</h2>\n<p><img src=\"https://ihdd.org/wp-content/uploads/2023/08/photo-research-day-presentation.jpg\">The

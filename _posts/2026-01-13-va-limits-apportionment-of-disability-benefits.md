@@ -1,7 +1,6 @@
 ---
 date: '2026-01-13T14:30:00+00:00'
-event_ids:
-- _events/2026-02-09-changes-to-va-disability-benefits-apportionment.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Currently, in limited situations, VA may pay a portion of a beneficiary’s monetary benefits directly to the beneficiary’s dependent, referred to as an apportionment. VA has implemented a new ruling that will limit the circumstances in which compensation, pension, and dependency and indemnity compensation (DIC) benefits are apportioned and will stop making need-based apportionments going forward.</p>

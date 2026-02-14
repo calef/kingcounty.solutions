@@ -1,7 +1,6 @@
 ---
 date: '2025-12-02T21:03:00+00:00'
-event_ids:
-- _events/2026-01-26-essentials-first-day-of-action.md
+event_ids: []
 events_extracted: true
 feed_content: "<p><a><strong>Your gift today</strong></a><strong> makes a direct,
   life-changing impact for the 28% of Washingtonians who cannot afford basic hygiene

@@ -1,7 +1,6 @@
 ---
 date: '2026-01-13T23:25:53+00:00'
-event_ids:
-- _events/2026-01-27-immigration-updates-webinar.md
+event_ids: []
 events_extracted: true
 feed_content: The Northwest Immigrant Rights Project is offering free webinars to
   educate community members about their legal rights regarding immigration. Topics

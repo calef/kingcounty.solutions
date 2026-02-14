@@ -1,9 +1,6 @@
 ---
 date: '2026-01-06T23:28:06+00:00'
 event_ids:
-- _events/2026-01-25-we-belong-together.md
-- _events/2026-01-28-memory-and-war.md
-- _events/2026-02-05-60th-anniversary-of-dark-shadows.md
 - _events/2026-02-19-royalty-revisited.md
 - _events/2026-02-22-meet-cute-at-the-library.md
 - _events/2026-02-25-hot-chocolate-on-thursday.md

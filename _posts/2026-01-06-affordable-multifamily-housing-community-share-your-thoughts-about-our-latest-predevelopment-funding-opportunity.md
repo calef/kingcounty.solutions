@@ -1,7 +1,6 @@
 ---
 date: '2026-01-06T17:20:07+00:00'
-event_ids:
-- _events/2026-02-04-feedback-deadline-for-draft-notice-of-funding-availability.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Submit your feedback by February 4, 2026</h2>

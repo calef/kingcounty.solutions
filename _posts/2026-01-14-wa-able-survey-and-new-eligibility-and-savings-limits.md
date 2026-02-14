@@ -1,7 +1,6 @@
 ---
 date: '2026-01-14T00:20:09+00:00'
-event_ids:
-- _events/2026-01-14-wa-able-survey.md
+event_ids: []
 events_extracted: true
 feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>WA
   ABLE Survey and New Eligibility and Savings Limits</h2>\n<p><img src=\"https://ihdd.org/wp-content/uploads/2026/01/man-wheelchair-with-dog.jpg\">Washington

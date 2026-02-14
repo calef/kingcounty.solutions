@@ -1,8 +1,6 @@
 ---
 date: '2026-01-15T22:56:21+00:00'
-event_ids:
-- _events/2026-01-22-listening-and-games-party.md
-- _events/2026-01-24-50th-anniversary-celebration.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>In late May of 1972, a small ad appeared in the classifieds section of the University District-Herald, a community newspaper in Northeast Seattle: </p>

@@ -1,9 +1,6 @@
 ---
 date: '2026-01-22T15:07:58+00:00'
-event_ids:
-- _events/2026-01-22-activation-of-tier-3-protocols.md
-- _events/2026-01-22-increased-cot-capacity-at-westside-neighbors-shelter.md
-- _events/2026-01-22-emergency-warming-centers-available.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>With overnight temperatures below 30°F in the forecast, King County Regional Homelessness Authority is shifting to <strong>Tier 3 Protocols as of 5:00 pm Thursday, January 22, lasting through Saturday, January 24 and winding down in the morning on Sunday, January 25</strong>, with the possibility of extending in alignment with its severe weather policy.</p>

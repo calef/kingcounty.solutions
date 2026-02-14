@@ -1,0 +1,242 @@
+---
+date: '2026-01-27T01:44:42+00:00'
+event_ids: []
+events_extracted: true
+feed_content: "<span>West Coast Health Alliance Endorses the 2026 AAP Child and Adolescent
+  Immunization Schedule</span>\n\n            <div>\n<time>January 26, 2026 - 5:33pm</time>\n</div>\n
+  \     <span><span>derek.olson@do…</span></span>\n<span><time>January 26, 2026 -
+  5:44pm</time>\n</span>\n\n  <div>\n    <div>News Category</div>\n          <div>\n
+  \             <div><a>health-news</a></div>\n              </div>\n      </div>\n\n
+  \           <div>\n<p><strong>For immediate release</strong>: January 26, 2026  
+  (26-012)</p>\n\n<p>Contact: <a>DOH Communications</a></p>\n\n<p><strong>OLYMPIA</strong>
+  – The West Coast Health Alliance (WCHA) endorses the <a>2026 American Academy of
+  Pediatrics (AAP)</a> Recommended Child and Adolescent Immunization Schedule, as
+  do professional medical and health organizations representing more than one million
+  health care providers, reflecting a broad consensus on the safety and benefits of
+  the recommended immunizations.</p>\n\n<p>The AAP issued the annual update to its
+  <a>Recommended Child and Adolescent Immunization Schedule for 2026</a>, based on
+  a thorough and deliberate review of medical evidence. These recommendations also
+  continue to thoughtfully consider specific disease risks and health care delivery
+  in the United States.</p>\n\n<p>The 2026 AAP Immunization Schedule reflects the
+  most current science-based safety and benefits of immunizations that protect individuals
+  and communities from infectious diseases and have saved millions of lives in the
+  United States. Annual updates are important to incorporate new evidence.</p>\n\n<p>“The
+  AAP’s evidence-based immunization schedule reflects decades of research demonstrating
+  that vaccines are safe, effective, and lifesaving,” said Dennis Worsham, Washington
+  State Secretary of Health. “In Washington, our commitment to protecting children’s
+  health through public health practices grounded in the best available science remains
+  unwavering. We strongly encourage families to keep their children up to date on
+  all AAP recommended vaccinations and to talk with their trusted healthcare providers
+  if they have questions.”</p>\n\n<p>The WCHA believes the AAP Immunization Schedule
+  should continue to serve as the foundation for the immunizations routinely recommended
+  by healthcare providers and guide conversations between providers and families.</p>\n\n<p>Our
+  <a>website</a> is your source for a healthy dose of information. Get updates by
+  following us on <a>social media</a>.</p>\n\n<p>###</p>\n</div>\n      \n  <div>\n
+  \   <div>News Author</div>\n              <div>Washington State Department of Health</div>\n
+  \         </div>"
+feed_content_checksum: d095ec73f8bb297b771850697238656799d9bced
+location_titles:
+- King County
+organization_title: Department of Health
+original_source_html: "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og:
+  https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"
+  content=\"For immediate release: January 26, 2026 (26-012) Contact: DOH Communications\"
+  />\n<link rel=\"canonical\" href=\"https://doh.wa.gov/newsroom/west-coast-health-alliance-endorses-2026-aap-child-and-adolescent-immunization-schedule\"
+  />\n<link rel=\"image_src\" href=\"https://doh.wa.gov/sites/default/files/2023-01-images/DOHlogo-metadata.png\"
+  />\n<meta property=\"og:site_name\" content=\"Washington State Department of Health\"
+  />\n<meta property=\"og:type\" content=\"webpage\" />\n<meta property=\"og:url\"
+  content=\"https://doh.wa.gov/newsroom/west-coast-health-alliance-endorses-2026-aap-child-and-adolescent-immunization-schedule\"
+  />\n<meta property=\"og:title\" content=\"West Coast Health Alliance Endorses the
+  2026 AAP Child and Adolescent Immunization Schedule\" />\n<meta property=\"og:description\"
+  content=\"For immediate release: January 26, 2026 (26-012) Contact: DOH Communications\"
+  />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:title\"
+  content=\"West Coast Health Alliance Endorses the 2026 AAP Child and Adolescent
+  Immunization Schedule\" />\n<meta name=\"twitter:site\" content=\"@WADeptHealth\"
+  />\n<meta name=\"twitter:description\" content=\"For immediate release: January
+  26, 2026 (26-012) Contact: DOH Communications\" />\n<meta name=\"Generator\" content=\"Drupal
+  10 (https://www.drupal.org)\" />\n<meta name=\"MobileOptimized\" content=\"width\"
+  />\n<meta name=\"HandheldFriendly\" content=\"true\" />\n<meta name=\"viewport\"
+  content=\"width=device-width, initial-scale=1, shrink-to-fit=no\" />\n<meta http-equiv=\"x-ua-compatible\"
+  content=\"ie=edge\" />\n<link rel=\"icon\" href=\"/sites/default/files/DOH-logo_favicon_16x16.png\"
+  type=\"image/png\" />\n\n    <title>West Coast Health Alliance Endorses the 2026
+  AAP Child and Adolescent Immunization Schedule | Washington State Department of
+  Health</title>\n    <link rel=\"stylesheet\" media=\"all\" href=\"/modules/contrib/ajax_loader/css/throbber-general.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/misc/components/progress.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/misc/components/ajax-progress.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/align.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/fieldgroup.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/container-inline.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/clearfix.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/details.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/hidden.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/item-list.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/js.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/nowrap.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/position-container.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/reset-appearance.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/resize.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/system-status-counter.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/system-status-report-counters.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/system-status-report-general-info.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/system/css/components/tablesort.module.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/filter/css/filter.caption.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/modules/media/css/filter.caption.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/modules/contrib/ajax_loader/css/three-bounce.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/modules/contrib/ckeditor_accordion/css/accordion.frontend.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/modules/contrib/ckeditor_tabber/css/ckeditor-tabber.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/libraries/fontawesome/css/all.min.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/libraries/fontawesome/css/v4-shims.min.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/variables.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/user.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/progress.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/node.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/affix.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/book.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/contextual.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/feed-icon.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/field.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/header.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/help.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/icons.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/image-button.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/item-list.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/list-group.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/media.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/page.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/search-form.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/shortcut.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/sidebar.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/site-footer.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/skip-link.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/table.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/tabledrag.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/tableselect.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/tablesort-indicator.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/ui.widget.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/tabs.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/toolbar.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/vertical-tabs.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/views.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/webform.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/css/components/ui-dialog.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"//cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/subtheme/css/style.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/bootstrap_barrio/subtheme/css/colors.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/core/../themes/bootstrap_barrio/components/breadcrumb/breadcrumb.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_barrio/assets/css/bs-variables.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_barrio/assets/css/alert.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_barrio/assets/css/components.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_barrio/assets/css/navigation.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_barrio/assets/css/slideshow.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_barrio/assets/css/style.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"print\" href=\"/themes/drupalbase_barrio/assets/css/print.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"https://fonts.googleapis.com/css?family=Open+Sans&amp;display=swap\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_custom/assets/styles/alert.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_custom/assets/styles/components.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_custom/assets/styles/layout.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_custom/assets/styles/legacy.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_custom/assets/styles/global.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_custom/assets/styles/navigation.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_custom/assets/styles/print.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_custom/assets/styles/rtl.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_custom/assets/styles/style.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;display=swap\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"https://fonts.googleapis.com/css2?family=Gayathri:wght@100;400;700&amp;display=swap\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&amp;display=swap\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;0,700;1,700&amp;display=swap\"
+  />\n<link rel=\"stylesheet\" media=\"all\" href=\"/themes/drupalbase_custom/assets/styles/horizontal_menu.css?ta9mr8\"
+  />\n<link rel=\"stylesheet\" media=\"print\" href=\"/themes/bootstrap_barrio/css/print.css?ta9mr8\"
+  />\n\n    <script type=\"application/json\" data-drupal-selector=\"drupal-settings-json\">{\"path\":{\"baseUrl\":\"\\/\",\"pathPrefix\":\"\",\"currentPath\":\"node\\/40150\",\"currentPathIsAdmin\":false,\"isFront\":false,\"currentLanguage\":\"en\"},\"pluralDelimiter\":\"\\u0003\",\"suppressDeprecationErrors\":true,\"ajaxPageState\":{\"libraries\":\"eJyFkWtuxCAMhC9EwpEiAw6hi3FkO92mpy-Rqma1r_4bM5_k8QAf8DVVhoTi4dSjLcIhoLjAbGoC6xRApLDPlQPUQW2vpeVHv3HCh9dJt2ALEvrTiam94e7WxAumYiwTxMiSCjf_p8ZZuBm2dFIGR3ivSNCsxGNW13H0kWnlhs10vF8-DEEQUpSNgkuyrVADKL44_AaImxrTL_DEWFjKd48IdSJs2xNilUIge4NPNx_gFZV7CTd6vGI4Rv0XGHUp5DJzrtgPzz4bOerFgJ9Ltf65EVbrvTnd1ZD8EeQHxNHOoA\",\"theme\":\"drupalbase_custom\",\"theme_token\":null},\"ajaxTrustedUrl\":[],\"gtm\":{\"tagId\":null,\"settings\":{\"data_layer\":\"dataLayer\",\"include_classes\":false,\"allowlist_classes\":\"\",\"blocklist_classes\":\"\",\"include_environment\":false,\"environment_id\":\"\",\"environment_token\":\"\"},\"tagIds\":[\"GTM-P33KPVK\",\"GTM-T8C88VC2\"]},\"ajaxLoader\":{\"markup\":\"\\u003Cdiv
+  class=\\u0022ajax-throbber sk-flow\\u0022\\u003E\\n              \\u003Cdiv class=\\u0022sk-flow-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n
+  \             \\u003Cdiv class=\\u0022sk-flow-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n
+  \             \\u003Cdiv class=\\u0022sk-flow-dot\\u0022\\u003E\\u003C\\/div\\u003E\\n
+  \           \\u003C\\/div\\u003E\",\"hideAjaxMessage\":false,\"alwaysFullscreen\":false,\"throbberPosition\":\".ajax-loader-throbber\"},\"ckeditorAccordion\":{\"accordionStyle\":{\"collapseAll\":1,\"keepRowsOpen\":null,\"animateAccordionOpenAndClose\":1,\"openTabsWithHash\":1,\"allowHtmlInTitles\":0}},\"user\":{\"uid\":0,\"permissionsHash\":\"c24173488e03c109813e252d8f2cffe5be86a1cf56870527589099cdb0c6f947\"}}</script>\n<script
+  src=\"/core/misc/drupalSettingsLoader.js?v=10.6.2\"></script>\n<script src=\"/modules/contrib/google_tag/js/gtm.js?ta9mr8\"></script>\n\n
+  \ </head>\n  <body class=\"layout-no-sidebars page-node-40150 page-node-type-news
+  path-node node--type-news\">\n    <noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P33KPVK\"\n
+  \                 height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<noscript><iframe
+  src=\"https://www.googletagmanager.com/ns.html?id=GTM-T8C88VC2\"\n                  height=\"0\"
+  width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n\n      <div
+  class=\"dialog-off-canvas-main-canvas\" data-off-canvas-main-canvas>\n    <div id=\"page-wrapper\">\n
+  \ <div id=\"page\">\n    <header id=\"header\" aria-label=\"Site header\">\n      <div
+  style=\"height:0;\">&nbsp;</div>\n      <a href=\"#main-content\" class=\"visually-hidden
+  focusable skip-link\">\n        Skip to main content\n      </a>\n      <a id=\"skip-feedback\"
+  href=\"#\" class=\"visually-hidden focusable skip-link\">\n        Skip to Feedback\n
+  \     </a>\n                      \n                              <div class=\"header-wrapper\">\n
+  \           <div class=\"container\">\n              <div class=\"row justify-content-between\">\n
+  \               \n                  <section class=\"row region region-header\">\n
+  \         <a href=\"/\" title=\"Home\" rel=\"home\" class=\"navbar-brand\">\n              <img
+  src=\"/themes/drupalbase_custom/assets/images/doh_logo_horizontal.svg\" alt=\"Washington
+  State Department of Health Logo\" class=\"img-fluid d-inline-block align-top\" />\n
+  \         </a>\n    <div id=\"block-utilitylinks\" class=\"col-auto d-lg-flex align-items-center
+  ms-auto d-none block-content-basic block block-block-content block-block-content249bf8a9-ac00-4568-a908-d690b89bbba5\">\n
+  \ \n    \n      <div class=\"content\">\n      \n            <div class=\"clearfix
+  text-formatted field field--name-body field--type-text-with-summary field--label-hidden
+  field__item\"><p><a data-entity-substitution=\"canonical\" data-entity-type=\"node\"
+  data-entity-uuid=\"884befe7-6ff7-4de8-8879-99e9503bf19c\" href=\"/about-us\">About
+  Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a data-entity-substitution=\"canonical\" data-entity-type=\"node\"
+  data-entity-uuid=\"a1a0da87-97b1-44ca-b41a-e233ba420696\" href=\"/about-us/contact-us\">Contact
+  Us</a>&nbsp; |&nbsp;&nbsp;<a data-entity-substitution=\"canonical\" data-entity-type=\"node\"
+  data-entity-uuid=\"a8ab0e51-dd46-42b7-87c8-2f148286ec9c\" href=\"/newsroom\">Newsroom</a></p></div>\n
+  \     \n    </div>\n  </div>\n<div class=\"search-block-form google-cse col-auto
+  d-flex align-items-center justify-self-end block block-search block-search-form-block\"
+  data-drupal-selector=\"search-block-form\" id=\"block-searchform\" role=\"search\"
+  id=\"block-searchform\">\n\n        \n                    \n                <form
+  action=\"/search/results\" method=\"get\" id=\"search-block-form\" accept-charset=\"UTF-8\"
+  class=\"search-form search-block-form form-row\">\n            <div class=\"js-form-item
+  js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label
+  mb-3\">\n              <input title=\"Enter the terms you wish to search for.\"
+  data-drupal-selector=\"edit-keys\" type=\"search\" id=\"edit-keys\" name=\"keys\"
+  value=\"\" size=\"15\" maxlength=\"128\" class=\"form-search form-control\" placeholder=\"Search\">\n
+  \           </div>\n            <div data-drupal-selector=\"edit-actions\" class=\"form-actions
+  js-form-wrapper form-wrapper mb-3\" id=\"edit-actions\">\n              <button
+  type=\"submit\" id=\"edit-submit\" value=\"Execute search\" class=\"button js-form-submit
+  form-submit btn btn-primary\"><span class=\"visually-hidden\">Execute search</span></button>\n
+  \           </div>\n        </form>\n        \n</div>\n<script>\n\n(function(){var
+  g=function(g){\n\nthis.go=function(){var a=document.createElement(\"script\");a.type=\"text/javascript\";a.src=g;document.body&&document.body.appendChild(a)};\n\nthis.start=function(){var
+  t=this;\"complete\"!==document.readyState?window.addEventListener?window.addEventListener(\"load\",function(){t.go()},!1):window.attachEvent&&window.attachEvent(\"onload\",function(){t.go()}):t.go()};};\n\ntry{(new
+  g(\"https://zntlovy06r0dnlzor-watech2.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_tLOvY06R0DnLZoR\")).start()}catch(i){}})();\n\n</script><div
+  id='ZN_tLOvY06R0DnLZoR'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>\n\n<!--END
+  WEBSITE FEEDBACK SNIPPET-->\n\n  </section>\n\n                <button id=\"pmenu-toggle\"
+  class=\"d-lg-none\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#mainnav\"
+  aria-controls=\"mainnav\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n
+  \                       <span class=\"sr-only\">Main Menu</span>\n                    </button>\n
+  \             </div>\n            </div>\n          </div>\n                  </header>\n\n
+  \                             <div class=\"nav-outer-wrapper\">\n          <div
+  class=\"container\">\n            <div class=\"navbar navbar-expand-xl navbar-default
+  container\" id=\"navbar-main\">\n            <div class=\"navbar\" id=\"navbar-top\">\n
+  \                             <div class=\"navbar-header\">\n                    <section
+  class=\"row region region-navigation\">\n    <nav  id=\"block-drupalbase-custom-megamenu\">\n
+  \   \n        \n\n          \n      <div id=\"primary-nav-bg\"></div>\n    <div
+  id=\"primary-nav\" class=\"navbar navbar-expand-lg navbar-light p-0\">\n      \n
+  \     <div class=\"collapse navbar-collapse p-3 p-lg-0\" id=\"mainnav\">\n        <button
+  id=\"pnav-close\" class=\"d-lg-none h1 float-end text-black\"><i class=\"fa-solid
+  fa-xmark\"></i><span class=\"sr-only\">close menu</span></button>          \n        <div
+  class=\"mcopy-search\"></div>\n        <ul class=\"clearfix navbar-nav flex-wrap\">\n
+  \                                 \n            <li class=\"mb-0 dropdown first\">\n
+  \             <div class=\"borderbox d-none d-lg-block\"></div>\n                              <button
+  \ class=\"mb-0 dropdown first nav-link dropdown-toggle nav-link\" type=\"button\"
+  data-bs-toggle=\"dropdown\" aria-expanded=\"false\" id=\"nav-you--your-family\">\n
+  \                 You &amp; Your Family <i class=\"fa-solid fa-chevron-down\"></i>\n
+  \               </button>\n           \n                                \n                                                                \n
+  \                                   \n                    \n                    \n
+  \                                   \n                    \n                    \n
+  \                                   \n                    \n                    \n
+  \                                   \n                    \n                    \n
+  \                                   \n                                                                                        \n
+  \                   \n                                    \n                    \n
+  \                   \n                                    \n                    \n
+  \                   \n     "
+rss_guid: 40150 at https://doh.wa.gov
+slug: west-coast-health-alliance-endorses-the-2026-aap-child-and-adolescent-immunization-schedule
+source_url: https://doh.wa.gov/newsroom/west-coast-health-alliance-endorses-2026-aap-child-and-adolescent-immunization-schedule
+summarized: true
+title: West Coast Health Alliance Endorses the 2026 AAP Child and Adolescent Immunization
+  Schedule
+topic_titles:
+- Health Care
+---
+
+The West Coast Health Alliance (WCHA) has endorsed the 2026 American Academy of Pediatrics (AAP) Recommended Child and Adolescent Immunization Schedule. This endorsement is supported by over one million health care providers, demonstrating a strong consensus on the safety and benefits of the recommended immunizations. The AAP's annual update is based on extensive medical evidence and addresses specific disease risks and health care delivery in the United States. The 2026 schedule reflects the latest science on the safety and effectiveness of immunizations, which have saved millions of lives. Washington State Secretary of Health Dennis Worsham emphasized the importance of vaccines, stating they are safe, effective, and lifesaving. He urged families to keep their children up to date with AAP recommended vaccinations and to consult with healthcare providers if they have questions. The WCHA advocates for the AAP Immunization Schedule to guide routine immunizations and conversations between healthcare providers and families.

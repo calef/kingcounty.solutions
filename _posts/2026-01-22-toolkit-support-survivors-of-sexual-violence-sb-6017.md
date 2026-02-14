@@ -1,7 +1,6 @@
 ---
 date: '2026-01-22T22:37:30+00:00'
-event_ids:
-- _events/2026-01-26-hearing-on-sb-6017.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Legislation (SB 6017) has been introduced in Washington state to support survivors of sexual violence. An amendment to the Crime Victim Bill of Rights was shaped directly by survivors and Native community members following a high-profile case in which a convicted serial rapist represented himself at trial and was allowed to cross-examine multiple victims for … <a>Continue reading <span>TOOLKIT: Support Survivors of Sexual Violence (SB 6017)</span></a></p>

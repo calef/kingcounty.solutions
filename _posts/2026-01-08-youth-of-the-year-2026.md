@@ -1,7 +1,6 @@
 ---
 date: '2026-01-08T20:39:32+00:00'
-event_ids:
-- _events/2026-01-31-youth-of-the-year-celebration.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Join us on Saturday, 31, 2026, for our Youth of the Year Celebration</h2>
