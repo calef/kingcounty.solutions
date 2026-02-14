@@ -20,6 +20,6 @@ topic_titles:
 - Employment & Job Support
 ---
 
-New applications for the Working Connections Child Care subsidy will be paused from July 1 to December 31, 2026. During this period, families seeking assistance for child care will not be able to submit new applications. Current recipients are encouraged to review their eligibility and benefits, as this pause may impact future support. 
+New applications for the Working Connections Child Care subsidy will be paused from July 1 to December 31, 2026. During this period, families seeking assistance for child care will not be able to submit new applications. Current recipients are encouraged to review their eligibility and benefits, as this pause may impact future support.
 
 Community members are invited to stay informed about the subsidy program and explore alternative resources for child care assistance during this time. For those affected, local organizations may offer workshops or information sessions to help navigate available options. Stay tuned for updates on the resumption of applications in January 2027.
