@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-28T21:44:28+00:00'
 event_ids:
 - _events/2026-03-25-workshop-on-supporting-family-caregivers.md
@@ -84,6 +85,7 @@ feed_content: |-
   <p>The post <a>Assessment of and Caring for the Family Caregiver in Your Behavioral Health Practice with Kris Fredrickson, MSW, LICSW</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: 260895e121720dd1f1f96b0bfb83506b763efb07
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

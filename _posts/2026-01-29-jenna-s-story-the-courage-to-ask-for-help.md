@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T23:36:31+00:00'
 event_ids: []
 events_extracted: true
@@ -55,6 +56,7 @@ feed_content: |-
   <p>The post <a>Jenna’s Story: The Courage to Ask for Help</a> appeared first on <a>Youth Eastside Services</a>.</p>
 feed_content_checksum: 32fa8d1cf554f8453039ff3faac0e60d1095432a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Youth Eastside Services

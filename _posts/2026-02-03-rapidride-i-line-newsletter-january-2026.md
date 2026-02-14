@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-03T00:56:57+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Meet the RapidRide I Line Community Engagement team Our team is de
   team members will be going door-to-door along...
 feed_content_checksum: 8d6e0251ba9167423f4ecb907dea1de8f20fcdc0
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

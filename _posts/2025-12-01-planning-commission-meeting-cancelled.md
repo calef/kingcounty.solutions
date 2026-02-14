@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-01T21:44:35+00:00'
+event_ids: []
 feed_content: "<div class=\"field field-name-field-date-and-time field-type-datetime
   field-label-hidden\">\n  \n      \n    <span  property=\"dc:date\" datatype=\"xsd:dateTime\"
   content=\"2025-12-09T18:00:00-08:00\" class=\"date-display-single\">12/09/2025 -
@@ -8,6 +10,7 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   please <a href=\"https://www.blackdiamondwa.gov/home/pages/minutes-agendas\" target=\"_blank\">CLICK
   HERE</a></p>\n      </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Black Diamond
 published: false

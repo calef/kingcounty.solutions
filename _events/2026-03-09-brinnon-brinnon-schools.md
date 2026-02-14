@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-13T17:00:00-07:00'
 feed_content: "<article> <div> <section><div> <h1>Clinic Schedule</h1> <p>The SmileMobile
   is coming to your community! This mobile dental clinic provides care to infants,
@@ -21,6 +22,7 @@ feed_content: "<article> <div> <section><div> <h1>Clinic Schedule</h1> <p>The Sm
   </ul> </div> </div> </section> </div> </article>"
 feed_content_checksum: de0c35a75aaa04d09fc04fee9a4dd9de8b20a2ec
 image_checksums: []
+images_extracted: true
 location: Brinnon Schools, 46 Schoolhouse Rd, Brinnon, Washington, 98320, United States
 location_titles: []
 organization_title: SmileMobile

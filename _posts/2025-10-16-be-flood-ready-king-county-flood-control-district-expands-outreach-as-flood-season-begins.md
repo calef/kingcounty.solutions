@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-16T17:22:55+00:00'
+event_ids: []
 feed_content: "**Begins**\n\nBy Steven Schauer, Deputy Executive Director\n\nAs the
   rainy season returns to the Pacific Northwest, so does the risk of flooding. In
   King County, flood season runs from October through April, bringing with it the
@@ -100,6 +102,7 @@ feed_content: "**Begins**\n\nBy Steven Schauer, Deputy Executive Director\n\nAs 
   Season Begins](https://kingcountyfloodcontrol.org/be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins/)
   appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org)."
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: King County Flood Control District
 published: false

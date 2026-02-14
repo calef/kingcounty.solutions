@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-13T16:30:00-07:00'
 feed_content: "<div> <div> <p>Spencer Myer, associate professor of music at the Jacobs
   School of Music at Indiana University, leads a master class with UW piano students.</p>
@@ -26,6 +27,7 @@ feed_content: "<div> <div> <p>Spencer Myer, associate professor of music at the 
   is a Steinway Artist.</p> </div> </div>"
 feed_content_checksum: e98bd5ce2f33f04c07dd84f56cb1e7af4873c9cd
 image_checksums: []
+images_extracted: true
 location: Music Building (MUS)
 location_titles:
 - King County

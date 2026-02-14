@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-15T17:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -14,6 +15,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   renewable energy, and conservation directly to classrooms across our service area.
   This year&#8217;s achievements show the program&#8217;s [&#8230;]'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

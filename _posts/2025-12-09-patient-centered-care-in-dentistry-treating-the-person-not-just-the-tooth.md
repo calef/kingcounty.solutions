@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-09T21:55:01+00:00'
 event_ids: []
 events_extracted: true
@@ -32,6 +33,7 @@ feed_content: |-
 feed_content_checksum: b16ee7748b9088792cea36600702126032be93f4
 image_checksums:
 - ac28bd1f575df670f35224a97c4be5d3cea9627a540f96d5b3492095778189e5
+images_extracted: true
 location_titles:
 - King County
 organization_title: Everyone for Veterans

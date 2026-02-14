@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-06T23:34:46+00:00'
+event_ids: []
 feed_content: Get ready for the next stage of construction on Seattle’s busiest corridor.
   As early as Jan. 9, the Washington State Department of Transportation (WSDOT) will
   resume its Revive I-5 preservation...
 feed_content_checksum: 5e08abfb5c7a3934780598e6ca6048f38348a6b9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-03T00:37:32+00:00'
+event_ids: []
 feed_content: "<span>Help shape city’s future online services</span>\n<span><span>CIosso</span></span>\n<span><time>Mon,
   02/02/2026 - 16:37</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>The
   City of Bellevue is seeking to improve its delivery of online services to the community.
@@ -17,6 +19,7 @@ feed_content: "<span>Help shape city’s future online services</span>\n<span><s
   2 2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: 121c13354dd2211060431bfa347e1372ca01a53a
 image_checksums: []
+images_extracted: true
 location_titles:
 - Bellevue
 organization_title: City of Bellevue

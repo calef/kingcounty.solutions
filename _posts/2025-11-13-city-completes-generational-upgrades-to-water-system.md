@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-13T16:37:17-08:00'
+event_ids: []
 feed_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
   class="field-items"><div class="field-item even" property="content:encoded"><p><span><span><span>The
   City of Mercer Island recently wrapped up a four-year effort to modernize its water
@@ -7,6 +9,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   projects, has greatly improved resilience and reliability, ensuring high quality
   water service for Island residents and businesses.</span></span></span></p></div></div></div>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Mercer Island
 published: false

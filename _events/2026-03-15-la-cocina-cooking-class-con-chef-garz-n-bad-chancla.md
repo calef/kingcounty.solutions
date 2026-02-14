@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-15T14:00:00-07:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>La
   Cocina Cooking Class con Chef Garzón (Bad Chancla)</h1> <div> <div><p> <span> March
@@ -48,6 +49,7 @@ feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>
   Digitales</a></li> <li><a>Digital Skills for Life/ Herramientas Digitales <span>»</span></a></li>
   </ul> </div> </div> </section></div></article>"
 feed_content_checksum: '035049c93899321e3512f56d7d6730ae5562493c'
+image_checksums: []
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 location_titles:
 - King County

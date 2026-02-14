@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-06T23:07:11+00:00'
 event_ids: []
 events_extracted: true
@@ -52,6 +53,7 @@ feed_content: |-
   <p><script>(function(w, d, s, id){var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "https://secure.qgiv.com/resources/core/js/embed.js";fjs.parentNode.insertBefore(js, fjs);})(window, document, 'script', 'qgiv-embedjs');</script></p>
   <p>The post <a href="https://positiveplace.org/meeting-the-moment-how-our-community-can-help-feed-kids-impacted-by-the-snap-benefit-loss/">Meeting the Moment: How Our Community Can Help Feed Kids Impacted by the SNAP Benefit Loss</a> appeared first on <a href="https://positiveplace.org">Boys &amp; Girls Clubs</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Boys & Girls Clubs of King County

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-10T23:52:09+00:00'
+event_ids: []
 feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span><img
   src=\"https://inatai.org/wp-content/uploads/2025/12/Chantal_blog.jpg\"></span>\n\t\t\t</div>\n<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div><p><em>Chantal
   stands on the corner of the observation deck on Shibuya Sky Tower overloking buildings
@@ -53,6 +55,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
   cards. Also, you will likely find me cuddling with my cat, Enoki.</p>\n</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 feed_content_checksum: 3b4937522e9b1bb57783f3aa972104704a1d85d6
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Inatai Foundation
 published: false

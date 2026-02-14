@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-05T22:28:30+00:00'
+event_ids: []
 feed_content: We’re reminding builders working in Seattle to inspect and maintain
   any temporary storm drain inserts they have installed as part of construction projects.
   The inserts, also known as storm drain socks, are used on many construction projects
   to ca...
 feed_content_checksum: 6d8559c603fe58c1f8da929bf2393a32bc1023db
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

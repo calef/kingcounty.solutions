@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-21T18:18:02+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: LIHI staff and volunteers are busily at work setting up two new vi
   serving as the religious sponsor. The village will open before Christmas. Funding
   is provided by the City of Seattle and KCRHA. The CBSR Village is located at 4820...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

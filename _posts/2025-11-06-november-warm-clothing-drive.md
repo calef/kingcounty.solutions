@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-06T22:02:53+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>We are collecting warm clothes at St. Luke&#8217;s for our neighbors With the homelessness crisis, much (needed) time and money are devoted to ensuring no one in our neighborhood goes &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/11/06/november-warm-clothing-drive/" aria-label="November Warm Clothing Drive">Read More</a></p>
   <p>The post <a href="https://stlukesseattle.org/2025/11/06/november-warm-clothing-drive/">November Warm Clothing Drive</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: St. Luke Episcopal Church
 published: false

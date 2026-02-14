@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-16T17:08:03+00:00'
 event_ids: []
 events_extracted: true
@@ -86,6 +87,7 @@ feed_content: |-
   <p></p>
   <p>The post <a href="https://youthcare.org/blog/connections-october-2025/">CONNECTIONS &#8211; October, 2025</a> appeared first on <a href="https://youthcare.org">YouthCare</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: YouthCare

@@ -1,9 +1,11 @@
 ---
+classified: true
 feed_content: The Town Planning Commission of Yarrow Point will hold a regular meeting
   to discuss future policies, including vacant housing. The meeting will be conducted
   in a hybrid format.
 feed_content_checksum: 88368bf416399bc1c659baa3379f2de37b973a3e
 generated_from_post: true
+image_checksums: []
 location: Town Hall
 location_titles:
 - Yarrow Point

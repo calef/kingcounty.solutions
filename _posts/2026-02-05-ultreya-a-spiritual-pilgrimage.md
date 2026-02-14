@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-02-05T22:17:24+00:00'
+event_ids: []
 feed_content: |-
   <p>Starting February 22 at 11:30am Every year in the seasons of Lent and Easter people who are new to the Christian faith, to the Episcopal Church and St. Luke’s, Ballard … <a>Read More</a></p>
   <p>The post <a>Ultreya! A Spiritual Pilgrimage</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: b19120dd1bb661e20131acad9832e9c5c7246860
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

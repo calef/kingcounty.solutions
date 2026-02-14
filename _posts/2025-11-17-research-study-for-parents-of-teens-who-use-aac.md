@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-17T19:43:38+00:00'
 event_ids: []
 events_extracted: true
@@ -85,6 +86,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   Study for Parents of Teens Who Use AAC</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Institute on Human Development and Disability
 published: false

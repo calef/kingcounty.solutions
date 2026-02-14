@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-03T14:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>The sharing of non-VA information does not constitute an endorsement of products or services by the Department of Veterans Affairs. Veterans should always verify information with the organization offering the program.</p>
 
@@ -43,6 +45,7 @@ feed_content: |-
 
   <p>Learn more about the program and meet all five 2025 grant winners <a href="https://www.hiringourheroes.org/stories/2025-small-business-award/" rel="noopener">online</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

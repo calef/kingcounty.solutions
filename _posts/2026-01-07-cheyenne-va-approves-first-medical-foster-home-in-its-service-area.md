@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-07T15:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>What is a medical foster home?</h2>
 
@@ -76,6 +78,7 @@ feed_content: |-
   <p>Learn more about <a>VA’s Medical Foster Home program</a>. </p>
 feed_content_checksum: 988317073c7f8975a2c68ceec2a0dde81eea44c8
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

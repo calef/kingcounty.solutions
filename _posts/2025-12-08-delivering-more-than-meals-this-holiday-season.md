@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-08T21:49:20+00:00'
 event_ids: []
 events_extracted: true
@@ -34,6 +35,7 @@ feed_content_checksum: a0012a1f0b0a8021d0ec8a040b2f89334acb5741
 image_checksums:
 - a08a4987a2fd24e597e3ccc9e52b96ea3ac2af7bc309bf35ad1f0bf4af7979c7
 - c235df7dc31ba7917a2532ccfeb82eb6c87e18bd09097afb5052ffdfbb984422
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

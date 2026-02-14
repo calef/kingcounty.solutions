@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-05T13:00:00-08:00'
 feed_content: <div class="auraMsgBox auraLoadingBox" id="auraLoadingBox"> <span>Loading</span>
   </div> <div class="" id="auraErrorMask"><div role="dialog" aria-labelledby="auraErrorTitle"
@@ -8,6 +9,7 @@ feed_content: <div class="auraMsgBox auraLoadingBox" id="auraLoadingBox"> <span>
   to interrupt</span></span><div id="auraErrorMessage">CSS Error</div> <div class="auraErrorFooter"><a
   role="button" href="?" id="auraErrorReload">Refresh</a></div> </div></div>
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

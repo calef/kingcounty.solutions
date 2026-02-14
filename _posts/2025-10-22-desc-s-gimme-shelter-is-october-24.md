@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-22T21:36:14+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: DESC&#8217;s annual benefit concert and program spotlight, Gimme S
   members, and enjoy local live music!&#160; We&#8217;re kicking off the evening with
   a FREE Program Spotlight focused [&#8230;]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: DESC

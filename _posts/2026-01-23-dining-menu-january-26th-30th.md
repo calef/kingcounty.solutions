@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-23T23:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>Monday ~</strong> Grilled Pastrami &amp; Swiss Sandwich, Citrus Slaw, Potato Soup &amp; Fruit</p>
 
@@ -33,6 +35,7 @@ feed_content: |-
   <p>The post <a>Dining Menu January 26th -30th</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: 0a559027bdf5c16587634989b9080e187c13fb40
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 original_source_html: |-

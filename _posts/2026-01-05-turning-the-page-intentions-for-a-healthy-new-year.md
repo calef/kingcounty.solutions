@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-05T17:18:05+00:00'
+event_ids: []
 feed_content: Last month we shared simple steps to "keep the shine on"—focusing on
   little moments of light, gratitude, and connection to navigate the busy and often
   heavy holiday season.   Now  t hat the festive rush is over, January brings us into
@@ -9,6 +11,7 @@ feed_content: Last month we shared simple steps to "keep the shine on"—focusin
   explore and...
 feed_content_checksum: 05f1ca92b389f797441fcb55e444b1462a3dd6af
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Eastside Friends of Seniors

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-05T06:45:00+00:00'
 event_ids: []
 events_extracted: true
@@ -15,6 +16,7 @@ feed_content: |-
 
   The post [High need for family law attorneys](https://elap.org/high-need-for-family-law-attorneys/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

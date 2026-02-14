@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-05T18:09:50+00:00'
 event_ids: []
 events_extracted: true
@@ -31,6 +32,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"18985\" 
   Valley Health’s New North Bend Clinic Now Accepting New Patients</a> appeared first
   on <a href=\"https://snoqualmievalleyhealth.org\">Snoqualmie Valley Hospital</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

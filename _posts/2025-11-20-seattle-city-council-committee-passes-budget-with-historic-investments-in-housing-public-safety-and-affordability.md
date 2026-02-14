@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-20T19:28:04+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>The Seattle City Council’s budget committee unanimously passed the 2026 budget, making record investments in improving safety and affordability for working families.   “From the start, I have said this budget needs to be about making Seattle safer and more affordable for working families. I’m proud that today, the Council passed a budget that does just...</p>
   <p>The post <a rel="nofollow" href="https://council.seattle.gov/2025/11/20/seattle-city-council-committee-passes-budget-with-historic-investments-in-housing-public-safety-and-affordability/">Seattle City Council committee passes budget with historic investments in housing, public safety, and affordability </a> appeared first on <a rel="nofollow" href="https://council.seattle.gov/">Seattle City Council Blog</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

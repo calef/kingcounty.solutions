@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-01T19:30:00-07:00'
 feed_content: "<div> <div> <p> </p> <p>David Alexander Rahbee leads the UW Symphony
   in a program featuring winners of the 2025-26 School of Music Concerto Competitions.
@@ -6,6 +7,7 @@ feed_content: "<div> <div> <p> </p> <p>David Alexander Rahbee leads the UW Symp
   <h2>Biographies</h2> </div> </div>"
 feed_content_checksum: 162a7148b576f68bd368fe3ffb519ee6f505dacb
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

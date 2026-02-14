@@ -1,10 +1,12 @@
 ---
+classified: true
 end_date: '2026-04-30T19:30:00-07:00'
 feed_content: <div> <div> <p> </p> <p>The Wind Ensemble and Symphonic Band (Erin Bodnar,
   director) presents "Scenes and Portraits,"featuring music by Gustav Holst, Martin
   Ellerby, and others.</p> <h2>Director Biography</h2> </div> </div>
 feed_content_checksum: fbcef081d74ded9619c258c475d6425221a8c578
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

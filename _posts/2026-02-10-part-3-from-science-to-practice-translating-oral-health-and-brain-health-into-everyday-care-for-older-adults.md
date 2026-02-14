@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-10T18:02:18+00:00'
 event_ids: []
 events_extracted: true
@@ -93,6 +94,7 @@ feed_content: |-
   <p>The post <a>Part 3: From Science to Practice – Translating Oral Health &amp; Brain Health into Everyday Care for Older Adults</a> appeared first on <a>Arcora Foundation</a>.</p>
 feed_content_checksum: 3488a37325549541e52c70d82285f904b0d22803
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Arcora Foundation

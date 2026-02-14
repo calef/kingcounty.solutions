@@ -1,7 +1,10 @@
 ---
+classified: true
 date: '2025-10-10T17:25:41+00:00'
+event_ids: []
 feed_content: "![](https://yarrowpointwa.gov/wp-content/uploads/2025/10/Veterans-Day-Coffee-Cart-2025-scaled.jpg)"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

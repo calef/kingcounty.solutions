@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-08T19:30:00-07:00'
 feed_content: "<div> <div> <p>Seattle’s contemporary music orchestra performs György
   Ligeti's piano concerto, featuring faculty pianist and SMO member Cristina Valdés,
@@ -31,6 +32,7 @@ feed_content: "<div> <div> <p>Seattle’s contemporary music orchestra performs 
   and awareness of the music of today.</p> </div> </div>"
 feed_content_checksum: 1d419249747f30b2e87cd16423c29ae2236f5af4
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

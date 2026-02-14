@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-08T19:41:17+00:00'
+event_ids: []
 feed_content: Seattle police officers arrested a 33-year-old felon for selling drugs
   in Belltown on Wednesday, when he arrived at the King County Jail corrections staff
   found crack cocaine hidden in his underpants. On Jan. 7 at about 10:00 a.m., patrol
   officers saw ...
 feed_content_checksum: d5b6593540722346b22ffd199e22afe1ba970a12
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

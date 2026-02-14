@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-17T18:15:58+00:00'
+event_ids: []
 feed_content: |-
   <p class="has-medium-font-size"><strong>Commerce joined Island County and the U.S. Department of Housing and Urban Development to fund the construction of 14 new homes.</strong></p>
 
@@ -77,6 +79,7 @@ feed_content: |-
 
   <p><a href="https://islandrootshousing.org/">You can learn more about Island Roots Housing on their website</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

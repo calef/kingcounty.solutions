@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-07T19:30:00-07:00'
 feed_content: "<article> <header> <h1>The Office of Public Lectures presents: Unlocking
   Secrets: Interrogating the Epigenome to Reveal Pregnancy Risks in Moms with High
@@ -31,6 +32,7 @@ feed_content: "<article> <header> <h1>The Office of Public Lectures presents: Un
   of Communication, School of Public Health</p> </div> </article>"
 feed_content_checksum: b6d8a980c2506348f39db4026228d78e09207294
 image_checksums: []
+images_extracted: true
 location: Town Hall Seattle
 location_titles:
 - King County

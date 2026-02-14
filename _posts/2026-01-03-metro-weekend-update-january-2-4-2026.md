@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-03T01:02:32+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: 'Weekend Service Impacts Routes 101, 102, 111, 150, 177, 212, 218,
   closed from Friday, January...'
 feed_content_checksum: 668927bb8b2453bc1ba6ee98803a8ca34e8b14f1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

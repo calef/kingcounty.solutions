@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T11:30:00-08:00'
 feed_content: "<article> <div> <h1>The Body Project</h1> <div> <div> <h2>What is it?</h2>
   <p>The Body Project is a 4-week evidence-based program designed to increase body
@@ -49,6 +50,7 @@ feed_content: "<article> <div> <h1>The Body Project</h1> <div> <div> <h2>What is
   or considered pretty right now.”</p> <p><cite><strong>Sofia G.</strong></cite></p>
   </blockquote> </div> </article>"
 feed_content_checksum: b4295e531dfa0b69b7a56e5eb72651e714deb2c7
+image_checksums: []
 location: 1218 NE Campus Parkway (ELM)
 location_titles:
 - King County

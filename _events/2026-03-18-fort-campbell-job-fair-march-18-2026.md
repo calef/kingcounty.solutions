@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-19T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Campbell
   Job Fair, March 18, 2026</h1> <div> <div><span>March 18, 2026</span></div> </div>
@@ -9,6 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Cam
   </abbr> </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 117d0fc267ed7535bf07ed9db61675441fe50410
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

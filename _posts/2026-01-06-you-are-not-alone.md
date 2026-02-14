@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-06T00:57:54-08:00'
+event_ids: []
 feed_content: This season reminds us of a profound truth: we are not alone. At Christmas,
   we celebrate that God became flesh and chose to dwell among us, to step into our
   broken world and meet us in our suffering. The God of all creation did not remain
@@ -9,6 +11,7 @@ feed_content: This season reminds us of a profound truth: we are not alone. At 
   in
 feed_content_checksum: 0d318fb48e3a39d59fe765fefe8f7bae4fe8861d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lighthouse NW

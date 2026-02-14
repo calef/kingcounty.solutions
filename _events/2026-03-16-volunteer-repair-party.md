@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-16T21:00:00-07:00'
 feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events </a></p>
   <div> <span> Event Series: </span> <a> <span> Volunteer Repair Party </span> </a>
@@ -17,6 +18,7 @@ feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events <
   </ul> </div> </div> </section>"
 feed_content_checksum: 501b27dd17d3c57d37d6eca8e3ce9ce470395450
 image_checksums: []
+images_extracted: true
 location: 'BIKE WORKS WAREHOUSE, 3715 S Hudson St #111, Seattle, Washington, 98118,
   United States'
 location_titles:

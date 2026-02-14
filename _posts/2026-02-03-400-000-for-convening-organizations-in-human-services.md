@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-03T00:59:24+00:00'
 event_ids:
 - _events/2026-02-27-human-services-funding-application-deadline.md
@@ -30,6 +31,7 @@ feed_content: "<span>$400,000 for convening organizations in human services</spa
   \           <div>\n<time>February 2 2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: e8e9383259fd35ba6bde56e125e2dea164ff1f79
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

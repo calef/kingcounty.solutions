@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-05T16:24:32+00:00'
+event_ids: []
 feed_content: "<span>Bellevue seeks applicants for Arts Commission</span>\n<span><span>CIosso</span></span>\n<span><time>Mon,
   01/05/2026 - 08:24</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>The
   City Council is accepting applications to fill a vacancy on the Arts Commission.
@@ -25,6 +27,7 @@ feed_content: "<span>Bellevue seeks applicants for Arts Commission</span>\n<span
   \           <div>\n<time>January 5 2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: febdf15b03520670d76b48e6dbf6b3966f0214f9
 image_checksums: []
+images_extracted: true
 location_titles:
 - Bellevue
 organization_title: City of Bellevue

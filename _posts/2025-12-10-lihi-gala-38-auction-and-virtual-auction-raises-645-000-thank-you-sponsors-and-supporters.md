@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-10T18:26:34+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: Rev Lawrence Willis of Love-To presents gifts to Sharon Lee, LIHI 
   listening to...
 feed_content_checksum: 1712320a070700662035b81d368bbfe6612b853c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

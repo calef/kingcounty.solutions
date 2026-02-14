@@ -1,10 +1,12 @@
 ---
+classified: true
 end_date: '2026-04-13T19:30:00-07:00'
 feed_content: "<div> <div> <p>Faculty soprano Carrie Shaw’s new Seattle-based group
   Wind Up Vocal Project performs musical puzzles of the past and present, including
   Ming Tsao’s “DAS WASSERGEWORDENE KANONBUCH.”</p> <h2>Biography</h2> </div> </div>"
 feed_content_checksum: e7238480afd6318a18110e0181fd604705dc3f37
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

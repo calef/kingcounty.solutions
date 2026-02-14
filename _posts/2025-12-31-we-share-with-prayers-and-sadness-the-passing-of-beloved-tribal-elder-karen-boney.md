@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-31T21:30:29+00:00'
+event_ids: []
 feed_content: |-
   <p><span>We share with prayers and sadness </span><span>the passing of a beloved Tribal Elder </span></p>
   <h1><span>Karen Boney</span></h1>
@@ -17,6 +19,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 222661bd9405b0e0de4c08656bc9c9a4e44cf659
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

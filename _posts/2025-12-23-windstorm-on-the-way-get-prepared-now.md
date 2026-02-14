@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-23T23:31:31+00:00'
+event_ids: []
 feed_content: The National Weather Service in Seattle has forecast the potential for
   a major windstorm for the Puget Sound region on December 24. Winds gusts potentially
   exceeding 60 miles per hour may blow through King County, which could damage trees
@@ -7,6 +9,7 @@ feed_content: The National Weather Service in Seattle has forecast the potential
   […]
 feed_content_checksum: b28c4b27022984f83951193b822e9a474c31f4fe
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

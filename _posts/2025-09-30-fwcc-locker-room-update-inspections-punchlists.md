@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-30T19:14:12+00:00'
+event_ids: []
 feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"16794\" class=\"elementor
   elementor-16794\" data-elementor-post-type=\"post\">\n\t\t\t\t\t\t<section class=\"elementor-section
   elementor-top-section elementor-element elementor-element-abb9a3d elementor-section-boxed
@@ -91,6 +93,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"16794\" 
   Locker Room Update: Inspections &#038; Punchlists</a> appeared first on <a href=\"https://itallhappenshere.org\">Federal
   Way Community Center</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Federal Way Community Center
 published: false

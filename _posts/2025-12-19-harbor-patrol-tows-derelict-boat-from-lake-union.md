@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-19T22:35:00+00:00'
+event_ids: []
 feed_content: Earlier this month, the Seattle Police Department’s Harbor Patrol Unit
   (HPU) towed away a derelict, fuel-leaking boat from Lake Union following a multi-agency
   response effort beginning in October. SPD, along with the Department of Natural
   Resources (DN...
 feed_content_checksum: 63b85f0178322353c2097b1dc89cbf7691eb5638
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

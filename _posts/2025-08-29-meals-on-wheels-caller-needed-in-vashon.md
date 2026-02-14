@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-29T18:14:42+00:00'
 event_ids: []
 events_extracted: true
@@ -21,6 +22,7 @@ feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Locati
   on Wheels: Caller needed in Vashon!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - Vashon
 organization_title: Sound Generations

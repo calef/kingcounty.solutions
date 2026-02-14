@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-21T19:09:20+00:00'
 event_ids: []
 events_extracted: true
@@ -96,6 +97,7 @@ feed_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/184">Start the Course</a></p>
   <p>The post <a href="https://arcorafoundation.org/apple-health-medicaid-dental-101/">Apple Health (Medicaid) Dental 101</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Arcora Foundation

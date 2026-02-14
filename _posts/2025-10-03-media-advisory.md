@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-03T23:25:13+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p class="read-more-container"><a title="*MEDIA ADVISORY*  " class="read-more button" href="https://nhwa.org/2025/10/03/wilcox-media-advisory/#more-25295" aria-label="Read more about *MEDIA ADVISORY*  ">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/10/03/wilcox-media-advisory/">*MEDIA ADVISORY*  </a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Neighborhood House

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-22T13:17:52+00:00'
+event_ids: []
 feed_content: |-
   <p>The PWB will hold a special meeting on Tuesday, December 23, 2025 from 3:00 – 4:00 p.m. to discuss the proposal for increasing emergency awards available in response to the significant atmospheric river and winter weather events impacting communities across Washington.</p>
 
@@ -18,6 +20,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 7e9539ebc36c6adb66bc369bdc7f1c992c074233
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-27T18:51:03+00:00'
 event_ids:
 - _events/2026-03-31-tukwila-city-of-opportunity-scholarship-application-deadline.md
@@ -23,6 +24,7 @@ feed_content: |-
   <p>The post <a>2026 Tukwila City of Opportunity Scholarship Application now available</a> appeared first on <a>City of Tukwila</a>.</p>
 feed_content_checksum: 748f1c80f24970b23a270e4811a52836b53cc25e
 image_checksums: []
+images_extracted: true
 location_titles:
 - Tukwila
 organization_title: City of Tukwila

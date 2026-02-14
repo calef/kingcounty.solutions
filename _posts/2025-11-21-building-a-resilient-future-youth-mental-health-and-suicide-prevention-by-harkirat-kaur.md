@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-21T20:55:07+00:00'
 event_ids: []
 events_extracted: true
@@ -111,6 +112,7 @@ feed_content: "<p><strong>A Personal Story: Olivia&#8217;s Silent Struggle</stro
   a Resilient Future: Youth Mental Health and Suicide Prevention &#8211; By: Harkirat
   Kaur</a> appeared first on <a href=\"https://nami-eastside.org\">Nami-Eastside WA</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: National Alliance on Mental Illness Eastside

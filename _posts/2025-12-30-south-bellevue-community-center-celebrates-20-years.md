@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-30T18:07:41+00:00'
 event_ids: []
 events_extracted: true
@@ -32,6 +33,7 @@ feed_content: "<span>South Bellevue Community Center celebrates 20 years</span>\
   \ </div>"
 feed_content_checksum: 43cb1d8e1435ce4c18f3bafb0f761a39410b680e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

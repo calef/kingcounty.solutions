@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-30T17:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p>Stories with compressed timelines of 24 hours, with some flashbacks thrown in, take center stage here to showcase just how much one day can really make a difference.</p>
 
@@ -98,6 +100,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 5ee894eb27b773c87c09714e69ecc6f1d97d68c1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

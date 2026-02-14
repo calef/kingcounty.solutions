@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-04T13:30:00-08:00'
 feed_content: '<div> <section> <div> <section> <h1> <div> <div> <div>Student Activities
   and Performances</div> </div> </div> </h1> </section> <section> <div> <div> <div>
@@ -72,6 +73,7 @@ feed_content: '<div> <section> <div> <section> <h1> <div> <div> <div>Student Act
   </div> </div> </div> </section> </div> </aside>'
 feed_content_checksum: 1ed3bd0641fb09bd9f04ac63ac9c5e2e9bb3eef8
 image_checksums: []
+images_extracted: true
 location: Allen Library (ALB)
 location_titles:
 - King County

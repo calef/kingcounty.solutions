@@ -133,8 +133,8 @@ module Mayhem
         nil
       end
 
-      def needs_classification_for_record?(record, key)
-        record[key].nil?
+      def needs_classification_for_record?(record)
+        record.classified? != true
       end
 
       def store_source_html(record, html)

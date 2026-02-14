@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-10T23:58:57+00:00'
+event_ids: []
 feed_content: |-
   <p>The following Tribal Members will receive tickets to the suite during the Seahawks Celebration on Wednesday, February 11, 2026.</p>
   <p> </p>
@@ -89,6 +91,7 @@ feed_content: |-
   </table>
 feed_content_checksum: ee9f0620595ccb0eb0efc80e56d29565c25f63ee
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

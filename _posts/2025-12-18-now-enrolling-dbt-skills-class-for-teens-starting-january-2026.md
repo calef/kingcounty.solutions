@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-18T08:47:13+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: The DBT team at Friends of Youth is excited to share that our next
   way that helps build resilience, improve communication, and support healthier...
 feed_content_checksum: 39f2eddd3e27c546a441d94de2ca1150871b6fc9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Friends of Youth

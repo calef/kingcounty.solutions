@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-05T19:00:00-08:00'
 feed_content: "<div> <div> <div> <div> <section> <form> <label>All the UW</label>
     <label>Current Site</label> </form> </section> </div> </div> </div> </div> <div>
@@ -53,6 +54,7 @@ feed_content: "<div> <div> <div> <div> <section> <form> <label>All the UW</label
   <p><a>Newsletter Signup</a> <a>Blog RSS feed</a></p> </section> </div> </aside>
   </aside> </div> </div> </div> </div>"
 feed_content_checksum: ff1846bb0d389a27b0ccf05dcd41eee682d15a76
+image_checksums: []
 location: Thaddeus and Lois Spratlen Hall (MDR)
 location_titles:
 - King County

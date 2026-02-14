@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-16T17:00:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <h1>Presidents’ Day – City
   Offices Closed / Tukwila Community Center Open 8:00 am – 12:00 pm</h1> <div> <h2>
@@ -21,6 +22,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <h1>Presidents’ Day
   </div> </div> </section>"
 feed_content_checksum: fcd89bcc85f489c7aa5c45018509179f78dd2671
 image_checksums: []
+images_extracted: true
 location: Tukwila Community Center, 12424 42nd Avenue South , Tukwila, WA, 98168,
   United States
 location_titles:

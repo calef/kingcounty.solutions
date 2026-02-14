@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-08T18:49:20+00:00'
+event_ids: []
 feed_content: Use of earliest publication date for determining NIH Public Access compliance
   As shared in the July National Center for Biotechnology Information (NCBI) Insights
   post, NCBI at the National Library of Medicine (NLM) is making ongoing improvements
@@ -8,6 +10,7 @@ feed_content: Use of earliest publication date for determining NIH Public Access
   class="more-link">Continue reading <span class="screen-reader-text">Upcoming Change
   in My Bibliography</span> <span class="meta-nav">&#8594;</span></a>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: National Center for Biotechnology Information
 published: false

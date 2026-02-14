@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-19T20:00:00-08:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span> Event
   Series: </span> <a> <span> NorthWest Share Free Weekly Food Truck </span> </a> </div>
@@ -38,6 +39,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   Minds – Art for Mental Health</a></h3> <span>March 3 @ 6:00 pm</span> - <span>7:00
   pm</span> </div> </li> </ul> </div> </div> </section> </div>"
 feed_content_checksum: f7702a99f8ca8a5a475d2cf1dec5a2ce4655504b
+image_checksums: []
 location: Together Center, 16305 NE 87th St, Redmond, WA, 98052, United States
 location_titles:
 - King County

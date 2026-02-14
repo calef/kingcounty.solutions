@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-27T16:28:49+00:00'
 event_ids: []
 events_extracted: true
@@ -23,6 +24,7 @@ feed_content: |-
   <p>The post <a>Meals on Wheels: Deliver Meals and a Smile in Renton!</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: 2da12e95e23f36e01e9aa305dfac5a00fefce84e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

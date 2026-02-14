@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-02-06T09:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p>Solidarity with immigrant, refugee, and BIPOC communities   *NWIRP, WAISN, OneAmerica, Childrens Thrive Action Network, Protecting Immigrant Families, National Day Laborer Organizing Network, ACLU of Washington </p>
   <p>The post <a>A Message From our Executive Director</a> appeared first on <a>Neighborhood House</a>.</p>
 feed_content_checksum: 4e92c6c3aba1c6102af9f10f04c36fba63896646
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Neighborhood House

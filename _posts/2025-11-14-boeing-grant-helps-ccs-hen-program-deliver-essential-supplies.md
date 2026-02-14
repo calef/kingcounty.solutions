@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-14T17:22:12+00:00'
 event_ids: []
 events_extracted: true
@@ -45,6 +46,7 @@ feed_content: |-
 image_checksums:
 - a9b1c8beb3d69cbb379637b1ee240dd4be5322d1be1b8bb1d61571dace733c43
 - 6bf5bf4a66ae093fa9072a5acdbd0b81cea4bece903b5c449bcfc9077b53f4bd
+images_extracted: true
 location_titles:
 - King County
 organization_title: Catholic Community Services of Western Washington

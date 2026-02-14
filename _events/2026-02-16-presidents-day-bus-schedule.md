@@ -1,7 +1,9 @@
 ---
+classified: true
 feed_content: Metro will operate on a weekday schedule for buses on President's Day.
 feed_content_checksum: 7164b183fca4628182d1598aa05eeb5390f9d308
 generated_from_post: true
+image_checksums: []
 location: King County Metro Transit Area
 location_titles:
 - King County

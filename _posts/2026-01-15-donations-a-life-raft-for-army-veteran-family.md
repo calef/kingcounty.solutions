@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-15T14:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Donations a ‘Life Raft’ for Army Veteran and His Family</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 
@@ -65,6 +67,7 @@ feed_content: |-
   <p>The post <a>Donations a ‘Life Raft’ for Army Veteran Family</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: a72ad3b59a6220fe2a434c5bbcb2b6031304a403
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Operation Homefront
 original_source_html: |-

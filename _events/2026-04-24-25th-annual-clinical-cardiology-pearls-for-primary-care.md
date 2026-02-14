@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-24T17:00:00-07:00'
 feed_content: '<div> <div> <div> <div> <div> <div> <div> {1} </div> <div> <a> <span>
   <span>##LOC[OK]##</span> </span> </a> </div> </div> </div> <div> <div> <div> {1}
@@ -152,6 +153,7 @@ feed_content: '<div> <div> <div> <div> <div> <div> <div> {1} </div> <div> <a> <s
   </div> </div>'
 feed_content_checksum: 5c4fce6b84fe4d59cbead57acdb5da601504924c
 image_checksums: []
+images_extracted: true
 location: Zoom Webinar
 location_titles:
 - King County

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-09T21:39:07+00:00'
+event_ids: []
 feed_content: |-
   <p>A quiet cultural shift is underway, powered not by celebrity campaigns or industry slogans, but by individuals who are willing to challenge the assumptions society makes about growing older. These individuals are what we call Agefluencers. They are people who reshape how we think and talk about aging by engaging earnestly, sharing openly, and challenging the outdated scripts that have long defined the later chapters of life. We are coining the term Agefluencer to describe someone who engages in conversations that challenge norms, dismantle ill‑formed perceptions of age, and help redefine the world we wish to grow old in while celebrating life at every stage. This spirit of truth‑telling and optimism captures the heart of a movement that has always been a core part of our work and identity at Transforming Age.</p>
 
@@ -17,6 +19,7 @@ feed_content: |-
   <p>The post <a>Be an Agefluencer: Changing the Story of Aging</a> appeared first on <a>Transforming Age | Senior Housing, Community Services, Philanthropy, Technology &amp; Partnerships</a>.</p>
 feed_content_checksum: dde62950cd6440a6c2dfd0ed103a60853baaf671
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Transforming Age

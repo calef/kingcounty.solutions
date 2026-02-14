@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-31T18:47:17+00:00'
 event_ids: []
 events_extracted: true
@@ -56,6 +57,7 @@ feed_content: |-
   <p></p><p>The post <a>A Thank You Letter from Passenger Shannon</a> first appeared on <a>Angel Flight West</a>.</p>
 feed_content_checksum: 6af4f98bcacc8aca9742ee5ae3bb6befbbb17d82
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Angel Flight West

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-03T16:40:29+00:00'
 event_ids: []
 events_extracted: true
@@ -18,6 +19,7 @@ feed_content: |-
   <p>To learn more about Tellica Imaging in partnership with MultiCare, visit: <a href="https://tellicaimaging.com/washington/" target="_blank" rel="noopener external noreferrer" data-wpel-link="external" class="wpel-icon-right">tellicaimaging.com/washington<span class="wpel-icon wpel-image wpel-icon-6"></span></a>.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/10/multicare-partners-with-tellica-imaging-to-bring-imaging-services-closer-to-home/" data-wpel-link="internal">MultiCare partners with Tellica Imaging to bring imaging services closer to home</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: MultiCare

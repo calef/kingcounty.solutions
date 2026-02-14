@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-03T22:21:50+00:00'
+event_ids: []
 feed_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Print_Neighborhood_Meeting_Postcard-002-300x274.jpeg)\n\nThe
   City is hosting a gathering and you are invited! All who live and work here are
   welcome to this free event.\n\nLearn about City initiatives – including projects
@@ -11,6 +13,7 @@ feed_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Print_Neighborho
   on October 14, 2025](https://www.tukwilawa.gov/join-us-for-a-interurban-avenue-south-and-foster-point-neighborhood-meeting-on-october-14-2205/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Tukwila
 published: false

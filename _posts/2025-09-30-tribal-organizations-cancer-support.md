@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-30T23:05:34+00:00'
 event_ids: []
 events_extracted: true
@@ -38,6 +39,7 @@ feed_content: "<p>On a cool September morning along the southern waters of Hood 
   name for this body of water is “tuwaduq sidaqʷ” [too-wah-duke SEE-dock], which means
   &#8216;the Twana people&#8217;s saltwater&#8217;.</p>\r\n<p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

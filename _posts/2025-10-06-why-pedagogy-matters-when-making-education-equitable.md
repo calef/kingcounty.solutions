@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-06T23:21:44+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Boze Elementary Students work together through a math worksheet. I
   pedagogy is the practice of teaching, and the methodology used to influence children’s
   learning and development.   How this applies [&#8230;]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Technology Access Foundation

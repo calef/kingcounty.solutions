@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-24T21:56:01+00:00'
+event_ids: []
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Parks
   &amp; Community Services Department earns perfect score with reaccreditation</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span
@@ -73,6 +75,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   datetime=\"2025-10-24T12:00:00Z\" class=\"datetime\">October 24 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Bellevue
 published: false

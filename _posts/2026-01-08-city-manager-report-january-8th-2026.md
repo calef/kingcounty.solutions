@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T22:24:04+00:00'
 event_ids:
 - _events/2026-02-09-open-enrollment-for-normandy-park-preschool.md
@@ -8,6 +9,7 @@ feed_content: |-
   The City of Normandy Park is proud to offer a high-quality, play-based preschool program for children ages 2.5 to 5.5. For more than 20 years, Normandy Park Preschool has provided a welcoming environment where children learn, grow, and make friends through hands-on play and exploration. Children enjoy a full range of developmentally appropriate activities, including art, storytelling, music, movement, outdoor play, and early literacy experiences. Our program supports social, emotional, and cognitive development while fostering curiosity and a love of learning. Normandy Park Preschool serves families from Normandy Park and the surrounding community.
 feed_content_checksum: 2afd35ef36f02e628af6813b722cc13c10eb6fc8
 image_checksums: []
+images_extracted: true
 location_titles:
 - Normandy Park
 organization_title: City of Normandy Park

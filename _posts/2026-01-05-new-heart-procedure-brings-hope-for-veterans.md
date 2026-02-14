@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-05T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -42,6 +43,7 @@ feed_content: |-
   <p>Veterans interested in learning whether this therapy may be right for them are encouraged to talk with their cardiologist.</p>
 feed_content_checksum: 631260bc6db62f05694c5244151e354a6cbd55e1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

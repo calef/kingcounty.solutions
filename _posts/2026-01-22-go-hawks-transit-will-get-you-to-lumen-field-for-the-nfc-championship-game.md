@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-22T20:59:19+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Our Seattle Seahawks play the biggest home game of the season on S
   goes...
 feed_content_checksum: 7da0ef6b7d3877a46f0568d1670c38ea090d8efc
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

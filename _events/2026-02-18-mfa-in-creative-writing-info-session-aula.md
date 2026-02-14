@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T18:00:00-08:00'
 feed_content: '<div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li><a>Request
   Info</a></li> <li><a>Visit</a></li> <li><a>Apply</a></li> <li><a>Employment</a></li>
@@ -89,6 +90,7 @@ feed_content: '<div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <l
   </script>'
 feed_content_checksum: 66632145af25b22d9f20cc537747673115df7da7
 image_checksums: []
+images_extracted: true
 location: Virtual Events @ Antioch University
 location_titles:
 - King County

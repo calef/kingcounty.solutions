@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-18T20:30:12+00:00'
 event_ids:
 - _events/2026-01-26-essentials-first-day-of-action.md
@@ -21,6 +22,7 @@ feed_content: "<p>The first Essentials First’s annual Day of Action is happeni
 feed_content_checksum: 91a7dc69ddca03a64612e84a53949e0ad131edac
 image_checksums:
 - 901e7bf5bfc4f2dfd4432c84dc07ff01edf3ddf62f470c694fda91cffc2e2636
+images_extracted: true
 location_titles:
 - King County
 organization_title: Essentials First

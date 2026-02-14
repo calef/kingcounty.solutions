@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-30T00:00:00-08:00'
 feed_content: A 10-week virtual series for parents and caregivers of children aged
   3 to 12 with developmental disabilities, featuring skill-building sessions and family
@@ -6,6 +7,7 @@ feed_content: A 10-week virtual series for parents and caregivers of children ag
 feed_content_checksum: 1a233cf7181a102823f418805941c3cc7daee533
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Virtual
 location_titles:
 - King County

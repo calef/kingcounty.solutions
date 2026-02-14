@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-18T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Virtual (National)
   Job Fair, March 17, 2026</h1> <div> <div><span>March 17, 2026</span></div> </div>
@@ -9,6 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Virtual 
   </abbr> </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: d8f6e699c8449d5400bc8149c419d5a422dfd160
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

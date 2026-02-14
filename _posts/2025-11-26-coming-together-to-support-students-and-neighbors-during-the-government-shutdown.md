@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-26T19:33:34+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Over 8,800 food boxes distributed to families at 98 Seattle Public
   abruptly lapsed on Nov. 1 due to the Trump administration’s refusal to release dollars
   from S...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

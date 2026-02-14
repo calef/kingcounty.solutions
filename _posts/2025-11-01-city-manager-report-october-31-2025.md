@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-01T02:05:42+00:00'
+event_ids: []
 feed_content: What’s Next for City Hall? We often receive the question, “What’s going
   on with replacing City Hall?” I would like to take this opportunity to provide an
   update on the project's status and outline the next steps. As many residents know,
@@ -10,6 +12,7 @@ feed_content: What’s Next for City Hall? We often receive the question, “Wha
   As a result, the City has been exploring options to ensure that we have a safe,
   efficient, and functional building that can continue to serve residents daily.
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Normandy Park
 published: false

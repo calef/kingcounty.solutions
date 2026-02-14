@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-14T10:58:16-08:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: <div><p paraid="1973814904" paraeid="{cd3fb4e6-7e4b-446c-acce-d66d
   not just by new stations — but by vibrant, community-inspired public art that celebrates
   the spirit, history, and diversity of South King County.&nbsp;</p></div>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Transit

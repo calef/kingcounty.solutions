@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-02T23:12:53+00:00'
 event_ids: []
 events_extracted: true
@@ -106,6 +107,7 @@ feed_content: |-
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/capitol-courier-prop-1-and-the-seattle-fepp-levy/">Capitol Courier: Prop 1 and the Seattle FEPP Levy</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: BrightSpark

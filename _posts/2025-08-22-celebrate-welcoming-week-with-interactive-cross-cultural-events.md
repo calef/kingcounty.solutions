@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-22T16:23:15+00:00'
 event_ids: []
 events_extracted: true
@@ -45,6 +46,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   datetime=\"2025-08-22T12:00:00Z\" class=\"datetime\">August 22 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - Eastside
 organization_title: City of Bellevue

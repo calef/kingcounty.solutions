@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-12T23:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -31,6 +32,7 @@ feed_content: |-
   <p>The post <a>Dining Menu December 15th – 19th</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: 30b8334b453f3035f806f4a38bb4763bcd918b8a
 image_checksums: []
+images_extracted: true
 location_titles:
 - Seattle
 organization_title: Ballard Northwest Senior Center

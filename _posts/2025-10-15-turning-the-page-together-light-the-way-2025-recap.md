@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-15T23:53:11+00:00'
 event_ids: []
 events_extracted: true
@@ -73,6 +74,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"10836\" 
   Now and Help Rewrite the Story</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t</div>"
 image_checksums:
 - 4fdf634f8e2d9acd0422227e42b3947d305b989a74b3670d8df4da23b7be127d
+images_extracted: true
 location_titles:
 - King County
 organization_title: PorchLight

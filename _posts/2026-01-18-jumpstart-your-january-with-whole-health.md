@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-18T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -82,6 +83,7 @@ feed_content: |-
   <p>Here’s to your Whole Health in 2026—a year to set meaningful goals, find balance and build a healthier future.</p>
 feed_content_checksum: 7dcad1bbc0352a72c00b5f611e3522289125f324
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

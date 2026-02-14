@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-05T23:20:19+00:00'
+event_ids: []
 feed_content: |-
   <p>By now, you have likely heard some news about a possible “Millionaires Tax” being considered this legislative session. As the state with the <a><u><strong>49th most regressive tax structure in the country</strong></u></a>, Washington needs to find new, progressive revenue sources in order to serve the many human, environmental, and infrastructure needs and obligations of the state.</p>
 
@@ -162,6 +164,7 @@ feed_content: |-
   <p>The post <a>Washington’s Millionaire Tax: Everything You Need to Know</a> appeared first on <a>BrightSpark</a>.</p>
 feed_content_checksum: 43411d2ecfcba35d813e98f95e0fcb9066b77103
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: BrightSpark
 original_source_html: "<!doctype html>\n<html lang=\"en-US\">\n\n<head>\n  <meta charset=\"utf-8\">\n

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-24T21:53:41+00:00'
+event_ids: []
 feed_content: "<span>Massage therapist in Whatcom County suspended due to stalking
   charges</span>\n\n            <div>\n<time>December 24, 2025 - 1:50pm</time>\n</div>\n
   \     <span><span>Sharon.Moysiuk…</span></span>\n<span><time>December 24, 2025 -
@@ -30,6 +32,7 @@ feed_content: "<span>Massage therapist in Whatcom County suspended due to stalki
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: 1f64febdff64d3edffb62d43e81c1fccd01096c8
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Health
 original_source_html: "<span>Massage therapist in Whatcom County suspended due to

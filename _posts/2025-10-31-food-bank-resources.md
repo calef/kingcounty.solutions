@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-31T18:54:45+00:00'
 event_ids: []
 events_extracted: true
@@ -126,6 +127,7 @@ feed_content: "<div class=\"wp-block-image\">\n<figure class=\"alignright size-l
   Alliance</a>.</p>"
 image_checksums:
 - 247574ba3dc5de1f82fe04272317e2b297ca0267bdb36fe5ebd7918fab51c1e0
+images_extracted: true
 location_titles:
 - King County
 organization_title: Refugee Women's Alliance

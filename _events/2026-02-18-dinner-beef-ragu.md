@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T18:00:00-08:00'
 feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Dinner:
   Beef Ragu</h1> <div> <div> <span>February 18 @ 5:00 PM</span> - <span>6:00 PM</span>
@@ -20,6 +21,7 @@ feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> 
   <span> 206-767-2544 </span> </li> </ul> </div> </div> </div> <p>Comments are closed.</p>
   </div> </section> </div> </div> </div>"
 feed_content_checksum: 9e151e6c655b705ae45f460c14ef4819d70cba92
+image_checksums: []
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 location_titles:

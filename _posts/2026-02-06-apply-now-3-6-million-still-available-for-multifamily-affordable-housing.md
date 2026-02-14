@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-06T18:12:27+00:00'
 event_ids:
 - _events/2026-03-16-application-deadline-for-multifamily-affordable-housing-funds.md
@@ -55,6 +56,7 @@ feed_content: |-
   <p>If you have questions regarding this announcement or the NOFA, submit them to <a>HTFApp@commerce.wa.gov</a>.</p>
 feed_content_checksum: 1a693021d03886508aa75f7e4acafe5a9a275183
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-08T19:28:30+00:00'
 event_ids: []
 events_extracted: true
@@ -34,6 +35,7 @@ feed_content: "<h2 data-start=\"924\" data-end=\"1111\">32 in Review:  Looking 
   we are 32 Strong. Together, we begin Year 33.</h4>\n<h3>Link to: <a href=\"https://secure.lglforms.com/form_engine/s/pnZT4f_ZJ6H6U9hDXMAi4A\">Give
   Today</a></h3>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - Eastside
 organization_title: PorchLight

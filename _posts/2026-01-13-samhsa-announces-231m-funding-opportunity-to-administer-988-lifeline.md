@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-13T14:01:59-05:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: "<p>The Substance Abuse and Mental Health Services Administration 
   chat and ASL videophone.</p>"
 feed_content_checksum: 7f31339a1f6a20c091ace5153acf29b930772048
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Substance Abuse and Mental Health Services Administration

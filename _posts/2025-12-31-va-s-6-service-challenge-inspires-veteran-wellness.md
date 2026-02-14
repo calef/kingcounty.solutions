@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-31T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -70,6 +71,7 @@ feed_content: |-
   <p>Learn more about the <a>Share My Health Data app</a> on the <a>VA Mobile App Store page</a>.</p>
 feed_content_checksum: c27dab92781dd8cc55169e6ee8714653f9b21daf
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-04T14:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>Some stories don’t just show us what service looks like, they show us what endurance looks like, too. Take this month’s “From Uniform to Unforgettable” spotlight, a celebration of the life and service of Marine Corps Veteran Benjamin Summers, Jr.</p>
 
@@ -40,6 +42,7 @@ feed_content: |-
   <p>From Uniform to Unforgettable celebrates Veterans whose journeys deserve to be heard, honored and remembered. If you are a Veteran, or know a Veteran whose story should be featured, please submit (or nominate them) at https://www.surveymonkey.com/r/cmvveteranspotlight.</p>
 feed_content_checksum: 11632685841223bcbd6be6b255f9b43b1bc787af
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

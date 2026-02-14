@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T01:29:27+00:00'
 event_ids: []
 events_extracted: true
@@ -38,6 +39,7 @@ feed_content: |-
   </div>
 feed_content_checksum: 5c48bf0d32ffecf1c9cb7457c1a37380a2a60d03
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health
@@ -242,3 +244,4 @@ title: Washington State Department of Health Statement on Federal Changes to Chi
 topic_titles:
 - Health Care
 ---
+

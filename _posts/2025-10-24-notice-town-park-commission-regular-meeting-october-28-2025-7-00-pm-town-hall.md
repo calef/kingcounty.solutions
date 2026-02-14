@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-24T17:21:50+00:00'
+event_ids: []
 feed_content: |-
   [COMPLETE PACKET](https://yarrowpointwa.gov/wp-content/uploads/2025/10/08-October-28-2025-Regular-Meeting.pdf)
 
@@ -39,6 +41,7 @@ feed_content: |-
 
   Thank you.
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

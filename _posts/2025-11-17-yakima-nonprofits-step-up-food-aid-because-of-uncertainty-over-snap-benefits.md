@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-17T17:04:08+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Yakima nonprofits step up food aid because of uncertainty over SNAP benefits</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: '093ca3b3994c41035a1c1eaf1f63a518be501101'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Northwest Harvest
 published: false

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-26T21:10:30+00:00'
+event_ids: []
 feed_content: |-
   <a>Apply For Position</a>
   <p>Department: Snoqualmie Gaming Commission<br>
@@ -56,6 +58,7 @@ feed_content: |-
   <a>Apply For Position</a>
 feed_content_checksum: 02f3b78b0301a32704002e2859ea1bd669926299
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-19T04:48:00+00:00'
 event_ids:
 - _events/2026-01-19-martin-luther-king-jr-day.md
@@ -35,6 +36,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   first on <a>Snoqualmie Valley Hospital</a>.</p>"
 feed_content_checksum: d25fc8991cbae83da32302fb72b402fb38547b60
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

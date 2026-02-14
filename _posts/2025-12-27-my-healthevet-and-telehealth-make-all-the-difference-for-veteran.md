@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-27T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -74,6 +75,7 @@ feed_content: |-
   <p>For more information about telehealth services, visit <a>VA Telehealth Services</a>. It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to <a>get started</a>. </p>
 feed_content_checksum: 30b5a9a96c4911638d646417be7c6d30e71dfebb
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

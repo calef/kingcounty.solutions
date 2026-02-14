@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-12T15:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>A festive day of fun, connection, and holiday spirit</h2>
 
@@ -48,6 +50,7 @@ feed_content: |-
   <p>Contact the <a>CDCE at a VA facility near you</a>. Find out more about <a>volunteering at VA</a>.</p>
 feed_content_checksum: 3db90d1db365b2c9b1fbe48cb0d15e3b7a4a2969
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

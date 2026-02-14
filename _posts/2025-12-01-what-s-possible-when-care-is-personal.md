@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-01T21:38:27+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Eva's story is a reminder that when people have access to PROVAILâ
   holistic continuum that empowers people to live the lives they choose.
 feed_content_checksum: 8bf542c321065e1301b339429cc8f9df60ad214f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: PROVAIL

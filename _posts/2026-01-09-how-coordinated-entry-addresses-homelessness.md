@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-09T17:44:25+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>How Coordinated Entry Addresses Homelessness</a> appeared first on <a>KCRHA</a>.</p>
 feed_content_checksum: 5c21244fd4bf93c78c633c615821f14293e3b681
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

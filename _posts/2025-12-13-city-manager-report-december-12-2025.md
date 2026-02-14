@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-13T00:56:38+00:00'
+event_ids: []
 feed_content: City Council Meeting Roundup. On Tuesday, December 9th, the Normandy
   Park City Council held its regular monthly meeting. Below is a summary of key actions
   and discussions. Approval of the Miller and Walker Creeks Basin Stewardship 2026
@@ -14,6 +16,7 @@ feed_content: City Council Meeting Roundup. On Tuesday, December 9th, the Norman
   option compared to other available jail contracts.
 feed_content_checksum: 3740c24dec92ef5141ef37c284d8f4f7ae50174c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Normandy Park

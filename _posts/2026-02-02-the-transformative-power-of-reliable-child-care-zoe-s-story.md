@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-02T15:57:44+00:00'
 event_ids: []
 events_extracted: true
@@ -89,6 +90,7 @@ feed_content: |-
   <p>The post <a>The Transformative Power of Reliable Child Care: Zoe’s Story</a> appeared first on <a>BrightSpark</a>.</p>
 feed_content_checksum: 30aa2c41168cfe62d70219d4bf31b6cc0114753e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: BrightSpark

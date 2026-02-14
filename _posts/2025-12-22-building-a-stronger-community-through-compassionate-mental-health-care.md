@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-22T21:09:54+00:00'
 event_ids: []
 events_extracted: true
@@ -28,6 +29,7 @@ feed_content: |-
 feed_content_checksum: 44e30ce78b4bfc82862012d5fb2cd8a6e8cc1198
 image_checksums:
 - fd3008c54bac4e6136678e48db278cf11ff53143c9e437613aba7b34d225ac4f
+images_extracted: true
 location_titles:
 - King County
 organization_title: Valley Cities Behavioral Health Care

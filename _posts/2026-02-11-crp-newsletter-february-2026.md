@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-11T00:54:23+00:00'
 event_ids:
 - _events/2026-02-28-small-business-grants-application-deadline.md
@@ -213,6 +214,7 @@ feed_content: |-
   </ul>
 feed_content_checksum: 187d71e6f1f085a491169497e7e788d5269bd086
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

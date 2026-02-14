@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-30T16:55:13+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Community Corner highlights the work of Seattle Human Services’ 
   Arthur Acuario at Southwest Youth &#38; Family Services (also follow on Facebook,
   Instagram and LinkedIn). [&#8230;]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

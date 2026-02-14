@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-12T19:06:27+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: |-
   </div>
 feed_content_checksum: 1746e0c26f43724b304ecea28ed0135e9f7e69be
 image_checksums: []
+images_extracted: true
 location_titles:
 - South King County
 organization_title: Hospitality House

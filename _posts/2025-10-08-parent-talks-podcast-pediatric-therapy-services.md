@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-08T19:28:53+00:00'
 event_ids: []
 events_extracted: true
@@ -29,6 +30,7 @@ feed_content: |-
 
   The post [Parent Talks Podcast: Pediatric Therapy Services](https://encompassnw.org/parent-talks-podcast-pediatric-therapy-services/) first appeared on [Encompass](https://encompassnw.org).
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Encompass

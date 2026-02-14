@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-11T00:45:10+00:00'
 event_ids: []
 events_extracted: true
@@ -76,6 +77,7 @@ feed_content: "<figure>\n          \n        \n        \n\n        \n          \
   \ \n  \n\n\n\n\n\n \n  <a>\n    Donate to support our work\n  </a>"
 feed_content_checksum: 87bc18cdaa4213a44ef73b83feb8aea1e32b8022
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

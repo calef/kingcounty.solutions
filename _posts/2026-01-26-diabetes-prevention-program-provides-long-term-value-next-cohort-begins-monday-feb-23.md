@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-26T23:35:08+00:00'
 event_ids:
 - _events/2026-02-23-diabetes-prevention-program-cohort.md
@@ -16,6 +17,7 @@ feed_content: |-
   <p><strong>Valley is here to help! </strong><br>Our next Diabetes Prevention Program (DPP) cohort begins Monday, Feb. 23. Learn more about the program and fill out the interest form at <a><strong><span>valleymed.org/dpp.</span></strong></a></p>
 feed_content_checksum: ef5d273054d7fe2edb67d2b2ff3449712afe6913
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospital District No. 1 (Valley Medical Center)

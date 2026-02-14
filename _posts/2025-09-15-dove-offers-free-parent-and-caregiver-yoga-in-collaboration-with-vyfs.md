@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-15T14:03:17+00:00'
 event_ids: []
 events_extracted: true
@@ -131,6 +132,7 @@ feed_content: |-
   </div>
   </div></div></div>
 image_checksums: []
+images_extracted: true
 location_titles:
 - Vashon
 organization_title: The Vashon DOVE Project

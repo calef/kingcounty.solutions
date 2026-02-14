@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-22T18:48:19+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Fatoumata Diallo and Halima Mohamed recently wrapped up a monthslo
   State Legislat...
 feed_content_checksum: 8ea7e9a529fa1f390f313ac9fbba9f422677c136
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

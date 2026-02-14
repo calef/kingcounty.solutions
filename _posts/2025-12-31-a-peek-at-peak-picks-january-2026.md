@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-31T18:00:30+00:00'
+event_ids: []
 feed_content: |-
   <p>We’re adding ten new books to Peak Picks in January!</p>
 
@@ -20,6 +22,7 @@ feed_content: |-
   <p><em>~posted by Frank. All descriptions provided by publishers. </em></p>
 feed_content_checksum: 77301836a74df146a85a69da1039b6dbeff37151
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

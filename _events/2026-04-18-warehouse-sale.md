@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-18T16:00:00-07:00'
 feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events </a></p>
   <div> <span> Event Series: </span> <a> <span> Warehouse Sale </span> </a> </div>
@@ -20,6 +21,7 @@ feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events <
   <span>»</span></a></li> </ul> </div> </div> </section>"
 feed_content_checksum: 25d4c615bef2df868ee9216015be9d17c162f136
 image_checksums: []
+images_extracted: true
 location: Bike Works Warehouse, 3715 S Hudson St, Seattle, WA, 98118, United States
 location_titles:
 - King County

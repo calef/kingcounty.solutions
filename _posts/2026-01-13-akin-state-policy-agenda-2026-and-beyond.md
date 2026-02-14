@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-13T21:51:03+00:00'
+event_ids: []
 feed_content: |-
   <p>Learn more about Akin’s state policy priorities.</p>
   <p><a>Akin State Policy Agenda: 2026 and beyond</a></p>
   <p>The post <a>Akin State Policy Agenda: 2026 and Beyond</a> appeared first on <a>akin</a>.</p>
 feed_content_checksum: 0c16c9ca5567ae2b0ba9565a21f8043b6b205b1f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Akin

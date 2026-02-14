@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-24T02:34:04+00:00'
+event_ids: []
 feed_content: "<span>Expect travel delays during construction on Lake Hills Boulevard</span>\n<span><span>CIosso</span></span>\n<span><time>Fri,
   01/23/2026 - 18:34</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<article>\n
   \ \n        <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2026-01/uti-26-kelseycreekculvert.jpeg?h=76db62c6&amp;itok=-4z4feiW\">\n\n\n</div>\n
@@ -26,6 +28,7 @@ feed_content: "<span>Expect travel delays during construction on Lake Hills Boul
   23 2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: 0ff805c5f155d3638e9174a7217035968ad64f70
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

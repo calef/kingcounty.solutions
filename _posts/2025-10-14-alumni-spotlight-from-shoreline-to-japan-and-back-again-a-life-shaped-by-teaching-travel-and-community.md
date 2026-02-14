@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-14T04:49:39+00:00'
 event_ids: []
 events_extracted: true
@@ -18,6 +19,7 @@ feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 60
   late 1960s, her mother made the &#8230;'
 image_checksums:
 - 5482324fdb3ffcb64a3d53dd907a1874756a7b22a867ddf1a91f6db771190f22
+images_extracted: true
 location_titles:
 - King County
 organization_title: Shoreline Community College

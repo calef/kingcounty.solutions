@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-11T18:17:50+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>CONTACT</strong>: <a>Daniel DeMay</a>, 206-265-9197</p>
 
@@ -41,6 +43,7 @@ feed_content: |-
   <p>###</p><p>The post <a>In wake of historic floods, Dunn, Fain lead District in funding response, studying Hanson Dam release impacts</a> appeared first on <a>King County Flood Control District</a>.</p>
 feed_content_checksum: 1eb866665ea944b48205dfb3117bfa87b539d7d3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Flood Control District

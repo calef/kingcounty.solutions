@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-19T23:13:09+00:00'
 event_ids: []
 events_extracted: true
@@ -22,6 +23,7 @@ feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 60
   Community College’s Nursing Program, where she found not only a top-tier education
   but also lifelong friendships and a strong foundation &#8230;'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Shoreline Community College

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-19T15:37:36+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p><a>Source</a></p>
 feed_content_checksum: 32cd4451bc3e077132c6021c603ab7eb6651a28d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: UW Well-Being for Students

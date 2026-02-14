@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-25T22:37:33+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: As the days grow shorter and Seattle settles into its season of cl
   isolation. We know how much light matters, and here in the Pacific Northwest, the
   lack of...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Eastside Friends of Seniors

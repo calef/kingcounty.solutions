@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-20T23:02:27+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Seattle IT’s Old Tech Drive, held in partnership with PCs for Pe
   that offered Seattle employees the opportunity to upcycle their old technology and
   donate it to...
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

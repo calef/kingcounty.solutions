@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-29T19:19:52+00:00'
 event_ids: []
 events_extracted: true
@@ -23,6 +24,7 @@ feed_content: "<p>Homelessness among babies and toddlers is one of our community
   \n  <a>\n    help mary's place serve families in our community\n  </a>"
 feed_content_checksum: 82f339a58f74f929976a76ef6466502fabfe1553
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

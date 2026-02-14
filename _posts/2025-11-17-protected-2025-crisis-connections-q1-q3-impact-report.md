@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-17T17:10:20+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: |-
   </form>
   <p>The post <a href="https://www.crisisconnections.org/2025-crisis-connections-impact-report/">Protected: 2025 Crisis Connections Q1-Q3 Impact Report</a> appeared first on <a href="https://www.crisisconnections.org">Crisis Connections</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Crisis Connections

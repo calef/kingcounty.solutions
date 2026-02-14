@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-20T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>2026 DAV National
   Commander Testimonial Dinner</h1> <div> <div> <span>April 16</span> - <span>April
@@ -12,6 +13,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>2026 DAV
   </div>"
 feed_content_checksum: 81a3252ea56632c56f2a2597b58c27836ff60470
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

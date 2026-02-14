@@ -1,9 +1,11 @@
 ---
+classified: true
 feed_content: Deadline for submitting applications for $3.6 million in funds from
   the National Housing Trust Fund and HOME programs for multifamily rental housing
   projects.
 feed_content_checksum: c794f893f3739862197bc9fb0b914d05fb9fc931
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

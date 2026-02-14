@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-05T23:36:48+00:00'
+event_ids: []
 feed_content: |-
   Protect Yourself from Holiday Scams in Normandy Park This Season
   The holiday season is a time for celebration, generosity, and connecting with loved ones—but unfortunately, it’s also a peak time for scammers. Across the region, reports of online, phone, and delivery-related scams tend to rise in November and December. Here are a few tips to help Normandy Park residents stay safe and protect their personal information this holiday season. 1. Watch for package-delivery scams. Scammers often send fake delivery notifications claiming a package is held or requires additional information. If you receive a suspicious text or email, don’t click the link. Instead, go directly to the delivery carrier's official website or check your legitimate tracking number.
   2. Be cautious with online deals.
   If a price seems too good to be true, it probably is. Stick to trusted retailers, avoid clicking on ads from unknown sources, and double-check that websites are secure before entering any payment information.
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Normandy Park
 published: false

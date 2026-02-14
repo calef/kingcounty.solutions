@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-14T17:14:52+00:00'
+event_ids: []
 feed_content: 'With the latest release of EGAPx, we’re excited to announce that you
   can now submit genome assemblies with EGAPx annotations directly to GenBank. We’re
   making it easier for researchers to share richly annotated eukaryotic genomes, complete
@@ -9,6 +11,7 @@ feed_content: 'With the latest release of EGAPx, we’re excited to announce 
   <span>→</span></a>'
 feed_content_checksum: 99fe9e98284c2644b8fc453bde396b1d2e859b19
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: National Center for Biotechnology Information
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta

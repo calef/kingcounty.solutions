@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-07T19:30:00-07:00'
 feed_content: 'Event interval: Single day event Campus room: Room 120 Lecture Hall
   Accessibility Contact: ticket@uw.edu Event Types: Screenings Event sponsors: Presented
@@ -17,6 +18,7 @@ feed_content: 'Event interval: Single day event Campus room: Room 120 Lecture Ha
   Registration Link: https://docs.google.com/forms/d/1a6I7UgpVOBwqqbWf-fIzDQ2ohcQNsr5GuqyOClVbV9c/viewform?edit_requested=true'
 feed_content_checksum: 68e5844a7c0b9ad9d543dedd47ddeb340e884711
 image_checksums: []
+images_extracted: true
 location: 'UW Communications Building, Room 120 Lecture Hall: 4109 E Stevens Way NE,
   Seattle, WA 98195'
 location_titles:

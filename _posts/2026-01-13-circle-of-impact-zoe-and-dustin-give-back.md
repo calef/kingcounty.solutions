@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-13T17:23:05+00:00'
 event_ids: []
 events_extracted: true
@@ -66,6 +67,7 @@ feed_content: |-
   <p></p><p>The post <a>Circle of Impact: Zoe and Dustin Give Back</a> first appeared on <a>Bellevue LifeSpring</a>.</p><p>The post <a>Circle of Impact: Zoe and Dustin Give Back</a> appeared first on <a>Bellevue LifeSpring</a>.</p>
 feed_content_checksum: 8443bba6f2c5f365b0eef007515fa606ce58a0cf
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Bellevue LifeSpring

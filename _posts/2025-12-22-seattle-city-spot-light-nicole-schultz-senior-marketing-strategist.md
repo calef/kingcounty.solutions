@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-22T17:00:00+00:00'
+event_ids: []
 feed_content: '<img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/12/nicole_spotlight-150x150.png">The
   Basics Division: Communications How long have you been at City Light? I joined Seattle
   City Light on June 8, 2011. I’ve been with the City of Seattle since May 23, 2001.
@@ -7,6 +9,7 @@ feed_content: '<img src="https://powerlines.seattle.gov/wp-content/uploads/sites
   time, so I work on a plethora […]'
 feed_content_checksum: ed8d29abda640bf9240ac86b814511e05f6768f8
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

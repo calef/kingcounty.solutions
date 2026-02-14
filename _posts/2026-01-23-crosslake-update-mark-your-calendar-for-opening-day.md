@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-23T10:35:37-08:00'
+event_ids: []
 feed_content: "<p>The 2 Line’s highly anticipated Crosslake Connection between Seattle
   and the Eastside will transform how we travel around the region for generations
   to come, and it all <strong>begins Saturday, March 28.  </strong></p><p>The remaining
@@ -7,6 +9,7 @@ feed_content: "<p>The 2 Line’s highly anticipated Crosslake Connection between
   bridge, and it includes two new stations at Mercer Island and Judkins Park.  </p>"
 feed_content_checksum: 836a8827101a762f40f89458c9a5c4fe2fa772c2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Transit

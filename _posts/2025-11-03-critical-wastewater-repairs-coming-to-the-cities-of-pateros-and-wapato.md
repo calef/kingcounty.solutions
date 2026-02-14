@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-03T20:30:00+00:00'
+event_ids: []
 feed_content: |-
   ### Public Works Board announces $734,310 to emergency infrastructure failures
 
@@ -24,6 +26,7 @@ feed_content: |-
 
   Applications for the PWB emergency and pre-construction funding programs remain open until funds are exhausted. &nbsp;As of October 2025, $6.8 million in emergency funding remains available for the 2025-27 biennium.
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

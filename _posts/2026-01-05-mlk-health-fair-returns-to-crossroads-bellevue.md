@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-05T23:11:09+00:00'
 event_ids: []
 events_extracted: true
@@ -30,6 +31,7 @@ feed_content: "<span>MLK Health Fair returns to Crossroads Bellevue</span>\n<spa
   5 2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: f76ce838955316f4be6fa14daa5e6083bf53900e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-06T17:51:02+00:00'
+event_ids: []
 feed_content: |-
   <p>Taught by local artist, McKy Karounis. McKy will lead you through creating an abstract painting you’ll love while listening to music that inspires you! All supplies are included.<br></p>
 
@@ -17,6 +19,7 @@ feed_content: |-
   <p>The post <a>Abstract Painting</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: '087af0d4f25fab24e743c4e57e2f167cdd164ed4'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Shoreline Lake Forest Park Senior Activity Center

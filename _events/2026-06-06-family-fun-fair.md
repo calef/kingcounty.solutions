@@ -1,9 +1,11 @@
 ---
+classified: true
 end_date: '2026-06-06T11:00:00-07:00'
 feed_content: A fair featuring activities for children and local vendors on race day.
 feed_content_checksum: c1910ddd5e55d054dca554b8dc0dd8668eedeb82
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-03T14:03:14+00:00'
 event_ids: []
 events_extracted: true
@@ -36,6 +37,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>For more than a c
   post <a href=\"https://www.dav.org/learn-more/news/2025/warriors-club/\">Warriors
   Club</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

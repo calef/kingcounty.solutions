@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-05T14:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -75,6 +76,7 @@ feed_content: |-
   <p>The post <a>Housing Program ‘Once in a Lifetime’ Opportunity</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: b019217898529f8122c1eb68a663c1eee6779f5f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Operation Homefront

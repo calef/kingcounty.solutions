@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-30T18:42:02+00:00'
 event_ids: []
 events_extracted: true
@@ -34,6 +35,7 @@ feed_content: |-
   <p></p>
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-december-1st-5th/">Dining Menu December 1st &#8211; 5th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-12T20:20:35+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>KCRHA 2026 Legislative Priorities</a> appeared first on <a>KCRHA</a>.</p>
 feed_content_checksum: 8bdeb65d6a1024a90854d6f1a26934ceaad86ded
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

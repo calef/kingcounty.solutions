@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-09T18:00:26+00:00'
+event_ids: []
 feed_content: |-
   <p>“Happy” “New” “Year”?</p>
 
@@ -60,6 +62,7 @@ feed_content: |-
   <p><em>~posted by McCall</em> O.</p>
 feed_content_checksum: 81ae68337a0107b6eaf8e3988b91436c78b92556
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

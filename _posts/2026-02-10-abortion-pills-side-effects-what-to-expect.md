@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-10T21:44:13+00:00'
 event_ids: []
 events_extracted: true
@@ -278,6 +279,7 @@ feed_content: |-
   <p></p><p>The post <a>Abortion Pills Side Effects: What to Expect</a> first appeared on <a>Care Net of Puget Sound</a>.</p>
 feed_content_checksum: 47e8d38464e35f52e47be8d9f1eb88652caa447f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Care Net of Puget Sound

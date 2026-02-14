@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-10T20:08:56+00:00'
+event_ids: []
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   plans Eastside celebrations for World Cup</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -32,6 +34,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   datetime=\"2025-10-10T12:00:00Z\" class=\"datetime\">October 10 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Bellevue
 published: false

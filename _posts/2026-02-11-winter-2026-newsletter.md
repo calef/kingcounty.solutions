@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-11T23:23:10+00:00'
+event_ids: []
 feed_content: "<div><span>Read about C.'s Inspiring Story and More</span></div> <div>
   <table> <tbody> <tr> <td> <table> <tbody> <tr> <td> <table> <tbody> <tr> <td> <table>
   <tbody> <tr> <td> <div> </div> <table> <tbody> <tr> <td><p><span>Rebuilding lives,
@@ -106,6 +108,7 @@ feed_content_checksum: 6a033ea946a76ba88c0172b2b0b9fd1964a88f4e
 image_checksums:
 - 2dc33cf061e80f8257f0058bb27dcbb7f251620c8d5e00fd84e5d33c380cb9b1
 - 6b6b971bbe2d468c7cc463117ce033028e8ba2eca706fd6588ce51d6bf0b005b
+images_extracted: true
 location_titles:
 - King County
 organization_title: Jubilee Women's Center

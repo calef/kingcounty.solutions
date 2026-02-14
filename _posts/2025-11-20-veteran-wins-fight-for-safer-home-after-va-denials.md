@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-20T12:59:53+00:00'
 event_ids: []
 events_extracted: true
@@ -82,6 +83,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachm
   wins fight for safer home after VA denials</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_checksums:
 - df0b7c9eaff2db9ab28cf72f8324841917027fd87e12c2960baf5ab82e47cece
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

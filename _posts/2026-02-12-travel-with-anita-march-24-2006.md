@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-12T19:38:11+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/Australia-Anita-2-791x1024.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>From devilish wildlife to windswept coastlines—an unexpected journey through Australia’s wild and whimsical island</p>
 feed_content_checksum: f55eee3ea1df6f2afefa16c24c7cc0028249ecc1
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

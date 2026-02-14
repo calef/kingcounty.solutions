@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-11T19:23:34+00:00'
+event_ids: []
 feed_content: 'Nestled in the Financial Center in Downtown Seattle, there’s a space
   dedicated to solving one of the world’s biggest problems: combating climate change.
   The Seattle Climate Innovation Hub is the first Downtown space dedicated to designing
   and investing...'
 feed_content_checksum: c4f9b89f76db00b16002ae47987e525d70c4fc5a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

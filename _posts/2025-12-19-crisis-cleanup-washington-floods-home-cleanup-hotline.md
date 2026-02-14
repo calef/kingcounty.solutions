@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-19T17:51:45+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: "(844) 965-1386 If you need assistance with damage from the Washin
   due to the […]"
 feed_content_checksum: 2a0b2fa9f5a2c71cca7a2471a8e35d9f30581513
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

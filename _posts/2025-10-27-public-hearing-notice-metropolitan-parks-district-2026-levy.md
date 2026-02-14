@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-27T19:33:30+00:00'
+event_ids: []
 feed_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <header id="main-header"
   data-height-onload="80"> <div class="container clearfix et_menu_container"> <div
   id="et-top-navigation" data-height="80" data-fixed-height="80"> <div id="et_mobile_nav_menu">
@@ -52,6 +54,7 @@ feed_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <header
   et_bloom_1_field et_bloom_bottom_stacked"> <h2 class="et_bloom_success_message">You
   have Successfully Subscribed!</h2> </div> </div> </div> </div>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Normandy Park
 published: false

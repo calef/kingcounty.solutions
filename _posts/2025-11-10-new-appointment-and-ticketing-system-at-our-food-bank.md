@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-10T18:00:22+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>Making your visit easier, safer, and more efficient We’re excited to share some updates to how we manage our food bank line and waiting area. These new guidelines are designed [&#8230;]</p>
   <p>The post <a href="https://www.familyworksseattle.org/new-appointment-and-ticketing-system-at-our-food-bank/">New Appointment and Ticketing System at Our Food Bank</a> appeared first on <a href="https://www.familyworksseattle.org">FamilyWorks Seattle</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: FamilyWorks Seattle

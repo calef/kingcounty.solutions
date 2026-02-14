@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-04T15:45:38+00:00'
 event_ids:
 - _events/2026-02-19-webinar-on-designing-evaluations-with-accessibility-for-people-with-disabilities.md
@@ -52,6 +53,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   IHDD</a>.</p>"
 feed_content_checksum: 8baf9abe19b792a6bc8003a7156743f8e967c662
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

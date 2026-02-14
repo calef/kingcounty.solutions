@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-06T16:34:49+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://hospitalityhousesouthking.org/wp-content/uploads/2026/01/ACTUAL-Virtual-Save-the-Date-1-1024x732.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f30a.png"> Ticket Information Coming Soon <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f30a.png"></p>
 feed_content_checksum: 93862be81465aca239947e0dc2e9a4e3b1b132a8
 image_checksums: []
+images_extracted: true
 location_titles:
 - South King County
 organization_title: Hospitality House

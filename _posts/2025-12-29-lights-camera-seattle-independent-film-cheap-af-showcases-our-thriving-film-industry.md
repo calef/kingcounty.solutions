@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-29T18:57:21+00:00'
+event_ids: []
 feed_content: When you think of a movie set, you likely picture a Hollywood studio
   lot filled with lights, cameras, and lots of set pieces. The set of Cheap AF is
   unassuming, taking over the Vue Lounge in Belltown. From the street, you wouldn’t
   know a feature produc...
 feed_content_checksum: a80615ff5d86a3649fd46cfb3e93f80f2af8f371
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

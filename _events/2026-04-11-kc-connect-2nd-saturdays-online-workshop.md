@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-11T13:00:00-07:00'
 feed_content: "<div><div><span>Did you know we offer virtual office hours every weekday?
   Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468 and enter
@@ -49,6 +50,7 @@ feed_content: "<div><div><span>Did you know we offer virtual office hours every 
   <li><a>Русский</a></li> </ul></aside>"
 feed_content_checksum: 42a781a417f39866044f45629dd8ce245d0e2085
 image_checksums: []
+images_extracted: true
 location: WA
 location_titles:
 - King County

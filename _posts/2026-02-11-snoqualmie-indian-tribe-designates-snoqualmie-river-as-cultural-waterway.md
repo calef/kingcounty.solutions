@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-11T19:30:29+00:00'
+event_ids: []
 feed_content: |-
   <p><em>Tribe urges partners to </em><em>support and participate in their efforts to protect and restore flows in the Snoqualmie River.</em></p>
   <p>[Snoqualmie, WA] The Snoqualmie Indian Tribal Council has designated the Snoqualmie River as a Cultural Waterway in order to ensure the proper regulation and management of the River and to preserve and protect it for generations to come.</p>
@@ -12,6 +14,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 48cbac6422d1e4b4728f9fc668171a533a15091c
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Snoqualmie Indian Tribe

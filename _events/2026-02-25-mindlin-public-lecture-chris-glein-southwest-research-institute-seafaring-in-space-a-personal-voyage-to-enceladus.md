@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T20:00:00-08:00'
 feed_content: "<div><div><div> <div><div><div><div> <section> <div><div><section>
   <div><div> <div><div> <div><h1><span>CHRISTOPHER GLEIN</span></h1></div> <div> <p><span><span><span>Scientist,
@@ -29,6 +30,7 @@ feed_content: "<div><div><div> <div><div><div><div> <section> <div><div><section
   </div></div></div></div> </div></div></div>"
 feed_content_checksum: d258799464ffd0b5c2c23ce01b14dfe446670edb
 image_checksums: []
+images_extracted: true
 location: Johnson Hall (JHN)
 location_titles:
 - King County

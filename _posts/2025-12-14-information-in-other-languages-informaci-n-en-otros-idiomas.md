@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-14T17:51:07+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: This information in available in other languages. Select your desi
   desplegable en la esquina superior derecha de este sitio web.
 feed_content_checksum: abe1754c6e58fd67fdcf6fa694a2b07bf1bdd7de
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

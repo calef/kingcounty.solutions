@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-15T14:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>Editor’s note: This post contains links to jobs that are active at the time of publishing. Most job listings close 7–30 days after posting. The sharing of any non-VA information does not constitute an endorsement of products or services by VA. Veterans should verify all information with the organization offering the opportunity.</p>
 
@@ -276,6 +278,7 @@ feed_content: |-
   <p><a>Norfolk, VA: Hampton Roads Military Community Education Connect (Southside) – Thursdays</a></p>
 feed_content_checksum: 40cacd46b535ce85291663e33620aa8b3b6d8559
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: |-

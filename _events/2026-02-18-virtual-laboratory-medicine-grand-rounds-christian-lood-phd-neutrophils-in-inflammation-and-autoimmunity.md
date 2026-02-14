@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T16:30:00-08:00'
 feed_content: "<header> <div> <div> <div> <a>Department of Laboratory Medicine &amp;
   Pathology, UW Medicine, University of Washington</a> </div> </div> </div> </header>
@@ -87,6 +88,7 @@ feed_content: "<header> <div> <div> <div> <a>Department of Laboratory Medicine &
   </div> </div> </div> </div>"
 feed_content_checksum: f25a4db0a3e2ef34b684be77831c7035fe91cec9
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

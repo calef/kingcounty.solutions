@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-02T20:10:19+00:00'
 event_ids: []
 events_extracted: true
@@ -59,6 +60,7 @@ feed_content: "<div>\n<div><div><div></div></div></div>\n<div>\n\t<div>\n\t\t<di
   appeared first on <a>Wonderland Child &amp; Family Services</a>.</p>"
 feed_content_checksum: 2aa31e0f2559ed2db3652a00cf79dea2f4f823dc
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wonderland Child & Family Services

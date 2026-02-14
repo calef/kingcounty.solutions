@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-21T23:41:51+00:00'
+event_ids: []
 feed_content: |-
   <p><a>AGENDA</a></p>
   <p>Notice is hereby given that on Thursday, January 22, 2026, the Town Parks Commission will hold a special meeting at Town Hall at 7:00 PM. The agenda is attached</p>
@@ -15,6 +17,7 @@ feed_content: |-
   <p>Thank you.</p>
 feed_content_checksum: 05a4c9b81e68c85c30384cdc5ac4605dbfc0e58e
 image_checksums: []
+images_extracted: true
 location_titles:
 - Yarrow Point
 organization_title: Town of Yarrow Point

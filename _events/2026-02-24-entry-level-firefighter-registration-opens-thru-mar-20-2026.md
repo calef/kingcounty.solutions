@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-24T23:30:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
   </span> <a> <span> Entry-Level Firefighter Registration Opens thru Mar 20, 2026
@@ -38,6 +39,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   </ul> </div> <p> <a> Back to events</a> </p> </div> </section> </div> </div> </div>
   </section>"
 feed_content_checksum: 26e3f6aed9ccd1326f787b0029073c87a7a806a5
+image_checksums: []
 location: Virtual/Online, United States
 location_titles:
 - King County

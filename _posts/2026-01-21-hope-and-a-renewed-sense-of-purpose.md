@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-21T22:41:34+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: We’ve welcomed 2026 with hope and renewed sense of purpose towar
   adjustment in our funding streams,  [...]
 feed_content_checksum: ce30fa935fe8c59667895ec3249ffe743a54527c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Multi-Service Center

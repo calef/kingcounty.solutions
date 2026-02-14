@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T19:06:56+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Seattle Parks and Recreation is excited to welcome back the Magnol
   and li...
 feed_content_checksum: 656f27c7ec169a2c7e3ea474b638240f0e2729a1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

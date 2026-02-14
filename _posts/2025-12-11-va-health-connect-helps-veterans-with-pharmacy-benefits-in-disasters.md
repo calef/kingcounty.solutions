@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-11T15:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>Program can help provide medications to Veterans via local pharmacy</h2>
 
@@ -70,6 +72,7 @@ feed_content: |-
   <p><a>VA Health Connect</a> provides pharmacy services (hours vary based on location), appointment scheduling, clinical triage (to speak to a registered nurse) and more.</p>
 feed_content_checksum: 7065a468eb9a8ffbfcc1b6f40ab1214fff8d99b2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

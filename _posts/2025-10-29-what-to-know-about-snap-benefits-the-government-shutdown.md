@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-29T19:51:41+00:00'
 event_ids: []
 events_extracted: true
@@ -51,6 +52,7 @@ feed_content: |-
 
   To learn more about the growing needs in our region, explore&nbsp;Hopelink’s&nbsp;recently released&nbsp;[2025 Community Needs Assessment](https://www.hopelink.org/wp-content/uploads/2023/03/Hopelink-2025-Community-Needs-Assessment-Report.pdf).&nbsp;
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hopelink

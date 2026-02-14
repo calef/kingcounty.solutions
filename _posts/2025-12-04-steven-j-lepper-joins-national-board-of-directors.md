@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-04T11:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -55,6 +56,7 @@ feed_content: |-
   <p>The post <a>Steven J. Lepper Joins National Board of Directors</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 522acc3e1b3d6967649eab18772a28d77b737d3f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Operation Homefront

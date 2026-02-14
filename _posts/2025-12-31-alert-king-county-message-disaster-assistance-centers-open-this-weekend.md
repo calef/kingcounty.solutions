@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-31T20:32:03+00:00'
 event_ids:
 - _events/2026-01-02-disaster-assistance-center-at-auburn-library.md
@@ -13,6 +14,7 @@ feed_content: This is King County Emergency Management. You are receiving this m
   can receive more information in person at one […]
 feed_content_checksum: 536abc8ae68507ffcd0790993fe327d5421daf68
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management
@@ -199,3 +201,4 @@ topic_titles:
 - Financial Assistance
 - Shelter & Housing
 ---
+

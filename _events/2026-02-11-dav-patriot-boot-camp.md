@@ -1,10 +1,12 @@
 ---
+classified: true
 end_date: '2026-02-13T00:00:00-08:00'
 feed_content: A program that connects transitioning service members, veterans, and
   military spouses with education, mentorship, and community support.
 feed_content_checksum: 0fd60f5fbe6a0f6081c414787d457996351b4dd5
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Myrtle Beach, South Carolina
 location_titles:
 - King County

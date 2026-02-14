@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-23T21:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>The Department of Veterans Affairs’ National Oncology Program (NOP) is one of the nation’s largest integrated providers of oncology services, diagnosing and treating more than 56,000 Veterans each year. Bringing compassionate care and innovative treatment to our Veterans is a team of skilled, dedicated oncologists like Dr. Ruchika Gutt, chief of Radiation Oncology at the Washington, D.C., VA Medical Center (VAMC). Keep reading as Dr. Gutt shares more about VA’s cancer innovations and how a little kindness goes a long way during treatment. </p>
 
@@ -72,6 +74,7 @@ feed_content: |-
   <p>VA is always looking for the next generation of oncologists to uphold VA’s sacred mission while fighting cancer using evidence-based therapies. Read more of Dr. Gutt’s interview and explore career opportunities on <a>VA Careers</a>.  </p>
 feed_content_checksum: e248263106c50d6d545564d003788b9d64fe0cbd
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

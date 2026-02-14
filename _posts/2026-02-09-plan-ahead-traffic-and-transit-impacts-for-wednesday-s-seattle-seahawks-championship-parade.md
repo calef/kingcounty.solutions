@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-09T20:59:00+00:00'
 event_ids: []
 events_extracted: true
@@ -26,6 +27,7 @@ feed_content: |-
   <p>The post <a>Plan Ahead: Traffic &amp; Transit Impacts for Wednesday’s Seattle Seahawks Championship Parade</a> appeared first on <a>Pacific Medical Centers</a>.</p>
 feed_content_checksum: 3d2507baad0531a0bb78b2c95b81c63f50a04b35
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Pacific Medical Centers

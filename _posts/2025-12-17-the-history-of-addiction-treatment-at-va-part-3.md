@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-17T19:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>Borne in battle: VA addiction treatment after Vietnam</h2>
 
@@ -80,6 +82,7 @@ feed_content: |-
   <p>With a variety of treatment approaches, new specialized units and increased community-oriented care, VA addressed addiction among Vietnam Veterans in new and innovative ways. After the Vietnam War, VA continued to improve its services to address the diverse needs of drug-addicted Veterans by establishing specialized and integrated programs that provided comprehensive support—including counseling, rehabilitation and long-term management—to help Veterans recover and reintegrate into society.</p>
 feed_content_checksum: a94c60f83316d88572da32565cd09721155810d5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

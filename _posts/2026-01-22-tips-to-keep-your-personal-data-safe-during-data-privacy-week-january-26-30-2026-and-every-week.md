@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-22T00:12:24+00:00'
+event_ids: []
 feed_content: The City of Seattle’s Data Privacy team celebrates Digital Privacy Week by
   helping raise awareness of the value of your personal data and providing a few useful
   tips to help reduce the likelihood that you fall prey to a bad actor. Some of the
   most comm...
 feed_content_checksum: 3dca71345b25a317693421da17f459573a99fb13
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

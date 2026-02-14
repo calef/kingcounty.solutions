@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-17T16:29:27+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: 'LIHI and other nonprofit housing providers are calling on the Cit
   on their door, tenants are faced with the impossible decision to pay rent or to
   feed their...'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-22T17:55:37+00:00'
 event_ids: []
 events_extracted: true
@@ -59,6 +60,7 @@ feed_content: |-
   <p>All our neighbors deserve access to health, warmth, and safety all throughout the year. With the help of our generous donors and volunteers, CCS programs serve our communities with love, bringing families and individuals the resources they need to stay warm and safe this winter.</p>The post <a>CCS Programs Counter Winter Cold with Warmth and Comfort</a> first appeared on <a>Catholic Community Services of Western Washington</a>.
 feed_content_checksum: e080e45f8333f0bb9147e9e36d4474923c07ee51
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Catholic Community Services of Western Washington

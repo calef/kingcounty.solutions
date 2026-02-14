@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-31T15:46:07+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Approximately 200 people gathered at Seattle City Hall on Oct. 28 
   the event focused on cultivating healing and lifting up stories of resilience. It
   was hosted by the Human Service Department (HSD)’s Mayor’s [&#8230;]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-14T02:04:43+00:00'
 event_ids:
 - _events/2026-02-13-construction-impact-on-metro-bus-routes.md
@@ -10,6 +11,7 @@ feed_content: Weekend Service Impacts Routes 3, 5, 21, 24, 27, 28, 33, 40, 56, 6
   124, 131, 132, RapidRide C, D, E, and H Line will be affected by the closure of...
 feed_content_checksum: a3f5bbda8b27fc4ed261541d1982b1dd29851744
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

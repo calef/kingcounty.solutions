@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-24T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -62,6 +63,7 @@ feed_content: |-
   <p>VA has deployed over 4,700 virtual reality (VR) headsets across more than 170 VA medical centers and outpatient clinics in all 50 U.S. states, Puerto Rico, Guam and American Samoa, with over 40 documented use cases and more than 10,000 Veteran experiences to date. To learn more, visit <a>VA Immersive</a>.</p>
 feed_content_checksum: e5438101d996fa57bb35b26a46ac467f5b4f25d5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

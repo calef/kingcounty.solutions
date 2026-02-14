@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-21T19:06:14+00:00'
+event_ids: []
 feed_content: 'Note: Links below will open new windows. Seattle Center Festál Announces
   2026 Schedule Festál returns with 25 free cultural festivals beginning Feb. 14 SEATTLE— Seattle
   Center Festál marks 29 years in 2026, returning with 25 free cultural festival...'
 feed_content_checksum: b130d3a85769798ab71d3fcd86c646e8d0fb917f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

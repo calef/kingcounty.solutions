@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-14T22:42:00+00:00'
+event_ids: []
 feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
@@ -28,6 +30,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   up <a href=\"https://donate.bloodworksnw.org/donor/schedules/drive_schedule/99950\"
   target=\"_blank\">HERE</a></p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: CarePoint Clinic
 published: false

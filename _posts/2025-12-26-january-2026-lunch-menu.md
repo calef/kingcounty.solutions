@@ -1,8 +1,11 @@
 ---
+classified: true
 date: '2025-12-26T22:36:43+00:00'
+event_ids: []
 feed_content: <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2025/12/2026.1-Lunch-Menu-791x1024.png"></figure>
 feed_content_checksum: 044bbefd2431207614d1ae8d2ef2d889812b3ab5
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

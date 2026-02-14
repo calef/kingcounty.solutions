@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-17T19:36:38+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Why Seasonal Shelter is Necessary </a> appeared first on <a>KCRHA</a>.</p>
 feed_content_checksum: 012ed001d27fbc6e9a5e65308cd2dab56c23ae14
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

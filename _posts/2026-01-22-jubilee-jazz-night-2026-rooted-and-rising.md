@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-22T00:39:13+00:00'
+event_ids: []
 feed_content: '<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1><span>Jubilee
   Jazz Night 2026: Rooted &amp; Rising</span></h1> </div> </div> </div> </div> </div>
   </div> <div> <div> <div> <div> <div> <div> <article> <div> <div> <div> <h2> Jubilee
@@ -8,6 +10,7 @@ feed_content: '<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1><
   </script>'
 feed_content_checksum: 39e6db7f6c00cb5bab0ac20369c272d17848e00a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Jubilee Women's Center

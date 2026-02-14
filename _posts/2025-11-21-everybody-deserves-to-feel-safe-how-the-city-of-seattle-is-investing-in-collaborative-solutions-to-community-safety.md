@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-21T21:07:07+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Around the world, people may know Seattle because of the Space Nee
   character and charm of its many neighborhoods. From Lake City to Rainier View, Broadview
   to Highlan...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

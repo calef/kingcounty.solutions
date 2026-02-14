@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-11T23:00:13+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: 'Blog stats: 500 words | 3-minute read Good news for Lake City! Ne
   Transit’s new P...'
 feed_content_checksum: '02494e22a4bd95c902292f60ea661f81591f08b3'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

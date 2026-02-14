@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-13T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -105,6 +106,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 57bb63b8702e75148983d315597d6a9f8bcc9eba
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

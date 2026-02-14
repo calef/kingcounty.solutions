@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-12T22:36:44+00:00'
+event_ids: []
 feed_content: "<span>Council Roundup: Economic Development plan advances</span>\n<span><span>CIosso</span></span>\n<span><time>Thu,
   02/12/2026 - 14:36</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>
   \   <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2026-02/cdd-26-economicdevelopmentplan26.JPG?h=56d0ca2e&amp;itok=Q5opY3RF\">\n\n\n</div>\n
@@ -60,6 +62,7 @@ feed_content: "<span>Council Roundup: Economic Development plan advances</span>\
   12 2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: 45c70e6720ebaa965829c4cb681bcf8e33e80fb1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

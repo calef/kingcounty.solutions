@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T00:00:00-08:00'
 feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1><font><strong>Closed
   for Holiday</strong></font></h1> <div> <div><span>February 16</span></div> </div>
@@ -16,6 +17,7 @@ feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> 
   </div> </div>"
 feed_content_checksum: 9a8b5b9381dc831f49c8bf610a6159453a2350ff
 image_checksums: []
+images_extracted: true
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 location_titles:

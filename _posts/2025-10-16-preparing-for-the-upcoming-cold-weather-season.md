@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-16T21:35:00+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>Most years, our first wintertime severe weather activation happens right around Thanksgiving—mid to late November.&#160;&#160; During the time between the hot and cold weather, the [&#8230;]</p>
   <p>The post <a href="https://kcrha.org/news-preparing-for-the-upcoming-cold-weather-season/">Preparing for the Upcoming Cold Weather Season</a> appeared first on <a href="https://kcrha.org">KCRHA</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

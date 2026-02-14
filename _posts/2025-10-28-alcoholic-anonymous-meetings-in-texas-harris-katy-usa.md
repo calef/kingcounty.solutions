@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-28T21:55:51+00:00'
 event_ids: []
 events_extracted: true
@@ -71,6 +72,7 @@ feed_content: |-
   </ul>
   <p>The post <a href="https://www.residencexii.org/alcoholic-anonymous-meetings-katy/">Alcoholic Anonymous Meetings in Texas, Harris, Katy, USA</a> appeared first on <a href="https://www.residencexii.org">Residence XII</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Residence XII
 published: false

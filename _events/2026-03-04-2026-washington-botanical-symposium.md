@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-04T16:00:00-08:00'
 feed_content: '<div> <a>Skip to main content</a> <a>Skip to footer unit links</a>
   </div> <div> <div> <div> <ul> <li> <a>Washington Park Arboretum</a> <ul> <li><a>Washington
@@ -698,6 +699,7 @@ feed_content: '<div> <a>Skip to main content</a> <a>Skip to footer unit links</a
   </script> </div> </div>'
 feed_content_checksum: 68cfb347c023f9a26e70330bcd023d8506fde322
 image_checksums: []
+images_extracted: true
 location: Northwest Horticultural Society Hall (NHS)
 location_titles:
 - King County

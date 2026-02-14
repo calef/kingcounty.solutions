@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-13T19:30:00-07:00'
 feed_content: "<div> <div> <div><p>Violist/Composer Melia Watras brings together an
   all-star lineup of composers and performers for world premiere performances and
@@ -9,6 +10,7 @@ feed_content: "<div> <div> <div><p>Violist/Composer Melia Watras brings together
   Ballet concertmaster Michael Jinsoo Lim.</p></div> <h2>Biographies</h2> </div> </div>"
 feed_content_checksum: 2b1f0bd3275991206c2aa7c39f6a1d5df52550e7
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-26T19:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2 class="wp-block-heading">VA firefighters assist Tuskegee with two structure fires in one morning</h2>
 
@@ -81,6 +83,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a href="https://www.va.gov/central-alabama-health-care/stories/cavhcs-firefighters-assist-tuskegee-with-two-structure-fires-in-one-morning/" rel="noopener">VA Central Alabama Health care system site</a> and has been edited for style and clarity.  </p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

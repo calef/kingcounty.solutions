@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-27T18:00:00-08:00'
 feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Dinner:
   Cốt Bo kho</h1> <div> <div> <span>February 27 @ 5:00 PM</span> - <span>6:00 PM</span>
@@ -21,6 +22,7 @@ feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> 
   </div> </div>"
 feed_content_checksum: 732b362dcb5fd170aad30be46d74e3ad4bf59427
 image_checksums: []
+images_extracted: true
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 location_titles:

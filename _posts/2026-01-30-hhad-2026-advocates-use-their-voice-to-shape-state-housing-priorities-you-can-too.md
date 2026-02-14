@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-30T21:28:13+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: On Monday, January 26th, Low Income Housing Institute's (LIHI) sta
   and...
 feed_content_checksum: 899de6d15e58488bef59c2b0765518219591b6e3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

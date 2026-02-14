@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-11-19T16:02:00+00:00'
+event_ids: []
 feed_content: Seattle police detectives are investigating a shooting Tuesday evening
   in the Rainier Vista neighborhood that left a 17-year-old boy seriously injured
   and later placed into custody on unrelated robbery charges. At 7:10 p.m., dispatchers
   received report...
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-03T16:00:50+00:00'
 event_ids: []
 events_extracted: true
@@ -29,6 +30,7 @@ feed_content: "<span>The credential of a King County massage therapist has been 
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: 868a49e875555e16f724308833a86b8b42c740a6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

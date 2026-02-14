@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-09T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Benning
   Job Fair, April 8, 2026</h1> <div> <div><span>April 8</span></div> </div> <div>
@@ -9,6 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Ben
   </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 5717a90d448d80faf614e05a86d7659cda1090b0
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-23T21:08:58+00:00'
 event_ids:
 - _events/2026-04-02-echo-autism-symposium-2026.md
@@ -47,6 +48,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   IHDD</a>.</p>"
 feed_content_checksum: 82bbf696f7238e7593f61f81dfb639d2870ad783
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

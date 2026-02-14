@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-18T18:55:42+00:00'
+event_ids: []
 feed_content: "<div>\n  \n      \n    <span>12/24/2025 - 12:00pm</span>\n      </div>\n\n<div>\n
   \ \n      \n    <p>City offices will close at 12:00 p.m. on Christmas Eve.</p>\n
   \     </div>"
 feed_content_checksum: 6d587261bdb8250247eecdcf449c3563036992fd
 image_checksums: []
+images_extracted: true
 location_titles:
 - Black Diamond
 organization_title: City of Black Diamond

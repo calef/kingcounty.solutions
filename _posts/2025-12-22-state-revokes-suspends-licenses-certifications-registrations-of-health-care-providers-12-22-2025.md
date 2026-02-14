@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-22T18:13:38+00:00'
 event_ids: []
 events_extracted: true
@@ -59,6 +60,7 @@ feed_content: "<span>State revokes, suspends licenses, certifications, registrat
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: 37f01e86fd2ddeeac193fe31b1320a6da1cc9f9c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

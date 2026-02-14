@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-10T16:08:04+00:00'
+event_ids: []
 feed_content: 'Para publicación inmediata Contacto: Cynthia Santana, gerenta de Comunicaciones206-256-5219cynthia.santana@seattle.gov
   La Oficina de Normas Laborales de Seattle resuelve una investigación por supuesto
   robo de salarios a una proveedora de cuidados Seattle, WA (10 de diciembre de 2025)
@@ -7,6 +9,7 @@ feed_content: 'Para publicación inmediata Contacto: Cynthia Santana, gerenta de
   una investigación sobre un empleador […]'
 feed_content_checksum: 50b3b638967eed91e91bcf18ed41018011443b34
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

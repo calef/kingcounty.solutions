@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-28T15:00:00-08:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>La
   Cocina Cooking Class – 2/28/26</h1> <div> <div><p> <span> February 28 </span> <span>
@@ -49,6 +50,7 @@ feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>
   Clinic- healthy pets only</a></li> <li><a>Digital Skills for Life/ Herramientas
   Digitales <span>»</span></a></li> </ul> </div> </div> </section></div></article>"
 feed_content_checksum: 70b6b9032898b322e70f21da75bad548001cdb06
+image_checksums: []
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 location_titles:
 - King County

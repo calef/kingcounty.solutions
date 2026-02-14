@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-17T02:34:06+00:00'
 event_ids: []
 events_extracted: true
@@ -61,6 +62,7 @@ feed_content: |-
   <p>The post <a>Brr! We need cold-weather breakfast food!</a> appeared first on <a>Westside Neighbors Shelter</a>.</p>
 feed_content_checksum: b8a584700b90b941dfc6c5c4366b3f360f2ee701
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Westside Neighbors Shelter

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-24T10:00:00-08:00'
 feed_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div> <div>
   <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center of
@@ -41,6 +42,7 @@ feed_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div> 
   </script>
 feed_content_checksum: 8fe28a0775fffee8195a8ed343ee6ae4cae00451
 image_checksums: []
+images_extracted: true
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
 location_titles:

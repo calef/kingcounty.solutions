@@ -1,8 +1,11 @@
 ---
+classified: true
 date: '2026-01-12T17:37:00+00:00'
+event_ids: []
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/25-26_BRAVO_337x234.png">
 feed_content_checksum: '018faf8177e5330c89e6486b84a8421b2010bfa8'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Auburn

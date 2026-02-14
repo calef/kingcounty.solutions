@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-11T17:50:01+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: |-
   <p>The DSHS Mobile Community Services Office will be onsite and open to the community! They will be available for applications, changes, ID vouchers, help with programs such as lifeline phone plans, food and cash assistance, Medicare Savings Program, and Disability Medical Assistance. They will also be able to provide information regarding other community resources. Free, no registration required!<strong><br><br></strong></p>
 image_checksums:
 - dc392afb5b9b5646705175788f6413de00080a1bd54abb4406c22e6460f425e7
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

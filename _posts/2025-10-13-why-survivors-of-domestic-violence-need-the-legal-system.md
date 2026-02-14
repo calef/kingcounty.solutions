@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-13T17:10:01+00:00'
 event_ids: []
 events_extracted: true
@@ -20,6 +21,7 @@ feed_content: "October is Domestic Violence Awareness Month—a time to stand wi
   from violence.\n\nThe post [Why survivors of domestic violence need the legal system](https://elap.org/why-survivors-of-domestic-violence-need-the-legal-system/)
   appeared first on [Eastside Legal Assistance Program](https://elap.org)."
 image_checksums: []
+images_extracted: true
 location_titles:
 - Bellevue
 - Bothell

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-29T21:56:50+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>We are grateful for the generous support we’ve received this quarter. Because of your support, our youth are able to realize personal and social change through earning an income, learning [&#8230;]</p>
   <p>The post <a href="https://www.juma.org/2025/09/29/thank-you-to-our-recent-funders-13/">Thank You to Our Recent Funders</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Juma Ventures

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T14:00:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <li><a>Login</a></li>
   <li><a>Volunteer</a></li> <li><a>DONATE</a></li> </ul></div></div> </div> </div>
@@ -15,6 +16,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
   </section> </div>"
 feed_content_checksum: c9afb2a8e27196d566eaa073a5e2ea24573651b8
 image_checksums: []
+images_extracted: true
 location: Crossroads, Bellevue, WA, United States
 location_titles:
 - Bellevue

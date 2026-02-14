@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-08T20:00:00-07:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>Free
   Legal Clinic</h1> <div> <div> <span> Event Series </span> <a> <span> (See All) </span>
@@ -37,6 +38,7 @@ feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>
   Kaleidoscope Play and Learn (Evento en Español)</a></li> <li><a>Digital Skills for
   Life/ Herramientas Digitales <span>»</span></a></li> </ul> </div> </div> </section></div></article>"
 feed_content_checksum: aea5f4946b2f57c3d751af36b22d615371fac122
+image_checksums: []
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 location_titles:
 - King County

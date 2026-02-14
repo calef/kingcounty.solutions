@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-15T22:56:21+00:00'
 event_ids: []
 events_extracted: true
@@ -120,6 +121,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 8e974bb8a3f3f914761820aeaea331ee59e876e6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

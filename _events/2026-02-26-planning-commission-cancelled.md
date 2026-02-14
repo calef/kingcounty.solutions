@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-26T21:30:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
   </span> <a> <span> Planning Commission – Cancelled </span> </a> </div> <h1>Planning
@@ -30,6 +31,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   </div> </div> </div> </section>"
 feed_content_checksum: cac1c28da5e046eaf23e3616556ab43e95d128a7
 image_checksums: []
+images_extracted: true
 location: Tukwila City Hall – Council Chambers, 6200 Southcenter Blvd. , Tukwila,
   98188, United States
 location_titles:

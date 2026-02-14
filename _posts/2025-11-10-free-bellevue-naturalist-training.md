@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-10T23:22:47+00:00'
+event_ids: []
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Free
   Bellevue Naturalist training</span>\n<span class=\"field field--name-uid field--type-entity-reference
   field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\"
@@ -34,6 +36,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-11-10T12:00:00Z\"
   class=\"datetime\">November 10 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Bellevue
 published: false

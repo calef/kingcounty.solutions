@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-08-27T18:14:42+00:00'
+event_ids: []
 feed_content: |-
   <p>Washington State: Voting &amp; Registration — What You Need to Know</p>
 
@@ -134,6 +136,7 @@ feed_content: |-
   </ol>
   <p>The post <a href="https://www.elcentrodelaraza.org/take-action-august-2025/">Take Action: August 2025</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: El Centro de la Raza
 published: false

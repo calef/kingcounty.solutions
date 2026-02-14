@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-24T23:23:44+00:00'
 event_ids: []
 events_extracted: true
@@ -36,6 +37,7 @@ feed_content: |-
 
   <p class="text-align-center">###</p></div>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Health
 published: false

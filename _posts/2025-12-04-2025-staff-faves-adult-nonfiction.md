@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-04T18:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p>Each year we ask our staff across the library for their favorite books published in the current year. Featured below are some of the nonfiction books that multiple staff loved! Find the full list of staff faves in our catalog: <a href="https://seattle.bibliocommons.com/v2/list/display/117997230/2898608967">Seattle Staff Faves 2025: Nonfiction</a>.</p>
   <p><a href="https://seattle.bibliocommons.com/v2/record/S30C4013517"><strong>One Day, Everyone Will Have Always Been Against This </strong></a>by Omar el-Akkad<br />
@@ -16,6 +18,7 @@ feed_content: |-
   Librarian and horror afficionado Spratford assembles an anthology of essays from popular contemporary horror writers, a love letter to the genre and an examination of horror’s appeal to diverse audiences. In their starred review, booklist said “the results are illuminating, moving, and inspiring.”</p>
   <p><em>~ posted by Andrea G.</em></p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: The Seattle Public Library
 published: false

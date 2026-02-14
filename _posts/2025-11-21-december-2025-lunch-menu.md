@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-21T18:26:03+00:00'
 event_ids: []
 events_extracted: true
@@ -12,6 +13,7 @@ feed_content: '<figure class="wp-block-image size-large"><img fetchpriority="hig
   1187w, https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu.png
   1275w" sizes="(max-width: 791px) 100vw, 791px" /></figure>'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 published: false

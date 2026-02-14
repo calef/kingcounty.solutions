@@ -1,9 +1,11 @@
 ---
+classified: true
 end_date: '2026-06-05T23:59:59-08:00'
 feed_content: Months-long two-lane reduction on northbound I-5.
 feed_content_checksum: ce02057a5ceae70cc05abb0d4f071270586e1ef4
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

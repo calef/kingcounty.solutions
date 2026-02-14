@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-13T19:00:00-07:00'
 feed_content: "<div> <div> <div> <h4>United Way of King County helps our neighbors
   create financial stability through providing free tax services each year.</h4> <p>Last
@@ -16,6 +17,7 @@ feed_content: "<div> <div> <div> <h4>United Way of King County helps our neighbo
   </p> </div> </div> </div>"
 feed_content_checksum: 57cdf6f35393cb6bf79533a2751ad26b0e419856
 image_checksums: []
+images_extracted: true
 location: Seattle Children’s, 3939 S Othello St, Seattle, WA, 98118, United States
 location_titles:
 - King County

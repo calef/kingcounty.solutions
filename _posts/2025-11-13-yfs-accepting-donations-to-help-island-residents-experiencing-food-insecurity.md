@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-13T16:37:17-08:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   caused by the reduction in SNAP (Supplemental Nutrition Assistance Program) distributions
   due to the prolonged shutdown of the federal government.  </p></div></div></div>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Mercer Island

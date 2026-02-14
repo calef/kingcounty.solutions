@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-06T17:49:38+00:00'
+event_ids: []
 feed_content: |-
   <p>Taught by local artist, Theresa Williams. Theresa will lead you step-by-step though the process of painting your personalized version of our NW tulip field. All supplies are included.</p>
 
@@ -13,6 +15,7 @@ feed_content: |-
   <p>The post <a>Acrylic Painting</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: 82ad65b567c99fa4acbfd9897260ff2f83f4a774
 image_checksums: []
+images_extracted: true
 location_titles:
 - Shoreline
 - Lake Forest Park

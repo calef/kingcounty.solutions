@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-11-25T23:12:08+00:00'
+event_ids: []
 feed_content: As the holidays approach at a blistering pace we decided to slow down
   and take a look back to the 50’s for some safety tips. So, grab a hot cocoa, cozy
   up next to the space heater, and take a brief look back at this Blotter post from
   November 31st, 195...
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

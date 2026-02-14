@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-11-03T16:25:24+00:00'
+event_ids: []
 feed_content: |-
   <form action="https://nosscr.org/wp-login.php?action=postpass" class="post-password-form" method="post"><input type="hidden" name="redirect_to" value="https://nosscr.org/nosscr-megareg-session/" /></p>
   <p>This content is password protected. To view it please enter your password below:</p>
   <p><label for="pwbox-15588">Password: <input name="post_password" id="pwbox-15588" type="password" spellcheck="false" required size="20" /></label> <input class="fusion-button button-default fusion-button-default-size" type="submit" name="Submit" value="Enter" /></p>
   </form>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: NOSSCR Referral Service
 published: false

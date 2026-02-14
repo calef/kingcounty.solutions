@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-13T23:43:00+00:00'
+event_ids: []
 feed_content: The City Council has decided to cancel the Fourth of July drone show
   at the Des Moines Marina and redirect those funds to support other community events. 
   This decision was based in part on feedback received through the recent Community
@@ -22,6 +24,7 @@ feed_content: The City Council has decided to cancel the Fourth of July drone sh
   the February 5 Committee of the Whole meeting video on the City’s website.  
 feed_content_checksum: b75262669157bb0c30dcb46d5899423a9a92415c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Des Moines

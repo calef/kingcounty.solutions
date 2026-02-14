@@ -1,6 +1,8 @@
 ---
+classified: true
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Various locations in King County, WA
 location_titles:
 - King County

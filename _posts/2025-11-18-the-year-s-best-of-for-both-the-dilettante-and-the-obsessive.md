@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-18T18:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p>Do you have a stack of magazines waiting to be read? Are bookmarked articles haunting you? Do you wish someone would just tell you the best ones that you should definitely read? Well you’re in luck – this is your reminder to explore the best in essays, articles, and short stories with annual compilations.</p>
   <p>Put out by various different publishers, these compilations usually have a theme and a guest editor who has sifted through reams of short work to present what they, subjectively, think is the best work of the year. For the reader, it’s a tremendous way to dabble, to try out a new genre or topic, to read a range of work carefully curated into a single book.</p>
@@ -14,6 +16,7 @@ feed_content: |-
 
   <p></p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Homework Help
 published: false

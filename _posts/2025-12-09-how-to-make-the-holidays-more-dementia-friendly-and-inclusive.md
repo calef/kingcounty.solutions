@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-09T06:00:39+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>How to make the holidays more dementia-friendly and -inclusive</a> appeared first on <a>Aging Wisdom</a>.</p>
 feed_content_checksum: b3d46bfff4435e66a5b606d77f2b3f99dca98cfa
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Aging Wisdom

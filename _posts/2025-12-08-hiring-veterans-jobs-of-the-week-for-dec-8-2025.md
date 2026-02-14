@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-08T14:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -246,6 +247,7 @@ feed_content: |-
   <p><a>Norfolk, VA: Hampton Roads Military Community Education Connect (Southside) – Thursdays</a></p>
 feed_content_checksum: 1ae0a58e8c9ea1ec3dd9a864d92a9d527bdbf387
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

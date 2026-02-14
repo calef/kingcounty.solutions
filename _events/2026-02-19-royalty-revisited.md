@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Miz Floes will blend spoken word and theater.
 feed_content_checksum: 73f84aa02d7ba6f98085ff8dae6d0a70c7602617
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

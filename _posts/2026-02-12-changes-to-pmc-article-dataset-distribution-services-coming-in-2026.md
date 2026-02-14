@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-12T15:22:50+00:00'
+event_ids: []
 feed_content: PMC will make major changes to our Article Dataset Distribution Services
   in 2026. In August 2026, you will need to access full text article data files through
   the PMC Cloud Service instead of the PMC FTP Service. This change will provide you with
@@ -9,6 +11,7 @@ feed_content: PMC will make major changes to our Article Dataset Distributio
   Services Coming in 2026</span> <span>→</span></a>
 feed_content_checksum: aaab4db898d778dc31793edcd4ae8288d1e05d18
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: National Center for Biotechnology Information
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta

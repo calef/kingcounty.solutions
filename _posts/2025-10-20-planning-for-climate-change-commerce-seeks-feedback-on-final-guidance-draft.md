@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-20T16:18:17+00:00'
+event_ids: []
 feed_content: "The Department of Commerce is seeking feedback as it finalizes guidance
   designed to help communities plan for the impacts of climate change.  \n  \nCommerce
   will accept public comment on the final [Climate Element Planning Guidance document
@@ -15,6 +17,7 @@ feed_content: "The Department of Commerce is seeking feedback as it finalizes gu
   comment, changes to statewide rulemaking, and changes to federal programs and resources.
   \ \n  \nFor questions, contact Ananda Gordon-Peabody at [Ananda.Gordon-Peabody@commerce.wa.gov](mailto:Ananda.Gordon-Peabody@commerce.wa.gov).\n\n[![](https://www.commerce.wa.gov/wp-content/uploads/2025/10/ClimateGuiebookCover.png)](https://deptofcommerce.app.box.com/file/2009332238159?s=l9c7t6sy9xpka49p1uyd88f6i0k31m7x)"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

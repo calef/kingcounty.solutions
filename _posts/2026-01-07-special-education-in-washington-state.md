@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-07T00:44:36+00:00'
 event_ids: []
 events_extracted: true
@@ -70,6 +71,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   post <a>Special Education in Washington State</a> appeared first on <a>UW IHDD</a>.</p>"
 feed_content_checksum: e3148a9108042d7582b06934c936794c779cb7d6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

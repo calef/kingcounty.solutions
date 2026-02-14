@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-09T15:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>VA Salt Lake City Veterans share recovery journeys in San Diego</h2>
 
@@ -116,6 +118,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 5deee28d9a6446d8ce761cc062ef045f121f1da0
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

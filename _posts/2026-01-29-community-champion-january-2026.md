@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-29T23:59:42+00:00'
+event_ids: []
 feed_content: |-
   <div>
   <p><strong>El Centro de la Raza honors and remembers Nancy Skinner Nordhoff</strong></p>
@@ -178,6 +180,7 @@ feed_content: |-
   <p>The post <a>Community Champion: January 2026</a> appeared first on <a>El Centro de la Raza</a>.</p>
 feed_content_checksum: 172c030be52d2b2da9f3b0c35831b001fd6b8f79
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: El Centro de la Raza

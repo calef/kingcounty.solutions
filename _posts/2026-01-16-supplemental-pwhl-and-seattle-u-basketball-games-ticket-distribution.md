@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-16T19:36:46+00:00'
+event_ids: []
 feed_content: |-
   <p>The following Tribal Members will receive tickets to PWHL &amp; Seattle U Basketball al Games at Climate Pledge Arena</p>
   <p>All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your game please email <strong>TCR@snoqualmietribe.us</strong> at your earliest convenience.</p>
@@ -89,6 +91,7 @@ feed_content: |-
   </table>
 feed_content_checksum: 42e302d01837ef7a7e4c45290193ca896b448093
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-27T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -49,6 +50,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a href="https://www.va.gov/charleston-health-care/stories/mental-health-matters-a-real-conversation-on-suicide-prevention-with-community-connection/" target="_blank" rel="noreferrer noopener">Charleston Health care System site</a> and has been edited for style and clarity.  </p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

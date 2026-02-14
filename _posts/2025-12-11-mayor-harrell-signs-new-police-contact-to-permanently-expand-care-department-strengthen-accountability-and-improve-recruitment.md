@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-11T20:04:50+00:00'
+event_ids: []
 feed_content: Approval reflects monumental, nation-leading step forward in diversified
   public safety response Seattle – Today, Mayor Bruce Harrell signed a new contract
   with rank-and-file Seattle police officers that will allow for the permanent expansion
   and direct...
 feed_content_checksum: 22622a56817d1e0e29efb1ff628a7732507737f1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

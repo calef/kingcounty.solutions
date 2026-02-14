@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-02T20:25:45-08:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: In this season of Thanksgiving, we want you to know how grateful w
   shared, "I have
 feed_content_checksum: bf91f479fb895a479acb1c6c523a3d38637ab609
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lighthouse NW

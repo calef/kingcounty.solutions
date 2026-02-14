@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-20T16:17:55+00:00'
 event_ids: []
 events_extracted: true
@@ -15,6 +16,7 @@ feed_content: "[The Housing Accountability Act](https://lawfilesext.leg.wa.gov/b
   changes, may not deny affordable or moderate-income housing development and would
   be ineligible for certain state infrastructure grants and loans.\n\n[![](https://www.commerce.wa.gov/wp-content/uploads/2025/10/Selected-Review-procedure-cover.jpeg)](https://deptofcommerce.app.box.com/file/2010239759433?s=d4uluw4s4kpys8a7y2588vyt3ihp3nyu)"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

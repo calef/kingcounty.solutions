@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-25T23:15:11+00:00'
+event_ids: []
 feed_content: |-
   _Tribe urges partners to support and participate in their efforts to protect and restore flows in the Snoqualmie River._
 
@@ -11,6 +13,7 @@ feed_content: |-
 
   _The Snoqualmie Indian Tribe is a federally recognized tribe in the Puget Sound region of Washington State. Known as the People of the Moon, Snoqualmie were signatories to the Treaty of Point Elliott in 1855. For more information visit www.snoqualmietribe.us_
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

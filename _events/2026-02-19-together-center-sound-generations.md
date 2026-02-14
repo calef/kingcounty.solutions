@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-19T12:00:00-08:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span> Event
   Series: </span> <a> <span> Advocate Office @ Together Center – Sound Generations
@@ -41,6 +42,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   <span>February 23 @ 1:00 pm</span> - <span>5:00 pm</span> </div> </li> </ul> </div>
   </div> </section> </div>"
 feed_content_checksum: 405444133b1f4168157a6d3ec2601411770f4386
+image_checksums: []
 location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond, WA,
   98052, United States
 location_titles:

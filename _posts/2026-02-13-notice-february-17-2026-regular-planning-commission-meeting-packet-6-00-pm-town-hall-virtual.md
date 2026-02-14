@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-13T21:51:24+00:00'
 event_ids:
 - _events/2026-02-17-regular-planning-commission-meeting.md
@@ -21,6 +22,7 @@ feed_content: |-
   <p>Thank you.</p>
 feed_content_checksum: f9d75939eb445bdc6d48302102414a1d22d3aa17
 image_checksums: []
+images_extracted: true
 location_titles:
 - Yarrow Point
 organization_title: Town of Yarrow Point

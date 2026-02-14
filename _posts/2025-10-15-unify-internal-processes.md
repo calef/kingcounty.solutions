@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-15T17:06:31+00:00'
+event_ids: []
 feed_content: |-
   In 2025, we made significant progress to better manage change, data, communication, and policies. Our HR's internal website has been updated, making it easier for staff to access key information and policies. On the communications front, we restructured our team to designate point people for each region, helping us to stay informed, connected and responsive.&nbsp;&nbsp;&nbsp;
 
@@ -7,6 +9,7 @@ feed_content: |-
 
   Looking ahead to 2026, we’ll continue to refine our systems with the Equity Impact Tool, ensuring decisions and policies are informed by equity at every level. These changes are laying the groundwork for a more unified, efficient, and equitable organization.&nbsp;
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: King County Library System
 published: false

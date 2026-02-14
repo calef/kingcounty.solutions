@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-06T17:30:00-08:00'
 feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "name":
   "Partition and Solidarity: Anticolonial Struggles in the Colonial Present", "description":
@@ -15,6 +16,7 @@ feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "n
   Union Building (HUB) Lyceum"} } </script>'
 feed_content_checksum: b6d4819ab2ba1201d3a2ab693e95a000ae23bb16
 image_checksums: []
+images_extracted: true
 location: Student Union Building (HUB)
 location_titles: []
 organization_title: University of Washington
@@ -25,3 +27,4 @@ summarized: true
 title: 'Partition & Solidarity: Anticolonial Struggles in the Colonial Present Symposium'
 topic_titles: []
 ---
+

@@ -1,9 +1,12 @@
 ---
+classified: true
 date: '2025-11-03T23:34:40+00:00'
+event_ids: []
 feed_content: "<p>The post <a>Programming updates in Colorado and Silicon Valley</a>
   appeared first on <a>Reading Partners</a>.</p>"
 feed_content_checksum: c1c3e15e376dfd0b5f3b5ef3b7c25c709100347e
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Reading Partners
 original_source_html: "<p>The post <a>Programming updates in Colorado and Silicon

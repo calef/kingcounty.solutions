@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-04T15:57:00+00:00'
 event_ids:
 - _events/2026-02-27-wa-sbha-2024-2025-census-submission-deadline.md
@@ -10,6 +11,7 @@ feed_content: The Washington School-Based Health Alliance is collecting statewid
   gift cards as incentives. Deadline is February 27th.
 feed_content_checksum: 54e7f4c1b5dafdfa1a3133f584f36216862afb17
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

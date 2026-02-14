@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-22T19:41:25+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Mayor Harrell’s directive provided three weeks of emergency food
   government shutdown  Seattle—Yesterday, Mayor Bruce Harrell proclaimed the end of
   the City’s Li...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

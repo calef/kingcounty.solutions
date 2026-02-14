@@ -1,7 +1,9 @@
 ---
+classified: true
 feed_content: Seattle Center Monorail will operate with adjusted hours.
 feed_content_checksum: ab1c1cb652679ce87951aa4f33e392cb63b9b87e
 generated_from_post: true
+image_checksums: []
 location: Seattle Center
 location_titles:
 - King County

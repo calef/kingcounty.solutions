@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-21T17:13:20+00:00'
+event_ids: []
 feed_content: |-
   <style>
   .wp-video { margin-top: -20px; margin-bottom: 5px; }
@@ -46,6 +48,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 8beff0bf457b92baa11593b7587286c285099dd7
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

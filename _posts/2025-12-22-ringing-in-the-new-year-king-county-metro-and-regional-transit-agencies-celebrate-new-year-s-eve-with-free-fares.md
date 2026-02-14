@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-22T18:34:13+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: King County Executive Girmay Zahilay announced today that Metro wi
   Dec. 31. Riders can travel without paying...
 feed_content_checksum: 161c7cc18d1cbb149c2ec4aca80c885ec41d2a14
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit
@@ -25,3 +27,4 @@ title: 'Ringing in the New Year: King County Metro and regional transit agencies
 topic_titles:
 - Transportation & Mobility
 ---
+

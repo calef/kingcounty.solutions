@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-14T13:00:00+00:00'
 feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>MCRC
   Community Clinic</h1> <div> <span>Recurring event</span> <a> see all </a> </div>
@@ -21,6 +22,7 @@ feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1
   to Salah: New Muslim Class</a></li> <li><a>Urdu Class <span>»</span></a></li> </ul>
   </div> </div> </div> </div> </div> </div>"
 feed_content_checksum: 52db143bb17d8c8852e6905ac5af4605d625b093
+image_checksums: []
 location: ''
 location_titles:
 - King County

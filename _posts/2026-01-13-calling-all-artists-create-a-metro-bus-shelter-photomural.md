@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-13T20:44:32+00:00'
+event_ids: []
 feed_content: Are you a photographer or artist interested in adding beauty to a King
   County Metro bus shelter? Metro is teaming up with Photographic Center Northwest
   (PCNW) in a call for...
 feed_content_checksum: ae377f8809e348fa1cd8edc2a63f68f2521e19aa
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-09T16:00:00+00:00'
+event_ids: []
 feed_content: |-
   By Steven Schauer, Deputy Executive Director
 
@@ -53,6 +55,7 @@ feed_content: |-
 
   The post [Protecting Homes and Roads: Momb Revetment 2020 Repair Project Completed](https://kingcountyfloodcontrol.org/protecting-homes-and-roads-momb-revetment-2020-repair-project-completed/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: King County Flood Control District
 published: false

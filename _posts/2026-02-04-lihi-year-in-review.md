@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-04T21:34:08+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: 'Dear Friends of LIHI, We had a very productive 2025! As we contin
   in 2026! ...'
 feed_content_checksum: 2755e00c877452dce3d49470f0d5aaeeab23db2e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

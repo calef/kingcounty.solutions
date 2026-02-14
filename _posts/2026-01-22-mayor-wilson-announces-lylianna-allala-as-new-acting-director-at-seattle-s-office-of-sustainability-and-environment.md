@@ -1,9 +1,12 @@
 ---
+classified: true
 date: '2026-01-22T18:23:43+00:00'
+event_ids: []
 feed_content: Lylianna Allala named as Acting Director of the Office of Sustainability
   &amp; Environment by Mayor Katie Wilson.
 feed_content_checksum: b14c6c35b3e65a93f2ed03ef6a7b0cf105fef64a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

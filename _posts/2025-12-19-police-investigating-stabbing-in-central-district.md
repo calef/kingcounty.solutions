@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-19T04:31:52+00:00'
+event_ids: []
 feed_content: Seattle police officers are investigating a stabbing in the Central
   District this evening. Just before 7:00 p.m., patrol officers responded to reports
   of stabbing in the 1800 block of South Jackson Street. There, police found a woman
   inside of an apart...
 feed_content_checksum: d74c323369cddf46d294dd3be255cee10e0fb713
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

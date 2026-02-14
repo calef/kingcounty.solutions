@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-16T17:00:00+00:00'
+event_ids: []
 feed_content: Most of us take time in December to reflect and look back at the last
   year and seek some form of closure. The Public Art Division may look back and reflect
   on how our year went, but our projects don’t follow a fiscal year or Gregorian calendar.
   They mo...
 feed_content_checksum: a246edef9f9ed88cc21ef509dacb5c7502ae78ca
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-22T18:03:24+00:00'
 event_ids: []
 events_extracted: true
@@ -17,6 +18,7 @@ feed_content: |-
   <p>Together, we are creating more than strong starts. We are creating a stronger community.</p>
   <p>The post <a href="https://wellspringfs.org/backpacks-basics-belonging-a-season-of-strong-starts/">Backpacks, Basics &#038; Belonging: A Season of Strong Starts</a> appeared first on <a href="https://wellspringfs.org">Wellspring</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wellspring Family Services

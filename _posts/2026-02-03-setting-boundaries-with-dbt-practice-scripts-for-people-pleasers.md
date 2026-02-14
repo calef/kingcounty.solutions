@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-03T17:12:28+00:00'
 event_ids: []
 events_extracted: true
@@ -47,6 +48,7 @@ feed_content: |-
   <p>If you’re ready to start feeling like life is worth living, <a><span>connect with us today</span></a> to see how our intensive depression therapy with Bellevue, Washington-based therapists can help.</p>
 feed_content_checksum: d0ed56e78ff8aa67e6331e3a1ae5a74ddfec1ffb
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: THIRA Health

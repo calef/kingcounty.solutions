@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-03T20:40:22+00:00'
+event_ids: []
 feed_content: Seattle police are investigating after three people were injured during
   multiple shootings throughout Seattle this morning. At about 1:40 a.m., patrol officers
   responded to Harborview Medical Center (HMC) to interview a victim, suffering two
   non-life-t...
 feed_content_checksum: 6326c8b38271798fcd667aa19df0103f02ef3919
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

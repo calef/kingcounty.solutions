@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-06T14:43:44+00:00'
+event_ids: []
 feed_content: 'PubMed Central (PMC) is moving to an updated version of the E-utilities
   API in early February 2026. This version of E-utilities will use the same technology
   as the updated PMC website search, which was released in September 2025. This change
@@ -8,6 +10,7 @@ feed_content: 'PubMed Central (PMC) is moving to an updated version of the E-uti
   <span>→</span></a>'
 feed_content_checksum: 6934f37ec7bfe6f5dee4bfc751e5239c275ccc32
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: National Center for Biotechnology Information
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-16T00:49:58+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Crossposted from the Washington School-Based Health Alliance The W
   session on HIPAA/FERPA in school-based health centers (SBHCs) in Washington.  …
 feed_content_checksum: 1cfc11a661140a7b98853d3883adca230ffdbf7f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

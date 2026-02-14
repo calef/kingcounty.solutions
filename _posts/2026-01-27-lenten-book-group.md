@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-27T22:37:24+00:00'
+event_ids: []
 feed_content: |-
   <p>Mondays at 4 pm, February 23 – March 30 For Such a Time as This: An Emergency Devotional, by Hanna Reichel Everyone is invited to attend a weekly book group … <a>Read More</a></p>
   <p>The post <a>Lenten Book Group</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: 722d5973a71d00e1495af681f8cadefbb29d9d87
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

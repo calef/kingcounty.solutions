@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-20T08:45:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1>Zumba
   Toning *Online*</h1> </div> </div> </div> </div> </div> <div> <div> <div> <div>
@@ -103,6 +104,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   <li><a>{title}</a></li> <li><a>{title}</a></li> </ul> </div> </div> </div>"
 feed_content_checksum: c46bf9138e28b9f99aa64f86ed96d42b5935e3fa
 image_checksums: []
+images_extracted: true
 location: Online / Virtual
 location_titles: []
 organization_title: Phinney Neighborhood Association

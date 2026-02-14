@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-24T22:21:52+00:00'
+event_ids: []
 feed_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/11/Cannupa-Hanska-Luger-801x566-1-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="An arial shot of people standing in a circle in a field around a mosaic of a face made up large clay beads of various shades of gray." decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/11/Cannupa-Hanska-Luger-801x566-1-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/11/Cannupa-Hanska-Luger-801x566-1-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/11/Cannupa-Hanska-Luger-801x566-1-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/11/Cannupa-Hanska-Luger-801x566-1.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="72405" data-permalink="https://www.solid-ground.org/indigenous-art-as-resistance-survival/cannupa-hanska-luger-801x566/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/11/Cannupa-Hanska-Luger-801x566-1.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Cannupa Hanska Luger 801&#215;566" data-image-description="&lt;p&gt;&#8220;Every One,&#8221; an installation by Cannupa Hanska Luger.&lt;/p&gt;
   " data-image-caption="&lt;p&gt;&#8220;Every One,&#8221; an installation by Cannupa Hanska Luger.&lt;/p&gt;
@@ -183,6 +185,7 @@ feed_content: |-
   <p><span data-contrast="auto">Recognizing Indigenous art as resistance pushes us past tokenism. It reminds us Indigenous communities are not artifacts – they’re still here. They have always been here, and they will always continue to be here – adapting, creating, resisting, and leading. </span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="auto">Art isn’t just what we hang on walls. It’s how communities remember. It’s how people stay alive. It’s how we imagine the world we’re trying to build. May we continue to learn from and support the Indigenous artists who show us how to do that work with courage, beauty, and love.</span><span data-ccp-props="{}"> </span></p>The post <a href="https://www.solid-ground.org/indigenous-art-as-resistance-survival/">Indigenous art as resistance, survival </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Solid Ground
 published: false

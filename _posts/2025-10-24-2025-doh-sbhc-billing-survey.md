@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-24T21:01:29+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: The Washington State Department of Health seeks participation in t
   financial sustainability. The online survey is available until January 31, 2026,
   with a chance to win a $250 e-gift card.
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

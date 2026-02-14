@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T12:30:00-08:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <div> <span>
   Event Series: </span> <a> <span> Kaleidoscope Play and Learn (Evento en Español)
@@ -37,6 +38,7 @@ feed_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <div>
   Digitales</a></h3> <span>February 19 @ 5:30 pm</span> - <span>7:30 pm</span> </div>
   </li> </ul> </div> </div> </section></div></article>"
 feed_content_checksum: dc93af2af4d3b22fb0c729b1b6b08a5e6ecc1598
+image_checksums: []
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 location_titles:
 - King County

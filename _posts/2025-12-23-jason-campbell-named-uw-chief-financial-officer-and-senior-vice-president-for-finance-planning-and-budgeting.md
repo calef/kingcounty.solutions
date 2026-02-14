@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-23T21:42:35+00:00'
+event_ids: []
 feed_content: |-
   <p><span>University of Washington President Robert J. Jones and Provost Tricia R. Serio announced that Jason Campbell will become the chief financial officer and senior vice president of finance, planning and budgeting effective Jan. 1.  </span></p>
   <p><span>Campbell has been serving as interim CFO and senior vice president since Aug. 1 following Sarah Norris Hall’s departure.     </span></p>
@@ -16,6 +18,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: a82cd3b7c98145e71eb44ac9b870b3c9dca304ae
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

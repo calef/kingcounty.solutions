@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-05T00:29:51+00:00'
 event_ids: []
 events_extracted: true
@@ -13,6 +14,7 @@ feed_content: |-
   <p>The post <a>Action Alert: Urge your legislators to support HB 2238 (Statewide Food Security)</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: 845131f91cc67c0483c261f852192b6ba6966d66
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Northwest Harvest

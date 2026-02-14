@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-24T23:16:22+00:00'
+event_ids: []
 feed_content: |-
   <p>Mayor Katie B. Wilson released the following statement on the killing of Alex Pretti: “I’m horrified by the news this morning out of Minneapolis. I mourn for the victim, their family and friends, and for all of the families being torn apart every day by immigration agents.   I’m also inspired by the ferocity of the community response there. Tens of thousands […]</p>
   <p>The post <a>Mayor Wilson’s Statement on ICE Killing in Minneapolis</a> appeared first on <a>Office of the Mayor</a>.</p>
 feed_content_checksum: 4934140dc8f236f7a978525f4aa507f525f6add2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

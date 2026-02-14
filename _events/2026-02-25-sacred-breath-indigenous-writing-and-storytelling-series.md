@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T19:00:00-08:00'
 feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "name":
   "Sacred Breath: Indigenous Writing and Storytelling Series With Oscar Hokeah (Winter
@@ -20,6 +21,7 @@ feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "n
   wǝɫǝbʔaltxʷ – Intellectual House"} } </script>'
 feed_content_checksum: b30c7fa2215590d40175397f893ec192c0c87c7e
 image_checksums: []
+images_extracted: true
 location: Intellectual House (INT)
 location_titles: []
 organization_title: University of Washington
@@ -30,3 +32,4 @@ summarized: true
 title: 'Sacred Breath: Indigenous Writing and Storytelling Series'
 topic_titles: []
 ---
+

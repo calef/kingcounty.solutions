@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-08T17:53:57+00:00'
+event_ids: []
 feed_content: |-
   <p>Laurie Glasgow‑Gill, one of Mercy Housing’s longest serving team members, retired at the end of 2025, marking nearly 24 years of remarkable contribution. As Investor Relations Manager, Laurie was responsible for overseeing MCC’s investor portfolio, preparing investor note documents, meeting compliance reporting requirements, and tracking interest payments, among other duties.</p>
   <img src="https://live-mercy-housing.pantheonsite.io/wp-content/uploads/2026/01/LaurieGlasgowGillHeadshot_square.jpg">
@@ -8,6 +10,7 @@ feed_content: |-
   <p>The post <a>Laurie Glasgow-Gill retires after 24 years</a> appeared first on <a>Mercy Housing</a>.</p>
 feed_content_checksum: 95c527c9e1a7cd27978fc64302ef227c6fe61539
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Mercy Housing
 original_source_html: "<!doctype html>\n\n<!--[if lt IE 7]><html lang=\"en-US\" class=\"no-js

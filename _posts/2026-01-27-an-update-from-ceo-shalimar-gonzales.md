@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-27T17:51:40+00:00'
 event_ids: []
 events_extracted: true
@@ -19,6 +20,7 @@ feed_content: |-
   <p>Photo at top: Solid Ground CEO Shalimar Gonzales speaks at the 2025 Gala (credit: Michael B. Maine).</p>The post <a>An update from CEO Shalimar Gonzales</a> appeared first on <a>Solid Ground</a>.
 feed_content_checksum: 70c2c1c738bd70372f24b40b648da446943788e2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Solid Ground

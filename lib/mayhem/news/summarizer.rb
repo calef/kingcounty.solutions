@@ -50,8 +50,8 @@ module Mayhem
         summary_text ||= post.body&.strip || ''
         summary_missing = summary_text.to_s.strip.empty?
 
-        classify_post_topics(post, record_id, summary_text, work_needed[:needs_topic_titles], stats)
-        classify_post_locations(post, record_id, summary_text, work_needed[:needs_location_titles], stats)
+        classify_post_topics(post, record_id, summary_text, work_needed[:needs_classification], stats)
+        classify_post_locations(post, record_id, summary_text, work_needed[:needs_classification], stats)
 
         finalize_post(post, record_id, summary_text, summary_missing, work_needed, stats)
       rescue StandardError => e
@@ -77,10 +77,10 @@ module Mayhem
       end
 
       def backfill_unpublished_locations(post, record_id, stats)
-        needs_location_titles = post['location_titles'].nil?
-        return unless needs_location_titles && post.summarized? == true
+        return unless post.classified? != true && post.summarized? == true
 
         post.location_titles = []
+        post.classified = true
         post.save!
         @pruner.unpublish(post)
         stats[:locations_backfilled] += 1
@@ -90,16 +90,14 @@ module Mayhem
       def determine_work_needed(post)
         existing_summary = post.body&.strip
         needs_summary = post.summarized? != true
-        needs_topic_titles = needs_classification_for_record?(post, 'topic_titles')
-        needs_location_titles = needs_classification_for_record?(post, 'location_titles')
+        needs_classification = needs_classification_for_record?(post)
         summary_missing = post.summarized? == true && existing_summary.to_s.empty?
 
         {
           needs_summary: needs_summary,
-          needs_topic_titles: needs_topic_titles,
-          needs_location_titles: needs_location_titles,
+          needs_classification: needs_classification,
           summary_missing: summary_missing,
-          any_work_needed: needs_summary || needs_topic_titles || needs_location_titles || summary_missing
+          any_work_needed: needs_summary || needs_classification || summary_missing
         }
       end
 
@@ -157,8 +155,8 @@ module Mayhem
         nil
       end
 
-      def classify_post_topics(post, record_id, summary_text, needs_topic_titles, stats)
-        return unless needs_topic_titles
+      def classify_post_topics(post, record_id, summary_text, needs_classification, stats)
+        return unless needs_classification
 
         classified_topic_titles = classify_topics(summary_text)
         post.topic_titles = classified_topic_titles
@@ -169,8 +167,8 @@ module Mayhem
         stats[:missing_topics] += 1
       end
 
-      def classify_post_locations(post, record_id, summary_text, needs_location_titles, stats)
-        return unless needs_location_titles
+      def classify_post_locations(post, record_id, summary_text, needs_classification, stats)
+        return unless needs_classification
 
         classified_locations = classify_locations(
           summary_text,
@@ -187,9 +185,10 @@ module Mayhem
 
       def finalize_post(post, record_id, summary_text, summary_missing, work_needed, stats)
         should_unpublish = summary_missing ||
-                           (work_needed[:needs_topic_titles] && post.topic_titles.empty?) ||
-                           (work_needed[:needs_location_titles] && post.location_titles.empty?)
+                           (work_needed[:needs_classification] && post.topic_titles.empty?) ||
+                           (work_needed[:needs_classification] && post.location_titles.empty?)
 
+        post.classified = true if work_needed[:needs_classification]
         post.body = summary_text
         post.save!
 
@@ -248,6 +247,7 @@ module Mayhem
       # Ensure required fields are present even when we cannot summarize due to missing content
       def mark_unsummarizable(post, _record_id)
         post.summarized = true
+        post.classified = true
         post.topic_titles = []
         post.location_titles = []
         post.save!

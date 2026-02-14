@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-20T22:52:48+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: "New Hope West Building - Rendering by Weber Thompson Seattle, WA 
   Baptist Church at 114 and 123 21st Ave. in Seattle’s Central Area. The buildings
   will face each other across 21st Ave. and include a mix of studio, one, and two-bedroom..."
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

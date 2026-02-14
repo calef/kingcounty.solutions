@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-24T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Norfolk Job
   Fair, April 23, 2026</h1> <div> <div><span>April 23</span></div> </div> <div> <div>
@@ -9,6 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Norfolk 
   </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: bfa2db38833740c9282e1ead09e624ef5263506a
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

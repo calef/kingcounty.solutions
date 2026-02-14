@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-09T00:27:01+00:00'
 event_ids: []
 events_extracted: true
@@ -137,6 +138,7 @@ feed_content: "<p>Black, Indigenous, and People of Color (BIPOC) are far more li
   more, in our </strong><a><strong>webinar library</strong></a><strong>!</strong></p>"
 feed_content_checksum: 42ef326aeb4545c9f00f3592655609128c418b60
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

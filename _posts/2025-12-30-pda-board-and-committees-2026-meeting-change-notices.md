@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-30T23:18:15+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>The PDA Board and Committee meetings will continue to occur electronically for the foreseeable future, and we will post the Zoom meeting information on our website under the News &amp; Stories section here. Below is the meeting information for our upcoming meetings.</strong></p>
   <p> </p>
@@ -153,6 +155,7 @@ feed_content: |-
   </p><p>The post <a>PDA Board &amp; Committees – 2026 Meeting Change Notices</a> appeared first on <a>Community Roots Housing</a>.</p>
 feed_content_checksum: c5de58fe04f773c586b6ebdd6105023e561122d3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Community Roots Housing

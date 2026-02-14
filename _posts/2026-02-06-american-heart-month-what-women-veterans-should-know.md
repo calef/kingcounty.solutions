@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-06T15:30:00+00:00'
 event_ids:
 - _events/2026-02-18-virtual-veteran-townhall-on-heart-health.md
@@ -118,6 +119,7 @@ feed_content: |-
   </div>
 feed_content_checksum: a6473f2e49dbef7b3715c40ca14e0fc80f809a11
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

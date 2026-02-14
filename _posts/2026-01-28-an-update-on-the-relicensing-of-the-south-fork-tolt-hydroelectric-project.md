@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-28T18:27:27+00:00'
+event_ids: []
 feed_content: <a><img src="https://atyourservice.seattle.gov/wp-content/uploads/sites/15/2026/01/Powerlines-Featured-Images-19-150x150.jpg"></a>On January 26,
   2026, the City of Seattle (City) filed an Initial Study Report (ISR) with the Federal
   Energy Regulatory Commission (FERC). This is a required step in relicensing the South
@@ -10,6 +12,7 @@ feed_content: <a><img src="https://atyourservice.seattle.gov/wp-content/uploads/
   Participants (LPs). The ISR describes the progress in implementing […]
 feed_content_checksum: 86dcb9757e41e81a1f588a0a32025b35e8f3db7d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Seattle Public Utilities

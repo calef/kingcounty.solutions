@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-17T00:53:37+00:00'
 event_ids: []
 events_extracted: true
@@ -50,6 +51,7 @@ feed_content: "<span>Severe storms and cold, windy weather threaten health acros
   Get updates by following us on <a>social media</a>.</p>\n\n<p>###</p>\n</div>"
 feed_content_checksum: b35c1cc68a986f5628fab9e1231e6afdf95d3d33
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-04T15:30:00+00:00'
 event_ids:
 - _events/2026-11-13-43rd-athens-marathon.md
@@ -103,6 +104,7 @@ feed_content: |-
   <p>Support is free, confidential and available 24/7. Enrolled Veterans can talk with their VA care team about mental health and suicide prevention services.</p>
 feed_content_checksum: bc6da158212a026bd9627dba8882c273fc0dacdb
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-27T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Jacksonville
   Job Fair, March 26, 2026</h1> <div> <div><span>March 26, 2026</span></div> </div>
@@ -9,6 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Jacksonv
   </abbr> </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 6260552347a89f0a90eedc0500f9181a393c290b
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

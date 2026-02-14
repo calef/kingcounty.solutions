@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-04T00:30:17+00:00'
+event_ids: []
 feed_content: |-
   <p><iframe title="UW&#039;s 2025 video storytelling highlights" width="750" height="422" src="https://www.youtube.com/embed/hbmOw5OL_e8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
   <p><a href="https://youtu.be/iWtCmkQ5D_M">Click here to watch an audio described version of this video.</a></p>
@@ -10,6 +12,7 @@ feed_content: |-
   <p>For more information, contact Kiyomi Taguchi, UW News video producer: ktaguchi@uw.edu or 206-685-2716. Happy New Year!</p>
   <p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fvideo-the-uws-2025-storytelling-highlights%2F&amp;linkname=Video%3A%20The%20UW%E2%80%99s%202025%20storytelling%20highlights" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fvideo-the-uws-2025-storytelling-highlights%2F&amp;linkname=Video%3A%20The%20UW%E2%80%99s%202025%20storytelling%20highlights" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit a2a_counter" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fvideo-the-uws-2025-storytelling-highlights%2F&amp;linkname=Video%3A%20The%20UW%E2%80%99s%202025%20storytelling%20highlights" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fvideo-the-uws-2025-storytelling-highlights%2F&amp;linkname=Video%3A%20The%20UW%E2%80%99s%202025%20storytelling%20highlights" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fvideo-the-uws-2025-storytelling-highlights%2F&amp;linkname=Video%3A%20The%20UW%E2%80%99s%202025%20storytelling%20highlights" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fvideo-the-uws-2025-storytelling-highlights%2F&#038;title=Video%3A%20The%20UW%E2%80%99s%202025%20storytelling%20highlights" data-a2a-url="https://www.washington.edu/news/2025/12/03/video-the-uws-2025-storytelling-highlights/" data-a2a-title="Video: The UW’s 2025 storytelling highlights"></a></p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: University of Washington
 published: false

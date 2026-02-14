@@ -1,9 +1,12 @@
 ---
+classified: true
 date: '2025-09-24T11:07:59-04:00'
+event_ids: []
 feed_content: "<p>artifact_description: General Resources</p><p>date: Wed, 24 Sep
   2025 09:08:18 -0400</p><p>title: Customizable Preventive Services Letter</p><p>topic:
   Coverage 2 Care</p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Centers for Medicare & Medicaid Services
 published: false

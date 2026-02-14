@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-16T18:21:51+00:00'
 event_ids: []
 events_extracted: true
@@ -142,6 +143,7 @@ feed_content: |-
   <p></p><p>The post <a>My friend is unexpectedly pregnant, how can I be there for her?</a> first appeared on <a>Care Net of Puget Sound</a>.</p>
 feed_content_checksum: df1438867e82eea65c23dddc65c826c1a0f932db
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Care Net of Puget Sound

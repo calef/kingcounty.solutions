@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-21T06:00:50+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Growing Older Your Way: Proactive Planning</a> appeared first on <a>Aging Wisdom</a>.</p>
 feed_content_checksum: 5cbc53b39d912eb407c9819550fc357677044757
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Aging Wisdom

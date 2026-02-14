@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-22T03:18:49+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: |-
   <p>Please join us in welcoming <a href="https://www.instagram.com/cechohawk" target="_blank" rel="noopener">Colleen Echohawk</a> to Community Roots Housing!</p>
   <p>The post <a href="https://communityrootshousing.org/2025/09/announcing-ceo-colleen-echohawk/">Announcing Community Roots’ new CEO, Colleen Echohawk</a> appeared first on <a href="https://communityrootshousing.org">Community Roots Housing</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - Seattle
 - South King County

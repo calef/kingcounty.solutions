@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-13T19:39:18+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: Recent changes in U.S. immigration enforcement pose challenges for
   to aid providers in responding effectively.
 feed_content_checksum: 4a4f6b87b0141023dc2585e111296710ecac312f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

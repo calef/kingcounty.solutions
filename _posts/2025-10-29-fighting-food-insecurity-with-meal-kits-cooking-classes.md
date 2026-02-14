@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-29T15:13:45+00:00'
 event_ids: []
 events_extracted: true
@@ -13,6 +14,7 @@ feed_content: |-
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/10/fighting-food-insecurity/">Fighting food insecurity with meal kits &#038; cooking classes</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Mercy Housing
 published: false

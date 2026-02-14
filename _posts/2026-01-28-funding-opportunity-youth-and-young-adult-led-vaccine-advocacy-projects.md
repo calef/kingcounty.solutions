@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-28T17:49:27+00:00'
 event_ids:
 - _events/2026-03-01-youth-and-young-adult-led-vaccine-advocacy-projects-funding-opportunity.md
@@ -9,6 +10,7 @@ feed_content: The Best Starts for Kids (BSK) Immunizations Strategy offers fundi
   starting January 27, 2026, until funds are exhausted.
 feed_content_checksum: b97b91cfda0c083f4e03809e647421ab4877a2c2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

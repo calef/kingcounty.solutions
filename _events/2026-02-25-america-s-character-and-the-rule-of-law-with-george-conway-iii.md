@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T19:30:00-08:00'
 feed_content: '<article id="post-3855" class="post-3855 uw_oplevents type-uw_oplevents
   status-publish hentry category-graduate-school-sponsored tag-free"> <header class="entry-header">
@@ -51,6 +52,7 @@ feed_content: '<article id="post-3855" class="post-3855 uw_oplevents type-uw_opl
   </div> </div> <p class="sponsor-dept"><strong>Sponsoring Departments:</strong> The
   Graduate School</p> </div> </article>'
 image_checksums: []
+images_extracted: true
 location: Town Hall Seattle
 location_titles:
 - King County

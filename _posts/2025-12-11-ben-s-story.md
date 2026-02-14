@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-11T20:20:10+00:00'
 event_ids: []
 events_extracted: true
@@ -29,6 +30,7 @@ feed_content: "<div>\n\t\t\n\t\t\t\n<div>\n\t\n<span>\n\t“B</span>\n\n\t<div>\
   post <a>Ben’s Story</a> appeared first on <a>Boyer Children's Clinic</a>.</p>"
 feed_content_checksum: a27d5ba170615460fc7f8e69a38addff43b2dbc1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Boyer Children's Clinic

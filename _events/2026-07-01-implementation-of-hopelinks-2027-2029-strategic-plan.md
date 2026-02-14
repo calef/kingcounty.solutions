@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: The start of Hopelink's new strategic plan focusing on organizational
   resilience, community empowerment, and mission-centered impact.
 feed_content_checksum: 124997df9a121a306a07d441e00ad50ce988d186
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

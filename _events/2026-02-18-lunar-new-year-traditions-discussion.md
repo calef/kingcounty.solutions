@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T14:30:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1>Lunar
   New Year Traditions Discussion</h1> </div> </div> </div> </div> </div> <div> <div>
@@ -100,6 +101,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   </ul> </div> <div> <a>View preferences</a> </div> <div> <ul> <li><a>{title}</a></li>
   <li><a>{title}</a></li> <li><a>{title}</a></li> </ul> </div> </div> </div>"
 feed_content_checksum: a23977976da2f6617962eecec295e44df9fb655e
+image_checksums: []
 location: Greenwood Senior Center, 525 N. 85th St., Seattle, WA, 98103, United States
 location_titles:
 - King County

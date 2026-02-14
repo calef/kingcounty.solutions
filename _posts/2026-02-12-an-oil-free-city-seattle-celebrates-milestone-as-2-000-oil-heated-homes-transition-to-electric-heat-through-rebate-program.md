@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-12T21:39:12+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: We’re excited to share that more than 2,000 households have 
   a major environm...
 feed_content_checksum: 6beea51e42fd6ccac0d292246af465f474eb6008
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

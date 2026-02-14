@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-05T19:53:33+00:00'
 event_ids: []
 events_extracted: true
@@ -39,6 +40,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>Veterans are guid
   veterans should know about VA’s proposed change to rating scars</a> appeared first
   on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

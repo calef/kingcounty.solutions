@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T22:57:33+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: "<p>The post <a>Sexual assault survivors deserve care, safety and 
   — without fear</a> appeared first on <a>KCSARC</a>.</p>"
 feed_content_checksum: 1987f68ab1f3caa8dfa907cfb597f75f4118c1b7
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Sexual Assault Resource Center

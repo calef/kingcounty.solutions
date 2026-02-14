@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T02:20:47+00:00'
 event_ids: []
 events_extracted: true
@@ -31,6 +32,7 @@ feed_content: "<p>Mary’s Place board member and longtime supporter, Yousri Oma
   in the lives of children and families every single day!</p>"
 feed_content_checksum: e4408ee3e6ae8eed25f18d1524295fc6d0f9b4b3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

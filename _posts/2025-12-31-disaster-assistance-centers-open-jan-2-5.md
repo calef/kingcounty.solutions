@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-31T18:59:58+00:00'
 event_ids: []
 events_extracted: true
@@ -13,6 +14,7 @@ feed_content: |-
   <p>The post <a>Disaster Assistance Centers Open Jan. 2-5</a> appeared first on <a>Valley Regional Fire Authority (VRFA)</a>.</p>
 feed_content_checksum: fd419cb250af189a06fe38994f2dd0ce89efd6dd
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Valley Regional Fire Authority

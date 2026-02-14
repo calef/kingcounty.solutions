@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-12T23:23:46+00:00'
+event_ids: []
 feed_content: |-
   <p>Like all of the Emerald City, The Seattle Public Library has been reveling in the Seahawks’ Super Bowl win — but in a very library-like way.</p>
 
@@ -108,6 +110,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 7a78496cfea0c5789b3b38cb62f6888e7cabdf14
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

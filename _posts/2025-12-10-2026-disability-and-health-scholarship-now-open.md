@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-10T00:32:27+00:00'
 event_ids:
 - _events/2026-03-06-2026-frederick-j-krause-scholarship-application-deadline.md
@@ -56,6 +57,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
 feed_content_checksum: '09ddd6134a80fcbc24b6c494c539725ca7557b80'
 image_checksums:
 - 84895ecebf99b7daeb291779a10c3c261887ec60451366018df82c835eea2236
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

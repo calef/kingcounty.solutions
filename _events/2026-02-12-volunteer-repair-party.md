@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-12T21:00:00-08:00'
 feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"><div class="tribe-events-before-html"><h1>Events</h1></div> <div id="tribe-events-content"
@@ -39,6 +40,7 @@ feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-tem
   Volunteer Repair Party</a></li> <li class="tribe-events-nav-next"><a href="https://bikeworks.org/event/open-shop/2026-02-14/">Open
   Shop <span>»</span></a></li> </ul> </div> </div> </section>'
 image_checksums: []
+images_extracted: true
 location: 'BIKE WORKS WAREHOUSE, 3715 S Hudson St #111, Seattle, Washington, 98118,
   United States'
 location_titles:

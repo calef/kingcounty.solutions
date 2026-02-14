@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-17T17:15:48+00:00'
+event_ids: []
 feed_content: 'Blog stats: 600 words | 3-minute read We recently finished repainting
   work on the historic Dr. Jose Rizal Bridge between Chinatown-International District
   and Beacon Hill. Unlike previous painting and maintenance efforts, this is the first
   time we ...'
 feed_content_checksum: dc944a8c20e602f9dfaa9e30b0f2a75087f25690
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

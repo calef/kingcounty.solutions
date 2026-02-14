@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-22T13:20:20-08:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: |-
   </div>
 feed_content_checksum: ab0a322b32cfbac91fdc828bc9ff965f255bdb39
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Transit

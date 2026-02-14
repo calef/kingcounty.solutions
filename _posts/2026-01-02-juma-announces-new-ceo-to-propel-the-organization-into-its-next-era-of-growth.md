@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-02T17:21:15+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Juma Announces New CEO to Propel the Organization into Its Next Era of Growth</a> appeared first on <a>Juma</a>.</p>
 feed_content_checksum: 4baef40f5f83ddddaef9e6952e84a2f51e3bbe2c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Juma Ventures

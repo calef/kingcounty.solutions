@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-19T01:01:25+00:00'
+event_ids: []
 feed_content: |-
   <p>By Steven Schauer, Deputy Executive Director</p>
 
@@ -620,6 +622,7 @@ feed_content: |-
   <p>Thank you for your patience as we prioritize safety, response, and recovery. Please continue to be flood ready and stay safe by caring for yourself, family, friends, neighbors, and community members.</p><p>The post <a>⚠️ Flood Phases – What do they mean? ⚠️</a> appeared first on <a>King County Flood Control District</a>.</p>
 feed_content_checksum: 0a4815f8d5cda37f1efa03a1a89bb5b0099565ba
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Flood Control District

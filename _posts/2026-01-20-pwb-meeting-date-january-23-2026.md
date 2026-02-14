@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-20T18:15:17+00:00'
+event_ids: []
 feed_content: |-
   <p>The Public Works Board’s next meeting is on January 23, 2025, from 8:30 a.m. – 12:30 p.m. This is a hybrid meeting with online Zoom and in-person participation options.</p>
 
@@ -22,6 +24,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: d15882cf104e0a8d827a6a06f3d7e44ec7724605
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

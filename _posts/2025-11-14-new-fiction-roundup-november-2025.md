@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-14T18:00:37+00:00'
+event_ids: []
 feed_content: "<p>Surreal stories, character studies, family sagas and more await
   you in November&#8217;s new releases. </p>\r\n\r\n\r\n\r\n<p>11/4: <a href=\"https://seattle.bibliocommons.com/v2/record/S30C4089587\"><strong>Bitter
   Honey</strong></a> by Lolá Ákínmádé </p>\r\n<p>In 1978, Nancy immigrates from Gambia
@@ -186,6 +188,7 @@ feed_content: "<p>Surreal stories, character studies, family sagas and more awai
   and spanning centuries, a witch and a demon match wits over the fate of a powerful
   soul. (fantasy) </p>\r\n\r\n\r\n\r\n<p><em>~ posted by Andrea G.</em></p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Homework Help
 published: false

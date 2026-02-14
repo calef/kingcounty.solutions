@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T19:28:14+00:00'
 event_ids: []
 events_extracted: true
@@ -27,6 +28,7 @@ feed_content: |-
   <p>The post <a>President Christopher Ross talks exclusively with the Puget Sound Business Journal about the recent LCSNW and Compass merger</a> appeared first on <a>Compass Housing Alliance</a>.</p>
 feed_content_checksum: 86a18dda46250925b295a5726e69678f6f4aab4e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Compass Housing Alliance

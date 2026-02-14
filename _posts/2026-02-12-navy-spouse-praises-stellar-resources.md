@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-12T14:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong> Navy Spouse Praises Stellar Resources at Star-Spangled Babies Shower</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 
@@ -57,6 +59,7 @@ feed_content: |-
   <p>The post <a>Navy Spouse Praises Stellar Resources</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 25269beecc75aa80fc93c95aa873002b37c21b9c
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Operation Homefront
 original_source_html: |-

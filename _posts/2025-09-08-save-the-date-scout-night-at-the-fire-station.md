@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-08T17:29:27+00:00'
+event_ids: []
 feed_content: |-
   VRFA is excited to once again be hosting Scout Night at the Fire Station. Please join us on Wednesday, October 29th from 5:30 -8:30 PM at Station 33 in Lakeland Hills (500 182nd Ave E, Auburn, WA)
 
@@ -11,6 +13,7 @@ feed_content: |-
 
   The post [Save the Date! Scout Night at the Fire Station](https://www.vrfa.org/2025/09/save-the-date-scout-night-at-the-fire-station-2/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Valley Regional Fire Authority
 published: false

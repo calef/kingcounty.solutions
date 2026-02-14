@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-18T14:41:14+00:00'
 event_ids: []
 events_extracted: true
@@ -53,6 +54,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachm
   Mantegna supports America’s veterans</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_checksums:
 - 036b742a57d78c535ec5a3566af1459bc7e05c6478a5a6bc6c5bfbced346f04a
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

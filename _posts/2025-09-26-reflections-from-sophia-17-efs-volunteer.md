@@ -1,10 +1,12 @@
 ---
+classified: true
 date: '2025-09-26T00:59:54+00:00'
 event_ids: []
 events_extracted: true
 feed_content: June 8, 2025 was a day filled with both joy and bittersweet goodbyes
   for me. The day signaled an end to a 7-month long journey of...
 image_checksums: []
+images_extracted: true
 location_titles:
 - Eastside
 organization_title: Eastside Friends of Seniors

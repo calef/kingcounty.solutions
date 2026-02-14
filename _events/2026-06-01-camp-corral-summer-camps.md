@@ -1,10 +1,12 @@
 ---
+classified: true
 end_date: '2026-08-31T23:59:59-07:00'
 feed_content: No-cost weeklong summer camps for children of disabled veterans or those
   who died in service, aimed at empowering children ages 8 to 15.
 feed_content_checksum: 129b9b981760edf572bccf1b4af8325309fb5fff
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Various locations across the United States
 location_titles:
 - King County

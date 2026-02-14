@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-28T23:33:00+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Im
   the City of Burien's Public Works team to discuss pedestrian mobility and share
   what is most important to you."
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Burien
 published: false

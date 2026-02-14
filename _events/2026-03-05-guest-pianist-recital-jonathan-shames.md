@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-05T19:30:00-08:00'
 feed_content: <div class="field-items"> <div class="field-item"> <p>Guest pianist
   Jonathan Shames of the University of Oklahoma performs music by Schubert, Janacek,
@@ -50,6 +51,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p>Guest pianis
   and March of 2026; and recordings of Beethoven and Schubert piano works in May,
   2026.</p> </div> </div>
 image_checksums: []
+images_extracted: true
 location: Music Building (MUS)
 location_titles:
 - King County

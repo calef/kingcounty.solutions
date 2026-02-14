@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-08T16:10:57+00:00'
 event_ids: []
 events_extracted: true
@@ -83,6 +84,7 @@ feed_content: |-
   <p>The post <a>Grief Awareness Week: Honoring Loss, Making Space for Healing</a> appeared first on <a>Vibrant Emotional Health</a>.</p>
 feed_content_checksum: 75b703b21ef3a1661d6b325c03c4197a6df5040b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Vibrant Emotional Health

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-30T21:24:22+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>2025: KCRHA Year in Review</a> appeared first on <a>KCRHA</a>.</p>
 feed_content_checksum: a3eec8f9bb8fb3787f5aaee941c8f40be223e6f8
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

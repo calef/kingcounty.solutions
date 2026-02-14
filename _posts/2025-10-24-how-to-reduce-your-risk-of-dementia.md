@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-24T22:48:42+00:00'
 event_ids: []
 events_extracted: true
@@ -39,6 +40,7 @@ feed_content: |-
   </ol>
   <p>The post <a href="https://www.pacificmedicalcenters.org/healthy-every-day/how-to-reduce-your-risk-of-dementia/">How to Reduce Your Risk of Dementia</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Pacific Medical Centers

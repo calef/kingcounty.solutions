@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-11T17:56:26+00:00'
+event_ids: []
 feed_content: Join Seattle Parks and Recreation as we come together to honor the enduring
   life and legacy of Dr. Martin Luther King Jr. This special day of reflection, unity,
   and community action will be highlighted by a youth-led march and celebration, guided
   by th...
 feed_content_checksum: a2519006105ae56f5e9e7bdc1c9ee80fb35f87f0
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-02-12T21:07:55+00:00'
+event_ids: []
 feed_content: |-
   <p><img src="https://yarrowpointwa.gov/wp-content/uploads/2026/02/9428-Tree-Removal-Notice-Tree-2025-09.jpg"></p>
   <p><img src="https://yarrowpointwa.gov/wp-content/uploads/2026/02/Pages-from-2025.12.17_Arborist-Report_9428-NE-40th-St_Yarrow-Pt_SitePlan_ApprovedPermit.jpg"></p>
 feed_content_checksum: 4609c253a15a3fad630c7a0b20c4d7b0215beaf3
 image_checksums: []
+images_extracted: true
 location_titles:
 - Yarrow Point
 organization_title: Town of Yarrow Point

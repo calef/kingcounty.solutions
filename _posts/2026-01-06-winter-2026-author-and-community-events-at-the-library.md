@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T23:28:06+00:00'
 event_ids:
 - _events/2026-02-19-royalty-revisited.md
@@ -70,6 +71,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 3d9055fdc1c2d82a848b7bd071937cacd5f99c0d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-26T19:01:21+00:00'
+event_ids: []
 feed_content: |-
   <h2>Please email any comments by 11:59 p.m. Jan. 10</h2>
 
@@ -28,6 +30,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: c29de4fce4e9f21d44b088adaee59a9489c37e55
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 original_source_html: |-

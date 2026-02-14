@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T17:30:53+00:00'
 event_ids: []
 events_extracted: true
@@ -14,6 +15,7 @@ feed_content: |-
   <p>The post <a>Over $5,000 raised at 2025 Power of Home</a> appeared first on <a>Mercy Housing</a>.</p>
 feed_content_checksum: 3a0c5fc8eabe66f0999fd31ce725b7519d975591
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mercy Housing

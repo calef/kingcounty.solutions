@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T16:00:00-08:00'
 feed_content: 'Event interval: Single day event Campus location: Plant Services Building
   (PSB) Accessibility Contact: surplus@uw.edu Event Types: Special Events Facebook:
@@ -13,6 +14,7 @@ feed_content: 'Event interval: Single day event Campus location: Plant Services 
   store, online storefront, and timed auctions.'
 feed_content_checksum: 44b0ba9e56c101b1b3fd0b8243158c7bcc70e617
 image_checksums: []
+images_extracted: true
 location: Plant Services Building (PSB)
 location_titles:
 - King County

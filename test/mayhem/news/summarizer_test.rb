@@ -183,6 +183,7 @@ class PostSummarizerTest < Minitest::Test
     write_post('2025-01-05-test.md', {
                  'source_url' => 'http://ok',
                  'summarized' => true,
+                 'classified' => true,
                  'topic_titles' => [],
                  'location_titles' => []
                }, 'body')

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-10T00:08:20+00:00'
+event_ids: []
 feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2026/02/Powerlines-Featured-Images-22-150x150.png">At
   City Light, we want to make your energy solutions simple. We offer instant discounts,
   rebates, performance-based incentives, and other supporting services. With technical
@@ -8,6 +10,7 @@ feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/
   operating […]
 feed_content_checksum: dd0069b16c8c4961933521e8847054757721ebb6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

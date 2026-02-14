@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-18T20:01:55+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: 'It''s Auction Season! Bid on gifts for the holidays &#38; support
   and features happy hour socializing and a fun silent auction followed by a sumptuous
   gala...'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-06T21:23:46+00:00'
+event_ids: []
 feed_content: |-
   ![](https://www.tukwilawa.gov/wp-content/uploads/Mayor-PeoplesPledgeBG-300x200.png)
 
@@ -17,6 +19,7 @@ feed_content: |-
 
   The post [How would you spend $100,000 to improve Tukwila? Submit your ideas for the People’s Project](https://www.tukwilawa.gov/how-would-you-spend-100000-to-improve-tukwila-submit-your-ideas-for-the-peoples-project/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Tukwila
 published: false

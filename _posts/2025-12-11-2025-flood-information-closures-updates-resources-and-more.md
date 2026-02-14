@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-11T01:37:26+00:00'
 event_ids: []
 events_extracted: true
@@ -102,6 +103,7 @@ feed_content: |-
   <p>If we missed anything, please comment below! It takes the whole valley to look out for each other right now.</p>
 feed_content_checksum: 6fab44758247ed09913040e33f7d760f3ab320b6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Empower Youth Network

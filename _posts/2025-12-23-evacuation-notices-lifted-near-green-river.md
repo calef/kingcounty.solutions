@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-23T20:39:55+00:00'
+event_ids: []
 feed_content: As of December 23 at 10 a.m., all evacuation notices near the Green
   River in unincorporated King County have been lifted. Residents and businesses may
   return where it is safe to do so. Watch for standing water or debris. It may be
@@ -7,6 +9,7 @@ feed_content: As of December 23 at 10 a.m., all evacuation notices near the Gree
   and […]
 feed_content_checksum: f33780277725af775b7cb40c906c818041cfb406
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

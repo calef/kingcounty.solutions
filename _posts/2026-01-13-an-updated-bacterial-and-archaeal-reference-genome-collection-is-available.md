@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-13T19:50:24+00:00'
+event_ids: []
 feed_content: Download the updated bacterial and archaeal reference genome collection!
   We built this collection of 22,420 genomes by selecting the “best” genome assembly
   for each species among the 450,000+ prokaryotic genomes in RefSeq.  What’s new? 
@@ -9,6 +11,7 @@ feed_content: Download the updated bacterial and archaeal reference genome col
   <span>→</span></a>
 feed_content_checksum: 4d42753c147a958cc272c7fa38bffb2873c2898a
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: National Center for Biotechnology Information
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta

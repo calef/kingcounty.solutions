@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-02T00:09:27+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: December 2025 Across Washington state, there is a stark disparity 
   or understands their racial, ethnic, or cultural backgrounds.   Why does this matter?
   Research and lived experience show student success [&#8230;]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Technology Access Foundation

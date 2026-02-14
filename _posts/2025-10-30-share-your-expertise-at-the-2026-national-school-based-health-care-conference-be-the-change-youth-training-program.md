@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-30T18:49:22+00:00'
 event_ids:
 - _events/2026-10-30-2026-national-school-based-health-care-conference.md
@@ -9,6 +10,7 @@ feed_content: The National School-Based Health Alliance is seeking contributions
   Participants can showcase their impact, inspire action, and connect with leaders
   in the upcoming 2026 National School-Based Health Care Conference.
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

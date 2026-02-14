@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-15T21:44:25+00:00'
 event_ids: []
 events_extracted: true
@@ -62,6 +63,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: e377143d6e66d8942962b903c2f2f3abe4e166c9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-18T19:15:37+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: Last month, Friends of Youth welcomed community members to our Kir
   home  as we look ahead to 2026. The ceremony brought together local leaders, funders,...
 feed_content_checksum: c7218afca3d53f8463a76765280657ed62924d37
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Friends of Youth

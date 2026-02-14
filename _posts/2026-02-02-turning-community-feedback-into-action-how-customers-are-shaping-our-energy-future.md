@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-02T23:12:54+00:00'
+event_ids: []
 feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2026/02/Powerlines-Featured-Images-20-150x150.png">At
   Seattle City Light, our mission is to make sure your power is reliable, affordable,
   and doesn’t harm the planet. We’re facing big changes affecting how we provide energy
@@ -7,6 +9,7 @@ feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/
   align with what the communities we serve care about […]
 feed_content_checksum: 10baea3761a885277656708d0428ec4f98bff12b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

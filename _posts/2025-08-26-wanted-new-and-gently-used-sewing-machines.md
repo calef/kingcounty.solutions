@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-26T21:45:51+00:00'
 event_ids: []
 events_extracted: true
@@ -48,6 +49,7 @@ feed_content: "<p class=\"\">Sewing machines are needed to accommodate the growi
 image_checksums:
 - 52871b2cd8c1267017523dc6f53682b58ecfd117bc1ebf4da894ed98ffffd79a
 - 329ed2b5e5f5ec1b587dd9bb444fd75c5d87465fdaeb15c53d6424b3c997687a
+images_extracted: true
 location_titles:
 - King County
 organization_title: Essentials First

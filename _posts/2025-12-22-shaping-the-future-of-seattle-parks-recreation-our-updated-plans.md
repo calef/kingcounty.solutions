@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-22T19:50:12+00:00'
+event_ids: []
 feed_content: Today we are pleased to release an Updated 2020-2032 Strategic Plan—our
   vision for a healthy, thriving, and vibrant park and recreation system—as well as
   a new 2025-2028 Action Plan. Check them out here.  Updated 2020-2032 Strategic Plan 
   Our...
 feed_content_checksum: 9bb82101fb5fdbac1b1f8bf5f52e61a0df8cf58d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

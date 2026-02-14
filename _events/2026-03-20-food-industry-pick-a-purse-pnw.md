@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-20T16:30:00-07:00'
 feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path/to/json2.js"></script>
   <![endif]--> <!--[if lte IE 9]> <base href="/donation/" /> <![endif]--> <base> <meta>
@@ -95,6 +96,7 @@ feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path
   <!-- End Google Tag Manager (noscript) --> <script></script><script></script>  '
 feed_content_checksum: ec52cc8f00178fa542b70255d9049e39e18630d7
 image_checksums: []
+images_extracted: true
 location: Hilton Downtown Portland, 921 SW 6th Ave, Portland, OR, 97204, United States
 location_titles: []
 organization_title: Olive Crest
@@ -105,3 +107,4 @@ summarized: true
 title: Food Industry Pick a Purse PNW
 topic_titles: []
 ---
+

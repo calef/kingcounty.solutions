@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-21T19:13:00+00:00'
+event_ids: []
 feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          \n
   \           \n          \n            \n                \n                \n                \n
@@ -24,6 +26,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   </p><p class=\"\"><strong>Happy Holidays!</strong></p><p data-rte-preserve-empty=\"true\"
   class=\"\"></p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: CarePoint Clinic
 published: false

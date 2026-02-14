@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-23T19:21:54+00:00'
 event_ids: []
 events_extracted: true
@@ -36,6 +37,7 @@ feed_content: |-
   </ul>
   <p>The post <a href="https://acrs.org/rainier-valley-legal-clinic-relaunches-at-acrs-reviving-a-legacy-of-justice-and-community-partnership/">Rainier Valley Legal Clinic Relaunches at ACRS, Reviving a Legacy of Justice and Community Partnership</a> appeared first on <a href="https://acrs.org">ACRS</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Asian Counseling and Referral Service

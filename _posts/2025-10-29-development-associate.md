@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-29T16:39:23+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Development Associate</a> appeared first on <a>Lahai Health</a>.</p>
 feed_content_checksum: c17e19db1d02c797cfe473aec4dd634918956423
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lahai Health

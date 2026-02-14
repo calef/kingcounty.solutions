@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Final Notices of Funding Availability for the Housing Preservation Program
   and the Continuing Affordability Program will be published.
 feed_content_checksum: f88d875184cfbbd71cf285b25f84460689470ee8
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

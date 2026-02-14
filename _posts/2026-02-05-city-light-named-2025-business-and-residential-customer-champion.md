@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-05T19:56:39+00:00'
+event_ids: []
 feed_content: '<img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2026/02/Powerlines-Featured-Images-21-150x150.png">At
   Seattle City Light, we strive to provide our customers with exceptional service
   and support. We are honored to be named a 2025 Residential Customer Champion and,
@@ -8,6 +10,7 @@ feed_content: '<img src="https://powerlines.seattle.gov/wp-content/uploads/sites
   Residential and […]'
 feed_content_checksum: fef9c1455f9e41572b30fe2c5da2cf051e5c9674
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-06T17:58:21+00:00'
+event_ids: []
 feed_content: |-
   <p>Join instructor Nataliya Zigelboym to learn about the history of printmaking, tools, and techniques. We will make the  artworks inspired by the Pacific North West flora. Additionally, each participant will create their own stamp. This is a hands-on class. All the materials provided, no previous experience required. </p>
 
@@ -13,6 +15,7 @@ feed_content: |-
   <p>The post <a>Printmaking</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: 8f8c1a3054683c8ea0d8995a2dd9b7fa44abe9de
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Shoreline Lake Forest Park Senior Activity Center

@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: The new bus service on the RapidRide J Line is set to launch.
 feed_content_checksum: 8ded03f6435141e618ed635e0828b2374e7eb2cf
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

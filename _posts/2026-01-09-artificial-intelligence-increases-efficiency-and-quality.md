@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-09T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -62,6 +63,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA Asheville Health care System site </a>and has been edited for style and clarity.  </p>
 feed_content_checksum: 137d857c080ccb2e00390c3c15d73d7cf608b83d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

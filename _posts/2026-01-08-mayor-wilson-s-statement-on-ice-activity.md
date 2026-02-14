@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T23:31:43+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Mayor Wilson’s statement on ICE activity</a> appeared first on <a>Office of the Mayor</a>.</p>
 feed_content_checksum: 58e0e026d2040f0ef9ba6df58e34cd215d179ed2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

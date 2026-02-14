@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-21T18:51:04+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Seattle Parks and Recreation (SPR) is excited to share our Cycle 2
   Cycle 2 financial plan in 2022, SPR made a variety of capital project commitments
   for the ...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

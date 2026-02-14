@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-12T18:00:04+00:00'
 event_ids: []
 events_extracted: true
@@ -74,6 +75,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >
   all benefit; when justice prevails, we all move closer to the world we deserve.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 image_checksums:
 - 7c307023a32d84c280831a6bc26d5f60c0023e9b91d7130e6a9e3019ab581445
+images_extracted: true
 location_titles:
 - King County
 organization_title: Inatai Foundation

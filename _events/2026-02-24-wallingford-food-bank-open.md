@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-24T14:00:00-08:00'
 feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wallingford
   Food Bank has moved to a temporary location. Learn more →</p> </div> </div> </div>
@@ -47,6 +48,7 @@ feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wall
   </script> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.familyworksseattle.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
 feed_content_checksum: f5c9a17680fc8fa6971565eeb2ef1637e1823bc0
+image_checksums: []
 location: Wallingford Food Bank (Temporary Location), 4318 Stone Way North, Seattle,
   WA, 98103, United States
 location_titles:

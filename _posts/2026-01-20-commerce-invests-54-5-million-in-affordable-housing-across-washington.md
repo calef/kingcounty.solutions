@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-20T17:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -98,6 +99,7 @@ feed_content: |-
   <p>Today’s awards bring total CHIP investments to nearly $152 million since 2021, contributing to reducing the cost and advancing the development of nearly 14,000 affordable housing units. There is more information on the Connecting Housing to Infrastructure Program on Commerce’s <a>CHIP webpage</a>.</p>
 feed_content_checksum: 9ca3a6ee95ff5c2aec8dde9921b5d760b76e7a99
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

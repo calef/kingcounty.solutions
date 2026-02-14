@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-13T19:40:01+00:00'
+event_ids: []
 feed_content: |-
   <p><a><strong>WA Dept. of Ecology – Rails, Keels and Wheels</strong></a></p>
 
@@ -56,6 +58,7 @@ feed_content: |-
   <p>For a list of previous and future funding opportunities please refer to the <a><strong>EV Council Program Catalog</strong></a>.</p>
 feed_content_checksum: 213b99f54aca893f5ae39b13011dc25d97da6142
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

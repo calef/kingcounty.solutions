@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-02T03:36:54+00:00'
+event_ids: []
 feed_content: Seattle police officers arrested a 21-year-old man armed with a shotgun,
   pistol, and carrying multiple rounds of ammunition near the Space Needle during
   Seattle’s New Year’s Eve celebration. On Dec. 31 at about 7:20 p.m., patrol officers
   re...
 feed_content_checksum: 8e30535071fb4b4f1122e983956673d385b489f1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

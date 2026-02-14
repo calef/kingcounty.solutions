@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-17T14:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -40,6 +41,7 @@ feed_content: "<h2>A day on, not a day off</h2>\n\n\n\n<p>Every year on the thir
   our country.</p>"
 feed_content_checksum: 3fc2f905d1cef483f2e97546811c423e095cb2a9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

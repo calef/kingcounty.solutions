@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-10T20:57:22+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: By Ernest Kandilige, Metro Deputy General Manager As Veterans Day
   11) approaches, I want to take a moment to recognize and thank all of Metro’s military
   service members, past and...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

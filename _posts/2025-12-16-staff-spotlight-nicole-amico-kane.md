@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-16T06:00:46+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Staff Spotlight: Nicole Amico Kane</a> appeared first on <a>Aging Wisdom</a>.</p>
 feed_content_checksum: 83c158fcc48dada1fd2dc03560c59ab14bb06c1b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Aging Wisdom

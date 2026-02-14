@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-11T18:00:00-07:00'
 feed_content: '<div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li><a>Request
   Info</a></li> <li><a>Visit</a></li> <li><a>Apply</a></li> <li><a>Employment</a></li>
@@ -89,6 +90,7 @@ feed_content: '<div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <l
   </script>'
 feed_content_checksum: 0c2892e544d9d2eb6f2c8158d563d5d920a6b3ce
 image_checksums: []
+images_extracted: true
 location: Virtual Events @ Antioch University
 location_titles: []
 organization_title: Antioch University

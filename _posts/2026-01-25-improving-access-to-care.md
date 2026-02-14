@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-25T21:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>Bringing care home</h2>
 
@@ -64,6 +66,7 @@ feed_content: |-
   <p>As the MoPOC truck travels the backroads of North Texas, it isn’t just delivering care. It’s delivering respect, dignity and the simple truth that every Veteran deserves to be remembered and cared for right where they are.</p>
 feed_content_checksum: 5e72279b5e97df49a529f18192d86fc11e93db26
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

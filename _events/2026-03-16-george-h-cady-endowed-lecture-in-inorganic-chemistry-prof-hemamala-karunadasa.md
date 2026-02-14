@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-16T17:00:00-07:00'
 feed_content: Professor Hema Karunadasa works with colleagues in materials science,
   earth science, and applied physics to drive the discovery of new materials with
@@ -30,6 +31,7 @@ feed_content: Professor Hema Karunadasa works with colleagues in materials scien
   for more details and recent news.
 feed_content_checksum: bbc2f0ccbbae2479c29c5c0a902b277ea9b5a389
 image_checksums: []
+images_extracted: true
 location: Johnson Hall (JHN)
 location_titles:
 - King County

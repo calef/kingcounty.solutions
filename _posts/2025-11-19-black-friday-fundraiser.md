@@ -1,7 +1,10 @@
 ---
+classified: true
 date: '2025-11-19T00:00:00-08:00'
+event_ids: []
 feed_content: <summary type="html"></summary>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Rootstock Northwest
 published: false

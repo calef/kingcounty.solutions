@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-24T13:42:16+00:00'
+event_ids: []
 feed_content: |-
   **NOTICE OF AVAILABILITY OF 2025 PRELIMINARY BUDGETS**
 
@@ -15,6 +17,7 @@ feed_content: |-
 
   The post [Notice-Special Board of Governance Meeting](https://www.vrfa.org/2025/10/notice-special-board-of-governance-meeting/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Valley Regional Fire Authority
 published: false

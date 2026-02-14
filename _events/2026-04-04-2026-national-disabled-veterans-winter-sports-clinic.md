@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-12T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>2026 National
   Disabled Veterans Winter Sports Clinic</h1> <div> <div> <span>April 4</span> - <span>April
@@ -10,6 +11,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>2026 Nat
   11 </abbr> </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 0ff00d2efa41bc490f1ed85bf34b3c03a3ba3f11
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

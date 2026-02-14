@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-17T11:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -47,6 +48,7 @@ feed_content: |-
   <p>The post <a>Serving Relief, Sharing Gratitude</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 907838d0d46bd73182edef9dcf3434a74ab8ff77
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Operation Homefront

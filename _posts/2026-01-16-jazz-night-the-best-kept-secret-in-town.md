@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-16T19:49:45+00:00'
+event_ids: []
 feed_content: |-
   <a><p>Is listening to live music on your list of New Year’s Resolutions? </p>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>We have you covered with our monthly Jazz Night. Join us for a cozy evening with some great …</p></a>
 feed_content_checksum: c502e247047e2cbb9ce11e1f6d4681b703d2ab6c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Center for Active Living

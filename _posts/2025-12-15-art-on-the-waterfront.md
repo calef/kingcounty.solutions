@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-15T17:52:29+00:00'
+event_ids: []
 feed_content: Publicly-sited artwork projects anchor the new Waterfront Park along
   Seattle’s central waterfront. As 2025 draws to a close, a visitor to Seattle’s transformed
   waterfront can view 9 site-specific artwork projects and two fountain re-installations
   that ...
 feed_content_checksum: 4ec5af2383623cd1ed8161b2080fdfdcce03f8e2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

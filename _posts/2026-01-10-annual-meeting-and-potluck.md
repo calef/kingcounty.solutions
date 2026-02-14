@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-10T01:18:34+00:00'
+event_ids: []
 feed_content: |-
   <p>January 18, 2026 The St. Luke’s Annual Meeting is happening Sunday January 18, following the worship service. We will meet in person and online, and meeting packets will be available … <a>Read More</a></p>
   <p>The post <a>Annual Meeting and Potluck</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: 70534e29aafd9618fd2a8a371b3f21766934dc8f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

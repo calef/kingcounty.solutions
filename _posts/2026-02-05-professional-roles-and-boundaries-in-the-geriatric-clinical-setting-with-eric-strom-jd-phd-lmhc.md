@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-05T23:14:54+00:00'
 event_ids:
 - _events/2026-02-25-professional-roles-and-boundaries-workshop.md
@@ -74,6 +75,7 @@ feed_content: |-
   <p>The post <a>Professional Roles and Boundaries in the Geriatric Clinical Setting With Eric Strom, JD, PhD. LMHC</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: 24eccb44ac6abba958542817412208658b58c538
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

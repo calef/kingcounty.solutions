@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-27T12:00:00-08:00'
 feed_content: "<div> <div> <form> <div><div> <div><div> <div> <div><div>UW Healthy
   Aging Forum Attendee RSVP </div></div> <div> <div> <p><strong>When:</strong> Friday,
@@ -50,6 +51,7 @@ feed_content: "<div> <div> <form> <div><div> <div><div> <div> <div><div>UW Healt
   </li> <li> <span><div> <div></div> <div></div> <div></div> </div></span><span>Report</span>
   </li> </ul></div> </div> </div></div> </div>"
 feed_content_checksum: 1ac9e9f1d9ae026f3cb31ca5ee30ccc33592f9f4
+image_checksums: []
 location: Health Sciences Education Building (HSEB)
 location_titles:
 - King County

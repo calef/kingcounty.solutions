@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T00:00:00-08:00'
 feed_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</span>
   </div> </div> </div> </div> </header> <div> <section> <div> <p> <a> « All Events</a>
@@ -24,6 +25,7 @@ feed_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</sp
   </script>
 feed_content_checksum: d5ede9fc6af08471a697337c41cdf159accb0fca
 image_checksums: []
+images_extracted: true
 location: City Hall, 801 SW 174th Street, Normandy Park, WA, 98166, United States
 location_titles:
 - King County

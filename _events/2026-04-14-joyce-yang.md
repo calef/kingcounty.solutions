@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-14T21:30:00-07:00'
 feed_content: "<a>Skip to main content</a> <div> <div> <header> <a>Skip to main content</a>
   <div> <a><span>Meany Center</span> <span> Official Site</span></a> </div> <div>
@@ -46,6 +47,7 @@ feed_content: "<a>Skip to main content</a> <div> <div> <header> <a>Skip to main 
   </div> </div> </div> </div> </div> </div>"
 feed_content_checksum: eceb372430c2d24ad1a4db635291a2ae7f92cdb5
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-14T14:05:51+00:00'
 event_ids:
 - _events/2026-06-01-camp-corral-summer-camps.md
@@ -30,6 +31,7 @@ feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/u
   veteran, military children opens registration</a> appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: 5ddad67e98238afa8d741d6ea6bae1af7216da9e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

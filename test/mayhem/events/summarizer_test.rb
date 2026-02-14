@@ -276,6 +276,7 @@ class EventSummarizerTest < Minitest::Test
                   'start_date' => '2025-07-07',
                   'location' => 'Hall',
                   'summarized' => true,
+                  'classified' => true,
                   'topic_titles' => [],
                   'location_titles' => []
                 }, 'Existing summary')

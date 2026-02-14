@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-06T18:12:10+00:00'
 event_ids:
 - _events/2026-02-17-feedback-submission-deadline-for-housing-preservation-funding-opportunity.md
@@ -62,6 +63,7 @@ feed_content: |-
   <p>Submit your feedback via email to <a><strong>HTFApp@commerce.wa.gov</strong></a>. <strong>Comments are due by 5 p.m. Feb. 17.</strong> The final NOFAs will be released on March 3.</p>
 feed_content_checksum: a59f4c305be4b7466e081ed98b39fd772588a03f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

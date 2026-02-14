@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-07T01:07:41+00:00'
 event_ids: []
 events_extracted: true
@@ -45,6 +46,7 @@ feed_content: |-
   </div>The post <a>Here’s how our state can step up where the other Washington has turned its back </a> appeared first on <a>Solid Ground</a>.
 feed_content_checksum: 83c1d0c2847552e7de4d76eb0c2ccca3c6ed00e5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Solid Ground

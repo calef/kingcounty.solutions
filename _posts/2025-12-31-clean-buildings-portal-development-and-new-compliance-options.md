@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-31T00:56:53+00:00'
+event_ids: []
 feed_content: |-
   <p>The Clean Buildings Portal (Portal) is available for building owners and qualified individuals to submit Tier 1 and Tier 2 building applications demonstrating compliance with the Clean Buildings Performance Standards.</p>
 
@@ -34,6 +36,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: fe22c929ae87aa3253422cad1fb36536ae01b110
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

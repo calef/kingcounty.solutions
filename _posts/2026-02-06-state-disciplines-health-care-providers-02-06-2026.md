@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-06T21:36:38+00:00'
 event_ids: []
 events_extracted: true
@@ -101,6 +102,7 @@ feed_content: "<span>State disciplines health care providers (02-06-2026)</span>
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: '093b68bd821ae8ef119e7ccac6417680f2f17239'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

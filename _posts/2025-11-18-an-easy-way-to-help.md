@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-18T19:07:12+00:00'
 event_ids: []
 events_extracted: true
@@ -26,6 +27,7 @@ feed_content: |-
   <p>But there&#8217;s no need to wait, <a href="http://elap.org/donate">you can make your impact start now</a>. </p>
   <p>The post <a href="https://elap.org/an-easy-way-to-help/">An easy way to help</a> appeared first on <a href="https://elap.org">Eastside Legal Assistance Program</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

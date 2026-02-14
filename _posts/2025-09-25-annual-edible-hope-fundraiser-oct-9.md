@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-25T19:26:44+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>THANK YOU for joining us Thursday, October 9 at Old Stove Brewery in Ballard! Thank you so much for joining us for the annual Edible Hope Kitchen fundraiser! Over 160 &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/09/25/annual-edible-hope-fundraiser-oct-9/" aria-label="Annual Edible Hope Fundraiser Oct 9">Read More</a></p>
   <p>The post <a href="https://stlukesseattle.org/2025/09/25/annual-edible-hope-fundraiser-oct-9/">Annual Edible Hope Fundraiser Oct 9</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

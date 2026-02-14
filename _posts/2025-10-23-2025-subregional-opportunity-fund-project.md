@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-23T18:03:53+00:00'
+event_ids: []
 feed_content: |-
   By Steven Schauer, Deputy Executive Director
 
@@ -194,6 +196,7 @@ feed_content: |-
 
   The post [2025 Subregional Opportunity Fund Project](https://kingcountyfloodcontrol.org/2025-subregional-opportunity-fund-project/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: King County Flood Control District
 published: false

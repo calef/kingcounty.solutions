@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T21:24:43+00:00'
 event_ids:
 - _events/2026-02-27-rare-disease-day-2026-scientific-symposium.md
@@ -89,6 +90,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   post <a>Rare Disease Day 2026 Scientific Symposium</a> appeared first on <a>UW IHDD</a>.</p>"
 feed_content_checksum: 2e6283cd11f91105a634cba789a1038297ca176d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

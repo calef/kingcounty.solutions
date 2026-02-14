@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-20T17:47:11+00:00'
+event_ids: []
 feed_content: |-
   <p>Many of us start the new year with a <a>resolution to read more</a>. We hear that it’s good for us, helps us unplug, opens our mind and gives us space to escape our daily stresses.</p>
   <p>But what else does reading provide, and what are its perils? These recent memoirs and books about reading explore this question in different and expansive ways.</p>
@@ -32,6 +34,7 @@ feed_content: |-
   <div></div>
 feed_content_checksum: 23d50cdfcf634d3c5cc4d83bad843b640ccceb1f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

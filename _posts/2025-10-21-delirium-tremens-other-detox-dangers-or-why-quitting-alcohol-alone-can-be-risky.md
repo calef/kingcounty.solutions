@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-21T17:36:14+00:00'
 event_ids: []
 events_extracted: true
@@ -127,6 +128,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   appeared first on <a href=\"https://lakesidemilam.com\">Lakeside-Milam Recovery
   Centers</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lakeside-Milam Recovery Centers

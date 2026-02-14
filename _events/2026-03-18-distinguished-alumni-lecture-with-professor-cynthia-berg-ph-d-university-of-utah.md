@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-18T16:30:00-07:00'
 feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "name":
   "Distinguished Alumni Lecture with Cynthia Berg", "description": "A Self- and Social-Regulation
@@ -20,6 +21,7 @@ feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "n
   Rosling Center of Population Health (HRC) 155"} } </script>'
 feed_content_checksum: 730f3c5bccc7407da82e7447de463817ce8cddf4
 image_checksums: []
+images_extracted: true
 location: Hans Rosling Center for Population Health (HRC)
 location_titles: []
 organization_title: University of Washington
@@ -31,3 +33,4 @@ title: Distinguished Alumni Lecture with Professor Cynthia Berg, Ph.D., Universi
   of Utah
 topic_titles: []
 ---
+

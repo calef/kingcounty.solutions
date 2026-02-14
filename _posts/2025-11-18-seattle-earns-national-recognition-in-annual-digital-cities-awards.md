@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-18T20:42:57+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: The Center for Digital Government (CDG) awarded the City of Seattl
   the cities of (#1) San Jose, CA; (#2) Los Angeles, CA; and (#3) San Diego, CA, and
   tying with Charlotte...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

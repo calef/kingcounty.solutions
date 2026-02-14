@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-17T00:45:05+00:00'
+event_ids: []
 feed_content: |-
   <div>
   <a><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/12/15151912/glen-carrie-VUemmQZYMcg-unsplash-750x463.jpg"></a>
@@ -39,6 +41,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 6daab9e8f1ea5864aa49194f6a4976c3fdc45346
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

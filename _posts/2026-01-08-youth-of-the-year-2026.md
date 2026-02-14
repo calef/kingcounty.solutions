@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T20:39:32+00:00'
 event_ids: []
 events_extracted: true
@@ -20,6 +21,7 @@ feed_content: |-
   <p>The post <a>Youth of the Year 2026</a> appeared first on <a>Boys &amp; Girls Clubs</a>.</p>
 feed_content_checksum: 64027542efce8dc6bde7218f863fdaa913ad399d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Boys & Girls Clubs of King County

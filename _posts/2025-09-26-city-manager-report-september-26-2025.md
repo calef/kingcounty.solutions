@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-26T20:47:44+00:00'
+event_ids: []
 feed_content: 'Normandy Park’s Annual Property Tax Levy: What It Means for You Fall
   is officially here, and the City is preparing for its end-of-year activities, which
   include setting the property tax levy for the upcoming year. This year, Normandy
@@ -10,6 +12,7 @@ feed_content: 'Normandy Park’s Annual Property Tax Levy: What It Means for You
   the library district, and the City of Normandy Park. The City’s levy is just one
   small piece of that total bill — usually about 10–12% of what you pay each year.'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Normandy Park
 published: false

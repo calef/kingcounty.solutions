@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-03T18:21:02+00:00'
+event_ids: []
 feed_content: |-
   <p>City leaders, housing advocates, and community members came together in SoMa to celebrate the opening of 600 Seventh, a landmark affordable housing development at 7th and Brannan Streets that redefines what inclusive urban living can look like.</p>
   <p>The eight-story building is designed to inspire connection and joy. Families enjoy two landscaped courtyards with play structures and seating areas, game rooms and study nooks on every floor, and a spacious community room for gatherings. Select apartments and shared spaces offer sweeping views of the Bay Bridge and city skyline. At street level, 4,000 sq<u>u</u>are feet of retail space will welcome community-serving businesses, adding energy and opportunity to the neighborhood.</p>
@@ -22,6 +24,7 @@ feed_content: |-
   <p>Designed by Santos Prescott + Associates and built by Suffolk Construction and Guzman Construction Group, 600 Seventh stands as proof that when public agencies, nonprofit developers, private funders, and community voices unite to invest in affordable housing, we can build a city where everyone has a place to call home.</p>
   <p>The post <a href="https://www.mercyhousing.org/2025/12/600-seventh-street-opens-in-san-francisco/">600 Seventh Street Opens in San Francisco</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Mercy Housing
 published: false

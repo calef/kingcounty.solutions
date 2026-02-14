@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-04T22:38:58+00:00'
 event_ids: []
 events_extracted: true
@@ -85,6 +86,7 @@ feed_content: |-
   <p>The post <a>ACTION ALERT: Protect WCCC!</a> appeared first on <a>BrightSpark</a>.</p>
 feed_content_checksum: bda24f95d134824978b06fd1dfec415b9b881c0a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: BrightSpark

@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Deadline for organizations, lenders, and tribes to submit applications
   for funding to support homeownership opportunities.
 feed_content_checksum: 8bf1aba34351f18ffe01441c1581849f749982bf
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

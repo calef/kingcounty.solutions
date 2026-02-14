@@ -1,10 +1,12 @@
 ---
+classified: true
 end_date: '2026-02-27T16:00:00-08:00'
 feed_content: A scientific symposium hosted by Seattle Children’s Research Institute
   in observance of Rare Disease Day, featuring presentations on current research in
   diagnostics, pathophysiology, and therapeutic development for rare diseases.
 feed_content_checksum: 4939b72de93f57954b944f95da6124856211de89
 generated_from_post: true
+image_checksums: []
 location: Building Cure, McKinstry Auditorium
 location_titles:
 - King County

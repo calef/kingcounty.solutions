@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-17T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Indianapolis
   Job Fair, April 16, 2026</h1> <div> <div><span>April 16</span></div> </div> <div>
@@ -9,6 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Indianap
   </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: a9c72f5a1ef8da690529801703a202f05e1a2358
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

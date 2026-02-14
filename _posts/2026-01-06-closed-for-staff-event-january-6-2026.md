@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-06T23:05:47+00:00'
+event_ids: []
 feed_content: |-
   <p>Husky Health Center Clinic is closed from 3:00PM – 5:00PM on Tuesday, January 6th for a staff event. HHC will resume regular operations on Wednesday, January 7th.</p>
   <p><a>Source</a></p>
 feed_content_checksum: eb8d6e31de525d125a787c36461b2b8ed67cd16a
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: UW Well-Being for Students
 original_source_html: |-

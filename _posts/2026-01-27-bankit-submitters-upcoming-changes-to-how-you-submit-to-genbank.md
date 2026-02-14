@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-27T15:58:33+00:00'
+event_ids: []
 feed_content: 'Are you a GenBank submitter? Do you use BankIt or the GenBank app in
   the NCBI Submission Portal to submit your sequences? Or do you split your data between
   the two systems?    Starting this spring, you will be able to complete all GenBank
@@ -8,6 +10,7 @@ feed_content: 'Are you a GenBank submitter? Do you use BankIt or the GenBank a
   <span>BankIt Submitters: Upcoming Changes to How You Submit to GenBank</span> <span>→</span></a>'
 feed_content_checksum: 89e34cfe7b91423547b5b3d19034efd4db62d0de
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: National Center for Biotechnology Information
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta

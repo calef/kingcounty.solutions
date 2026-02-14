@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-31T01:11:04+00:00'
 event_ids:
 - _events/2026-02-02-free-tax-preparation-services.md
@@ -8,6 +9,7 @@ feed_content: |-
   <p><a>Source</a></p>
 feed_content_checksum: deec8179e9d9d73fa2932efac48db118a0b1f586
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: United Way of King County

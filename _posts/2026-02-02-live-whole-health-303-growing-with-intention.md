@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-02T21:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>As a Health Coach, I know what is most important to clients by simply looking at their calendars. Appointments, kids’ activities, church functions—these all tell me what really matters in their lives. As we work together, they begin to add health and well-being goals to the schedule.</p>
 
@@ -34,6 +36,7 @@ feed_content: |-
   <p><a>Whole Health</a> is about what matters to you, not what’s the matter with you. What do you want to achieve this year? <a>Get started</a> on your goals and chart your path for success!</p>
 feed_content_checksum: 8efa0b2306815c1b5b052cb1058b60edde5af284
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

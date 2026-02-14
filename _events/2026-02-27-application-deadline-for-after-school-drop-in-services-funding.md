@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Deadline for submitting applications for funding to provide after-school
   drop-in services.
 feed_content_checksum: d573e81732c74f94f6cae492d821ed17d168510b
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - Bellevue

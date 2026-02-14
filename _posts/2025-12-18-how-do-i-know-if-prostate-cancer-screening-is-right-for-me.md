@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-18T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -128,6 +129,7 @@ feed_content: |-
   <p>To learn more about prostate cancer, visit <a>VA’s National Oncology Program website</a>. You can also find a <a>helpful infographic</a> about whether prostate cancer screening is right for you, and an <a>interactive Decision Aid Tool</a> for prostate cancer screening in the <a>Veterans Health Library</a>.</p>
 feed_content_checksum: 8e849746fc8384481abd07ad07ae16814e972ca6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

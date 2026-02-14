@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-08-25T19:54:27+00:00'
+event_ids: []
 feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"16525\" class=\"elementor
   elementor-16525\" data-elementor-post-type=\"post\">\n\t\t\t\t\t\t<section class=\"elementor-section
   elementor-top-section elementor-element elementor-element-65736d5 elementor-section-boxed
@@ -76,6 +78,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"16525\" 
   Locker Room Update: Sinks &#038; Mirrors Install</a> appeared first on <a href=\"https://itallhappenshere.org\">Federal
   Way Community Center</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Federal Way Community Center
 published: false

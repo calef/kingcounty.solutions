@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-27T01:44:42+00:00'
 event_ids: []
 events_extracted: true
@@ -36,6 +37,7 @@ feed_content: "<span>West Coast Health Alliance Endorses the 2026 AAP Child and 
   \         </div>"
 feed_content_checksum: d095ec73f8bb297b771850697238656799d9bced
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

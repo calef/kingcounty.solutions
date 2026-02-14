@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-29T18:00:44+00:00'
+event_ids: []
 feed_content: |-
   <p>The final core we three wish to leave you with this year is the effervescent, highly mutable, slightly dark, yet utterly magical core of whimsigoth. May these suggestions spark warm fizzes of delight amidst the deep dark grey of winter.</p>
   <p><strong>Meranda: </strong>My first taste of whimsigoth came from <a><strong>The Addams Family</strong></a>. The dark aesthetics, the joie de vivre, and the witchy vibes couldn’t be mistaken for anything else. Whether you are familiar or not, I highly recommend this movie’s moody and loving family that seemingly can’t be killed. Another movie suggestion with some dark humor and fun aesthetics is <a><strong>Lisa Frankenstein</strong></a>. A zombie from the 1800s is brought back to life and develops feelings for Lisa, a teen with many troubles. A great ode to ‘80s campy horror movies.</p>
@@ -19,6 +21,7 @@ feed_content: |-
   <p><em>~Posted by Chelsea, Meranda, &amp; V. </em></p>
 feed_content_checksum: d11cfd2b5e9a85ecbb5a72d66fac7a8a3ff674ed
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

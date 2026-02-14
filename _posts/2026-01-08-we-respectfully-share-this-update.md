@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-08T17:08:06+00:00'
+event_ids: []
 feed_content: |-
   <p><span> Services will be held for</span></p>
   <h2><span>Tribal Elder Karen Boney</span></h2>
@@ -12,6 +14,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 3a93658eb2c813cc0878be815ae7c6209aaa17b3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

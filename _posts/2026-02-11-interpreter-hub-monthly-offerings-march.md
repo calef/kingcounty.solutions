@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-11T16:03:19+00:00'
+event_ids: []
 feed_content: |-
   <div><img src="https://www.cdhy.wa.gov/wp-content/uploads/2026/02/March-Offerings-from-CDHY-Interpreter-Hub-791x1024.png"></div>
   <h2>CDHY Interpreter Hub Monthly Offerings</h2>
@@ -60,6 +62,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: d6a5cec8474e5ee5bcf12b01eae9bf4f70d3634c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Washington Center for Deaf and Hard of Hearing Youth

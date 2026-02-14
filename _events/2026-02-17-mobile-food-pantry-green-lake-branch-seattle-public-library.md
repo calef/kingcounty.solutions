@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T15:00:00-08:00'
 feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wallingford
   Food Bank has moved to a temporary location. Learn more →</p> </div> </div> </div>
@@ -49,6 +50,7 @@ feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wall
   </script> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.familyworksseattle.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
 feed_content_checksum: 7758a662caab88de9d8c9211dfd621378f82afd4
+image_checksums: []
 location: Green Lake Branch – Seattle Public Library, 7364 East Green Lake Dr N, Seattle,
   WA, 98115, United States
 location_titles:

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-14T13:00:00-08:00'
 feed_content: '<div id="simple-banner" class="simple-banner"><div class="simple-banner-text"><span>Did
   you know we offer virtual office hours every weekday? Click <a href="https://us02web.zoom.us/j/88987063870">VIRTUAL
@@ -153,6 +154,7 @@ feed_content: '<div id="simple-banner" class="simple-banner"><div class="simple-
   href="https://kcdrc.org/ru/event/kc-connect-online-workshop/2026-02-14/?wg-choose-original=false">Русский</a></li>
   </ul></aside>'
 image_checksums: []
+images_extracted: true
 location: WA
 location_titles:
 - King County

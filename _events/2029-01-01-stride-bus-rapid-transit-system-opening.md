@@ -1,6 +1,8 @@
 ---
+classified: true
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Lake Washington area
 location_titles:
 - King County

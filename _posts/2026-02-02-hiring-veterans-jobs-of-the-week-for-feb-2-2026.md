@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-02T14:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>Editor’s note: This post contains links to jobs that are active at the time of publishing. Most job listings close 7–30 days after posting. The sharing of any non-VA information does not constitute an endorsement of products or services by VA. Veterans should verify all information with the organization offering the opportunity.</p>
 
@@ -288,6 +290,7 @@ feed_content: |-
   <p><a>G.I. Jobs Military Friendly Virtual Job Fair: Feb. 26, 2026; Mar. 26, 2026; Apr. 23, 2026; May 21, 2026; June 25, 2026.</a></p>
 feed_content_checksum: c91f06f4e4ab39f22826e5d37690e054b8fc59a5
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

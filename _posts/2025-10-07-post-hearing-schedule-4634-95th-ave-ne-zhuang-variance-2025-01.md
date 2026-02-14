@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-07T18:33:45+00:00'
+event_ids: []
 feed_content: |-
   - The record is held open through 10/9 for public comment from members of the public who tried to join the virtual hearing but were unable to join/make comment for technology or access reasons.
 
@@ -29,6 +31,7 @@ feed_content: |-
 
   &nbsp;
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-17T00:37:53+00:00'
 event_ids: []
 events_extracted: true
@@ -31,6 +32,7 @@ feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t
   for their partnership on this project.</em></p>\n</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 feed_content_checksum: 58ed56755ee38e4f030d488b5943fd5273e65f56
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Inatai Foundation

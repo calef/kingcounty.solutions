@@ -1,9 +1,11 @@
 ---
+classified: true
 end_date: '2026-12-31T23:59:59-08:00'
 feed_content: Funding for youth and young adult-led projects aimed at promoting vaccine
   awareness and confidence.
 feed_content_checksum: 1fb56497ea9f1c750f9dc2a2ff5c2c7a235d6fb8
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

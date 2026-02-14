@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-16T14:00:00+00:00'
+event_ids: []
 feed_content: Seattle, WA – In a press announcement on Friday, January 9, 2026, Mayor
   Katie B. Wilson announced Alicia Teel as Acting Director for the Office of Economic
   Development.   “I’m honored to serve in this interim capacity to lead the Office
   of Economic Dev...
 feed_content_checksum: bfd6f674dae0cb5cac2e72347f711f5fd2ba905c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

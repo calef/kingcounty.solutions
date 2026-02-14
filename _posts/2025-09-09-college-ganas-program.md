@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-09T21:04:58+00:00'
 event_ids: []
 events_extracted: true
@@ -158,6 +159,7 @@ feed_content: |-
 image_checksums:
 - 01a2b18d1828e9e744151ac028d8dbf1628b20a7d9b72599b20bc05acebe2c13
 - 9b94f1b278d7a91a6e0ba84e2fe6c64d86cb3232c51e03b5b8441762ec6f8b43
+images_extracted: true
 location_titles:
 - King County
 organization_title: El Centro de la Raza

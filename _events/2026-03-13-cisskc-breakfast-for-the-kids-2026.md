@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-13T09:00:00-07:00'
 feed_content: "<div> <article> <header> <h1><span>CISSKC Breakfast for the Kids 2026</span></h1>
   </header> <div> <div> <div> <div> <span> March 13, 2026 </span> <span> | </span>
@@ -18,6 +19,7 @@ feed_content: "<div> <article> <header> <h1><span>CISSKC Breakfast for the Kids 
   forward to seeing you on March 13, 2026.</p> </div> </div> </article> </div>"
 feed_content_checksum: c5951a2d6e724f59f4675e4b6ac59e00b63d1ae5
 image_checksums: []
+images_extracted: true
 location: Kent-Meridian High School, 10020 SE 256th St., Kent, Washington, 98030,
   United States
 location_titles:

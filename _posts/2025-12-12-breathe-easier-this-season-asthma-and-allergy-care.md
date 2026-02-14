@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-12T22:48:35+00:00'
 event_ids: []
 events_extracted: true
@@ -39,6 +40,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   <a>Snoqualmie Valley Hospital</a>.</p>"
 feed_content_checksum: 4457ee43f8b347620f3cacd006c19a4cbffe543a
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

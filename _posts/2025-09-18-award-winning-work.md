@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-18T21:24:31+00:00'
 event_ids: []
 events_extracted: true
@@ -13,6 +14,7 @@ feed_content: "It’s been a big month for our team at ELAP.\n\nWe recently rece
   work](https://elap.org/award-winning-work/) appeared first on [Eastside Legal Assistance
   Program](https://elap.org)."
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

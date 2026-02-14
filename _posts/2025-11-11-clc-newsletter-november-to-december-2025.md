@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-11T15:50:43+00:00'
 event_ids: []
 events_extracted: true
@@ -13,6 +14,7 @@ feed_content: |-
 
   The post [CLC Newsletter – November to December 2025](https://cisc-seattle.org/clc-newsletter-november-to-december-2025/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Chinese Information & Service Center

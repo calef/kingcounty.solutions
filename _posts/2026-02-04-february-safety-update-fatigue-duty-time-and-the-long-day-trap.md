@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-04T17:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p>Flying for Angel Flight West (AFW), or any philanthropic flying, is among the most meaningful work a general aviation pilot can do. Volunteer pilots, Earth Angels and all AFW staff and volunteers bring skill and compassion together in service to others. But these missions also introduce a unique set of risks – many of which are subtle, cumulative, and easy to underestimate.</p>
 
@@ -354,6 +356,7 @@ feed_content: |-
   <p></p><p>The post <a>February Safety Update: Fatigue, “Duty Time”, and the Long Day Trap </a> first appeared on <a>Angel Flight West</a>.</p>
 feed_content_checksum: 4b3a38e082d4269aa378305d9d9706d8fe36578f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Angel Flight West

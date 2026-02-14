@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-21T19:19:00+00:00'
 event_ids: []
 events_extracted: true
@@ -31,6 +32,7 @@ feed_content: |-
   <p>The post <a>Meet board member Tasha Murphy</a> appeared first on <a>Eastside Legal Assistance Program</a>.</p>
 feed_content_checksum: d99b9a9a30c77b6c6fab31c23e9cbc27dc47e09f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

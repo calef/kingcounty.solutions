@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-02T17:04:30+00:00'
+event_ids: []
 feed_content: |-
   <p>A folder in the Water Department Central Files documents incidents of trespassing in the Cedar River Watershed between 1955 and 1964. The watershed supplies drinking water to the greater Seattle area and also is a major source for downstream rivers, supporting salmon and other species. To protect the water and the land, the City restricts […]</p>
   <p>The post <a>January Find of the Month: Trespassers in the Cedar River Watershed</a> appeared first on <a>Primary Sources</a>.</p>
 feed_content_checksum: '069e3e5c3808d20998a02dfe2e36a51f7ec74d18'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

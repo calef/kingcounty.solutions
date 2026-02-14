@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-16T19:24:46+00:00'
 event_ids: []
 events_extracted: true
@@ -70,6 +71,7 @@ feed_content: |-
   <p><strong>Image at top:</strong> Solid Ground Tenant Counselor Edgar Aldrett (photo by Michael B. Maine)</p>The post <a>Partnering to stop homelessness at its source</a> appeared first on <a>Solid Ground</a>.
 feed_content_checksum: b46d49a69445b7453f8003de319197f0a66c9455
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Solid Ground

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-22T20:46:08+00:00'
 event_ids: []
 events_extracted: true
@@ -38,6 +39,7 @@ feed_content: |-
 feed_content_checksum: 81f178a8c767025d2235743374d8295ebbcf452b
 image_checksums:
 - 247923f38b4ea699bb770b078865a8109cab1ab5fb07136ddf0f995196aa1981
+images_extracted: true
 location_titles:
 - King County
 organization_title: Compass Housing Alliance

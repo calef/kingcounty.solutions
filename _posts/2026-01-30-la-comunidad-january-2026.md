@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-30T20:07:01+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>El Centro de la Raza Joins Seattle’s 43rd Annual MLK Jr. Celebration</strong></p>
 
@@ -17,6 +19,7 @@ feed_content: |-
   </div><p>The post <a>La Comunidad: January 2026</a> appeared first on <a>El Centro de la Raza</a>.</p>
 feed_content_checksum: b23030aee7cb56ef7badafcd0294fea940f69eff
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: El Centro de la Raza

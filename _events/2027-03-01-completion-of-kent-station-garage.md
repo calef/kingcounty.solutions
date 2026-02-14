@@ -1,6 +1,8 @@
 ---
+classified: true
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Kent Station
 location_titles:
 - Kent

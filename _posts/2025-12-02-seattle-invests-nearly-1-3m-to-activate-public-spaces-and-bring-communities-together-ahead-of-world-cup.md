@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-02T15:20:05+00:00'
+event_ids: []
 feed_content: Funding will support World Cup celebrations in every district and downtown
   experiences led by local artists and cultural leaders Seattle, WA – Today, the City
   of Seattle announced nearly $1.3 million in investments to activate public spaces,
   celebrate ...
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

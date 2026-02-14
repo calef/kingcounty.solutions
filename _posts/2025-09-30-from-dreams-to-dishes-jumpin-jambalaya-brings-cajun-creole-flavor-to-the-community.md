@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-30T16:30:54+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p class="read-more-container"><a title="From Dreams to Dishes: Jumpin Jambalaya Brings Cajun-Creole Flavor to the Community " class="read-more button" href="https://nhwa.org/2025/09/30/jumpin-jambalaya/#more-25288" aria-label="Read more about From Dreams to Dishes: Jumpin Jambalaya Brings Cajun-Creole Flavor to the Community ">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/09/30/jumpin-jambalaya/">From Dreams to Dishes: Jumpin Jambalaya Brings Cajun-Creole Flavor to the Community </a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Neighborhood House

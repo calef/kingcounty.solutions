@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-05T21:19:04+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: |-
   <p>Mencini’s first day at MultiCare was Monday, Nov. 3.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/11/brandon-mencini-named-president-of-multicare-auburn-and-covington-medical-centers/" data-wpel-link="internal">Brandon Mencini named president of MultiCare Auburn and Covington medical centers</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: MultiCare

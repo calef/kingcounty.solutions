@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-06T05:19:53+00:00'
 event_ids: []
 events_extracted: true
@@ -18,6 +19,7 @@ feed_content: |-
   <p>The post <a href="https://soundgenerations.org/november-is-national-caregivers-month/">November is National Caregivers Month</a> appeared first on <a href="https://soundgenerations.org">Sound Generations</a>.</p>
 image_checksums:
 - ad51460a4eb6b48fcb0ab1d97bf996d1cf869d18c6aa41c67c178d49574a876e
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

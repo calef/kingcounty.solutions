@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-21T12:00:00-08:00'
 feed_content: '<div> <div> <header> <div> <div> <div> <div> <span>Select Page</span>
   </div> </div> </div> </div> </header> <div> <section> <div> <p> <a> « All Events</a>
@@ -42,6 +43,7 @@ feed_content: '<div> <div> <header> <div> <div> <div> <div> <span>Select Page</s
   </script>'
 feed_content_checksum: 7c4174d85b885238eab4e096125b774f6d7efd8d
 image_checksums: []
+images_extracted: true
 location: Nature Trails Park, 19250 Marine View Dr, Normandy Park
 location_titles:
 - King County

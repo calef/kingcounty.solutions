@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-05T17:00:00+00:00'
+event_ids: []
 feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/12/alan_spotlight-1-150x150.png">The
   Basics Division: Resource Planning &amp; Analysis team in the Power Supply Business
   Unit How long have you been at City Light? Since November 2022 Tell us about your
@@ -8,6 +10,7 @@ feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/
   […]
 feed_content_checksum: 2c6562cafd531a46e715677015a5dbb41e7e6b2d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

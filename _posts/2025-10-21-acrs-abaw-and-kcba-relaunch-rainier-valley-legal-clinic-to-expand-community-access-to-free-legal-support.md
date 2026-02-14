@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-21T00:12:25+00:00'
 event_ids: []
 events_extracted: true
@@ -37,6 +38,7 @@ feed_content: |-
   lizaj@acrs.org | 206-695-7600</p>
   <p>The post <a href="https://acrs.org/acrs-abaw-and-kcba-relaunch-rainier-valley-legal-clinic-to-expand-community-access-to-free-legal-support/">ACRS, ABAW, and KCBA Relaunch Rainier Valley Legal Clinic to Expand Community Access to Free Legal Support</a> appeared first on <a href="https://acrs.org">ACRS</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Asian Counseling and Referral Service

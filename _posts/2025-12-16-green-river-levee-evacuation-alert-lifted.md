@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-16T03:30:07+00:00'
+event_ids: []
 feed_content: As of Monday evening, December 15 at 7:30 p.m., the evacuation alert
   has been lifted for the residents and businesses east of the Green River in the
   Orillia area in Tukwila, Renton, and Kent, and the flash flood warning has been
   canceled. It is safe to return to this area. However, please continue to stay […]
 feed_content_checksum: a816ab2177141201360953396ac023648b277f59
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

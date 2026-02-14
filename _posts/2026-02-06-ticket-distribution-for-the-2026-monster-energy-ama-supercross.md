@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-06T21:36:12+00:00'
+event_ids: []
 feed_content: |-
   <p>The following Tribal Members will receive tickets to the 2026 Monster Energy AMA Supercross at Lumen Field.</p>
   <p>All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your game or you cannot locate your tickets, then please email <b>tcr@snoqualmietribe.us </b> for assistance.</p>
@@ -50,6 +52,7 @@ feed_content: |-
   </table>
 feed_content_checksum: beb4cf5e4f8ffddfb505f99749bff6ad0c7ffdac
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

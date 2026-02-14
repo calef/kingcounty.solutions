@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-14T14:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>The sharing of non-VA information does not constitute an endorsement of products or services by the Department of Veterans Affairs. Veterans should always verify information with the organization offering the program.</p>
 
@@ -70,6 +72,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 7235e6d61a533a3a4a0c3d8e0567df6e0b2e6e97
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

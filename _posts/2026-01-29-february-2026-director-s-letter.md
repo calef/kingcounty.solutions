@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T19:30:18+00:00'
 event_ids:
 - _events/2026-03-28-spring-dinner-and-dessert-auction.md
@@ -17,6 +18,7 @@ feed_content: |-
   <p>The post <a>February 2026 Director’s Letter</a> appeared first on <a>Sno-Valley Senior Center</a>.</p>
 feed_content_checksum: 65bd9617f7bf8fda3be373335579a5811c0f2a1f
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Sno-Valley Senior Center

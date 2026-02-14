@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-05T03:17:22+00:00'
 event_ids: []
 events_extracted: true
@@ -30,6 +31,7 @@ feed_content: "<p class=\"\">When Kelly arrived at&nbsp;Mary’s Place&nbsp;with
   data-sqsp-button target=\"_blank\"\n  >\n    Make a gift to support families like
   kelly's\n  </a>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-10T13:06:00+00:00'
 event_ids: []
 events_extracted: true
@@ -14,6 +15,7 @@ feed_content: |-
   <p>Happy Valentine’s Day from The Center’s staff …</p></a>
 feed_content_checksum: 9dfc5b8e816daf0ae0a9149e26997a34696788fa
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Center for Active Living

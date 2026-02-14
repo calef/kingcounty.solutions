@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-04T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -117,6 +118,7 @@ feed_content: |-
 
   <p>To learn more about VA’s care for Veterans who are experiencing homelessness or housing instability, visit the <a href="https://www.va.gov/homeless/housing.asp" rel="noopener">VA Homeless Veteran Program</a> website.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-14T12:30:00+00:00'
 feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>Urdu
   Class</h1> <div> <span>Recurring Event</span> <a> see all </a> </div> <div> <div>
@@ -24,6 +25,7 @@ feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1
   <li><a>MCRC Seattle Office Hours <span>»</span></a></li> </ul> </div> </div> </div>
   </div> </div> </div>"
 feed_content_checksum: '0900cd0a15c4b768d40e825db1aed08d0bbedc20'
+image_checksums: []
 location: ''
 location_titles:
 - King County

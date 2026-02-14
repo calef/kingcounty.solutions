@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-26T23:23:26+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: LIHI’s Lakefront Community House in Bitterlake operates as a yea
   . “Seattle...
 feed_content_checksum: c6ca62c9c936c0b67eb1d89d93ffd104eeefa533
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

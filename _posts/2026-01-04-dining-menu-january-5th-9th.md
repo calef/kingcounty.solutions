@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-04T17:49:08+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>Monday ~</strong> Turkey Noodle Soup, Garden Salad &amp; Fruit </p>
 
@@ -33,6 +35,7 @@ feed_content: |-
   <p>The post <a>Dining Menu January 5th – 9th</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: e7a137405099e913e4c6757407e238c0c6bb9a3a
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 original_source_html: |-

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T23:18:19+00:00'
 event_ids: []
 events_extracted: true
@@ -72,6 +73,7 @@ feed_content: |-
   <p>The post <a>Keeping guns out of the hands of abusers</a> appeared first on <a>Eastside Legal Assistance Program</a>.</p>
 feed_content_checksum: fc8edcc9ae60d33b7f1324ed28211810369e401f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

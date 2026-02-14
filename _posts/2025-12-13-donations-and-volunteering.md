@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-13T03:48:28+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Many people are asking how they can help by donating their time or
   community to see […]
 feed_content_checksum: e7a094549f6033da025e99e4d20da975ceff7897
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

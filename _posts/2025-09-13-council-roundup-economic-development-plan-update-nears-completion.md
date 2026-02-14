@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-13T01:01:07+00:00'
+event_ids: []
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Economic Development Plan update nears completion</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -82,6 +84,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   datetime=\"2025-09-12T12:00:00Z\" class=\"datetime\">September 12 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Bellevue
 published: false

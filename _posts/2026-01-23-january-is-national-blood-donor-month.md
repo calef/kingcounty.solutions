@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-23T20:38:40+00:00'
 event_ids:
 - _events/2026-03-24-snoqualmie-valley-health-blood-drive.md
@@ -53,6 +54,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   Valley Hospital</a>.</p>"
 feed_content_checksum: 44ae67a8f08efb7709624fae7fb532c7b8e2b385
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

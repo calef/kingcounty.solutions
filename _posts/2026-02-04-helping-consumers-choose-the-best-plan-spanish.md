@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-04T14:18:56-05:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Tue, 20 Jan 2026 2
   Choosing a Marketplace Plan</p>"
 feed_content_checksum: f7c80c06ae8c893c311c0b6c5be3eb9b9aaf2232
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Centers for Medicare & Medicaid Services

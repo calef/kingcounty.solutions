@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-13T12:35:07-08:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: <div><p paraid="691069960" paraeid="{67e40b44-e395-4e07-ad07-d5fba
   you ride Link light rail, you’re already making a sustainable choice. Public transit
   offers a cleaner way to travel while reducing air pollution and GHG emissions. &nbsp;</p></div>
 image_checksums: []
+images_extracted: true
 location_titles:
 - South King County
 organization_title: Sound Transit

@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-06T17:55:05+00:00'
+event_ids: []
 feed_content: Project description As part of the transit integration project to provide
   new and upgraded bus stops near Sound Transit East Link stations, King County Metro
   Transit (Metro) will install four...
 feed_content_checksum: fa9d0000090a289b6d329827107941a8e4fed5a1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-08T19:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>Honoring heroes through volunteerism</h2>
 
@@ -66,6 +68,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: ec563fe3e0d2ea0df944517c380b971197576830
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

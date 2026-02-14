@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T19:12:29+00:00'
 event_ids:
 - _events/2026-06-23-2026-national-school-based-health-care-conference.md
@@ -10,6 +11,7 @@ feed_content: 'Mark your calendars for the 2026 National School-Based Health Car
   health centers to child health and wellness.'
 feed_content_checksum: a2ba5394822a7676576a92763c06fbb5dc6f4b8e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

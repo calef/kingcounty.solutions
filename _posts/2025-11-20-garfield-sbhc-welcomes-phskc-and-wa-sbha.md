@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-20T20:57:03+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: On November 20, the Garfield School-Based Health Center (SBHC) tea
   the SBHC team and the school nurse to support vaccine access; the beautifully refurbished
   clinic&#8230;
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

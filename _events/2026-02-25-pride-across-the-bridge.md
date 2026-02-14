@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T18:00:00-08:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span> Event
   Series: </span> <a> <span> Pride Across the Bridge </span> </a> </div> <h1>Pride
@@ -30,6 +31,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   </div> </li> </ul> </div> </div> </section> </div>"
 feed_content_checksum: 19c6127fafd3ac8055c016ea1c0b1410732422f1
 image_checksums: []
+images_extracted: true
 location: Together Center, 16305 NE 87th St, Redmond, WA, 98052, United States
 location_titles:
 - King County

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-19T18:19:46+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>Earlier this year, a new presence at Sacramento’s Empress Tavern turned on the lights in the historic venue with a vision for a neighborhood-centric event space. Alchemist Community Development Corporation, [&#8230;]</p>
   <p>The post <a href="https://www.juma.org/2025/11/19/the-empress-tavern-a-new-opportunity-for-juma-sacramento-youth/">The Empress Tavern: A New Opportunity for Juma Sacramento Youth</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Juma Ventures
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-24T22:45:52+00:00'
 event_ids: []
 events_extracted: true
@@ -26,6 +27,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   field--label-hidden field__item\"><time datetime=\"2025-09-24T12:00:00Z\" class=\"datetime\">September
   24 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - Bellevue
 organization_title: City of Bellevue

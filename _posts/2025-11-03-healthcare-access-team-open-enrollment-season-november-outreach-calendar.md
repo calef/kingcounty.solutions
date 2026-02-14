@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-03T22:44:02+00:00'
 event_ids: []
 events_extracted: true
@@ -19,6 +20,7 @@ feed_content: |-
 
   The post [Healthcare Access Team Open enrollment season – November outreach calendar](https://cisc-seattle.org/healthcare-access-team-open-enrollment-season-november-outreach-calendar/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Chinese Information & Service Center

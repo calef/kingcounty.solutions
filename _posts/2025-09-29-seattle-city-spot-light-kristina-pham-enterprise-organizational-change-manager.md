@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-29T16:00:00+00:00'
+event_ids: []
 feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/pham_spotlight_4x3-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
@@ -11,6 +13,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   organizational change initiatives. As the Organizational Change Manager, I lead
   a team of four in developing and implementing strategies and [&#8230;]'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City Light Bill Assistance Programs
 published: false

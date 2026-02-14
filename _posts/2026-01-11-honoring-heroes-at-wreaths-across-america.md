@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-11T21:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>A day of remembrance, unity and lasting traditions</h2>
 
@@ -40,6 +42,7 @@ feed_content: |-
   <p>The Wreaths Across America event was more than just a ceremonial act, it was a profound reminder that the spirit of service and sacrifice is deeply rooted in the fabric of our communities. It reaffirmed the promise that our Veterans, both fallen and living, will always be remembered, honored and celebrated for their contributions to our nation’s enduring freedom.</p>
 feed_content_checksum: 989ee5261183a048e9396cd978889e661d3fbf53
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-03T22:46:31+00:00'
+event_ids: []
 feed_content: |-
   <p><span>We share with prayers and sadness </span><span>the passing of a beloved Tribal Member</span></p>
   <h1><span>Anita Ruth Menchaca</span></h1>
@@ -18,6 +20,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 5509595e9f3a3c4aa2a76d33102e174f73ff1b2c
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Snoqualmie Indian Tribe

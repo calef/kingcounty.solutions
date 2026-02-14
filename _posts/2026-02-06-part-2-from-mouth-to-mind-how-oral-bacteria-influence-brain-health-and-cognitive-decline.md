@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-06T21:29:32+00:00'
 event_ids: []
 events_extracted: true
@@ -103,6 +104,7 @@ feed_content: |-
   <p>The post <a>Part 2: From Mouth to Mind: How Oral Bacteria Influence Brain Health and Cognitive Decline</a> appeared first on <a>Arcora Foundation</a>.</p>
 feed_content_checksum: 477644f506da6b9e28ae1b6e6c59af1078ad94fc
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Arcora Foundation

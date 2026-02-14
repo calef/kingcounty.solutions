@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-25T00:00:00-07:00'
 feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </p>
   <div> <div> <div> <h2>2026 Spring National Conference</h2> <div> <h3> <span>April
@@ -14,6 +15,7 @@ feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </
   </span> </li> </ul> </div> </div> </aside> </div>"
 feed_content_checksum: 02cb0a1e8da2ae9bf6d652ae7439310ac8a00dbb
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

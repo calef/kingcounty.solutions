@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-17T23:58:27+00:00'
 event_ids: []
 events_extracted: true
@@ -23,6 +24,7 @@ feed_content: |-
   <p data-start="1884" data-end="2170">Justine’s journey is proof that the actions of one person, rooted in love and legacy, ripple outward to strengthen an entire community. She is a reminder that when we step forward—whether in memory of a loved one, or to tackle an issue like food insecurity—we are never walking alone.</p>
   <p>The post <a href="https://acrs.org/supporter-spotlight-justine-ing-walk-for-rice-champion/">One Person Can Make A Difference:  Justine Ing&#8217;s Walk for Rice Journey</a> appeared first on <a href="https://acrs.org">ACRS</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Asian Counseling and Referral Service

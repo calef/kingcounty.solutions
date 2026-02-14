@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-30T14:49:43+00:00'
+event_ids: []
 feed_content: At the heart of every thriving neighborhood are the people who show
   up for one another. That’s exactly the spirit behind our new  volunteer program
   . A way to strengthen connections and support residents across Bellwether communities.
@@ -9,6 +11,7 @@ feed_content: At the heart of every thriving neighborhood are the people who sho
   community...
 feed_content_checksum: 18e4445e5ad0ab655ac8c54e3885000dcd069997
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Bellwether Housing

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-03T15:00:00-07:00'
 feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path/to/json2.js"></script>
   <![endif]--> <!--[if lte IE 9]> <base href="/donation/" /> <![endif]--> <base> <meta>
@@ -98,6 +99,7 @@ feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path
   <!-- End Google Tag Manager (noscript) --> <script></script><script></script>  '
 feed_content_checksum: 2fd4c29fc27fd89ffcda9b7e5b4b12f2982d9305
 image_checksums: []
+images_extracted: true
 location: March Field Air Museum, 22550 Van Buren Blvd., Riverside, CA, 92518
 location_titles: []
 organization_title: Olive Crest
@@ -108,3 +110,4 @@ summarized: true
 title: Pick a Purse
 topic_titles: []
 ---
+

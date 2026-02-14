@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-05T23:00:00-07:00'
 feed_content: "<div> <div> <p>Jump to:</p> <ul> <li><a>Welcome</a></li> <li><a>TJO
   Public Events</a></li> <li><a>Evening Event Schedule</a></li> <li><a>Open-House
@@ -111,6 +112,7 @@ feed_content: "<div> <div> <p>Jump to:</p> <ul> <li><a>Welcome</a></li> <li><a>T
   our unpaid volunteers in their work. Thank you for your support!</p> </div> </div>"
 feed_content_checksum: c6b5a07c601cb0e140e0fb9e74379f3f21d1f903
 image_checksums: []
+images_extracted: true
 location: Theodor Jacobsen Observatory (OBS)
 location_titles:
 - King County

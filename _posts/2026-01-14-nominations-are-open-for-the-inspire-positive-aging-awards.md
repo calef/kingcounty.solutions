@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-14T16:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -78,6 +79,7 @@ feed_content: |-
   <p>The post <a>Nominations are Open for the Inspire Positive Aging Awards</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: 43181061b4718dc435b03ef56899bbad5e639c3c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

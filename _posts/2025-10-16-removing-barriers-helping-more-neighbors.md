@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-16T17:08:15+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: MSC’s mission is to increase equitable access to advocacy, oppor
   so people can access the help they need. When we are able to remove barriers, the
   number of people we can serve increases dramatically. Last fiscal year  [...]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Multi-Service Center

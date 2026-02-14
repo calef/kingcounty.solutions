@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Deadline for applicants to submit their essays, academic background,
   endorsements, and transcripts for the I/DD Student Stipend Program.
 feed_content_checksum: 9387bdfb563075ea6a0e2b699705a7dd318423a1
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

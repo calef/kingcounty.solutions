@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-25T19:53:45+00:00'
+event_ids: []
 feed_content: "**How to use your compost pail:**\n\n- Keep your compost kitchen pail
   in a convenient location such as your counter, under the sink, or in the freezer.
   Use it to collect food scraps and any food-soiled paper.\n- Empty your pail into
@@ -16,6 +18,7 @@ feed_content: "**How to use your compost pail:**\n\n- Keep your compost kitchen 
   post [Free Countertop Compost Bins at Carnation City Hall](https://www.carnationwa.gov/free-countertop-compost-bins-at-carnation-city-hall/)
   appeared first on [Carnation, WA](https://www.carnationwa.gov)."
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Carnation
 published: false

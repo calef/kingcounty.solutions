@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-12T11:00:00-07:00'
 feed_content: '<a> Skip to main content </a> <div> <div> <div> <div> <div> <div> <a>University
   of Washington</a> </div> <div> <div> <a>School of Public Health</a> <div> <h2>Search</h2>
@@ -58,6 +59,7 @@ feed_content: '<a> Skip to main content </a> <div> <div> <div> <div> <div> <div>
   left","tooltip_selector":"","tooltip_trigger":"hover"},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"slide__caption","id":"","element":"div","show_label":false,"label_element":"h3","attributes":"","effect":"none","speed":"fast","description":""}}},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":null,"container":"","loader":true,"unblazy":false,"visibleClass":false},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"pauseOnHover":true,"pauseOnDotsHover":false,"pauseOnFocus":true,"autoplaySpeed":3000,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"user":{"uid":0,"permissionsHash":"b12ac19ee53e2754a119a852f1c6d846a02027cafb6cc9351a72cbf089def287"}}</script>'
 feed_content_checksum: 544eb29400bf89cb8cc3dd63370509132528558f
 image_checksums: []
+images_extracted: true
 location: Zoom
 location_titles:
 - King County

@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-16T23:21:46+00:00'
+event_ids: []
 feed_content: |-
   <p>Christmas Eve Pop-Up Pageant for all ages at 4 pm Come celebrate Christmas at St. Luke’s Episcopal Church! We offer two services on Christmas Eve. The early evening is family … <a>Read More</a></p>
   <p>The post <a>Celebrate Christmas at St Luke’s 4 pm</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: 8f84f81d045eb079ded6d825a4fc0fba5c5cc5ed
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

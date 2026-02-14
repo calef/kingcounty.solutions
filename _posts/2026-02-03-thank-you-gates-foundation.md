@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-03T22:23:03+00:00'
 event_ids: []
 events_extracted: true
@@ -47,6 +48,7 @@ feed_content: |-
   <p>The post <a>Thank You Gates Foundation</a> appeared first on <a>Refugee Women's Alliance</a>.</p>
 feed_content_checksum: 6f9d802616492921d613cd375c2763622fb9bf41
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Refugee Women's Alliance

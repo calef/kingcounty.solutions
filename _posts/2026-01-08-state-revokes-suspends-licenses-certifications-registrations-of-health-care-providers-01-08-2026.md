@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T22:55:34+00:00'
 event_ids: []
 events_extracted: true
@@ -66,6 +67,7 @@ feed_content: "<span>State revokes, suspends licenses, certifications, registrat
   \         </div>"
 feed_content_checksum: 90f0de861fa839bfe3e8fe5f12c812a3114556ee
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

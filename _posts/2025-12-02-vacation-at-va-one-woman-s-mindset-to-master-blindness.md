@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-02T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -77,6 +78,7 @@ feed_content: |-
   <p>“I was there for 5 weeks, and it felt like a vacation,” said Jordan. “I didn’t want to leave.”</p>
 image_checksums:
 - 706525b1263105b058792f574ef8764b4a4fd31faf8979b6c19cb08b32305c83
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

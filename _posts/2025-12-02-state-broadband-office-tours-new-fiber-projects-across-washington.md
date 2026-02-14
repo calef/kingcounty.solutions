@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-02T17:00:00+00:00'
+event_ids: []
 feed_content: |-
   <h3 class="wp-block-heading">Communities from the coast to the Idaho border will benefit from the investments</h3>
 
@@ -456,6 +458,7 @@ feed_content: |-
       </div>
   </div>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

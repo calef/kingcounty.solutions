@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-10T04:37:42+00:00'
+event_ids: []
 feed_content: River levels in the SE Green Valley Road area between SE Auburn Black
   Diamond Road and 218th Ave SE will remain high this evening (Tuesday, Dec. 9) and
   increase through Friday. Driving by vehicle should still be possible through Wednesday
@@ -7,6 +9,7 @@ feed_content: River levels in the SE Green Valley Road area between SE Auburn Bl
   go […]
 feed_content_checksum: 6c58f0ef5bddc5c8b1c29b8f93e5b0fbfe89634a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

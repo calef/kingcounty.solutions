@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-22T17:28:18+00:00'
+event_ids: []
 feed_content: '<p class="">Recipe shared in partnership with <a href="https://thepantryseattle.com/"
   target="_blank">the Pantry</a>.&nbsp;</p><p class="">Recipe adapted from Marie Rutherford</p><p
   class="">Yield: 4 servings </p><p data-rte-preserve-empty="true" class=""></p><h3>Ingredients
@@ -25,6 +27,7 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   for 25 minutes.</p><p class="">- Add the cooked potatoes and basil leaves. Season
   to taste with salt. Continue to cook until the potatoes have warmed through. </p>'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Rainier Valley Food Bank
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-29T16:00:00-07:00'
 feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "name":
   "2026 Nature and Health Symposium", "description": "", "image": "", "startDate":
@@ -9,6 +10,7 @@ feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "n
   House"} } </script>'
 feed_content_checksum: 0fa32eaf6c08819cb8d9ccf130ac9d8dfa87d442
 image_checksums: []
+images_extracted: true
 location: Intellectual House (INT)
 location_titles: []
 organization_title: University of Washington
@@ -19,3 +21,4 @@ summarized: true
 title: Northwest Nature and Health Symposium
 topic_titles: []
 ---
+

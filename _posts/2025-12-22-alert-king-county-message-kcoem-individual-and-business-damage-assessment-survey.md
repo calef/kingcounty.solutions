@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-22T20:55:27+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: 'Hello, This is King County Emergency Management. We are evaluatin
   to: KCOEM Business Impact Survey. For other recovery […]'
 feed_content_checksum: 3458da38d969a59d658f8a7e69ed9d52c602da7b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

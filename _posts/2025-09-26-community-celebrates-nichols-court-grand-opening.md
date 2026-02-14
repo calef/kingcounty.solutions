@@ -1,10 +1,12 @@
 ---
+classified: true
 date: '2025-09-26T20:04:35+00:00'
 event_ids: []
 events_extracted: true
 feed_content: Clifford and Melinda Nichols On September 24th, friends, family, and
   colleagues of Melinda and Clifford Nichols, along with affordable...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

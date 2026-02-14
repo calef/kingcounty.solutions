@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-10T19:30:02+00:00'
 event_ids: []
 events_extracted: true
@@ -43,6 +44,7 @@ feed_content: "<span>Department of Health issues statement of charges on license
   Department of Health</div>\n          </div>"
 feed_content_checksum: 01f58586b175a8cbfa3a69d2a396326e8d21578d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

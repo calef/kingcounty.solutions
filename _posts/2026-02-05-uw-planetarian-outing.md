@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-05T18:59:43+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/UW-Planetarium-791x1024.png"></figure>
 
@@ -12,6 +14,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: afd5a8871d5d2c1f4fd538fa2652b074249879b6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

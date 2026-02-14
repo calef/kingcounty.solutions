@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-12T22:21:27+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: LIHI's Virtual Auction  is our big annual public fundraiser for Ti
   to the auction. Please visit Donate an Auction Item . There is also still time to
   sponsor. Please...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

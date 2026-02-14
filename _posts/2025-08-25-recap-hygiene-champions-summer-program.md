@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-25T21:52:00+00:00'
 event_ids: []
 events_extracted: true
@@ -74,6 +75,7 @@ feed_content: "<p class=\"\">This summer, our Hygiene Champions, a group of amaz
 image_checksums:
 - b146a1d0434b674d1ce7548d3b447ea1988ef5115de890da31899f186008bc0b
 - 3b7d6693c7847bf7455a782888fb9bb2e49e15b061241e60d198baa3e972526b
+images_extracted: true
 location_titles:
 - King County
 organization_title: Essentials First

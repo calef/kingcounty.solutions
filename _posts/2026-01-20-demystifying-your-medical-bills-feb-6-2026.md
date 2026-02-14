@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-20T22:17:14+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: |-
   <p>Are you confused by your medical bills? This session will help you understand billing paperwork, learn how to identify errors and get them corrected when they occur, and avoid paying unnecessary bills. Jim is a long-time Seattle resident who recently retired from a career <strong>developing and supporting healthcare software systems. FREE, RSVPs appreciated. </strong></p>
 feed_content_checksum: 5520aeeb2e320db6d6c55f0aa5261923b04bb9e4
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

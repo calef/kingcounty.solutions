@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-16T22:07:31+00:00'
+event_ids: []
 feed_content: "<span>‘Melodies of the Diaspora’ art exhibition celebrates Black History
   Month</span>\n<span><span>CIosso</span></span>\n<span><time>Fri, 01/16/2026 - 14:07</time>\n</span>\n
   \ <div>\n    <div>\n      \n\n            <div>    <div>\n    <div>\n      \n\n
@@ -30,6 +32,7 @@ feed_content: "<span>‘Melodies of the Diaspora’ art exhibition celebrates Bl
   16 2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: d2502a51b6d8f2b065298013cb6bebd82449dbfa
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

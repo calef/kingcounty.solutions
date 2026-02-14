@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-22T21:00:00-07:00'
 feed_content: "<div> <div> <div> <p><span>Experience the magic of Cirque du Soleil
   ECHO, where poetry, stagecraft, daring acrobatics, and cutting-edge technology come
@@ -14,6 +15,7 @@ feed_content: "<div> <div> <div> <p><span>Experience the magic of Cirque du Sole
   </div> </div>"
 feed_content_checksum: 152561f30dfabc7b24f8d1acb10eeef87411ed68
 image_checksums: []
+images_extracted: true
 location: Marymoor Park, 6046 West Lake Sammamish Pkwy, Redmond, WA, 98052, United
   States
 location_titles:

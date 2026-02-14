@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-12T21:25:24+00:00'
 event_ids: []
 events_extracted: true
@@ -92,6 +93,7 @@ feed_content: |-
   <p></p><p>The post <a>Celebrating Black History Month</a> first appeared on <a>Bellevue LifeSpring</a>.</p><p>The post <a>Celebrating Black History Month</a> appeared first on <a>Bellevue LifeSpring</a>.</p>
 feed_content_checksum: ee927185a69db270b2e5e46de93a12e6c3625dc4
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Bellevue LifeSpring

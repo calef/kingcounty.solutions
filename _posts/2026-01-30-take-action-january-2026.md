@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-30T19:58:47+00:00'
+event_ids: []
 feed_content: |-
   <h2>Stay Informed and Get Registered to Vote</h2>
 
@@ -43,6 +45,7 @@ feed_content: |-
   <p>The post <a>Take Action: January 2026</a> appeared first on <a>El Centro de la Raza</a>.</p>
 feed_content_checksum: 6c946656b2987a510b2e2cf509c1cf424141fe73
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: El Centro de la Raza

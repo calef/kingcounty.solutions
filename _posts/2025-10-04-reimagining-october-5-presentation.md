@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-04T18:11:18+00:00'
+event_ids: []
 feed_content: "<section class=\"elementor-section elementor-top-section elementor-element
   elementor-element-f4d5627 ang-section-padding-no elementor-section-boxed elementor-section-height-default
   elementor-section-height-default elementor-repeater-item-none elementor-repeater-item-none_hover\"
@@ -111,6 +113,7 @@ feed_content: "<section class=\"elementor-section elementor-top-section elemento
   post [Reimagining October 5 Presentation](https://redmondumc.org/reimagining-october-5-presentation/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Redmond United Methodist Church - Social Ministries
 published: false

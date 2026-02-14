@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-13T19:30:00-07:00'
 feed_content: "<article> <header> <h1>The Office of Public Lectures presents: My Greatest
   Save with Briana Scurry</h1> </header> <div> <div> <p><span>May 13, 2026</span>
@@ -42,6 +43,7 @@ feed_content: "<article> <header> <h1>The Office of Public Lectures presents: My
   Departments:</strong> The Graduate School</p> </div> </article>"
 feed_content_checksum: fd06c9e6722dcdf1b6918cdf155175c83fa5ff7a
 image_checksums: []
+images_extracted: true
 location: Town Hall Seattle
 location_titles:
 - King County

@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-10T01:51:27+00:00'
+event_ids: []
 feed_content: Due to severe weather conditions and flooding, on Tuesday, Dec. 9th,
   SE Green Valley Road is closed completely from Auburn-Black Diamond Road to 212th
   Avenue Southeast. It is unknown when it will re-open. Your safety is our top priority.
   Do not attempt to drive or walk on this road. You will be notified when it […]
 feed_content_checksum: 46d0fe6a32b1ae2671d1c91bf4f52cc4ceda40ba
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

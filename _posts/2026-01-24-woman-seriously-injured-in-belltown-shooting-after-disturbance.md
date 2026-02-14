@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-24T21:06:02+00:00'
+event_ids: []
 feed_content: Detectives are investigating a shooting late Friday night in the Belltown
   neighborhood that left a 19-year-old woman seriously injured. At about 11:37 p.m.,
   dispatchers received reports of shooting near 3rd Avenue and Wall Street following
   a disturbanc...
 feed_content_checksum: 6f6c5b6cf658e7838e97348d4cad6cd9f2db69c3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-27T14:00:00-08:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <h1>Community
   Pet Vaccine Clinic</h1> <div> <div> <span>February 27 @ 10:00 am</span> - <span>2:00
@@ -22,6 +23,7 @@ feed_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <h1>C
   pm</span> </div> </li> </ul> </div> </div> </section></div></article>"
 feed_content_checksum: 5c5ea0d76697fa2844d2e1dc9dc89c981eab2c0f
 image_checksums: []
+images_extracted: true
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 location_titles:
 - King County

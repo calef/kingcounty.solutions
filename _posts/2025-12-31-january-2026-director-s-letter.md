@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-31T15:49:58+00:00'
 event_ids:
 - _events/2026-01-28-annual-member-meeting.md
@@ -28,6 +29,7 @@ feed_content: |-
   <p>The post <a>January 2026 Director’s Letter</a> appeared first on <a>Sno-Valley Senior Center</a>.</p>
 feed_content_checksum: f0e347833a8075976b1ee1d652c58d0ce49e1c71
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Sno-Valley Senior Center

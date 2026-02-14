@@ -1,8 +1,11 @@
 ---
+classified: true
 date: '2026-01-14T00:00:00-08:00'
+event_ids: []
 feed_content: "<summary></summary>"
 feed_content_checksum: d0f1dd469c5e48feec2db9ef84a98e143212f574
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Rootstock Northwest
 original_source_html: "<!doctype html>\n<!--\n  Minimal Mistakes Jekyll Theme 4.27.3

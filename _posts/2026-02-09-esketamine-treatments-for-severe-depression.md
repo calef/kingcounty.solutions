@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-09T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -42,6 +43,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA Columbia Missouri Health care System site </a>and has been edited for style and clarity.  </p>
 feed_content_checksum: 890b5f2a3c6268dee5f1420c5e326fcb81ac1f78
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program
