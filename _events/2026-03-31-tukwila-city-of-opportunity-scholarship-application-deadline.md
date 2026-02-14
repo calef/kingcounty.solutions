@@ -5,6 +5,7 @@ feed_content: Deadline for submitting applications for the Tukwila City of Oppor
 feed_content_checksum: 59bd333371c05bbfc80177ce95bc847872054998
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - Tukwila

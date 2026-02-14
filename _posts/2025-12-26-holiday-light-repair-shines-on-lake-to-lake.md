@@ -30,4 +30,3 @@ summarized: true
 title: Holiday light repair shines on Lake to Lake
 topic_titles: []
 ---
-

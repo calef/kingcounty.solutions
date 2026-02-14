@@ -6,6 +6,7 @@ feed_content: Funding for youth and young adult-led projects aimed at promoting 
 feed_content_checksum: 1fb56497ea9f1c750f9dc2a2ff5c2c7a235d6fb8
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

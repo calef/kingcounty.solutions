@@ -6,6 +6,7 @@ feed_content: The Town Planning Commission of Yarrow Point will hold a regular m
 feed_content_checksum: 88368bf416399bc1c659baa3379f2de37b973a3e
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Town Hall
 location_titles:
 - Yarrow Point

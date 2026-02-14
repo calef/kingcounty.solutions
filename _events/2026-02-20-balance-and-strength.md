@@ -45,6 +45,7 @@ feed_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div> 
   </script>
 feed_content_checksum: 26a8d4fb2c819d3e36a0508f603e470f156d0e6f
 image_checksums: []
+images_extracted: true
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
 location_titles:

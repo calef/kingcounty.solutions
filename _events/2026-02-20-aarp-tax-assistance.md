@@ -103,6 +103,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   <li><a>{title}</a></li> <li><a>{title}</a></li> </ul> </div> </div> </div>"
 feed_content_checksum: 35928059c9a62a9ac68c06b114be8f9fe1d71497
 image_checksums: []
+images_extracted: true
 location: Greenwood Senior Center, 525 N. 85th St., Seattle, WA, 98103, United States
 location_titles:
 - King County

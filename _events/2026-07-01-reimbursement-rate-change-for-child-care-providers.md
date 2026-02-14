@@ -5,6 +5,7 @@ feed_content: Reimbursement rates for child care providers will drop from 85% to
 feed_content_checksum: 87cda482ef4b0575190a29ee25877e14f85bbf6f
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

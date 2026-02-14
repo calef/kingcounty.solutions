@@ -244,4 +244,3 @@ title: Washington State Department of Health Statement on Federal Changes to Chi
 topic_titles:
 - Health Care
 ---
-

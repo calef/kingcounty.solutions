@@ -5,6 +5,7 @@ feed_content: Deadline for bills to pass their original policy and fiscal commit
 feed_content_checksum: 9ad430da07d3274840956083c56fa6ead2602f4f
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

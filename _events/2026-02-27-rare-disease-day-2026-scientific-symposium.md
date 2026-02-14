@@ -7,6 +7,7 @@ feed_content: A scientific symposium hosted by Seattle Children’s Research Ins
 feed_content_checksum: 4939b72de93f57954b944f95da6124856211de89
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Building Cure, McKinstry Auditorium
 location_titles:
 - King County

@@ -34,6 +34,7 @@ feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </
   </ul> </div> </div> </aside> </div>"
 feed_content_checksum: 8f44fb012e7945d51567fd4f413854cf8f5235ed
 image_checksums: []
+images_extracted: true
 location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
 location_titles:
 - King County

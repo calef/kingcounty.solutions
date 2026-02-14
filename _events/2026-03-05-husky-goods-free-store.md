@@ -55,6 +55,7 @@ feed_content: "<div> <div> <div> <div> <section> <form> <label>All the UW</label
   </aside> </div> </div> </div> </div>"
 feed_content_checksum: ff1846bb0d389a27b0ccf05dcd41eee682d15a76
 image_checksums: []
+images_extracted: true
 location: Thaddeus and Lois Spratlen Hall (MDR)
 location_titles:
 - King County

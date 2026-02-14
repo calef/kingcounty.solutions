@@ -104,6 +104,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   <li><a>{title}</a></li> <li><a>{title}</a></li> </ul> </div> </div> </div>"
 feed_content_checksum: 4d0e9b0cf636901e86465a13d5a941a26181cc83
 image_checksums: []
+images_extracted: true
 location: Online / Virtual
 location_titles:
 - King County

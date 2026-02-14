@@ -110,4 +110,3 @@ summarized: true
 title: '"Hope Shines" at Sunstone Winery | Santa Barbara'
 topic_titles: []
 ---
-

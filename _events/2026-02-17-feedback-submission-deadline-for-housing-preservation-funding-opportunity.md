@@ -5,6 +5,7 @@ feed_content: Deadline for developers to submit feedback regarding upcoming draf
 feed_content_checksum: a3f95057935d83701ec13c17aba38e1b639d3268
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

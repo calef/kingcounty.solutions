@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-08T21:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>For many Veterans, the transition to civilian life can be filled with challenges, especially when traditional therapies fall short. Tara Pipia, a Veteran of the Army National Guard, found herself in such a predicament.</p>
 

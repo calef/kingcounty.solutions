@@ -16,6 +16,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
   </span> </address> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 1f49ad48f4c2a87406482f03452fd91cb2924ddb
 image_checksums: []
+images_extracted: true
 location: North Bellevue Community Center, 4063 148th Ave NE, Bellevue, WA, United
   States
 location_titles:

@@ -33,6 +33,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   - <span>5:00 pm</span> </div> </li> </ul> </div> </div> </section> </div>"
 feed_content_checksum: 4e7d71ac7cf03b6dc35ff9be753c8d5d5e256de0
 image_checksums: []
+images_extracted: true
 location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond, WA,
   98052, United States
 location_titles:

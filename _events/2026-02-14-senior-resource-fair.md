@@ -17,6 +17,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
   </div>"
 feed_content_checksum: d09faf1d127e5ad53004082de467f26c73ba57d4
 image_checksums: []
+images_extracted: true
 location: PACCAR Education Center at Overlake
 location_titles:
 - King County

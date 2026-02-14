@@ -50,6 +50,7 @@ feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>
   </ul> </div> </div> </section></div></article>"
 feed_content_checksum: '035049c93899321e3512f56d7d6730ae5562493c'
 image_checksums: []
+images_extracted: true
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 location_titles:
 - King County

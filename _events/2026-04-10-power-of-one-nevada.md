@@ -110,4 +110,3 @@ summarized: true
 title: Power of One | Nevada
 topic_titles: []
 ---
-

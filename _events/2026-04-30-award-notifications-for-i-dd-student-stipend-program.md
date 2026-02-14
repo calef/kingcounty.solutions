@@ -5,6 +5,7 @@ feed_content: Date by which applicants will be notified of their award status fo
 feed_content_checksum: 3d49fb917d22656027ee0a4f211f2c3e21688d0f
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-09T19:01:46+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Providing low-barrier housing and voluntary treatment is cost-effective,
   leads to increased rates of recovery, and is effective in ending homelessness  A
   client working on original artwork at DESC’s 1811 Eastlake location.  Homelessness

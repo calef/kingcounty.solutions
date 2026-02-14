@@ -57,6 +57,7 @@ feed_content: "<header> <div> <div> <h1> <span>Science in Medicine Lecture Serie
   </li> </ul> </div> </div> </div> </div> </section> </div> </div> </div>"
 feed_content_checksum: 76eaa0f6976452b6b796476d8a8bed7d02db5d27
 image_checksums: []
+images_extracted: true
 location: William H. Foege Genome Sciences (GNOM)
 location_titles:
 - King County

@@ -1,7 +1,12 @@
 ---
 classified: true
 date: '2026-02-13T19:43:57+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-23-webinar-on-childhood-vaccine-schedule.md
+- _events/2026-02-25-town-hall-on-vaccinations.md
+- _events/2026-02-26-webinar-on-house-resolution-1-and-apple-health.md
+- _events/2026-03-24-hidden-bets-youth-online-gambling-and-mental-health.md
+events_extracted: true
 feed_content: The Washington State Department of Health is hosting several upcoming
   webinars covering childhood vaccine changes, vaccination importance across all life
   stages, and the impact of House Resolution 1 on Medicaid coverage. A discussion

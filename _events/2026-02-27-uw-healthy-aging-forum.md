@@ -52,6 +52,7 @@ feed_content: "<div> <div> <form> <div><div> <div><div> <div> <div><div>UW Healt
   </li> </ul></div> </div> </div></div> </div>"
 feed_content_checksum: 1ac9e9f1d9ae026f3cb31ca5ee30ccc33592f9f4
 image_checksums: []
+images_extracted: true
 location: Health Sciences Education Building (HSEB)
 location_titles:
 - King County

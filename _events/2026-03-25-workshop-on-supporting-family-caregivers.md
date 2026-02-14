@@ -6,6 +6,7 @@ feed_content: A workshop focusing on assessment and care for family caregivers, 
 feed_content_checksum: 55c247d145bfaae148cb9e942b1374e297d0bf23
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Online (via Zoom)
 location_titles:
 - King County

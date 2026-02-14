@@ -4,6 +4,7 @@ feed_content: A virtual townhall focused on heart health for women Veterans.
 feed_content_checksum: ed9c3909b783cbe29c2269bedbc2e293df597cc0
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

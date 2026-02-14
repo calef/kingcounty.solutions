@@ -34,6 +34,7 @@ feed_content: '<div> <div> <section><div><div><div><div> <div> <div> <div><ss3-f
   </script>'
 feed_content_checksum: fbe446d206e1bbbaea70edb8c0d1e458083614ca
 image_checksums: []
+images_extracted: true
 location: Intellectual House (INT)
 location_titles:
 - King County

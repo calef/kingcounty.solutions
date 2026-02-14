@@ -5,6 +5,7 @@ feed_content: Opening of a new RV Safe Lot and Tiny House Village providing emer
 feed_content_checksum: 7b89c9528c8f582a17b3108b7fb72050859ec911
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Washington State Department of Transportation’s Glassyard location, South
   Park, District 1, Seattle
 location_titles:

@@ -6,6 +6,7 @@ feed_content: New applications for the Working Connections Child Care subsidy wi
 feed_content_checksum: 7be7c88ba65b4d42d6a24a9edc26e001e5c3e917
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

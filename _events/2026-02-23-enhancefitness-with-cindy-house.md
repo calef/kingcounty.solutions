@@ -23,6 +23,7 @@ feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> 
   </div> </div>"
 feed_content_checksum: c37839f75d52c6cf64df2bb225300d9a483f3a05
 image_checksums: []
+images_extracted: true
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 location_titles:

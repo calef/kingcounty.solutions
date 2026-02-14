@@ -5,6 +5,7 @@ feed_content: The start of Hopelink's new strategic plan focusing on organizatio
 feed_content_checksum: 124997df9a121a306a07d441e00ad50ce988d186
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

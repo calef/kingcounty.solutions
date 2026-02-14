@@ -31,6 +31,7 @@ feed_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</sp
   </script>
 feed_content_checksum: 0a7cccce065a802cfc660494fd8e6d2caeabf6d1
 image_checksums: []
+images_extracted: true
 location: City Hall – Normandy Park, 801 SW 174th Street, Normandy Park, WA, 98166,
   United States
 location_titles:

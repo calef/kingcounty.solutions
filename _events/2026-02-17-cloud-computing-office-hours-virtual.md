@@ -33,6 +33,7 @@ feed_content: '   <meta> <meta> <meta> <meta> <meta> <meta> <meta> <meta> <meta>
   </script> <script></script>  '
 feed_content_checksum: 92a2367ac7fd1f129a03b0f8639d6a4d5563be43
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

@@ -6,6 +6,7 @@ feed_content: A blood drive hosted by Snoqualmie Valley Health in partnership wi
 feed_content_checksum: c1f6b9e5bf350d1f758fcc2fed6904f8f21b769f
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Snoqualmie Valley Health
 location_titles:
 - King County

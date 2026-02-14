@@ -16,6 +16,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
   </div> </div> </div> </section> </div>"
 feed_content_checksum: 17d92f14dbc1d3753103592c6d679925b657dfa9
 image_checksums: []
+images_extracted: true
 location: Maple Valley, Maplevalley, WA, United States
 location_titles:
 - King County

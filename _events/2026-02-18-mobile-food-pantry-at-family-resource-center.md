@@ -49,6 +49,7 @@ feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wall
   </script>'
 feed_content_checksum: da9933f749ff34470516617b5dc88c3db4422f66
 image_checksums: []
+images_extracted: true
 location: Family Resource Center, 1005 NE 67th St, Seattle, WA, 98115, United States
 location_titles:
 - King County

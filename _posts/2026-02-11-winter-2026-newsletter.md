@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-11T23:23:10+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div><span>Read about C.'s Inspiring Story and More</span></div> <div>
   <table> <tbody> <tr> <td> <table> <tbody> <tr> <td> <table> <tbody> <tr> <td> <table>
   <tbody> <tr> <td> <div> </div> <table> <tbody> <tr> <td><p><span>Rebuilding lives,

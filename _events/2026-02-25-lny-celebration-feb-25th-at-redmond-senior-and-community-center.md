@@ -24,6 +24,7 @@ feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </
   </div> </aside> </div>"
 feed_content_checksum: b3b08d7b153e767140c7b845c01f7daa47702170
 image_checksums: []
+images_extracted: true
 location: Remond Senior & Community Center, 8703 160th Ave NE, Redmond, WA, 98052,
   United States
 location_titles:

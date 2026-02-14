@@ -5,6 +5,7 @@ feed_content: Legislators will hold town halls for community members to provide 
 feed_content_checksum: 9abab510098afb4df5e0963dab0da2986560abbf
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

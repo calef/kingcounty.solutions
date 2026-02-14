@@ -5,6 +5,7 @@ feed_content: A marathon dedicated to the Department of Veterans Affairs by Air 
 feed_content_checksum: 971bf2a04eace597e1a409e49a88d20fb7f90b07
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Athens, Greece
 location_titles:
 - King County

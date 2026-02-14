@@ -7,6 +7,7 @@ feed_content: A second listening session to gather input on the Rapid Capital Ho
 feed_content_checksum: 3201f885d036714e41a64f13f91193ad6240a8c0
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Virtual
 location_titles:
 - King County

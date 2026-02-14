@@ -6,6 +6,7 @@ feed_content: A webinar discussing how homeownership-led development can prevent
 feed_content_checksum: bdb3cd864b9944638250e0e8c04208eae37a1919
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

@@ -5,6 +5,7 @@ feed_content: Deadline for applicants to submit their essays, academic backgroun
 feed_content_checksum: 9387bdfb563075ea6a0e2b699705a7dd318423a1
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

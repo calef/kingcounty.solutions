@@ -5,6 +5,7 @@ feed_content: Deadline for submitting claims for costs incurred from July 1, 202
 feed_content_checksum: ee749de934186c208d9f5dcd194d39dc762bea23
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

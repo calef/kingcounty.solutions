@@ -42,6 +42,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   <p> <a> Back to events</a> </p> </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: 1f1499ad2fb0881775847a97c29ed223dad8acd6
 image_checksums: []
+images_extracted: true
 location: City Hall – City Council Conference Room, 6200 Southcenter Blvd, Tukwila,
   WA, 98188, United States
 location_titles:

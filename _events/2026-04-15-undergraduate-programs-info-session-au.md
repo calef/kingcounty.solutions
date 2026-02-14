@@ -93,6 +93,7 @@ feed_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li
   </script>
 feed_content_checksum: 5d7adcb6b793bc9b0150071970741d297473ba24
 image_checksums: []
+images_extracted: true
 location: Virtual Events @ Antioch University
 location_titles:
 - King County

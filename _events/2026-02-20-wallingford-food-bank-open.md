@@ -49,6 +49,7 @@ feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wall
   </script>'
 feed_content_checksum: 9abaabf9b12eb1a72a2e5f70e93b67a0150d9a9d
 image_checksums: []
+images_extracted: true
 location: Wallingford Food Bank (Temporary Location), 4318 Stone Way North, Seattle,
   WA, 98103, United States
 location_titles:

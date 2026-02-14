@@ -6,6 +6,7 @@ feed_content: Deadline for submitting applications for $3.6 million in funds fro
 feed_content_checksum: c794f893f3739862197bc9fb0b914d05fb9fc931
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

@@ -5,6 +5,7 @@ feed_content: An average monthly caseload cap will be imposed for the Working Co
 feed_content_checksum: 1a40188d3dafc0b631c9ede44d04756a08b4ec78
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

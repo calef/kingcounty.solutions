@@ -26,6 +26,7 @@ feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1
   </div> </div> </div>"
 feed_content_checksum: '0900cd0a15c4b768d40e825db1aed08d0bbedc20'
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

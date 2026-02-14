@@ -5,6 +5,7 @@ feed_content: Expected announcement of awardees for the multifamily affordable h
 feed_content_checksum: 25b33a0336c5fa73bffe51760ddb0d70c875481a
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

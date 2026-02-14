@@ -27,4 +27,3 @@ summarized: true
 title: 'Partition & Solidarity: Anticolonial Struggles in the Colonial Present Symposium'
 topic_titles: []
 ---
-

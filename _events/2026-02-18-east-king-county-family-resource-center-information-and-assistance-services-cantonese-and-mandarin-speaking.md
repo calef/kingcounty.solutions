@@ -45,6 +45,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   pm</span> </div> </li> </ul> </div> </div> </section> </div>"
 feed_content_checksum: 17426fe4f922ed1f8b5f6b3e64a248ebfd797042
 image_checksums: []
+images_extracted: true
 location: CISC, 16305 NE 87th St, Suite 123, Redmond, WA, 98052, United States
 location_titles:
 - King County

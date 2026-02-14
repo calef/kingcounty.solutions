@@ -21,4 +21,3 @@ summarized: true
 title: Northwest Nature and Health Symposium
 topic_titles: []
 ---
-

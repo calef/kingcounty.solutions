@@ -5,6 +5,7 @@ feed_content: Deadline for organizations, lenders, and tribes to submit applicat
 feed_content_checksum: 8bf1aba34351f18ffe01441c1581849f749982bf
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

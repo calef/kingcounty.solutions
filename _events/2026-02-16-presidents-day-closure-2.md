@@ -13,6 +13,7 @@ feed_content: "<section> <div> <p> <a> « All Events</a> </p> <h1>Presidents’ 
   </div> </div> </section>"
 feed_content_checksum: 834d60edd5f7be88ebb0d73d0a12bfb79c4b07ef
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

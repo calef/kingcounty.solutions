@@ -14,6 +14,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
   Kent, WA, USA </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 12b41ac78b3d165f29efb364f35a0b5bd6f8ebd8
 image_checksums: []
+images_extracted: true
 location: Kent, WA, USA
 location_titles:
 - King County

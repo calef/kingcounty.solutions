@@ -5,6 +5,7 @@ feed_content: Public sessions to discuss the draft of the 2026-2032 Affordable H
 feed_content_checksum: 4596092f6783965ee361e2dfd945ab42d8d00bf1
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

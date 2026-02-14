@@ -6,6 +6,7 @@ feed_content: Dr. Emily Knight will present findings on attention and speech per
 feed_content_checksum: 625d96f60c345c5c033dfe4a9b6206ff3f65c586
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Haring Center Auditorium
 location_titles:
 - King County

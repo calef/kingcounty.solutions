@@ -6,6 +6,7 @@ feed_content: Free tax preparation services for individuals earning less than $8
 feed_content_checksum: 493feb7a6ecf245eada9fbaf4f8c596ad8353144
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: 20 locations across King County and virtual option
 location_titles:
 - King County

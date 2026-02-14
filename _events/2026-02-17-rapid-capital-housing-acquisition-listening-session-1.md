@@ -6,6 +6,7 @@ feed_content: A listening session to gather input on the Rapid Capital Housing A
 feed_content_checksum: 402ad2e2414c73fcc8a2a19b153a211289f492cf
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Virtual
 location_titles:
 - King County

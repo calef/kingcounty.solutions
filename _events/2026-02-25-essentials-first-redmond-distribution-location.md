@@ -36,6 +36,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   pm</span> </div> </li> </ul> </div> </div> </section> </div>"
 feed_content_checksum: 3efb9c68d8d303894e73aa14c8853a14474393d4
 image_checksums: []
+images_extracted: true
 location: WA
 location_titles:
 - King County

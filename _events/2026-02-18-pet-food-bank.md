@@ -37,6 +37,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   <a> Back to events</a> </p> </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: c627df0692c4fe6c4b140fdb08b3d3680c00e4b5
 image_checksums: []
+images_extracted: true
 location: King County Pet Adoption Center, 21615 64th Ave S, Kent, United States
 location_titles:
 - King County

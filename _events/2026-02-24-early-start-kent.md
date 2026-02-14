@@ -13,6 +13,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
   pm - 1:00 pm </div> </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 856c63b1f4b1ccf33492fab9885c126846c39353
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

@@ -10,6 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Joint Ba
   23 </abbr> </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 6208dab649c8eceeb152f66cc2999bebbb317b6b
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

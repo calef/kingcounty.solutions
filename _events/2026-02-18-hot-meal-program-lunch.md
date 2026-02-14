@@ -104,6 +104,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   <li><a>{title}</a></li> <li><a>{title}</a></li> </ul> </div> </div> </div>"
 feed_content_checksum: 445331c983f83f644f3d29150a7f904939125347
 image_checksums: []
+images_extracted: true
 location: St John United Lutheran Church, 5515 Phinney Ave N, Seattle, WA, 98103,
   United States
 location_titles:

@@ -27,6 +27,7 @@ feed_content: "<section> <div> <p> <a> « All Events</a> </p> <h1>Take a Chance 
   </span> </li> </ul> </div> </div> </div> </div> </section>"
 feed_content_checksum: c78dcd1f0ba9df881ad5942a4063874b80fda70f
 image_checksums: []
+images_extracted: true
 location: Blakely Hall, 2550 NE Park Dr, Issaquah, WA, 98029, United States
 location_titles:
 - King County

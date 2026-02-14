@@ -51,6 +51,7 @@ feed_content: "<article> <div> <h1>The Body Project</h1> <div> <div> <h2>What is
   </blockquote> </div> </article>"
 feed_content_checksum: b4295e531dfa0b69b7a56e5eb72651e714deb2c7
 image_checksums: []
+images_extracted: true
 location: 1218 NE Campus Parkway (ELM)
 location_titles:
 - King County

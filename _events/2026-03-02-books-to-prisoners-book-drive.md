@@ -7,6 +7,7 @@ feed_content: A book drive in partnership with Books to Prisoners, encouraging c
 feed_content_checksum: bee634019af5e276dcc321e51718bf5c5d33e696
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Wallingford Community Senior Center
 location_titles:
 - King County

@@ -51,6 +51,7 @@ feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wall
   </script>'
 feed_content_checksum: 7758a662caab88de9d8c9211dfd621378f82afd4
 image_checksums: []
+images_extracted: true
 location: Green Lake Branch – Seattle Public Library, 7364 East Green Lake Dr N, Seattle,
   WA, 98115, United States
 location_titles:

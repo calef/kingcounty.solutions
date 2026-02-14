@@ -52,6 +52,7 @@ feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wall
   </script>'
 feed_content_checksum: 053a457580886d1881548e29b3816204ae6d5741
 image_checksums: []
+images_extracted: true
 location: Broadview Branch – Seattle Public Library, 12755 Greenwood Ave N, Seattle,
   WA, 98133, United States
 location_titles:

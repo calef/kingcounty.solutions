@@ -32,6 +32,7 @@ feed_content: "<section> <div> <p> <a> « All Events </a> </p> <h1>25th Annivers
   a Purpose!</a></li> </ul> </div> </div> </section>"
 feed_content_checksum: ad4877d7baa065205baf88949b3203f5863af573
 image_checksums: []
+images_extracted: true
 location: Washington
 location_titles:
 - King County

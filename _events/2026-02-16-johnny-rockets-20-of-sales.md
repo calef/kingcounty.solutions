@@ -24,6 +24,7 @@ feed_content: "<div> <div> <header> <div> <div> <div> <div> <div> <div> <div><sp
   </div> </div>"
 feed_content_checksum: 321b96a8e953a569d848825698b976ed2cfb5026
 image_checksums: []
+images_extracted: true
 location: Johnny Rockets Kent, 418 Ramsay Way, Kent, WA, 98032, United States
 location_titles:
 - King County

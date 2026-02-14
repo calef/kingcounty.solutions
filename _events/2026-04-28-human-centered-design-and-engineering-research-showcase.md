@@ -26,6 +26,7 @@ feed_content: "<div> <section> <section> <header> <h1> <span>HCDE Research Showc
   our Mailing List</a></p> </div> </div> </section> </aside> </div>"
 feed_content_checksum: c9d379f5f7118337317aefb3c6b25880bee1597b
 image_checksums: []
+images_extracted: true
 location: University of Washington Club (Faculty Center) (FAC)
 location_titles:
 - King County

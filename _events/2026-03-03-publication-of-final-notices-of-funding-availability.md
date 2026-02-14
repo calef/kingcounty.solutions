@@ -5,6 +5,7 @@ feed_content: Final Notices of Funding Availability for the Housing Preservation
 feed_content_checksum: f88d875184cfbbd71cf285b25f84460689470ee8
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

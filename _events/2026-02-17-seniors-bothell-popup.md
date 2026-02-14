@@ -14,6 +14,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
   Bothell, WA, USA </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 950b01045d7f15c7362889d1bdf829d3a9a07004
 image_checksums: []
+images_extracted: true
 location: Bothell, WA, USA
 location_titles:
 - Bothell

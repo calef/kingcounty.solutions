@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-10T23:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Last month, I visited an encampment in Ballard that was scheduled to be cleared. After hearing from concerned community members, I decided to extend the timeline to clear the site because I thought that better outcomes were possible for the people living there, their neighbors, and local businesses.  The conversations I had there underscored the reality that we simply […]</p>
   <p>The post <a>What we’re doing to expand shelter, address homelessness, and keep public space accessible </a> appeared first on <a>Office of the Mayor</a>.</p>

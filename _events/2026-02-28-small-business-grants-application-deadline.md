@@ -5,6 +5,7 @@ feed_content: Applications for small business grants in several regions, includi
 feed_content_checksum: 2771bcd414496f5312b50fa9f2c06ae383a2bcf3
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County
