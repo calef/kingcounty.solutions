@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-23T03:03:18+00:00'
+event_ids: []
 feed_content: |-
   <p>Could you use a little more community, connection, and cheap date ideas this winter?</p>
 
@@ -44,6 +46,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: b0e8ae65b7fbf72ae24f972f37868a8a636ef73b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

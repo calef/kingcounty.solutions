@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-03T17:48:56+00:00'
 event_ids: []
 events_extracted: true
@@ -16,6 +17,7 @@ feed_content: |-
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/chads-second-chance/">Chad&#8217;s second chance</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mercy Housing

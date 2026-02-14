@@ -14,6 +14,8 @@ module Mayhem
 
       attribute :feed_content, :feed_content_checksum, :original_source_html
       attribute :image_checksums, default: []
+      boolean_attribute :classified
+      boolean_attribute :images_extracted
       boolean_attribute :locked
       boolean_attribute :summarized
 

@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-12T04:44:49+00:00'
+event_ids: []
 feed_content: SEATTLE, Wash. — Just after 6 p.m. on Dec. 11, the Seattle Fire Department’s
   Fire Alarm Center received 911 calls reporting a fire in a home in the 11000 block
   of Bartlett Ave. NE. When crews arrived on scene, they saw flames coming from the
   fron...
 feed_content_checksum: f1a53726fbcb2d8e4c0ce635c4623efdc9abfcfd
 image_checksums: []
+images_extracted: true
 location_titles:
 - Seattle
 organization_title: City of Seattle

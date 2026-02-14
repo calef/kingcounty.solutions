@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-22T21:33:48+00:00'
+event_ids: []
 feed_content: Many park bathrooms and water fountains are closed for the winter  Seattle
   Parks and Recreation has completed routine winter preparation, which includes closing
   many park bathrooms and drinking fountains for the winter season to prevent pipes
   from free...
 feed_content_checksum: c75a3678e9c5ccb1e9c4cbab9b7f65cf8486b71d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

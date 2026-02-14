@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-14T00:29:14+00:00'
+event_ids: []
 feed_content: |-
   <p>Second Sunday after Christmas As you likely noticed from the hymns we are singing in church this morning, the decorations in the sanctuary and around the altar, or because you … <a>Read More</a></p>
   <p>The post <a>January 4, 2026 — The Rev Brian Gregory</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: 52375823a293a3b56d9fa9e8e5126bd311cdd663
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

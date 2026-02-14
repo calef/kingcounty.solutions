@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-15T15:01:14+00:00'
 event_ids: []
 events_extracted: true
@@ -28,6 +29,7 @@ feed_content: "Hispanic Heritage Month is a time to honor the histories, culture
   Healthcare](https://snoqualmievalleyhealth.org/hispanic-heritage-month/) appeared
   first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org)."
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

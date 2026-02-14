@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-12T01:15:10+00:00'
 event_ids: []
 events_extracted: true
@@ -20,6 +21,7 @@ feed_content: "<div>\n\t\t\n\t\t\t\n<div>\n\t\n<span>\n\t“B</span>\n\n\t<div>\
   post <a>Jack’s Story</a> appeared first on <a>Boyer Children's Clinic</a>.</p>"
 feed_content_checksum: b1736c1a6113591805b8d0a30b48d47fc99f3ccb
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Boyer Children's Clinic

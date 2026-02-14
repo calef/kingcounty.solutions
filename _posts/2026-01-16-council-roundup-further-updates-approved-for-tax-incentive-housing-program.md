@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-16T00:21:45+00:00'
 event_ids: []
 events_extracted: true
@@ -54,6 +55,7 @@ feed_content: "<span>Council Roundup: Further updates approved for tax incentive
   15 2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: e378b4f7589710db9da49c4a2830686122d37629
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

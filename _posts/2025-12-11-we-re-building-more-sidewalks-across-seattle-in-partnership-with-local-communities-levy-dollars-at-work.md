@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-11T20:16:49+00:00'
+event_ids: []
 feed_content: 'Blog stats: 700 words | 4-minute read This year, we’ve been walking
   the walk by hosting neighborhood “walkshops” with residents to co-create sidewalk
   and walkway plans across Seattle. Together with community members, we’ve been listening,
   learning...'
 feed_content_checksum: 83a9d698d12d73463e90cd1dd35711d66976f1c3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

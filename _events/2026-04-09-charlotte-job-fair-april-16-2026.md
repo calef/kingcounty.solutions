@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-10T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Charlotte Job
   Fair, April 16, 2026</h1> <div> <div><span>April 9</span></div> </div> <div> <div>
@@ -9,6 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Charlott
   </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: f74ca6b1b8b8dc41d35211e2b97840905f1fb6e0
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

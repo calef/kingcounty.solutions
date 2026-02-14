@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-08T00:00:55+00:00'
 event_ids: []
 events_extracted: true
@@ -12,6 +13,7 @@ feed_content: |-
   <p>The post <a href="https://www.vibrant.org/988-day-a-day-of-action-and-awareness/">988 Day: A Day of Action and Awareness</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_checksums:
 - 64ae3cc118b1ec324f64155cb84dca8c84620cfda91e1af264b0c8d9f682b93c
+images_extracted: true
 location_titles:
 - King County
 organization_title: Vibrant Emotional Health

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-06T00:09:52+00:00'
+event_ids: []
 feed_content: |-
   <p><a href="https://yarrowpointwa.gov/wp-content/uploads/2025/12/COMPLETE-PACKET.pdf">COMPLETE PACKET</a></p>
   <p>Tuesday night’s Town Council agenda has a few items that may be of particular interest to residents:</p>
@@ -19,6 +21,7 @@ feed_content: |-
   <p>Your attendance is always encouraged.</p>
   <p>Mayor Katy Kinney Harris</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

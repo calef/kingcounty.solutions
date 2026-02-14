@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-22T19:46:28+00:00'
 event_ids: []
 events_extracted: true
@@ -104,6 +105,7 @@ feed_content: |-
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/capitol-courier-join-us-for-a-community-conversation-about-prop-1-and-the-fepp-levy/">Capitol Courier: Join us for a Community Conversation about Prop 1 and the FEPP Levy</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: BrightSpark

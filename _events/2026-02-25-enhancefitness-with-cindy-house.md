@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T16:00:00-08:00'
 feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <div>
   <span> Event Series: </span> <a> <span> EnhanceFitness with Cindy House </span>
@@ -21,6 +22,7 @@ feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> 
   </ul> </div> </div> </div> <p>Comments are closed.</p> </div> </section> </div>
   </div> </div>"
 feed_content_checksum: c257c389cd7f73e265405ff642395da0a6e23f68
+image_checksums: []
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 location_titles:

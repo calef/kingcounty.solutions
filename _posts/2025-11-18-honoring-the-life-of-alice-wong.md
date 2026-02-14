@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-18T15:48:37+00:00'
 event_ids: []
 events_extracted: true
@@ -148,6 +149,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   the Life of Alice Wong</a> appeared first on <a href=\"https://ihdd.org\">UW IHDD</a>.</p>"
 image_checksums:
 - e67c7b8075f94ebd6915a3df724c8257227e71271078307215548603203f68fd
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-05T18:15:20+00:00'
+event_ids: []
 feed_content: "<p>By Steven Schauer, Deputy Executive Director</p>\n\n\n\n<p>The King
   County Flood Control District is riding the same wave of excitement as the rest
   of the region after watching the Seattle Seahawks punch their ticket to the Super
@@ -111,6 +113,7 @@ feed_content: "<p>By Steven Schauer, Deputy Executive Director</p>\n\n\n\n<p>The
   appeared first on <a>King County Flood Control District</a>.</p>"
 feed_content_checksum: e5675a7ffec710e110200d0e15d9c61cd3dcac2d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Flood Control District

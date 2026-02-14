@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-02T00:15:16+00:00'
+event_ids: []
 feed_content: |-
   <p>Northwest Catholic shared firsthand accounts of how Catholic Community Services (CCS) transforms lives throughout Western Washington. This article features four CCS programs from southwestern Washington: Bertha’s Place Too, <a>Drexel House</a>, Quince Street Village, and <a>The Community Kitchen</a>. </p>
 
@@ -22,6 +24,7 @@ feed_content: |-
   <p>Photo: Stephen Brashear, Northwest Catholic</p>The post <a>CCS Program Impact Highlighted in Northwest Catholic </a> first appeared on <a>Catholic Community Services of Western Washington</a>.
 feed_content_checksum: 3bd1621d172753e3b622c5ff9e9079c942c040d6
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Catholic Community Services of Western Washington
 original_source_html: "<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en-US\" prefix=\"og:

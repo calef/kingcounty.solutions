@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-07T18:00:03+00:00'
+event_ids: []
 feed_content: |-
   <a><img src="https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/blind.jpg?fit=264%2C400&amp;ssl=1"></a>
   <a><img src="https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/salad.jpg?fit=309%2C400&amp;ssl=1"></a>
@@ -23,6 +25,7 @@ feed_content: |-
   <p><em>~posted by Frank. All descriptions provided by publishers. </em></p>
 feed_content_checksum: 1eb816bffd62ffe37d9ff4ccf781a56e416723e7
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-07T15:38:34+00:00'
+event_ids: []
 feed_content: "<div>\n\n    \n    <p><strong><img src=\"https://www.dav.org/wp-content/uploads/JimMarszalek_PressRoom-249x300.jpg\">WASHINGTON</strong>
   – Gulf War-era veteran and Pittsburgh native Jim Marszalek has been appointed executive
   director of DAV (Disabled American Veterans) Washington Headquarters, where he will
@@ -28,6 +30,7 @@ feed_content: "<div>\n\n    \n    <p><strong><img src=\"https://www.dav.org/wp-c
   appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: 452b5321c1c2e5ca2e327e75a7fdd20b79f9e19a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

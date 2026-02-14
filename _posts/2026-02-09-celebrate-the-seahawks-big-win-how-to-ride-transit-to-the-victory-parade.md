@@ -1,10 +1,12 @@
 ---
+classified: true
 date: '2026-02-09T08:13:30-08:00'
 event_ids: []
 events_extracted: true
 feed_content: "<div><div><p>Seattle is getting ready to celebrate in a big way.</p></div></div>"
 feed_content_checksum: 3267f547d45a43810c72e96d252b8033c590bfb3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Transit

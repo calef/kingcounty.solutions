@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-12T19:50:11+00:00'
+event_ids: []
 feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>Survey:
   How IDDRCs Engage People With Lived Experience</h2>\n<p>Researchers at the University
   of Iowa are conducting a national survey to better understand how Intellectual and
@@ -34,6 +36,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   on <a>UW IHDD</a>.</p>"
 feed_content_checksum: 931859d2755f76d2ce1754efc9b1ecdb36310a3a
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Institute on Human Development and Disability
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\" >\n<head>\n\t<!-- Google

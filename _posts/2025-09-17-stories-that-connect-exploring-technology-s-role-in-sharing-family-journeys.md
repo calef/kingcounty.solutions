@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-17T19:38:23+00:00'
 event_ids: []
 events_extracted: true
@@ -37,6 +38,7 @@ feed_content: "<p class=\"\">At Mary's Place, we're always excited to explore ne
   \ \n  \n\n\n\n\n  \n    <iframe allow=\"clipboard-write\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"
   src=\"https://heyzine.com/flip-book/e657ddd138.html\" class=\"fp-iframe\"></iframe>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-12T19:32:43+00:00'
 event_ids: []
 events_extracted: true
@@ -41,6 +42,7 @@ feed_content: |-
 
   <p></p><p>The post <a href="https://www.bellevuelifespring.org/general/the-heart-of-our-mission/">Preventing hunger is at the heart of our mission</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/general/the-heart-of-our-mission/">Preventing hunger is at the heart of our mission</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - Bellevue
 organization_title: Bellevue LifeSpring

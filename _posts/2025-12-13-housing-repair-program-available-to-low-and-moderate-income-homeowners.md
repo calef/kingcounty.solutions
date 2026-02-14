@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-13T01:23:43+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: The King County Housing Repair program provides assistance to low 
   how to access services, and eligibility […]
 feed_content_checksum: ced3579a0b01608bdb02ebce6ba75cd3c96243d1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

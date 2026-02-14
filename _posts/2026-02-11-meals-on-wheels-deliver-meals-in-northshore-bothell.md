@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-11T16:22:20+00:00'
 event_ids: []
 events_extracted: true
@@ -17,6 +18,7 @@ feed_content: |-
   <p>The post <a>Meals on Wheels: Deliver Meals in NorthShore/Bothell</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: d6d1633acff812c998dd556128d196e975658143
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

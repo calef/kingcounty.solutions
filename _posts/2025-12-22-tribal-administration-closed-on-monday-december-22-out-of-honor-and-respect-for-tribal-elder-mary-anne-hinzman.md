@@ -1,9 +1,12 @@
 ---
+classified: true
 date: '2025-12-22T04:20:03+00:00'
+event_ids: []
 feed_content: "<p><span>Out of honor and respect for Tribal Elder Mary Anne Hinzman,
   the Tribal Administration will be closed on Monday, December 22, 2025.</span></p>"
 feed_content_checksum: ac7752089ae51a81d620ca3b8f6c851bb8b01b78
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Snoqualmie Indian Tribe

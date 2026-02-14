@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-01T14:28:56+00:00'
+event_ids: []
 feed_content: We&#8217;re working with Seattle Public Utilities to update Seattle’s
   Stormwater Code and Stormwater Manual as required by the Washington State Department
   of Ecology. The second draft of the updated Code and Manual documents will be available
   for publi...
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

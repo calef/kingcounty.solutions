@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-12T22:26:17+00:00'
 event_ids: []
 events_extracted: true
@@ -18,6 +19,7 @@ feed_content: |-
   <p>If you’re experiencing a flood emergency, please call 911.</p>
 feed_content_checksum: 999a4d059380414fd4c8a460e1cc55b572008639
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Snoqualmie Indian Tribe

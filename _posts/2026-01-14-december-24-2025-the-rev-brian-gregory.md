@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-14T00:33:30+00:00'
+event_ids: []
 feed_content: |-
   <p>Christmas Eve in the Chapel Picture, for a moment, your ideal Christmas. The one that checks all the boxes of nostalgia, tradition, and meaning. Perhaps there is a well-trimmed tree, … <a>Read More</a></p>
   <p>The post <a>December 24, 2025 — The Rev Brian Gregory</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: 73b7f370ec5c99e6fa13bbcd3a3b7aaa56073b64
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

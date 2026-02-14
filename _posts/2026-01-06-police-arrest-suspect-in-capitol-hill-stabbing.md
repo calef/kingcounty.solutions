@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-06T17:56:32+00:00'
+event_ids: []
 feed_content: Police arrest man following a stabbing early Tuesday morning in Capitol
   Hill neighborhood. At 5:01 a.m., dispatchers received reports of a stabbing near
   East Pike Street and 10th Avenue. Officers arrived and found a 30-year-old man with
   two stab wounds...
 feed_content_checksum: 93c9da99fc2d3b2fbb721b7c345147df900c7dcf
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

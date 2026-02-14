@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-29T15:05:12+00:00'
+event_ids: []
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Educational
   event celebrates Native American Heritage Month</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -42,6 +44,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   datetime=\"2025-10-29T12:00:00Z\" class=\"datetime\">October 29 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Bellevue
 published: false

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-14T04:20:16+00:00'
+event_ids: []
 feed_content: This message is for residents and businesses along South 277th St in
   Auburn including those along intersecting streets of Frontage Road, D Street Northwest,
   B Street Northwest, D Street Northeast, I Street Northeast and the Trail Run community.
@@ -7,6 +9,7 @@ feed_content: This message is for residents and businesses along South 277th St 
   […]
 feed_content_checksum: 6aa8f5405fc5a680c77abc29db2ebb388b3b1e95
 image_checksums: []
+images_extracted: true
 location_titles:
 - South King County
 organization_title: King County Emergency Management

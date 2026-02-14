@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-28T00:27:45+00:00'
+event_ids: []
 feed_content: |-
   <p>“We are created to be one human family. We are created to live in harmony and peace. This is ultimately what every human person longs for. It is time for us to abandon allegiance to agendas and political parties and rediscover basic human decency, truth, integrity and charity. Essentially, we are called, all of us, to serve the common good for the good of each and everyone.”</p>
 
@@ -16,6 +18,7 @@ feed_content: |-
   <p></p>The post <a>A Well-Ordered Society Rooted in Truth, Justice and Peace: A Pastoral Letter by Archbishop Paul D. Etienne</a> first appeared on <a>Catholic Community Services of Western Washington</a>.
 feed_content_checksum: 707e8d2ed2c1bd86e950e3d7fbc6702fbf853b16
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Catholic Community Services of Western Washington

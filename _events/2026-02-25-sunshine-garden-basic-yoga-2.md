@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T11:30:00-08:00'
 feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </p>
   <div> <span> Event Series: </span> <a> <span> Sunshine Garden: Basic Yoga </span>
@@ -23,6 +24,7 @@ feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </
   </aside> </div>"
 feed_content_checksum: d1321bd54a4c1e0d27224c3ade279524da892457
 image_checksums: []
+images_extracted: true
 location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
 location_titles:
 - King County

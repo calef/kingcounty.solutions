@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-12T23:41:42+00:00'
 event_ids: []
 events_extracted: true
@@ -34,6 +35,7 @@ feed_content: "<span>Finding the right help for housing and property questions <
   1 2025</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: 7ae193c96d7be4a586a6e84f715164d72f89d238
 image_checksums: []
+images_extracted: true
 location_titles:
 - Bellevue
 organization_title: City of Bellevue

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-29T00:40:54+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: |-
   </div>
 feed_content_checksum: 01b40a4d7f67ac2518bfe90feb5d4cdc00ed4eab
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

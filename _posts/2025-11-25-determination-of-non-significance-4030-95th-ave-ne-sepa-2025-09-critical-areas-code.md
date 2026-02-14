@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-25T16:57:46+00:00'
+event_ids: []
 feed_content: '<p><img decoding="async" class="alignnone size-full wp-image-8126"
   src="https://yarrowpointwa.gov/wp-content/uploads/2025/11/CAO-SEPA-2025-09-DNS-Posting-Notice.jpg"
   alt="" width="1700" height="2200" srcset="https://yarrowpointwa.gov/wp-content/uploads/2025/11/CAO-SEPA-2025-09-DNS-Posting-Notice.jpg
@@ -10,6 +12,7 @@ feed_content: '<p><img decoding="async" class="alignnone size-full wp-image-8126
   1187w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/CAO-SEPA-2025-09-DNS-Posting-Notice-1583x2048.jpg
   1583w" sizes="(max-width: 1700px) 100vw, 1700px" /></p>'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

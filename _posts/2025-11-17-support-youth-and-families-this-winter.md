@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-17T20:46:40+00:00'
 event_ids: []
 events_extracted: true
@@ -14,6 +15,7 @@ feed_content: |-
   <p class="x_elementToProof">Thank you for helping us spread warmth, kindness, and joy this season. We appreciate your generosity!</p>
   <p>The post <a href="https://www.vibrant.org/support-youth-and-families-this-winter/">Support Youth and Families This Winter</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Vibrant Emotional Health

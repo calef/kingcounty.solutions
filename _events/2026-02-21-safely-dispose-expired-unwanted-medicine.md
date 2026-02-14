@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-21T17:00:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
   </span> <a> <span> Safely Dispose Expired/Unwanted Medicine </span> </a> </div>
@@ -42,6 +43,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   </div> </div> </section>"
 feed_content_checksum: d5021447cb23cdf930612686de2349e723b60de9
 image_checksums: []
+images_extracted: true
 location: WA
 location_titles:
 - King County

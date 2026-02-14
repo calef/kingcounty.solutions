@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-10T18:00:00+00:00'
+event_ids: []
 feed_content: "<div>\n\n    \n    <div><iframe></iframe></div>\n<p> </p>\n<figure><img
   src=\"https://www.dav.org/wp-content/uploads/Bolden-Sitting.jpg\"><figcaption>William
   Bolden</figcaption></figure>\n<p>William Bolden was caught in a firefight with Chinese
@@ -56,6 +58,7 @@ feed_content: "<div>\n\n    \n    <div><iframe></iframe></div>\n<p> </p>\n<figu
   appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: 5766f2bc9e4ec2feca1b2408379c2bffa89b4f3f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

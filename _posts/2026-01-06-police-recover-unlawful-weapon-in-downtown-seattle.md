@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-06T00:38:26+00:00'
+event_ids: []
 feed_content: Seattle police officers recovered an illegal weapon from 35-year-old
   man in Downtown Seattle this weekend. On Jan. 3, at about 5:00 a.m., patrol officers
   saw a man in the 1400 block of 3rd Avenue armed with a knife. The man cooperated
   with police while...
 feed_content_checksum: e385053cd50716a1062aa0ddcb865ad7478a46c4
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

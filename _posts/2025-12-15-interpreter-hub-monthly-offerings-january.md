@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-15T21:32:55+00:00'
+event_ids: []
 feed_content: |-
   <p><img src="https://www.cdhy.wa.gov/wp-content/uploads/2025/12/January-Offerings-from-CDHY-Interpreter-Hub-791x1024.png"></p>
   <h2>CDHY Interpreter Hub Monthly Offerings</h2>
@@ -45,6 +47,7 @@ feed_content: |-
   <p><strong>Questions?</strong> Contact Melissa Klindtworth at melissa.klindtworth@cdhy.wa.gov</p>
 feed_content_checksum: 793e32d99399fcfe36af04216b4ee81420bc72af
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Washington Center for Deaf and Hard of Hearing Youth

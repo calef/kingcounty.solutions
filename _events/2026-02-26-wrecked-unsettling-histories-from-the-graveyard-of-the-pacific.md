@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Coll Thrush will speak about his book.
 feed_content_checksum: f06cb8ff9f1086db3f664d7c31ec9596d077f29c
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

@@ -1,8 +1,10 @@
 ---
+classified: true
 end_date: '2026-03-05T15:00:00-08:00'
 feed_content: "<div> <div> <div> <div>Loading…</div> </div> </div> </div>"
 feed_content_checksum: a1e32cc93d5fed3cd66da173545d64a00645bcfd
 image_checksums: []
+images_extracted: true
 location: Physics / Astronomy Building (PAT)
 location_titles:
 - King County

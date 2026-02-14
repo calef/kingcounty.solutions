@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-28T20:00:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <h1>2026 Charity Hockey
   Game – Police vs Fire</h1> <div> <h2> <span>February 28 @ 1:00 pm</span> - <span>8:00
@@ -44,6 +45,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <h1>2026 Charity Hock
   </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: 762ad05e02ea214143324c1ad8ce4852b08ed2be
 image_checksums: []
+images_extracted: true
 location: ShoWare Arena, 625 W James St, Kent, WA, 98032
 location_titles:
 - South King County

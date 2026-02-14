@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-19T16:28:32+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: The Teen Health Hub WA is an online resource for adolescents aged 
   young people's health needs.
 feed_content_checksum: 4e08a5812ec48f549297b576f9e7eb3b22c8d226
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

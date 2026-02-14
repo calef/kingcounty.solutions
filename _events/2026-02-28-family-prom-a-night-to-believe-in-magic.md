@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-28T19:00:00-08:00'
 feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
@@ -73,6 +74,7 @@ feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-tem
   rel="external">View Venue Website</a> </span> </li> </ul> </div> </div> </div> </div>
   </section>'
 image_checksums: []
+images_extracted: true
 location: Federal Way Community Center, 876 South 333rd Street, Federal Way, WA, 98003,
   United States
 location_titles:

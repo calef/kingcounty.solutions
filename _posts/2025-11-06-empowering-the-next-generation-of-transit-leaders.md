@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-06T10:08:50-08:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: <div><p paraid="1659914425" paraeid="{781cccb4-72a0-4096-9871-b66e
   Youth Conference, a day dedicated to exploring how transit shapes our region — and
   how the next generation can help shape its future.</p></div>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Transit

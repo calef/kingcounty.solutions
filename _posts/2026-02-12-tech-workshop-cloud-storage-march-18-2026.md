@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-12T17:51:20+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/Tech-workshopcloud-5-791x1024.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>Join Rajat to learn about cloud storage. RSVPs appreciated, FREE.</p>
 feed_content_checksum: 0fb4f526b03e6dfe91ebe3f21b1b7dc19f072059
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-19T22:50:14+00:00'
+event_ids: []
 feed_content: |-
   <p><a href="https://yarrowpointwa.gov/wp-content/uploads/2025/11/AGENDA.pdf">AGENDA</a></p>
   <p>Notice is hereby given that on Thursday, November 20, 2025, the Town Council will hold a special meeting for Flock LPR Operations at Town Hall at 4:00 PM. The agenda is attached.</p>
@@ -17,6 +19,7 @@ feed_content: |-
   <p>Thank you.</p>
   <p>&nbsp;</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

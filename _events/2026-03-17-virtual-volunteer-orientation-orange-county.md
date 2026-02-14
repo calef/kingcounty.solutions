@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-17T19:30:00-07:00'
 feed_content: "<header> <div> <div> <h1> <span>Virtual Volunteer Orientation | Orange
   County</span> </h1> <div><div><div> <span>March 17, 2026 @ 6:30 pm</span> - <span>7:30
@@ -25,6 +26,7 @@ feed_content: "<header> <div> <div> <h1> <span>Virtual Volunteer Orientation | O
   </span> </li> </ul> </div> </div> </div> </div> </div> </div> </div> </div>"
 feed_content_checksum: a68e1724d02518fa5232dadaf09b8dae4c828f65
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Olive Crest

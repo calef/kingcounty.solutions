@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-14T22:00:00-08:00'
 feed_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
   to main content</a> <div class="l-page has-one-sidebar has-sidebar-first"> <div
@@ -116,6 +117,7 @@ feed_content: '<a href="#main-content" class="element-invisible element-focusabl
   Baylor Project YouTube</a> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div>'
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

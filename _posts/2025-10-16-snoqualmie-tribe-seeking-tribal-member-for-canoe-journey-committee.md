@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-16T17:52:17+00:00'
+event_ids: []
 feed_content: "The Canoe Journey Committee will assist in the planning and execution
   for the annual Inter-Tribal Canoe Journey that takes place at varying hosting tribe
   locations each summer. Preparation for this event is year-round. A Committee Member
@@ -7,6 +9,7 @@ feed_content: "The Canoe Journey Committee will assist in the planning and execu
   must apply and, if selected for consideration, interview for the position.\n\nLearn
   more and apply here:  \n[https://snoqualmietribeforms.us/cjc-application/](https://snoqualmietribeforms.us/cjc-application/)"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

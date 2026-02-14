@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-26T16:56:16+00:00'
 event_ids: []
 events_extracted: true
@@ -28,6 +29,7 @@ feed_content: |-
   <p><a href="https://kcdrc.org/newsletters/"><em>This article was originally featured in our newsletter.</em></a></p>
   <p>The post <a href="https://kcdrc.org/conflict-resolution-for-everyone-stories-from-core/">Conflict Resolution for Everyone: Stories from CoRE™</a> appeared first on <a href="https://kcdrc.org">Dispute Resolution Center of King County</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Dispute Resolution Center of King County

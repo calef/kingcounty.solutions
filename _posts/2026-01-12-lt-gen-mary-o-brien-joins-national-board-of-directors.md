@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-12T11:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>Lt. Gen Mary O’Brien</strong> <strong>Joins Operation Homefront’s National Board of Directors</strong></p>
 
@@ -57,6 +59,7 @@ feed_content: |-
   <p>The post <a>Lt. Gen Mary O’Brien Joins National Board of Directors</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 47c83019a1ac2fc7d50d1d983bfb1d571f39b067
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Operation Homefront
 original_source_html: |-

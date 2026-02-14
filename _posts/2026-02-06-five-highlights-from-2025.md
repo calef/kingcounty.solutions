@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-06T19:11:37+00:00'
 event_ids: []
 events_extracted: true
@@ -35,6 +36,7 @@ feed_content: |-
   <p>The post <a>Five Highlights from 2025</a> appeared first on <a>Community Roots Housing</a>.</p>
 feed_content_checksum: bf640eb92744f97d4f32863be22008f8de25d3ec
 image_checksums: []
+images_extracted: true
 location_titles:
 - Seattle
 - South King County

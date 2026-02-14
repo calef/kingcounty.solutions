@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-07T15:32:37+00:00'
 event_ids: []
 events_extracted: true
@@ -37,6 +38,7 @@ feed_content: |-
   <p>If you’re struggling with depression and ready to start the healing process, we encourage you to <a><span>connect to THIRA Health today.</span></a> Our evidence-backed residential, partial hospitalization, and intensive outpatient programs can help you reconnect to yourself and use mindfulness, along with many other helpful approaches, to create a life worth living!</p>
 feed_content_checksum: 8027fa4bdf6c6c63a5de78cdd412190d942fc4a9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: THIRA Health

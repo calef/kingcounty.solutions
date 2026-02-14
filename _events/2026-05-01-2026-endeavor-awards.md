@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-02T00:00:00-07:00'
 feed_content: "<a>Skip to content</a> <header> <div> <div> <div> <div> <div> <div>
   <a> <span> <span>Donate</span> </span> </a> </div> </div> </div> </div> <div> <div>
@@ -19,6 +20,7 @@ feed_content: "<a>Skip to content</a> <header> <div> <div> <div> <div> <div> <di
   </div> </div> </div> </div> </section>"
 feed_content_checksum: bccb26ae4416af43916d6ec1b3f9da3be7b27cd7
 image_checksums: []
+images_extracted: true
 location: CA
 location_titles: []
 organization_title: Angel Flight West

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-11T19:22:29+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/02/11101434/scottblair-olympic-738038_1280.jpg"><figcaption>As the 2026 Winter Olympics unfold in Italy, University of Washington students are learning about the history of the Games. <span>Photo: Pixabay</span></figcaption></figure>
   <p><span>Before the University of Washington’s winter quarter even started, </span><a><span>Kyle Haddad-Fonda</span></a><span> told his “Modern Olympic Games” class one of the questions that would be on the final exam: “What is something that happened in the 2026 Winter Olympics that you can understand better because of something you’ve learned in this course?”</span></p>
@@ -26,6 +28,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 5bec148ae115b4ab74bee63ca65551f91517557c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

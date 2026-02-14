@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T00:25:15+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Life Enrichment Through the Arts</a> appeared first on <a>Aging Wisdom</a>.</p>
 feed_content_checksum: 879e8903996e79b4c26b05a68a93a2ee99abff7b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Aging Wisdom

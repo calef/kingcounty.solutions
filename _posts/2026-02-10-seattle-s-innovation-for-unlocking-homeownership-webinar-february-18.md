@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-10T21:55:50+00:00'
 event_ids:
 - _events/2026-02-18-seattle-s-innovation-for-unlocking-homeownership-webinar.md
@@ -9,6 +10,7 @@ feed_content: Homeownership has long been one of the primary ways families build
   technical...
 feed_content_checksum: 2e679eae021274d79c115baa597b535c1ce0ab60
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

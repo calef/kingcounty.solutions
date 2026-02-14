@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-07T13:00:00-07:00'
 feed_content: "<div> <a>Skip to Main Content</a> </div> <div> <a>Accessibility Overview</a>
   </div> <div> <div> <div> <div> <div> <span>Welcome to UW Zoom</span> </div> <div>
@@ -11,6 +12,7 @@ feed_content: "<div> <a>Skip to Main Content</a> </div> <div> <a>Accessibility O
   </p> </div> </div> </div> </div>"
 feed_content_checksum: d0bd0c3aa069d77f4296e6c78779657f9b5608b6
 image_checksums: []
+images_extracted: true
 location: Zoom (see registration link)
 location_titles:
 - King County

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-21T16:39:01+00:00'
 event_ids:
 - _events/2026-09-21-completion-of-the-hub-project.md
@@ -32,6 +33,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   to Expand Rural Healthcare Access</a> appeared first on <a>Snoqualmie Valley Hospital</a>.</p>"
 feed_content_checksum: 75f37e1314f6e8df709cac85533cfbadb26d6a6d
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

@@ -1,9 +1,11 @@
 ---
+classified: true
 end_date: '2026-02-13T23:59:59-08:00'
 feed_content: Open enrollment for the 2026-2027 school year at Normandy Park Preschool.
 feed_content_checksum: 989954b8799f66dda1cbe7520b73e7d07c5d5adb
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - Normandy Park

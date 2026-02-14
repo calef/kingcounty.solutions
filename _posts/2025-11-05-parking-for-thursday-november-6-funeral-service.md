@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-11-05T23:56:30+00:00'
+event_ids: []
 feed_content: |-
   For those of you attending the 10am Funeral Service tomorrow for Tribal Elder Arlene Ventura, here is a parking map from the Casino:
 
   [![](https://snoqualmietribe.us/wp-content/uploads/2025/11/Small-Map-to-Service.png)](https://snoqualmietribe.us/wp-content/uploads/2025/11/Small-Map-to-Service.png)
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-26T20:13:14+00:00'
+event_ids: []
 feed_content: |-
   <p data-olk-copy-source="MessageBody"><a href="https://snoqualmietribe.us/wp-content/uploads/2025/11/Centennial-Accord-scaled.jpeg"><img decoding="async" class="alignnone wp-image-6842 size-medium" src="https://snoqualmietribe.us/wp-content/uploads/2025/11/Centennial-Accord-525x700.jpeg" alt="" width="525" height="700" /></a></p>
   <p data-olk-copy-source="MessageBody">Chairman Robert de los Angeles, Vice Chairman Jim Sweet, Treasurer Joshua Gabel, and Councilmembers Jolene Williams, Richard Sikkenga Jr., and Steve De Los Angeles represented the Snoqualmie Indian Tribe at a recent session where Governor Bob Ferguson signed <a href="https://governor.wa.gov/sites/default/files/exe_order/25-10%20-%20Tribal%20Relations%20%28tmp%29_1.pdf">Executive Order 25-10</a>. This new order strengthens Washington State’s commitment to working directly and respectfully with sovereign Tribal Nations and sets higher expectations for how state agencies build and maintain those relationships. The points summarized here are just a few highlights and do not represent the entirety of the Order&#8217;s content.</p>
@@ -12,6 +14,7 @@ feed_content: |-
   <p>Executive Order 25-10 marks an important step toward more respectful partnerships between the State of Washington and Tribal Nations. For the Snoqualmie Indian Tribe, these commitments affirm that any state decisions affecting our people, lands, culture, and resources must include us from the beginning rather than after plans are already in motion.</p>
   <p>The Tribal Council will continue monitoring the rollout of these changes and will keep members informed as statewide guidelines, trainings, and reporting systems take shape.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

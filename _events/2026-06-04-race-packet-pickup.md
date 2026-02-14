@@ -1,9 +1,11 @@
 ---
+classified: true
 end_date: '2026-06-05T23:59:59-07:00'
 feed_content: Participants can pick up their race packets on June 4 and 5.
 feed_content_checksum: 2f6f8e377469f2d30328a7a7e2255125e2bed66f
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

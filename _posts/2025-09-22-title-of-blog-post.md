@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-09-22T20:58:16+00:00'
+event_ids: []
 feed_content: |-
   Title of Blog Post Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Back to Blog Articles [...]
 
   [Read More... from Title of Blog Post](https://iacswa.org/blog-template/)
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Indian American Community Services
 published: false

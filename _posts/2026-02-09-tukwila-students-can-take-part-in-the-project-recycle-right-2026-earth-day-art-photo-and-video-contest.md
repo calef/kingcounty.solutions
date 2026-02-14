@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-09T20:18:06+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>Attention, Tukwila Students!</strong></p>
   <p>Recology and the City of Tukwila are announcing their third Project Recycle Right: 2026 Earth Day Art, Photo &amp; Video Contest. For more information and application instructions, please visit the application link at <strong><a>tinyurl.com/2026-Art</a></strong>.</p>
@@ -20,6 +22,7 @@ feed_content: |-
   <p>The post <a>Tukwila students can take part in the Project Recycle Right: 2026 Earth Day Art, Photo, &amp; Video Contest</a> appeared first on <a>City of Tukwila</a>.</p>
 feed_content_checksum: b4d80018f784cd550b8d804b7b381d68f985ba89
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Tukwila

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-04T21:40:31+00:00'
+event_ids: []
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">How
   to report graffiti on non-city property</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/arich\"
@@ -51,6 +53,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-07-01T12:00:00Z\"
   class=\"datetime\">July 1 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Bellevue
 published: false

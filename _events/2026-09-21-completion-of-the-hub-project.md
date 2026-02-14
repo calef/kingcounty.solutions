@@ -1,9 +1,11 @@
 ---
+classified: true
 feed_content: Anticipated completion of the HUB ambulatory clinic expansion, enhancing
   healthcare access in the community.
 feed_content_checksum: 3d283ffaeb2b0f2277db590ba618cecb496fc15e
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Snoqualmie Valley Health, Snoqualmie Valley
 location_titles:
 - Snoqualmie Valley

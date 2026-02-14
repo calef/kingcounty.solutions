@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T00:00:00-08:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Puerto Rico
   Information Seminar</h1> <div> <div><span>February 24</span></div> </div> <div>
@@ -11,6 +12,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Puerto R
   </div>"
 feed_content_checksum: df0f0a3ee422f4616e835aea1f587aeb7a9e4ec5
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-20T09:20:00-07:00'
 feed_content: <meta><meta><meta><meta><meta><link><link><link><link><link><meta><meta><meta><title>Join
   conversation</title><script>window.I18NBUNDLE={hdr_launch_title:"Join conversation",hdr_launch_title_meeting:"Join
@@ -161,6 +162,7 @@ feed_content: <meta><meta><meta><meta><meta><link><link><link><link><link><meta>
   window&&"assign"in Object&&"Set"in window,scriptErrorLogs=[];"globalThis"in window||(window.globalThis=window),isModernBrowser||(window.location.href="https://www.microsoft.com/en-us/microsoft-teams/download-app"),window.addEventListener("error",(function(o,r,i,n,s){scriptErrorLogs.push({message:o,source:r,line:i,col:n,error:s})}))</script><script></script>
 feed_content_checksum: a91cfd7d0f50ef504927aa1e80ac4696b01aa635
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: University of Washington
@@ -171,3 +173,4 @@ summarized: true
 title: Morning mindfulness practice (20 mins)
 topic_titles: []
 ---
+

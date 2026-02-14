@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-03T15:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>New research study uncovers gene for heart muscle disease</h2>
 
@@ -44,6 +46,7 @@ feed_content: |-
   <p>Visit <a>MVP</a> to read the latest research, access your MVP Participant Dashboard, or join MVP today. Questions? Call us at 866-441-6075.  </p>
 feed_content_checksum: bce2530c2f8f232b8e8e7d015c13c739869fa8cd
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

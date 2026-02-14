@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-09T20:04:58+00:00'
+event_ids: []
 feed_content: For four months, stretching back into last summer, thieves have repeatedly
   targeted a Ballard construction site. The most recent heist, on New Years Eve, resulted
   in the theft of nearly a dozen power cables. The thefts began at the seven-story
   apartmen...
 feed_content_checksum: aa728ada59b447496b5dfd0d3f539524ce39cb9a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

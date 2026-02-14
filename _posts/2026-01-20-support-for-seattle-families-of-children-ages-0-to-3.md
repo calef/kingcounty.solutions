@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-20T20:08:24+00:00'
 event_ids: []
 events_extracted: true
@@ -43,6 +44,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   on <a>UW IHDD</a>.</p>"
 feed_content_checksum: '0559cd09f1fbd326051a492f9b3c0635e2d76860'
 image_checksums: []
+images_extracted: true
 location_titles:
 - Seattle
 organization_title: Institute on Human Development and Disability

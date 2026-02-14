@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-21T15:00:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
   </span> <a> <span> Green Tukwila Work Party </span> </a> </div> <h1>Green Tukwila
@@ -39,6 +40,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   </div> </div> </div> </section>"
 feed_content_checksum: a80723a803d9d476dd52495cdc99a44fd79e529b
 image_checksums: []
+images_extracted: true
 location: Multiple locations, Tukwila
 location_titles:
 - King County

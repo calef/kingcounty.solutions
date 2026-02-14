@@ -1,7 +1,9 @@
 ---
+classified: true
 feed_content: An event featuring dinner and a dessert auction, vital for fundraising.
 feed_content_checksum: 2b527472187060726690b8d8d4f1697c82b072ac
 generated_from_post: true
+image_checksums: []
 location: Sno-Valley Senior Center
 location_titles:
 - Snoqualmie Valley

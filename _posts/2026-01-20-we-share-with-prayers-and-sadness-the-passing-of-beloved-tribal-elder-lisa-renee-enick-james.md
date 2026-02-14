@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-20T17:13:06+00:00'
+event_ids: []
 feed_content: |-
   <p><span>We share with prayers and sadness </span><span>the passing of a beloved Tribal Elder </span></p>
   <h1> <span>Lisa Renee Enick James</span>
@@ -19,6 +21,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: f398fa78352cb704a9aa1be9f08bb90a372ef24f
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Snoqualmie Indian Tribe

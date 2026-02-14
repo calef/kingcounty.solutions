@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-10T19:33:26+00:00'
+event_ids: []
 feed_content: "<p>This year, the UW News social media team shared stories from the
   University of Washington community with reporters, news outlets and our social media
   followers. We also promoted special events happening around campus. Here are some
@@ -87,6 +89,7 @@ feed_content: "<p>This year, the UW News social media team shared stories from t
   <a>2025-12-01T22:13:12.11209095Z</a></p>\n</blockquote>\n<p><script></script></p>\n<p><a></a><a></a><a></a><a></a><a></a><a></a></p>"
 feed_content_checksum: 0757ed9a286befbd857be4a40b293c5cf417ec59
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: University of Washington
 published: false

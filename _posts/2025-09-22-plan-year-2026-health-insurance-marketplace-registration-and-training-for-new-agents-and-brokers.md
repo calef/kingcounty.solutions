@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-22T09:19:06-04:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: "<p>artifact_description: Webinar Slides</p><p>date: Mon, 22 Sep 2
   05:20:13 -0400</p><p>title: Plan Year 2026 Health Insurance Marketplace Registration
   and Training for New Agents and Brokers</p><p>topic: Registration and Training</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Centers for Medicare & Medicaid Services

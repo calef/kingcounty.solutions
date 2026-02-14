@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-21T21:42:22+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/01/Screenshot-2026-01-21-133816.jpg"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>A Photographic Journey Across Cultures and Landscapes</p>
 feed_content_checksum: 90b986225a5228568cc5ec4c8fe6fafe5f387830
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

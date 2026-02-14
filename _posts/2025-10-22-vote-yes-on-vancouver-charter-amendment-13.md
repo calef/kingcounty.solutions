@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-22T00:30:00+00:00'
+event_ids: []
 feed_content: "<div class=\"et_pb_section et_pb_section_6 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_row et_pb_row_12\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
   et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -81,6 +83,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_6 et_section_regular\" >
   Hall, create a more representative city council, hold politicians accountable, and
   ensure all communities have a seat at the table.</span></p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Inatai Foundation
 published: false

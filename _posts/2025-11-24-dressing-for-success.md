@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-24T16:32:50+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>4 minute read Siziba Celani remembers this experience, growing up in Umzingwane District in rural Zimbabwe. &ldquo;I joined secondary school seven weeks late because I didn&rsquo;t have a uniform,&rdquo; says Siziba. &ldquo;I saw having a uniform as a luxury, but now I think it&rsquo;s just because we had no money. I was donated a blouse and a skirt, but no socks. &ldquo;Yes, I was intelligent. I was always the best in the&#8230;</p>
   <p><a href="https://camfed.org/dressing-for-success/" rel="nofollow">Source</a></p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: CAMFED - Campaign for Female Education
 published: false

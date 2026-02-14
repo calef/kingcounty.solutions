@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-05T23:53:43+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Councilmember Kettle statement on Seattle’s enforcement of public drug use laws</a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: 41e4290b66ba2aba9e89153df0c597e6ff1ff003
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

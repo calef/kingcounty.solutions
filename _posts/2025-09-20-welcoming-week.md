@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-20T13:10:57+00:00'
 event_ids: []
 events_extracted: true
@@ -19,6 +20,7 @@ feed_content: |-
 
   The post [Welcoming Week](https://togethercenter.org/2025/09/20/welcoming-week/) appeared first on [Together Center](https://togethercenter.org).
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Together Center

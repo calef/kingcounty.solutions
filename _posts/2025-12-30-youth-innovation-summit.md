@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-30T18:13:25+00:00'
 event_ids: []
 events_extracted: true
@@ -18,6 +19,7 @@ feed_content: |-
   <p>The post <a>Youth Innovation Summit</a> appeared first on <a>Boys &amp; Girls Clubs</a>.</p>
 feed_content_checksum: 3292faec61be435a5f5903f94de72cdabe3226c7
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Boys & Girls Clubs of King County

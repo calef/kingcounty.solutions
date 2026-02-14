@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-23T23:16:08+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: |-
   <p>Verdant’s generous contribution does more than help us rebuild—it demonstrates a shared priority of healing, connection, and hope in our community. This commitment to behavioral healthcare demonstrates the profound impact of collaboration and shared purpose in community wellbeing.</p>
   <p>On behalf of our staff, clients, and board of directors, we extend our heartfelt thanks to Verdant Health Commission for standing with us in this rebuilding journey. Your support ensures that the families we serve continue to have access to the compassionate care they deserve.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Center for Human Services
 published: false

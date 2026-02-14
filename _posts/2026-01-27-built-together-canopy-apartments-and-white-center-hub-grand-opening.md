@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-27T16:53:54+00:00'
 event_ids: []
 events_extracted: true
@@ -18,6 +19,7 @@ feed_content: |-
   <p>The post <a>Built together: Canopy Apartments and White Center HUB grand opening</a> appeared first on <a>Community Roots Housing</a>.</p>
 feed_content_checksum: b0ef4b7834a694e160b296fe12169f431f29aa07
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Community Roots Housing

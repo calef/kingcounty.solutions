@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-23T18:10:51+00:00'
+event_ids: []
 feed_content: The Seattle Department of Neighborhoods’ (DON) P-Patch Community Gardening
   Program will raise plot fees for the *2025-2026 biennium. Seattle Municipal Code
   Section 3.35.060 authorizes the Director of the Department of Neighborhoods to adjust
   base P-Pat...
 feed_content_checksum: 07d237b84f5d1d822f43140d3f106204b6567a68
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

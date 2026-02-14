@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-22T06:00:27+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>What is your role at Aging Wisdom? Creative Engagement Specialist What made you want to work in the field of aging? I was inspired to work with older adults following my family’s experience caring for my parents as they faced health issues in their later years. I completed the UW Certificate in Gerontology program and [&#8230;]</p>
   <p>The post <a href="https://agingwisdom.com/staff-spotlight-molly-ebel/">Staff Spotlight: Molly Ebel</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Aging Wisdom

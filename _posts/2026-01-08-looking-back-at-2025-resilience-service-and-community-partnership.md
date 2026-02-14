@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-08T15:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p>By Steven Schauer, Deputy Executive Director</p>
 
@@ -451,6 +453,7 @@ feed_content: |-
   <p>The KCFCD looks ahead to 2026 with a continued commitment to protecting communities, restoring ecosystems, and building a future that can withstand the increasing challenges posed by flooding.</p><p>The post <a>Looking Back at 2025: Resilience, Service, and Community Partnership</a> appeared first on <a>King County Flood Control District</a>.</p>
 feed_content_checksum: 633e070774d02825483e96f3de5e3da59860830d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Flood Control District

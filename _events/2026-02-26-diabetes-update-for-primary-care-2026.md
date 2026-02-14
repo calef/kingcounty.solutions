@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-27T17:00:00-08:00'
 feed_content: '<div> <div> <div> <div> <div> <div> <div> {1} </div> <div> <a> <span>
   <span>##LOC[OK]##</span> </span> </a> </div> </div> </div> <div> <div> <div> {1}
@@ -262,6 +263,7 @@ feed_content: '<div> <div> <div> <div> <div> <div> <div> {1} </div> <div> <a> <s
   </tbody></table></div> </div> </div> </div> </div> </div> </div> </div>'
 feed_content_checksum: 3a3d3cfc77f98a9c134be092262d5a913f1486f5
 image_checksums: []
+images_extracted: true
 location: UW Tower Building O (UWTO)
 location_titles:
 - King County

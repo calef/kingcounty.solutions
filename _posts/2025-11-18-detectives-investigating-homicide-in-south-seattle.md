@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-11-18T08:43:57+00:00'
+event_ids: []
 feed_content: Seattle police detectives are investigating a homicide in South Seattle
   this evening. At about 10:00 p.m., patrol officers responded to a shooting inside
   of an apartment building in the 3600 block of 33rd Avenue South. There officers
   found a man in his...
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

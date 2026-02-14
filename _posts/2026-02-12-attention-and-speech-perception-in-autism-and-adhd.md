@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-12T23:37:40+00:00'
 event_ids:
 - _events/2026-02-19-seminar-on-attention-and-speech-perception-in-autism-and-adhd.md
@@ -92,6 +93,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   <a>UW IHDD</a>.</p>"
 feed_content_checksum: 9b92b564bfe1b867c622a364748fedeb7509f0f8
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

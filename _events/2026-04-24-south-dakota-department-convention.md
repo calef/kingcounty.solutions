@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-26T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>South Dakota
   Department Convention</h1> <div> <div> <span>April 24</span> - <span>April 25</span>
@@ -11,6 +12,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>South Da
   </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 64344225a9503483957f6b2029495350fdc1e5f9
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

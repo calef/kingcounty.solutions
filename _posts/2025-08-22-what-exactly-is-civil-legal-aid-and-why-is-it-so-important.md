@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-22T05:55:00+00:00'
 event_ids: []
 events_extracted: true
@@ -27,6 +28,7 @@ feed_content: |-
 
   The post [What exactly is civil legal aid and why is it so important?](https://elap.org/what-exactly-is-civil-legal-aid-and-why-is-it-so-important/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-04T20:06:33+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>How to help Seattle families impacted by SNAP cuts</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: fce162f499d236a76d30f17c1877f05c700ee560
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Northwest Harvest

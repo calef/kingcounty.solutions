@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-15T18:53:07+00:00'
+event_ids: []
 feed_content: |-
   <p>By Steven Schauer, Deputy Executive Director</p>
 
@@ -235,6 +237,7 @@ feed_content: |-
   <p>The KCFCD remains steadfast in its commitment to continue implementing flood risk reduction projects and programs across the county, working with communities, partner agencies, and residents to help reduce risk, improve resilience, and ensure that King County is better prepared for future flood events.</p><p>The post <a>Why the King County Flood Control District Exists: Understanding Our Role After Historic Flooding</a> appeared first on <a>King County Flood Control District</a>.</p>
 feed_content_checksum: a9d03123b6ecd19d3b4284648a937d2298308635
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Flood Control District

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-28T21:49:16+00:00'
 event_ids: []
 events_extracted: true
@@ -58,6 +59,7 @@ feed_content: |-
   <p><a href="https://www.tiktok.com/t/ZP8AWf5GV/">https://www.tiktok.com/t/ZP8AWf5GV/</a></p>
   <p>The post <a href="https://www.elcentrodelaraza.org/did-you-know-october-2025/">DID YOU KNOW? OCTOBER 2025</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: El Centro de la Raza

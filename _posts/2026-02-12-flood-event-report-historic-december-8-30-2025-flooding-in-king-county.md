@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-12T21:22:02+00:00'
+event_ids: []
 feed_content: |-
   <p>By Steven Schauer, Deputy Executive Director</p>
 
@@ -47,6 +49,7 @@ feed_content: |-
   </div><p>The post <a>Flood Event Report: Historic December 8 – 30, 2025 Flooding in King County</a> appeared first on <a>King County Flood Control District</a>.</p>
 feed_content_checksum: 9ac06a5cd28f3061960f352daa1fd785ec9776c3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Flood Control District

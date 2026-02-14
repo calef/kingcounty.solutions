@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-17T21:13:03+00:00'
 event_ids: []
 events_extracted: true
@@ -63,6 +64,7 @@ feed_content: |-
   <p>The post <a href="https://www.brightspark.org/2025/10/double-your-impact-through-workplace-giving/">Double Your Impact Through Workplace Giving!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
 image_checksums:
 - b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
+images_extracted: true
 location_titles:
 - King County
 organization_title: BrightSpark

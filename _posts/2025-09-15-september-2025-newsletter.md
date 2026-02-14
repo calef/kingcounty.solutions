@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-15T18:01:00+00:00'
+event_ids: []
 feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
@@ -23,6 +25,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   is  <a href=\"https://carepointclinic.dm.networkforgood.com/emails/4190700?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t\"
   target=\"_blank\">HERE!</a></p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: CarePoint Clinic
 published: false

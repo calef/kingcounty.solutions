@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-24T21:57:24+00:00'
+event_ids: []
 feed_content: |-
   <p>Washington’s pioneering growth-management tools, financial incentives, and regulatory requirements are offering lessons for other states aiming to spur local climate action.</p>
 
@@ -36,6 +38,7 @@ feed_content: |-
 
   <p>Commerce concluded its HB 1181 rulemaking this fall and will publish updated climate planning guidance in December. Learn more on our <a href="https://www.commerce.wa.gov/growth-management/climate-planning/climate-planning-guidance/">climate planning guidance webpage</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

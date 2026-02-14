@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-16T00:21:26+00:00'
 event_ids: []
 events_extracted: true
@@ -45,6 +46,7 @@ feed_content: |-
   <p>The post <a>Community Dining:  Enumclaw Senior Activity Center – Volunteer Food Service help needed!</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: 522d4c908059d43e6a1575c21d75357f9251e940
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

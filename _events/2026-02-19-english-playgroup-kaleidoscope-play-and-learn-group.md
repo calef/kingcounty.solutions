@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-19T11:30:00-08:00'
 feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wallingford
   Food Bank has moved to a temporary location. Learn more →</p> </div> </div> </div>
@@ -51,6 +52,7 @@ feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wall
   </script> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.familyworksseattle.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
 feed_content_checksum: 6c49e22edc8a694cc1f8bc34a0ff8f524e36441c
+image_checksums: []
 location: Family Resource Center, 1005 NE 67th St, Seattle, WA, 98115, United States
 location_titles:
 - King County

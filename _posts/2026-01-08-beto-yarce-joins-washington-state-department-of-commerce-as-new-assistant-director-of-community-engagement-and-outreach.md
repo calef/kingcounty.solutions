@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-08T22:00:24+00:00'
 event_ids: []
 events_extracted: true
@@ -62,6 +63,7 @@ feed_content: |-
   <p>“This leadership transition underscores Commerce’s continued commitment to equity, partnership, and community-driven economic development across Washington,” Lutomski said. “Cheryl’s service has laid an incredible foundation for Commerce’s future.”</p>
 feed_content_checksum: 348cb56754b218db5688d6b8a51403341b1c45d0
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

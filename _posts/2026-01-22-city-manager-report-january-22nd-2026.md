@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-22T19:13:09+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   On Friday, January 9th, the City Council and staff met for our Annual Retreat to start shaping the City’s goals for 2026. This is our chance each year to step back, look at what’s working, and decide what we want to focus on in the year ahead. We’re continuing progress on several 2025 goals and adding a few new priorities based on what will best serve our community. Curious about what your City Council is talking about? Here’s a snapshot of the goals we’re developing:
 feed_content_checksum: 378aee115dd970e9cb465f25d21efdf9f22c3ec5
 image_checksums: []
+images_extracted: true
 location_titles:
 - Normandy Park
 organization_title: City of Normandy Park

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-24T20:47:05+00:00'
+event_ids: []
 feed_content: '<p><img fetchpriority="high" decoding="async" class="alignnone size-full
   wp-image-8117" src="https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002.jpg"
   alt="" width="1700" height="2200" srcset="https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002.jpg
@@ -10,6 +12,7 @@ feed_content: '<p><img fetchpriority="high" decoding="async" class="alignnone si
   1187w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002-1583x2048.jpg
   1583w" sizes="(max-width: 1700px) 100vw, 1700px" /></p>'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

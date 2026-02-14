@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-10T00:22:10+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Action Alert: Sign in pro for House Bill 2238 (Statewide Food Security)</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: ddae4e9490306e666fa80b03b0032bacf49e703f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Northwest Harvest

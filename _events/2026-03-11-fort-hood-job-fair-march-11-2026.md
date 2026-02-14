@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-12T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Hood Job
   Fair, March 11, 2026</h1> <div> <div><span>March 11, 2026</span></div> </div> <div>
@@ -9,6 +10,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Hoo
   </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: ec7c161b4df1e9917d3a8b777187d64e6e2eb419
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

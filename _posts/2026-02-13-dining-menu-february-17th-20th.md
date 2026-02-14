@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-13T23:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>Monday ~</strong> Happy Presidents’ Day – Ballard Senior Center is closed.</p>
 
@@ -33,6 +35,7 @@ feed_content: |-
   <p>The post <a>Dining Menu February 17th – 20th</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: 2f0967d2d84fd8e4b3fb6593e9abd43f0dc62889
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 original_source_html: |-

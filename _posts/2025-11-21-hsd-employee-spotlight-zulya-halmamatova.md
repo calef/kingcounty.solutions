@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-21T17:22:11+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Zulhumor (Zulya) Halmamatova serves as a Senior Grants &#038; Cont
   about how teamwork and the mission of keeping people housed and supported motivate
   her every day....
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-27T21:03:16+00:00'
+event_ids: []
 feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2026/01/Powerlines-Featured-Images-19-150x150.png">On January 26,
   2026, the City of Seattle (City) filed an Initial Study Report (ISR) with the Federal
   Energy Regulatory Commission (FERC). This is a required step in relicensing the South
@@ -10,6 +12,7 @@ feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/
   Participants (LPs). The ISR describes the progress in implementing […]
 feed_content_checksum: f20cf2e1956582b4d65b0f0458c59b7c8ff2a18a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

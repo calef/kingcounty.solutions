@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-18T00:03:17+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Recovering from this month’s flooding may be overwhelming and st
   to learn more.
 feed_content_checksum: 2f51448ca90ab65a3f3bc6ce2ceac2e214316424
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

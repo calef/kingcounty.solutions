@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-21T18:23:00+00:00'
 event_ids: []
 events_extracted: true
@@ -29,6 +30,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   target=\"_blank\">RESERVE YOUR TICKET HERE!</a></p>"
 image_checksums:
 - ba1e40fd96f6b1348fa1985f21d659d6e293a0a65f23780425faa25a378d76df
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: CarePoint Clinic

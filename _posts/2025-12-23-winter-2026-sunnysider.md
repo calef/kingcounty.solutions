@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-23T21:45:05+00:00'
+event_ids: []
 feed_content: |-
   <div>
   <object></object><a>Winter 2026 Sunnysider</a><a>Download</a>
   </div>
 feed_content_checksum: 5776691dbb65cf5e5943d70f083a372f95b9c0fc
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

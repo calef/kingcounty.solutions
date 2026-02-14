@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-02T19:30:00-08:00'
 feed_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>The Campus
   Band (Solomon Encina, conductor) and Concert Band (Yuman Wu, conductor) present
@@ -6,6 +7,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>Th
   Percy Grainger, Johan de Meij, Frank Ticheli, Aaron Perrine, and others.</p> <h3>Director
   Biographies</h3> </div> </div>
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

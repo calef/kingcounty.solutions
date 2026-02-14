@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-13T16:30:00+00:00'
+event_ids: []
 feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/uploads/Hellfighters_article_Image3.jpg\">Even
   the blaring sounds of a 100-piece jazz band turned to whispers in the throngs of
   cheering Americans who lined New York City’s Fifth Avenue on Feb. 17, 1919.</p>\n<p>It
@@ -121,6 +123,7 @@ feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/u
   War I regiment, battle was on two fronts</a> appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: 37c2f9ba5afb9401d5689cb74ae9df2de308fc8d
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Disabled American Veterans
 original_source_html: "\n\n\n<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta

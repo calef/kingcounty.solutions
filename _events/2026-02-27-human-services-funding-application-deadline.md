@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Deadline for submitting applications for funding to convene education
   and human services providers.
 feed_content_checksum: dae342d594189f4c0d0eb1760325ef9f99203075
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

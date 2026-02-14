@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-19T06:00:26+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>What is your role at Aging Wisdom?  Creative Engagement Specialist What made you want to work in the field of aging? I appreciate the accumulated wisdom and insights of older people, and I have always gravitated toward older adults, even when I was a kid. Growing up, my dad used to always point out how [&#8230;]</p>
   <p>The post <a href="https://agingwisdom.com/staff-spotlight-veronica-dorazio/">Staff Spotlight: Veronica D&#8217;Orazio</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Aging Wisdom

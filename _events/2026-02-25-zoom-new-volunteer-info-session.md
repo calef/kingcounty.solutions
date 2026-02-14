@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T19:00:00-08:00'
 feed_content: "<a>Skip to content</a> <header> <div> <div> <div> <div> <div> <div>
   <a> <span> <span>Donate</span> </span> </a> </div> </div> </div> </div> <div> <div>
@@ -27,6 +28,7 @@ feed_content: "<a>Skip to content</a> <header> <div> <div> <div> <div> <div> <di
   </ul> </div> </div> </div> </div> </section>"
 feed_content_checksum: a72e53bfdbac651875b9522004f4adbffb267794
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

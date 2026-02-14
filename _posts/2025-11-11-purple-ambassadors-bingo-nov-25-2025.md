@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-11T18:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: |-
   <p>The Purple Ambassadors, a youth program within the Alzheimer’s Association, is working on increasing youth engagement with the senior community! Join these university students for a fun game of Thanksgiving-themed bingo while winning prizes and learning about the students!</p>
 image_checksums:
 - d4661b20f31e47790a47533fdc6d61bd95dc4bbb154d8d2fb9440494eca725f5
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

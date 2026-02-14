@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-12T23:42:53+00:00'
+event_ids: []
 feed_content: |-
   <p><span>In an effort to ensure safety, Tribal Staff will do remote work December 15 &amp; 16, 2025 and return to in office work December 17, 2025. During this time, Operations and Facilities will complete necessary building and infrastructure assessments for any weather-related damage.</span></p>
   <p><span>Please check in with your direct supervisor to confirm your remote work assignments and ensure continuity of operations.</span></p>
   <p><span>Your safety is paramount, please avoid any non-essential travel in affected areas and follow local emergency recommendations. We appreciate your flexibility and commitment as we navigate these weather-related challenges together in this state of emergency.</span></p>
 feed_content_checksum: 771486ff2966ddbe6caac5e649ecad4eee932fc3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

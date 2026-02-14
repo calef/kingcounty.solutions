@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-09T23:28:19+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: At MSC, our role is to provide critical services and safety-net pr
   In times  [...]
 feed_content_checksum: 3da103b0f41f2d192bff8378a60a53815d26e10c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Multi-Service Center

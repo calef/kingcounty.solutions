@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-21T20:23:37+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: After 31 years at the Human Services Department, Mary Flowers ret
   about her e...
 feed_content_checksum: ad9c5045d62711f606ab3950cb2026d3351d7844
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

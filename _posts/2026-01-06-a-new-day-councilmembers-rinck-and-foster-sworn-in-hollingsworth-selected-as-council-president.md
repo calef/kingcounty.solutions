@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T23:19:08+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>A new day: Councilmembers Rinck and Foster sworn in, Hollingsworth selected as council president </a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: 604072c9c2011562347fa1e2ec358e4d8639f7b2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

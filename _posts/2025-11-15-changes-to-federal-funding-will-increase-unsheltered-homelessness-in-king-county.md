@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-15T00:56:14+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: |-
   <p>Thursday afternoon the U. S. Department of Housing and Urban Development (HUD) issued the FY2025 Notice of Funding Opportunity (NOFO) for homelessness Continuums of Care [&#8230;]</p>
   <p>The post <a href="https://kcrha.org/news-changes-to-federal-funding-will-increase-unsheltered-homelessness-in-king-county/">Changes to Federal Funding will Increase Unsheltered Homelessness in King County</a> appeared first on <a href="https://kcrha.org">KCRHA</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

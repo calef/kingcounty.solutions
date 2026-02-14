@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-09T23:56:01+00:00'
 event_ids: []
 events_extracted: true
@@ -51,6 +52,7 @@ feed_content: |-
   <p>The post <a href="https://youthcare.org/blog/together-we-rise/">Together We Rise</a> appeared first on <a href="https://youthcare.org">YouthCare</a>.</p>
 image_checksums:
 - 84a209de96a1eeef9202aed66d9f94c173d33930526ca07c8230cc1de4c25fdc
+images_extracted: true
 location_titles:
 - King County
 organization_title: YouthCare

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-03T21:30:49+00:00'
 event_ids: []
 events_extracted: true
@@ -32,6 +33,7 @@ feed_content: |-
   <div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 10. October 2025 (2)."></object><a id="wp-block-file--media-1be1bfee-ab03-4720-9da6-4fdb32c66dc6" href="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf">10. October 2025 (2)</a><a href="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-1be1bfee-ab03-4720-9da6-4fdb32c66dc6">Download</a></div>
 image_checksums:
 - dbf6eb1c6e20a4db839dfd9be3a5447df7d81f5afc0527d4fda6cbe658f5e104
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospitality House

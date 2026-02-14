@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-30T21:38:29+00:00'
 event_ids: []
 events_extracted: true
@@ -14,6 +15,7 @@ feed_content: |-
   <p>The post <a>Sunshine Garden Activity Schedule – January</a> appeared first on <a>Chinese Information and Service Center</a>.</p>
 feed_content_checksum: 547e2cc84b4af5c899b336c5a99aa1c5c51ef4ad
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Chinese Information & Service Center

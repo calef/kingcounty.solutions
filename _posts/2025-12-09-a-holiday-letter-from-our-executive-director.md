@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-09T22:01:43+00:00'
 event_ids: []
 events_extracted: true
@@ -63,6 +64,7 @@ image_checksums:
 - 58a7228c5fc0c85bbb11e0439b3ad3386f024e899c3df225434ce4811db373d4
 - 4e1463625d66e251a621a5bffdfda0578a98bbaa809e865513fa428a87434d5f
 - b2cfd1d010b89360f11cafdfda45d318e1e6ab255330bbea180f2a49d29d0928
+images_extracted: true
 location_titles:
 - King County
 organization_title: Angel Flight West

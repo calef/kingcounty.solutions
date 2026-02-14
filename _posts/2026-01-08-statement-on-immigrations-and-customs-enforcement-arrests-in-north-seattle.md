@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-08T19:13:25+00:00'
+event_ids: []
 feed_content: On Jan. 7, the Seattle Police Department received a call from a concerned
   community member reporting that three unidentified men were approached and arrested
   by ICE agents. Officers responded to the community call about a possible armed abduction
   in No...
 feed_content_checksum: 339e31eed4ec605fbebeaeb17d42481096a3e770
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

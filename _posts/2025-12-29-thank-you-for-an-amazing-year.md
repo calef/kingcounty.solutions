@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-29T21:06:00+00:00'
 event_ids: []
 events_extracted: true
@@ -21,6 +22,7 @@ feed_content: "<p>Dear friends,</p><p>As 2025 draws to a close, I am filled with
   \           \n          \n        \n          \n        \n\n        \n      \n        </figure>"
 feed_content_checksum: 5f64af195cb7b72983667a8958c8bc20db764aad
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Essentials First

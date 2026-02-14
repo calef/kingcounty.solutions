@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-21T00:16:51+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>January 18, 2026 — The Rev Canon Britt Olson</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: ca792f7cf4e4ea3f9d179a9082d520db7bbec523
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

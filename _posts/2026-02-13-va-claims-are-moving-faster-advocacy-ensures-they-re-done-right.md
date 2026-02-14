@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-13T17:30:42+00:00'
 event_ids: []
 events_extracted: true
@@ -41,6 +42,7 @@ feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/u
   faster—advocacy ensures they’re done right</a> appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: 07fa52eb406afceab3794185d1a4ffd56c8d4308
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

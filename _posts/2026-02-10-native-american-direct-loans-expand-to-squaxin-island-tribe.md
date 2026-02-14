@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-10T14:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>VA Native American Direct Loan staff Casandra Kelting and Justin Stephenson recently traveled to the southernmost inlets of the Salish Sea in Washington to meet with seven bands of the Squaxin Island Tribe who, after signing an MOU, will now have access to the low-interest <a>Native American Direct Loan Program</a> (<a>NADL</a>) to buy, build or renovate a home on the federal trust lands of the tribe, thus making homeownership more affordable.</p>
 
@@ -32,6 +34,7 @@ feed_content: |-
   <p>In addition to a NADL, Native American Veterans can also apply for a <a>VA-guaranteed home loan</a> for use on fee-simple properties (full and complete ownership of land outside federal trust lands). Those in the Native American community can learn more about the NADL program by visiting the <a>NADL website</a> or attending an informational session. Also, VA recently created a video to serve as a guide for tribes to understand the MOU process. The video can be accessed on the VA <a>Loan Guaranty Training Website</a> under ‘Available Training – Native American Direct Loans.’ VA is committed to working with tribal communities throughout the country to expand the NADL program.</p>
 feed_content_checksum: 12663a987da16797b3eba74890185832fd50d86a
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

@@ -1,9 +1,12 @@
 ---
+classified: true
 date: '2026-01-22T19:32:00+00:00'
+event_ids: []
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/measles.jpg">Information
   about the measles outbreak and vaccine resources.
 feed_content_checksum: 39c84a41aa9d37193c5f49c1e931d2c52eb6c518
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Auburn

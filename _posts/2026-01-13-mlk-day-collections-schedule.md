@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-13T23:06:35+00:00'
+event_ids: []
 feed_content: Due to the recognition of Martin Luther King Jr Day, some customers
   in Seattle will be on a one-day delayed collection schedule. The delayed collections
   are due to a Recology and Teamster’s labor agreement that recognizes MLK Day as
@@ -8,6 +10,7 @@ feed_content: Due to the recognition of Martin Luther King Jr Day, some cust
   the future. Transfer […]
 feed_content_checksum: 46e1bbe0f621e015e40e3c5755666eb57e029598
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Seattle Public Utilities

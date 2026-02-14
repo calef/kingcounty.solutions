@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-04T21:53:29+00:00'
+event_ids: []
 feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/04/iStock-1338921291-150x150.jpg"
   class="webfeedsFeaturedVisual wp-post-image" alt="A light bulb, a pen, a calculator
   and some copper euro cent coins lie on top of an electricity bill." style="display:
@@ -12,6 +14,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   approved average rate increase of 5.4% start appearing on your bill. Residential
   customers can anticipate an increase of around $4 per month; those enrolled in [&#8230;]'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City Light Bill Assistance Programs
 published: false

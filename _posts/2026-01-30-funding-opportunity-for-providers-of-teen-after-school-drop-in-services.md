@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-30T04:01:46+00:00'
 event_ids:
 - _events/2026-02-27-application-deadline-for-after-school-drop-in-services-funding.md
@@ -28,6 +29,7 @@ feed_content: "<span>Funding opportunity for providers of teen after-school drop
   \           <div>\n<time>January 29 2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: 84487bbe6bc895390d53041870742b2efe8b87d0
 image_checksums: []
+images_extracted: true
 location_titles:
 - Bellevue
 organization_title: City of Bellevue

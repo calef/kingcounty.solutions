@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-27T21:00:00-07:00'
 feed_content: "<section> <div> <p> <a> « All Events</a> </p> <h1>Take a Chance for
   Kids</h1> <div> <h2> <span>March 27 @ 6:30 pm</span> - <span>9:00 pm</span> </h2>
@@ -25,6 +26,7 @@ feed_content: "<section> <div> <p> <a> « All Events</a> </p> <h1>Take a Chance 
   <span>United States</span> </span> </address> </li> <li> <span> <a>View Venue Website</a>
   </span> </li> </ul> </div> </div> </div> </div> </section>"
 feed_content_checksum: c78dcd1f0ba9df881ad5942a4063874b80fda70f
+image_checksums: []
 location: Blakely Hall, 2550 NE Park Dr, Issaquah, WA, 98029, United States
 location_titles:
 - King County

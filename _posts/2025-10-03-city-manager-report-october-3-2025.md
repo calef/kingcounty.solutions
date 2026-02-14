@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-03T20:01:41+00:00'
+event_ids: []
 feed_content: Help Shape the Future of Normandy Park’s Roads. Public Hearing on Updated
   Road Design Standards – Tuesday, October 14, 2025. The City of Normandy Park is
   updating its Road Design and Construction Standards. A guidebook that shapes how
@@ -8,6 +10,7 @@ feed_content: Help Shape the Future of Normandy Park’s Roads. Public Hearing o
   renovates a road, the design is safe, consistent, and supports the needs of our
   community.
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Normandy Park
 published: false

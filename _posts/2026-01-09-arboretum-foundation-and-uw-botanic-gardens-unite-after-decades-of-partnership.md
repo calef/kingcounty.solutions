@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-09T18:02:25+00:00'
+event_ids: []
 feed_content: |-
   <div>
   <a><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/01/08141031/20210513_Arboretum_2061-750x500.jpg"></a>
@@ -18,6 +20,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: a0f2d00362f777547a3ab79d5da8c610b4eff2b7
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

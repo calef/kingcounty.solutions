@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-16T19:13:05+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Seattle is recognized for its efforts to close the digital divid
   year.   The National Digital Inclusion Allianc...
 feed_content_checksum: a622ba91dc8d0b4b06e35939ec6b5b3e8cd804ec
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

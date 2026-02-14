@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-10T18:05:25+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: The Federal Way Senior Center Food Bank was proud to join South Ki
   On a crisp […]
 feed_content_checksum: 6b674175c8fd0a985be17d308953f8c6cb121ece
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Federal Way Senior Center

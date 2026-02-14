@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Deadline for submitting applications for the Tukwila City of Opportunity
   Scholarship.
 feed_content_checksum: 59bd333371c05bbfc80177ce95bc847872054998
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - Tukwila

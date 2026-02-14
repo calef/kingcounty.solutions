@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-02-12T18:25:39+00:00'
+event_ids: []
 feed_content: Valentine’s Day is a busy time for Rosa María Cisneros Andrade. As the
   owner of RMC Floral Designs, she’s preparing for lots of orders. “Oh my gosh! I’m
   busy here with lots of red roses, white roses, plant, orchids, balloons, cards,
   chocolates,” she sa...
 feed_content_checksum: 54de665e27daf0e4822401f7d2006ecc8a47f254
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

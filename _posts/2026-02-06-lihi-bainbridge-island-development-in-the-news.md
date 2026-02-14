@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-06T22:56:24+00:00'
+event_ids: []
 feed_content: Concept drawing by Runberg Architecture Group LIHI is working on developing
   affordable workforce housing with the city of Bainbridge Island. News was featured
   in a February 5th Seattle Times Article  ( PDF ). The property at 625 Winslow Way
@@ -9,6 +11,7 @@ feed_content: Concept drawing by Runberg Architecture Group LIHI is working on d
   costs....
 feed_content_checksum: e644cfd88cd0cbce2e8aae1eb2d8f7c0a3be1278
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Low Income Housing Institute
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  \n  <meta charset='utf-8'>\n

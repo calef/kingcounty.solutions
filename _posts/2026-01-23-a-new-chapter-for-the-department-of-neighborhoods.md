@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-23T18:14:20+00:00'
+event_ids: []
 feed_content: 'The start of a new year serves as both a time of reflection and an
   opportunity to set goals and plan for the future. As we look back on the past three
   years at Seattle Department of Neighborhoods (DON), one word rises above all others:
   connection. Our ...'
 feed_content_checksum: 8fef0564c6737ed4cf46a45088543ba1ec201475
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

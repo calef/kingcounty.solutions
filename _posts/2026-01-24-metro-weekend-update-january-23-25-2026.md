@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-24T02:11:16+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: 'Weekend Service Impacts Routes 1, 7, 14, 36, and 106 will have s
   3 p.m. on Saturday,...'
 feed_content_checksum: b9e390d294ac83ab34d225e2d1ac802631e8dbf4
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

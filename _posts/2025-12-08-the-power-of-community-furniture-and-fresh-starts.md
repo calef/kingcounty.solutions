@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-08T18:43:40+00:00'
 event_ids: []
 events_extracted: true
@@ -92,6 +93,7 @@ feed_content_checksum: e4459aa4fd9eb4583af02c8822e8ba7deb0f9108
 image_checksums:
 - 53e786401d0d5a611bf9f1046f74a712ae4cf64e3566a64b68a92fa1fbb85280
 - 293e5241ba196d292e63998ea579bf30fb464dfb6f8c9dea48fb54d6e8bfcfd0
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

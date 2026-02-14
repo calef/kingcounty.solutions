@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-28T19:30:17+00:00'
 event_ids: []
 events_extracted: true
@@ -79,6 +80,7 @@ feed_content: |-
   <p>The post <a href="https://www.brightspark.org/2025/10/the-impact-of-the-seattle-preschool-program-a-providers-perspective/">The Impact of the Seattle Preschool Program: A Provider’s Perspective</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
 image_checksums:
 - 73520e997ab6792a12cca20582b7d604b2734e0c28a9275feaf07de86f84d31e
+images_extracted: true
 location_titles:
 - King County
 organization_title: BrightSpark

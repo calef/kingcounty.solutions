@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-25T21:19:00+00:00'
+event_ids: []
 feed_content: Seattle Parks and Recreation is excited to announce three fantastic
   funding opportunities for 2026. These grants are designed to support community-led
   recreational activities throughout the city. If you have an idea to get people active,
   engaged, and c...
 feed_content_checksum: 8075cf919d3240891e4072a103d998848ba0b729
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

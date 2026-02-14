@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-24T22:41:57+00:00'
+event_ids: []
 feed_content: 'Improving Cell Service in Normandy Park: City Council and Planning
   Commission to Review the Relevant Code. On Tuesday, October 28th at 7:00 p.m., the
   Normandy Park City Council and Planning Commission will hold a joint study session
@@ -14,6 +16,7 @@ feed_content: 'Improving Cell Service in Normandy Park: City Council and Plannin
   providers to install additional infrastructure that can overcome these physical
   barriers.'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Normandy Park
 published: false

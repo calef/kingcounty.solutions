@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-20T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -82,6 +83,7 @@ feed_content: |-
   <p>If you’re going through a tough time or know a Veteran who is, contact the Veterans Crisis Line today for help: dial 988 then Press 1, chat online at VeteransCrisisLine.net/Chat, or text 838255. We’re here for you whenever you need us.</p>
 feed_content_checksum: 9c72b8da97b15f325b357fee5399136e7a44e63f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

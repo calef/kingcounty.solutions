@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-17T23:14:31+00:00'
 event_ids: []
 events_extracted: true
@@ -41,6 +42,7 @@ feed_content: |-
 image_checksums:
 - 3447d6098cab3b4f3b55d35c77ca9867cc533331e9d1c5be587b467802c41cfe
 - b2a040dd4d1fc755d995782aca5b839b8a7cf28a18e24c7c32e56f2e0877cd69
+images_extracted: true
 location_titles:
 - King County
 organization_title: Treehouse

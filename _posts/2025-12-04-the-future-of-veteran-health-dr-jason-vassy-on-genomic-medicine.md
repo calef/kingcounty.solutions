@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-04T14:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -55,6 +56,7 @@ feed_content: |-
   <div class="video-shortcode"><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="The Future of Veteran Health: Dr. Jason Vassy on Genomic Medicine" width="100%" height="180" frameborder="no" scrolling="no" src="https://share.transistor.fm/e/225e89c7#?secret=2e3IPD1Gvs" data-secret="2e3IPD1Gvs"></iframe></div>
   </div></figure>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

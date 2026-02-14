@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-05T18:35:46+00:00'
 event_ids: []
 events_extracted: true
@@ -130,6 +131,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
 image_checksums:
 - f03690d23e66d1ec4375536dfeed1ab8687e909ab71fa58f702ebb3027e22636
 - 0d3bddaa32fd10f1c058d066cad12caccb429a7945ea292f8026a8b74abb1c04
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

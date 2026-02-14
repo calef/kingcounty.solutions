@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-25T00:42:59+00:00'
 event_ids: []
 events_extracted: true
@@ -161,6 +162,7 @@ feed_content: "<p class=\"\">Homelessness is devastating at any age—but for ch
 image_checksums:
 - 438f99d54cf9f1c0b89fd4e090932f2c5cc592e448a6dda08bbd17b38cece635
 - 2ab801c85fc78ca1a76964de6c5956a6966b536a693a2c79635db3d0b52b2cab
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-10T20:18:17+00:00'
 event_ids: []
 events_extracted: true
@@ -41,6 +42,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   team work and community.</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>"
 feed_content_checksum: 782b4b399573a7eec3c708e4ccbe095fe2caeaf5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Atlantic Street Center

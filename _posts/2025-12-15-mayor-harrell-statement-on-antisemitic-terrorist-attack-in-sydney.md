@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-15T19:15:00+00:00'
+event_ids: []
 feed_content: 'Seattle – Mayor Bruce Harrell released the following statement following
   an antisemitic terrorist attack at a Hanukkah celebration in Sydney, Australia:
   “I am horrified and heartbroken by the violence against families celebrating the
   beginning of Hanuk...'
 feed_content_checksum: 3dd2ed8a2e73cd93d64cf307a04d59f6758da6d2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

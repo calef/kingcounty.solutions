@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-18T12:51:41+00:00'
 event_ids: []
 events_extracted: true
@@ -48,6 +49,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img decoding=\"a
   backs bill to modernize transportation equipment for disabled veterans</a> appeared
   first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

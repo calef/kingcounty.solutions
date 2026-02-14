@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-11T19:28:06+00:00'
 event_ids:
 - _events/2026-01-06-mind-full-aging-support-series.md
@@ -16,6 +17,7 @@ feed_content: |-
   <p>The post <a>Mind(full) Aging</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
 feed_content_checksum: 1a870e7b99a636f43fe334503aec5483b9e5d903
 image_checksums: []
+images_extracted: true
 location_titles:
 - Shoreline
 organization_title: Shoreline Lake Forest Park Senior Activity Center

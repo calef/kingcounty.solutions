@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-27T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Kansas Department
   Convention</h1> <div> <div> <span>April 24</span> - <span>April 26</span> </div>
@@ -11,6 +12,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Kansas D
   </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: e3222bfc13c96843e58e1ce58a49b0b62d33b781
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

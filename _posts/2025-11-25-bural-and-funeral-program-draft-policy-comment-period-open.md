@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-25T21:58:04+00:00'
+event_ids: []
 feed_content: |-
   <p>Dear Tribal Member,</p>
   <p>The Tribal Council directed the General Resources Department and legal counsel to develop a draft policy to fulfill the motion below.</p>
@@ -15,6 +17,7 @@ feed_content: |-
   General Resources Department</p>
   <p>Note: A physical copy of this memo will be mailed to all Tribal Members in early December.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

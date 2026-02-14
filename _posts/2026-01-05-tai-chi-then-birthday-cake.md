@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-05T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -74,6 +75,7 @@ feed_content: |-
   <p>Coatesville VA wishes Bob Minicucci a Happy 100th Birthday and many more! If you want to <a>learn more about Tai Chi</a>, reach out to your local <a>Whole Health Point of Contact</a> or talk with your health care provider and ask them about a consultation for Tai Chi sessions.</p>
 feed_content_checksum: f1380d51cfaea9d303a5316b4bc1addc1252a797
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

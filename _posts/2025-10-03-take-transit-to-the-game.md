@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-03T10:17:40-07:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: "<p>Want a safe, reliable way to move around the region? Try takin
   to cheer on the Seahawks, Storm, Kraken, Sounders, Reign, or Mariners, it's always
   a great time to review these game day travel tips!&nbsp;</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Transit

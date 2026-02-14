@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-09T23:27:24+00:00'
+event_ids: []
 feed_content: "<span>State revokes, suspends licenses, certifications, registrations
   of health care providers (02-09-2026)</span>\n\n            <div>\n<time>February
   9, 2026 - 3:20pm</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>February
@@ -77,6 +79,7 @@ feed_content: "<span>State revokes, suspends licenses, certifications, registrat
   \         </div>"
 feed_content_checksum: 4485f8e6ae2e1991fbe607939fa4af3a91ca6ca7
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

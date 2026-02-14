@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Workshops for service providers interested in building and operating
   Tiny House Villages.
 feed_content_checksum: af73aa47db20e22dfc6bccdf09e3cc173349538a
 generated_from_post: true
+image_checksums: []
 location: Virtual and in-person
 location_titles:
 - King County

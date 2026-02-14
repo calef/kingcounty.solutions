@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-01T16:59:49+00:00'
 event_ids: []
 events_extracted: true
@@ -28,6 +29,7 @@ feed_content: |-
   <p>The post <a href="https://www.rewa.org/standing-strong/">Standing Strong</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
 image_checksums:
 - 938c390db8974ab1918e231beee88f0ad14149398b20896bfbf236d4def0e076
+images_extracted: true
 location_titles:
 - King County
 organization_title: Refugee Women's Alliance

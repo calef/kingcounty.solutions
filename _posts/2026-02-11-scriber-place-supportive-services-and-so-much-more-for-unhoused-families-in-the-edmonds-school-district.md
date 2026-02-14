@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-11T00:53:36+00:00'
+event_ids: []
 feed_content: |-
   <p>Shortly after students returned for the 2025-26 school year, Lynnwood housing advocates celebrated the groundbreaking of Scriber Place. Developed by Housing Hope in partnership with the Edmonds School District, this special property will serve as safe and affordable housing for previously unhoused families in the school district for years to come.</p>
 
@@ -56,6 +58,7 @@ feed_content: |-
   <p>Thanks to Housing Hope, the Edmonds School District, and the Washington State Department of Commerce for bringing vital supports to stabilizing families in Lynnwood!</p>
 feed_content_checksum: a9eac0780a8ace2a6e068281ffa0b2c70ad1667e
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 original_source_html: "\n<!doctype html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<meta

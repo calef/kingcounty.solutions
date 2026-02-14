@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-20T21:43:13+00:00'
+event_ids: []
 feed_content: |-
   <p>The Town of Yarrow Point is seeking a resident to fill a vacancy on the Planning Commission.</p>
   <p>This is a volunteer position, and the appointed person will be filling an unexpired term that will end on December 31, 2028.</p>
@@ -12,6 +14,7 @@ feed_content: |-
   <p>If you have interest in serving on the Planning Commission or know someone who does please contact Mayor Katy Harris directly at <a href="mailto:mayor@yarrowpointwa.gov">mayor@yarrowpointwa.gov</a> or 425-941-5289.</p>
   <p>&nbsp;</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

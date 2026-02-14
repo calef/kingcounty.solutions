@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-05T18:10:19+00:00'
 event_ids:
 - _events/2026-03-02-books-to-prisoners-book-drive.md
@@ -45,6 +46,7 @@ feed_content: |-
   </ul>
 feed_content_checksum: 9acfb8e014f0e1274f92c68f8aec4b9a3a1b599a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-03T19:30:00-08:00'
 feed_content: "<div> <div> <p>The UW Chamber Singers and University Chorale collaborate
   with Seattle University Choirs (Leann Conley-Holcom, director) in performing Craig
@@ -18,6 +19,7 @@ feed_content: "<div> <div> <p>The UW Chamber Singers and University Chorale coll
   from Shepard’s personal diary.</p> <h2>Biographies</h2> </div> </div>"
 feed_content_checksum: 622acdd5186c4ba94aeb95312777df2a0e09048a
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

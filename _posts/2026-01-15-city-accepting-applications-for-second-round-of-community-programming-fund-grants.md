@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-15T00:45:43+00:00'
+event_ids: []
 feed_content: "<span>City accepting applications for second round of Community Programming
   Fund grants</span>\n<span><span>CIosso</span></span>\n<span><time>Wed, 01/14/2026
   - 16:45</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>    <div>\n
@@ -35,6 +37,7 @@ feed_content: "<span>City accepting applications for second round of Community P
   \ </div>"
 feed_content_checksum: e24a3a1b0549e705bc5881b6b92207c5d114f236
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

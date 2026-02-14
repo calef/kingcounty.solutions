@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-16T20:23:00+00:00'
+event_ids: []
 feed_content: |-
   <p>In preparation for this evening’s wind advisory and continued affects of post-flooding, please review the following safety and preparedness steps:</p>
   <p><strong><span>Stay Safe During a Power Outage</span></strong></p>
@@ -26,6 +28,7 @@ feed_content: |-
   </ul>
 feed_content_checksum: e205acace75842cde03767eff23a0dcc136517e3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

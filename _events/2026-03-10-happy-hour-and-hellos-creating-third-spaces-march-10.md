@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-10T20:30:00-07:00'
 feed_content: "<div> <div> <div> <h3>United Way of King County is creating third spaces
   and building community.</h3> <p>Happy Hour &amp; Hellos, United Way’s signature
@@ -17,6 +18,7 @@ feed_content: "<div> <div> <div> <h3>United Way of King County is creating third
   </div> </div> </div> <p> <a>&lt;&lt; Back to Events</a> </p> </div> </div> </div>"
 feed_content_checksum: 1a3d94597571eaf270c784c953bb9027cf543dcd
 image_checksums: []
+images_extracted: true
 location: Terry’s Kitchen, 5625 119th Ave SE, Bellevue, WA, 98006, United States
 location_titles:
 - King County

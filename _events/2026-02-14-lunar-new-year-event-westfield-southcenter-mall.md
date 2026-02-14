@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-14T15:00:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <h1>Lunar New Year Event
   – Westfield Southcenter Mall</h1> <div> <h2> <span>February 14 @ 11:00 am</span>
@@ -39,6 +40,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <h1>Lunar New Year Ev
   to events</a> </p> </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: 7e780dd05dd8d3b7eb47ef7203fcf64394af8d10
 image_checksums: []
+images_extracted: true
 location: Westfield Southcenter Mall
 location_titles:
 - King County

@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-11-13T16:37:16-08:00'
+event_ids: []
 feed_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><span><span>Medina Residents,</span></span></p>
   <p><span><span><strong><span>The City is moving forward with sidewalk vegetation management to ensure safe and accessible pedestrian pathways. Efforts will focus on the main arterials, including Evergreen Point Road, NE 8th Street, NE 24th Street, and Overlake Drive.</span></strong></span></span></p>
   <p><span><span><strong><u><span>OVERGROWN VEGETATION</span></u></strong></span></span></p></div></div></div>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Medina
 published: false

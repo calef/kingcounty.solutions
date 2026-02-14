@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-31T22:38:42+00:00'
+event_ids: []
 feed_content: |-
   <p>Please join us on <strong>January 28, 2026, from 12-1 p.m.</strong> for our proposal conference for the new Request for Applications (RFA) aimed at assisting both public and private building owners in complying with the <a>Clean Buildings Performance Standard (CBPS)</a>. This combined RFA offers four funding sources that can potentially cover the cost associated with some CBPS requirements. The available funding sources are:</p>
 
@@ -67,6 +69,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 415f5965e461d70fcba4859d6e3dc1048704ffe4
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-09-22T15:38:16+00:00'
+event_ids: []
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Celebrate
   Arbor Day planting trees at Lewis Creek Park</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -46,6 +48,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-09-22T12:00:00Z\"
   class=\"datetime\">September 22 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Bellevue
 published: false

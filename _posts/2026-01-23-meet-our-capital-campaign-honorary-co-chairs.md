@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-23T17:42:44+00:00'
 event_ids: []
 events_extracted: true
@@ -128,6 +129,7 @@ feed_content: "<p>Rainier Valley Food Bank had a vision to build a new food bank
   where that love is shared freely</em>.” </p>"
 feed_content_checksum: 608c91e4cb095399dae8b309fcde9f339fb715a4
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Rainier Valley Food Bank

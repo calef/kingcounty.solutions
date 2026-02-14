@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-05T19:47:57+00:00'
+event_ids: []
 feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>As a DAV leader, you
   stand at the forefront of the fight to keep our nation&#8217;s promise to its veterans.
   While the team at our Washington Headquarters tirelessly advocates on Capitol Hill,
@@ -36,6 +38,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>As a DAV leader, 
   our nation’s disabled veterans.</p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/activate-your-chapters-power-action-is-the-only-currency/\">Activate
   your chapter’s power – action is the only currency</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Disabled American Veterans
 published: false

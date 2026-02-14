@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-11T18:34:35+00:00'
+event_ids: []
 feed_content: '<p class="">Recipe shared in partnership with <a href="https://thepantryseattle.com/"
   target="_blank">The Pantry</a> </p><p class="">Recipe adapted from Laura Pyles</p><p
   class="">Yield: 8 servings</p><p data-rte-preserve-empty="true" class=""></p><h3>Ingredients</h3><p
@@ -43,6 +45,7 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   brown, about 5-8 minutes.</p><p class="">- Remove from oil onto paper towels to
   drain and sprinkle with salt, zest, and pepper. </p>'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Rainier Valley Food Bank
 published: false

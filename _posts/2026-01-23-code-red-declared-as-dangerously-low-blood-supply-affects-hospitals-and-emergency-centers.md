@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-23T17:19:44+00:00'
+event_ids: []
 feed_content: "<span>Code Red declared as dangerously low blood supply affects hospitals
   and emergency centers</span>\n\n            <div>\n<time>January 23, 2026 - 9:17am</time>\n</div>\n
   \     <span><span>Sharon.Moysiuk…</span></span>\n<span><time>January 23, 2026 -
@@ -38,6 +40,7 @@ feed_content: "<span>Code Red declared as dangerously low blood supply affects h
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: c7372ef23c9e593671e3c94e7fa3b2022c0e0d0b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Health

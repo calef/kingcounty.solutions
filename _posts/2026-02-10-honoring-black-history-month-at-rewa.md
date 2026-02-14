@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-10T18:03:20+00:00'
+event_ids: []
 feed_content: |-
   <p>Black History Month is a time to celebrate the resilience, achievements, and lasting contributions of Black communities throughout history and today. At Refugee Women’s Alliance (ReWA), this month also reminds us of the importance of equity, cultural pride, and access to opportunities for all.</p>
 
@@ -17,6 +19,7 @@ feed_content: |-
   <p>The post <a>Honoring Black History Month at ReWA</a> appeared first on <a>Refugee Women's Alliance</a>.</p>
 feed_content_checksum: bc27cc3d2652c3242a93c50f90f82da5df789a60
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Refugee Women's Alliance

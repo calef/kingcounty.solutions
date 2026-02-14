@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-24T11:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>Final Call for Nominations for 2026 Military Child of the Year® Awards </strong> <br><em>Seven military children will receive $10,000 and attend a D.C. gala in their honor</em></p>
 
@@ -33,6 +35,7 @@ feed_content: |-
   <p>The post <a>Final Call for 2026 MCOY Nominations</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 590cb44834b34fae2f17cf0b63d4eca890f72db1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Operation Homefront

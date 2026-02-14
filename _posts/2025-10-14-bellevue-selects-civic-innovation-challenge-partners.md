@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-14T20:21:08+00:00'
+event_ids: []
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   selects Civic Innovation Challenge partners</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -55,6 +57,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-10-14T12:00:00Z\"
   class=\"datetime\">October 14 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Bellevue
 published: false

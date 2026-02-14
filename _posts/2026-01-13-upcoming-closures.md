@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-13T18:34:40+00:00'
 event_ids:
 - _events/2026-02-16-presidents-day-closure.md
@@ -18,6 +19,7 @@ feed_content: |-
   </ul>…</a>
 feed_content_checksum: a746ff9f0f2cbf0e05b17edb17cffb4ab25b4f36
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Center for Active Living

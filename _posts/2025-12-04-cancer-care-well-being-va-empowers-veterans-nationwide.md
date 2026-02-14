@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-04T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -93,6 +94,7 @@ feed_content: |-
 
   <p>Visit&nbsp;<a href="https://www.myhealth.va.gov/mhv-portal-web/home" rel="noopener">My HealtheVet</a>&nbsp;to learn tips and tools to help you partner with your health care team, so together, you may work to manage your health.&nbsp;</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

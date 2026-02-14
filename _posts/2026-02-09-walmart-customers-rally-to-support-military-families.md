@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-09T11:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -39,6 +40,7 @@ feed_content: |-
   <p>The post <a>Walmart Customers Rally to Support Military Families</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 380e0f5f0a15ef406b4d66e472fb2c8126ad6132
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Operation Homefront

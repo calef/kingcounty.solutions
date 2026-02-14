@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-21T10:30:00-07:00'
 feed_content: "<div> <div> <div> <h4><span>United Way of King County supports nonprofits’
   work through resources such as volunteers, advocacy, and funding.</span></h4> <p><span><span>This
@@ -25,6 +26,7 @@ feed_content: "<div> <div> <div> <h4><span>United Way of King County supports no
   </div> </div> <p> <a>&lt;&lt; Back to Events</a> </p> </div> </div> </div>"
 feed_content_checksum: b1a75e4797f735a0b8106a070333d3b4daad6b89
 image_checksums: []
+images_extracted: true
 location: El Centro De La Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 location_titles:
 - King County

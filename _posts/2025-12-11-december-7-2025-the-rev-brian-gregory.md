@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-11T00:37:24+00:00'
+event_ids: []
 feed_content: |-
   <p>Advent 2 There is a perpetual struggle we (or maybe just I?) encounter this time of year. How are we supposed to speak of Advent? We know that we wish … <a>Read More</a></p>
   <p>The post <a>December 7, 2025 — The Rev Brian Gregory</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: 0f61383c1299bbfdeb6a3006fa8281b48453bc2c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

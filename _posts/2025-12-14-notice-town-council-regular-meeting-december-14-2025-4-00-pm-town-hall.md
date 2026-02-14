@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-14T20:10:25+00:00'
+event_ids: []
 feed_content: |-
   <p><a>AGENDA</a></p>
   <p><strong>Join on computer, mobile app, or phone</strong></p>
@@ -41,6 +43,7 @@ feed_content: |-
   <p> </p>
 feed_content_checksum: 00545b0cedff127bd626bb61f7f105f7ee501ff8
 image_checksums: []
+images_extracted: true
 location_titles:
 - Eastside
 organization_title: Town of Yarrow Point

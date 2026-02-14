@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-03T17:49:15+00:00'
 event_ids: []
 events_extracted: true
@@ -29,6 +30,7 @@ feed_content: |-
   <p>If you’re ready to start an intensive outpatient therapy program, <a><span>contact us at THIRA Health today</span></a>. Our intake professionals can help you decide what program is best for you and get you started on a program that will help make life worth living for you!</p>
 feed_content_checksum: 4f687f4ca074dbee7aa7deed0645745d0831698f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: THIRA Health

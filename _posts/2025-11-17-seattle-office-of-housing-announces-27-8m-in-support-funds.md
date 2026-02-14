@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-17T22:54:02+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: The Seattle Office of Housing is announcing a new opportunity to s
   affordable housing providers across Seattle. We are making up to $27.8 million in
   stabilization funding available to help organizations facing financial challenges.
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

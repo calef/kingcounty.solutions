@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-19T00:00:00-08:00'
 feed_content: <div class="container"> <section id="tribe-events-pg-template" class="tribe-events-pg-template">
   <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
@@ -32,6 +33,7 @@ feed_content: <div class="container"> <section id="tribe-events-pg-template" cla
   published dtstart" title="2026-02-18"> February 18, 2026 </abbr> </span> </li> </ul>
   </div> </div> </div> </div> </section> </div>
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

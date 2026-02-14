@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-12T12:41:03+00:00'
 event_ids: []
 events_extracted: true
@@ -18,6 +19,7 @@ feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/u
   care authorizations</a> appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: 15ff44d3baed685e72860d887efe6aa8e85a7412
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

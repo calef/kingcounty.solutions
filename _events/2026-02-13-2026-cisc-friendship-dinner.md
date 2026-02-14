@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: An annual event that celebrates community and opportunity for immigrant
   families, emphasizing belonging and support.
 feed_content_checksum: 60bb6e84ccecc6568289da13f9208b10dc056e13
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

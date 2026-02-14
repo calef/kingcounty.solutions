@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-19T14:16:39+00:00'
 event_ids: []
 events_extracted: true
@@ -43,6 +44,7 @@ feed_content: |-
   <p>The post <a>Operation Homefront Receives $7.5 Million Grant</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: b8d030f94853a2677688a36d505ccd14d2428e56
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Operation Homefront

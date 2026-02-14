@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-02-11T18:27:44+00:00'
+event_ids: []
 feed_content: The Office of Arts &amp; Culture, Seattle City Light, and Chief Seattle
   Club are joining forces with the Raven Village community to bring new life to a
   Ballard City Light substation! This project will transform blank substation walls
   and fencing along ...
 feed_content_checksum: bd877942181dacda98d45cb6fbb2d64f4cce9f81
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

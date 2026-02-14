@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-26T15:30:00-07:00'
 feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path/to/json2.js"></script>
   <![endif]--> <!--[if lte IE 9]> <base href="/donation/" /> <![endif]--> <base> <meta>
@@ -98,6 +99,7 @@ feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path
   <!-- End Google Tag Manager (noscript) --> <script></script><script></script>  '
 feed_content_checksum: 5d0676f3c7779954af0890398062d2bf440f871c
 image_checksums: []
+images_extracted: true
 location: Sunstone Winery, 125 N Refugio Rd, Santa Ynez, CA, 93460, United States
 location_titles: []
 organization_title: Olive Crest
@@ -108,3 +110,4 @@ summarized: true
 title: '"Hope Shines" at Sunstone Winery | Santa Barbara'
 topic_titles: []
 ---
+

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-07T21:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>Be a hero in your community</h2>
 
@@ -40,6 +42,7 @@ feed_content: |-
   <p>Roll up your sleeve and donate at VA today!</p>
 feed_content_checksum: f4bf74998713716bee08b0e85af3934eab8b1534
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

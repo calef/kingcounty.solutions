@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-24T17:25:47+00:00'
+event_ids: []
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Robinswood
   Park sports field improvements kick off</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/lmilstead\"
@@ -30,6 +32,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   datetime=\"2025-11-24T12:00:00Z\" class=\"datetime\">November 24 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Bellevue
 published: false

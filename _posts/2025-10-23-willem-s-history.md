@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-23T19:07:19+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
 
   [Read More... from Willem’s History](https://iacswa.org/willems-history/)
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Indian American Community Services
 published: false

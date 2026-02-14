@@ -1,9 +1,12 @@
 ---
+classified: true
 date: '2025-10-30T18:35:11+00:00'
+event_ids: []
 feed_content: |-
   <p>I invite you to consider finding out the day of your baptism if you don’t know it, and marking it in some gracious way, for, to grow in gratitude is to grow in grace.&#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/10/30/the-day-of-baptism/" aria-label="The Day of Baptism">Read More</a></p>
   <p>The post <a href="https://stlukesseattle.org/2025/10/30/the-day-of-baptism/">The Day of Baptism</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: St. Luke Episcopal Church
 published: false

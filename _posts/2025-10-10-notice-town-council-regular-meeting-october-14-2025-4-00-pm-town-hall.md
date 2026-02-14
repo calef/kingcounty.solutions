@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-10T20:15:36+00:00'
+event_ids: []
 feed_content: |-
   [COMPLETE PACKET](https://yarrowpointwa.gov/wp-content/uploads/2025/10/COMPLETE-PACKET.pdf)
 
@@ -44,6 +46,7 @@ feed_content: |-
 
   Thank you.
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

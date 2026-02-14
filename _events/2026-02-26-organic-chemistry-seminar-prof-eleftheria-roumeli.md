@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-26T11:30:00-08:00'
 feed_content: "<div><div> <div> <div> <div> <div> <div> <div><div> <div> <div>Search
   this site</div> </div> </div></div> </div> <div><div><span>Embedded Files</span></div></div>
@@ -25,6 +26,7 @@ feed_content: "<div><div> <div> <div> <div> <div> <div> <div><div> <div> <div>Se
   abuse</div></div> </div> </div> </div> </div></div> </div> </div></div>"
 feed_content_checksum: 2c6d1a6dc2fdda4d3521d09e2e085329ffbc5a1c
 image_checksums: []
+images_extracted: true
 location: Chemistry Building (CHB)
 location_titles:
 - King County

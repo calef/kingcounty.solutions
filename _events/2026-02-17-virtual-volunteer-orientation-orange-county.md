@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T19:30:00-08:00'
 feed_content: '<header class="page-header background-image-page-header wpex-supports-mods
   wpex-relative wpex-mb-40 wpex-flex wpex-items-center wpex-flex-wrap wpex-bg-gray-900
@@ -73,6 +74,7 @@ feed_content: '<header class="page-header background-image-page-header wpex-supp
   target="_self" rel="external">https://olivecrest-org.zoom.us/meeting/register/tZYvcO-rrDwsHN1m6r7yQLJmmfp0BRFRB8Qp</a>
   </span> </li> </ul> </div> </div> </div> </div> </div> </div> </div> </div>'
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Olive Crest

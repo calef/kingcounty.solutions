@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-20T17:25:30+00:00'
+event_ids: []
 feed_content: |-
   <p>The following Tribal Members will receive tickets to the Seahawks PlayoffGame 2 at Lumen Field on January 25, 2026. Tickets will be distributed electronically.</p>
   <p>Ticket recipients will receive email links to their tickets. If you are unable to attend your game please email <strong>TCR@snoqualmietribe.us</strong> at your earliest convenience.</p>
@@ -85,6 +87,7 @@ feed_content: |-
   </table>
 feed_content_checksum: f9666ed7305bfbeceb3e583a5139661fa64a6a21
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

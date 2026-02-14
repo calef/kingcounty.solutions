@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-26T13:00:00-08:00'
 feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "name":
   "Dean&#39;s Forum | Learning from the Past: How Immigration Policy Affects Communities",
@@ -20,6 +21,7 @@ feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "n
   } </script>'
 feed_content_checksum: f85f3f70b5cf2c5aee79e8eb9aed223bb7f15fc4
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: University of Washington
@@ -30,3 +32,4 @@ summarized: true
 title: 'Dean''s Forum | Learning from the Past: How Immigration Policy Affects Communities'
 topic_titles: []
 ---
+

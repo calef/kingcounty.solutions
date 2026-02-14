@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-20T18:25:04+00:00'
+event_ids: []
 feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2026/01/Powerlines-Featured-Images-18-150x150.png">January
   is the perfect time to set resolutions for new habits. But if we’re honest, some
   are harder to keep than others – especially if it takes a while to see results.
@@ -7,6 +9,7 @@ feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/
   to saving energy in your home will […]
 feed_content_checksum: a90207f42fa5a26cbe5ed7f777d854a29a890ce7
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

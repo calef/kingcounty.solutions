@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-29T21:43:27+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: This announcement was originally posted on King Conservation Distr
   resources a...
 feed_content_checksum: 322b32b4a865acf279ab4fb13a2642a8d99e1c1b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-11T17:41:24+00:00'
+event_ids: []
 feed_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/christmas-story-1-783x1024.png" alt="" class="wp-image-3601"/></figure>
 
@@ -7,6 +9,7 @@ feed_content: |-
 
   <p><strong><em>A Christmas Story</em></strong> is a 1983 comedy, that follows a young boy, Ralphie Parker, and his family&#8217;s misadventures during Christmas time in December 1940. Ralphie attempts to convince his parents, teacher and Santa Claus, that a Red Ryder Range 200 Shot BB gun really is the perfect Christmas gift.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 published: false

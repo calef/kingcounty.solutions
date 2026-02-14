@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-09T17:08:49+00:00'
 event_ids: []
 events_extracted: true
@@ -55,6 +56,7 @@ feed_content: |-
   <p>The post <a>Deep-rooted nonprofits merge into stronger regional service provider </a> appeared first on <a>Compass Housing Alliance</a>.</p>
 feed_content_checksum: d050ef9f230ccc65c42eb3eb84d68f9f18f55c6d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Compass Housing Alliance

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-03T18:23:09+00:00'
 event_ids: []
 events_extracted: true
@@ -41,6 +42,7 @@ feed_content: |-
   <p>The post <a>A new year, a new partnership, one month in</a> appeared first on <a>Compass Housing Alliance</a>.</p>
 feed_content_checksum: 450f3cfa4dcb7fe3e811a7fa70e265c549a84bf0
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Compass Housing Alliance

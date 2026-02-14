@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-10T20:00:00-07:00'
 feed_content: "<article> <div> <div> <h2>Micheal Moshier’s Lewisias, January 6-28
   2026</h2> </div> <p>This month’s art exhibition features Micheal Moshier’s original
@@ -43,6 +44,7 @@ feed_content: "<article> <div> <div> <h2>Micheal Moshier’s Lewisias, January 6
   </div> </div> </div> </div> </div> </div> </article>"
 feed_content_checksum: a5cf7b9933c01a049df645419c32a3e464bc6992
 image_checksums: []
+images_extracted: true
 location: UW Botanic Gardens - Center for Urban Horticulture, Elisabeth C. Miller
   Library, 3501 NE 41st St., Seattle, WA, 98105
 location_titles:

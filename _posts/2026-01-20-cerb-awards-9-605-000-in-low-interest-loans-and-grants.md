@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-20T20:14:04+00:00'
+event_ids: []
 feed_content: "<p>On January 15, 2026 the Washington State Community Economic Revitalization
   Board (CERB) approved $9,605,000 in low interest loans and grants for planning,
   economic development, and public infrastructure improvements, intended to spur business
@@ -8,6 +10,7 @@ feed_content: "<p>On January 15, 2026 the Washington State Community Economic Re
   more in our January 2026 Newsletter (PDF).</a></strong></p>"
 feed_content_checksum: 6d2360a79c07f4e63c8fb2970bd160d6df1bbd14
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 original_source_html: "\n<!doctype html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<meta

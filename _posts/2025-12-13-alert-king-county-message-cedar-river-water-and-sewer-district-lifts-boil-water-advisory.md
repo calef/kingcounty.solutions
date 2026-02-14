@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-13T17:50:52+00:00'
+event_ids: []
 feed_content: Cedar River Water and Sewer District (CRWSD) is lifting the Precautionary
   Boil Water Advisory for the east area of the district, including the area east of
   the Cedar River and south of Highway 18. All required water quality samples have
@@ -7,6 +9,7 @@ feed_content: Cedar River Water and Sewer District (CRWSD) is lifting the Precau
   lines for […]
 feed_content_checksum: '00281e6b47fa3233c076347cc2a42df10c252840'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

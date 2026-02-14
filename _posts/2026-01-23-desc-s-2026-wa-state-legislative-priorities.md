@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-23T18:50:01+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: The 2026 Washington State Legislative Session is underway, and DES
   (PSH) from federal cuts and chaos  Earlier […]
 feed_content_checksum: 178be12fd516c31d3d0f494836b94e10b7c78605
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: DESC

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-21T20:08:11+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/01/Tech-workshop-Password-Protection-1-791x1024.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>Join Rajat to learn about password storage, safety, and tips! RSVPs appreciated, FREE<strong><br><br></strong></p>
 feed_content_checksum: 87c3dbfe06523e00fbd88fe4cb613ea0dbd2d122
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

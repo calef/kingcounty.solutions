@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-29T10:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p class="read-more-container"><a title="From Inspiration to Action: My Takeaways from HousingWA2005" class="read-more button" href="https://nhwa.org/2025/10/29/housing-washington-2025/#more-25325" aria-label="Read more about From Inspiration to Action: My Takeaways from HousingWA2005">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/10/29/housing-washington-2025/">From Inspiration to Action: My Takeaways from HousingWA2005</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Neighborhood House

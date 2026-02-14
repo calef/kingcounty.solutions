@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-11T06:00:53+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>From Professional to Personal Experience: Moving my Mom</a> appeared first on <a>Aging Wisdom</a>.</p>
 feed_content_checksum: 6d2fe3f88f09d70740c3c2abf1d7d3096dc3b93b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Aging Wisdom

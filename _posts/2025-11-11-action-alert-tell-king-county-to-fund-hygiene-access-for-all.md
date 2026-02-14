@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-11T00:31:06+00:00'
 event_ids: []
 events_extracted: true
@@ -50,6 +51,7 @@ feed_content: "<p>Thousands of King County residents struggle to afford basic hy
 feed_content_checksum: a5afd0c8eac369a772eec59cbd2a7006bec0822b
 image_checksums:
 - fdeef3207d36ffb4c16b09e078eba32db9a771f854d378087f13733f283346b4
+images_extracted: true
 location_titles:
 - King County
 organization_title: Essentials First

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-22T12:00:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
   </span> <a> <span> 2026 Recology Art Contest – Due Mar 8 </span> </a> </div> <h1>2026
@@ -40,6 +41,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   <p> <a> Back to events</a> </p> </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: 91f5f00399115691cf75da7bcddfaf746a102174
 image_checksums: []
+images_extracted: true
 location: Virtual/Online, United States
 location_titles:
 - King County

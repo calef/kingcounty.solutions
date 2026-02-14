@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-03T11:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -70,6 +71,7 @@ feed_content: |-
 feed_content_checksum: 978cc1b46dab0bb65a0948196d970fe4f8f571fb
 image_checksums:
 - 9e98beb00c24fa6337279e196d37d8e8f550e93342c04a9568c3414f35e5595e
+images_extracted: true
 location_titles:
 - King County
 organization_title: Operation Homefront

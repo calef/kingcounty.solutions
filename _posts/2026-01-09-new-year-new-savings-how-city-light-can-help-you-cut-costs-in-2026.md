@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-09T16:20:38+00:00'
+event_ids: []
 feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2026/01/Powerlines-Featured-Images-17-150x150.png">January
   is often a time for setting goals. While some resolutions can be tough to stick
   to, saving energy is a goal that pays off all year long. Whether you are managing
@@ -7,6 +9,7 @@ feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/
   you can make this year. It lowers your monthly […]
 feed_content_checksum: d02e6c9fefe0d04705edaece4ade72099f45e5e1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-21T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -53,6 +54,7 @@ feed_content: "<h2 class=\"wp-block-heading\">Veteran Shaunelle Tharpe transform
   the <a href=\"https://www.move.va.gov/MOVE/Stories/index.asp\" rel=\"noopener\">MOVE!
   webpage</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

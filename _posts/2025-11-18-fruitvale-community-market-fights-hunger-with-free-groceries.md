@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-18T18:35:50+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Fruitvale Community Market fights hunger with free groceries</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: db2a265c434fa3eadfbd7b7ae548efcbb62af4ce
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Northwest Harvest

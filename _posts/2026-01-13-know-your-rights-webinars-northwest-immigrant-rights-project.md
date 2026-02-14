@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-13T23:25:53+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: The Northwest Immigrant Rights Project is offering free webinars t
   and recordings will be available afterwards.
 feed_content_checksum: bd4dc202960d43ce61a2d3d384cf3afd62a07e4c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-23T18:00:56+00:00'
+event_ids: []
 feed_content: |-
   <p>We’re adding ten Peak Picks in February!</p>
   <p>In fiction, Jonathan Miles (“a writer so virtuosic that readers will feel themselves becoming better, more observant people from reading him”– <i>Los Angeles Times</i>) delivers a blackly comic literary gem in which a broken man confronts a broken world on an uninhabited Pacific island in<strong> </strong><a><i><strong>Eradication</strong></i></a><i>; </i>Jasmin Kirkbridge debuts with a novel about family and duty and the worlds we try to save along the way in the dazzling piece of time-travel climate fiction <a><i><strong>The Forest on the Edge of Time</strong></i></a><i>; </i>Bsrat Mezghebe<i> </i>debuts with a “wise and witty, unflinchingly honest and insightful” (Maaza Mengiste) novel that delves into the secret lives of three women on the eve of Eritrean independence in <a><i><strong>I Hope You Find What You’re Looking For</strong></i></a><i>; </i>Tayari Jones<strong> </strong>(<i>An American Marriage</i>) returns with an unforgettable novel that sparkles with wit and intelligence and deep feeling about two lifelong friends whose worlds converge after many years apart in the face of a devastating tragedy in <a><i><strong>Kin</strong></i></a><i>;<strong> </strong></i>and Rebecca Kauffman’s latest<strong> </strong>explores the loves and labors of an ensemble of more than a dozen restaurant workers as they strive to get a perfect meal to the table – perfect for fans of <i>The Bear</i>, Elizabeth Strout, and Jennifer Egan –<strong> </strong>in<strong> </strong><a><i><strong>The Reservation</strong></i></a><i><strong>.</strong></i></p>
@@ -19,6 +21,7 @@ feed_content: |-
   <p><em>~posted by Frank. All descriptions provided by publishers.</em></p>
 feed_content_checksum: 279359babc8cef80cf12538b0d24a4880248ac18
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Seattle Public Library

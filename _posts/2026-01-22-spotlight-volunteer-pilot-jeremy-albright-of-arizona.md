@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-22T17:30:00+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://angelflightwest.org/wp-content/uploads/2026/01/mission_photo_2025-12-02_Creighton_Albright_12930-1024x768.jpg"></figure>
 
@@ -100,6 +102,7 @@ feed_content: |-
   <p>Sign up to change lives through gifted flights at <a>afids.angelflightwest.org</a></p><p>The post <a>Spotlight: Volunteer Pilot Jeremy Albright of Arizona</a> first appeared on <a>Angel Flight West</a>.</p>
 feed_content_checksum: 915095c949bef5b79e48c04d20233bc3f851953c
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Angel Flight West
 original_source_html: '<!doctype html> <html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-07T20:23:34+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Indigenous people living in and around Seattle are deeply conne
   them, climate change impacts like floods,...
 feed_content_checksum: 3aaccce248d13f46bf869925cab62fa7adf82f48
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

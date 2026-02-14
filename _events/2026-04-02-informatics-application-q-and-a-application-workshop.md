@@ -1,10 +1,12 @@
 ---
+classified: true
 end_date: '2026-04-02T16:00:00-07:00'
 feed_content: When people think of information science degrees, big tech companies
   like Microsoft or Google often come to mind. But for graduates of the Information
   School, their skills open up possibilities in a variety of sectors – not just...
 feed_content_checksum: a2d6d7914c75df02ac81b322ce06b00d3134fd78
 image_checksums: []
+images_extracted: true
 location: Zoom
 location_titles:
 - King County

@@ -1,9 +1,11 @@
 ---
+classified: true
 feed_content: Deadline for submitting abstracts to share work at the IHDD Networking
   Day 2026.
 feed_content_checksum: 82ec74869e1c835dba11780b36d24af102f094d7
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

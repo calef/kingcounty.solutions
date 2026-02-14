@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-05-02T13:00:00-07:00'
 feed_content: "<section> <div> <p> <a> « All Events</a></p> <h1>I’m Hooked Family
   Fishing</h1> <div> <div> <span>May 2 @ 7:00 am</span> - <span>1:00 pm</span> </div>
@@ -28,6 +29,7 @@ feed_content: "<section> <div> <p> <a> « All Events</a></p> <h1>I’m Hooked Fa
   <span> 253-835-6900 </span> </li> </ul> </div> </div> </div> </div> </section>"
 feed_content_checksum: daf75d5861499d4c8b738a10576d12a3f13431d5
 image_checksums: []
+images_extracted: true
 location: Steel Lake Park, 2410 S 312th St, Federal Way, 98003, United States
 location_titles:
 - King County

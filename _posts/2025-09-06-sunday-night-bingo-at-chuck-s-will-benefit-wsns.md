@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-06T19:56:22+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: |-
   <p class="">Find out more at&nbsp;<a href="http://www.chuckshopshop.com/sewardpark?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExbnJnQTQzWjBMV3NabFQ3VgEehkGTFp-PnlyEU8E4WL-I8-o_YtXUPKRQt9D-JAKLFT3sbR34Fe5o3RdMR7w_aem_KUL2PKYELCNOl4N-4_jCWQ" rel="noreferrer noopener" target="_blank">www.chuckshopshop.com/sewardpark</a>. See you there!</p>
   <p>The post <a href="https://westsideneighborsshelter.org/sunday-night-bingo-at-chucks-will-benefit-wsns/">Sunday night bingo at Chuck&#8217;s will benefit WSNS!</a> appeared first on <a href="https://westsideneighborsshelter.org">Westside Neighbors Shelter</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Westside Neighbors Shelter

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-08T17:00:00+00:00'
+event_ids: []
 feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/12/rhonda_spotlight-150x150.png">The
   Basics Division: Customer Operations How long have you been at City Light? March
   2006 – almost 20 years. Tell us about your role. I oversee a team of 12 customer
@@ -8,6 +10,7 @@ feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/
   for remotely disconnecting meters […]
 feed_content_checksum: 755c70d150acbcf3d42e57613ed0b36e60f0cccf
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City Light Bill Assistance Programs
 published: false

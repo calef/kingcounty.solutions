@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-12T19:20:54+00:00'
+event_ids: []
 feed_content: |-
   <p>The <a>Washington Statewide Reentry Council</a> is currently seeking applicants with lived experience supporting their communities to fill two open council seats. These positions will contribute to statewide efforts improving reentry outcomes through cross-agency collaboration and system-level policy guidance.</p>
 
@@ -99,6 +101,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 3d8b2f345ebc5d4c19827bd54b4fdcdff8173982
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

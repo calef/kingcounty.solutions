@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-17T20:05:12+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Tier 2 Severe Weather Protocols in effect this weekend</a> appeared first on <a>Westside Neighbors Shelter</a>.</p>
 feed_content_checksum: 5926488f5c01851ddf4e349b8b78a36d092a2f75
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Westside Neighbors Shelter

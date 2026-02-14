@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-05T18:23:24+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/Paperwork-x-791x1024.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>Looking for an opportunity to complete your end of life paperwork in community? Come with your questions and goals, and we will work on them together! Led by Denise Malm. Free, drop-ins welcome!</p>
 feed_content_checksum: 66a0b2f01c48f080fa6210921b9c4684a4327919
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

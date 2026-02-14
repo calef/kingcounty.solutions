@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-09T20:01:48+00:00'
+event_ids: []
 feed_content: |-
   <figure><a><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/02/09114012/iStock-155149307-1200x797.jpg"></a><figcaption>University of Washington researchers developed a method for quantifying methane loss in the stratosphere, which begins around an airplane’s cruising altitude. <span>Photo: <a>iStock</a></span></figcaption></figure>
   <p>Methane is a powerful greenhouse gas with strong heat-trapping capabilities. Although there is less methane in the atmosphere than carbon dioxide, the foremost greenhouse gas, researchers attribute <a>30% of modern global warming to methane</a>. Observations show that methane levels have increased over time, but the factors driving changes in the rate of accumulation remain unclear.</p>
@@ -21,6 +23,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: e5b3fdafb75f23f90c4ea026c6fb357a67cc529f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

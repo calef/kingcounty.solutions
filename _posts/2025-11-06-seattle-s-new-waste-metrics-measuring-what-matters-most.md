@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-06T19:51:15+00:00'
+event_ids: []
 feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/06/seattles-new-waste-metrics-measuring-what-matters-most/"
   title="Seattle’s New Waste Metrics: Measuring What Matters Most" rel="nofollow"><img
   width="150" height="150" src="https://atyourservice.seattle.gov/wp-content/uploads/sites/15/2025/11/SPU_Solid_Waste_Report_illustration-150x150.png"
@@ -15,6 +17,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/06/seattles-ne
   Utilities (SPU) has introduced new industry-leading solid waste metrics that focus
   not just on recycling, [&#8230;]'
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Seattle Public Utilities
 published: false

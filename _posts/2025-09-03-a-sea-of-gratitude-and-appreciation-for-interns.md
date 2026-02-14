@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-03T17:17:37+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: On a night to celebrate the accomplishments of youth from across t
   Aquarium. Mayor Bruce Harrell spoke at the event, offering words of encouragement
   to the youth and [&#8230;]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

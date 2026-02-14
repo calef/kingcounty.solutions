@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-20T16:18:37+00:00'
+event_ids: []
 feed_content: "[U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program](https://www.energy.gov/lpo/articles/doe-announces-availability-10-billion-loan-authority-automotive-manufacturing)\n\n-
   **Qualifying applicants: ** Manufacturers of advanced technology vehicles that achieve
   defined fuel economy targets and producers of components or materials that enhance
@@ -32,6 +34,7 @@ feed_content: "[U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Pro
   **Total funding amount:** Approximately $25 million.\n- **Application due date:**
   January 8, 2026"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

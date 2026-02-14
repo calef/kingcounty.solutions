@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-09T17:30:37+00:00'
+event_ids: []
 feed_content: |-
   <div>
   <!--[if lt IE 9]><script>document.createElement('video');</script><![endif]--><br>
@@ -36,6 +38,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 14770966ac71d13a7d0e1d7782c0c5a4ad310bc6
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: University of Washington
 published: false

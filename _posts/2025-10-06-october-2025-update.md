@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-06T19:42:20+00:00'
 event_ids: []
 events_extracted: true
@@ -92,6 +93,7 @@ feed_content: |-
   </ul>
   <p>The post <a href="https://lakecityseniors.org/october-2025-update/">October 2025 Update</a> appeared first on <a href="https://lakecityseniors.org">Lake City Seniors</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lake City Seniors

@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-02-10T23:15:46+00:00'
+event_ids: []
 feed_content: It is that time of year! Time for the Third Annual Citizen Satisfaction
   Survey. The City Council and staff are committed to delivering high-quality services
   to our community. To better understand...
 feed_content_checksum: baff0f37f6162065997c8407194907c19ce8d2cf
 image_checksums: []
+images_extracted: true
 location_titles:
 - Normandy Park
 organization_title: City of Normandy Park

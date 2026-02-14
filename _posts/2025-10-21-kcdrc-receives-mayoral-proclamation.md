@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-21T21:24:46+00:00'
+event_ids: []
 feed_content: |-
   <p data-start="154" data-end="445">On October 20, 2025, several staff members from the Dispute Resolution Center of King County (KCDRC) had the opportunity to meet Mayor Bruce Harrell at City Hall, where the organization was presented with a proclamation in honor of Conflict Resolution Month and the conflict resolution work that KCDRC does. <a href="https://kcdrc.org/wp-content/uploads/2025/10/10.16.2025-Dispute-Resolution-Center-of-King-County-Day.pdf">Read the mayoral proclamation here.</a></p>
   <p data-start="447" data-end="795">Conflict Resolution Month is an important time to recognize the vital work of those helping communities navigate disagreements, foster understanding, and build stronger relationships. KCDRC’s staff and volunteers exemplify these values every day, providing resources, training, and support to people throughout Seattle and all of King County.</p>
@@ -9,6 +11,7 @@ feed_content: |-
   <p data-start="797" data-end="1072">KCDRC</p>
   <p>The post <a href="https://kcdrc.org/kcdrc-receives-mayoral-proclamation/">KCDRC Receives Mayoral Proclamation</a> appeared first on <a href="https://kcdrc.org">Dispute Resolution Center of King County</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Dispute Resolution Center of King County
 published: false

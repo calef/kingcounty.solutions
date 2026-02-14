@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-23T22:30:16+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Seattle – Today, Mayor Bruce Harrell released summary reports de
   city.  “Whe...
 feed_content_checksum: f0e1eaca05ecf38eb89d2e21cf3ec22e26f977d9
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

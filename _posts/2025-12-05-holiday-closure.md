@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-05T23:02:16+00:00'
+event_ids: []
 feed_content: |-
   <a href="https://wscenter.org/holiday-closure/"><p>We want to let our members know that we will be closed at the end of the month for a holiday break. Please mark your calendar!</p>
 
@@ -7,6 +9,7 @@ feed_content: |-
 
   <p>Wednesday, December 24: The &hellip;</p></a>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: The Center for Active Living
 published: false

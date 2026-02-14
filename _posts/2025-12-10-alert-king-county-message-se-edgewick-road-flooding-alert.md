@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-10T02:09:47+00:00'
+event_ids: []
 feed_content: Due to severe weather conditions and damage to the roads, as of today,
   Dec. 9, the SE Edgewick Road at 453rd Avenue SE will be restricted to one lane.
   The road may need to be closed completely. Crews will work on the road beginning
   Dec. 10, and there will be intermittent closures. Your safety is […]
 feed_content_checksum: b88c1843148a3a7f7868625f00575a17b3476684
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

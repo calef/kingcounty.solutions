@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-17T20:00:00+00:00'
+event_ids: []
 feed_content: The Seattle Police Department is proud to highlight the great work of
   our officers who are working along the Aurora Avenue North corridor to deter people
   from sexual exploitation. Since October, SPD has had officers photographing the
   license plates of ...
 feed_content_checksum: 56e7bd84a5b3c6920a7535dbecb41c1434acc8b3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

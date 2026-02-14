@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-02T18:09:02+00:00'
 event_ids: []
 events_extracted: true
@@ -58,6 +59,7 @@ feed_content: "<p class=\"\">For Craig, home had always been the apartment where
   craig's\n  </a>"
 image_checksums:
 - 75a1637b9041eba2a14a5983c17a7af3fa77b5a38c627baafa06484ca9e6a25f
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

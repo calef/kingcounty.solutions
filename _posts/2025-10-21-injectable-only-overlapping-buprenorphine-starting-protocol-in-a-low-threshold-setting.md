@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-21T22:24:45+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: DESC’s innovative new method for administering opioid use disord
   using fentanyl, this study evaluated 95 patients with moderate to severe opioid
   use disorder. The study shows that this new protocol has [&#8230;]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: DESC

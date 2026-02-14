@@ -1,8 +1,11 @@
 ---
+classified: true
 date: '2025-12-03T15:49:31+00:00'
+event_ids: []
 feed_content: <p><a href="https://yarrowpointwa.gov/wp-content/uploads/2025/12/2025-WNP-Newsletter.pdf"><strong>2025
   WNP Newsletter</strong></a></p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Town of Yarrow Point
 published: false

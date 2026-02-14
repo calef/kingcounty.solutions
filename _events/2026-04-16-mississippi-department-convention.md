@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-20T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Mississippi
   Department Convention</h1> <div> <div> <span>April 16</span> - <span>April 19</span>
@@ -11,6 +12,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Mississi
   </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 0365e22aa2a1c6399ae0209c05bd223bcecde11b
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles: []
 organization_title: Disabled American Veterans

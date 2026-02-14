@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-20T18:16:24+00:00'
 event_ids: []
 events_extracted: true
@@ -84,6 +85,7 @@ feed_content: |-
   <p>Email <a>HTFRepair@commerce.wa.gov</a>.</p>
 feed_content_checksum: faca2cf3093979db9af610cb50e9092355799e29
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

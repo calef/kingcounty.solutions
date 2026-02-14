@@ -1,9 +1,11 @@
 ---
+classified: true
 feed_content: Deadline for applications for CRP Reentry Grants aimed at assisting
   individuals returning to their communities after incarceration.
 feed_content_checksum: a393cf3eb1fa0510e0280099eba7fb5e76d6e5e1
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

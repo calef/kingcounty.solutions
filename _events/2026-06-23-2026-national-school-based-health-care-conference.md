@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-06-25T00:00:00-07:00'
 feed_content: 'A conference gathering health care professionals, education leaders,
   youth, and advocates to promote student health, focusing on the theme ''Stronger
@@ -6,6 +7,7 @@ feed_content: 'A conference gathering health care professionals, education leade
 feed_content_checksum: 1bcac417251099dbd3c041dbbaa34cba12e68cfc
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: American University Washington College of Law, Washington, D.C.
 location_titles:
 - King County

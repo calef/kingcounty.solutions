@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T18:30:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1>Vital
   Sculpt HIIT Class with Seattle Jazzercise</h1> </div> </div> </div> </div> </div>
@@ -108,6 +109,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   <li><a>{title}</a></li> <li><a>{title}</a></li> </ul> </div> </div> </div>"
 feed_content_checksum: 97fb5765c40284b8d8a437af8f8c2dff7c6d47d5
 image_checksums: []
+images_extracted: true
 location: 'Phinney Center Campus: Blue (upper) Building, 6532 Phinney Ave. N., Seattle,
   WA, 98103, United States'
 location_titles:

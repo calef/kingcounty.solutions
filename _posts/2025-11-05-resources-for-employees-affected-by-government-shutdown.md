@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-05T03:23:00+00:00'
 event_ids: []
 events_extracted: true
@@ -63,6 +64,7 @@ feed_content: "<p>With the federal government now in shutdown, thousands of work
   the official federal websites or contact your federal agency directly.</p>"
 feed_content_checksum: 5e0af8f23fd99deb58e09cf3f20b3f9f3a6e8c84
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Des Moines

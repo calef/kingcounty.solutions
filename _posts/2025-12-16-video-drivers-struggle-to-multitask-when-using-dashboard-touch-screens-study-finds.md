@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-16T17:00:09+00:00'
+event_ids: []
 feed_content: |-
   <p><iframe></iframe></p>
   <p><span>Once the domain of buttons and knobs, car dashboards are increasingly home to large touch screens. While that makes following a mapping app easier, it also means drivers can’t feel their way to a control; they have to look. But how does that visual component affect driving?</span></p>
@@ -32,6 +34,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 6ba298fe944e0e65162fb56e9d0ad722d93b9a8c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

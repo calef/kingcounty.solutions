@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-19T01:13:27+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: 'The King County Solid Waste Division will accept flood debris, in
   debris collection sites to provide expanded […]'
 feed_content_checksum: '094ffd6d645399b6a774006456d82e573f2e6122'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

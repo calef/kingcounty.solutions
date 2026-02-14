@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-28T18:16:49+00:00'
+event_ids: []
 feed_content: |-
   <h2 class="wp-block-heading">Stay Informed and Get Registered to Vote</h2>
 
@@ -30,6 +32,7 @@ feed_content: |-
   <p>Together, we can ensure that every voice counts and every vote makes a difference.</p>
   <p>The post <a href="https://www.elcentrodelaraza.org/take-action-october-2025/">Take Action: OCTOBER 2025</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: El Centro de la Raza
 published: false

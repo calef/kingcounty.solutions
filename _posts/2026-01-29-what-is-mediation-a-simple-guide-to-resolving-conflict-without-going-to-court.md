@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-29T20:39:05+00:00'
+event_ids: []
 feed_content: |-
   <p>When conflicts arise, whether in business, family matters, or community disputes, many people assume their only option is to head straight to court. But there’s another path that’s often more effective, less expensive, and far less stressful: mediation. If you’ve ever wondered “what is mediation?” or how this process could help resolve your dispute, you’re in the right place.</p>
   <h4></h4>
@@ -94,6 +96,7 @@ feed_content: |-
   <p>The post <a>What is Mediation? A Simple Guide to Resolving Conflict Without Going to Court</a> appeared first on <a>Dispute Resolution Center of King County</a>.</p>
 feed_content_checksum: 73b07d885287296ca2308b9b1214206ea65931a5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Dispute Resolution Center of King County

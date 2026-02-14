@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-13T17:20:28+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: As efforts turn from response to recovery after this week’s heav
   for residents dealing with the aftermath.
 feed_content_checksum: e14d6f2baecdfe18f8c2321db09ce73e001ff725
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

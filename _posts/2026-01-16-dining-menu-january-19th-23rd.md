@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-16T23:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>Monday ~</strong> Martin Luther King Jr. Day–center is closed.</p>
 
@@ -33,6 +35,7 @@ feed_content: |-
   <p>The post <a>Dining Menu January 19th – 23rd</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: 3d06f96a79f5db66eed2b375d0e4b5ae2d24deea
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 original_source_html: |-

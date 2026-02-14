@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-10-29T16:56:25+00:00'
+event_ids: []
 feed_content: "We share with prayers and sadness&nbsp;the passing of a beloved Tribal
   Elder\n\n# Arlene Mae Ventura\n\nSunrise: 8/5/1942 Sunset: 10/29/2025\n\nWe will
   share additional information when it is available.  \nOut of respect and according
   to our policy, tribal flags are flying at half-staff.\n\n&nbsp;\n\n[![](https://snoqualmietribe.us/wp-content/uploads/2025/10/Arlene-Ventura-700x587.png)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Arlene-Ventura.png)\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

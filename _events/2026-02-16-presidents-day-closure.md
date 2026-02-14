@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: The Center will be closed in observance of Presidents Day.
 feed_content_checksum: 0f3da02a363822070b465d88471b65ce3321c2ed
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: The Center for Active Living
 location_titles:
 - King County

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-11T18:41:58+00:00'
+event_ids: []
 feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>AUCD
   Leadership Academy 2026 Accepting Applications</h2>\n<p>The Association of University
   Centers on Disabilities is now accepting applications for the 2026 <a>AUCD Leadership
@@ -88,6 +90,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   <a>UW IHDD</a>.</p>"
 feed_content_checksum: 1e60e21cfe9d4a4a45ef25dcc2b816e80a697635
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Institute on Human Development and Disability
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\" >\n<head>\n\t<!-- Google

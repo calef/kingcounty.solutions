@@ -58,8 +58,8 @@ class SummarizerBaseTest < Minitest::Test
       call_openai(prompt, system_message, record_id, temperature: temperature)
     end
 
-    def public_needs_classification_for_record?(record, key)
-      needs_classification_for_record?(record, key)
+    def public_needs_classification_for_record?(record)
+      needs_classification_for_record?(record)
     end
 
     def public_store_source_html(record, html)
@@ -286,12 +286,12 @@ class SummarizerBaseTest < Minitest::Test
     )
 
     record = Class.new do
-      def [](_key)
+      def classified?
         nil
       end
     end.new
 
-    assert summarizer.public_needs_classification_for_record?(record, 'topic_titles')
+    assert summarizer.public_needs_classification_for_record?(record)
   end
 
   def test_needs_classification_for_record_returns_false_when_empty_array
@@ -302,12 +302,12 @@ class SummarizerBaseTest < Minitest::Test
     )
 
     record = Class.new do
-      def [](_key)
-        []
+      def classified?
+        true
       end
     end.new
 
-    refute summarizer.public_needs_classification_for_record?(record, 'topic_titles')
+    refute summarizer.public_needs_classification_for_record?(record)
   end
 
   def test_needs_classification_for_record_returns_false_when_present
@@ -318,12 +318,12 @@ class SummarizerBaseTest < Minitest::Test
     )
 
     record = Class.new do
-      def [](_key)
-        ['Health']
+      def classified?
+        true
       end
     end.new
 
-    refute summarizer.public_needs_classification_for_record?(record, 'topic_titles')
+    refute summarizer.public_needs_classification_for_record?(record)
   end
 
   def test_default_model_uses_env_var

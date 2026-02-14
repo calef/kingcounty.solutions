@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-05T18:06:24+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: "<a><p>What a wonderful community you have helped us build at The 
   members and greeting people who …</p></a>"
 feed_content_checksum: c2d1f6193e59570d9c315c8376241bed2974ea8b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Center for Active Living

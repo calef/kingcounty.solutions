@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-16T18:09:39+00:00'
+event_ids: []
 feed_content: "<span>King County Investigation into Dec. 12, 2025 officer-involved
   shooting</span>\n<span><span>DAAnderson</span></span>\n<span><time>Tue, 12/16/2025
   - 10:09</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>At
@@ -16,6 +18,7 @@ feed_content: "<span>King County Investigation into Dec. 12, 2025 officer-involv
   \     \n    </div>\n  </div>"
 feed_content_checksum: fab8b6222f8100953e813e0653b0cba44467ec66
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

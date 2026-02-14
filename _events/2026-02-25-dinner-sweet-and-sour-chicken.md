@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T18:00:00-08:00'
 feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Dinner:
   Sweet &amp; Sour Chicken</h1> <div> <div> <span>February 25 @ 5:00 PM</span> - <span>6:00
@@ -20,6 +21,7 @@ feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> 
   <span> 206-767-2544 </span> </li> </ul> </div> </div> </div> <p>Comments are closed.</p>
   </div> </section> </div> </div> </div>"
 feed_content_checksum: 931052b2a070ebf1989062f440a42b9877cfdc60
+image_checksums: []
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 location_titles:

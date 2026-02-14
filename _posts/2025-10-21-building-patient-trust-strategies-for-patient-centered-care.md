@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-21T16:33:52+00:00'
+event_ids: []
 feed_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/183">Start the Course</a></p>
 
@@ -74,6 +76,7 @@ feed_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/183">Start the Course</a></p>
   <p>The post <a href="https://arcorafoundation.org/building-patient-trust-strategies-for-patient-centered-care/">Building Patient Trust: Strategies for Patient Centered Care</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Arcora Foundation
 published: false

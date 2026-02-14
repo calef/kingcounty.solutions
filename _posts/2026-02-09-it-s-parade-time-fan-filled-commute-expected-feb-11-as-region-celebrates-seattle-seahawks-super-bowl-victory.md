@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-09T19:42:05+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: UPDATE! Due to street closures, massive crowds on the street, and 
   riders at Queen Anne...
 feed_content_checksum: 40855c6f86bae4b2d90dd6a23df178402f0e1749
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-10T22:01:42+00:00'
+event_ids: []
 feed_content: Detectives are investigating a shooting early Saturday morning near
   Chinatown-International District neighborhood that left a 27-year-old man seriously
   injured. At about 2:45 a.m., dispatchers received reports of shots fired near 12th
   Avenue South and ...
 feed_content_checksum: c0471673786b2922e245583b97627f24b502d3bd
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

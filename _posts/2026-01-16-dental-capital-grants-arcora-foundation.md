@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-16T16:50:00+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: Crossposted from the Washington School-Based Health Alliance Arcor
   and face challenges…
 feed_content_checksum: f9742600de6bba86ce1aa9a304e51ca80bd67080
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

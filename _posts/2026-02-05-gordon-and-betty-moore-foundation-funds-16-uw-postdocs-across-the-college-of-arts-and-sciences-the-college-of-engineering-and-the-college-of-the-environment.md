@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-05T18:14:07+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/02/05094441/01272026_Winter_Campus_004-scaled.jpg"><figcaption>The UW was awarded $2.5 million from the Gordon and Betty Moore Foundation to fund 16 postdoctoral fellows in a number of fields across the College of Arts &amp; Sciences, the College of Engineering and the College of the Environment. <span>Photo: Erhong Gao/University of Washington</span></figcaption></figure>
   <p><span>The University of Washington was awarded $2.5 million from the Gordon and Betty Moore Foundation to fund 16 postdoctoral fellows in a number of fields across the College of Arts &amp; Sciences, the College of Engineering and the College of the Environment.</span></p>
@@ -44,6 +46,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: '0159bd69795309ab4ce57ec0b824be533fb32bff'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

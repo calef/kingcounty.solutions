@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-12T13:30:00-07:00'
 feed_content: "<a>Skip to main content</a><div><div> <div> <div> <div> <div> <div>
   <div> <div> <form> <span>Hit enter to search or ESC to close</span> </form> </div>
@@ -233,6 +234,7 @@ feed_content: "<a>Skip to main content</a><div><div> <div> <div> <div> <div> <di
   A Gift</a></li> </ul> </div> </div> </div> </div> </div> </div></div>"
 feed_content_checksum: d74c9d60885732b3fef51f83f6e8445641e0699c
 image_checksums: []
+images_extracted: true
 location: Gowen Hall (GWN)
 location_titles:
 - King County

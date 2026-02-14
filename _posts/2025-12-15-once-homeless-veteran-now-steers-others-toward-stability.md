@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-15T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -58,6 +59,7 @@ feed_content: |-
   <p>“He’s become a bridge,” said Stefanie Mohl, social worker, “turning his past into a powerful source of hope for others.” If you or someone you know needs assistance, please visit the <a>VA Homeless Program</a> for more information.</p>
 feed_content_checksum: 7e1d478a4954e105647db8583b77145f674cd7df
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

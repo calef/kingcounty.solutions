@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-09T22:48:01+00:00'
+event_ids: []
 feed_content: "<span>Opening on Human Services Commission</span>\n<span><span>CIosso</span></span>\n<span><time>Mon,
   02/09/2026 - 14:48</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>The
   City Council is accepting applications to fill a vacancy on the Human Services Commission.
@@ -24,6 +26,7 @@ feed_content: "<span>Opening on Human Services Commission</span>\n<span><span>CI
   \ </div>"
 feed_content_checksum: 9aac35002f4968fdb99776e8134fd8ebf29d2391
 image_checksums: []
+images_extracted: true
 location_titles:
 - Bellevue
 organization_title: City of Bellevue

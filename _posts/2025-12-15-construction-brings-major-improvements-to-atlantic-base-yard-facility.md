@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-15T21:57:22+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Contractor crews working for King County Metro will soon start con
   buses and additional infrastructure improvements....
 feed_content_checksum: b48b0390428989a6ce679bc5965d05255359efc6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

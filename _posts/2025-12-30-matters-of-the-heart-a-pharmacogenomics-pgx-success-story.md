@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-30T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -84,6 +85,7 @@ feed_content: |-
   <p>Your health is a team effort and you’re the most important member of the team.</p>
 feed_content_checksum: 7b40d21fff6095266097ad7ee1c36bdf1d8bd105
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

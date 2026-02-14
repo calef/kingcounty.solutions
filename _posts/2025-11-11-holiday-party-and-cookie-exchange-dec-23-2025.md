@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-11T17:53:58+00:00'
+event_ids: []
 feed_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/cookie-exchange-2-791x1024.png" alt="" class="wp-image-3611"/></figure>
 
@@ -7,6 +9,7 @@ feed_content: |-
 
   <p>Drop off home-made cookies by 3:45pm on Tuesday 12/23, then choose from available cookies from 4:00pm – 5:00pm. Decorate cookies and enjoy hot chocolate to get into the holiday spirit!</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 published: false

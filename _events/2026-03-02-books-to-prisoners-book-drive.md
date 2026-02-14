@@ -1,10 +1,12 @@
 ---
+classified: true
 end_date: '2026-04-03T23:59:59-08:00'
 feed_content: A book drive in partnership with Books to Prisoners, encouraging community
   members to donate books to support education and rehabilitation for incarcerated
   individuals.
 feed_content_checksum: bee634019af5e276dcc321e51718bf5c5d33e696
 generated_from_post: true
+image_checksums: []
 location: Wallingford Community Senior Center
 location_titles:
 - King County

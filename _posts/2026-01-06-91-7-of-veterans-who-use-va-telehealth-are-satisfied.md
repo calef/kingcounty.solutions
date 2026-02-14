@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -74,6 +75,7 @@ feed_content: |-
   <p>Veterans should speak with their VA provider to see whether telehealth is a good fit for their health care needs. Learn more about <a>telehealth at VA</a>.</p>
 feed_content_checksum: 882690b99f88f50430a95a467ca0d1690ffb4e1f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

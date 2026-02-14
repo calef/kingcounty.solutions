@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-04T21:14:52+00:00'
+event_ids: []
 feed_content: |-
   > “As a consumer-owned utility, the PUD has limited experience filing tax returns. The CETCAP program has provided valuable support in bridging this expertise, helping the PUD to maximize potential project tax benefits and minimize tax preparation costs.”
 
@@ -23,6 +25,7 @@ feed_content: |-
 
   ![Giraffe logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/giraffe-logo-purple.png)
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-27T09:09:19+00:00'
+event_ids: []
 feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_row et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
   et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -96,6 +98,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >
   to (or not to) celebrate Thanksgiving</a> appeared first on <a href=\"https://hungerintervention.org\">Hunger
   Intervention Program</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Hunger Intervention Program
 published: false

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-09T20:08:34+00:00'
+event_ids: []
 feed_content: |-
   The following Tribal Members will receive tickets to these supplemental events in Q4 2025 at Climate Pledge Arena.
 
@@ -34,6 +36,7 @@ feed_content: |-
   | | |
   | Thomas Zackuse | Heart Sun • Nov 23, 2025 • 07:00 PM |
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Snoqualmie Indian Tribe
 published: false

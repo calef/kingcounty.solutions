@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-10T16:55:48+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://angelflightwest.org/wp-content/uploads/2025/12/Facetune_01-12-2025-21-29-37-2-651x1024.jpeg"></figure>
 
@@ -24,6 +26,7 @@ feed_content: |-
   <p>My time at Angel Flight West has reaffirmed my desire to build a career where my communication skills can make a real difference. I’m incredibly grateful for the opportunity to contribute to such a meaningful organization and to learn from professionals who truly care about the people they serve. This internship has shaped not only my professional growth but also my perspective on purpose-driven work, and I will carry these lessons with me far beyond this semester. </p><p>The post <a>Intern Reflection: Meet Kate</a> first appeared on <a>Angel Flight West</a>.</p>
 feed_content_checksum: 78b6dc3e7750ba9dd9edba650d5709b322d2a62c
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Angel Flight West
 published: false

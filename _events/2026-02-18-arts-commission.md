@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T19:30:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <h1>Arts Commission</h1>
   <div> <h2> <span>February 18 @ 6:00 pm</span> - <span>7:30 pm</span> </h2> </div>
@@ -29,6 +30,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <h1>Arts Commission</
   </section> </div> </div> </div> </section>"
 feed_content_checksum: 00f6eb4099f1caabb4cc467a870d55b37a99b8c6
 image_checksums: []
+images_extracted: true
 location: Tukwila Community Center, 12424 42nd Avenue South , Tukwila, WA, 98168,
   United States
 location_titles:

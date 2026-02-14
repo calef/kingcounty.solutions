@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-12T21:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -46,6 +47,7 @@ feed_content: |-
   <p>We’re always looking for the next generation of physicians to bring their skills and passion into a career of service for Veterans. Visit <a>VA Careers</a> to learn more and apply. </p>
 feed_content_checksum: 2c43e3ff4fda93f125267208070e8d56d9f56427
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

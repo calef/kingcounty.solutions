@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-04T00:36:54+00:00'
 event_ids: []
 events_extracted: true
@@ -85,6 +86,7 @@ feed_content: |-
 
   The post [Holiday Ergonomics and Stress Relief](https://snoqualmievalleyhealth.org/holiday-ergonomics-and-stress-relief/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

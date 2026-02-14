@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-27T15:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -56,6 +57,7 @@ feed_content: |-
 
   <p>To learn more about the physician assistant profession at VA, visit the <a href="https://www.patientcare.va.gov/PA/index.asp" rel="noopener">physician assistants home page</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

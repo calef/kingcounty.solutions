@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-12T15:00:00-07:00'
 feed_content: '   <meta> <meta> <meta> <meta> <meta> <meta> <meta> <meta> <meta> <meta>
   <meta> <meta> <meta> <meta> <title>Launch Meeting - Zoom</title> <script> window.launchBase64
@@ -32,6 +33,7 @@ feed_content: '   <meta> <meta> <meta> <meta> <meta> <meta> <meta> <meta> <meta>
   </script> <script></script>  '
 feed_content_checksum: 543228032367a86124309edfc0883527ba0a90e5
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

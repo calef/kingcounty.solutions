@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Deadline for organizations to submit responses for the WA SBHA 2024-2025
   Census.
 feed_content_checksum: 9e4e500ca050e660ae260dcd642b432d0fbee240
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

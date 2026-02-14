@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-10T23:27:49+00:00'
+event_ids: []
 feed_content: Seattle police officers arrested a 34-year-old man for Residential Burglary
   in the Lake City neighborhood last night. On Dec. 9 at about 11:00 p.m., patrol
   officers responded to an in-progress burglary in the 10700 block of Exeter Avenue
   Northeast. Acc...
 feed_content_checksum: b7e163414ca05f66d5d4a626fef048a1273ffd61
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Seattle
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-09T16:00:07+00:00'
 event_ids: []
 events_extracted: true
@@ -19,6 +20,7 @@ feed_content: |-
   <p>The post <a>Meals on Wheels: Deliver Meals and a Smile in Bellevue!</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: 8ec31b743acaa8d74ee6220f368fa1d94d80815e
 image_checksums: []
+images_extracted: true
 location_titles:
 - Bellevue
 organization_title: Sound Generations

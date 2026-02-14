@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-13T23:56:29+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: |-
   <p>To learn more about the Community Partnership Fund and view the full list of 2025 grant recipients, visit: <a href="https://www.multicare.org/about/community/partnership-fund/" data-wpel-link="internal">https://www.multicare.org/about/community/partnership-fund/</a></p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/11/multicare-awards-800000-to-53-nonprofits-advancing-community-health-in-washington/" data-wpel-link="internal">MultiCare awards $800,000 to 53 nonprofits advancing community health in Washington</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: MultiCare

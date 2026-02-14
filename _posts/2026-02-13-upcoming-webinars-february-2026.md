@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-13T19:43:57+00:00'
+event_ids: []
 feed_content: The Washington State Department of Health is hosting several upcoming
   webinars covering childhood vaccine changes, vaccination importance across all life
   stages, and the impact of House Resolution 1 on Medicaid coverage. A discussion
@@ -7,6 +9,7 @@ feed_content: The Washington State Department of Health is hosting several upcom
   need for early intervention in adolescents.
 feed_content_checksum: 3c83cfb404cd196e730800ec9190bc4af6abd242
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

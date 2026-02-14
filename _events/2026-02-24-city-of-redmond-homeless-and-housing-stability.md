@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-24T15:00:00-08:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span> Event
   Series: </span> <a> <span> Advocate Office @ Together Center – City of Redmond Homeless
@@ -32,6 +33,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   <span>February 19 @ 10:00 am</span> - <span>12:00 pm</span> </div> </li> </ul> </div>
   </div> </section> </div>"
 feed_content_checksum: 7c8320b3c6a861e9632eb523188a5ef8a81bcdbf
+image_checksums: []
 location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond, WA,
   98052, United States
 location_titles:

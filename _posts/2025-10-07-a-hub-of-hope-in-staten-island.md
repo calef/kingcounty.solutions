@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-07T19:36:02+00:00'
+event_ids: []
 feed_content: |-
   <p><span style="font-weight: 400;">With a new school year in full swing, many families across New York City are experiencing a time of transition. Whether it’s the first day of kindergarten, a return to middle or high school, or simply the shift from summer vacation, this season can bring a mix of excitement, anxiety, and uncertainty.</span></p>
   <p><span style="font-weight: 400;">For those already experiencing emotional, developmental, or behavioral challenges, the return to school isn’t just about new routines. It often means navigating systems that don’t listen, don’t see, or don’t serve them well. That’s where Vibrant’s </span><b>Family and Youth Peer Support Services (FYPS)</b><span style="font-weight: 400;"> comes in.</span></p>
@@ -19,6 +21,7 @@ feed_content: |-
   <p><span style="font-weight: 400;">All locations offer services in English and Spanish. Additionally, our Bronx location offers French, and the Queens location offers Mandarin and Cantonese. Translation services are available for most other languages and dialects. </span></p>
   <p>The post <a href="https://www.vibrant.org/a-hub-of-hope-in-staten-island/">A Hub of Hope in Staten Island</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Vibrant Emotional Health
 published: false

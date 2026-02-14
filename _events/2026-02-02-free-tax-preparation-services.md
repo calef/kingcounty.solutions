@@ -1,9 +1,11 @@
 ---
+classified: true
 end_date: '2026-04-19T23:59:59-08:00'
 feed_content: Free tax preparation services for individuals earning less than $80,000
   and couples earning less than $96,000.
 feed_content_checksum: 493feb7a6ecf245eada9fbaf4f8c596ad8353144
 generated_from_post: true
+image_checksums: []
 location: 20 locations across King County and virtual option
 location_titles:
 - King County

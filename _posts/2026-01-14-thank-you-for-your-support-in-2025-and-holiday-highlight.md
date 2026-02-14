@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-14T22:55:59+00:00'
 event_ids: []
 events_extracted: true
@@ -50,6 +51,7 @@ feed_content_checksum: 2d01e73a75647ff7f4b8e3cf783e13f343c45784
 image_checksums:
 - 2dc33cf061e80f8257f0058bb27dcbb7f251620c8d5e00fd84e5d33c380cb9b1
 - 6b6b971bbe2d468c7cc463117ce033028e8ba2eca706fd6588ce51d6bf0b005b
+images_extracted: true
 location_titles:
 - King County
 organization_title: Jubilee Women's Center

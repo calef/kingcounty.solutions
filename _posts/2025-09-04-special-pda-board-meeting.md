@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-04T20:42:27+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: |-
   <p>Passcode:       398267</p>
   <p>The post <a href="https://communityrootshousing.org/2025/09/special-pda-board-meeting-2/">Special PDA board meeting</a> appeared first on <a href="https://communityrootshousing.org">Community Roots Housing</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Community Roots Housing

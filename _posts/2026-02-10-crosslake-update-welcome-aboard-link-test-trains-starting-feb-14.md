@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-02-10T14:17:52-08:00'
+event_ids: []
 feed_content: "<div><div><p>This Valentine’s Day, Sound Transit will channel its primary
   love language (acts of service, of course) to celebrate the impending union between
   the region’s hottest couple: the Link 1 and 2 Lines. </p></div></div>"
 feed_content_checksum: 4ff6dc5116978c2aada65bb4302ad865e05688a2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Transit

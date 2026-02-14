@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-27T17:00:00-08:00'
 feed_content: "<article> <div> <section><div> <h1>Clinic Schedule</h1> <p>The SmileMobile
   is coming to your community! This mobile dental clinic provides care to infants,
@@ -21,6 +22,7 @@ feed_content: "<article> <div> <section><div> <h1>Clinic Schedule</h1> <p>The Sm
   <span>»</span></a></li> </ul> </div> </div> </section> </div> </article>"
 feed_content_checksum: 76330d708b81cbf8ccb42098659377c2312eb02e
 image_checksums: []
+images_extracted: true
 location: Tri Area Community Center, 10 W. Valley Rd., Chimacum, Washington, 98325,
   United States
 location_titles: []

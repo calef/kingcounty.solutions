@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-26T18:08:00+00:00'
+event_ids: []
 feed_content: |-
   <a><p><em>By Toni Ameslav, staff social worker at The Center for Active Living</em></p>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>We’ve all heard the phrase “aging gracefully.” You probably know people you believe are aging gracefully and others …</p></a>
 feed_content_checksum: 23715d175274d70a03f45bcbd43041f9883533f8
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Center for Active Living

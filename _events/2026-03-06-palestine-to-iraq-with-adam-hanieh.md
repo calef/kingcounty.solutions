@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-06T13:00:00-08:00'
 feed_content: '<article id="post-3862" class="post-3862 uw_oplevents type-uw_oplevents
   status-publish hentry category-department-of-american-ethnic-studies category-department-of-gender-women-sexuality-studies
@@ -65,6 +66,7 @@ feed_content: '<article id="post-3862" class="post-3862 uw_oplevents type-uw_opl
   Gender &amp; Sexuality Studies, Department of American Ethnic Studies, The Graduate
   School</p> </div> </article>'
 image_checksums: []
+images_extracted: true
 location: Livestreaming
 location_titles:
 - King County

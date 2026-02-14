@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-30T20:49:47+00:00'
+event_ids: []
 feed_content: Seattle Parks and Recreation(SPR), CHAMPS Resource and Service Center,
   and Parents for Skateparks are excited to announce the construction for the new
   Rainier Beach Skatepark begins in early January 2026. TERRA DYNAMICS INC. will mobilize
   on site to be...
 feed_content_checksum: 28c7c559bd22f4b1ba2a55cebf1eec663463c43d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

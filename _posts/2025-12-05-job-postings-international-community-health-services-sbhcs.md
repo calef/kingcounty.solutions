@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-05T16:00:00+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: 'International Community Health Services (ICHS) is hiring for thre
   to healthcare, coordinating mobile health services, and overseeing school-based
   health initiatives to improve community health access and equity.'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-12T20:31:51+00:00'
+event_ids: []
 feed_content: |-
   <p>The following Tribal Members will receive tickets to concerts and events at Climate Pledge Arena.</p>
   <p>All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your game please email <strong>TCR@snoqualmietribe.us</strong> at your earliest convenience.</p>
@@ -194,6 +196,7 @@ feed_content: |-
   </table>
 feed_content_checksum: '02891689db8b0cd993f2ab260dffc9bb73538be5'
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Snoqualmie Indian Tribe

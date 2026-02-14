@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-05T19:52:14+00:00'
 event_ids: []
 events_extracted: true
@@ -58,6 +59,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\" >
   Mexican food in the state. You cannot find lengua, tripa, and cabeza tacos and menudo
   in just any city in Washington.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Inatai Foundation
 published: false

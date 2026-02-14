@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-03T09:00:18+00:00'
 event_ids: []
 events_extracted: true
@@ -23,6 +24,7 @@ feed_content: |-
   <p>The post <a>Backline Launches B-LINE: A 24/7 Mental Health and Crisis Support Line for the Music Industry, in Partnership with Vibrant Emotional Health</a> appeared first on <a>Vibrant Emotional Health</a>.</p>
 feed_content_checksum: 8c02a7320f9b0c7538c364c97404085e565221fb
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Vibrant Emotional Health

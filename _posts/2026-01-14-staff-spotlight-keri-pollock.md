@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-14T06:00:26+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p>The post <a>Staff Spotlight: Keri Pollock</a> appeared first on <a>Aging Wisdom</a>.</p>
 feed_content_checksum: 2f1a23535de5205d458cc8054edd41b857fbafd3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Aging Wisdom

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-19T03:47:01+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Disaster Cash Assistance is available Dec. 17, 2025, to Jan. 15, 2
   To apply, call the Washington Department Social and Health […]
 feed_content_checksum: d820f35467a5024c05e55db258e522846fb50fa7
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

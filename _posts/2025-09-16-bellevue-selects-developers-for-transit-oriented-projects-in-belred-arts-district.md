@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-16T18:02:19+00:00'
 event_ids: []
 events_extracted: true
@@ -60,6 +61,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   16 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_checksums:
 - 63abec4f311eac921476eaec9c04865ea20ed4acc3ba5e50c3dd0b42d1da9f49
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

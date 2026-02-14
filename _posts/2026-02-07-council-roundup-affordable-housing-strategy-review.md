@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-07T17:52:52+00:00'
 event_ids:
 - _events/2026-02-14-public-sessions-on-affordable-housing-strategy-draft.md
@@ -64,6 +65,7 @@ feed_content: "<span>Council Roundup: Affordable Housing Strategy review</span>\
   2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: e1a4e2cc5c2ff8ca2e878bdd146c728e25899755
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

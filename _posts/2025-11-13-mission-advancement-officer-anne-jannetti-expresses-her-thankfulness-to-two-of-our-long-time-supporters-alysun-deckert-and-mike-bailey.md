@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-13T00:48:44+00:00'
 event_ids: []
 events_extracted: true
@@ -47,6 +48,7 @@ feed_content: |-
   <p>The post <a href="https://www.compasshousingalliance.org/2025/11/mission-advancement-officer-anne-jannetti-expresses-her-thankfulness-to-two-of-our-long-time-supporters-alysun-deckert-and-mike-bailey/">Mission Advancement Officer Anne Jannetti expresses her thankfulness to two of our long-time supporters, Alysun Deckert and Mike Bailey  </a> appeared first on <a href="https://www.compasshousingalliance.org">Compass Housing Alliance</a>.</p>
 image_checksums:
 - 728a3df36a3c6a91c1e001740b25d8dec75ad163d64ca990bd97fbb0d7c32777
+images_extracted: true
 location_titles:
 - King County
 organization_title: Compass Housing Alliance

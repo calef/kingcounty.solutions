@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-12T21:06:52+00:00'
 event_ids:
 - _events/2026-02-24-thv-workshops-for-service-providers.md
@@ -10,6 +11,7 @@ feed_content: |-
   <p>The post <a>Expanding Shelter: Tiny Home &amp; Safe Lot Coming to Seattle’s D1</a> appeared first on <a>KCRHA</a>.</p>
 feed_content_checksum: 1e57378987b36b46a093c266e64b2181f4a119e2
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

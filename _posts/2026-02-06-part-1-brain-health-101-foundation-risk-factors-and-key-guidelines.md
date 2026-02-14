@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-06T21:27:30+00:00'
 event_ids: []
 events_extracted: true
@@ -77,6 +78,7 @@ feed_content: |-
   <p>The post <a>Part 1: Brain Health 101 – Foundation, Risk Factors &amp; Key Guidelines</a> appeared first on <a>Arcora Foundation</a>.</p>
 feed_content_checksum: a48125f1257ce5de00cda29b8be851c293570bb8
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Arcora Foundation

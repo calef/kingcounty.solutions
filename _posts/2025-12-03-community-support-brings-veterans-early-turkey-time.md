@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-03T19:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>More than 1,200 Houston-area Veterans received an early turkey dinner last week thanks to a special collaboration between the <a href="https://news.va.gov/?s=Michael+E.+DeBakey+VA+Medical+Center">Michael E. DeBakey VA Medical Center</a>, a group of area car dealerships and Combined Arms, a nonprofit organization that connects Veterans and their families with vital resources.</p>
 
@@ -51,6 +53,7 @@ feed_content: |-
 
   <p>The turkey giveaway not only provided meals but also fostered a sense of camaraderie among Veterans, reminding them they are not alone. “I just moved here last year from the East Coast and I am so impressed with how the community here comes together to support Veterans,” said Army Veteran Michael Woodward, summing up the sentiments of the day. “Texas really knows how to treat us right.”</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 published: false

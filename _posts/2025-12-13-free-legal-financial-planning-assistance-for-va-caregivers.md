@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-13T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -88,6 +89,7 @@ feed_content: |-
   <p>No matter where you are in your caregiving journey, you don’t have to face legal and financial planning questions alone. We’re here to help you feel confident, supported and prepared so you can focus on what matters most—caring for your Veteran. Visit <a>Legal and Financial Planning Page</a> to get started, <a>Find Your CSP Team online</a> or call the 24/7 Support Line at 1-833-422-7382 anytime.</p>
 feed_content_checksum: bfbbed734419f6ba4e70ea08337d61136f220925
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

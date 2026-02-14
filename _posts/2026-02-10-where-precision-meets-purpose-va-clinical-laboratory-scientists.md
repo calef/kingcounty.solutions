@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-10T21:30:00+00:00'
+event_ids: []
 feed_content: |-
   <p>If you’re interested in using science and technology to perform diagnostic testing while serving the Veteran community, a career as a clinical laboratory scientist at the Department of Veterans Affairs (VA) might be right for you. Also called medical technologists, clinical laboratory scientists at VA play a crucial role in ensuring Veterans receive accurate, timely, and life-saving diagnoses through their work in labs across the country. Keep reading to learn more about the benefits of a VA clinical laboratory scientist career and browse open positions near you.</p>
 
@@ -64,6 +66,7 @@ feed_content: |-
   <p>Apply your expertise in a collaborative, mission-driven environment with opportunities for growth and innovation. Explore current clinical laboratory scientist opportunities today and discover how you can help support delivering the care our nation’s Veterans have earned. Learn more at <a>VA Careers</a>.</p>
 feed_content_checksum: aed38d029bee435438ccf0f1949fa39e444e2cf5
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

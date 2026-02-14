@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-15T19:00:25+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: The road to the Super Bowl goes through Lumen Field! The Seahawks 
   against the San Francisco 49ers...
 feed_content_checksum: 9d1c5128647e989026cc01178b41bea835080ac5
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

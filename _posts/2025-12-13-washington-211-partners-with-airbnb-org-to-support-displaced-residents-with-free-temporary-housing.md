@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-13T21:46:41+00:00'
 event_ids: []
 events_extracted: true
@@ -57,6 +58,7 @@ feed_content_checksum: 3297d6575968bab329809e62366c32afcf19aa6e
 image_checksums:
 - fdce014f25353708b91e1d388294cab2beafb76415426a0d8897cd05d2f162cd
 - 64299428cb436295b96d8eb4f2a03634def062fbb96b9dc196cd190181e921c2
+images_extracted: true
 location_titles:
 - King County
 organization_title: Crisis Connections

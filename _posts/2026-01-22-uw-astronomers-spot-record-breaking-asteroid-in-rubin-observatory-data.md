@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-22T17:15:05+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/01/21110321/asteroid_visualization-1200x675.jpg"><figcaption>An artist’s rendering of 2025 MN45 — the fastest-rotating asteroid with a diameter over 500 meters that scientists have ever found. <span>Photo: NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA/P. Marenfeld</span></figcaption></figure>
   <p><span>A team led by University of Washington astronomers has discovered the fastest-ever spinning asteroid with a diameter over half a kilometer. The asteroid — found while analyzing data from the NSF–DOE Vera C. Rubin Observatory and dubbed 2025 MN45 — is 0.4 miles in diameter and completes a full rotation every 1.88 minutes.</span></p>
@@ -22,6 +24,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 3b87c10d0a7f397fa4ad0eccdac60293c0023cdf
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

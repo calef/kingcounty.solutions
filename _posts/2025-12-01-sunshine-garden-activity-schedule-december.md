@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-01T17:27:29+00:00'
+event_ids: []
 feed_content: |-
   <p>Sunshine Garden offers older adults culturally relevant activities that promote food and nutrition, health, wellness, and fitness, education, recreation, and socialization, and personal growth.</p>
   <p><a href="https://cisc-seattle.org/wp-content/uploads/2025/12/2025-12-Sunshine-Garden.pdf">View our December Activity </a></p>
@@ -11,6 +13,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>The post <a href="https://cisc-seattle.org/sunshine-garden-activity-schedule-december/">Sunshine Garden Activity Schedule – December</a> appeared first on <a href="https://cisc-seattle.org">Chinese Information and Service Center</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Chinese Information & Service Center
 published: false

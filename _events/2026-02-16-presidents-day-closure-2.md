@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T00:00:00-08:00'
 feed_content: "<section> <div> <p> <a> « All Events</a> </p> <h1>Presidents’ Day Closure</h1>
   <div> <h2><span>February 16</span></h2> </div> <div> <div> <p><strong>All KidVantage
@@ -11,6 +12,7 @@ feed_content: "<section> <div> <p> <a> « All Events</a> </p> <h1>Presidents’ 
   Hub</a>, <a>Issaquah Hub</a>, <a>Shoreline Hub</a></span> </li> </ul> </div> </div>
   </div> </div> </section>"
 feed_content_checksum: 834d60edd5f7be88ebb0d73d0a12bfb79c4b07ef
+image_checksums: []
 location: ''
 location_titles:
 - King County

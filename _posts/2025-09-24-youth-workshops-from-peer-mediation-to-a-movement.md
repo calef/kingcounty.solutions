@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-24T22:09:25+00:00'
 event_ids: []
 events_extracted: true
@@ -29,6 +30,7 @@ feed_content: |-
   <p>This article was originally featured in our newsletter, <a href="https://kcdrc.us9.list-manage.com/subscribe?u=fb0fb52947c2067c3fe6ee9c9&amp;id=5cf275bc88">sign up here</a>.</p>
   <p>The post <a href="https://kcdrc.org/youth-workshops-from-peer-mediation-to-a-movement/">Youth Workshops: From Peer Mediation to a Movement</a> appeared first on <a href="https://kcdrc.org">Dispute Resolution Center of King County</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Dispute Resolution Center of King County

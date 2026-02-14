@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-15T23:24:02+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Awards will expand housing stability citywide through new constru
   awards for the 2025 Notice of Funding Availability (NOFA) for Affordable Ren...
 feed_content_checksum: 5dc2e6465c2f85b76221f770c0cdaf264d2e6313
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

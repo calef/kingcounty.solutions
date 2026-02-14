@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-26T18:13:11+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Seattle police officers arrested a 30-year-old violent felon armed
   yesterday morning. On Nov. 25 at 2:00 a.m., officers patrolling 12th Avenue South
   and South King Str...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

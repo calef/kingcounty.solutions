@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-07T16:33:08+00:00'
 event_ids: []
 events_extracted: true
@@ -89,6 +90,7 @@ feed_content: |-
 
   <p>It is so important to recognize how people’s mental health is impacted, every one and individual has different experiences, it’s important to get the help we need.&nbsp;</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Deaf Hotline

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-09T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -62,6 +63,7 @@ feed_content: |-
   <p>This article was originally published on the <a>VA North Florida/South Georgia Health care System site </a>and has been edited for style and clarity.  </p>
 feed_content_checksum: 99c224f26909eb85f03abc86c630edb0860dde73
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-22T17:06:44+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Multi-Service Center has been chosen by the Gesa Community Foundat
   some furniture in community common areas.   “At Gesa, we are honored to support
   the Local Heroes  [...]
 image_checksums: []
+images_extracted: true
 location_titles:
 - South King County
 organization_title: Multi-Service Center

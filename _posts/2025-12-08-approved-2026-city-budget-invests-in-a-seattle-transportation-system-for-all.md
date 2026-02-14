@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-08T22:43:10+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: 'Thank you, City Council and Mayor Harrell, for continued funding 
   2026...'
 feed_content_checksum: a988edfc473dab1d82858cdfc04decdc259f2bd8
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

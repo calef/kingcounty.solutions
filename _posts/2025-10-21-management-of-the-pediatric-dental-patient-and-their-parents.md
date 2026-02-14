@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-21T16:41:10+00:00'
+event_ids: []
 feed_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/190">Start the Course</a></p>
 
@@ -74,6 +76,7 @@ feed_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/190">Start the Course</a></p>
   <p>The post <a href="https://arcorafoundation.org/management-of-the-pediatric-dental-patient-and-their-parents/">Management of the Pediatric Dental Patient (and their parents)</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Arcora Foundation
 published: false

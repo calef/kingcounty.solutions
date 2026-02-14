@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-02T18:33:54+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: February marks School-Based Health Care Awareness Month, celebrati
   to help communities recognize these everyday heroes.
 feed_content_checksum: 23f92266300286788ccd8aa3da521e98af4fa970
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

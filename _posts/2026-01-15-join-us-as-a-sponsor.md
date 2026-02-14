@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-15T19:36:42+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: |-
   <p>We have sponsorship opportunities available starting at just $250. Sponsoring an event at The Center is great visibility …</p></a>
 feed_content_checksum: 489e85b57c0ca66295d975168677b00f5c52dfa1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Center for Active Living

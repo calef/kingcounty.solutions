@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-23T19:00:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
   </span> <a> <span> Transportation &amp; Infrastructure Services Committee </span>
@@ -40,6 +41,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   <span>February 23 @ 5:30 pm</span> - <span>7:00 pm</span> </div> </li> </ul> </div>
   <p> <a> Back to events</a> </p> </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: 1f1499ad2fb0881775847a97c29ed223dad8acd6
+image_checksums: []
 location: City Hall – City Council Conference Room, 6200 Southcenter Blvd, Tukwila,
   WA, 98188, United States
 location_titles:

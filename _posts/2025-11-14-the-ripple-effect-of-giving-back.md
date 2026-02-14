@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-14T21:08:52+00:00'
 event_ids: []
 events_extracted: true
@@ -23,6 +24,7 @@ feed_content: |-
   </div>
   <p>The post <a href="https://www.vibrant.org/the-ripple-effect-of-giving-back/">The Ripple Effect of Giving Back</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Vibrant Emotional Health

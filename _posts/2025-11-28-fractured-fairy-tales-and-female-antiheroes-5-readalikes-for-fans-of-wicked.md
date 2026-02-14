@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-28T18:00:51+00:00'
+event_ids: []
 feed_content: |-
   <p>Are people born wicked? Or do they have wickedness thrust upon them? These stories reinvent well-known stories and turn fairy-tale tropes inside out. Once-overlooked characters learn about themselves and grow their magical powers, and good and evil can depend on your perspective.</p>
   <p>In <a href="https://seattle.bibliocommons.com/v2/record/S30C3760077"><strong>Nettle &amp; Bone</strong></a> by T. Kingfisher, an unassuming third-born princess allies with a gravewitch, a disgraced knight, and a well-meaning fairy godmother (who’s better at casting curses than blessings) to save her sisters from an abusive prince.</p>
@@ -9,6 +11,7 @@ feed_content: |-
   <p>A peasant girl chases after her foretold destiny &#8211; to become Empress &#8211; in <a href="https://seattle.bibliocommons.com/v2/record/S30C3296387"><strong>Forest of a Thousand Lanterns</strong></a>, the first book of a YA duology by Julie C. Dao which tells a version of Snow White set in an East Asian fantasy world.</p>
   <p><em>~posted by Amy L.</em></p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: The Seattle Public Library
 published: false

@@ -1,9 +1,11 @@
 ---
+classified: true
 feed_content: A race event benefiting Boyer Children’s Clinic, featuring a 5K, 10K,
   and a Family Fun Run.
 feed_content_checksum: 8afa31aad3a95733ef3a68acfa6a7eb9b231cc43
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: Magnuson Park
 location_titles:
 - King County

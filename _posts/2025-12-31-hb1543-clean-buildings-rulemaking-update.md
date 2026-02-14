@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-31T00:56:21+00:00'
+event_ids: []
 feed_content: |-
   <p>Thank you for your interest and participating in the rulemaking process. The rulemaking workshops concluded in September, and we received a substantial amount of feedback. We review and consider the questions and concerns raised by stakeholders. Some questions require in-depth discussion with experts, internal staff and the Assistant Attorney General.</p>
 
@@ -34,6 +36,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 3299d68b1065e0d82c527b8ba203520ef64ce52a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

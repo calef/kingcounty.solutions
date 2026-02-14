@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T17:20:07+00:00'
 event_ids: []
 events_extracted: true
@@ -48,6 +49,7 @@ feed_content: |-
   <p><strong>Comments are due by 5:00 p.m. on February 4, 2026.</strong></p>
 feed_content_checksum: 1a096f05bb609b413e33db5b321154a875bb0081
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

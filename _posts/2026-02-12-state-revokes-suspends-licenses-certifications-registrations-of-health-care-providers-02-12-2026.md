@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-12T16:37:46+00:00'
+event_ids: []
 feed_content: "<span>State revokes, suspends licenses, certifications, registrations
   of health care providers (02-12-2026)</span>\n\n            <div>\n<time>February
   12, 2026 - 8:32am</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>February
@@ -54,6 +56,7 @@ feed_content: "<span>State revokes, suspends licenses, certifications, registrat
   Department of Health</div>\n          </div>"
 feed_content_checksum: dbcea1b4f1894b88a3f6bd0bd13b50d65eb939e7
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Health
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og:

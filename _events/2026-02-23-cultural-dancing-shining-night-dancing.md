@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-23T20:00:00-08:00'
 feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <div>
   <span> Event Series: </span> <a> <span> Cultural Dancing—Shining Night Dancing </span>
@@ -22,6 +23,7 @@ feed_content: "<div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> 
   </div> <p>Comments are closed.</p> </div> </section> </div> </div> </div>"
 feed_content_checksum: 7e0a44485c8fe239182b1da1003602ee85c7f54d
 image_checksums: []
+images_extracted: true
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 location_titles:

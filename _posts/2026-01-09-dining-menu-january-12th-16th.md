@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-09T23:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>Monday ~</strong> Beef Enchiladas, Rice &amp; Black Beans, Garden Salad &amp; Fruit</p>
 
@@ -33,6 +35,7 @@ feed_content: |-
   <p>The post <a>Dining Menu January 12th – 16th</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: 1be635927c348ed1d95a1889ce9063b43fd4559c
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 original_source_html: |-

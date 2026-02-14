@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-13T21:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -80,6 +81,7 @@ feed_content: |-
   <p>From improving early detection to delivering next-generation therapies, VA is shaping the future of oncology—and there’s a place for people like you who want to make a difference. Learn more on <a>VA Careers</a>.  </p>
 feed_content_checksum: b949e8a1119a77e5baf0a5fe81e27dcd95d9f429
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

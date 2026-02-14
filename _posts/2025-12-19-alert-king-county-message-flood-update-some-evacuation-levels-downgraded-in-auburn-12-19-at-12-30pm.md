@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-19T22:19:19+00:00'
+event_ids: []
 feed_content: Posted December 19, 2025 at 2:20 p.m. Hello, 12/19 at 12:30 – All current
   Level 2 (GET SET) evacuation areas in Auburn have been downgraded to Level 1 (BE
   READY). Residents who left out of caution may return home but should remain alert
   and prepared if conditions change. As you return home you may notice […]
 feed_content_checksum: 7d8dd8d4fbf537296bb94375657d4491692de06c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

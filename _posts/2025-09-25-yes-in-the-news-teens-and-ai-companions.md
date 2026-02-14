@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-25T17:25:02+00:00'
 event_ids: []
 events_extracted: true
@@ -15,6 +16,7 @@ feed_content: |-
   <p data-start="1778" data-end="1944"><span style="color: #ff6600;"><a class="decorated-link" style="color: #ff6600;" href="https://www.cnet.com/tech/services-and-software/more-than-half-of-teens-surveyed-use-ai-for-companionship-why-thats-not-ideal/" target="_new" rel="noopener" data-start="1781" data-end="1942">Read the full article on CNET »</a></span></p>
   <p>The post <a href="https://www.youtheastsideservices.org/teens-and-ai-companions/">YES in the News: Teens and AI Companions</a> appeared first on <a href="https://www.youtheastsideservices.org">Youth Eastside Services</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - Eastside
 organization_title: Youth Eastside Services

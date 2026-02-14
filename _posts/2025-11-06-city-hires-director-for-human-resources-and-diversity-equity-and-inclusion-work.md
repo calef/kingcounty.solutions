@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-06T20:33:12+00:00'
 event_ids: []
 events_extracted: true
@@ -52,6 +53,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   class=\"datetime\">November 6 2025</time>\n</div>\n      \n    </div>\n  </div>"
 image_checksums:
 - df3e50a89251faee56bd260a21c9b43379c44668c1b9e81e38c5c7778991fa02
+images_extracted: true
 location_titles:
 - Bellevue
 organization_title: City of Bellevue

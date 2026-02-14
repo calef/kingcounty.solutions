@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-20T10:08:55+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Seattle — At 7:38 p.m., the Seattle Fire Department’s Fire Ala
   on scene ...
 feed_content_checksum: 73d968357bc4f893f8a8597d146fd90cc5e3a59b
 image_checksums: []
+images_extracted: true
 location_titles:
 - Seattle
 organization_title: City of Seattle

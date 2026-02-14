@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-23T00:58:05+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: 'Loyal Heights Community Center still has space in several winter 
   4–4:45pmCost: $...'
 feed_content_checksum: 4cad79740ab2bf5d7fcab9395684f15e4cf44d6a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-22T21:08:00+00:00'
 event_ids: []
 events_extracted: true
@@ -60,6 +61,7 @@ feed_content: "<p class=\"\">When Melody found out she was pregnant, she knew on
   \ </a>"
 image_checksums:
 - 26f09885b03d9be8b02e307f17aea3e8907fbef69e27517d95760be6d843d2f4
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-08T18:05:00+00:00'
+event_ids: []
 feed_content: |-
   <p><span>Explore the world of horror fiction with some of our librarians’ favorites! These titles were chosen as Peak Picks earlier this year and can now be found in our regular collections. They capture a wide range of horror subgenres, from historical to the weird and cosmic. Here you’ll find Gothic tales, witches, carnivals, social and survival horror, and even sporror, or horror involving fungi! </span></p>
   <p>From Virginia Feito, the acclaimed author of <a><em>Mrs. March</em></a>, comes the riveting tale of a bloodthirsty governess who learns the true meaning of vengeance in <a><strong>Victorian Psycho</strong>.</a> Christina Li’s adult debut reveals the secrets that lie in wait in the crumbling mansion of a former Hollywood starlet, and the intertwined fates of the two Chinese American families fighting to inherit it in <a><strong>The Manor of Dreams</strong>.</a> Silvia Moreno-Garcia (<em><a>Mexican Gothic</a></em>) returns with a tale of three women in three different eras who encounter danger and witchcraft in the eerie multigenerational horror saga <a><strong>The Bewitching</strong>.</a> Wendy N. Wagner’s latest, <a><strong>Girl in the Creek</strong></a>, is a pulse-pounding eco-horror set in the Pacific Northwest about how climate change is transforming our world, and is perfect for fans of Jeff VanderMeer and T. Kingfisher. Master of literary horror Dan Chaon delivers a playfully macabre and utterly thrilling tale about orphaned twins on the run from their murderous uncle who find refuge in a bizarre traveling carnival in <a><strong>One of Us</strong>.</a> Fans of cosmic horror to the front! Daniel H. Wilson draws on his Cherokee heritage in a gripping sci-fi thriller that doubles as a Native American first contact story in <a><strong>Hole in the Sky</strong>.</a> The latest from Quan Barry<strong>, </strong>a genre-bending novel of literary horror set in Antarctica that explores abandonment, guilt, and survival in the shadow of America’s racial legacy, will terrify readers in <a><strong>The Unveiling</strong></a>.</p>
@@ -8,6 +10,7 @@ feed_content: |-
   <p><em>~posted by Genesee. Descriptions provided by publishers.</em></p>
 feed_content_checksum: c652df3b80e2a81679f04abadd2ad50343848464
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: The Seattle Public Library
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-21T15:30:00+00:00'
 event_ids:
 - _events/2027-01-31-access-irs-form-1095-b-electronically-for-family-members.md
@@ -61,6 +62,7 @@ feed_content: |-
   <p>VA will release capability for family members to access IRS Form 1095-B electronically through a VA.gov account by January 2027.  </p>
 feed_content_checksum: 5e3919d40db2d3a43c167211a44afce6f13421cd
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

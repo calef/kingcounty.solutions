@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-29T00:48:13+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: |-
   <p class="read-more-container"><a title="Advocacy in Action" class="read-more button" href="https://nhwa.org/2025/11/29/advocacy-in-action/#more-25362" aria-label="Read more about Advocacy in Action">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/11/29/advocacy-in-action/">Advocacy in Action</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Neighborhood House

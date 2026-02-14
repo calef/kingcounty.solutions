@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-26T20:03:11+00:00'
 event_ids: []
 events_extracted: true
@@ -28,6 +29,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >
   to know Dave</a> appeared first on <a href=\"https://hungerintervention.org\">Hunger
   Intervention Program</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hunger Intervention Program

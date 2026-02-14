@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-20T16:38:38+00:00'
+event_ids: []
 feed_content: "<span>Bellevue introduces middle housing permit to streamline development</span>\n<span><span>CIosso</span></span>\n<span><time>Tue,
   01/20/2026 - 08:38</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<article>\n
   \ \n        <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2026-01/dsd-24-stantonstephens-middlehousingtownhomes.jpg?h=199d8c1f&amp;itok=O5CQjd-f\">\n\n\n</div>\n
@@ -28,6 +30,7 @@ feed_content: "<span>Bellevue introduces middle housing permit to streamline dev
   20 2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: 5b5c8bd55f0b35708bdac773e5c546e97dc16f8b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

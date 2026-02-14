@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-19T13:30:00-08:00'
 feed_content: '<a> Skip to main content </a> <div> <div> <div> <div> <div> <div> <a>University
   of Washington</a> </div> <div> <div> <a>Environmental &amp; Occupational Health
@@ -115,6 +116,7 @@ feed_content: '<a> Skip to main content </a> <div> <div> <div> <div> <div> <div>
 feed_content_checksum: 9a3e1fbe0fe54b17071bc96d40a06f90b8974de2
 image_checksums:
 - 8628c948decc0373f73b4a4a1c040d2ee2700b2feb1dab91d0b3eece507c17b1
+images_extracted: true
 location: ''
 location_titles:
 - King County

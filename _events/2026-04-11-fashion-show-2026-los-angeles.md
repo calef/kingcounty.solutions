@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-11T20:30:00-07:00'
 feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path/to/json2.js"></script>
   <![endif]--> <!--[if lte IE 9]> <base href="/donation/" /> <![endif]--> <base> <meta>
@@ -95,6 +96,7 @@ feed_content: '   <script></script> <meta> <!--[if lte IE 7]> <script src="/path
   <!-- End Google Tag Manager (noscript) --> <script></script><script></script>  '
 feed_content_checksum: 013aa6e6de51e0efb77d2d2ff492cf3181093e31
 image_checksums: []
+images_extracted: true
 location: New Life Community Church, 18800 Norwalk Blvd, Artesia, CA, 90701, United
   States
 location_titles: []
@@ -106,3 +108,4 @@ summarized: true
 title: Fashion Show 2026 | Los Angeles
 topic_titles: []
 ---
+

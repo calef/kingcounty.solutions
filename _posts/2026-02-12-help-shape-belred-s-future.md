@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-12T16:49:21+00:00'
+event_ids: []
 feed_content: "<span>Help shape BelRed’s future </span>\n<span><span>CIosso</span></span>\n<span><time>Thu,
   02/12/2026 - 08:49</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>
   \   <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-09/belred-mural.jpg?h=2b2bab1b&amp;itok=ofeeGmto\">\n\n\n</div>\n
@@ -28,6 +30,7 @@ feed_content: "<span>Help shape BelRed’s future </span>\n<span><span>CIosso</s
   12 2026</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: 7e63132f17a2e20623ee9595e686d032625ed569
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Bellevue

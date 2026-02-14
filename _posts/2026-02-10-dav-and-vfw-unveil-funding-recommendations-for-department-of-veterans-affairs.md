@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-10T13:44:58+00:00'
 event_ids: []
 events_extracted: true
@@ -69,6 +70,7 @@ feed_content: "<div>\n\n    \n    <p><em><img src=\"https://www.dav.org/wp-conte
   first on <a>DAV</a>.</p>"
 feed_content_checksum: 75e712d630435fd2d0b71a7f8c90be77be059d23
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

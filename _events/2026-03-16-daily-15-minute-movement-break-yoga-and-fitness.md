@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-16T11:15:00-07:00'
 feed_content: "<h2>Login</h2> <div> <p>Please sign in.</p> <form> <ul> <li> <label>UW
   NetID:</label> </li> <li> <label>Password:</label> </li> <li><a>Forgot your password?</a></li>
@@ -10,6 +11,7 @@ feed_content: "<h2>Login</h2> <div> <p>Please sign in.</p> <form> <ul> <li> <lab
   | <a>TERMS</a></span></p> </div>"
 feed_content_checksum: ee7e44b9ce8081dd36cafd26514cf4efbcbe913c
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-17T01:49:18+00:00'
+event_ids: []
 feed_content: |-
   <p>Today Councilmember Dionne Foster (Position 9) issued the following statement regarding recently released footage that includes disturbing comments from a Seattle Police officer. The incident took place last May during a counterprotest at Cal Anderson Park.  “I am disturbed by the newly released body-worn camera footage related to the May 2025 protest response at Cal...</p>
   <p>The post <a>Councilmember Foster calls for transparency and accountability following release of disturbing police officer remarks at Cal Anderson Park protest</a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: 20376d532a507b12a00deb6b1f65e0b6654c66be
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

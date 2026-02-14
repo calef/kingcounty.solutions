@@ -1,10 +1,12 @@
 ---
+classified: true
 feed_content: An event focusing on connection, learning, and collaboration in the
   field of human development and disability, featuring lightning talks, poster presentations,
   and networking opportunities.
 feed_content_checksum: 8c313757f6e5a2a040ff52fd986917d637c77ad2
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: University of Washington South Campus Center
 location_titles:
 - King County

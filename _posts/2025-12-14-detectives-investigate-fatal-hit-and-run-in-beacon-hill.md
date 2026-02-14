@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-14T11:43:23+00:00'
+event_ids: []
 feed_content: Detectives are investigating a fatal hit-and-run collision that killed
   a bicyclist early Sunday in Beacon Hill neighborhood. Shortly after 12:00 a.m.,
   officers responded to reports of a collision at Beacon Avenue South and South Stevens
   Street. Officer...
 feed_content_checksum: b132bd5a607160496aaee386ce945f6ef7756bbf
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

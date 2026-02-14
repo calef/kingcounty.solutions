@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-23T08:45:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1>Zumba
   Toning *Online*</h1> </div> </div> </div> </div> </div> <div> <div> <div> <div>
@@ -102,6 +103,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   </ul> </div> <div> <a>View preferences</a> </div> <div> <ul> <li><a>{title}</a></li>
   <li><a>{title}</a></li> <li><a>{title}</a></li> </ul> </div> </div> </div>"
 feed_content_checksum: 514076c865c2154d7e95d31fdffecb7a8e5baf74
+image_checksums: []
 location: Online / Virtual
 location_titles:
 - King County

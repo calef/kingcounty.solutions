@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T14:00:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <li><a>Login</a></li>
   <li><a>Volunteer</a></li> <li><a>DONATE</a></li> </ul></div></div> </div> </div>
@@ -14,6 +15,7 @@ feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <l
   <span>Kirkland</span><span>,</span> <abbr>WA</abbr> <span>United States</span> </span>
   </address> </li> </ul> </div> </div> </div> </div> </section> </div>"
 feed_content_checksum: 21350bca682b63d3bee84464db84a28bf4d8fae3
+image_checksums: []
 location: Beaver Lake Lodge, 25099 SE 24th St, Kirkland, WA, United States
 location_titles:
 - King County

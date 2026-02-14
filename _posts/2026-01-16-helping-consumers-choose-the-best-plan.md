@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-16T13:38:18-05:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Fri, 16 Jan 2026 1
   a Marketplace Plan</p>"
 feed_content_checksum: 022a13c4ab7a55daa9df6f881ca288f0145019bb
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Centers for Medicare & Medicaid Services

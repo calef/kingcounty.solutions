@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-13T17:53:56+00:00'
 event_ids:
 - _events/2026-02-17-legislative-cutoff-deadline.md
@@ -316,6 +317,7 @@ feed_content: |-
   <p>The post <a>2026 Legislative Session Update</a> appeared first on <a>BrightSpark</a>.</p>
 feed_content_checksum: 750171c691e5a58c36428bfd9f21f150af512832
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: BrightSpark

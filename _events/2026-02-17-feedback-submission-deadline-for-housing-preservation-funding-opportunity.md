@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Deadline for developers to submit feedback regarding upcoming draft
   Notices of Funding Availability for housing preservation and affordability.
 feed_content_checksum: a3f95057935d83701ec13c17aba38e1b639d3268
 generated_from_post: true
+image_checksums: []
 location: ''
 location_titles:
 - King County

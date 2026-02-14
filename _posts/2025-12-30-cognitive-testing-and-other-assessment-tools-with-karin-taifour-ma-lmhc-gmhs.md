@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-30T21:24:14+00:00'
 event_ids: []
 events_extracted: true
@@ -99,6 +100,7 @@ feed_content: |-
   <p>The post <a>Cognitive Testing and Other Assessment Tools with Karin Taifour, MA, LMHC, GMHS</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: d28c49428eae23d78005cd12991d34bdf0ce722f
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

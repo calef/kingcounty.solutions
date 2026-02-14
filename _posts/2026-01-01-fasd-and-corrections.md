@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-01T19:08:20Z'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: "<p>Many individuals with one of the FASD diagnoses will have enco
   during teen years. We know that 1 in 20 U.S. school-aged children ...</p>"
 feed_content_checksum: 942b3a47b4ee2b64061d1643329f6b5967acf327
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Fetal Alcohol Spectrum Disorder Education

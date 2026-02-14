@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-25T14:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -75,6 +76,7 @@ feed_content: "<p>The sharing of non-VA information does not constitute an endor
   employer’s life easier, we will make the Veteran’s life better.</p>"
 image_checksums:
 - 34263867dafbcdd68d71913952f47fe379ce7eb02c6e5d44309fef573ffa8585
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

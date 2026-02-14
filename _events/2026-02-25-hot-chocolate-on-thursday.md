@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Michiko Aoyama will discuss her novel.
 feed_content_checksum: 3c67f7690cf0ceb3be55b57b3d957da86c25886e
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

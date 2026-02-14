@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-20T19:38:42+00:00'
 event_ids: []
 events_extracted: true
@@ -47,6 +48,7 @@ feed_content: |-
 
   <p>To learn more and follow Commerce’s work with tribal nations and communities within Washington, visit the <a href="https://www.commerce.wa.gov/tribal-relations/">Office of Tribal Relations webpage</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-14T02:26:18+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Residents of Auburn at Pike Street NE and Pike Place NE off the Gr
   WALK OR DRIVE through moving water or on flooded roadways. […]
 feed_content_checksum: 786a25844814ad5d58f6444f1c36f8532e168f1a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Emergency Management

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-08T02:05:48+00:00'
 event_ids: []
 events_extracted: true
@@ -6,6 +7,7 @@ feed_content: Weekend Service Impacts Route 181 will be rerouted off of E Main 
   in Downtown Auburn on Saturday, November 8 from 5 a.m. to 4 p.m. during the Veterans
   Day Parade;...
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-11T22:39:16+00:00'
+event_ids: []
 feed_content: Cedar River Water and Sewer District has issued a 48-hour Precautionary
   Boil Water Advisory beginning on 12/11 for the east area of the Water District to
   include the area east of the Cedar River and south of Highway 18 while samples are
@@ -7,6 +9,7 @@ feed_content: Cedar River Water and Sewer District has issued a 48-hour Precauti
   […]
 feed_content_checksum: 9c9c52a91f18a2774ec9429dfa72bc32657c09e8
 image_checksums: []
+images_extracted: true
 location_titles:
 - Maple Valley
 - Enumclaw

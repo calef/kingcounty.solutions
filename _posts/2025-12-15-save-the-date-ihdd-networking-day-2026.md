@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-15T21:06:15+00:00'
 event_ids:
 - _events/2026-05-11-ihdd-networking-day-2026.md
@@ -54,6 +55,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
 feed_content_checksum: 16e09a5d89a8a9ee7c1384aa219b7c0e48c8c35a
 image_checksums:
 - '0935d33b18fe5df807ed944f44f6baa59dfea58a16ff127e175eb15ffd27b670'
+images_extracted: true
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

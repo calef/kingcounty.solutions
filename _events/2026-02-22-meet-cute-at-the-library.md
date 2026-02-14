@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Amber Flame's event will focus on love poetry.
 feed_content_checksum: b63efa1c05b721944e4f35bac6e2653b5fc09392
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

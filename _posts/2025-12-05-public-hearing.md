@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-05T00:36:50+00:00'
+event_ids: []
 feed_content: "<div class=\"field field-name-field-date-and-time field-type-datetime
   field-label-hidden\">\n  \n      \n    <span  property=\"dc:date\" datatype=\"xsd:dateTime\"
   content=\"2025-12-08T18:00:00-08:00\" class=\"date-display-single\">12/08/2025 -
@@ -8,6 +10,7 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   Master Planned Development (MPD) - Major Amendment to the MPD Permit and Development
   Agreement.  Public Hearing will be held on December 8, 2025, at 6 p.m.</p>\n      </div>"
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: City of Black Diamond
 published: false

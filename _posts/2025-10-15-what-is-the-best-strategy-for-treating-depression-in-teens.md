@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-15T16:25:09+00:00'
 event_ids: []
 events_extracted: true
@@ -30,6 +31,7 @@ feed_content: |-
   <p class="p1">Together with the therapists at THIRA Health, you play a vital part in helping your teen create and sustain “a life worth living.” Your involvement not only supports their immediate progress but also strengthens the foundation for long-term mental well-being.</p>
   <p class="p5">If you’re ready to <a href="https://thirahealth.com/contact/"><span class="s1">get started with THIRA Health</span></a>, we welcome you to get in touch today.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: THIRA Health

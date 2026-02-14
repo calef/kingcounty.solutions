@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-25T16:41:38+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Job Golla (he/him/his) is an intern in the Human Services Departme
   media and communication studies. What made you decide to join HSD as an intern this
   summer? One of [&#8230;]
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

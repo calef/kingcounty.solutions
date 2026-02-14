@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-28T13:00:00-07:00'
 feed_content: "<section> <div> <p> <a> « All Events </a> </p> <h1>25th Anniversary
   of the Step Up to the Plate Benefit Luncheon</h1> <div> <div> <p> <span> April 28
@@ -30,6 +31,7 @@ feed_content: "<section> <div> <p> <a> « All Events </a> </p> <h1>25th Annivers
   Navigation</h3> <ul> <li><a><span>«</span> One Heart/One Community – A Party With
   a Purpose!</a></li> </ul> </div> </div> </section>"
 feed_content_checksum: ad4877d7baa065205baf88949b3203f5863af573
+image_checksums: []
 location: Washington
 location_titles:
 - King County

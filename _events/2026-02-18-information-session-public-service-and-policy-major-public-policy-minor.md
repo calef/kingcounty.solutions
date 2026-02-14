@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-18T15:15:00-08:00'
 feed_content: "<article> <div> <div> <section> <div> <div> <div> <div> <h2>Inspiring
   Public Service, Democratizing Public Policy</h2> <div> <div> <p>As a top ranked
@@ -56,6 +57,7 @@ feed_content: "<article> <div> <div> <section> <div> <div> <div> <div> <h2>Inspi
   </div> </div> </div> </div> </article>"
 feed_content_checksum: 8f32943a1f18d1b1f0acda47ae436e54382143d2
 image_checksums: []
+images_extracted: true
 location: Zoom
 location_titles:
 - King County

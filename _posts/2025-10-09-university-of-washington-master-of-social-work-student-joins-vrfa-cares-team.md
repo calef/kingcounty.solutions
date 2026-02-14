@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-09T16:13:30+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: |-
 
   The post [University of Washington Master of Social Work Student Joins VRFA CARES Team](https://www.vrfa.org/2025/10/university-of-washington-master-of-social-work-student-joins-vrfa-cares-team/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Valley Regional Fire Authority

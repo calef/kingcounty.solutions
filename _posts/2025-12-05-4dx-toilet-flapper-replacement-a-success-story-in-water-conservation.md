@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-05T19:06:48+00:00'
 event_ids: []
 events_extracted: true
@@ -15,6 +16,7 @@ feed_content: |-
   <p>Thank you to everyone who dedicated their time to this project!</p>
   <p>The post <a href="https://www.mercyhousing.org/2025/12/4dx-toilet-flapper-replacement-a-success-story-in-water-conservation/">4DX Toilet Flapper Replacement: A Success Story in Water Conservation</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mercy Housing

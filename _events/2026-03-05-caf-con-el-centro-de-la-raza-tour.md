@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-05T09:30:00-08:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <h1>Café
   con El Centro de la Raza Tour</h1> <div><div> <span>March 5 @ 8:30 am</span> - <span>9:30
@@ -29,6 +30,7 @@ feed_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <h1>C
   </div> </li> </ul> </div> </div> </section></div></article>"
 feed_content_checksum: 3ec8381b8df9591e84dd5d721bb7517d532aa1c9
 image_checksums: []
+images_extracted: true
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 location_titles:
 - King County

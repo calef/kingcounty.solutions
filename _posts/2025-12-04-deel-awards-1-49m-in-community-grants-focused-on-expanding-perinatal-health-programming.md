@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-04T22:14:26+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Programming will support healthy and equitable births, emotional w
   of color through culturally responsive birth to three services  Today, the Department...
 feed_content_checksum: c2825c4b7a9b3e6f51ad27a0827f30df00240f7c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

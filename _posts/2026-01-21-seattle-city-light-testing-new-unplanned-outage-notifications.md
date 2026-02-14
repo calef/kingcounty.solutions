@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-21T20:18:29+00:00'
+event_ids: []
 feed_content: Get outage alerts any time, anywhere. Seattle City Light is testing
   a new unplanned power outage notification system to alert customers about power
   outages and restorations via text or email. We encourage you to log in to your Utility
@@ -7,6 +9,7 @@ feed_content: Get outage alerts any time, anywhere. Seattle City Light is testin
   timely alerts. During this […]
 feed_content_checksum: b353dbdfd2b949d8a41d6dda7f6b201d1fd4a4de
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-31T02:14:56+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Weekend Service Impacts Route 21 and RapidRide C Line will be rer
   p.m. on...
 feed_content_checksum: 48a0e255eca237ac6017e63056577815ecbe9c8e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

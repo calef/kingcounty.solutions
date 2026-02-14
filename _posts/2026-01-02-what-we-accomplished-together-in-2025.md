@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-02T22:37:09+00:00'
+event_ids: []
 feed_content: |-
   <p>Dear Neighbor, 2025 was a busy year! Thank you for working with me to win some major victories for District 6 and our city as a whole. Before we enter 2026, I want to take a moment to reflect on the amazing work we did together this year.   From updating our 20-year growth plan and...</p>
   <p>The post <a>What we accomplished together in 2025</a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: eb057e0ac314a6f236a7630562c76dad269e0b1b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

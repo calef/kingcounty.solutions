@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-02T21:23:00+00:00'
 event_ids: []
 events_extracted: true
@@ -28,6 +29,7 @@ feed_content: "<p>Ryan, a single father to his 10-year-old son, Andrew, reached 
   \n  <a>\n    Make a gift to help more families like Ryan's\n  </a>"
 feed_content_checksum: b0b3187f48c057f4ea997293c9a8ba7735caf35d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Mary's Place

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-13T20:58:01+00:00'
 event_ids:
 - _events/2026-03-16-crp-funding-application-deadline.md
@@ -67,6 +68,7 @@ feed_content: |-
   <p></p>
 feed_content_checksum: 5bbbce0195b152b3113e55c0a368577f11f12c9e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Department of Commerce

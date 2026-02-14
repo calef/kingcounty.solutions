@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-24T19:52:36+00:00'
+event_ids: []
 feed_content: |-
   <div>
   <object></object><a>26.j.f.newlsetter.ws</a><a>Download</a>
@@ -7,6 +9,7 @@ feed_content: |-
   <p>The post <a>January &amp; February 2026 Newsletter</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: 68c909203f7ed2035dba28b5a017bda4f13261a7
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 original_source_html: |-

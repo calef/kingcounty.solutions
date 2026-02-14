@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-07T21:54:35+00:00'
+event_ids: []
 feed_content: |-
   <form>
   <input>
@@ -9,6 +11,7 @@ feed_content: |-
   <p>The post <a>Protected: Welcome to the First Day of the 2026 Legislative Session!</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: 402d048eeec1a364a864aab3b5f47ec906901ac3
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Northwest Harvest

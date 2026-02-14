@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-28T21:26:22+00:00'
 event_ids: []
 events_extracted: true
@@ -9,6 +10,7 @@ feed_content: Community Corner highlights the work of Seattle Human Services’ 
   them on […]
 feed_content_checksum: 8c60ba5db11b5d20f2d03660674344e7ed1ed957
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Seattle Human Services Department

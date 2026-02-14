@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-06T14:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -45,6 +46,7 @@ feed_content: |-
 
   <p>For more Office of Research and Development updates, visit&nbsp;<a href="https://www.research.va.gov/" rel="noopener">ORD online</a>&nbsp;or go to https://www.research.va.gov/news_briefs/.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

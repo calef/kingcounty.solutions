@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-10-02T18:54:43+00:00'
+event_ids: []
 feed_content: |-
   By Steven Schauer, Deputy Executive Director
 
@@ -76,6 +78,7 @@ feed_content: |-
 
   The post [Celebrate Salmon Season in King County: Protecting a Northwest Icon](https://kingcountyfloodcontrol.org/celebrate-salmon-season-in-king-county-protecting-a-northwest-icon/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: King County Flood Control District
 published: false

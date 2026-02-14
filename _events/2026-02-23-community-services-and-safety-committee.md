@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-23T19:00:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
   </span> <a> <span> Community Services &amp; Safety Committee </span> </a> </div>
@@ -38,6 +39,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   </div> </div> </div> </section>"
 feed_content_checksum: 83f81be87b0b61f5774c80f0c2a7951014d47ffe
 image_checksums: []
+images_extracted: true
 location: City Hall – Hazelnut Conference Room, 6200 Southcenter Boulevard, Tukwila,
   WA, 98188, United States
 location_titles:

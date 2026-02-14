@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-06T19:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -81,6 +82,7 @@ feed_content: |-
   <p>Also, see how you can <a>score big at your commissary and learn more tailgating tips</a>. Remember: With the right tips and recipes, your game day celebration will be a win, no matter the score.</p>
 feed_content_checksum: d39db0b3de204713755b2fa5af5c02a1c738b4e6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

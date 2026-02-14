@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-04-17T19:30:00-07:00'
 feed_content: "<div> <div> <p>Seattle orchestra Harmonia (William White, conductor)
   performs concerto excerpts with UW piano students.<em>This performance is made possible
@@ -65,6 +66,7 @@ feed_content: "<div> <div> <p>Seattle orchestra Harmonia (William White, conduct
   </div>"
 feed_content_checksum: 8a36429f0947d5153be7a559805f17cffdb9379a
 image_checksums: []
+images_extracted: true
 location: Meany Hall (MNY)
 location_titles:
 - King County

@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2026-01-15T22:05:34+00:00'
+event_ids: []
 feed_content: The Seattle Office of Arts &amp; Culture invests in Seattle’s arts and
   cultural sector, including cultural organizations, arts groups, individual artists,
   youth arts programs, and neighborhood and community groups. See our open opportunities
   for 2026 b...
 feed_content_checksum: 93a6377e67e504ebe82ad16c16c481319093b30c
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

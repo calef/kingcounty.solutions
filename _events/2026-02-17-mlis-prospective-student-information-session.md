@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-17T16:00:00-08:00'
 feed_content: Michelle H. Martin’s office is warm, inviting, and overflowing with
   books. Her desk and shelves are filled with reading material for children, young
@@ -6,6 +7,7 @@ feed_content: Michelle H. Martin’s office is warm, inviting, and overflowing w
   outfit...
 feed_content_checksum: 15e185a8ebfe3a733a7734a9054ec69cbf74c952
 image_checksums: []
+images_extracted: true
 location: Zoom
 location_titles:
 - King County

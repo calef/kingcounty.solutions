@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-25T16:00:00-08:00'
 feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wallingford
   Food Bank has moved to a temporary location. Learn more →</p> </div> </div> </div>
@@ -50,6 +51,7 @@ feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wall
   </script> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.familyworksseattle.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
 feed_content_checksum: 053a457580886d1881548e29b3816204ae6d5741
+image_checksums: []
 location: Broadview Branch – Seattle Public Library, 12755 Greenwood Ave N, Seattle,
   WA, 98133, United States
 location_titles:

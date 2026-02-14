@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-30T19:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>Uniting to provide homes and hope for Veterans this holiday season</h2>
 
@@ -94,6 +96,7 @@ feed_content: |-
   <p>Find out more information about <a>VA’s Homeless Program</a>.</p>
 feed_content_checksum: e65ca7444fd69edf68865dd5c4ab6903440a093c
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

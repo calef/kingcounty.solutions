@@ -1,11 +1,14 @@
 ---
+classified: true
 date: '2025-12-15T21:38:20+00:00'
+event_ids: []
 feed_content: The holidays are over, but your Christmas tree doesn’t have to end up
   in the landfill! Seattle Public Utilities customers can compost their trees and
   other holiday greens for free through January 31. Composting your Christmas tree
   is an easy way ...
 feed_content_checksum: 54a1727512ed3e40ceb5240831254070631f9074
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

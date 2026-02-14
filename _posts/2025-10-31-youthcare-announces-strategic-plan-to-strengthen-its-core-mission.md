@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-31T02:22:29+00:00'
 event_ids: []
 events_extracted: true
@@ -84,6 +85,7 @@ feed_content: |-
   <p></p>
   <p>The post <a href="https://youthcare.org/blog/youthcare-announces-strategic-plan-to-strengthen-its-core-mission/">YouthCare Announces Strategic Plan to Strengthen its Core Mission</a> appeared first on <a href="https://youthcare.org">YouthCare</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: YouthCare

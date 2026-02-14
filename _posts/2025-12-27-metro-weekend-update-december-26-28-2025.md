@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-27T01:17:55+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: 'Weekend Service Impacts Routes 101, 150, ST 545, ST 550, and ST 5
   Saturday, December 27,...'
 feed_content_checksum: b386347efafc1bcd0e7b9719a54f074502b14ac0
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

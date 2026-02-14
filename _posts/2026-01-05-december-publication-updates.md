@@ -1,8 +1,11 @@
 ---
+classified: true
 date: '2026-01-05T22:18:41+00:00'
+event_ids: []
 feed_content: Tips Updated Draft Director’s Rules
 feed_content_checksum: 94e6b896c0f79f15ca6dbdd2d76cf982e39bf908
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

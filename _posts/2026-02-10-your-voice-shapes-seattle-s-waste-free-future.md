@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-10T21:40:56+00:00'
+event_ids: []
 feed_content: <a><img src="https://atyourservice.seattle.gov/wp-content/uploads/sites/15/2026/02/spu-wasteprevention-survey-promo-a-150x150.png"></a>Take
   the survey and make sure Seattle’s waste prevention plan reflects your priorities.
   Seattle Public Utilities (SPU) invites people who live or work in Seattle to take our
@@ -8,6 +10,7 @@ feed_content: <a><img src="https://atyourservice.seattle.gov/wp-content/uploads/
   how our city can reduce waste […]
 feed_content_checksum: 9a212316ee07ac49f7eb41a123aa5542243dadfe
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Seattle Public Utilities

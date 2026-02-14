@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-09T00:33:05+00:00'
+event_ids: []
 feed_content: |-
   <p>We have recently completed processing the records of Councilmember Kshama Sawant, including seven different record series. Sawant served on City Council from 2014 through 2023, first in a citywide position and then representing District 3 after a charter amendment reorganized the council into geographical districts. She was associated with the successful push for a $15/hour […]</p>
   <p>The post <a>Newly Processed: Councilmember Kshama Sawant Records</a> appeared first on <a>Primary Sources</a>.</p>
 feed_content_checksum: 2c178e43fc4b31c6308474e763c9d28fd778d8f1
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

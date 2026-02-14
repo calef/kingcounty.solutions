@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-27T22:28:13+00:00'
+event_ids: []
 feed_content: |-
   <p>A series of adult forums following worship on Sundays Sundays during the season after Epiphany we are exploring how our faith impacts various aspects of our lives and vocation. A … <a>Read More</a></p>
   <p>The post <a>Living through Troubled Times</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: a7068e26d85bf88b3e1721e0ace83ffafed52686
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

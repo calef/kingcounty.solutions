@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-24T19:30:00-08:00'
 feed_content: 'Event interval: Single day event Campus room: Room 120 Lecture Hall
   Accessibility Contact: ticket@uw.edu Event Types: Screenings Event sponsors: Presented
@@ -14,6 +15,7 @@ feed_content: 'Event interval: Single day event Campus room: Room 120 Lecture Ha
   understanding of the power of art in a time of plague. Click here to register: https://docs.google.com/forms/d/1wkdIbtD0WaFbaKS-LJJs1f5rf18ZIyyNwsahW1dEihI/viewform?edit_requested=true'
 feed_content_checksum: 41f8deee1b1fdcd96cb6841f897e0c975e3dfd79
 image_checksums: []
+images_extracted: true
 location: 'UW Communications Building, Room 120 Lecture Hall: 4109 E Stevens Way NE,
   Seattle, WA 98195'
 location_titles:

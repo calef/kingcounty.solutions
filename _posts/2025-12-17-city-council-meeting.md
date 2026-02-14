@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2025-12-17T17:02:00+00:00'
+event_ids: []
 feed_content: "<div>\n  \n      \n    <span>02/05/2026 - 7:00pm</span>\n      </div>\n\n<div>\n
   \ \n      \n    <p>For City Council Meeting Agendas <a>PLEASE CLICK HERE</a></p>\n
   \     </div>"
 feed_content_checksum: 664b0a50b220322423da0a307f318640fc8c70d3
 image_checksums: []
+images_extracted: true
 location_titles:
 - Black Diamond
 organization_title: City of Black Diamond

@@ -1,8 +1,10 @@
 ---
+classified: true
 end_date: '2026-02-16T05:00:00-08:00'
 feed_content: Metro bus routes will experience service impacts due to construction.
 feed_content_checksum: 3d4006194f692da76f3323f3cdbb02fc30c33b1a
 generated_from_post: true
+image_checksums: []
 location: 3rd Avenue & Virginia Street
 location_titles:
 - King County

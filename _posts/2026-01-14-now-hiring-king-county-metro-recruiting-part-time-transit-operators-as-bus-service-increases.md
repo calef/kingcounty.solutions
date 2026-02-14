@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-14T22:57:17+00:00'
 event_ids:
 - _events/2026-09-01-major-service-changes.md
@@ -8,6 +9,7 @@ feed_content: King County Metro launched a new hiring push today as the agency s
   levels. The job posting is available...
 feed_content_checksum: dc91a5b8f5122df4459f52308dfe0f791d265724
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County Metro Transit

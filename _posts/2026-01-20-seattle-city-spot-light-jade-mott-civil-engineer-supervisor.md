@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-20T16:00:00+00:00'
+event_ids: []
 feed_content: '<img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2026/01/mott_spotlight_4x3-150x150.png">The
   Basics  Division: Project Delivery How long have you been at City Light? 9 years
   and 8 months Tell us about your role. I’m the Civil Engineer Supervisor in the Construction
@@ -8,6 +10,7 @@ feed_content: '<img src="https://powerlines.seattle.gov/wp-content/uploads/sites
   My focus is […]'
 feed_content_checksum: 6d4e3a907bad2eed8a21d144474754604959de7d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City Light Bill Assistance Programs

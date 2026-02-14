@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-26T18:12:47+00:00'
+event_ids: []
 feed_content: |-
   <p>Kevin Morehart began his fire service career in April 1994 with the Auburn Fire Department, now the Valley Regional Fire Authority, after working as a social worker and pawnbroker.</p>
   <p>Initially drawn to law enforcement, Morehart found his passion volunteering in the fire service. The camaraderie, excitement, and hands-on work helped him feel at home, and he enjoyed working alongside fellow firefighters, who always made the job enjoyable.</p>
@@ -13,6 +15,7 @@ feed_content: |-
   <p>The post <a>Battalion Chief Kevin Morehart retires after 31 years of dedicated service</a> appeared first on <a>Valley Regional Fire Authority (VRFA)</a>.</p>
 feed_content_checksum: 4728ad09d24cca7aa7d82d7e06339cbee647971a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Valley Regional Fire Authority

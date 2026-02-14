@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-21T22:22:31+00:00'
 event_ids: []
 events_extracted: true
@@ -87,6 +88,7 @@ feed_content: |-
   <p>The post <a href="https://arcorafoundation.org/smile-survey/">Smile Survey</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
 image_checksums:
 - 596b3bb8797565f3d97f4d83a9e334646442834fe6f09ea35f58a048827f1924
+images_extracted: true
 location_titles:
 - King County
 organization_title: Arcora Foundation

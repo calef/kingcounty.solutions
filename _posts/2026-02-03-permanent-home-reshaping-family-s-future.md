@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-03T14:00:00+00:00'
+event_ids: []
 feed_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Purple Heart Recipient Sees Permanent Home Reshaping His Family’s Future</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 
@@ -125,6 +127,7 @@ feed_content: |-
   <p>The post <a>Permanent Home Reshaping Family’s Future</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 0c6f6a33254648c897434ccafa82c12ca95598fe
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Operation Homefront
 original_source_html: |-

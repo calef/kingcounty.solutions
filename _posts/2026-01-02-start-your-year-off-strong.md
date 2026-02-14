@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-02T20:56:36+00:00'
 event_ids: []
 events_extracted: true
@@ -11,6 +12,7 @@ feed_content: |-
   <p>The post <a>Start your year off strong</a> appeared first on <a>Transforming Age | Senior Housing, Community Services, Philanthropy, Technology &amp; Partnerships</a>.</p>
 feed_content_checksum: 03c8d81c5201403b82d3957e758b2a24ff000203
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Transforming Age

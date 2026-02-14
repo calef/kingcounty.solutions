@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-19T21:00:00-08:00'
 feed_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</span>
   </div> </div> </div> </div> </header> <div> <section> <div> <p> <a> « All Events</a>
@@ -26,6 +27,7 @@ feed_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</sp
   </script>
 feed_content_checksum: 6f881a1e58c5005c9d18b6a9656963abbd64b424
 image_checksums: []
+images_extracted: true
 location: Zoom Meeting
 location_titles:
 - Normandy Park

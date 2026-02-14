@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-22T16:57:01+00:00'
 event_ids: []
 events_extracted: true
@@ -42,6 +43,7 @@ feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/u
   post <a>How Golden Corral lets veterans pay it forward</a> appeared first on <a>DAV</a>.</p>"
 feed_content_checksum: 695dead8c7f080dcc5c42db4fa160a9f28dda1ba
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Disabled American Veterans

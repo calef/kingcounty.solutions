@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-12-22T19:39:22+00:00'
+event_ids: []
 feed_content: |-
   <p><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1.jpg"></p>
   <p><strong>Come curious. Leave inspired.</strong></p>
@@ -77,6 +79,7 @@ feed_content: |-
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 312d52084547d7c0e28ecac829d195c1a8c5085b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: University of Washington

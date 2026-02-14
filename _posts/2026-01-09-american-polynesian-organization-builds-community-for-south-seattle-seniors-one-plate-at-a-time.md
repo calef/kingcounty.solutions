@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-09T00:49:29+00:00'
 event_ids: []
 events_extracted: true
@@ -8,6 +9,7 @@ feed_content: Sharing a meal with others feels good. Food has always connected 
   the...
 feed_content_checksum: b4d0bd2f9a576ab78bb6ce2c52f7f8ee3ac22ea6
 image_checksums: []
+images_extracted: true
 location_titles:
 - Seattle
 - South King County

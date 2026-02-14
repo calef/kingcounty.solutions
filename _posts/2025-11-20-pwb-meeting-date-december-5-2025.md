@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2025-11-20T19:45:04+00:00'
+event_ids: []
 feed_content: |-
   <p>The Public Works Board’s next meeting is on December 5, 2025, from 8:30 a.m. – 12:30 p.m. This is a hybrid meeting with online Zoom and in-person participation options.</p>
 
@@ -21,6 +23,7 @@ feed_content: |-
 
   <p></p>
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

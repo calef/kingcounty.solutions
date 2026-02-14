@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-30T17:12:16+00:00'
 event_ids: []
 events_extracted: true
@@ -43,6 +44,7 @@ feed_content: |-
 
   _Empower Youth Network (EYN) thanks_ Henry Erhnman _for all his service over the years to empower and inspire youth in Snoqualmie Valley. EYN wishes him all the best in his studies at the University of Washington._
 image_checksums: []
+images_extracted: true
 location_titles:
 - Snoqualmie Valley
 organization_title: Empower Youth Network

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-10T23:01:05+00:00'
 event_ids: []
 events_extracted: true
@@ -10,6 +11,7 @@ feed_content: <img src="https://artbeat.seattle.gov/wp-content/uploads/sites/32/
   program called Community Hub.  The idea addresses multiple needs voiced […]
 feed_content_checksum: b9d71499694beae27f781f0c77b9554aabca1502
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

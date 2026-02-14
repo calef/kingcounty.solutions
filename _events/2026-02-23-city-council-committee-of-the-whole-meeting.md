@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-23T22:00:00-08:00'
 feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
   </span> <a> <span> City Council Committee of the Whole Meeting </span> </a> </div>
@@ -46,6 +47,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   </div> </div> </div> </section>"
 feed_content_checksum: 98d6e84fbc10ad72d3abc33f5b249703562000fb
 image_checksums: []
+images_extracted: true
 location: Tukwila City Hall – Council Chambers, 6200 Southcenter Blvd. , Tukwila,
   98188, United States
 location_titles:

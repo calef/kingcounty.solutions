@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-26T17:52:15+00:00'
 event_ids: []
 events_extracted: true
@@ -41,6 +42,7 @@ feed_content: |-
   <p>Whether you are newly diagnosed, deep in treatment, navigating survivorship, or living with metastatic cancer, the healing benefits… emotional, psychological, and physiological… are real. <strong>And you do not have to walk this path alone.</strong></p>
   <p><a href="https://www.harmonyhill.org/cancer/"><strong>Explore upcoming retreat dates and learn more about our 3-Day Cancer Retreats at Harmony Retreats.</strong></a></p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Cancer Lifeline Financial Assistance for Cancer Patients

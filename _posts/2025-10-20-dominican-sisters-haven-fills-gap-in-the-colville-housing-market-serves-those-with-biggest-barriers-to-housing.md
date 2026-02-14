@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-20T16:19:41+00:00'
 event_ids: []
 events_extracted: true
@@ -20,6 +21,7 @@ feed_content: |-
 
   Thanks to all who made Dominican Sisters Haven possible!&nbsp;
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Department of Commerce
 published: false

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-15T01:18:51+00:00'
 event_ids: []
 events_extracted: true
@@ -201,6 +202,7 @@ feed_content: "<p><img src=\"https://s14621.pcdn.co/wp-content/uploads/2025/10/P
 feed_content_checksum: 0d0717078ec3b3cf328f46b9708ce9488a2dd8ac
 image_checksums:
 - 2b116907ea0e3d5645544de9846b2a6430acb0987ddc7779fd1d660cff5fcde6
+images_extracted: true
 location_titles:
 - King County
 organization_title: Solid Ground

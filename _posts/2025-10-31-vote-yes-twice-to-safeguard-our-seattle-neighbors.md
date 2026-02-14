@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-31T16:45:09+00:00'
 event_ids: []
 events_extracted: true
@@ -22,6 +23,7 @@ feed_content: |-
   <hr />
   <p class="tmc-caption"><span data-ccp-props="{}">Now is the time to join together to make meaningful, systemic changes! Check out our <a href="https://www.solid-ground.org/get-involved/advocacy-actions/" target="_blank" rel="noopener">Advocacy Actions</a> to join our work locally and follow our friends at the <a href="https://povertyaction.org/" target="_blank" rel="noopener">Statewide Poverty Action Network</a> for ways to make a difference across Washington state!</span></p>The post <a href="https://www.solid-ground.org/vote-yes-twice-to-safeguard-our-seattle-neighbors/">Vote YES – twice! – to safeguard our Seattle neighbors</a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Solid Ground

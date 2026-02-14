@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-01-16T21:50:46+00:00'
+event_ids: []
 feed_content: |-
   <p>Seattle’s recognition of Martin Luther King, Jr. Day traces back to December 28, 1970, when Seattle City Council passed Resolution 22872 declaring January 15 as a city holiday to “express our gratitude for his services to mankind.” A copy of the resolution was sent to Dr. King’s widow Coretta Scott King, Washington Governor Dan Evans, […]</p>
   <p>The post <a>Martin Luther King, Jr. Day in Seattle</a> appeared first on <a>Primary Sources</a>.</p>
 feed_content_checksum: c7ce8f509d17c2a9b3eb5e832ba22e14efd7c790
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: City of Seattle

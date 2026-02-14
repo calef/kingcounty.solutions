@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-06T21:28:58+00:00'
 event_ids: []
 events_extracted: true
@@ -69,6 +70,7 @@ feed_content: |-
   <p>The post <a>Health Happens Everywhere: Understanding Social Determinants of Health</a> appeared first on <a>Arcora Foundation</a>.</p>
 feed_content_checksum: 93b0a213f83cb0c2a59a6f079c5cef2e693a8425
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Arcora Foundation

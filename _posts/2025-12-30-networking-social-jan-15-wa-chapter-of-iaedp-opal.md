@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-30T03:00:35+00:00'
 event_ids: []
 events_extracted: true
@@ -20,6 +21,7 @@ feed_content: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\
   on <a>Opal: Food + Body Wisdom</a>.</p>"
 feed_content_checksum: 16bf5c4e1f75c6628c772c1dadaf70f9350130da
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: 'Opal: Food + Body Wisdom'

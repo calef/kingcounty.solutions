@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-02T17:44:52+00:00'
+event_ids: []
 feed_content: |-
   <p><strong>Monday ~</strong> Grilled Chicken &amp; Spinach Salad, Rolls, Soup &amp; Fruit </p>
 
@@ -33,6 +35,7 @@ feed_content: |-
   <p>The post <a>Dining Menu February 2nd – 6th</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: db5bf487cd09d6c7cbbc769a75c2a1751c467e61
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Ballard Northwest Senior Center
 original_source_html: |-

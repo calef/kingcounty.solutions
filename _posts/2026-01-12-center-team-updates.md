@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-12T23:20:15+00:00'
+event_ids: []
 feed_content: |-
   <a><p>We have a few staff updates to share with our members. </p>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>First, please join us in thanking and celebrating Aylene Kandappu, who retired after 17 years as our Thrift Store …</p></a>
 feed_content_checksum: f9d575bf31c83caf30e1d9775f0a489a01b671ea
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: The Center for Active Living

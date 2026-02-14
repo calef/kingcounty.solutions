@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-10T21:27:57+00:00'
 event_ids:
 - _events/2026-07-01-implementation-of-hopelinks-2027-2029-strategic-plan.md
@@ -55,6 +56,7 @@ feed_content: |-
   </div>
 feed_content_checksum: 44b1f21b01c71157876c1f3307e8ae3ab532fa2a
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Hopelink

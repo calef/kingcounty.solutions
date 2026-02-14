@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-02-22T15:00:00-08:00'
 feed_content: "<div> <div> <div> <h3>Meet us at Boon Boona Coffee!</h3> <p> </p> <p>Our
   friends at the Young Nonprofit Professional Network invited Emerging Leaders 365
@@ -19,6 +20,7 @@ feed_content: "<div> <div> <div> <h3>Meet us at Boon Boona Coffee!</h3> <p> </p
   </div> </div>"
 feed_content_checksum: e4e2fc23cb649d4bd5825ca6a3003c790cd7262f
 image_checksums: []
+images_extracted: true
 location: Boon Boona Coffee, 724 S 3rd St, Renton, Seattle, WA, 98057, United States
 location_titles:
 - King County

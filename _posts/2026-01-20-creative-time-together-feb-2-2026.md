@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-20T22:06:58+00:00'
+event_ids: []
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/01/Creative-Time-Together-26-1-791x1024.png"></figure>
 
@@ -8,6 +10,7 @@ feed_content: |-
   <p>Creative Mending is now Creative Time Together! Join a group to share ideas, techniques, and work on your artistic endeavors in a warm and inviting environment. Come in with your mending or fabric-based project, or bring in your paints, collage, beading, knitting, or more!  All levels and artistic mediums welcome!</p>
 feed_content_checksum: a17df93e711a121ffeb462f9c3428615d0f1d3b0
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Wallingford Community Senior Center
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t\n\t<meta

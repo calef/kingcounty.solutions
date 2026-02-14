@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-02-09T19:01:46+00:00'
+event_ids: []
 feed_content: Providing low-barrier housing and voluntary treatment is cost-effective,
   leads to increased rates of recovery, and is effective in ending homelessness  A
   client working on original artwork at DESC’s 1811 Eastlake location.  Homelessness
@@ -7,6 +9,7 @@ feed_content: Providing low-barrier housing and voluntary treatment is cost-effe
   housing costs and public systems that fail those at the margins […]
 feed_content_checksum: 7ab4435fc7f7d549e930f344a7165199a36659ba
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: DESC

@@ -1,4 +1,5 @@
 ---
+classified: true
 end_date: '2026-03-05T16:00:00-08:00'
 feed_content: "<section> <div> <div> <h2>Benefits</h2> </div> </div> </section> <section>
   <div> <article> <h3>Prepare to retire from UW</h3> <h5>Attend a retirement workshop
@@ -31,6 +32,7 @@ feed_content: "<section> <div> <div> <h2>Benefits</h2> </div> </div> </section> 
   – UW Retirement Checklist</a></p> </div> </div> </aside> </div> </section>"
 feed_content_checksum: deb7e4eace25195bbd64eb43a8334d8adad812ed
 image_checksums: []
+images_extracted: true
 location: Online
 location_titles:
 - King County

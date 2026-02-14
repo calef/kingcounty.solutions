@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-16T19:44:27+00:00'
 event_ids: []
 events_extracted: true
@@ -7,6 +8,7 @@ feed_content: Are you ready for a little Thursday Night football?? Rams… Seaha
   playoffs comes to Lumen...
 feed_content_checksum: a34c7fa23b9d7f37a78ea898fe9ec558897d6e2b
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 locked: true

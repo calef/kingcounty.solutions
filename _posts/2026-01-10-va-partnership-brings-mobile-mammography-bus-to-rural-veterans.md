@@ -1,5 +1,7 @@
 ---
+classified: true
 date: '2026-01-10T19:30:00+00:00'
+event_ids: []
 feed_content: |-
   <h2>On the road to prevention</h2>
 
@@ -40,6 +42,7 @@ feed_content: |-
   <p>“If you make it easy for Veterans to do preventive health care, they will do it,” McNabb said. “You can tell people all day that early detection can save their life, but convenience makes all the difference.”<br><br>To schedule a mammogram through the mobile bus at the Chattanooga VA Clinic, can contact your primary care team, send a secure message through <a>My HealtheVet</a>, or respond to an Annie App text alert when the service becomes available. To sign up for Annie text alerts, ask for enrollment through your primary care team.<br></p>
 feed_content_checksum: 53aefa051a5ef288b420d361b908f1b47400342e
 image_checksums: []
+images_extracted: true
 location_titles: []
 organization_title: Veterans Affairs Pension Program
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top

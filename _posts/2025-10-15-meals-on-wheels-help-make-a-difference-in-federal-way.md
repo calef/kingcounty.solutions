@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-10-15T16:05:00+00:00'
 event_ids: []
 events_extracted: true
@@ -30,6 +31,7 @@ feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Locati
   on Wheels: Help make a difference in Federal Way!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Sound Generations

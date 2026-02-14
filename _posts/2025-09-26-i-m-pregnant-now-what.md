@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-09-26T13:51:33+00:00'
 event_ids: []
 events_extracted: true
@@ -195,6 +196,7 @@ feed_content: |-
   <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://carenetps.org/make-appointment/">Make an Appointment Today</a></div>
   </div><p>The post <a href="https://carenetps.org/im-pregnant-now-what/">I’m Pregnant…Now What?</a> first appeared on <a href="https://carenetps.org">Care Net of Puget Sound</a>.</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Care Net of Puget Sound

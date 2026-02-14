@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-08-23T00:30:36+00:00'
 event_ids: []
 events_extracted: true
@@ -30,6 +31,7 @@ feed_content: |-
   <p>The post <a href="https://www.treehouseforkids.org/danielas-journey-back-to-school-self/">Daniela’s Journey Back to School &#038; Self</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
 image_checksums:
 - ce5f6f66e1ac01d11fe5de77d31d285ae30aae04012f1c4e2e57a3036828b785
+images_extracted: true
 location_titles:
 - King County
 organization_title: Treehouse

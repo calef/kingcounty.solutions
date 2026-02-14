@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-12-15T21:41:50+00:00'
 event_ids: []
 events_extracted: true
@@ -29,6 +30,7 @@ feed_content: |-
 feed_content_checksum: 2e5a42aaa98bb5fc512002d2f3418b439ddc64de
 image_checksums:
 - a5caf5ca45f3267ee7b911c0d7343b4876e448d31bae73926fd69caf2eb7a4a2
+images_extracted: true
 location_titles:
 - King County
 organization_title: Washington Center for Deaf and Hard of Hearing Youth

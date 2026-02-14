@@ -1,8 +1,10 @@
 ---
+classified: true
 feed_content: Race packets can be picked up on race day starting at 7:30 a.m.
 feed_content_checksum: 41cdaaf104ba80a37b0ccc4844f0ad8caadebdf2
 generated_from_post: true
 image_checksums: []
+images_extracted: true
 location: ''
 location_titles:
 - King County

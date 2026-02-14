@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2025-11-24T21:30:00+00:00'
 event_ids: []
 events_extracted: true
@@ -135,6 +136,7 @@ feed_content: |-
 
   <p>Nutrition Facts Per Serving: Calories: 295 | Carbohydrates: 30g | Protein: 24g | Fat: 10g | Saturated Fat: 3 g | Fiber: 2g</p>
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

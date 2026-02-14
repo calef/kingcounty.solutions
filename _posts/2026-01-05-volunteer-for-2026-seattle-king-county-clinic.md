@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-01-05T17:54:30+00:00'
 event_ids:
 - _events/2026-04-23-2026-seattle-king-county-clinic.md
@@ -10,6 +11,7 @@ feed_content: Planning for the 2026 Seattle/King County Clinic is in progress, s
   in March and April.
 feed_content_checksum: 9a0bcb783d3b97dc75306f7fd5d05c7f875e303d
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: King County School Health

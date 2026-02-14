@@ -1,10 +1,13 @@
 ---
+classified: true
 date: '2026-02-05T22:58:05+00:00'
+event_ids: []
 feed_content: |-
   <p>Fourth Sunday after the Epiphany, Year A Imagine with me a nation. This nation has a remarkable story to tell of adversity, divineprovidence, and seeing hope come alive in their … <a>Read More</a></p>
   <p>The post <a>February 1, 2026 — Rev Brian Gregory</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: e885c7010cc550816a47eac0d9bb15140902da4e
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: St. Luke Episcopal Church

@@ -1,4 +1,5 @@
 ---
+classified: true
 date: '2026-02-09T16:58:28+00:00'
 event_ids: []
 events_extracted: true
@@ -178,6 +179,7 @@ feed_content: |-
   <p>The post <a>Community, Creativity, and Healing: Building Connection in Recovery</a> appeared first on <a>Lakeside-Milam Recovery Centers</a>.</p>
 feed_content_checksum: 4dc6643b97e8dd2c5b6702a2d55e74e98150a9f6
 image_checksums: []
+images_extracted: true
 location_titles:
 - King County
 organization_title: Lakeside-Milam Recovery Centers
