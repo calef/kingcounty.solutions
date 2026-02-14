@@ -6,6 +6,7 @@ feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Tue, 20 Jan 2026 2
   -0500</p><p>title: Helping Consumers Choose the Best Plan (Spanish)</p><p>topic:
   Choosing a Marketplace Plan</p>"
 feed_content_checksum: f7c80c06ae8c893c311c0b6c5be3eb9b9aaf2232
+image_checksums: []
 location_titles:
 - King County
 organization_title: Centers for Medicare & Medicaid Services

@@ -68,6 +68,7 @@ feed_content: "<div>\n\n    \n    <p><em><img src=\"https://www.dav.org/wp-conte
   and VFW Unveil Funding Recommendations for Department of Veterans Affairs</a> appeared
   first on <a>DAV</a>.</p>"
 feed_content_checksum: 75e712d630435fd2d0b71a7f8c90be77be059d23
+image_checksums: []
 location_titles:
 - King County
 organization_title: Disabled American Veterans

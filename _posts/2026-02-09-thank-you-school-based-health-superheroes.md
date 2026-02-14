@@ -8,6 +8,7 @@ feed_content: Let’s celebrate the 2026 School-Based Health Care Awareness Mont
   show up for students regardless of uncertainty and limited resources. Download SBHA’s
   ready-to-post graphics, customize them to recognize your…
 feed_content_checksum: bd5c7f4d181d2ef7b274a53f38f3270444889457
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County School Health

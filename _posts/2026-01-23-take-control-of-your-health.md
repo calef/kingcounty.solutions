@@ -59,6 +59,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>Samuel S. Stratton VA Medical Center</a> <a>site</a> and has been edited for style and clarity.  </p>
 feed_content_checksum: 5acc4ea9d804324e7af9f13271e113736f40792f
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

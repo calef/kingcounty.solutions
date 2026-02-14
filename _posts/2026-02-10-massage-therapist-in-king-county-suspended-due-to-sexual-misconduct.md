@@ -27,6 +27,7 @@ feed_content: "<span>Massage therapist in King County suspended due to sexual mi
   media</a>.</p>\n\n<p>###</p>\n</div>\n      \n  <div>\n    <div>News Author</div>\n
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: e57a0b4afeea68260cd64304fc50f938b8c677a4
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

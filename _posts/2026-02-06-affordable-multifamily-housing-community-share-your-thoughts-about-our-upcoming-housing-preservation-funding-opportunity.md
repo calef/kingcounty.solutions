@@ -61,6 +61,7 @@ feed_content: |-
 
   <p>Submit your feedback via email to <a><strong>HTFApp@commerce.wa.gov</strong></a>. <strong>Comments are due by 5 p.m. Feb. 17.</strong> The final NOFAs will be released on March 3.</p>
 feed_content_checksum: a59f4c305be4b7466e081ed98b39fd772588a03f
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

@@ -93,6 +93,7 @@ feed_content: |-
 
   <p>Please email us at <a><strong>HTFApp@commerce.wa.gov</strong></a>.</p>
 feed_content_checksum: 4819a827238d45410a0d89827516e108dea16621
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

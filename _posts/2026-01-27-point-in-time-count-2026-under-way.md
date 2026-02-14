@@ -6,6 +6,7 @@ feed_content: |-
   <p>The 2026 Point-in-Time (PIT) Count began on Monday, January 26, and it will run through Friday, February 6. The PIT Count is a biennial census of people living without shelter in our community, and a critical tool for understanding unsheltered homelessness in King County. </p>
   <p>The post <a>Point-in-Time Count 2026 Under Way </a> appeared first on <a>KCRHA</a>.</p>
 feed_content_checksum: 000a8f2ff774ffbf5c663c5c2984948dfd686def
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

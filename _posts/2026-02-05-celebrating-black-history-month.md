@@ -35,6 +35,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   post <a>Celebrating Black History Month</a> appeared first on <a>Snoqualmie Valley
   Hospital</a>.</p>"
 feed_content_checksum: f735b72b211d0cdd1711abf4c0fa7e0826747f96
+image_checksums: []
 location_titles:
 - Snoqualmie Valley
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

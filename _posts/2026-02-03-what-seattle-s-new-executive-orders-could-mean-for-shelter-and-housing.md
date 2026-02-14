@@ -26,6 +26,7 @@ feed_content: |-
   <p>For Compass, this moment reinforces what has always guided our work: housing is foundational, and solutions must be built around the people they are meant to serve. With the continued support of our community, we will remain steadfast in delivering housing and care that creates stability today and hope for the future.</p>
   <p>The post <a>What Seattle’s new Executive Orders could mean for shelter and housing</a> appeared first on <a>Compass Housing Alliance</a>.</p>
 feed_content_checksum: 17e050bd4f86d725a4dea7fa91c08d31e146bcd4
+image_checksums: []
 location_titles:
 - King County
 organization_title: Compass Housing Alliance

@@ -17,6 +17,7 @@ feed_content: |-
   <p>This project shows how affordable housing, rooted in place and culture, strengthens communities and creates lasting stability.</p>
   <p>The post <a>Built together: Canopy Apartments and White Center HUB grand opening</a> appeared first on <a>Community Roots Housing</a>.</p>
 feed_content_checksum: b0ef4b7834a694e160b296fe12169f431f29aa07
+image_checksums: []
 location_titles:
 - King County
 organization_title: Community Roots Housing

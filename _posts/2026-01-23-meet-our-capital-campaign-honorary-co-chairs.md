@@ -127,6 +127,7 @@ feed_content: "<p>Rainier Valley Food Bank had a vision to build a new food bank
   nourishment. And what a beautiful thing it is to have a place right in our neighborhood
   where that love is shared freely</em>.” </p>"
 feed_content_checksum: 608c91e4cb095399dae8b309fcde9f339fb715a4
+image_checksums: []
 location_titles:
 - King County
 organization_title: Rainier Valley Food Bank

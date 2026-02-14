@@ -10,6 +10,7 @@ feed_content: LIHI’s Lakefront Community House in Bitterlake operates as a yea
   it did this past week due to freezing temperatures. KCRHA Severe Weather Policy
   . “Seattle...
 feed_content_checksum: c6ca62c9c936c0b67eb1d89d93ffd104eeefa533
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

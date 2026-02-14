@@ -6,6 +6,7 @@ feed_content: |-
   <p>After 20 years of volunteering and working with folks living with dementia, I started to recognize signs in my mom. I knew it was coming. My paternal grandmother and my maternal grandfather both lived with Alzheimer’s disease. It doesn’t make it any easier. My sister and I rallied to help plan her care, organize her […]</p>
   <p>The post <a>From Professional to Personal Experience: Moving my Mom</a> appeared first on <a>Aging Wisdom</a>.</p>
 feed_content_checksum: 6d2fe3f88f09d70740c3c2abf1d7d3096dc3b93b
+image_checksums: []
 location_titles:
 - King County
 organization_title: Aging Wisdom

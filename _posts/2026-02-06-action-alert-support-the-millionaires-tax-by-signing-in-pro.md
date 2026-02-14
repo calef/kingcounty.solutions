@@ -44,6 +44,7 @@ feed_content: |-
   <p></p>
   <p>The post <a>ACTION ALERT: Support the Millionaires Tax by signing in “PRO”!</a> appeared first on <a>BrightSpark</a>.</p>
 feed_content_checksum: 1d46c7eaa9aafd7e74f920748b20197794c5f6ac
+image_checksums: []
 location_titles:
 - King County
 organization_title: BrightSpark

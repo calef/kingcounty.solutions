@@ -73,6 +73,7 @@ feed_content: |-
 
   <p>If you’re a former corpsman or medic like Evan Messegee, a rewarding career serving Veterans as an ICT awaits. Learn more at <a>VA Careers.</a></p>
 feed_content_checksum: dfe03de257858a9d674d151183f78b80027e02f1
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

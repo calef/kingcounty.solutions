@@ -47,6 +47,7 @@ feed_content: "<span>State disciplines health care providers (01-28-2026)</span>
   <a>social media</a>.</p>\n\n<p>###</p>\n</div>\n      \n  <div>\n    <div>News Author</div>\n
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: '0025936f58f53e01c143146ea3a889b19048a81e'
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

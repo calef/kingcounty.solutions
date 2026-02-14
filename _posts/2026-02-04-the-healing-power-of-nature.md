@@ -6,6 +6,7 @@ feed_content: |-
   <p>As many of us have discovered throughout our lives, spending time outdoors isn’t just “nice.” It often feels fundamentally healing, no matter our age. Research supports this. Time spent in nature has been shown to decrease cortisol, a stress hormone, and boost the immune system. It can reduce depression and improve attention. It can lower […]</p>
   <p>The post <a>The healing power of nature</a> appeared first on <a>Aging Wisdom</a>.</p>
 feed_content_checksum: 494f2720f2e07195b453b420baa9029b3c5d2d07
+image_checksums: []
 location_titles:
 - King County
 organization_title: Aging Wisdom

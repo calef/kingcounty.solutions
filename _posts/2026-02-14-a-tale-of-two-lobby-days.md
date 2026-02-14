@@ -6,6 +6,7 @@ feed_content: |-
   <p>This month, United Way of King County staff joined our partners at the State Capitol in Olympia to advocate for policies that provide funding and resources for postsecondary basic student needs and food security. United Way is part of the Post Secondary Basic Needs (PSBN) Coalition, which on February 5 met at the Abigail Stuart House in Olympia for its annual lobby day.</p>
   <p><a>Source</a></p>
 feed_content_checksum: 578fdc96818bd0162fd4b7ac506d107c0b95aabc
+image_checksums: []
 location_titles:
 - King County
 organization_title: United Way of King County

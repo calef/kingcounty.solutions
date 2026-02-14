@@ -54,6 +54,7 @@ feed_content: |-
 
   <p>If you have questions regarding this announcement or the NOFA, submit them to <a>HTFApp@commerce.wa.gov</a>.</p>
 feed_content_checksum: 1a693021d03886508aa75f7e4acafe5a9a275183
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

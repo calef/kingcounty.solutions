@@ -35,6 +35,7 @@ feed_content: "<span>West Coast Health Alliance Endorses the 2026 AAP Child and 
   \   <div>News Author</div>\n              <div>Washington State Department of Health</div>\n
   \         </div>"
 feed_content_checksum: d095ec73f8bb297b771850697238656799d9bced
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

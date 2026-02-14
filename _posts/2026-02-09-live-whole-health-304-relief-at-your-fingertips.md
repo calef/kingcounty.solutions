@@ -47,6 +47,7 @@ feed_content: |-
 
   <p>Contact your local <a>Whole Health Facility Contact</a> for more information about complementary and integrative health services that may be available as part of your care plan.  </p>
 feed_content_checksum: ee848b0d43e0d9f3044f2cd3af27e555b3f00a8b
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

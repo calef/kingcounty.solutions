@@ -30,6 +30,7 @@ feed_content: "<p>Mary’s Place board member and longtime supporter, Yousri Oma
   secure the housing and stability they deserve. You are making a real difference
   in the lives of children and families every single day!</p>"
 feed_content_checksum: e4408ee3e6ae8eed25f18d1524295fc6d0f9b4b3
+image_checksums: []
 location_titles:
 - King County
 organization_title: Mary's Place

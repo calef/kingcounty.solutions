@@ -9,6 +9,7 @@ feed_content: |-
   <p>The Low Income Housing Institute (LIHI) has been awarded the $3.3 million dollar contract to open the site at Washington State Department of Transportation’s (WSDOT) Glassyard site by summer 2026. The site will provide 72 parking spaces for vehicle residents, and 20 tiny homes, adding the capacity to serve 92 households.  </p>
   <p>The post <a>Expanding Shelter: Tiny Home &amp; Safe Lot Coming to Seattle’s D1</a> appeared first on <a>KCRHA</a>.</p>
 feed_content_checksum: 1e57378987b36b46a093c266e64b2181f4a119e2
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Regional Homelessness Authority

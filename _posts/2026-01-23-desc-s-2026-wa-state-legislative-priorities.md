@@ -9,6 +9,7 @@ feed_content: The 2026 Washington State Legislative Session is underway, and DES
   have four main legislative priorities:   1. Protect Permanent Supportive Housing
   (PSH) from federal cuts and chaos  Earlier […]
 feed_content_checksum: 178be12fd516c31d3d0f494836b94e10b7c78605
+image_checksums: []
 location_titles:
 - King County
 organization_title: DESC

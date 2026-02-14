@@ -6,6 +6,7 @@ feed_content: Staying socially connected isn’t just “nice to have” for old
   essential for health, happiness, and independence. At the Federal Way Senior Center,
   we see every day how friendships, conversation, […]
 feed_content_checksum: 9ec553b186b962e79c7f5955057998e26f2c226b
+image_checksums: []
 location_titles:
 - South King County
 organization_title: Federal Way Senior Center

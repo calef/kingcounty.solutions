@@ -40,6 +40,7 @@ feed_content: "<span>Department of Health issues notice of intent to deny licens
   \   <div>News Author</div>\n              <div>Washington State Department of Health</div>\n
   \         </div>"
 feed_content_checksum: 3a728b4c3c645ce02d7da4d3d147fd7f9c57c0ab
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

@@ -9,6 +9,7 @@ feed_content: Recent changes in U.S. immigration enforcement pose challenges for
   policies that protect patient access to care. Additional resources are available
   to aid providers in responding effectively.
 feed_content_checksum: 4a4f6b87b0141023dc2585e111296710ecac312f
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County School Health

@@ -69,6 +69,7 @@ feed_content: "<span>DOH announces recipients of Perinatal Mental Health Access 
   \     \n  <div>\n    <div>News Author</div>\n              <div>Washington State
   Department of Health</div>\n          </div>"
 feed_content_checksum: ecc19f41c22f49c09ebfa00751800f363ed41905
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

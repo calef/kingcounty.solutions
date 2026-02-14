@@ -7,6 +7,7 @@ feed_content: |-
   <object></object><a>Social Connections as We Age 1.9.25</a><a>Download</a>
   </div>
 feed_content_checksum: 01b40a4d7f67ac2518bfe90feb5d4cdc00ed4eab
+image_checksums: []
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

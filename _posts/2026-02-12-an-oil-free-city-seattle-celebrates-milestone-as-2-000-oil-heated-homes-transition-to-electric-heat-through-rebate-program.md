@@ -6,6 +6,7 @@ feed_content: We’re excited to share that more than 2,000 households have 
   oil heat to electric heat pumps through the City’s Clean Heat Program! This marks
   a major environm...
 feed_content_checksum: 6beea51e42fd6ccac0d292246af465f474eb6008
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

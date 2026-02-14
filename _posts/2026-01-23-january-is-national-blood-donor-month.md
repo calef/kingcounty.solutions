@@ -52,6 +52,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   post <a>January is National Blood Donor Month</a> appeared first on <a>Snoqualmie
   Valley Hospital</a>.</p>"
 feed_content_checksum: 44ae67a8f08efb7709624fae7fb532c7b8e2b385
+image_checksums: []
 location_titles:
 - King County
 organization_title: Hospital District No. 4 (Snoqualmie Valley Hospital)

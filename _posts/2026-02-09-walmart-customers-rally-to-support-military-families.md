@@ -38,6 +38,7 @@ feed_content: |-
   <p><strong>Media Inquiries: <br></strong>Erin Burgy, Senior Director, Integrated Public Relations<br><a>Erin.Burgy@OperationHomefront.org<br></a>(469) 934-7131</p>
   <p>The post <a>Walmart Customers Rally to Support Military Families</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: 380e0f5f0a15ef406b4d66e472fb2c8126ad6132
+image_checksums: []
 location_titles:
 - King County
 organization_title: Operation Homefront

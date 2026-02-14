@@ -51,6 +51,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   post <a>Designing Evaluation with Disability in Mind</a> appeared first on <a>UW
   IHDD</a>.</p>"
 feed_content_checksum: 8baf9abe19b792a6bc8003a7156743f8e967c662
+image_checksums: []
 location_titles:
 - King County
 organization_title: Institute on Human Development and Disability

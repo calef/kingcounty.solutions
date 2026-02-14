@@ -84,6 +84,7 @@ feed_content: |-
   <p></p>
   <p>The post <a>ACTION ALERT: Protect WCCC!</a> appeared first on <a>BrightSpark</a>.</p>
 feed_content_checksum: bda24f95d134824978b06fd1dfec415b9b881c0a
+image_checksums: []
 location_titles:
 - King County
 organization_title: BrightSpark

@@ -11,6 +11,7 @@ feed_content: |-
   <p><strong>Click here for event info: <a>2026CISCFD | Powered By GiveSmart</a></strong></p>
   <p>The post <a>2026 CISC Friendship Dinner</a> appeared first on <a>CISC</a>.</p>
 feed_content_checksum: 336e2bf0bd8addfdcef17019ddf4e70a354f3650
+image_checksums: []
 location_titles:
 - King County
 organization_title: Chinese Information & Service Center

@@ -10,6 +10,7 @@ feed_content: |-
   <p></p>
   <p>The post <a>Set your heart on healthy choices.</a> appeared first on <a>Transforming Age | Senior Housing, Community Services, Philanthropy, Technology &amp; Partnerships</a>.</p>
 feed_content_checksum: 14901c531a8181e88ec2864b39db6267aeafd0b7
+image_checksums: []
 location_titles:
 - King County
 organization_title: Transforming Age

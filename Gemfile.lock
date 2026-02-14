@@ -1,12 +1,12 @@
 GIT
   remote: https://github.com/calef/fmrepo.git
-  revision: 433373f45c28944fef3facb5e7a281befb880aa8
+  revision: f636948ba615fbc1d94d901f70b23c44e2cdb2bf
   specs:
-    fmrepo (0.2.11)
+    fmrepo (0.2.12)
 
 GIT
   remote: https://github.com/calef/seldon.git
-  revision: 2cc8735f290f2318376fbf0c3c53a21874347a7c
+  revision: 3e2809a19ceeccccb38a941cd4a4c3a8664288a2
   specs:
     seldon (0.8.0)
       faraday
@@ -54,13 +54,13 @@ GEM
     ffi (1.17.3-x86_64-linux-gnu)
     fileutils (1.8.0)
     forwardable-extended (2.6.0)
-    google-protobuf (4.33.2-aarch64-linux-gnu)
+    google-protobuf (4.33.5-aarch64-linux-gnu)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.33.2-arm64-darwin)
+    google-protobuf (4.33.5-arm64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.33.2-x86_64-linux-gnu)
+    google-protobuf (4.33.5-x86_64-linux-gnu)
       bigdecimal
       rake (>= 13)
     hashdiff (1.2.1)
@@ -115,14 +115,15 @@ GEM
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.18.1)
-    kramdown (2.5.1)
-      rexml (>= 3.3.9)
+    kramdown (2.5.2)
+      rexml (>= 3.4.4)
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     language_server-protocol (3.17.0.5)
     lint_roller (1.1.0)
     liquid (4.0.4)
-    listen (3.9.0)
+    listen (3.10.0)
+      logger
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
@@ -130,7 +131,7 @@ GEM
     mime-types (3.7.0)
       logger
       mime-types-data (~> 3.2025, >= 3.2025.0507)
-    mime-types-data (3.2025.0924)
+    mime-types-data (3.2026.0203)
     mini_magick (5.3.1)
       logger
     minitest (6.0.1)
@@ -187,7 +188,7 @@ GEM
     rspec-mocks (3.13.7)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.13.0)
-    rspec-support (3.13.6)
+    rspec-support (3.13.7)
     rss (0.3.2)
       rexml
     rubocop (1.84.2)
@@ -214,11 +215,11 @@ GEM
       faraday-multipart (>= 1)
     ruby-progressbar (1.13.0)
     safe_yaml (1.0.5)
-    sass-embedded (1.97.2-aarch64-linux-gnu)
+    sass-embedded (1.97.3-aarch64-linux-gnu)
       google-protobuf (~> 4.31)
-    sass-embedded (1.97.2-arm64-darwin)
+    sass-embedded (1.97.3-arm64-darwin)
       google-protobuf (~> 4.31)
-    sass-embedded (1.97.2-x86_64-linux-gnu)
+    sass-embedded (1.97.3-x86_64-linux-gnu)
       google-protobuf (~> 4.31)
     simplecov (0.22.0)
       docile (~> 1.1)

@@ -44,6 +44,7 @@ feed_content: |-
   <li>No stickers, highlighting or underlining, or anything else that modifies the book. </li>
   </ul>
 feed_content_checksum: 9acfb8e014f0e1274f92c68f8aec4b9a3a1b599a
+image_checksums: []
 location_titles:
 - King County
 organization_title: Wallingford Community Senior Center

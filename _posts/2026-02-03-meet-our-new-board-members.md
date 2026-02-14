@@ -22,6 +22,7 @@ feed_content: |-
   <p><a>Learn about getting involved at ELAP</a>. </p>
   <p>The post <a>Meet our new board members</a> appeared first on <a>Eastside Legal Assistance Program</a>.</p>
 feed_content_checksum: 41b15a4ae75bc63ed2971ae7e489e6025df38f79
+image_checksums: []
 location_titles:
 - King County
 organization_title: Eastside Legal Assistance Program

@@ -5,6 +5,7 @@ events_extracted: true
 feed_content: "<p>The post <a>Los sobrevivientes de abuso sexual merecen cuidado,
   seguridad y apoyo, sin miedo</a> appeared first on <a>KCSARC</a>.</p>"
 feed_content_checksum: 07a23e8dbae9d9e1828ed2cca685b7cb90c18786
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Sexual Assault Resource Center

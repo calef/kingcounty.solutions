@@ -62,6 +62,7 @@ feed_content: |-
 
   <p>“Gaming breaks down barriers,” Mitchell said. “It creates community without forcing Veterans to relive painful experiences. When facilities listen to their Veterans and build programs around what engages them, they’ll see the impact.”</p>
 feed_content_checksum: cf10324d48bd95d65f8ee52d2708b009e05e4ddf
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

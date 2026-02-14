@@ -41,6 +41,7 @@ feed_content: |-
 
   <p>For more Office of Research and Development updates, visit <a>ORD online</a> or go to https://www.research.va.gov/news_briefs/.</p>
 feed_content_checksum: 635b6e0731a951640c9cbc672694de939877be2f
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

@@ -25,6 +25,7 @@ feed_content: |-
   <p>Thank you for planning ahead to ensure you arrive to your appointments on time. We appreciate your efforts and look forward to providing you with exceptional care.</p>
   <p>The post <a>Plan Ahead: Traffic &amp; Transit Impacts for Wednesday’s Seattle Seahawks Championship Parade</a> appeared first on <a>Pacific Medical Centers</a>.</p>
 feed_content_checksum: 3d2507baad0531a0bb78b2c95b81c63f50a04b35
+image_checksums: []
 location_titles:
 - King County
 organization_title: Pacific Medical Centers

@@ -46,6 +46,7 @@ feed_content: |-
   <p>Setting boundaries is a healthy way to relate to other people, but for people who have relied on people-pleasing to manage fear of rejection or abandonment, setting boundaries can feel difficult without practice and support. At THIRA Health, you’ll have access to empathetic DBT-focused therapists who support you in individual and group therapy sessions, where you can learn how to use DBT skills to set boundaries and leave people-pleasing behind you.</p>
   <p>If you’re ready to start feeling like life is worth living, <a><span>connect with us today</span></a> to see how our intensive depression therapy with Bellevue, Washington-based therapists can help.</p>
 feed_content_checksum: d0ed56e78ff8aa67e6331e3a1ae5a74ddfec1ffb
+image_checksums: []
 location_titles:
 - King County
 organization_title: THIRA Health

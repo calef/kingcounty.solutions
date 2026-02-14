@@ -8,6 +8,7 @@ feed_content: February marks School-Based Health Care Awareness Month, celebrati
   demonstrates the importance of school-based health care. A toolkit is available
   to help communities recognize these everyday heroes.
 feed_content_checksum: 23f92266300286788ccd8aa3da521e98af4fa970
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County School Health

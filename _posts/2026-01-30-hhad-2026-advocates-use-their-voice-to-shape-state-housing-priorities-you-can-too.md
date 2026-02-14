@@ -10,6 +10,7 @@ feed_content: On Monday, January 26th, Low Income Housing Institute's (LIHI) sta
   Approximately 750 people from throughout the state held 130 meetings with senators
   and...
 feed_content_checksum: 899de6d15e58488bef59c2b0765518219591b6e3
+image_checksums: []
 location_titles:
 - King County
 organization_title: Low Income Housing Institute

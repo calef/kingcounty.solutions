@@ -55,6 +55,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA Palo Alto Health care System site </a>and has been edited for style and clarity.  </p>
 feed_content_checksum: c35d6c1b7903cadbfef7d20c1f8943548bbae7bc
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

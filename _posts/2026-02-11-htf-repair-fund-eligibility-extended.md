@@ -62,6 +62,7 @@ feed_content: |-
 
   <p>E-mail <a>HTFRepair@commerce.wa.gov</a>.</p>
 feed_content_checksum: 34ab1cf2e726f83d5cfeedc714f416c5b992560d
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Commerce

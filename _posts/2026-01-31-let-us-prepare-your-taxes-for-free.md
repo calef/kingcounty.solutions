@@ -7,6 +7,7 @@ feed_content: |-
   <p>United Way of King County’s Tax Preparation Campaign is back! If you make less than $80,000 a year as a single filer or (or less than $96,000 for non-single filers), you can have your taxes prepared for free at one of our 20 locations across King County. Those sites are now open through April 19, and we have a virtual site that runs from February 2 through April 19. Funded by United Way…</p>
   <p><a>Source</a></p>
 feed_content_checksum: deec8179e9d9d73fa2932efac48db118a0b1f586
+image_checksums: []
 location_titles:
 - King County
 organization_title: United Way of King County

@@ -9,6 +9,7 @@ feed_content: <div><img src="https://i0.wp.com/news.shoreline.edu/wp-content/upl
   for Shoreline College transfer students who complete a transfer degree, providing
   a clear and dependable path to continue their …
 feed_content_checksum: 0d9c6c443c5cefa46c155032c54f05ce6d36d5b8
+image_checksums: []
 location_titles:
 - King County
 organization_title: Shoreline Community College

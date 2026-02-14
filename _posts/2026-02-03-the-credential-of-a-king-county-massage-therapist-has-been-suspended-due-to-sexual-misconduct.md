@@ -28,6 +28,7 @@ feed_content: "<span>The credential of a King County massage therapist has been 
   <a>social media</a>.</p>\n\n<p>###</p>\n</div>\n      \n  <div>\n    <div>News Author</div>\n
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: 868a49e875555e16f724308833a86b8b42c740a6
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

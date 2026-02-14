@@ -117,6 +117,7 @@ feed_content: |-
   <figure><a><img src="https://news.va.gov/wp-content/uploads/sites/3/2026/02/GoRedVA_VeteranWebinar_Feb2026_r1.png?w=730"></a><figcaption>February is American Heart Month and VA is co-hosting a virtual Veteran Townhall with the American Heart Association.</figcaption></figure>
   </div>
 feed_content_checksum: a6473f2e49dbef7b3715c40ca14e0fc80f809a11
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program

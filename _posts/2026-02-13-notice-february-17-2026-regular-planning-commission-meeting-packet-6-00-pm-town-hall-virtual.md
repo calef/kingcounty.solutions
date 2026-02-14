@@ -20,6 +20,7 @@ feed_content: |-
   <p>Your attendance is always encouraged.</p>
   <p>Thank you.</p>
 feed_content_checksum: f9d75939eb445bdc6d48302102414a1d22d3aa17
+image_checksums: []
 location_titles:
 - Yarrow Point
 organization_title: Town of Yarrow Point

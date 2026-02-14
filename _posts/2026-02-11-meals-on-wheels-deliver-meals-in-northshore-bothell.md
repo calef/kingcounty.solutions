@@ -16,6 +16,7 @@ feed_content: |-
   <p>Because of the training involved, we are seeking volunteers who are interested in committing to an ongoing role with us. Training is provided, and mileage reimbursement is available for those making deliveries.</p>
   <p>The post <a>Meals on Wheels: Deliver Meals in NorthShore/Bothell</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: d6d1633acff812c998dd556128d196e975658143
+image_checksums: []
 location_titles:
 - King County
 organization_title: Sound Generations

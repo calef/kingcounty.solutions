@@ -6,6 +6,7 @@ feed_content: |-
   <p>The Seattle City Council unanimously approved legislation today, co-sponsored by Councilmember Dan Strauss (District 6) and Councilmember Dionne Foster (Position 9), to fulfill the will of Seattle voters and begin funding the Seattle Social Housing Developer. Seattle voters approved Proposition 1A in February 2025, with more than 63 percent voting in favor, to help combat...</p>
   <p>The post <a>Seattle City Council approves legislation to begin funding voter-approved social housing </a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: b0e5cd166717fc695d65e801a3568b7b2bcc360d
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

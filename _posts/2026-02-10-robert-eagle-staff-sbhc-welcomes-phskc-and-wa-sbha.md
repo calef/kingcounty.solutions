@@ -8,6 +8,7 @@ feed_content: On February 9, following a Seahawks Super Bowl victory, the Robert
   access to nearly 800 students and offers dental services, emphasizing collaboration
   with North Seattle schools.
 feed_content_checksum: 12574e40fe2dd03751662ab7e9267cc794078343
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County School Health

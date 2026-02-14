@@ -29,6 +29,7 @@ feed_content: |-
   <hr>
   <p>Photo at top: Scott cruises around the Sand Point Housing campus on his new ride (credit: Michael B. Maine).</p>The post <a>Bringing kids’ dreams within reach</a> appeared first on <a>Solid Ground</a>.
 feed_content_checksum: 6c945c9298c522e5ec3c86dabaf44033bf3bf942
+image_checksums: []
 location_titles:
 - King County
 organization_title: Solid Ground

@@ -22,6 +22,7 @@ feed_content: |-
   Vibrant Emotional Health is a non-profit organization that helps individuals and families achieve emotional wellbeing. For over 55 years, our groundbreaking solutions have delivered high-quality services and support when, where, and how people need it. We offer confidential emotional support through our state-of-the-art contact center and crisis hotline services that use leading-edge telephone, text, and web-based technologies, including the 988 Suicide &amp; Crisis Lifeline, Disaster Distress Helpline, and Veterans Crisis Line. Through our community wellness programs, individuals and families obtain the support and skills they need to thrive. Our advocacy and education initiatives promote mental well-being as a social responsibility. We help millions of people live healthier and more vibrant lives yearly. We’re advancing access, dignity, and respect for all and revolutionizing the system for good. Visit <a>vibrant.org.</a> Follow Vibrant on <a>LinkedIn</a>, <a>Facebook,</a> <a>Instagram,</a> and <a>X.</a></p>
   <p>The post <a>Backline Launches B-LINE: A 24/7 Mental Health and Crisis Support Line for the Music Industry, in Partnership with Vibrant Emotional Health</a> appeared first on <a>Vibrant Emotional Health</a>.</p>
 feed_content_checksum: 8c02a7320f9b0c7538c364c97404085e565221fb
+image_checksums: []
 location_titles:
 - King County
 organization_title: Vibrant Emotional Health

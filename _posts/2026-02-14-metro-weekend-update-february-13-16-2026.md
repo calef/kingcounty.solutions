@@ -9,6 +9,7 @@ events_extracted: true
 feed_content: Weekend Service Impacts Routes 3, 5, 21, 24, 27, 28, 33, 40, 56, 62,
   124, 131, 132, RapidRide C, D, E, and H Line will be affected by the closure of...
 feed_content_checksum: a3f5bbda8b27fc4ed261541d1982b1dd29851744
+image_checksums: []
 location_titles:
 - King County
 organization_title: King County Metro Transit

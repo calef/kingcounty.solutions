@@ -66,6 +66,7 @@ feed_content: "<span>Statewide Child Wellness Survey shows Washington families a
   \     \n  <div>\n    <div>News Author</div>\n              <div>Washington State
   Department of Health</div>\n          </div>"
 feed_content_checksum: 495f748681364a22c6ad3c3f155c7a7e40bbb042
+image_checksums: []
 location_titles:
 - King County
 organization_title: Department of Health

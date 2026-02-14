@@ -74,6 +74,7 @@ feed_content: |-
   <p>Since it began in 2018, the THV program has defrayed more than $2.2 million in mortgage costs to military families and graduated 45 families. </p>
   <p>The post <a>Housing Program ‘Once in a Lifetime’ Opportunity</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: b019217898529f8122c1eb68a663c1eee6779f5f
+image_checksums: []
 location_titles:
 - King County
 organization_title: Operation Homefront

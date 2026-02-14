@@ -22,6 +22,7 @@ feed_content: |-
   <p>Requirements: Complete the Meals on Wheels Volunteer Application, consent to a Washington State Patrol background check, the ability to lift 15 pounds and navigate stairs, and be age 18 or more.</p>
   <p>The post <a>Meals on Wheels: Deliver Meals and a Smile in Renton!</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: 2da12e95e23f36e01e9aa305dfac5a00fefce84e
+image_checksums: []
 location_titles:
 - King County
 organization_title: Sound Generations

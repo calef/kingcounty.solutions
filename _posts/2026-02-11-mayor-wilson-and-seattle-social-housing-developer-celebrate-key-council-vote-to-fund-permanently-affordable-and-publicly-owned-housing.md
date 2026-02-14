@@ -6,6 +6,7 @@ feed_content: |-
   <p>SEATTLE – Today, the Seattle City Council unanimously approved the Interlocal Agreement between City of Seattle and the Seattle Social Housing Developer (SSHD), which will transfer approximately $115 million in funds this year to acquire and build permanently affordable and publicly owned housing for hundreds of working Seattleites.  “Housing is far too expensive in this city. We […]</p>
   <p>The post <a>Mayor Wilson and Seattle Social Housing Developer Celebrate Key Council Vote to Fund Permanently Affordable and Publicly Owned Housing</a> appeared first on <a>Office of the Mayor</a>.</p>
 feed_content_checksum: 72b2e39109222f2f1c62782c81c5f141d8720dfe
+image_checksums: []
 location_titles:
 - King County
 organization_title: City of Seattle

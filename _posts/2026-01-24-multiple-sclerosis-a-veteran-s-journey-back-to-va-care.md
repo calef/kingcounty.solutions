@@ -122,6 +122,7 @@ feed_content: |-
   <a>News Stories of Veterans Living with MS</a>: Read about Veterans living their best life with multiple sclerosis and receiving excellent VA care.</li>
   </ul>
 feed_content_checksum: f2920761bb97f2f46ba83d2032bba3680cb9efb2
+image_checksums: []
 location_titles:
 - King County
 organization_title: Veterans Affairs Pension Program
