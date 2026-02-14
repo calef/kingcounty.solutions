@@ -28,15 +28,27 @@ title: Organizations Directory
             Post Count
             <span class="sort-indicator" aria-hidden="true"></span>
           </th>
+          <th class="sortable" data-type="number">
+            Event Count
+            <span class="sort-indicator" aria-hidden="true"></span>
+          </th>
+          <th class="sortable" data-type="number">
+            Image Count
+            <span class="sort-indicator" aria-hidden="true"></span>
+          </th>
         </tr>
       </thead>
       <tbody>
         {% for organization in organizations %}
-          {% assign post_count = site.posts | where: "source", organization.title | size %}
+          {% assign post_count = site.posts | where: "organization_title", organization.title | size %}
+          {% assign event_count = site.events | where: "organization_title", organization.title | size %}
+          {% assign image_count = site.images | where: "organization_title", organization.title | size %}
           <tr>
             <td><a href="{{ organization.url | relative_url }}">{{ organization.title }}</a></td>
             <td>{{ organization.type }}</td>
             <td>{{ post_count }}</td>
+            <td>{{ event_count }}</td>
+            <td>{{ image_count }}</td>
           </tr>
         {% endfor %}
       </tbody>
