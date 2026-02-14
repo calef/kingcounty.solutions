@@ -78,6 +78,7 @@ exclude:
   - .sass-cache/
   - AGENTS.md
   - CLAUDE.md
+  - CODEBASE_REVIEW.md
   - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock
