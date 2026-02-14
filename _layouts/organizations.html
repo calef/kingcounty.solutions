@@ -36,6 +36,10 @@ title: Organizations Directory
             Image Count
             <span class="sort-indicator" aria-hidden="true"></span>
           </th>
+          <th class="sortable" data-type="number">
+            Total Count
+            <span class="sort-indicator" aria-hidden="true"></span>
+          </th>
         </tr>
       </thead>
       <tbody>
@@ -43,12 +47,14 @@ title: Organizations Directory
           {% assign post_count = site.posts | where: "organization_title", organization.title | size %}
           {% assign event_count = site.events | where: "organization_title", organization.title | size %}
           {% assign image_count = site.images | where: "organization_title", organization.title | size %}
+          {% assign total_count = post_count | plus: event_count | plus: image_count %}
           <tr>
             <td><a href="{{ organization.url | relative_url }}">{{ organization.title }}</a></td>
             <td>{{ organization.type }}</td>
             <td>{{ post_count }}</td>
             <td>{{ event_count }}</td>
             <td>{{ image_count }}</td>
+            <td>{{ total_count }}</td>
           </tr>
         {% endfor %}
       </tbody>
