@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/calef/fmrepo.git
-  revision: f636948ba615fbc1d94d901f70b23c44e2cdb2bf
+  revision: 68da2e9d9c44de7b92c09b1f2c39b13bac01ea1e
   specs:
     fmrepo (0.2.12)
 
