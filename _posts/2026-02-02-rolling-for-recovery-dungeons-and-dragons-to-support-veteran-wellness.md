@@ -1,8 +1,7 @@
 ---
 classified: true
 date: '2026-02-02T15:30:00+00:00'
-event_ids:
-- _events/2026-02-16-reveal-program-dungeons-and-dragons-sessions.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <h2>Orlando VA program uses tabletop gaming to build connection</h2>

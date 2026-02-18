@@ -1,8 +1,7 @@
 ---
 classified: true
 date: '2026-02-13T18:15:12+00:00'
-event_ids:
-- _events/2026-02-13-2026-cisc-friendship-dinner.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p><strong>CISC Friendship Dinner is our annual celebration of community and possibility. It’s a night filled with energy, inspiration, and the shared belief that every family belongs and deserves opportunity.</strong></p>

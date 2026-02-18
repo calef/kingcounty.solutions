@@ -1,8 +1,7 @@
 ---
 classified: true
 date: '2026-01-08T22:24:04+00:00'
-event_ids:
-- _events/2026-02-09-open-enrollment-for-normandy-park-preschool.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   Normandy Park Preschool Registration opens soon for the 2026-2027 School Year

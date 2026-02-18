@@ -1,8 +1,7 @@
 ---
 classified: true
 date: '2026-01-09T20:30:53+00:00'
-event_ids:
-- _events/2026-02-13-crp-reentry-grants-application-deadline.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>Last month, Commerce’s Community Reinvestment Program (CRP) released two new funding opportunities. These grants are available for community-based organizations and others that meet the minimum qualifications.</p>

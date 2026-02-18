@@ -2,7 +2,6 @@
 classified: true
 date: '2026-02-07T17:52:52+00:00'
 event_ids:
-- _events/2026-02-14-public-sessions-on-affordable-housing-strategy-draft.md
 - _events/2026-02-21-public-sessions-on-affordable-housing-strategy-draft.md
 - _events/2026-06-01-next-innovation-exchange.md
 events_extracted: true

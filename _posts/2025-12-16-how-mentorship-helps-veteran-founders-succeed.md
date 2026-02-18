@@ -1,8 +1,7 @@
 ---
 classified: true
 date: '2025-12-16T14:30:00+00:00'
-event_ids:
-- _events/2026-02-11-dav-patriot-boot-camp.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <p>The sharing of non-VA information does not constitute an endorsement of products or services by the Department of Veterans Affairs. Veterans should always verify information with the organization offering the program.</p>

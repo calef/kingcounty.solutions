@@ -1,8 +1,7 @@
 ---
 classified: true
 date: '2026-01-13T18:34:40+00:00'
-event_ids:
-- _events/2026-02-16-presidents-day-closure.md
+event_ids: []
 events_extracted: true
 feed_content: |-
   <a><p>A heads up to our members that The Center will be closed on these upcoming dates:</p>
