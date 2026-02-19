@@ -2,7 +2,6 @@
 classified: true
 date: '2026-02-11T00:40:59+00:00'
 event_ids:
-- _events/2026-02-17-rapid-capital-housing-acquisition-listening-session-1.md
 - _events/2026-02-19-rapid-capital-housing-acquisition-listening-session-2.md
 events_extracted: true
 feed_content: |-
