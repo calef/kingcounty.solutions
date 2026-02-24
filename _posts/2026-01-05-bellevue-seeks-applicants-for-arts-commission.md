@@ -1,7 +1,11 @@
 ---
 classified: true
+content_checksum: 6c213e0fde262e5704f897a14472c088d5c7e555fa40e68a2be6044d08b986c1
 date: '2026-01-05T16:24:32+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-19-arts-commission-application-deadline.md
+- _events/2026-02-19-arts-commission-monthly-meeting.md
+events_extracted: true
 feed_content: "<span>Bellevue seeks applicants for Arts Commission</span>\n<span><span>CIosso</span></span>\n<span><time>Mon,
   01/05/2026 - 08:24</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>The
   City Council is accepting applications to fill a vacancy on the Arts Commission.

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-01T18:15:55+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police detectives are investigating a homicide this morning
   at a hookah lounge in the Chinatown-International District.&#160; Just before 8:00
   a.m., patrol officers responded to a shooting in the 400 block of Rainier Avenue

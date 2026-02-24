@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-13T22:41:25+00:00'
 event_ids: []
+events_extracted: true
 feed_content: At 3:27 a.m. on Nov. 13, the Seattle Fire Department’s Fire Alarm Center
   received 911 calls reporting smoke coming from inside a restaurant on the 7200 block
   of E. Green Lake Dr. N.

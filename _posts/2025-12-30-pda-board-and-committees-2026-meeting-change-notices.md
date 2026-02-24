@@ -1,7 +1,25 @@
 ---
 classified: true
+content_checksum: 91cee7eaf4f8a21b97ebddca44f3c626d1f42590baa4bc23ff56a31b3e1eacb5
 date: '2025-12-30T23:18:15+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-12-board-of-directors-meeting.md
+- _events/2026-02-09-board-of-directors-meeting.md
+- _events/2026-03-09-board-of-directors-meeting.md
+- _events/2026-04-13-board-of-directors-meeting.md
+- _events/2026-05-11-board-of-directors-meeting.md
+- _events/2026-06-08-board-of-directors-meeting.md
+- _events/2026-07-13-board-of-directors-meeting.md
+- _events/2026-08-10-board-of-directors-meeting.md
+- _events/2026-09-14-board-of-directors-meeting.md
+- _events/2026-10-19-board-of-directors-meeting.md
+- _events/2026-11-09-board-of-directors-meeting.md
+- _events/2026-12-14-board-of-directors-meeting.md
+- _events/2026-01-05-executive-committee-meeting.md
+- _events/2026-01-06-finance-and-asset-management-committee-meeting.md
+- _events/2026-01-06-resident-and-property-success-committee-meeting.md
+- _events/2026-01-07-property-development-committee-meeting.md
+events_extracted: true
 feed_content: |-
   <p><strong>The PDA Board and Committee meetings will continue to occur electronically for the foreseeable future, and we will post the Zoom meeting information on our website under the News &amp; Stories section here. Below is the meeting information for our upcoming meetings.</strong></p>
   <p> </p>

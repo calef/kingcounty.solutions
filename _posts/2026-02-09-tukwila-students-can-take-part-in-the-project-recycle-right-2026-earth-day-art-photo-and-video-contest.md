@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-02-09T20:18:06+00:00'
-event_ids: []
+event_ids:
+- _events/2023-03-08-project-recycle-right-2026-earth-day-art-photo-and-video-contest.md
+- _events/2023-04-13-finalists-announcement-for-project-recycle-right-contest.md
+events_extracted: true
 feed_content: |-
   <p><strong>Attention, Tukwila Students!</strong></p>
   <p>Recology and the City of Tukwila are announcing their third Project Recycle Right: 2026 Earth Day Art, Photo &amp; Video Contest. For more information and application instructions, please visit the application link at <strong><a>tinyurl.com/2026-Art</a></strong>.</p>

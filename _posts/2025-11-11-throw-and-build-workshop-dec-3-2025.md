@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-11T17:35:26+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-03-throw-and-build-workshop.md
+events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/build-outing-791x1024.png" alt="" class="wp-image-3598"/></figure>
 

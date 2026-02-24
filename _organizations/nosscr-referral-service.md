@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-ca4e-76a6-964c-dc881ac51e79.md
 events_ical_url: https://nosscr.org/events/?ical=1
 news_rss_url: https://nosscr.org/feed/
 phone: "(845) 682-1881"

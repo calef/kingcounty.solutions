@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-29T19:00:34+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <a>Apply For Position</a>
   <p>Department: Snoqualmie Gaming Commission<br>

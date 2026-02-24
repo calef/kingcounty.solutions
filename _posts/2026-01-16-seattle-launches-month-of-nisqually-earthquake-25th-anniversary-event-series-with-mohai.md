@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-16T00:26:51+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-21-the-nisqually-quake-and-fixing-the-bricks.md
+events_extracted: true
 feed_content: 'For Immediate Release   January 15, 2026   Contact: Bryan Stevens 
   bryan.stevens@seattle.gov  Seattle Launches “Month of Nisqually Earthquake” 25th
   Anniversary Event Series with Museum of History and Industry (MOHAI) Publi...'

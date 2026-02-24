@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-11T17:56:26+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-17-dr-martin-luther-king-jr-celebration.md
+events_extracted: true
 feed_content: Join Seattle Parks and Recreation as we come together to honor the enduring
   life and legacy of Dr. Martin Luther King Jr. This special day of reflection, unity,
   and community action will be highlighted by a youth-led march and celebration, guided

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-16T03:30:07+00:00'
 event_ids: []
+events_extracted: true
 feed_content: As of Monday evening, December 15 at 7:30 p.m., the evacuation alert
   has been lifted for the residents and businesses east of the Green River in the
   Orillia area in Tukwila, Renton, and Kent, and the flash flood warning has been

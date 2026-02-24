@@ -2,6 +2,7 @@
 classified: true
 date: '2025-09-22T17:19:57+00:00'
 event_ids: []
+events_extracted: true
 feed_content: '<p class="">Recipe adapted from Ana Sainz</p><p class="">Recipe shared
   in partnership with <a href="https://thepantryseattle.com/" target="_blank">the
   Pantry</a>.&nbsp;</p><p class="">Yield: 6 servings (8-10 cups) </p><p data-rte-preserve-empty="true"

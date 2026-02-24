@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-15T20:46:16+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Small businesses are the heartbeat of Seattle. They define our city’s
   unique character, shape our diverse neighborhoods, and power our local economy.
   They’re more than storefronts – they represent the entrepreneurial and creativity

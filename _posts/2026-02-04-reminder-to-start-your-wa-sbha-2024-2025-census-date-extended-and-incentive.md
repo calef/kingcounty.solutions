@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 0e357baae75a8f943c5243b590f284f0e1ae214f38cab0fb75c1a6d52d312261
 date: '2026-02-04T15:57:00+00:00'
 event_ids:
 - _events/2026-02-27-wa-sbha-2024-2025-census-submission-deadline.md

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-12T21:12:33+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Read Seattle IT's 2024 Annual Report
 feed_content_checksum: c5f108cbcd1e6e90eebc06212b3caddbd426eac6
 image_checksums: []

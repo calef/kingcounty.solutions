@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-12-16T17:50:08+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-24-pop-up-pageant.md
+- _events/2023-12-24-candlelight-service.md
+- _events/2023-12-25-christmas-day-service.md
+events_extracted: true
 feed_content: |-
   <p>Christmas Eve Service with a Pop-Up Pageant for All Ages at 4 pm Christmas Eve Candlelight Service in the Chapel at 8 pm Christmas Day Service with Stories and Carols … <a>Read More</a></p>
   <p>The post <a>Celebrate Christmas at St Luke’s</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>

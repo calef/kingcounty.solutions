@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: aa0e2455b1954d6662c0d65d1307b0115a11b9f59ce9515e27c5d74a0641554d
 date: '2026-02-13T23:00:00+00:00'
-event_ids: []
+event_ids:
+- _events/2023-02-15-wednesday-night-dinner.md
+events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Happy Presidents’ Day – Ballard Senior Center is closed.</p>
 

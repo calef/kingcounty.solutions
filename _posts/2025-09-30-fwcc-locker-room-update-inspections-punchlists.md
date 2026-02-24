@@ -2,6 +2,7 @@
 classified: true
 date: '2025-09-30T19:14:12+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"16794\" class=\"elementor
   elementor-16794\" data-elementor-post-type=\"post\">\n\t\t\t\t\t\t<section class=\"elementor-section
   elementor-top-section elementor-element elementor-element-abb9a3d elementor-section-boxed

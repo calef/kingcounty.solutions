@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-07T21:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2>Be a hero in your community</h2>
 

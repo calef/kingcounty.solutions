@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-01-16T22:07:30+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-06-doing-business-with-the-city-of-seattle.md
+- _events/2026-02-06-spanish-language-workshop.md
+events_extracted: true
 feed_content: WHEN: Friday, February 6, 2025, 09:00AM – 11:00AM (PST) TALLER EN ESPAÑOL: Viernes
   06 de Febrero de 2026 02:00PM – 03:00PM (PST) Is your firm interested in doing business
   with the City of Seattle? Do you want to learn more about how City purchasi...

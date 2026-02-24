@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-06T22:26:56+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Data entry error significantly inflated the reported emissions reduction for Commerce programs</p>
 

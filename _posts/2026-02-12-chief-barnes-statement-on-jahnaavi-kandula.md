@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-12T20:06:49+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "“The Seattle Police Department is committed to protecting the safety
   of all people. Jahnaavi Kandula was a valued member of our community and loved by
   those who knew her. Her death is a tragic example of a failure to keep Seattle safe.

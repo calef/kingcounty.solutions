@@ -1,5 +1,6 @@
 ---
 acronym: HCSC
+chio_website_id: _websites/019c5dc2-1cde-76ec-826b-f3d2af0da6be.md
 news_rss_url: https://supportcenter.highline.edu/feed/
 parent_organization_title: Highline College
 title: Highline College Support Center

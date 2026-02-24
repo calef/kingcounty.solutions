@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-15T23:58:20+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police officers arrested a 27-year-old felon after hiding a
   gun and running from officers in Pioneer Square Sunday morning. On Dec. 14 at about
   1:50 a.m., patrol officers responded to reports of a physical fight near 2nd Avenue

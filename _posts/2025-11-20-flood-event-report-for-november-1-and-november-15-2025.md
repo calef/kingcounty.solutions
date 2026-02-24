@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-20T20:37:40+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Issued by the King County Flood Control District on November 20, 2025</p>
 

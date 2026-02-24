@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-09-03T17:52:32+00:00'
-event_ids: []
+event_ids:
+- _events/2025-09-10-blood-drive.md
+events_extracted: true
 feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n

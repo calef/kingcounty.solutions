@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-02-13T19:43:58+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-21-hiawatha-community-center-reopening-ceremony.md
+- _events/2026-02-21-drop-in-activities-and-facility-tours.md
+events_extracted: true
 feed_content: Seattle Parks and Recreation (SPR) is happy to announce the Hiawatha
   Community Center is welcoming back the community on Saturday, February 21, 2026.
   Please join us for the official ribbon cutting at 10 a.m. in West Seattle’s Admiral

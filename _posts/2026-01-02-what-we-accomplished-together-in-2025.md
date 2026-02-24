@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-02T22:37:09+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Dear Neighbor, 2025 was a busy year! Thank you for working with me to win some major victories for District 6 and our city as a whole. Before we enter 2026, I want to take a moment to reflect on the amazing work we did together this year.   From updating our 20-year growth plan and...</p>
   <p>The post <a>What we accomplished together in 2025</a> appeared first on <a>Seattle City Council Blog</a>.</p>

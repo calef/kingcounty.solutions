@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-18T00:45:44+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Abdi Jama has been appointed as Special Advisor on Immigrant &amp; Refugee Affairs for the City of Seattle. A nationally respected leader in immigrant and refugee services, Abdi brings more than two decades of experience strengthening institutions, expanding access to justice, and building durable systems that support immigrant families across Washington State. Abdi most recently […]</p>
   <p>The post <a>Abdi Jama Appointed Special Advisor on Immigrant &amp; Refugee Affairs</a> appeared first on <a>Office of the Mayor</a>.</p>

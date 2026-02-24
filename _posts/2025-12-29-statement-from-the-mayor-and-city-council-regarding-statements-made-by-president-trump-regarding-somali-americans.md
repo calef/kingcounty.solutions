@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-29T20:05:59+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Over 30 years ago, the City of Tukwila and South King County began welcoming Somali refugees to our community. Many were fleeing famine, war, and instability and like so many people around the world, looked to the United States for safety and a place to begin their American journey. Tukwila became that place for many.</p>
   <p>We were deeply disappointed and disturbed by President Trump’s recent hateful and divisive remarks about Somali Americans living in Minnesota.</p>

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-03T19:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Throughout the month of December, the Seattle Police Department Traffic
   Section will have officers on the streets watching for impaired drivers. Every night
   this month officers will be across the city, watching busy streets and paying close

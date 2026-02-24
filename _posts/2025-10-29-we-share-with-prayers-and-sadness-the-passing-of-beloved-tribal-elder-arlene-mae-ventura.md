@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-29T16:56:25+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-06-funeral-service-for-arlene-mae-ventura.md
+events_extracted: true
 feed_content: "We share with prayers and sadness&nbsp;the passing of a beloved Tribal
   Elder\n\n# Arlene Mae Ventura\n\nSunrise: 8/5/1942 Sunset: 10/29/2025\n\nWe will
   share additional information when it is available.  \nOut of respect and according

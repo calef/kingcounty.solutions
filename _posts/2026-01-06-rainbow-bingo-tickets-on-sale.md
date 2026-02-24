@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-06T18:26:22+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-16-rainbow-bingo-gilligan-s-luau.md
+events_extracted: true
 feed_content: |-
   <a><p>Our first Rainbow Bingo of the year is next week, and it’s a fun theme… Gilligan’s Luau. </p>
 

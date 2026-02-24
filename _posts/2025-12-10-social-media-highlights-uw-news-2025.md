@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-12-10T19:33:26+00:00'
-event_ids: []
+event_ids:
+- _events/2025-06-01-june-commencement-ceremony.md
+- _events/2026-02-19-national-library-week-showcase.md
+- _events/2026-02-19-launch-of-ways-of-knowing-podcast-season-2.md
+events_extracted: true
 feed_content: "<p>This year, the UW News social media team shared stories from the
   University of Washington community with reporters, news outlets and our social media
   followers. We also promoted special events happening around campus. Here are some

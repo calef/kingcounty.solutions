@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-11-10T19:59:13+00:00'
-event_ids: []
+event_ids:
+- _events/2023-11-20-holiday-season-celebration.md
+- _events/2026-02-19-winterfest.md
+- _events/2026-02-19-christmas-ship.md
+events_extracted: true
 feed_content: 'Note: Links below will open new windows. Seattle Center celebrates
   the season with free and affordable events Nov. 20–Dec. 31 SEATTLE – Seattle Center
   is the place to be this holiday season as Holidays at the Center fills the campus

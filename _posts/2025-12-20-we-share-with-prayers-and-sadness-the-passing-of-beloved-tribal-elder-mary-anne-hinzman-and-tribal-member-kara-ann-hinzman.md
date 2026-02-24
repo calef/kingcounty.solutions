@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-20T18:47:19+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><span>We share with prayers and sadness </span><span>the passing of a beloved Tribal Elder and a Tribal Member</span></p>
   <h1><span>Mary Anne Hinzman</span></h1>

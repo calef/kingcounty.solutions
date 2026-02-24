@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-09T18:39:54+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Mayor Katie B. Wilson today announced new departmental leadership at the Office of City Finance and the Office of Economic Development.  Seattle, WA – “Delivering on housing, transportation, and affordability requires a well-managed, financially responsible city government with the capacity to make the big investments we need. It also means doing everything possible to ensure a […]</p>
   <p>The post <a>Mayor Wilson Announces New Leadership at Office of City Finance and Office of Economic Development</a> appeared first on <a>Office of the Mayor</a>.</p>

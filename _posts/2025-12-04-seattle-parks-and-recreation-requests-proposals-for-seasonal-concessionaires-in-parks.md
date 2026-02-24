@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-04T19:55:20+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle Parks and Recreation (SPR) is seeking individuals and businesses
   to submit proposals to offer concessions in select city parks. The competitive process
   to award concessions permits will open to proposals December 4, 2025.    SPR is

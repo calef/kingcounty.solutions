@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-14T20:18:02+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="768" src="http://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14-1024x768.png" alt="" class="wp-image-62163" style="width:339px;height:auto" srcset="https://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14-1024x768.png 1024w, https://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14-300x225.png 300w, https://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14-768x576.png 768w, https://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14-1536x1152.png 1536w, https://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 

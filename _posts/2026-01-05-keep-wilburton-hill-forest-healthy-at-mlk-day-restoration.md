@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: c426cf065491e2b53e790706d75485a78fe01a1efe079c687ffc272f8a629145
 date: '2026-01-05T21:47:50+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-19-forest-restoration-event.md
+events_extracted: true
 feed_content: "<span>Keep Wilburton Hill forest healthy at MLK Day restoration</span>\n<span><span>CIosso</span></span>\n<span><time>Mon,
   01/05/2026 - 13:47</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>
   \   <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2026-01/pcs-2019-masternaturalistmlkdayplantingeastgatepark.jpg?h=bcad1468&amp;itok=PJSLGKgk\">\n\n\n</div>\n

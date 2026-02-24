@@ -1,7 +1,12 @@
 ---
 classified: true
 date: '2025-11-21T23:41:12+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-27-thanksgiving-day-waste-collection-suspension.md
+- _events/2025-12-25-christmas-day-waste-collection-suspension.md
+- _events/2026-01-01-new-years-day-waste-collection-suspension.md
+- _events/2025-12-26-holiday-tree-composting.md
+events_extracted: true
 feed_content: 'As we head into the holiday season, we want to share some important
   reminders about our collection services. Garbage, recycling, and food and yard waste
   will NOT be collected on these upcoming holidays: If your regular collection day

@@ -1,5 +1,6 @@
 ---
 address: 1005 Terrace Street, Seattle, WA 98104
+chio_website_id: _websites/019c5dc2-8f31-732f-b174-4b5401853a9f.md
 email: info@hilltop-house.org
 news_rss_url: https://hilltop-house.org/feed/
 phone: 206-624-5704

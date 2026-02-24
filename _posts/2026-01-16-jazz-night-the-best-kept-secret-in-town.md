@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-16T19:49:45+00:00'
-event_ids: []
+event_ids:
+- _events/2024-02-05-jazz-night.md
+events_extracted: true
 feed_content: |-
   <a><p>Is listening to live music on your list of New Year’s Resolutions? </p>
 

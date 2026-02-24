@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 0bb4458d8d91ec7d6724ab239622f74bfd163492b941e19d96a331439adff0f3
 date: '2026-02-06T17:51:02+00:00'
-event_ids: []
+event_ids:
+- _events/2024-04-13-abstract-painting-class.md
+events_extracted: true
 feed_content: |-
   <p>Taught by local artist, McKy Karounis. McKy will lead you through creating an abstract painting you’ll love while listening to music that inspires you! All supplies are included.<br></p>
 

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-10T23:07:20+00:00'
 event_ids: []
+events_extracted: true
 feed_content: I’m extremely honored and grateful to continue in my role as Chief of
   Police for the Seattle Police Department and for the amazing community that I have
   come to care for here in Seattle. Public safety is a shared value, and our priorities

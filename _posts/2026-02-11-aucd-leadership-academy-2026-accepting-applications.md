@@ -1,7 +1,12 @@
 ---
 classified: true
+content_checksum: 488af962b865dc963162475e1c1181ec9e0417f69e8cb7f7c422a8fad325b77b
 date: '2026-02-11T18:41:58+00:00'
-event_ids: []
+event_ids:
+- _events/2026-06-07-2026-aucd-leadership-academy.md
+- _events/2026-06-07-guided-mindfulness-practice.md
+- _events/2026-03-02-application-deadline-for-aucd-leadership-academy.md
+events_extracted: true
 feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>AUCD
   Leadership Academy 2026 Accepting Applications</h2>\n<p>The Association of University
   Centers on Disabilities is now accepting applications for the 2026 <a>AUCD Leadership

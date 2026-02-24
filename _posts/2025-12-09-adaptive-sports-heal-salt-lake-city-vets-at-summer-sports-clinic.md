@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-09T15:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2025-08-23-2025-national-veterans-summer-sports-clinic.md
+events_extracted: true
 feed_content: |-
   <h2>VA Salt Lake City Veterans share recovery journeys in San Diego</h2>
 

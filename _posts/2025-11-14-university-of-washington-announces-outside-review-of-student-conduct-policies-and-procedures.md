@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-14T17:02:43+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><span data-contrast="auto">The University of Washington will engage an outside firm to review its student conduct policies and procedures and make recommendations for improvements, President Robert J. Jones announced today.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span></p>
   <p><span data-contrast="auto">“Our student conduct policies and practices must ensure there is transparency about the expectations we all have for our students, as well as what happens if their actions run counter to those expectations by violating the Student Conduct Code. We must also ensure a fair process and appropriate accountability, reflecting the unique circumstances of each situation and the responsibility we each have as members of the UW community,” said Jones, who became UW President Aug. 1. </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span></p>

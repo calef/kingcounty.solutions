@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-23T10:35:37-08:00'
-event_ids: []
+event_ids:
+- _events/2026-03-28-crosslake-connection-opening-day.md
+events_extracted: true
 feed_content: "<p>The 2 Line’s highly anticipated Crosslake Connection between Seattle
   and the Eastside will transform how we travel around the region for generations
   to come, and it all <strong>begins Saturday, March 28.  </strong></p><p>The remaining

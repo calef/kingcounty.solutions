@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-31T01:26:51+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police officers arrested a 25-year-old man with multiple felony
   warrants driving a stolen vehicle in the Belltown neighborhood this morning. On
   Dec 29, just after midnight, an SPD officer saw a man driving an Audi SUV with a

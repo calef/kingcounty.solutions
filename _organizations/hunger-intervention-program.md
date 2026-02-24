@@ -1,5 +1,6 @@
 ---
 acronym: HIP
+chio_website_id: _websites/019c5dc2-9650-7c40-9dbd-6a4026a9a9c2.md
 events_ical_url: https://hungerintervention.org/events/?ical=1
 news_rss_url: https://hungerintervention.org/feed/
 title: Hunger Intervention Program

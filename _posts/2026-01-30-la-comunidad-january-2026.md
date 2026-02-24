@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-30T20:07:01+00:00'
-event_ids: []
+event_ids:
+- _events/2023-01-16-43rd-annual-martin-luther-king-jr-celebration.md
+events_extracted: true
 feed_content: |-
   <p><strong>El Centro de la Raza Joins Seattle’s 43rd Annual MLK Jr. Celebration</strong></p>
 

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-17T21:45:59+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>The Snoqualmie Indian Tribe is currently accepting applications for a three-year term on the New Moons Corporation Board of Directors. Applications will be open until <strong>5PM on March 5, 2026</strong>..</p>
   <p>The New Moons Board of Directors role is to oversee the development of economic planning, with implementation of the Tribe’s business structure. This position will also be responsible for developing a structured process for assessing potential economic development and diversification opportunities and reporting to various parties including the Tribe’s General Council.</p>

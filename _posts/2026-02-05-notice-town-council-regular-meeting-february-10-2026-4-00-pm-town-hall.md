@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-02-05T21:00:00+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-10-town-council-meeting.md
+- _events/2026-03-10-next-town-council-meeting.md
+events_extracted: true
 feed_content: |-
   <p><a>COMPLETE PACKET</a></p>
   <p>Join Zoom Meeting<br>

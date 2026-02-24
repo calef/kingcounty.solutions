@@ -1,7 +1,12 @@
 ---
 classified: true
 date: '2025-08-27T18:14:42+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-04-general-election.md
+- _events/2025-10-27-deadline-for-online-and-mail-registration.md
+- _events/2025-11-04-in-person-registration-deadline.md
+- _events/2025-09-16-national-voter-registration-day.md
+events_extracted: true
 feed_content: |-
   <p>Washington State: Voting &amp; Registration — What You Need to Know</p>
 

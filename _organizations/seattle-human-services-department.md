@@ -1,5 +1,6 @@
 ---
 address: 700 5th Ave, Suite 5800, Seattle, WA, 98104
+chio_website_id: _websites/019c5dc1-c374-7d43-8cee-132cf5fd28dd.md
 email: HSD_Info@seattle.gov
 news_rss_url: https://humaninterests.seattle.gov/feed/
 parent_organization_title: City of Seattle

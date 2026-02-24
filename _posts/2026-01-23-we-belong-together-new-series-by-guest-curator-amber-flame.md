@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2026-01-23T03:03:18+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-25-rooting-for-the-future.md
+- _events/2024-02-22-meet-cute-at-the-library.md
+- _events/2024-03-01-peepless-in-seattle.md
+events_extracted: true
 feed_content: |-
   <p>Could you use a little more community, connection, and cheap date ideas this winter?</p>
 

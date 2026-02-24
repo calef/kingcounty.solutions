@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-02T21:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Revisiting Clarksburg, West Virginia</h2>
 

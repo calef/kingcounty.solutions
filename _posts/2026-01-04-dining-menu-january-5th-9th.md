@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-01-04T17:49:08+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-05-ballard-senior-center-dining-menu.md
+- _events/2023-12-06-special-wednesday-night-dinner.md
+events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Turkey Noodle Soup, Garden Salad &amp; Fruit </p>
 

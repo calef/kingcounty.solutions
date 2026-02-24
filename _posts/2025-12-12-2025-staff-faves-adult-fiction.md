@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-12T18:00:37+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Each year we ask our staff across the library for their favorite books published in the current year. Below you will find some of the fiction books that stood out to library staff in 2025. Find the full list of staff faves in our catalog: <a>Seattle Staff Faves 2025: Fiction, Part 1</a> and <a>Seattle Staff Faves 2025: Fiction, Part 2</a>.</p>
   <p><a>Malinalli</a> by Veronica Chapa<br>

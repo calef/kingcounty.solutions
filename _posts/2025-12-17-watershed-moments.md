@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-17T23:02:41+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>SMA archivists and staff from the Cedar River Watershed recently traded visits to learn more about each other’s work and discuss preservation of records. The watershed is an important part of Seattle’s history as well as its current infrastructure, and records created and held there are vital to understanding the role it has played in […]</p>
   <p>The post <a>Watershed Moments</a> appeared first on <a>Primary Sources</a>.</p>

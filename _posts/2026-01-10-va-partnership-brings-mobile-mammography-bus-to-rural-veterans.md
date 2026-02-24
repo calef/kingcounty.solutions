@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-10T19:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2>On the road to prevention</h2>
 

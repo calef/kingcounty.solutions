@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-29T17:37:57+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-247th-meeting-of-the-american-astronomical-society.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/01/28144825/new-barred-galaxy-1200x412.jpg"><figcaption>James Webb Space Telescope images of COSMOS-74706 with visible spiral arms and prospective central bar structure marked with white lines. <span>Photo: Ivanov et al. 2026, submitted to ApJ</span></figcaption></figure>
   <p><span>New research supported by </span><a><span>Yingjie Cheng</span></a><span>, a University of Washington postdoctoral researcher in astronomy, uncovered a contender for one of the earliest observed spiral galaxies containing a stellar bar — a notable visual feature that can play an important role in the evolution of a galaxy.</span></p>

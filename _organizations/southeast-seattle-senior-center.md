@@ -1,5 +1,6 @@
 ---
 acronym: SESSC
+chio_website_id: _websites/019c5dc2-0f0e-7ae1-9bb2-cfc1e5b5bf03.md
 email: bradyr@sessc.org
 events_ical_url: https://sessc.org/events/?ical=1
 news_rss_url: https://sessc.org/feed/

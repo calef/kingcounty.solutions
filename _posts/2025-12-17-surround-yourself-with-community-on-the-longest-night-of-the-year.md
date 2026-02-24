@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-17T00:45:01+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-21-winter-solstice-celebration-2.md
+events_extracted: true
 feed_content: A communally-minded, season-inspired Solstice party Seattle, WA – Enter
   a waking dream as King Street Station is transformed in celebration of the winter
   solstice, Dec. 21, the LONGEST NIGHT of 2025. Curated by Vee Hua 華婷婷&amp;#16...

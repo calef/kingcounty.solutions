@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-12-08T22:37:33+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-14-our-city-our-safety-2026-kickoff-meeting.md
+- _events/2024-01-14-our-city-our-safety-2026-monthly-meetings.md
+events_extracted: true
 feed_content: On January 14, the Seattle Police Department will launch the first of
   its 10 monthly community conversations, “Our City, Our Safety 2026” across the city,
   with each gathering designed to influence how the department will approach safety

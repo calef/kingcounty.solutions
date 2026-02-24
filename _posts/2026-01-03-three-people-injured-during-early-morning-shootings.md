@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-03T20:40:22+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police are investigating after three people were injured during
   multiple shootings throughout Seattle this morning. At about 1:40 a.m., patrol officers
   responded to Harborview Medical Center (HMC) to interview a victim, suffering two

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-17T17:10:04+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/02/13124927/260212_5-Photo-Header_600x223.jpg"><figcaption>Five UW faculty members have been awarded early-career fellowships from the Alfred P. Sloan Foundation. They are, from left to right, Maria “Masha” Baryakhtar, Matthew R. Golder, Vikram Iyer, Willem Laursen and Frankie Pavia. <span>Photo: University of Washington</span></figcaption></figure>
   <p><span>Five University of Washington faculty members have been awarded early-career fellowships from the Alfred P. Sloan Foundation. The new Sloan Fellows, announced Feb. 17, are </span><a><span>Maria “Masha” Baryakhtar</span></a><span>, an assistant professor of physics, </span><a><span>Matthew R. Golder</span></a><span>, an assistant professor of chemistry, and </span><a><span>Willem Laursen</span></a><span>, an assistant professor of biology, all in the College of Arts &amp; Sciences; </span><a><span>Vikram Iyer</span></a><span>, an assistant professor of computer science in the College of Engineering; and </span><a><span>Frankie Pavia</span></a><span>, an assistant professor of oceanography in the College of the Environment. </span></p>

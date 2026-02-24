@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 18bc9e4880b9ad782df5c3cb861569a0b0ab60fdfe3ecabc13cb1458bc4c96cd
 date: '2026-01-16T18:10:19+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-13-normandy-park-city-council-regular-meeting.md
+events_extracted: true
 feed_content: |-
   City Council Meeting Roundup. On Tuesday, January 13th, the Normandy Park City Council held its regular monthly meeting. Below is a summary of key actions and discussions. Oath of Office
   Councilmembers Eric Zimmerman, Susan West, and Mike Bishoff were sworn in for their four-year terms. We were honored to have Judge Leone administer the oath of office. Appointment of Mayor and Deputy Mayor Every two years, in even-numbered years, the City Council selects the Mayor and Deputy Mayor. The Council reappointed Eric Zimmerman as Mayor and Sue-Ann Hohimer as Deputy Mayor.

@@ -1,5 +1,6 @@
 ---
 address: 17222 NE 8th St, Bellevue, WA 98008
+chio_website_id: _websites/019c5dc2-1970-7981-a7b0-dc49ef0174bc.md
 email: stpeters1@msn.com
 news_rss_url: https://stpetersumc.net/feed/
 phone: 425-747-3210

@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 6813b1a64ea6398030e7916c02fba03cf17e31faf410c3de16eb6e69044e9138
 date: '2026-01-20T16:38:38+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span>Bellevue introduces middle housing permit to streamline development</span>\n<span><span>CIosso</span></span>\n<span><time>Tue,
   01/20/2026 - 08:38</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<article>\n
   \ \n        <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2026-01/dsd-24-stantonstephens-middlehousingtownhomes.jpg?h=199d8c1f&amp;itok=O5CQjd-f\">\n\n\n</div>\n

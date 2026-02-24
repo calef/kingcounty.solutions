@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2026-01-15T22:31:50+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-22-interactive-workshop-on-ai-data-and-privacy.md
+- _events/2026-01-28-govai-coalition-event.md
+- _events/2026-01-30-public-webinar-with-brian-hofer.md
+events_extracted: true
 feed_content: The City of Seattle is celebrating Data Privacy Week and spreading awareness
   about online privacy. We think data privacy should be a priority both for individuals
   and the organizations that protect the publics’ personal information. Our goal is

@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 8df84d1a70920330b91d938f4dd6462364e6a42d9951c3077ead120975ae4221
 date: '2025-12-16T18:09:39+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span>King County Investigation into Dec. 12, 2025 officer-involved
   shooting</span>\n<span><span>DAAnderson</span></span>\n<span><time>Tue, 12/16/2025
   - 10:09</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>At

@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-fbd7-7d8b-9dea-6b190f5321d6.md
 parent_organization_title: Puget Sound Educational Service District 121
 title: Skykomish School District
 topic_titles:

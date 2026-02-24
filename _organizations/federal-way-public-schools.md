@@ -1,5 +1,6 @@
 ---
 acronym: FWPS
+chio_website_id: _websites/019c5dc2-88fb-7c8b-9de8-5d073e57261d.md
 parent_organization_title: Puget Sound Educational Service District 121
 title: Federal Way Public Schools
 topic_titles:

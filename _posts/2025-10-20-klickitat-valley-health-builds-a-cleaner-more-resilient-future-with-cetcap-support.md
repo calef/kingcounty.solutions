@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-20T16:19:03+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   ![Klickitat Valley Health Hospital in Goldendale, Washington](https://www.commerce.wa.gov/wp-content/uploads/2025/10/Klickitat.jpg)
 

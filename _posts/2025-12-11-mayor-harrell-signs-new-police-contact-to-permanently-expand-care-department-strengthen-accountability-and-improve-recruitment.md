@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-11T20:04:50+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Approval reflects monumental, nation-leading step forward in diversified
   public safety response Seattle – Today, Mayor Bruce Harrell signed a new contract
   with rank-and-file Seattle police officers that will allow for the permanent expansion

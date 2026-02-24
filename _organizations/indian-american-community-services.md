@@ -1,5 +1,6 @@
 ---
 acronym: IACS
+chio_website_id: _websites/019c5dc1-c44f-7592-b303-f252c3bb254e.md
 events_ical_url: https://iacswa.org/events/?ical=1
 news_rss_url: https://iacswa.org/feed/
 title: Indian American Community Services

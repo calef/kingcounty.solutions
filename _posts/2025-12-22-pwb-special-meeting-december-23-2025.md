@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-22T13:17:52+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-23-public-works-board-special-meeting.md
+events_extracted: true
 feed_content: |-
   <p>The PWB will hold a special meeting on Tuesday, December 23, 2025 from 3:00 – 4:00 p.m. to discuss the proposal for increasing emergency awards available in response to the significant atmospheric river and winter weather events impacting communities across Washington.</p>
 

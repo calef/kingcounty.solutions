@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 5024fd4cb8901481359df5061fc69569106ba86d79ad4829f0e6d594a8caf17d
 date: '2025-12-10T16:55:48+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://angelflightwest.org/wp-content/uploads/2025/12/Facetune_01-12-2025-21-29-37-2-651x1024.jpeg"></figure>
 

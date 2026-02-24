@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-11T19:05:10+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The atmospheric river event continues, with heavy rain and wind across
   western Washington. Many rivers have flooded across King County. Water levels may
   not go down for some rivers until Friday, Dec. 12.   King County teams are working

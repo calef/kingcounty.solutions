@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-11-04T21:04:53+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-12-town-council-special-meeting-and-public-hearing-for-2026-final-budget.md
+- _events/2025-10-28-regular-meeting-of-the-town-park-commission.md
+events_extracted: true
 feed_content: "![](https://yarrowpointwa.gov/wp-content/uploads/2025/11/SEPA-2025-06-DNS-Posting-Notice.jpg)"
 image_checksums: []
 images_extracted: true

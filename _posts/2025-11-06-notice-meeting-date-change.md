@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-06T22:21:33+00:00'
-event_ids: []
+event_ids:
+- _events/2023-11-12-vrfa-board-of-governance-meeting.md
+events_extracted: true
 feed_content: |-
   In observance of the Veterans Day holiday on November 11th, the VRFA’s November Board of Governance meeting will be rescheduled to Wednesday, November 12th, beginning at 5:00 PM at VRFA Station 31.
 

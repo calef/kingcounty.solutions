@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-19T21:10:08+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The holidays bring celebration, connection, and a lot of extra stuff.
   From gift wrap and packaging to food and tech gifts, small choices can add up to
   less waste and a greener season. Seattle Public Utilities is here to help you recycle

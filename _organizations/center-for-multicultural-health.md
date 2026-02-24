@@ -1,6 +1,7 @@
 ---
 acronym: CMCH
 address: 1120 E. Terrace St., Seattle, WA 98122
+chio_website_id: _websites/019c5dc2-5a3e-7b1b-b590-05bc06b2e9f8.md
 email: kmholifield@cschc.org
 phone: "(206) 461-6910"
 title: Center for MultiCultural Health

@@ -1,6 +1,7 @@
 ---
 acronym: OIC
 address: 5000 Capitol Blvd SE, Tumwater, WA 98501
+chio_website_id: _websites/019c5dc2-99df-7ad4-91c2-a1f675fe1d04.md
 email: oiccodr@oic.wa.gov
 parent_organization_title: State Executive Branch
 phone: 800-562-6900

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-18T22:07:22+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Installation of third 150-ton transformer marks the completion of crucial
   reliability project. Over the last few years, crews have been hard at work installing
   new transformers at our East Pine Substation. And this weekend, they will switch

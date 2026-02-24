@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-12T18:17:03+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://www.commerce.wa.gov/wp-content/uploads/2025/12/ShorelineTransferStation-1024x768.jpg"><figcaption><em>Bow Lake. Photo courtesy of King County.</em></figcaption></figure>
 

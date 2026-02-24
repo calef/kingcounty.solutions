@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-05T19:14:52+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Join us in recognizing Board of Governance Member and City of Algona Councilmember Lynda Osborn, whose leadership and dedication have shaped the Valley Regional Fire Authority since day one. Serving on the Board of Governance since 2007, Lynda’s commitment to Algona, Auburn, and Pacific has made her a trusted voice and a pillar of public service. Her stewardship as Chair of the Finance Committee ensured our financial strength and growth, allowing us to better serve our communities. Thank you, Lynda, for your unwavering dedication and for modeling true public service. Congratulations on your retirement, you will always be part of the VRFA family!</p>
   <p>The post <a>Honoring Lynda Osborn: Celebrating a Legacy of Service and Leadership at VRFA</a> appeared first on <a>Valley Regional Fire Authority (VRFA)</a>.</p>

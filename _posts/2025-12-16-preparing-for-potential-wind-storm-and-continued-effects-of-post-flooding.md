@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-16T20:23:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>In preparation for this evening’s wind advisory and continued affects of post-flooding, please review the following safety and preparedness steps:</p>
   <p><strong><span>Stay Safe During a Power Outage</span></strong></p>

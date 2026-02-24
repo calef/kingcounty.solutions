@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 80ef708c3b04a4370d521f641ab57b6a8416e07489ce08f7c792bc1b845df1f2
 date: '2026-02-06T18:12:27+00:00'
 event_ids:
 - _events/2026-03-16-application-deadline-for-multifamily-affordable-housing-funds.md

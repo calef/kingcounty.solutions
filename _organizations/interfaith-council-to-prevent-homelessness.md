@@ -1,6 +1,7 @@
 ---
 acronym: IFCH
 address: PO Box 330, Vashon, WA 98070
+chio_website_id: _websites/019c5dc1-c5ff-7675-b450-094b6caed810.md
 email: bc2vashon@centurytel.net
 news_rss_url: https://ifchvashon.org/feed/
 phone: "(206) 643-5169"

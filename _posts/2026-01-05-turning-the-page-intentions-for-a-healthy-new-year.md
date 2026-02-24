@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 7e99b5305e74613b3e999c677bfe397e4f8c26e72b1450f574c8d0297027372c
 date: '2026-01-05T17:18:05+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Last month we shared simple steps to "keep the shine on"—focusing on
   little moments of light, gratitude, and connection to navigate the busy and often
   heavy holiday season.   Now  t hat the festive rush is over, January brings us into

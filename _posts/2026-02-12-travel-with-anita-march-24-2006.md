@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-12T19:38:11+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/Australia-Anita-2-791x1024.png"></figure>
 

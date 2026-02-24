@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 82fdc0fba7c90a1afefb441665951f21cd6fb5a1080ebc5603dd79009046789f
 date: '2025-11-25T01:07:00+00:00'
-event_ids: []
+event_ids:
+- _events/2023-06-01-auburn-farmers-market-4.md
+events_extracted: true
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/26_Auburn@Play_Winter_337x234%20Banner.png"
   />
 image_checksums: []

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-22T00:12:24+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-26-data-privacy-week.md
+events_extracted: true
 feed_content: The City of Seattle’s Data Privacy team celebrates Digital Privacy Week by
   helping raise awareness of the value of your personal data and providing a few useful
   tips to help reduce the likelihood that you fall prey to a bad actor. Some of the

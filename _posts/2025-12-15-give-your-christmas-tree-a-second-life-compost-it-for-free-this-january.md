@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-15T21:38:20+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-26-free-composting-for-christmas-trees-and-holiday-greens.md
+events_extracted: true
 feed_content: The holidays are over, but your Christmas tree doesn’t have to end up
   in the landfill! Seattle Public Utilities customers can compost their trees and
   other holiday greens for free through January 31. Composting your Christmas tree

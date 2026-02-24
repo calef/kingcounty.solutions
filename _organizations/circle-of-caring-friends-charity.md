@@ -1,5 +1,6 @@
 ---
 acronym: CCF
+chio_website_id: _websites/019c5dc2-57a2-7c75-ab3a-07c9c9672397.md
 phone: 253-632-2543
 title: Circle of Caring Friends Charity
 topic_titles:

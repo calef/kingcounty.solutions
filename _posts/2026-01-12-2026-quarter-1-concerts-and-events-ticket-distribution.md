@@ -1,7 +1,15 @@
 ---
 classified: true
 date: '2026-01-12T20:31:51+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-13-twice-world-tour.md
+- _events/2026-01-31-battle-of-the-sound-thunderbirds-vs-silvertips.md
+- _events/2026-02-01-the-harlem-globetrotters-100-year-tour.md
+- _events/2026-02-14-jo-koy-just-being-koy-tour.md
+- _events/2026-02-15-ghost-skeletour-world-tour-2026.md
+- _events/2026-02-22-cardi-b-little-miss-drama-tour.md
+- _events/2026-03-16-conan-gray-wishbone-world-tour.md
+events_extracted: true
 feed_content: |-
   <p>The following Tribal Members will receive tickets to concerts and events at Climate Pledge Arena.</p>
   <p>All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your game please email <strong>TCR@snoqualmietribe.us</strong> at your earliest convenience.</p>

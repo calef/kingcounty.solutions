@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-04T16:02:30+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/02/02113223/Screenshot-2026-02-02-at-11.32.03-AM.png"><figcaption>UW and Ai2 research team built OpenScholar, an open-source AI model designed specifically to synthesize current scientific research. In tests, OpenScholar cited sources as accurately as human experts, and 16 scientists preferred its response to those written by subject experts 51% of the time. Above is the user-interface for a free online demo of the model. </figcaption></figure>
   <p><span>Keeping up with the latest research is vital for scientists, but given that </span><a><span>millions of scientific papers</span></a><span> are published every year, that can prove difficult. Artificial intelligence systems show promise for quickly synthesizing seas of information, but they still tend to make things up, or “hallucinate.” </span></p>

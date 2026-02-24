@@ -1,7 +1,12 @@
 ---
 classified: true
 date: '2025-11-03T18:17:21+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-book-giveaway.md
+- _events/2026-02-19-night-market.md
+- _events/2026-02-19-civic-innovation-challenge.md
+- _events/2024-03-01-next-issue-of-its-your-city-newsletter.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Popular
   Community Programming Fund featured in It's Your City</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

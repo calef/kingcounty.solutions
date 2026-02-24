@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-22T00:39:13+00:00'
-event_ids: []
+event_ids:
+- _events/2026-06-10-jubilee-jazz-night-2026.md
+events_extracted: true
 feed_content: '<div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1><span>Jubilee
   Jazz Night 2026: Rooted &amp; Rising</span></h1> </div> </div> </div> </div> </div>
   </div> <div> <div> <div> <div> <div> <div> <article> <div> <div> <div> <h2> Jubilee

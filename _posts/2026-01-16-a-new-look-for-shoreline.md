@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-16T19:58:05+00:00'
 event_ids: []
+events_extracted: true
 feed_content: <div><img src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2026/01/SC-Logo-1-3.jpg?fit=504%2C216&amp;ssl=1"></div>Shoreline
   is proud to introduce its new name and logo to the community. Last year, the Shoreline
   Community College Board of Trustees approved a name change to Shoreline College.

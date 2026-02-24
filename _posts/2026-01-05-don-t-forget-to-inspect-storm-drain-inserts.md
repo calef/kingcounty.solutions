@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-05T22:28:30+00:00'
 event_ids: []
+events_extracted: true
 feed_content: We’re reminding builders working in Seattle to inspect and maintain
   any temporary storm drain inserts they have installed as part of construction projects.
   The inserts, also known as storm drain socks, are used on many construction projects

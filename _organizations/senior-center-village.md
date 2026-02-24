@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-2d48-7a2f-b7fd-825d5d967806.md
 email: info@vashon.helpfulvillage.com
 phone: 206-485-4335
 title: Senior Center Village

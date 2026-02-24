@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-11-19T17:39:27+00:00'
-event_ids: []
+event_ids:
+- _events/2023-11-02-introduction-of-new-ethics-legislation.md
+- _events/2023-12-04-governance-accountability-and-economic-development-committee-meeting.md
+events_extracted: true
 feed_content: |-
   <p>Today Council President Sara Nelson (Position 9) announced that she is proposing new ethics rules for consultants who contract with the City of Seattle. This is an effort to boost transparency and avoid potential conflicts of interest. The bill, which builds upon similar regulations in Portland and San Francisco, amends the ethics code by establishing...</p>
   <p>The post <a rel="nofollow" href="https://council.seattle.gov/2025/11/19/council-president-nelson-announces-new-good-governance-legislation-for-city-contracted-consultants/">Council President Nelson announces new good governance legislation for city-contracted consultants</a> appeared first on <a rel="nofollow" href="https://council.seattle.gov/">Seattle City Council Blog</a>.</p>

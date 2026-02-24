@@ -1,7 +1,12 @@
 ---
 classified: true
+content_checksum: ca9bb8f305608df4fc86061b7e7f52a8e5b6c25a0384a1d6084b337c181e09b9
 date: '2026-01-26T11:00:00+00:00'
-event_ids: []
+event_ids:
+- _events/2024-02-01-military-child-of-the-year-award-finalists-announcement.md
+- _events/2024-03-01-military-child-of-the-year-award-recipients-announcement.md
+- _events/2024-04-01-military-child-of-the-year-award-gala.md
+events_extracted: true
 feed_content: |-
   <p><strong>2026 Semifinalists for Operation Homefront’s Military Child of the Year® Award Announced</strong></p>
 

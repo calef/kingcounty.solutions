@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-05T22:21:27+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   Flood season is here, and the King County Flood Control District (District) is reminding residents that sandbag materials are available **free of charge** to help protect homes, businesses, and property from potential flooding. This program is part of the District’s ongoing commitment to help residents prepare, respond, and recover from flood events as part of its **Be Flood Ready** campaign.
 

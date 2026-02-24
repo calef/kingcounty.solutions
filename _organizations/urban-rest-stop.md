@@ -1,6 +1,7 @@
 ---
 acronym: URS
 address: 2014B NW 57th St., Seattle, WA  98107
+chio_website_id: _websites/019c5dc2-29cd-722d-80f1-3582ddf27331.md
 email: ballardurs@lihi.org
 news_rss_url: https://urbanreststop.org/feed/
 parent_organization_title: Low Income Housing Institute

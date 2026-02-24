@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 61c9bde421239a5d32bebdaa3b8385eddedc136bd7fed4049b6e0abb373fe8fd
 date: '2026-02-09T21:39:07+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-transforming-age-workshop.md
+events_extracted: true
 feed_content: |-
   <p>A quiet cultural shift is underway, powered not by celebrity campaigns or industry slogans, but by individuals who are willing to challenge the assumptions society makes about growing older. These individuals are what we call Agefluencers. They are people who reshape how we think and talk about aging by engaging earnestly, sharing openly, and challenging the outdated scripts that have long defined the later chapters of life. We are coining the term Agefluencer to describe someone who engages in conversations that challenge norms, dismantle ill‑formed perceptions of age, and help redefine the world we wish to grow old in while celebrating life at every stage. This spirit of truth‑telling and optimism captures the heart of a movement that has always been a core part of our work and identity at Transforming Age.</p>
 

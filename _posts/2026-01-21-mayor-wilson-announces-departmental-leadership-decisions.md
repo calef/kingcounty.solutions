@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-21T13:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>SEATTLE – Mayor Wilson today announced her decisions on the leadership of several city departments.  “I could not be more excited about the talent and expertise of the people who have stepped up to lead city departments, and I know that together, this team will be able to accomplish extraordinary things,” said Mayor Wilson. “I look forward to working with Quynh Pham […]</p>
   <p>The post <a>Mayor Wilson Announces Departmental Leadership Decisions </a> appeared first on <a>Office of the Mayor</a>.</p>

@@ -1,5 +1,6 @@
 ---
 address: 3190 S. Martin Luther King Jr Way, Seattle, WA 98144
+chio_website_id: _websites/019c5dc1-e1c8-7ffd-9adc-4667bcdd3d3c.md
 email: afc@marysplaceseattle.org
 news_rss_url: https://www.marysplaceseattle.org/blog?format=rss
 phone: 206-245-1026

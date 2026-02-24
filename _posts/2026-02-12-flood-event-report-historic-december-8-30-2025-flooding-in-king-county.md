@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-12T21:22:02+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>By Steven Schauer, Deputy Executive Director</p>
 

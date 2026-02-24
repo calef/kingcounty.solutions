@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-26T09:17:27+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>7 minute read As an educated leader and passionate health advocate, I am transforming lives and shaping a better, healthier future for generations to come. Growing up in rural Ghana, my parents depended on farming to support our family of seven children. This required a lot of hard work and perseverance, and life was tough at times. I went to live with my older sister, so I could attend a…</p>
   <p><a>Source</a></p>

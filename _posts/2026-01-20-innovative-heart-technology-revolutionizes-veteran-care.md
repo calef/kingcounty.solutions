@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-20T19:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2>Michael E. DeBakey VA Medical Center breaks ground with cutting-edge defibrillation lead procedure</h2>
 

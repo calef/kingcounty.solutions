@@ -1,7 +1,13 @@
 ---
 classified: true
+content_checksum: bf43028d70d04e477e85c74e020866a9d7f9996a76368a02992e580a081c253a
 date: '2026-01-27T22:28:13+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-25-adult-forum-with-rev-dr-peter-rodgers.md
+- _events/2024-02-01-adult-forum-with-rev-brian.md
+- _events/2024-02-08-adult-forum-with-deacon-vince.md
+- _events/2024-02-15-adult-forum-with-the-rev-canon-britt-olson.md
+events_extracted: true
 feed_content: |-
   <p>A series of adult forums following worship on Sundays Sundays during the season after Epiphany we are exploring how our faith impacts various aspects of our lives and vocation. A … <a>Read More</a></p>
   <p>The post <a>Living through Troubled Times</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>

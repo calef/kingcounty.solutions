@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-11T17:04:44+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <div>
   <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/12/10095656/Screenshot-2025-12-04-at-4.22.47-PM.png">

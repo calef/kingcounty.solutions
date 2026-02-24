@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-27T19:33:30+00:00'
-event_ids: []
+event_ids:
+- _events/2023-11-13-public-hearing-on-metropolitan-parks-districts-2026-levy-proposal.md
+events_extracted: true
 feed_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <header id="main-header"
   data-height-onload="80"> <div class="container clearfix et_menu_container"> <div
   id="et-top-navigation" data-height="80" data-fixed-height="80"> <div id="et_mobile_nav_menu">

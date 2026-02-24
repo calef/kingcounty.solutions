@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-18T15:49:34+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police are investigating a stabbing that injured a woman in
   the Belltown neighborhood this morning. Just after 7:00 a.m., patrol officers found
   the victim near 2nd Avenue and Bell Street suffering from a stab wound to her torso.

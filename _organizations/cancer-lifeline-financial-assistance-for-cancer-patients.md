@@ -1,6 +1,7 @@
 ---
 acronym: CL
 address: 6522 Fremont Ave N, Seattle, WA 98103
+chio_website_id: _websites/019c5dbe-ccd9-793c-91c3-8e8808c32505.md
 email: info@cancerlifeline.org
 news_rss_url: https://cancerlifeline.org/feed/
 phone: "(206) 832-1282"

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-10T20:05:10+00:00'
-event_ids: []
+event_ids:
+- _events/2023-01-24-broadview-branch-50th-anniversary-celebration.md
+events_extracted: true
 feed_content: |-
   <p>On Saturday, Jan. 24, more than 1,100 community members streamed into the Broadview Branch to celebrate its <a>50<sup>th</sup> anniversary</a> with storytelling, speeches, cake, music, puzzles, games, and five decades’ worth of history, stories and memories.</p>
 

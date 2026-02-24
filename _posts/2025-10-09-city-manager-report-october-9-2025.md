@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-09T18:55:20+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-12-public-hearing-on-proposed-2026-property-tax-levy.md
+events_extracted: true
 feed_content: 'Fall Checklist: Prevent Flooding and Protect Our Environment. As fall
   settles in, colorful leaves and cooler weather also bring a few important maintenance
   tasks for homeowners. Taking small actions now can make a big difference in preventing

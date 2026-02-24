@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-27T19:17:30+00:00'
-event_ids: []
+event_ids:
+- _events/2025-10-28-storm-debris-yard-waste-pickup.md
+events_extracted: true
 feed_content: MESSAGE TO NORMANDY PARK RESIDENTIAL CUSTOMERS. Recently, the City of
   Normandy Park designated a storm event occurrence that will impact Single-Family
   Residence Customers who subscribe to Yard Waste service. On both Tuesday, Oct. 28,

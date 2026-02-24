@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-01-06T22:07:52+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-20-optional-information-session-for-community-outreach-and-education-fund-rfp.md
+- _events/2026-02-12-proposal-submission-deadline-for-community-outreach-and-education-fund.md
+events_extracted: true
 feed_content: 'For Immediate Release Contact InformationCynthia SantanaPhone: 206-256-5219Email:
   cynthia.santana@seattle.gov Seattle Office of Labor Standards Announces Request
   for Proposal for Two Year $2.44 Million Dollar Community Outreach and Education

@@ -1,6 +1,7 @@
 ---
 acronym: OSL
 address: PO Box 4128, Seattle, WA 98194
+chio_website_id: _websites/019c5dc2-cfb6-7700-a772-0635a921bfae.md
 email: info@oslserves.org
 news_rss_url: https://www.oslserves.org/blog?format=rss
 phone: 206.347.6629

@@ -1,5 +1,6 @@
 ---
 address: 12600 84th Avenue NE, Kirkland, WA 98034
+chio_website_id: _websites/019c5dc2-fa05-71b8-b715-a4cc6084f9fa.md
 email: sec@sjvkirkland.org
 news_rss_url: https://sjvkirkland.org/feed/
 phone: 425-823-0787

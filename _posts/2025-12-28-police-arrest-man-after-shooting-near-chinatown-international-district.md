@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-28T23:34:34+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Police arrested a man after a shooting early Sunday morning near the
   Chinatown–International District neighborhood. At about 6:00 a.m., officers responded
   to a report of a woman shot in the 500 block of Rainier Avenue South. Officers arrived
