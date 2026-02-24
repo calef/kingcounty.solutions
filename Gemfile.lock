@@ -31,6 +31,7 @@ GEM
     digest (3.2.1)
     docile (1.4.1)
     domain_name (0.6.20240107)
+    drb (2.2.3)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -134,7 +135,8 @@ GEM
     mime-types-data (3.2026.0203)
     mini_magick (5.3.1)
       logger
-    minitest (6.0.1)
+    minitest (6.0.2)
+      drb (~> 2.0)
       prism (~> 1.5)
     minitest-mock (5.27.0)
     multipart-post (2.4.1)
