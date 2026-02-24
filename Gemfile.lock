@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/calef/chio.git
-  revision: 4a59381687bd3e09394df2c50ffe49562868e364
+  revision: 67033c017e1342db3f1b0f439291c7056413e773
   specs:
     chio (0.1.20)
       base64
@@ -11,15 +11,15 @@ GIT
 
 GIT
   remote: https://github.com/calef/fmrepo.git
-  revision: 68da2e9d9c44de7b92c09b1f2c39b13bac01ea1e
+  revision: f73263ba8a2537b79007f8e17281673f67ae0ee1
   specs:
     fmrepo (0.2.12)
 
 GIT
   remote: https://github.com/calef/hemingway.git
-  revision: feb9b3d9f151971777792c8698d5487e74d499d5
+  revision: 5d1c9d2c89dd4038ea096e7b05d0519a768b507c
   specs:
-    hemingway (0.2.1)
+    hemingway (0.2.2)
       base64
       chio
       fmrepo
@@ -31,7 +31,7 @@ GIT
 
 GIT
   remote: https://github.com/calef/seldon.git
-  revision: d2125f6dca5f61f89423dd4b3052b71a3949cf2f
+  revision: 9cbda6a245f0ddf0839cb1a182fc48bcb151c1ef
   specs:
     seldon (0.8.1)
       faraday
