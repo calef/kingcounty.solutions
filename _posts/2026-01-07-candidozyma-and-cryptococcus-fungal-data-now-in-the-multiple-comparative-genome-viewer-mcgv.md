@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-07T15:42:46+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'NCBI’s Multiple Comparative Genome Viewer (MCGV) continues to expand
   available alignments! We are excited to announce the addition of two new fungal
   datasets: Candidozyma auris and Cryptococcus multigenome sequence alignments.  You

@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 7bb6af91d4998b7e672c9e29aebf0f869e8956b4d9d63fbdb99e0a3b6d175695
 date: '2026-02-13T22:05:48+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t<div>\n\t\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t<p></p>\n<p><a>Listen
   here!</a></p>\n<p>GLP-1 medications are everywhere in the conversation about weight—but
   how much do we really understand? In this episode, Dr. Lexi Giblin, Executive Director

@@ -1,5 +1,6 @@
 ---
 address: 16101 Greenwood Avenue N, Shoreline, WA 98133-5696
+chio_website_id: _websites/019c5dc2-f750-755d-bc50-6067a8b8316a.md
 email: enrollmentservices@shoreline.edu
 news_rss_url: https://news.shoreline.edu/feed/
 title: Shoreline Community College

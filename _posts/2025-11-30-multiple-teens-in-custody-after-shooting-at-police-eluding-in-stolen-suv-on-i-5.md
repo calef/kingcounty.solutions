@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-30T18:18:05+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Multiple teens, 15-17 years old, are in custody after shooting at a
   Seattle police officer and eluding cops in a stolen SUV on the I-5 freeway last
   night. On Nov. 29 at about 9:00 p.m., Community Response Group (CRG) officers, conducting

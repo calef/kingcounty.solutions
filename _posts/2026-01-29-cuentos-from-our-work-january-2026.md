@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2026-01-29T22:22:41+00:00'
-event_ids: []
+event_ids:
+- _events/2023-01-22-community-air-quality-workshop-series.md
+- _events/2023-01-26-ice-out-for-good-rally.md
+- _events/2023-01-26-43rd-annual-mlk-jr-celebration.md
+events_extracted: true
 feed_content: "<div>\n<div>\n<p><strong>Community Power in Action  Clean Air, Environmental
   Justice, and What’s Next</strong></p>\n\n\n\n<p>On January 22, El Centro de la Raza
   welcomed 40+ community members and volunteers to the Centilia Cultural Center for

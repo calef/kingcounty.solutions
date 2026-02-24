@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-16T21:39:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2025/12/Deep-in-the-Woods-Wallingford-flyer-791x1024.png"></figure>
 

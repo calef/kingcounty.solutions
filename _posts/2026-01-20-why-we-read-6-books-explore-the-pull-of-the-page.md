@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-20T17:47:11+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Many of us start the new year with a <a>resolution to read more</a>. We hear that it’s good for us, helps us unplug, opens our mind and gives us space to escape our daily stresses.</p>
   <p>But what else does reading provide, and what are its perils? These recent memoirs and books about reading explore this question in different and expansive ways.</p>

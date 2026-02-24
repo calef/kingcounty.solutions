@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-16T19:37:30+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<p>The post <a>Get the latest information on the Desimone Levee Breach</a>
   appeared first on <a>City of Tukwila</a>.</p>"
 feed_content_checksum: 074cb8a8ede0e26fd783b5d67141882178a4b346

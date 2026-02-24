@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: cdb72b65235bdc245b8ffce21e7385b653a57834ec5646aeec28f4e3caa842e5
 date: '2025-12-18T18:26:21+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 2025 has been a year full of opportunities for our organization to show
   up for our community in ways we could never imagine. Multi-Service Center, even
   despite the barriers, twists, and turns continues to show up in service to others.

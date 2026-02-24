@@ -1,5 +1,6 @@
 ---
 acronym: VC
+chio_website_id: _websites/019c5dc2-2b88-7c98-84f1-438f9813414c.md
 events_ical_url:
 news_rss_url: https://valleycities.org/feed/
 title: Valley Cities Behavioral Health Care

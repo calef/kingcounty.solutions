@@ -1,7 +1,12 @@
 ---
 classified: true
 date: '2025-11-21T19:15:04+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-06-jazz-nutcracker-outing.md
+- _events/2025-12-30-travels-with-anita-road-trip-usa.md
+- _events/2025-11-25-purple-ambassadors-bingo.md
+- _events/2025-12-23-holiday-lights-outing-2.md
+events_extracted: true
 feed_content: <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/Jazz-Nutcracker-2-791x1024.png"
   alt="" class="wp-image-3642"/></figure>
 image_checksums: []

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-23T22:09:14+00:00'
 event_ids: []
+events_extracted: true
 feed_content: <p><img src="https://yarrowpointwa.gov/wp-content/uploads/2025/12/Town-Hall-Closure-Dec-24-Jan-4.jpg"></p>
 feed_content_checksum: a8103bc2c1332aa8ce53f14af2749fca2b0bc67e
 image_checksums: []

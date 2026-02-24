@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: bac00fd521123d483ea934d5acbddd5eb76b8abccd9378d145356d9739977ef2
 date: '2026-01-27T20:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://angelflightwest.org/wp-content/uploads/2026/01/IMG_6041-683x1024.jpg"></figure>
 

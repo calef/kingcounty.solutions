@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 397c0ae98249424fdd6e1dbbeebef70cf20c6f3b98fc7aa82a2f8ba8608f7e75
 date: '2026-01-19T04:48:00+00:00'
 event_ids:
 - _events/2026-01-19-martin-luther-king-jr-day.md

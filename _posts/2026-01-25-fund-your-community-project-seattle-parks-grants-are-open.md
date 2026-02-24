@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2026-01-25T21:19:00+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-13-get-moving-fund.md
+- _events/2026-01-13-recreation-for-all-fund.md
+- _events/2026-01-13-the-beautiful-game-grant.md
+events_extracted: true
 feed_content: Seattle Parks and Recreation is excited to announce three fantastic
   funding opportunities for 2026. These grants are designed to support community-led
   recreational activities throughout the city. If you have an idea to get people active,

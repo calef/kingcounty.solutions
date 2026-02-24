@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-05T18:00:29+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><span>We are updating our <a>Adult Titles with Teen Allure list</a> for 2026! Here are some of the best new books written for and marketed to adults, but which have a ton of appeal for teens. </span></p>
   <p><span>When disability activist and blogger Melissa Blake was trolled for putting pictures of herself online, she turned the tables on the trolls, posted selfies on her blog, and began writing this book, <strong><a>Beautiful People: My Thirteen Truths about Disability</a></strong>.</span><span> </span></p>

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-21T21:50:06+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-01-60s-dance-party.md
+events_extracted: true
 feed_content: |-
   <a href="https://wscenter.org/get-ready-to-boogie-down/"><p>Get ready to boogie down at our far-out 60&#8217;s Dance Party!</p>
 

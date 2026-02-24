@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 3190a6b154a957abd37ca2a776a56c8e661a7cff969a42df83dc855a6c93abba
 date: '2026-01-15T00:45:43+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-13-community-programming-fund-grants-application-period.md
+events_extracted: true
 feed_content: "<span>City accepting applications for second round of Community Programming
   Fund grants</span>\n<span><span>CIosso</span></span>\n<span><time>Wed, 01/14/2026
   - 16:45</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>    <div>\n

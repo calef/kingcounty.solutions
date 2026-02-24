@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-01T19:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>A new generation is rising through the ranks to serve Veterans. One of them is 16-year-old Haden Toenjes, an Illinois native and member of Boy Scouts of America’s Tinley Park Troup 385. </p>
 

@@ -1,5 +1,6 @@
 ---
 acronym: AFW
+chio_website_id: _websites/019c5dbb-d7ce-7b4e-8297-4d08aaab0502.md
 email: info@angelflightwest.org
 events_ical_url: https://angelflightwest.org/events/?ical=1
 news_rss_url: https://angelflightwest.org/feed/

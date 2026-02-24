@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-11T19:23:34+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'Nestled in the Financial Center in Downtown Seattle, there’s a space
   dedicated to solving one of the world’s biggest problems: combating climate change.
   The Seattle Climate Innovation Hub is the first Downtown space dedicated to designing

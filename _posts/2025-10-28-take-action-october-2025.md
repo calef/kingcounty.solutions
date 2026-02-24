@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-28T18:16:49+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Stay Informed and Get Registered to Vote</h2>
 

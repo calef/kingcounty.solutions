@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-06T14:43:44+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'PubMed Central (PMC) is moving to an updated version of the E-utilities
   API in early February 2026. This version of E-utilities will use the same technology
   as the updated PMC website search, which was released in September 2025. This change

@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 0437dd29a2fd233fc58412f443c93f474c433d21eb5c5bc2b083691b8203a6c2
 date: '2026-02-13T20:58:01+00:00'
 event_ids:
 - _events/2026-03-16-crp-funding-application-deadline.md

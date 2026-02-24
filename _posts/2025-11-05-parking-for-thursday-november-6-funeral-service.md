@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-05T23:56:30+00:00'
-event_ids: []
+event_ids:
+- _events/2023-11-06-funeral-service-for-tribal-elder-arlene-ventura.md
+events_extracted: true
 feed_content: |-
   For those of you attending the 10am Funeral Service tomorrow for Tribal Elder Arlene Ventura, here is a parking map from the Casino:
 

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-21T21:05:33+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Three City grant programs open door for community-led arts, culture,
   and recreation events across every neighborhood. When the world comes to Seattle
   for the 2026 FIFA World Cup, the biggest moments will not only happen inside the

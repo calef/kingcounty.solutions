@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-30T17:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Stories with compressed timelines of 24 hours, with some flashbacks thrown in, take center stage here to showcase just how much one day can really make a difference.</p>
 

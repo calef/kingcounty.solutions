@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: c33c25144d1bfcf2dab9c220f3fcd0ef41864cc774a5d341dec37ade30f2f5c1
 date: '2026-02-13T17:53:56+00:00'
 event_ids:
 - _events/2026-02-20-town-halls-for-public-input-on-early-learning-funding.md

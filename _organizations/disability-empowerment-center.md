@@ -1,5 +1,6 @@
 ---
 acronym: DEC
+chio_website_id: _websites/019c5dc2-72e5-7279-bb89-85dc38a68ede.md
 title: Disability Empowerment Center
 topic_titles:
 - Disabilities

@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 6d34a94058361d8a9b477ac51881535454564778c1a18efdd6ea6d1d2ec56454
 date: '2026-02-06T17:49:38+00:00'
-event_ids: []
+event_ids:
+- _events/2024-03-16-acrylic-painting-class.md
+events_extracted: true
 feed_content: |-
   <p>Taught by local artist, Theresa Williams. Theresa will lead you step-by-step though the process of painting your personalized version of our NW tulip field. All supplies are included.</p>
 

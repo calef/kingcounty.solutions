@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-19T22:06:58+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2>Pre-Conditions for the Growth of Addiction</h2>
   <p>The United States faces a severe drug addiction crisis, particularly with opioids and fentanyl, which have driven overdose deaths to peak levels in recent years. In 2023, national overdose deaths reached approximately 110,000, marking a significant public health emergency, though provisional data shows a decline to around 80,000 in 2024. Florida mirrors this national trend, recording 7,220 drug overdose deaths in 2023, with opioids involved in the majority of cases. Marijuana addiction, while less lethal, contributes to polydrug use patterns that exacerbate the crisis.</p>

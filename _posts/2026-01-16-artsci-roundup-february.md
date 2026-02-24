@@ -1,7 +1,18 @@
 ---
 classified: true
 date: '2026-01-16T21:30:20+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-artsci-on-your-own-time-podcast.md
+- _events/2026-02-19-figure-ground-new-criteria-exhibition.md
+- _events/2026-02-19-book-club-discussion-the-buffalo-hunter.md
+- _events/2026-02-19-the-seagull-performance.md
+- _events/2026-02-19-online-lectures-on-u-s-foreign-policy-and-incarceration-history.md
+- _events/2026-02-19-jacob-lawrence-legacy-residency.md
+- _events/2026-02-19-lunchtime-concerts-by-uw-school-of-music-students.md
+- _events/2026-02-19-valentine-s-day-celebration-with-the-baylor-project.md
+- _events/2026-02-19-winter-lecture-series.md
+- _events/2026-02-19-film-screenings-book-talks-and-community-discussions.md
+events_extracted: true
 feed_content: |-
   <p><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1.jpg"></p>
   <p><strong>Come curious. Leave inspired.</strong></p>

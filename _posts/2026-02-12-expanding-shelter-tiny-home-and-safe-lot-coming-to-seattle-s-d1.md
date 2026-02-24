@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 8e07531a5d28ad59b8cfb906beb0c3489bd826dbb5472c22e2ed2f105db5759a
 date: '2026-02-12T21:06:52+00:00'
 event_ids:
 - _events/2026-02-24-thv-workshops-for-service-providers.md

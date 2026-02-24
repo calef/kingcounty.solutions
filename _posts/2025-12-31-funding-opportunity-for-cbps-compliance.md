@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-12-31T22:38:42+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-28-proposal-conference.md
+- _events/2025-03-04-application-due-date.md
+- _events/2026-02-18-end-of-question-and-answer-period.md
+events_extracted: true
 feed_content: |-
   <p>Please join us on <strong>January 28, 2026, from 12-1 p.m.</strong> for our proposal conference for the new Request for Applications (RFA) aimed at assisting both public and private building owners in complying with the <a>Clean Buildings Performance Standard (CBPS)</a>. This combined RFA offers four funding sources that can potentially cover the cost associated with some CBPS requirements. The available funding sources are:</p>
 

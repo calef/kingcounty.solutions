@@ -1,5 +1,6 @@
 ---
 acronym: EHR
+chio_website_id: _websites/019c5dc1-b0ba-7ed5-a418-7a55c299f0c0.md
 email: EHR@eastsidehousingrt.org
 news_rss_url: https://eastsidehousingrt.org/feed/
 title: Eastside Housing Roundtable

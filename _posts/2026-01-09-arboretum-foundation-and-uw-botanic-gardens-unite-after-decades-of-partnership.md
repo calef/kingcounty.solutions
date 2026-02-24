@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-09T18:02:25+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <div>
   <a><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/01/08141031/20210513_Arboretum_2061-750x500.jpg"></a>

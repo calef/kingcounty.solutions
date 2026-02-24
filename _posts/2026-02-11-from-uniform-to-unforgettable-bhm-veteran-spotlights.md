@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-11T14:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Throughout Black History Month (BHM), the Center for Minority Veterans (CMV) is honored to highlight the stories of Black Veterans whose commitment to community endures long after they hang up their uniforms. In this week’s “From Uniform to Unforgettable” feature, we recognize six extraordinary individuals who have turned their service into a lifelong legacy.</p>
 

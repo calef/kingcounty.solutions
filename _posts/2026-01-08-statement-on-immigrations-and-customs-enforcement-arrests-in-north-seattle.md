@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-08T19:13:25+00:00'
 event_ids: []
+events_extracted: true
 feed_content: On Jan. 7, the Seattle Police Department received a call from a concerned
   community member reporting that three unidentified men were approached and arrested
   by ICE agents. Officers responded to the community call about a possible armed abduction

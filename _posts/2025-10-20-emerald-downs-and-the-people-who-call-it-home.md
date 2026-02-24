@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 2b6ffbfe38e8132a6c7dcfe40dfb9511f9922d36178218106ed905849706d565
 date: '2025-10-20T18:49:00+00:00'
-event_ids: []
+event_ids:
+- _events/2023-06-01-auburn-farmers-market-2.md
+events_extracted: true
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/25-2_Auburn%20Magazine_Fall_337x234_Web%20Banner.png"
   />
 image_checksums: []

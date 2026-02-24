@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-18T22:30:03+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Artists at the Center is a multi-year collaboration between Seattle
   Office of Arts &amp; Culture and Seattle Center, with support from Uptown Arts &amp;
   Culture Coalition and the communities adjacent to Seattle Center campus. The project

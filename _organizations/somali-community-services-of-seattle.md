@@ -1,5 +1,6 @@
 ---
 acronym: SCSS
+chio_website_id: _websites/019c5dc3-0305-719d-9019-dbd0330dac86.md
 news_rss_url: https://www.somcss.org/feed/
 phone: "(206) 422-7074"
 title: Somali Community Services of Seattle

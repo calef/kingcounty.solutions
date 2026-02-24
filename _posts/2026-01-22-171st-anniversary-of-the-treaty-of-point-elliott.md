@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-22T18:30:45+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-22-171st-anniversary-of-the-treaty-of-point-elliott.md
+events_extracted: true
 feed_content: |-
   <p><a><img src="https://snoqualmietribe.us/wp-content/uploads/2026/01/Website-Image_Jan-22-700x418.jpg"></a></p>
   <p>On January 22, 2026, the Snoqualmie Tribe commemorates the 171st anniversary of the signing of the Treaty of Point Elliott, executed in 1855 between tribes and the United States government.</p>

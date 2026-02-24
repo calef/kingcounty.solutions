@@ -1,5 +1,6 @@
 ---
 acronym: ICS
+chio_website_id: _websites/019c5dc1-c965-7313-becb-917e10b0fe32.md
 news_rss_url: https://www.issaquahcommunityservices.org/feed/
 title: Issaquah Community Services
 topic_titles:

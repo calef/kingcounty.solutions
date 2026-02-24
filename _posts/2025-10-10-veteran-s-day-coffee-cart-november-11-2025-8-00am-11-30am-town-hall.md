@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-10T17:25:41+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-11-veterans-day-coffee-cart.md
+events_extracted: true
 feed_content: "![](https://yarrowpointwa.gov/wp-content/uploads/2025/10/Veterans-Day-Coffee-Cart-2025-scaled.jpg)"
 image_checksums: []
 images_extracted: true

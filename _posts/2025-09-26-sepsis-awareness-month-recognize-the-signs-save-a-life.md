@@ -2,6 +2,7 @@
 classified: true
 date: '2025-09-26T21:41:35+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   September is Sepsis Awareness Month, a time to shine a spotlight on one of the leading causes of death in the United States—and one of the least recognized. Sepsis occurs when the body has an extreme response to infection, leading to organ failure and, if not treated quickly, death.
 

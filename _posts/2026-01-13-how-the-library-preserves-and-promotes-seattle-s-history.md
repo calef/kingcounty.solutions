@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-13T20:26:43+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>There are more than 100,000 items in The Seattle Public Library’s Special Collections. <a>The Hugh and Jane Ferguson Seattle Room</a>, on Level 10 of the Central Library, houses extensive collections of photographs, postcards, city documents, news articles, and maps. There are oral histories from Seattle residents, menus from notable restaurants, yearbooks from Seattle schools, works by local artists, and more unique ephemera.</p>
 

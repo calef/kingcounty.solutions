@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-09-15T18:01:00+00:00'
-event_ids: []
+event_ids:
+- _events/2025-09-10-carepoint-blood-drive.md
+events_extracted: true
 feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n

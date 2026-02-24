@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-12T20:23:45+00:00'
-event_ids: []
+event_ids:
+- _events/2026-03-31-presentation-on-the-life-of-moses-seattle.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/Moses-Seattle-1-791x1024.png"></figure>
 

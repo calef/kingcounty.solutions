@@ -1,5 +1,6 @@
 ---
 acronym: LCN
+chio_website_id: _websites/019c5dc2-b211-7562-a2bf-0761c374cf12.md
 phone: 206-364-1046
 title: Lutheran Counseling Network
 topic_titles:

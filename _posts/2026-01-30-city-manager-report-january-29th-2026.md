@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: e15379bed5417e2b2960649b299d606b2d7ae0eeaf31cb4abd950dc097d4a1d0
 date: '2026-01-30T01:32:55+00:00'
-event_ids: []
+event_ids:
+- _events/2024-02-04-town-hall-meeting.md
+events_extracted: true
 feed_content: Town Hall Meeting - Wednesday, February 4th at 7:00 pm Looking ahead
   in 2026. The City Council is continuing its quarterly gatherings to connect with
   Normandy Park residents—and you’re invited! These...

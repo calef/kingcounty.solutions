@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-14T17:14:52+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'With the latest release of EGAPx, we’re excited to announce that you
   can now submit genome assemblies with EGAPx annotations directly to GenBank. We’re
   making it easier for researchers to share richly annotated eukaryotic genomes, complete

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-03T17:00:00+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-01-gwot-100-challenge.md
+events_extracted: true
 feed_content: |-
   <p>The sharing of non-VA information does not constitute an endorsement of products or services by the Department of Veterans Affairs. Veterans should always verify information with the organization offering the program.</p>
 

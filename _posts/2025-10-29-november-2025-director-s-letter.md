@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-10-29T23:04:56+00:00'
-event_ids: []
+event_ids:
+- _events/2023-11-11-veterans-day-breakfast.md
+- _events/2023-11-22-steak-dinner-and-pie-auction.md
+events_extracted: true
 feed_content: |-
   <p>Thank you so much to all those who attended the Sno-Valley Senior Center Timeless Treasures Gala &amp; Auction at the Club at Snoqualmie Ridge on Saturday, October 11. Whether you donated an item, volunteered, came in person, or bid online, you had an impact. As of right now, it looks like we will net <b>$62,000 </b>in support of all the Timeless Treasures found at the Sno-Valley Senior center!<b><br />
   </b></p>

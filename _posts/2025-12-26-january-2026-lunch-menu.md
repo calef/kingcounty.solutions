@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-26T22:36:43+00:00'
 event_ids: []
+events_extracted: true
 feed_content: <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2025/12/2026.1-Lunch-Menu-791x1024.png"></figure>
 feed_content_checksum: 044bbefd2431207614d1ae8d2ef2d889812b3ab5
 image_checksums: []

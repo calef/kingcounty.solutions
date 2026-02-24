@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-10-10T22:25:42+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-24-planning-commission-application-deadline.md
+- _events/2026-02-19-planning-commission-meetings.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   seeks applicants for Planning Commission </span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

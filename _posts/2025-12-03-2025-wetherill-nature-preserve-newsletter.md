@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-12-03T15:49:31+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-guided-nature-walks.md
+- _events/2026-02-19-educational-workshops.md
+- _events/2026-02-19-volunteer-opportunities.md
+events_extracted: true
 feed_content: <p><a href="https://yarrowpointwa.gov/wp-content/uploads/2025/12/2025-WNP-Newsletter.pdf"><strong>2025
   WNP Newsletter</strong></a></p>
 image_checksums: []

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-07T21:54:35+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <form>
   <input>

@@ -1,7 +1,13 @@
 ---
 classified: true
 date: '2025-10-07T18:33:45+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-09-virtual-hearing-public-record.md
+- _events/2023-10-13-post-hearing-comments-submission-deadline.md
+- _events/2023-10-23-decision-expected.md
+- _events/2023-10-13-final-record-closure.md
+- _events/2023-10-27-final-decision-expected.md
+events_extracted: true
 feed_content: |-
   - The record is held open through 10/9 for public comment from members of the public who tried to join the virtual hearing but were unable to join/make comment for technology or access reasons.
 

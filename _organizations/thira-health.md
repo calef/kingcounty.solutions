@@ -1,5 +1,6 @@
 ---
 acronym: THIRA
+chio_website_id: _websites/019c5dc3-1525-72f3-b8d9-4da033482f64.md
 news_rss_url: https://thirahealth.com/feed/
 phone: 425.620.4266
 title: THIRA Health

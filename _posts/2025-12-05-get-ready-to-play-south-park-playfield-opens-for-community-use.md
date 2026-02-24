@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-05T23:32:45+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'Translated materails: Spanish; Amharic; Somali; Vietnamese Great news
   for the South Park community! Starting this January, the South Park Playfield will
   be available for sports teams and community groups to reserve. This pilot program

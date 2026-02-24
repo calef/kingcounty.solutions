@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-14T11:43:23+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Detectives are investigating a fatal hit-and-run collision that killed
   a bicyclist early Sunday in Beacon Hill neighborhood. Shortly after 12:00 a.m.,
   officers responded to reports of a collision at Beacon Avenue South and South Stevens

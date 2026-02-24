@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 2ef241de00701967d1c380b89d567346a29a3f53a5aea81bb4f49781f5e066dd
 date: '2026-01-19T15:37:36+00:00'
 event_ids: []
 events_extracted: true

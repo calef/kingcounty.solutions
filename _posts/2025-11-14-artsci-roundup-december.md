@@ -1,7 +1,17 @@
 ---
 classified: true
 date: '2025-11-14T19:24:48+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-01-ghost-ed-notes.md
+- _events/2023-12-01-spirit-house.md
+- _events/2023-12-01-uw-gospel-choir-performance.md
+- _events/2023-12-01-book-talk-on-environmental-themes-in-comics.md
+- _events/2023-12-01-discussion-with-hayko-ba-dat.md
+- _events/2023-12-01-dianne-reeves-holiday-concert.md
+- _events/2023-12-01-michael-feinsteins-multimedia-show.md
+- _events/2023-12-01-celebrations-of-the-simpson-centers-legacy.md
+- _events/2023-12-01-various-concerts.md
+events_extracted: true
 feed_content: |-
   <p><img loading="lazy" decoding="async" class="aligncenter wp-image-87405 size-full" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1.jpg" alt="" width="1200" height="400" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1.jpg 1200w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1-300x100.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1-1024x341.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1-768x256.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1-375x125.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1-750x250.jpg 750w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1-1140x380.jpg 1140w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /></p>
   <p><strong>Come curious. Leave inspired.</strong></p>

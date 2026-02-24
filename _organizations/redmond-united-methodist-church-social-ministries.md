@@ -1,5 +1,6 @@
 ---
 address: 16540 NE 80th St, Redmond, WA 98052
+chio_website_id: _websites/019c5dc1-fec6-7c52-be70-178b4702e6f2.md
 email: rumc@redmondumc.org
 news_rss_url: https://redmondumc.org/feed/
 phone: 425-883-7553

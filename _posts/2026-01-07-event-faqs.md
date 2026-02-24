@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 52a331b0bc907d5ffca0d8f3987a19d09f6e59eaec27633a0598f50fc5eebf22
 date: '2026-01-07T18:23:54+00:00'
 event_ids:
 - _events/2026-06-06-rbc-race-for-the-kids.md

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-06T23:15:45+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'From block parties to public art, park upgrades to cultural celebrations,
   some of Seattle’s most beloved spaces start the same way: with neighbors who care
   and an idea worth building together. Seattle Department of Neighborhoods (DON) is

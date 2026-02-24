@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 68e4879966f86c8f7753302b2c836e295b92383281c10985db8a6e80f984f2cd
 date: '2025-12-16T00:14:16+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Due to a high volume of requests for information about the specific
   locations of emergency evacuation alerts, we are making a King County Emergency
   Alerts Mapping Tool available to the public. This tool is experimental and imperfect,

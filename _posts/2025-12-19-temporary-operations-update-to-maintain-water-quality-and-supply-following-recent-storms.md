@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-19T01:20:31+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The storms over the last two weeks have caused high turbidity (muddy
   water) in the Cedar River, which supplies two-thirds of Seattle’s regional water
   supply. The other third comes from the South Fork Tolt River, which is not experiencing

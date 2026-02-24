@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-13T20:54:34+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police detectives are investigating the shooting of a 33-year-old
   man in South Seattle last night. On Feb. 12 at 6:29 p.m., patrol responded to a
   shooting in the 3800 block of South Angeline Street. There, officers found a man

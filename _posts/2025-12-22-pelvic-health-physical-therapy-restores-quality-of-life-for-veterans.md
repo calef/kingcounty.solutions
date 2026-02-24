@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-22T19:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2>Life-changing relief</h2>
 

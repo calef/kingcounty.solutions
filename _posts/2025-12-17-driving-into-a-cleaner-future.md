@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-17T17:24:18+00:00'
 event_ids: []
+events_extracted: true
 feed_content: By Todd Burley  Seattle recently embarked on a renewed effort to reduce
   our carbon emissions and prepare for our changing climate through the updated Climate
   Action Plan. As the third largest City department and manager of the majority of

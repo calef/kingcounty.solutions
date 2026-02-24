@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-21T21:42:22+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-24-photographic-journey-through-morocco.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/01/Screenshot-2026-01-21-133816.jpg"></figure>
 

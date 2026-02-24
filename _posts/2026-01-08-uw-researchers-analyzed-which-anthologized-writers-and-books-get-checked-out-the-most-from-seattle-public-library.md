@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-08T17:04:04+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <div>
   <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/01/05145952/Seattle_Central_Library_Interior.jpg">

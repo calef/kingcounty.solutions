@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-23T18:25:32+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p> It’s always fascinating to compile The Seattle Public Library’s top checkouts for the year to get a sense of what’s been on the minds of Seattle’s readers. In 2025, they turned closer to home and explored local voices — perhaps not surprising given the state of national dialogue.</p>
 

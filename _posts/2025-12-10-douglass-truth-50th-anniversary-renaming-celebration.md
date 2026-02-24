@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-10T18:16:53+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-13-50th-anniversary-celebration-of-douglass-truth-branch.md
+events_extracted: true
 feed_content: Everyone is invited to join The Seattle Public Library’s Douglass-Truth
   Branch on Saturday, Dec. 13, from 12-5 p.m. to celebrate the 50th anniversary of
   being renamed to reflect its community. Enjoy all-ages activities such as a Garfield

@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 6a10f11138b61e019bb8be62fe10172df98e6821015c19f66a23371b1287a0ef
 date: '2025-12-03T11:02:44-05:00'
 event_ids: []
+events_extracted: true
 feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Wed, 12 Nov 2025 16:03:22
   -0500</p><p>title: Agent, Broker, and Web-broker Guidelines for Compliant Marketplace
   Advertising and Marketing  </p><p>topic: Compliance</p>"

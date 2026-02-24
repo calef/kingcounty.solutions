@@ -1,5 +1,6 @@
 ---
 acronym: ASD
+chio_website_id: _websites/019c5dc2-4371-797b-be9a-3bb35284eb3a.md
 parent_organization_title: Puget Sound Educational Service District 121
 title: Auburn School District
 topic_titles:

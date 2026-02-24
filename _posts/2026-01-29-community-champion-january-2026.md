@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-29T23:59:42+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <div>
   <p><strong>El Centro de la Raza honors and remembers Nancy Skinner Nordhoff</strong></p>

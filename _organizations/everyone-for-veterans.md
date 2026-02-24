@@ -1,5 +1,6 @@
 ---
 acronym: E4V
+chio_website_id: _websites/019c5dc2-80ff-73e6-8999-1f57acc74fd2.md
 news_rss_url: https://www.everyoneforveterans.org/2/feed
 title: Everyone for Veterans
 topic_titles:

@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: c71b126ba62035fe11f20f5d0250bb086aa228ab37be872a1e2fc30910ca02bc
 date: '2026-02-03T17:48:03+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <div>
   <div><a>Click Here to Purchase Your Tickets NOW!</a></div>

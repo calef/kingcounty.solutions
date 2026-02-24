@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-18T22:46:24+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-01-polar-bear-plunge.md
+events_extracted: true
 feed_content: Jump into the new year with both feet! Every January 1st at 12 noon,
   hundreds of people line up along the beach at Matthews Beach Park for the first
   dunk in the lake of the new year. Special cubs diving at 11:45 A.M. We provide lifeguards

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-16T17:00:09+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-01-acm-symposium-on-user-interface-software-and-technology.md
+events_extracted: true
 feed_content: |-
   <p><iframe></iframe></p>
   <p><span>Once the domain of buttons and knobs, car dashboards are increasingly home to large touch screens. While that makes following a mapping app easier, it also means drivers can’t feel their way to a control; they have to look. But how does that visual component affect driving?</span></p>

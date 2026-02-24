@@ -1,6 +1,7 @@
 ---
 acronym: VEH
 address: 80 Pine Street, Floor 19, New York, NY 10005
+chio_website_id: _websites/019c5dc3-2656-70f3-b6de-f533494cd71b.md
 news_rss_url: https://www.vibrant.org/feed/
 title: Vibrant Emotional Health
 topic_titles:

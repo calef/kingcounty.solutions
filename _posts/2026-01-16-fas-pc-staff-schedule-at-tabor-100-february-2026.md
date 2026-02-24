@@ -1,7 +1,16 @@
 ---
 classified: true
 date: '2026-01-16T22:04:24+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-02-open-office-hours-purchasing-team.md
+- _events/2026-02-03-open-office-hours-labor-equity-team.md
+- _events/2026-02-04-open-office-hours-strategic-advisor.md
+- _events/2026-02-05-open-office-hours-contract-compliance-team.md
+- _events/2026-02-06-open-office-hours-purchasing-team.md
+- _events/2026-02-09-open-office-hours-purchasing-team.md
+- _events/2026-02-10-open-office-hours-labor-equity-team.md
+- _events/2026-02-11-open-office-hours-strategic-advisor.md
+events_extracted: true
 feed_content: Do you want to learn more about doing business with the City? Do you
   want to know about how the City of Seattle works with women- and minority-owned
   businesses? Do you have questions about working with unions on City construction

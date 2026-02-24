@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-05T22:51:27+00:00'
 event_ids: []
+events_extracted: true
 feed_content: We’ve seen an uptick in applications for 4-story residential structures
   that are classified as R-3 (single-family or duplex) because of increased demand
   for density and additional housing in the city. The Seattle Residential Code (SRC)

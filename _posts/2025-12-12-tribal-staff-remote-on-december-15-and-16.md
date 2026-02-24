@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-12T23:42:53+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><span>In an effort to ensure safety, Tribal Staff will do remote work December 15 &amp; 16, 2025 and return to in office work December 17, 2025. During this time, Operations and Facilities will complete necessary building and infrastructure assessments for any weather-related damage.</span></p>
   <p><span>Please check in with your direct supervisor to confirm your remote work assignments and ensure continuity of operations.</span></p>

@@ -1,5 +1,6 @@
 ---
 address: 5017 Roosevelt Way NE, Seattle, WA 98105
+chio_website_id: _websites/019c5dc3-1b81-7319-9b05-529676436e1f.md
 email: udfb@udistrictfoodbank.org
 news_rss_url: https://www.udistrictfoodbank.org/feed/
 phone: 206-523-7060

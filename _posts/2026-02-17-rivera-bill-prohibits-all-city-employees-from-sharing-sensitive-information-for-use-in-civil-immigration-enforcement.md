@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-17T23:49:49+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Council approves bill 8-0 The City Council today voted 8-0 to approve a bill sponsored by Councilmember Maritza Rivera (District 4) that prohibits City employees from sharing non-publicly available personal information for use in the enforcement of civil immigration laws, unless required by law or court order. The legislation codifies the state’s Keep Washington Working...</p>
   <p>The post <a>Rivera bill prohibits ALL City employees from sharing sensitive information for use in civil immigration enforcement</a> appeared first on <a>Seattle City Council Blog</a>.</p>

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-26T18:36:13+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>The Swinomish Indian Tribal Community, located on Swinomish Channel along the Puget Sound in Skagit County, is guided by a longstanding ethic of environmental stewardship, salmon health, and responsibility to future generations. For the Tribe , protecting the salmon is inseparable from caring for the land and waters that sustain them, an obligation rooted in culture, diet and identity. This worldview shapes every decision: take only what you need, and consider the next generation who will inherit what you leave behind.</p>
 

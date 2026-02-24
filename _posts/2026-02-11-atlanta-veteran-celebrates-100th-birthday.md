@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-11T15:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-12-raleigh-durden-jr-s-100th-birthday-celebration.md
+events_extracted: true
 feed_content: |-
   <h2>Navy Veteran’s century-long journey celebrated at Trinka Davis Veterans Village</h2>
 

@@ -1,6 +1,7 @@
 ---
 acronym: WRHL
 address: PO Box 19612, Seattle, WA 98109
+chio_website_id: _websites/019c5dc3-2af1-7615-bae5-a19341d9b4b8.md
 email: recovery@crisisconnections.org
 news_rss_url: https://www.warecoveryhelpline.org/feed/
 parent_organization_title: Crisis Connections

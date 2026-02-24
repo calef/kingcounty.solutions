@@ -1,5 +1,6 @@
 ---
 acronym: ICS
+chio_website_id: _websites/019c5dc1-c528-79ed-bdc6-04307d09dc27.md
 email: volunteers@icsseattle.org
 news_rss_url: https://www.icsseattle.org/feed/
 title: Immanuel Community Services

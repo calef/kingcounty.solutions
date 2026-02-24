@@ -1,5 +1,6 @@
 ---
 acronym: DAWN
+chio_website_id: _websites/019c5dc1-aac0-76ba-8168-444e2b770755.md
 events_ical_url: https://dawnrising.org/events-calendar/?ical=1
 news_rss_url: https://dawnrising.org/feed/
 phone: "(425) 656-7867"

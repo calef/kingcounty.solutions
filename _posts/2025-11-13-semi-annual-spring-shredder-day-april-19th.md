@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-13T16:37:16-08:00'
-event_ids: []
+event_ids:
+- _events/2024-04-19-spring-shredder-day.md
+events_extracted: true
 feed_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Sponsored by the Medina Police Department, this event is held from 9am to 12 noon at the Medina Park parking lot located on NE 12th St.</p>
   </div></div></div>

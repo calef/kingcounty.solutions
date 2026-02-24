@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-24T15:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2024-10-01-women-s-passport-to-wellness-program.md
+events_extracted: true
 feed_content: |-
   <h2>Empowering women Veterans through tailored wellness support</h2>
 

@@ -1,5 +1,6 @@
 ---
 address: 4326 337th Place Southeast, Fall City, WA 98024
+chio_website_id: _websites/019c5dc2-81e2-725e-b491-0039ab1dcfe1.md
 news_rss_url: https://www.fallcityfoodpantry.org/news?format=rss
 phone: 425-269-8098
 title: Fall City Community Food Pantry

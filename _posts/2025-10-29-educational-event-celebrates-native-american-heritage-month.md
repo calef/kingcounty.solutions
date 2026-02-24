@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-29T15:05:12+00:00'
-event_ids: []
+event_ids:
+- _events/2023-11-14-indigenous-ways-of-knowing-in-community.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Educational
   event celebrates Native American Heritage Month</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

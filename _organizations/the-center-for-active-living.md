@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc3-2cbd-7c02-97ef-325450765f76.md
 events_ical_url: https://wscenter.org/calendar/?ical=1
 news_rss_url: https://wscenter.org/feed/
 title: The Center for Active Living

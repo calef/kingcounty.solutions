@@ -1,5 +1,6 @@
 ---
 address: PO Box 19612, Seattle, WA 98109
+chio_website_id: _websites/019c5dc2-6bd7-72ab-9a59-a5f084aec46f.md
 news_rss_url: https://www.crisisconnections.org/feed/
 phone: 206-461-3210
 title: Crisis Connections

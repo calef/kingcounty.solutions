@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-16T21:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>VA knows that excellence in nursing is critical to the delivery of high-quality health care to our Veterans, so it’s unsurprising that we should find Cardiology Care Coordinator Ingra Wesbey, RN, elevating the standard of care each day at the Milwaukee VA Medical Center (VAMC). A recipient of the <a>DAISY Award</a> this past summer, Nurse Wesbey was nominated due to her continuous compassion, clinical excellence, and dedication to her patients. Read on to learn about Nurse Wesbey’s nursing journey and how you can join her in having a positive impact on the lives of those who served. </p>
 

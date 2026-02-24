@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-17T22:55:59+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span>Tree removal: What to know first</span>\n<span><span>ARich</span></span>\n<span><time>Wed,
   12/17/2025 - 14:55</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>Thinking
   about removing a tree from your property? Before you break out the chainsaw, make

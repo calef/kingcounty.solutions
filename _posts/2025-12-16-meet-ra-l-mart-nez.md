@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 199c9f147aca4d51b75d7267f8734fbef01d5e5050c9969dbe01ced2ee68ea20
 date: '2025-12-16T20:48:50+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span><img
   src=\"https://inatai.org/wp-content/uploads/2025/12/Raul-Martinez_1200x628.jpg\"></span>\n\t\t\t</div>\n<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div><p><em>Community
   Engagement Manager Raúl Martínez spends a sunny day on the green at the Yakima Country

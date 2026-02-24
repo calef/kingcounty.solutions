@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 81dee423fd47e96afdcee856e364c2a6da82c42ab8bbea557c2f4dd0f8b8620a
 date: '2025-12-09T19:25:11+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t<p><strong>SNOQUALMIE,
   WA</strong> – Snoqualmie Valley Health proudly celebrated Irene Mburu, RN, as a
   recent recipient of the DAISY Award® for Extraordinary Nurses, a recognition that

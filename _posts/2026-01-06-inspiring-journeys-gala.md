@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 6dd2a2aa00c42f8594051b8a420e89ddc916a0170c1b5565837f5d33d8701624
 date: '2026-01-06T19:41:21+00:00'
 event_ids:
 - _events/2026-11-01-inspiring-journeys-gala.md

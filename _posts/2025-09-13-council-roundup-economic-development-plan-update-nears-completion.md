@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-09-13T01:01:07+00:00'
-event_ids: []
+event_ids:
+- _events/2023-09-15-eastside-welcoming-week.md
+- _events/2023-09-01-national-service-dog-month.md
+- _events/2023-09-01-hunger-action-awareness-month.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Economic Development Plan update nears completion</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

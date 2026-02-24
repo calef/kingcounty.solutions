@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 5a88c6daac37608ac596f65f90fd335137db1f57a7ac71cd5651d1ae9ab3a8f1
 date: '2026-02-05T18:46:55+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span><img
   src=\"https://inatai.org/wp-content/uploads/2026/02/Soumyo-Lahiri-Gupta_1200x628.jpg\"></span>\n\t\t\t</div>\n<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div><p><em>Policy
   &amp; Advocacy Manager Soumyo Lahiri-Gupta takes in the views of Mount Hood and

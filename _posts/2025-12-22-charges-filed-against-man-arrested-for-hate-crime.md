@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-22T21:35:25+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The King County Prosecuting Attorney’s Office (KCPAO) filed criminal
   charges against a 30-year-old man following his arrest for a hate crime ten days
   ago. On Dec. 12, at about 9:30 p.m., patrol officers responded to reports of threats

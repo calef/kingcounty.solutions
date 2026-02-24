@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-10T17:37:48+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-09-international-love-data-week.md
+events_extracted: true
 feed_content: Providing free and open access to scientific literature and data   Do
   you love biomolecular data as much as we do? Join NCBI in celebrating International
   Love Data Week, February 9-13, 2026! Love Data Week is an international celebration

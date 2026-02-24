@@ -1,5 +1,6 @@
 ---
 address: 1601 Fifth Avenue, Suite 1900, Seattle, WA 98101-3615
+chio_website_id: _websites/019c5dc2-ef3c-7901-8249-4e4febc97fe3.md
 title: Seattle Foundation
 topic_titles:
 - Financial Assistance

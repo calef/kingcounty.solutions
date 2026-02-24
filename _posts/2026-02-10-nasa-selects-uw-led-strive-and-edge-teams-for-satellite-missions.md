@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-10T20:20:56+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><a><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/02/10121344/Mosquito_Fire_2022-09-08_PM_2-1200x800.jpg"></a><figcaption>Clouds of wildfire smoke can reach up into the stratosphere and impact global air quality and climate. Observations from STRIVE will help researchers study these impacts in detail. <span>Photo: <a>CalFire via Wikimedia Commons</a></span></figcaption></figure>
   <p>NASA <a>announced</a> last week that both the University of Washington STRIVE team and the UW-affiliated EDGE team were selected to lead satellite missions to better understand Earth and improve capabilities to foresee environmental events and mitigate disasters.</p>

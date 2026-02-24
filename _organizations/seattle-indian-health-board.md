@@ -1,6 +1,7 @@
 ---
 acronym: SIHB
 address: 611 12th Avenue South, Seattle, WA 98144
+chio_website_id: _websites/019c5dc2-f922-7934-a032-f296cf36ad99.md
 email: info@sihb.org
 news_rss_url: https://www.sihb.org/feed/
 phone: 206-324-9360

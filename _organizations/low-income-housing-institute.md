@@ -1,5 +1,6 @@
 ---
 acronym: LIHI
+chio_website_id: _websites/019c5dc2-b043-7b9e-baf5-d35361f066fa.md
 news_rss_url: https://www.lihihousing.org/blog-feed.xml
 title: Low Income Housing Institute
 topic_titles:

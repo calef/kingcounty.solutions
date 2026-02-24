@@ -1,6 +1,7 @@
 ---
 acronym: UW
 address: 401 Schmitz Hall, Seattle, WA 98195
+chio_website_id: _websites/019c5dc2-3376-7dba-9794-f27ea318779f.md
 email: livewell@uw.edu
 events_ical_url:
 news_rss_url: https://wellbeing.uw.edu/feed/

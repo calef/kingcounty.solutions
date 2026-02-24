@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-04T18:42:29+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Odessa Brown Children's Clinic is inviting high schoolers and young
   adults to apply for their new Career Pathway Leadership Program. Interested individuals
   can find more information and submit their applications by scanning the provided

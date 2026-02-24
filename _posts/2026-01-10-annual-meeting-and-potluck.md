@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 8e5dcb21da6d8a4e94a52e196e1fc20640b998952537eadf661db049534d4da2
 date: '2026-01-10T01:18:34+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-18-st-luke-s-annual-meeting.md
+events_extracted: true
 feed_content: |-
   <p>January 18, 2026 The St. Luke’s Annual Meeting is happening Sunday January 18, following the worship service. We will meet in person and online, and meeting packets will be available … <a>Read More</a></p>
   <p>The post <a>Annual Meeting and Potluck</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>

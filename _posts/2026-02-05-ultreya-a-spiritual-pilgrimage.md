@@ -1,7 +1,11 @@
 ---
 classified: true
+content_checksum: 54779cc626225e5af6f3617d84fe3667b0f0a8c5dd1b6d3b7d39ed636d33706d
 date: '2026-02-05T22:17:24+00:00'
-event_ids: []
+event_ids:
+- _events/2024-02-22-spiritual-pilgrimage.md
+- _events/2024-02-22-informational-gathering.md
+events_extracted: true
 feed_content: |-
   <p>Starting February 22 at 11:30am Every year in the seasons of Lent and Easter people who are new to the Christian faith, to the Episcopal Church and St. Luke’s, Ballard … <a>Read More</a></p>
   <p>The post <a>Ultreya! A Spiritual Pilgrimage</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>

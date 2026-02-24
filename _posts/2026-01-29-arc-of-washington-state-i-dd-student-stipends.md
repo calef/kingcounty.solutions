@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 851d870c865951bd45998c96c5c1949f7a2ba41499375144a28fdfc65dc56dfa
 date: '2026-01-29T20:23:23+00:00'
 event_ids:
 - _events/2026-03-15-application-deadline-for-i-dd-student-stipend-program.md

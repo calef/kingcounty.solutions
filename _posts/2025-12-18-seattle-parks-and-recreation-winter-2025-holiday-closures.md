@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-18T17:48:14+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Many Seattle Parks and Recreation facilities will be closed, or on modified
   schedules, on two or more dates in observance of the winter holidays. Please see
   below for details.  These facilities and programs will be CLOSED on Thursday, December

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-24T21:53:41+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span>Massage therapist in Whatcom County suspended due to stalking
   charges</span>\n\n            <div>\n<time>December 24, 2025 - 1:50pm</time>\n</div>\n
   \     <span><span>Sharon.Moysiuk…</span></span>\n<span><time>December 24, 2025 -

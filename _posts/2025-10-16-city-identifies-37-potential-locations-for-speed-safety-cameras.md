@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-16T17:13:37+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   identifies 37 potential locations for speed safety cameras</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

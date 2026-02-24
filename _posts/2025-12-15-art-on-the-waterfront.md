@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-15T17:52:29+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Publicly-sited artwork projects anchor the new Waterfront Park along
   Seattle’s central waterfront. As 2025 draws to a close, a visitor to Seattle’s transformed
   waterfront can view 9 site-specific artwork projects and two fountain re-installations

@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc3-282d-7b61-b191-3f44a950164b.md
 news_rss_url: https://www.vrfa.org/feed/
 title: Valley Regional Fire Authority
 topic_titles:

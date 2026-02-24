@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-30T19:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-01-home-for-the-holidays-outreach-initiative.md
+events_extracted: true
 feed_content: |-
   <h2>Uniting to provide homes and hope for Veterans this holiday season</h2>
 

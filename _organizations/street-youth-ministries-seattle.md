@@ -1,6 +1,7 @@
 ---
 acronym: SYM
 address: 4540 15th Ave NE, Seattle, WA 98105
+chio_website_id: _websites/019c5dc2-1f75-7f73-98b1-28bffc60c03b.md
 email: ritab@symseattle.org
 events_ical_url:
 news_rss_url: https://symseattle.org/about-us-sym?format=rss
