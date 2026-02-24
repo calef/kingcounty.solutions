@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: db2446e39e39dc2fc80c5a874b54e9ff28a337ce6836314cb82e387875689ac6
 end_date: '2026-04-28T13:00:00-07:00'
 feed_content: "<section> <div> <p> <a> « All Events </a> </p> <h1>25th Anniversary
   of the Step Up to the Plate Benefit Luncheon</h1> <div> <div> <p> <span> April 28

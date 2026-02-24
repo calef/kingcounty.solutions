@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 2df3c0dd689d5c8277b69a94cba737f1964d3da177558c171ddc1b3bd76ddcb6
 end_date: '2026-04-17T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Indianapolis
   Job Fair, April 16, 2026</h1> <div> <div><span>April 16</span></div> </div> <div>

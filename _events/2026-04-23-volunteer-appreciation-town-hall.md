@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 661a2df7a6c832a2a0536a106eb3d82b35823f752f2b72580cf51f71ee329d53
 end_date: '2026-04-23T13:30:00-07:00'
 feed_content: "<a>Skip to content</a> <header> <div> <div> <div> <div> <div> <div>
   <a> <span> <span>Donate</span> </span> </a> </div> </div> </div> </div> <div> <div>

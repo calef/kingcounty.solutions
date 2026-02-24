@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 1a3ad5631784cd5f0e85809b83420ccdd97fe6e10ffff6f4c5d53a7aa3ffad47
 end_date: '2026-04-20T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Mississippi
   Department Convention</h1> <div> <div> <span>April 16</span> - <span>April 19</span>

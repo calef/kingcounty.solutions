@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 8e0155b8adb4e53fcf4762c416ebd01ced39aeada087ceba70b5835673b41336
 end_date: '2026-03-18T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Virtual (National)
   Job Fair, March 17, 2026</h1> <div> <div><span>March 17, 2026</span></div> </div>

@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 3badbc871635099fae7e93d52519a720bbb8e34dffe5e61036f7e16a0689c991
 end_date: '2026-04-18T16:00:00-07:00'
 feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events </a></p>
   <div> <span> Event Series: </span> <a> <span> Warehouse Sale </span> </a> </div>

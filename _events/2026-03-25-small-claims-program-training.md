@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: ecd2ba4cdb372beb6d56acf58b064264cfdb4a5b07720d1990a15b4830e2febe
 end_date: '2026-03-25T17:00:00-07:00'
 feed_content: "<div><div><span>Did you know we offer virtual office hours every weekday?
   Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468 and enter
