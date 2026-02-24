@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 03ce6458fefc9cb6df030d9f3a97584ac6eab62e636c0fc26ce4057c6ab62bf7
 end_date: '2026-04-26T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Maine Department
   Convention</h1> <div> <div> <span>April 23</span> - <span>April 25</span> </div>

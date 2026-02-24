@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 9352b8df800e929b06a5ec728a0a1ac1a13ecfe2eb4a0efc2dd4affa6b73cce6
 end_date: '2026-03-13T09:00:00-07:00'
 feed_content: "<div> <article> <header> <h1><span>CISSKC Breakfast for the Kids 2026</span></h1>
   </header> <div> <div> <div> <div> <span> March 13, 2026 </span> <span> | </span>

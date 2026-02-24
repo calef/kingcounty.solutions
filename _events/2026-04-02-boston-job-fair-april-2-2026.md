@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 3937cfb7b3d6f0b59359ca3ed728a27ef9555c01c1e616a05fb4c08f869e203c
 end_date: '2026-04-03T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Boston Job
   Fair, April 2, 2026</h1> <div> <div><span>April 2</span></div> </div> <div> <div>

@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: e41f5c4bce26f70de178925392c35db38dddbb412b599b75e860bf75905c322e
 end_date: '2026-03-26T21:00:00-07:00'
 feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events </a></p>
   <div> <span> Event Series: </span> <a> <span> **Cancelled** Volunteer Repair Party

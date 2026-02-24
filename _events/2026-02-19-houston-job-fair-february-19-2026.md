@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 2b39a7dd69b6fe480cb5659f0cc69c410b2ce9fe8fa2bc45ee516be6836a13a0
 end_date: '2026-02-20T00:00:00-08:00'
 feed_content: <div class="container"> <section id="tribe-events-pg-template" class="tribe-events-pg-template">
   <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">

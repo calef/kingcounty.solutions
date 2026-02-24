@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 8a843ee3d651c79596a5fd600841de3f35cf5df1f49d0097655b4b4ccc43904e
 end_date: '2026-04-24T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Norfolk Job
   Fair, April 23, 2026</h1> <div> <div><span>April 23</span></div> </div> <div> <div>
