@@ -19,10 +19,10 @@ title: State of the City with Mayor Nancy Backus
 topic_titles: []
 ---
 
-The City of Auburn, Washington, is seeking community input for its annual State of the City event, which will focus on the city’s achievements, challenges, and future goals. Residents are encouraged to share their perspectives and ideas through a survey available on the city’s website. The event aims to foster engagement and collaboration between city officials and the community. 
+The City of Auburn, Washington, is seeking community input for its annual State of the City event, which will focus on the city’s achievements, challenges, and future goals. Residents are encouraged to share their perspectives and ideas through a survey available on the city’s website. The event aims to foster engagement and collaboration between city officials and the community.
 
-Mayor Nancy Backus will present an overview of the city's progress and initiatives, emphasizing the importance of community involvement in shaping Auburn's future. The State of the City address is scheduled for March 14, 2024, and will be held at the Auburn Performing Arts Center. 
+Mayor Nancy Backus will present an overview of the city's progress and initiatives, emphasizing the importance of community involvement in shaping Auburn's future. The State of the City address is scheduled for March 14, 2024, and will be held at the Auburn Performing Arts Center.
 
-In addition to the survey, the event will include opportunities for citizens to ask questions and participate in discussions with city leaders. This initiative reflects Auburn's commitment to transparency and inclusivity in governance. Feedback from the community will be instrumental in guiding the city's priorities and policies moving forward. 
+In addition to the survey, the event will include opportunities for citizens to ask questions and participate in discussions with city leaders. This initiative reflects Auburn's commitment to transparency and inclusivity in governance. Feedback from the community will be instrumental in guiding the city's priorities and policies moving forward.
 
 Residents can access the survey and find more information about the event on the City of Auburn's official website.

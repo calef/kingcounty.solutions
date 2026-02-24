@@ -97,7 +97,7 @@ topic_titles:
 - Health Care
 ---
 
-For over 40 years, Catholic Community Services (CCS) has provided essential legal services to immigrant and refugee communities in Western Washington. Through its Catholic Immigration Legal Services (CILS), CCS has assisted more than 50,000 low-income individuals from over 90 countries, offering support in navigating complex immigration processes and achieving legal status. In 2024 alone, CILS served over 1,100 people, responding to a significant increase in demand amid a climate of fear and uncertainty regarding immigration policies. 
+For over 40 years, Catholic Community Services (CCS) has provided essential legal services to immigrant and refugee communities in Western Washington. Through its Catholic Immigration Legal Services (CILS), CCS has assisted more than 50,000 low-income individuals from over 90 countries, offering support in navigating complex immigration processes and achieving legal status. In 2024 alone, CILS served over 1,100 people, responding to a significant increase in demand amid a climate of fear and uncertainty regarding immigration policies.
 
 CILS has implemented initiatives like the Immigrant Rapid Response Program in partnership with the City of Seattle, which connects immigrants to critical resources during urgent situations. Additionally, the organization conducts Know Your Rights workshops and Family Safety Planning sessions to educate families about their rights and prepare for possible detentions. In 2025, CILS reached over 1,200 individuals through these informational events.
 

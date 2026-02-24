@@ -51,8 +51,8 @@ title: What to know about the Northwest Flower and Garden Festival at Seattle Co
 topic_titles: []
 ---
 
-The Northwest Flower and Garden Festival will be held at the Seattle Convention Center from February 18-22, 2026. This annual event features extensive garden and patio displays, a marketplace, and a speaker's stage. Attendees can engage in hands-on workshops, including the popular "Blooms and Bubbles," where participants create floral arrangements while enjoying beverages. 
+The Northwest Flower and Garden Festival will be held at the Seattle Convention Center from February 18-22, 2026. This annual event features extensive garden and patio displays, a marketplace, and a speaker's stage. Attendees can engage in hands-on workshops, including the popular "Blooms and Bubbles," where participants create floral arrangements while enjoying beverages.
 
-Children can participate in a Treasure Hunt, where they search for hidden items in garden displays to win a plant. Additionally, a dedicated space called the House of Plants will host celebrity houseplant influencers for daily Q&A sessions, offering gardening advice and tips to attendees. 
+Children can participate in a Treasure Hunt, where they search for hidden items in garden displays to win a plant. Additionally, a dedicated space called the House of Plants will host celebrity houseplant influencers for daily Q&A sessions, offering gardening advice and tips to attendees.
 
 The festival runs from 9 a.m. to 8 p.m. Wednesday through Saturday, and from 9 a.m. to 6 p.m. on Sunday, February 22, the final day. Located at 705 Pike St. in Seattle, the festival provides an opportunity for gardening enthusiasts to learn, shop, and connect with others in the community. Tickets are available for general admission and specific events.

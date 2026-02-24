@@ -83,7 +83,7 @@ title: 'Perspectives from the Board of Supervisors: Meeting This Moment Together
 topic_titles: []
 ---
 
-The King County Flood Control District aims to reduce flood risks while promoting equity, sustainable livelihoods, and environmental health. Its nine-member Board of Supervisors, representing diverse districts, shares insights in a new three-part blog series following last December's historic flooding, which notably caused no loss of life due to prior investments in flood management infrastructure. 
+The King County Flood Control District aims to reduce flood risks while promoting equity, sustainable livelihoods, and environmental health. Its nine-member Board of Supervisors, representing diverse districts, shares insights in a new three-part blog series following last December's historic flooding, which notably caused no loss of life due to prior investments in flood management infrastructure.
 
 Vice Chair Sarah Perry emphasizes the need for ongoing recovery efforts, balancing immediate repairs with long-term capital investments to protect communities amid climate change. She highlights successful flood risk reduction projects that also support ecosystem restoration and salmon recovery.
 

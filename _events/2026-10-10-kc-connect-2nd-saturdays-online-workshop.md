@@ -37,8 +37,8 @@ title: 'KC CONNECT: 2nd Saturdays Online Workshop'
 topic_titles: []
 ---
 
-Join the KC CONNECT: 2nd Saturdays Online Workshop on October 10, 2026, from 11 a.m. to 1 p.m. (PDT). This free, youth-centered workshop is designed for young people and their families across King County, Washington. Each month, participants explore various real-life topics related to conflict, communication, and justice in a welcoming virtual environment. 
+Join the KC CONNECT: 2nd Saturdays Online Workshop on October 10, 2026, from 11 a.m. to 1 p.m. (PDT). This free, youth-centered workshop is designed for young people and their families across King County, Washington. Each month, participants explore various real-life topics related to conflict, communication, and justice in a welcoming virtual environment.
 
-The October session will focus on the "Foundations of Conflict Resolution," covering essential concepts such as understanding the roots of conflict and building trust through effective communication. No preparation is needed—just bring your voice and an open mind. Workshops occur on the second Saturday of each month, making it easy to participate regularly. 
+The October session will focus on the "Foundations of Conflict Resolution," covering essential concepts such as understanding the roots of conflict and building trust through effective communication. No preparation is needed—just bring your voice and an open mind. Workshops occur on the second Saturday of each month, making it easy to participate regularly.
 
 To RSVP, visit the event page at [Calendly](https://calendly.com/kcdrc-youth-development/2nd-saturdays-with-kc-connect?month=2025-10).

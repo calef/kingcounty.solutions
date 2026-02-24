@@ -121,7 +121,7 @@ title: King County’s new recycling and transfer station in Algona nears co
 topic_titles: []
 ---
 
-King County's South County Recycling and Transfer Station in Algona is nearing completion and is set to open this summer, replacing a 60-year-old facility. Designed with sustainability in mind, it will offer enhanced waste disposal and recycling options for communities including Algona, Auburn, Federal Way, and Pacific. The new station will feature separate disposal areas for commercial and public customers, and will allow for recycling of various materials such as appliances, glass, and yard waste. 
+King County's South County Recycling and Transfer Station in Algona is nearing completion and is set to open this summer, replacing a 60-year-old facility. Designed with sustainability in mind, it will offer enhanced waste disposal and recycling options for communities including Algona, Auburn, Federal Way, and Pacific. The new station will feature separate disposal areas for commercial and public customers, and will allow for recycling of various materials such as appliances, glass, and yard waste.
 
 The facility incorporates green design elements like skylights, solar panels covering 75% of the roof, and improved stormwater management systems, contributing to a carbon-neutral goal. It aims to divert 92% of construction debris from landfills and has received certifications for its environmental performance, including recognition from the Living Future Institute for its sustainable practices.
 

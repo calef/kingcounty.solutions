@@ -51,7 +51,7 @@ topic_titles:
 - Shelter & Housing
 ---
 
-In celebration of Black History Month, Bellevue LifeSpring is honoring three influential leaders—Shirley Chisholm, Dr. Martin Luther King Jr., and Mickey Leland—who made significant contributions to economic justice and access to essential needs for children and families in the U.S. 
+In celebration of Black History Month, Bellevue LifeSpring is honoring three influential leaders—Shirley Chisholm, Dr. Martin Luther King Jr., and Mickey Leland—who made significant contributions to economic justice and access to essential needs for children and families in the U.S.
 
 Shirley Chisholm (1924-2005) was the first Black woman elected to Congress in 1968, advocating for expanded funding for early childhood education, school nutrition programs, and income supports. She was a strong proponent of federal food assistance, helping to establish the WIC program in 1972.
 

@@ -143,7 +143,7 @@ title: 'Cuentos from Our Work: DECEMBER 2025'
 topic_titles: []
 ---
 
-In December 2025, El Centro de la Raza hosted a vibrant Christmas Tree Lot, where each tree purchase supported essential programs benefiting over 22,000 community members annually. The lot served as a festive gathering place for families and volunteers, with local food vendor Lita-Rosita Food Cart offering tamales to enhance the holiday spirit. 
+In December 2025, El Centro de la Raza hosted a vibrant Christmas Tree Lot, where each tree purchase supported essential programs benefiting over 22,000 community members annually. The lot served as a festive gathering place for families and volunteers, with local food vendor Lita-Rosita Food Cart offering tamales to enhance the holiday spirit.
 
 On December 12, the organization held its annual Las Posadas & Christmas Market at Plaza Roberto Maestas, featuring performances inspired by Frida Kahlo, the Calaca Clown Show, and the José Martí All-Star Singers. Attendees enjoyed connecting with local artisans and celebrating community traditions.
 

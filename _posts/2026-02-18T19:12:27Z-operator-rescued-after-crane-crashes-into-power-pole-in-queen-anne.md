@@ -29,6 +29,6 @@ title: Operator rescued after crane crashes into power pole in Queen Anne
 topic_titles: []
 ---
 
-A crane caught fire in Seattle's Queen Anne neighborhood after crashing into a power pole and leaking fuel early Wednesday morning. Fire crews responded to the incident in the 1200 block of Queen Anne Ave. N, where the crane operator was trapped for approximately two hours before being rescued. Fortunately, the operator was not injured. Firefighters worked to extinguish the blaze and manage the fuel leak. 
+A crane caught fire in Seattle's Queen Anne neighborhood after crashing into a power pole and leaking fuel early Wednesday morning. Fire crews responded to the incident in the 1200 block of Queen Anne Ave. N, where the crane operator was trapped for approximately two hours before being rescued. Fortunately, the operator was not injured. Firefighters worked to extinguish the blaze and manage the fuel leak.
 
 As a precaution, nearby residents were evacuated from an apartment complex, and about 525 Seattle City Light customers experienced power outages due to the incident. Seattle City Light personnel were dispatched to deenergize the power lines in the area. The situation is ongoing, and authorities continue to assess and address the fire and its implications. Further updates are expected as the situation develops.
