@@ -1,5 +1,6 @@
 ---
 acronym: SFYC
+chio_website_id: _websites/019c5dc2-f589-7bca-be33-d213211b0f55.md
 email: sorya@sfyc.net
 news_rss_url: https://www.sfyc.net/blog-feed.xml
 title: SafeFutures

@@ -1,5 +1,6 @@
 ---
 acronym: WSLC
+chio_website_id: _websites/019c5dc3-2e8a-7ade-8366-673965de8999.md
 news_rss_url: https://wslc.org/feed/
 phone: 206-281-8901
 title: Washington State Labor Council, AFL-CIO

@@ -1,5 +1,6 @@
 ---
 address: 1265 South Main Street, Ste 105, Seattle, WA 98144
+chio_website_id: _websites/019c5dc2-0b9b-72ca-abd5-6d2cb06d7200.md
 email: info@seattleindiancenter.org
 phone: "(206) 329-8700"
 title: Seattle Indian Center

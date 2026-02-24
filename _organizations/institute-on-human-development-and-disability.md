@@ -1,6 +1,7 @@
 ---
 acronym: IHDD
 address: Box 357920, Seattle, WA 98195-7920
+chio_website_id: _websites/019c5dc1-c6d8-74aa-a7e1-1effcfcd79bd.md
 email: ihdd@uw.edu
 news_rss_url: https://ihdd.org/feed/
 parent_organization_title: University of Washington

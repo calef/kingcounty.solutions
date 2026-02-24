@@ -1,5 +1,6 @@
 ---
 address: 555 S. Renton Village Place Suite 280, Renton, WA 98057
+chio_website_id: _websites/019c5dc2-517c-7310-ba98-c31b94b4fdf1.md
 news_rss_url: https://www.brightspark.org/feed/
 phone: 206-329-1011
 title: BrightSpark

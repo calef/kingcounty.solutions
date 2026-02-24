@@ -1,6 +1,7 @@
 ---
 acronym: ECDLR
 address: 2524 16th Avenue S, Seattle, WA 98144
+chio_website_id: _websites/019c5dc2-7bbf-7c8c-8ec7-d164d08eb0a6.md
 email: ayuda@elcentrodelaraza.org
 events_ical_url: https://www.elcentrodelaraza.org/events/?ical=1
 news_rss_url: https://www.elcentrodelaraza.org/feed/

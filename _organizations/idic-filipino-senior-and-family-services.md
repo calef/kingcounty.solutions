@@ -1,6 +1,7 @@
 ---
 acronym: IDIC
 address: 7301 Beacon Ave S, Seattle, WA 98118
+chio_website_id: _websites/019c5dc2-98fe-75de-8d60-0839c3487a9e.md
 title: IDIC Filipino Senior and Family Services
 topic_titles:
 - Food & Nutrition

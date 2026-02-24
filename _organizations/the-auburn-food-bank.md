@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-2210-7b4e-8ad7-107a16a85a26.md
 news_rss_url: https://www.theauburnfoodbank.org/success?format=rss
 title: The Auburn Food Bank
 topic_titles:

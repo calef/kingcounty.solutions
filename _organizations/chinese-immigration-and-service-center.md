@@ -1,6 +1,7 @@
 ---
 acronym: CISC
 address: 611 S Lane St., Seattle, WA 98104
+chio_website_id: _websites/019c5dc1-a67b-7e22-9d14-1db522398cfb.md
 email: info@cisc-seattle.org
 events_ical_url: https://cisc-seattle.org/events/?ical=1
 news_rss_url: https://cisc-seattle.org/feed

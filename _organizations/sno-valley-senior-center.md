@@ -1,6 +1,7 @@
 ---
 acronym: SVSC
 address: 4610 Stephens Ave, Snoqualmie, WA 98065
+chio_website_id: _websites/019c5dc2-1435-73a6-bdfc-3050a81dd5b2.md
 email: info@snovalleysenior.org
 news_rss_url: https://snovalleysenior.org/feed/
 phone: 206-448-5757

@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-5ce1-7c12-bd0b-b257ec5b20fe.md
 title: City of Black Diamond
 type: City
 website_url: https://www.ci.blackdiamond.wa.us

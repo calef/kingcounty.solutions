@@ -1,5 +1,6 @@
 ---
 address: 1126 34th Avenue, Suite 206, Madrona, Seattle, WA 98122
+chio_website_id: _websites/019c5dc1-dd92-7c75-80e3-afaeb3347ca0.md
 news_rss_url: https://lisahakecounseling.com/feed/
 phone: 206-204-9794
 title: Lisa Hake Counseling

@@ -1,6 +1,7 @@
 ---
 acronym: CNP
 address: 1924 S Cedar St, Suite B, Tacoma, WA 98405
+chio_website_id: _websites/019c5dbf-3ef0-7f50-9f51-f413275493e6.md
 email: administration@carenetps.org
 news_rss_url: https://carenetps.org/feed/
 phone: 877-668-2566

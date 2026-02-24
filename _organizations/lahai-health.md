@@ -1,5 +1,6 @@
 ---
 acronym: LH
+chio_website_id: _websites/019c5dc1-d7ae-7c92-a6b4-cb569031b289.md
 events_ical_url:
 news_rss_url: https://lahai.org/feed/
 phone: "(206) 363-4105"

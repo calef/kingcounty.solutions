@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc1-c296-7cc7-81bb-a82e5244cd31.md
 email: info@hsdc.org
 events_ical_url: https://hsdc.org/events-calendar/?ical=1
 news_rss_url: https://hsdc.org/feed/

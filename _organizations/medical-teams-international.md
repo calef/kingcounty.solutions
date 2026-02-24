@@ -1,5 +1,6 @@
 ---
 address: 14150 SW Milton Court, Tigard, OR 97224, USA
+chio_website_id: _websites/019c5dc2-b76f-7139-b922-f5fc8f3075a4.md
 email: info@medicalteams.org
 phone: "(503) 624-1000"
 title: Medical Teams International

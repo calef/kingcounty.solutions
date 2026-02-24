@@ -1,6 +1,7 @@
 ---
 acronym: CCSWW
 address: 100 23rd Avenue S, Seattle, WA 98144
+chio_website_id: _websites/019c5dc1-a167-7c44-ab9c-79e84724b9ab.md
 email: info@ccsww.org
 events_ical_url: https://ccsww.org/events/?ical=1
 news_rss_url: https://ccsww.org/feed/

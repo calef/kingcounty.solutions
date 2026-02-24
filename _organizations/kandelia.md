@@ -1,6 +1,7 @@
 ---
 acronym: KND
 address: PO Box 28058, Seattle, WA 98118
+chio_website_id: _websites/019c5dc2-a027-7b79-ad84-f92f48dd9663.md
 email: info@kandelia.org
 events_ical_url:
 news_rss_url: https://www.kandelia.org/feed/

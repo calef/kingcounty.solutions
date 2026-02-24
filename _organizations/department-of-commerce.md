@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-64c7-71ec-84b9-b8b544468d30.md
 news_rss_url: https://www.commerce.wa.gov/feed/
 parent_organization_title: State Executive Branch
 title: Department of Commerce

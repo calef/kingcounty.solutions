@@ -1,5 +1,6 @@
 ---
 address: 1501 North 45th Street, Seattle, WA 98103
+chio_website_id: _websites/019c5dc3-0220-7b85-a075-9d209c6d810f.md
 email: info@solid-ground.org
 events_ical_url: https://www.solid-ground.org/events/?ical=1
 news_rss_url: https://www.solid-ground.org/feed/

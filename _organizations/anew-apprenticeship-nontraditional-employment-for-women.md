@@ -1,5 +1,6 @@
 ---
 acronym: ANEW
+chio_website_id: _websites/019c5dbb-c9ca-7153-b94c-fe99a73bbc78.md
 email: cdl@anewcareer.org
 events_ical_url: https://anewcareer.org/events/?ical=1
 news_rss_url: https://anewcareer.org/feed/

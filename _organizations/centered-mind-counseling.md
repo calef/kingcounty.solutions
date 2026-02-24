@@ -1,6 +1,7 @@
 ---
 address: 75 NW Dogwood Street, Suite B, Issaquah, WA 98027; 22717 SE 29th Street,
   STE D-101, Sammamish, Washington 98075
+chio_website_id: _websites/019c5dc1-a23e-75ae-9823-cb38b28be794.md
 email: contact@centeredmindcounseling.com
 news_rss_url: https://centeredmindcounseling.com/feed/
 phone: "(425) 269-3277"

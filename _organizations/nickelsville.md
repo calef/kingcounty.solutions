@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-c3fa-718f-9e36-9d484709f150.md
 news_rss_url: https://www.nickelsville.org/blog-feed.xml
 title: Nickelsville
 topic_titles:

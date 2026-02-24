@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-3a90-7968-8f32-2a198b49052f.md
 events_ical_url: https://worksourceskc.org/events_list/?ical=1
 news_rss_url: https://worksourceskc.org/feed/
 title: WorkSource Seattle-King County

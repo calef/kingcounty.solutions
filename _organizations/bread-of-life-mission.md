@@ -1,5 +1,6 @@
 ---
 address: 97 S Main Street, Seattle, WA 98104
+chio_website_id: _websites/019c5dbd-cefe-7ad5-9652-5d1afb1d7184.md
 email: info@breadoflifemission.org
 news_rss_url: https://breadoflifemission.org/stories/rss.xml
 phone: 206-682-3579

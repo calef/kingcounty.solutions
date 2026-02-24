@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-7c9c-7f37-9aaf-4e825f020af2.md
 news_rss_url: https://encompassnw.org/home/feed/
 phone: 425.888.3347
 title: Encompass
