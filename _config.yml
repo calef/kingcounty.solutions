@@ -87,6 +87,7 @@ exclude:
   - bin/
   - coverage/
   - gemfiles/
+  - hemingway.yml
   - integrity/
   - lib/
   - logs/

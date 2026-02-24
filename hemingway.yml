@@ -1,0 +1,35 @@
+---
+source_repo: ../kcs_repo/
+
+websites:
+  include_all: true
+
+content:
+  max_age_days: 180
+  rss_max_item_age_days: 90
+  sources:
+    - rss
+    - ical
+
+ai:
+  provider: openai
+  summarize_model: gpt-4o-mini
+  classify_model: gpt-4o-mini
+  event_extract_model: gpt-4o-mini
+
+voice:
+  style_guide: ap
+  summary_max_words: 200
+  event_summary_max_words: 150
+  reading_level: 10th grade
+  language: en
+  tone: neutral
+  system_prompt: >
+    You are a helpful assistant who writes summaries
+    that follow The Associated Press Stylebook.
+
+publishing:
+  image_min_dimension: 300
+
+concurrency:
+  max_threads: 6

@@ -10,6 +10,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
   ALLOWED_FIELDS = %w[
     acronym
     address
+    chio_website_id
     email
     events_ical_url
     news_rss_url
@@ -152,6 +153,29 @@ class OrganizationsFrontMatterTest < Minitest::Test
     end
 
     assert_empty errors, "Acronym issues:\n#{errors.join("\n")}"
+  end
+
+  def test_chio_website_id_if_present_is_valid_and_unique
+    errors = []
+    seen = {}
+
+    organizations.each do |doc|
+      id = value_as_string(doc, 'chio_website_id')
+      next if id.nil?
+
+      unless id.match?(%r{\A_websites/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\.md\z})
+        errors << "#{doc[:path]} chio_website_id '#{id}' does not match expected format _websites/{uuid}.md"
+      end
+
+      normalized = id.downcase
+      if seen.key?(normalized)
+        errors << "chio_website_id #{id} reused in #{doc[:path]} and #{seen[normalized]}"
+      else
+        seen[normalized] = doc[:path]
+      end
+    end
+
+    assert_empty errors, "chio_website_id issues:\n#{errors.join("\n")}"
   end
 
   def test_address_if_present_resembles_usable_us_address
