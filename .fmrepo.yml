@@ -1,6 +1,8 @@
 ---
 default:
-  test: <tmp>         # create a temp repo automatically
+  development: "."
+  production: "."
+  test: <tmp>
 events:
   development: "."
   production: "."
@@ -13,7 +15,7 @@ locations:
   development: "."
   production: "."
   test: <tmp>
-news:
+posts:
   development: "."
   production: "."
   test: <tmp>
