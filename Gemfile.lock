@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/calef/chio.git
-  revision: 24cad55da958d76e5e7fea42044319a198b65a0d
+  revision: 4a59381687bd3e09394df2c50ffe49562868e364
   specs:
-    chio (0.1.18)
+    chio (0.1.20)
       base64
       fmrepo
       mini_magick
@@ -17,9 +17,9 @@ GIT
 
 GIT
   remote: https://github.com/calef/hemingway.git
-  revision: 0f0afe0193c4b53109e7ecffa724137b2ff88db8
+  revision: b67e6b75ce919affe8f308cd28494897f3a835c9
   specs:
-    hemingway (0.1.0)
+    hemingway (0.2.0)
       base64
       chio
       fmrepo
