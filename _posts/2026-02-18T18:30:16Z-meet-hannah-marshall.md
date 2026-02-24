@@ -17,7 +17,7 @@ topic_titles:
 - Education & Learning
 ---
 
-Hannah Marshall is a dedicated advocate working to promote educational equity and social justice. She serves as the executive director of the organization Inata, where she focuses on improving access to quality education for underserved communities. With a background in social work and a passion for community engagement, Marshall is committed to addressing systemic barriers that hinder educational opportunities. 
+Hannah Marshall is a dedicated advocate working to promote educational equity and social justice. She serves as the executive director of the organization Inata, where she focuses on improving access to quality education for underserved communities. With a background in social work and a passion for community engagement, Marshall is committed to addressing systemic barriers that hinder educational opportunities.
 
 Under her leadership, Inata has launched several initiatives aimed at empowering students and families through resources, mentorship, and advocacy. Marshall emphasizes the importance of collaboration with local organizations and stakeholders to create lasting change. Her efforts are driven by a belief that education is a fundamental right and a key factor in breaking the cycle of poverty.
 

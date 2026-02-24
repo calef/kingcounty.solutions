@@ -42,8 +42,8 @@ title: 'Advent Devotion: Joy and Grief'
 topic_titles: []
 ---
 
-The third Sunday of Advent is known as Gaudete Sunday, a time traditionally associated with joy amidst the darkness of winter. This period can evoke feelings of grief, loneliness, or depression for many, making the call to "rejoice" seem challenging. The article highlights the importance of acknowledging this duality through the mention of "Blue Christmas" or "Longest Night" services, which honor both joy and sorrow during the holiday season. 
+The third Sunday of Advent is known as Gaudete Sunday, a time traditionally associated with joy amidst the darkness of winter. This period can evoke feelings of grief, loneliness, or depression for many, making the call to "rejoice" seem challenging. The article highlights the importance of acknowledging this duality through the mention of "Blue Christmas" or "Longest Night" services, which honor both joy and sorrow during the holiday season.
 
-It emphasizes the theme of finding joy despite loss, referencing the song "There's Still My Joy" from the Indigo Girls' album *Holly Happy Days*. The song captures the essence of hope, stating that even amidst tears and grief, joy can still exist, especially during Christmas. This message serves as a reminder that the holiday season can encompass both celebration and mourning. 
+It emphasizes the theme of finding joy despite loss, referencing the song "There's Still My Joy" from the Indigo Girls' album *Holly Happy Days*. The song captures the essence of hope, stating that even amidst tears and grief, joy can still exist, especially during Christmas. This message serves as a reminder that the holiday season can encompass both celebration and mourning.
 
 The reflection is authored by Mary Stanton-Nurse, a therapist at the Samaritan Center, encouraging individuals to embrace their feelings during this time and find solace in the light that can emerge from darkness.

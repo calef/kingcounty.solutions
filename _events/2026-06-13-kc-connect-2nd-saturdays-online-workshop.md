@@ -37,8 +37,8 @@ title: 'KC CONNECT: 2nd Saturdays Online Workshop'
 topic_titles: []
 ---
 
-Join the KC CONNECT: 2nd Saturdays Online Workshop on June 13, 2026, from 11 a.m. to 1 p.m. PDT. This free, youth-centered workshop is designed for young people and their families across King County, Washington. Each month, participants explore a different real-life topic related to conflict, communication, and justice in a welcoming virtual environment. 
+Join the KC CONNECT: 2nd Saturdays Online Workshop on June 13, 2026, from 11 a.m. to 1 p.m. PDT. This free, youth-centered workshop is designed for young people and their families across King County, Washington. Each month, participants explore a different real-life topic related to conflict, communication, and justice in a welcoming virtual environment.
 
-The June session will focus on "Conflict as a Tool for Change," part of a series that includes various modules addressing conflict resolution skills and critical awareness. No preparation is needed—just bring your voice and an open mind. 
+The June session will focus on "Conflict as a Tool for Change," part of a series that includes various modules addressing conflict resolution skills and critical awareness. No preparation is needed—just bring your voice and an open mind.
 
 To RSVP and learn more, visit the Dispute Resolution Center of King County's website. Don’t miss this opportunity to engage in meaningful discussions and develop valuable skills.

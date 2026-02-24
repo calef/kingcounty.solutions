@@ -29,6 +29,6 @@ title: Arts Explosion
 topic_titles: []
 ---
 
-The Federal Way Arts Commission presents the annual Arts Explosion, a juried art show festival, from May 29 to May 31, 2026, at the Performing Arts & Event Center (PAEC) in Federal Way, Washington. This vibrant event showcases the talents of adult and youth artists from across the region, emphasizing artistic growth, diversity, and community engagement. 
+The Federal Way Arts Commission presents the annual Arts Explosion, a juried art show festival, from May 29 to May 31, 2026, at the Performing Arts & Event Center (PAEC) in Federal Way, Washington. This vibrant event showcases the talents of adult and youth artists from across the region, emphasizing artistic growth, diversity, and community engagement.
 
 Public viewing hours are from 10 a.m. to 4 p.m. on May 29, 10 a.m. to 6 p.m. on May 30, and 10 a.m. to 3 p.m. on May 31. An exclusive VIP Opening Night Gala will be held on the evening of May 29. Admission is free, making it an ideal outing for art enthusiasts and families alike. Artists interested in participating can apply now, with the entry deadline set for March 19, 2026. For more information, visit the Federal Way Arts Commission website.

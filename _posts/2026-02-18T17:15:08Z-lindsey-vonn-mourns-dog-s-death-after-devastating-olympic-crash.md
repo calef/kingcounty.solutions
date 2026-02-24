@@ -40,8 +40,8 @@ title: Lindsey Vonn mourns dog’s death after devastating Olympic crash
 topic_titles: []
 ---
 
-Lindsey Vonn announced the death of her dog Leo, which occurred on February 9, the day after her crash during the 2026 Winter Olympics at the Tofana Alpine Skiing Center. In an emotional Instagram post, Vonn described the past days as "incredibly hard" and expressed her grief, stating, "The day I crashed, so did Leo." Leo had recently been diagnosed with lung cancer after previously battling lymphoma, and Vonn shared that he was suffering from heart failure and pain. 
+Lindsey Vonn announced the death of her dog Leo, which occurred on February 9, the day after her crash during the 2026 Winter Olympics at the Tofana Alpine Skiing Center. In an emotional Instagram post, Vonn described the past days as "incredibly hard" and expressed her grief, stating, "The day I crashed, so did Leo." Leo had recently been diagnosed with lung cancer after previously battling lymphoma, and Vonn shared that he was suffering from heart failure and pain.
 
-The dog had been a constant companion for 13 years, supporting her through significant moments in her career, including injuries and her retirement in 2019. Vonn reflected on their bond, saying, "There will never be another Leo." 
+The dog had been a constant companion for 13 years, supporting her through significant moments in her career, including injuries and her retirement in 2019. Vonn reflected on their bond, saying, "There will never be another Leo."
 
 As she awaits another surgery for a complex tibia fracture sustained in her Olympic crash, Vonn plans to remember Leo during her recovery. She highlighted that her injury is more severe than initially thought and requires multiple surgeries. Vonn also noted that Leo's death is her second recent loss, following the passing of her spaniel, Lucy, last spring.

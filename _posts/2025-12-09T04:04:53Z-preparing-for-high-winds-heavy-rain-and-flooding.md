@@ -60,8 +60,8 @@ title: Preparing for high winds, heavy rain and flooding
 topic_titles: []
 ---
 
-Residents in King County are advised to prepare for heavy rains and high winds, which could lead to flooding and landslides. Free sandbags are available at various locations to help mitigate flooding risks. Individuals should avoid walking or driving through flooded areas and report road issues to the 24/7 Road Helpline. Floodwater can be contaminated, so it’s essential to wash hands and pets after contact and wear protective gear when cleaning up afterward. 
+Residents in King County are advised to prepare for heavy rains and high winds, which could lead to flooding and landslides. Free sandbags are available at various locations to help mitigate flooding risks. Individuals should avoid walking or driving through flooded areas and report road issues to the 24/7 Road Helpline. Floodwater can be contaminated, so it’s essential to wash hands and pets after contact and wear protective gear when cleaning up afterward.
 
-Landslides pose an additional risk, especially in saturated areas. Signs of potential landslides include bulging ground, widening cracks, and new water flow in unusual places. Residents are urged to stay informed about power outages through their utility providers, including Puget Sound Energy and Seattle City Light. 
+Landslides pose an additional risk, especially in saturated areas. Signs of potential landslides include bulging ground, widening cracks, and new water flow in unusual places. Residents are urged to stay informed about power outages through their utility providers, including Puget Sound Energy and Seattle City Light.
 
 If downed trees are encountered, those on power lines should be reported to the respective power company, while fallen trees on private property are the owner’s responsibility. For further assistance, resources such as the "Be Flood Ready" brochure and flood recovery materials are available online in multiple languages. The community is encouraged to stay informed and prepared to ensure safety during severe weather conditions.

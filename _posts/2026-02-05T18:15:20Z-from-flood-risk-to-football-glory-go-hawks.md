@@ -99,10 +99,10 @@ title: "\U0001F3C8 From Flood Risk to Football Glory: Go Hawks! \U0001F327️\U0
 topic_titles: []
 ---
 
-The King County Flood Control District is celebrating the Seattle Seahawks' recent NFC Championship win, drawing parallels between football strategy and flood risk management. The district emphasizes qualities such as teamwork, resilience, and preparation, which are central to both successful football teams and effective flood risk reduction efforts. 
+The King County Flood Control District is celebrating the Seattle Seahawks' recent NFC Championship win, drawing parallels between football strategy and flood risk management. The district emphasizes qualities such as teamwork, resilience, and preparation, which are central to both successful football teams and effective flood risk reduction efforts.
 
-Key components of flood management are likened to football terminology: the basin represents the playing field where water collects, while the Capital Improvement Program serves as a game plan for prioritizing flood risk projects. Flood protection facilities, including levees and floodwalls, act as the defensive line against rising waters. 
+Key components of flood management are likened to football terminology: the basin represents the playing field where water collects, while the Capital Improvement Program serves as a game plan for prioritizing flood risk projects. Flood protection facilities, including levees and floodwalls, act as the defensive line against rising waters.
 
-The article highlights the importance of flood alerts and warnings, comparing them to a quarterback's ability to read the defense and adjust plays accordingly. It stresses the need for community preparedness, suggesting that residents should proactively understand their flood risks and have plans in place. 
+The article highlights the importance of flood alerts and warnings, comparing them to a quarterback's ability to read the defense and adjust plays accordingly. It stresses the need for community preparedness, suggesting that residents should proactively understand their flood risks and have plans in place.
 
 As the Seahawks prepare for the Super Bowl, the Flood Control District encourages the community to also focus on flood readiness, reinforcing that collective preparedness can lead to safer outcomes during emergencies.

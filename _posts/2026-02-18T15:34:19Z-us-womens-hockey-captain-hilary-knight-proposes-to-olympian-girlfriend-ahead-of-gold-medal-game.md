@@ -41,8 +41,8 @@ title: US women's hockey captain Hilary Knight proposes to Olympian girlfriend a
 topic_titles: []
 ---
 
-U.S. women's hockey captain Hilary Knight announced her engagement to fellow Olympian Brittany Bowe through a video posted on social media. The proposal, which featured a slim silver ring, took place just before Knight's team was set to compete against Canada in the gold medal game. Knight included a heartfelt message with the post, stating, "Olympics brought us together. This one made us forever." 
+U.S. women's hockey captain Hilary Knight announced her engagement to fellow Olympian Brittany Bowe through a video posted on social media. The proposal, which featured a slim silver ring, took place just before Knight's team was set to compete against Canada in the gold medal game. Knight included a heartfelt message with the post, stating, "Olympics brought us together. This one made us forever."
 
-Knight, who holds the record for the most Olympic goals in U.S. women's hockey history, and Bowe, a speed skater with two bronze medals from the 2018 and 2022 Olympics, began dating during the 2022 Beijing Games. As Bowe prepares to compete in the women's 1500m race at the upcoming 2026 Games, their engagement marks the second for Team USA during the current Olympic cycle. 
+Knight, who holds the record for the most Olympic goals in U.S. women's hockey history, and Bowe, a speed skater with two bronze medals from the 2018 and 2022 Olympics, began dating during the 2022 Beijing Games. As Bowe prepares to compete in the women's 1500m race at the upcoming 2026 Games, their engagement marks the second for Team USA during the current Olympic cycle.
 
 On February 12, Olympic gold medalist Breezy Johnson also got engaged, as her boyfriend, Connor Watkins, proposed after her final event, showcasing a growing trend of Olympic athletes celebrating personal milestones amidst their competitive journeys.

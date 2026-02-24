@@ -16,7 +16,7 @@ title: Meet Sarah Rehemtulla
 topic_titles: []
 ---
 
-Hannah Marshall is a dedicated advocate for environmental sustainability and social justice. As a skilled organizer, she engages communities to address pressing issues related to climate change and equity. With a background in environmental science, Marshall combines her academic knowledge with grassroots activism to promote sustainable practices and raise awareness about the impacts of climate change on marginalized populations. 
+Hannah Marshall is a dedicated advocate for environmental sustainability and social justice. As a skilled organizer, she engages communities to address pressing issues related to climate change and equity. With a background in environmental science, Marshall combines her academic knowledge with grassroots activism to promote sustainable practices and raise awareness about the impacts of climate change on marginalized populations.
 
 Her work involves collaborating with various organizations to create programs that empower individuals and communities to take action. Marshall emphasizes the importance of inclusivity in environmental movements, ensuring that diverse voices are heard in decision-making processes. She believes that effective solutions to environmental challenges must consider the social and economic factors that affect different communities.
 

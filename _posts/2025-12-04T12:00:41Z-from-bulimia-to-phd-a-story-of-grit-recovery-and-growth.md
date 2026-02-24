@@ -81,8 +81,8 @@ topic_titles:
 - Mental Health & Counseling
 ---
 
-Amanda Marie, a PhD in Psychology, shares her journey from battling bulimia for a decade to achieving recovery and academic success. After enduring bullying in middle school, she developed an obsession with grades and later her weight, leading to restrictive eating and bingeing behaviors. At 17, Amanda began purging, which escalated into a daily struggle, all while maintaining a façade of success in academics and multiple jobs. 
+Amanda Marie, a PhD in Psychology, shares her journey from battling bulimia for a decade to achieving recovery and academic success. After enduring bullying in middle school, she developed an obsession with grades and later her weight, leading to restrictive eating and bingeing behaviors. At 17, Amanda began purging, which escalated into a daily struggle, all while maintaining a façade of success in academics and multiple jobs.
 
-In November 2021, after a breakup and feeling overwhelmed by her PhD program, Amanda decided to prioritize her health over her eating disorder. She began tracking the days without engaging in harmful behaviors, which marked a turning point in her recovery journey. Her first Thanksgiving in recovery was pivotal, as she focused on consistent meals rather than restriction. 
+In November 2021, after a breakup and feeling overwhelmed by her PhD program, Amanda decided to prioritize her health over her eating disorder. She began tracking the days without engaging in harmful behaviors, which marked a turning point in her recovery journey. Her first Thanksgiving in recovery was pivotal, as she focused on consistent meals rather than restriction.
 
 Now, Amanda embraces self-care and views weight gain as a sign of strength rather than failure. She completed her PhD in 2024 and enjoys healthier relationships and activities that inspire her rather than punish her. Amanda advocates for recovery, encouraging others to recognize their inner strength and pursue healing, emphasizing that recovery, though challenging, becomes easier over time.

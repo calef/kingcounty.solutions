@@ -76,7 +76,7 @@ topic_titles:
 ELAP has announced its annual Pro Bono Awards, celebrating individuals and organizations that significantly contribute to legal needs in the community. The 2025 winners include:
 
 - **Community Partner**: Bellevue School District, recognized for its leadership under Dr. Aramaki and Dr. Macias Tamez in fostering a safe environment and hosting “Know Your Rights” workshops to empower families with legal knowledge.
-  
+
 - **Attorney of the Year**: Cameron Ford, a family law attorney who has dedicated over 80 pro bono hours since joining ELAP's clinics in 2022, known for his compassionate approach and clear communication with clients.
 
 - **Public Official**: King County Councilmember Sarah Perry, acknowledged for her advocacy for marginalized voices and policies addressing affordable housing and equitable legal access in District 3.
