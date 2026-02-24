@@ -2,7 +2,6 @@
 classified: true
 date: '2026-02-13T17:53:56+00:00'
 event_ids:
-- _events/2026-02-17-legislative-cutoff-deadline.md
 - _events/2026-02-20-town-halls-for-public-input-on-early-learning-funding.md
 events_extracted: true
 feed_content: |-
