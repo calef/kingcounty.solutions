@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-26T19:01:21+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2>Please email any comments by 11:59 p.m. Jan. 10</h2>
 

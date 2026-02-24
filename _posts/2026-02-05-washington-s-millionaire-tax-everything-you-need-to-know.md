@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: b45e7e097d36901d529ca247370bd1beb594325e70a7242e733cb1f83a9648f2
 date: '2026-02-05T23:20:19+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>By now, you have likely heard some news about a possible “Millionaires Tax” being considered this legislative session. As the state with the <a><u><strong>49th most regressive tax structure in the country</strong></u></a>, Washington needs to find new, progressive revenue sources in order to serve the many human, environmental, and infrastructure needs and obligations of the state.</p>
 

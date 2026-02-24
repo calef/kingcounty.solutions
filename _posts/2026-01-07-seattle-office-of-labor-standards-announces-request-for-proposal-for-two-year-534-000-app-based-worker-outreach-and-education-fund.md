@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-01-07T16:15:32+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-21-optional-information-session.md
+- _events/2026-02-12-application-deadline-for-rfp.md
+events_extracted: true
 feed_content: 'For Immediate Release Contact InformationCynthia SantanaPhone: 206-256-5219Email:
   cynthia.santana@seattle.gov Seattle Office of Labor Standards Announces Request
   for Proposal for Two Year $534,000 App-Based Worker Outreach and Education Fund

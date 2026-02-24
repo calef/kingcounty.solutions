@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-25T18:50:03+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-21-annual-christmas-ship-event.md
+events_extracted: true
 feed_content: '<p><img fetchpriority="high" decoding="async" class="alignnone size-full
   wp-image-8130" src="https://yarrowpointwa.gov/wp-content/uploads/2025/11/2025-Argosy-Christmas-Ship-Flyer.jpg"
   alt="" width="1275" height="1650" srcset="https://yarrowpointwa.gov/wp-content/uploads/2025/11/2025-Argosy-Christmas-Ship-Flyer.jpg

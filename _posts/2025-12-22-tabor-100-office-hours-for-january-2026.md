@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-22T04:41:29+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-01-tabor-100-office-hours.md
+events_extracted: true
 feed_content: Do you want to learn more about doing business with the City? Do you
   want to know about how the City of Seattle works with women- and minority-owned
   businesses? Do you have questions about working with unions on City construction

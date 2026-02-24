@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-01-05T22:43:24+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-14-public-meeting-on-stormwater-code-and-manual-updates-2.md
+- _events/2026-01-07-public-review-period-for-stormwater-code-and-manual.md
+events_extracted: true
 feed_content: The City of Seattle is in the process of updating Seattle’s Stormwater
   Code and Stormwater Manual as required by the Washington State Department of Ecology.
   The second draft of the 2026 Stormwater Code and Manual documents will be available

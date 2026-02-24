@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-11-03T16:25:24+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-annual-conference.md
+- _events/2026-02-19-symposium-on-overpayment-and-ticket-to-work-program.md
+events_extracted: true
 feed_content: |-
   <form action="https://nosscr.org/wp-login.php?action=postpass" class="post-password-form" method="post"><input type="hidden" name="redirect_to" value="https://nosscr.org/nosscr-megareg-session/" /></p>
   <p>This content is password protected. To view it please enter your password below:</p>

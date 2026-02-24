@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 7154b344f58502e7bccebf1b571b7e129241f962fd6e9a30d485b6ef3b998a49
 date: '2026-02-13T20:59:15+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><strong>Announcement of a prospective successful contractor expected by Feb. 23</strong></p>
 

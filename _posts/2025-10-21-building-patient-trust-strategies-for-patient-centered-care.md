@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-21T16:33:52+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-course-for-dental-professionals.md
+events_extracted: true
 feed_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/183">Start the Course</a></p>
 

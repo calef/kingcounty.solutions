@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-09T00:27:32+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-02-snoqualmie-tribe-christmas-party.md
+events_extracted: true
 feed_content: |-
   <p>The following information is provided by the Events Department to assist with parking for this coming Saturday’s Snoqualmie Tribe Christmas Party.</p>
   <p><a>Download the flier, with map, here</a></p>

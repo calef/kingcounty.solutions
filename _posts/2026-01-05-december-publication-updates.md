@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-05T22:18:41+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-01-public-review-of-draft-director-s-rule-7-2025.md
+events_extracted: true
 feed_content: Tips Updated Draft Director’s Rules
 feed_content_checksum: 94e6b896c0f79f15ca6dbdd2d76cf982e39bf908
 image_checksums: []

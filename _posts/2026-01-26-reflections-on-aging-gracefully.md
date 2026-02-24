@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-26T18:08:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <a><p><em>By Toni Ameslav, staff social worker at The Center for Active Living</em></p>
 

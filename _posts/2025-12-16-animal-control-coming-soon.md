@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-16T19:12:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<p><span> </span></p> <p><span>Under a contract between the City and
   Burien CARES, a dedicated animal control position will be back in service in Des
   Moines next year. On December 11, 2025, the City Council voted to reinstate the

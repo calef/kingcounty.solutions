@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-10T14:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Happy America Recycles Day! While it’s always important to recycle,
   November 15th is a great day to give it some special attention and celebrate our
   planet. Here at SPU, we’ll be celebrating with you and sharing tips and tricks to

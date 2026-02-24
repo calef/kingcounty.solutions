@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-21T20:13:47+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-2026-northwest-flower-and-garden-festival.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/01/Nw-Garden-Show-26-1-791x1024.png"></figure>
 

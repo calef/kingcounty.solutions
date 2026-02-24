@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-17T03:59:02+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'UPDATED: December 17, 2025 – 5 p.m. Water levels have continued to
   decrease in parts of Auburn, allowing evacuation levels to be downgraded in some
   areas. However, some locations still remain under a Level 3 (GO NOW) evacuation

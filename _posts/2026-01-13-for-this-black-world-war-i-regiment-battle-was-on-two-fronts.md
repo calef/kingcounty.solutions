@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-13T16:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/uploads/Hellfighters_article_Image3.jpg\">Even
   the blaring sounds of a 100-piece jazz band turned to whispers in the throngs of
   cheering Americans who lined New York City’s Fifth Avenue on Feb. 17, 1919.</p>\n<p>It

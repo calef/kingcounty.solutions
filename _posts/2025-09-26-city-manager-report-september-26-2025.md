@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-09-26T20:47:44+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-12-annual-property-tax-levy-setting.md
+events_extracted: true
 feed_content: 'Normandy Park’s Annual Property Tax Levy: What It Means for You Fall
   is officially here, and the City is preparing for its end-of-year activities, which
   include setting the property tax levy for the upcoming year. This year, Normandy

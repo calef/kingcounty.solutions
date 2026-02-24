@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-03T22:46:31+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><span>We share with prayers and sadness </span><span>the passing of a beloved Tribal Member</span></p>
   <h1><span>Anita Ruth Menchaca</span></h1>

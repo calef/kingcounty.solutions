@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-09T17:30:37+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-01-conference-on-empirical-methods-in-natural-language-processing.md
+events_extracted: true
 feed_content: |-
   <div>
   <!--[if lt IE 9]><script>document.createElement('video');</script><![endif]--><br>

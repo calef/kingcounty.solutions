@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-12T20:47:10+00:00'
 event_ids: []
+events_extracted: true
 feed_content: For 35 years, the Seattle Department of Neighborhoods (DON) has helped
   neighbors turn connection into action by supporting community-led projects, building
   local leadership, and bringing people together across the city. In 2026, DON celebrate...

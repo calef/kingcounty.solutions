@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-12T19:50:11+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>Survey:
   How IDDRCs Engage People With Lived Experience</h2>\n<p>Researchers at the University
   of Iowa are conducting a national survey to better understand how Intellectual and

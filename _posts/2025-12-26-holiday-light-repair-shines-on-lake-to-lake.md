@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 526afbc7e333107ea8a228dc307d06642fb8fb4b5281a55168d03e0822eebd29
 date: '2025-12-26T18:39:01+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span>Holiday light repair shines on Lake to Lake</span>\n<span><span>CIosso</span></span>\n<span><time>Fri,
   12/26/2025 - 10:39</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<article>\n
   \ \n        <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-12/cmo-2025-lake-to-lake-12-25-still.jpg?h=556deb24&amp;itok=td0ifU1m\">\n\n\n</div>\n
@@ -30,3 +32,4 @@ summarized: true
 title: Holiday light repair shines on Lake to Lake
 topic_titles: []
 ---
+

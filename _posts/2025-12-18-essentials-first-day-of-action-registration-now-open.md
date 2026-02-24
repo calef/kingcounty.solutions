@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: '07293e38478e2e000f4069f0539b70daf3c3c5427f7ce610dd9657fe4c57f6ae'
 date: '2025-12-18T20:30:12+00:00'
 event_ids:
 - _events/2026-01-26-essentials-first-day-of-action.md

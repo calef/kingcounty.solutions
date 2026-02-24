@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-01T16:23:14+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">From a home garage to a technology powerhouse</h2>
 

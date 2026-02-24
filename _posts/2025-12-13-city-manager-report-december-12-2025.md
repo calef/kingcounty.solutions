@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 0de0defd99101cbbb7388253b20402732fc847c4ac33b63a97b90ffcf7e54d0b
 date: '2025-12-13T00:56:38+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-09-normandy-park-city-council-monthly-meeting.md
+events_extracted: true
 feed_content: City Council Meeting Roundup. On Tuesday, December 9th, the Normandy
   Park City Council held its regular monthly meeting. Below is a summary of key actions
   and discussions. Approval of the Miller and Walker Creeks Basin Stewardship 2026

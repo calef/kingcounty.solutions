@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 0443c2e830c33550327937870232f1d1b1cebaf604520209336ec98274c22cfc
 date: '2025-12-23T16:28:39+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Our son Eli was just two years old when he had his first seizure. Now, at eight, he’s a bright, strong-willed child who continues to live with intractable epilepsy — a condition that remains challenging to manage with medication.<br><br><strong>Our family lives in Silt, Colorado, nearly 10 hours from the specialized care Eli receives at Phoenix Children’s Hospital. Traveling that far for appointments was daunting, both physically and financially.</strong>Then my brother-in-law, a pilot, told us about Angel Flight West (AFW). After completing AFW’s online application, I got a call from their mission coordinators within 24 hours. I was so relieved to learn that we’d been approved and that we could begin flying right away.</p>
 

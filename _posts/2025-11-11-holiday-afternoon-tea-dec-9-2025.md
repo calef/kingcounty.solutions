@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-11T17:46:09+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-09-holiday-afternoon-tea.md
+events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/Holiday-Tea-2-791x1024.png" alt="" class="wp-image-3605"/></figure>
 

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-17T18:15:58+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p class="has-medium-font-size"><strong>Commerce joined Island County and the U.S. Department of Housing and Urban Development to fund the construction of 14 new homes.</strong></p>
 

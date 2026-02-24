@@ -1,7 +1,16 @@
 ---
 classified: true
 date: '2025-11-04T14:30:24+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-01-new-years-day-closure.md
+- _events/2026-07-04-independence-day-closure.md
+- _events/2026-11-24-thanksgiving-day-closure.md
+- _events/2026-11-27-thanksgiving-day-limited-hours.md
+- _events/2026-12-24-christmas-eve-early-closing.md
+- _events/2026-12-25-christmas-day-closure.md
+- _events/2026-12-31-new-years-eve-early-closing.md
+- _events/2026-02-19-annual-closure-week.md
+events_extracted: true
 feed_content: "<div>\n\t\t\t\t\t\t<section>\n\t\t\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t<div>\n\t\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<table>\n
   \ <colgroup>\n    <col>\n    <col>\n  </colgroup>\n  <thead>\n    <tr>\n      <th>Dates</th>\n
   \     <th>Operating Hours</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>January

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-10T18:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div>\n\n    \n    <div><iframe></iframe></div>\n<p> </p>\n<figure><img
   src=\"https://www.dav.org/wp-content/uploads/Bolden-Sitting.jpg\"><figcaption>William
   Bolden</figcaption></figure>\n<p>William Bolden was caught in a firefight with Chinese

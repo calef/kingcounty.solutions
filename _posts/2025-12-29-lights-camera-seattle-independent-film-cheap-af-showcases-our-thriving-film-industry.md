@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-29T18:57:21+00:00'
 event_ids: []
+events_extracted: true
 feed_content: When you think of a movie set, you likely picture a Hollywood studio
   lot filled with lights, cameras, and lots of set pieces. The set of Cheap AF is
   unassuming, taking over the Vue Lounge in Belltown. From the street, you wouldn’t

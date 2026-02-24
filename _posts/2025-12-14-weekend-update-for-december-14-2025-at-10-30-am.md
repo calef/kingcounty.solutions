@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-14T19:11:10+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Cedar River and White River Still at Phase 4 and Green River at Phase 3 with Evacuations taking place in various locations along those rivers.</p>
   <p>Weather reports show wind gusts that could reach up to 45mph for Sunday night into Monday. Reports of additional rainfall throughout the week with a Special Weather Statement from the National Weather Services stating:</p>

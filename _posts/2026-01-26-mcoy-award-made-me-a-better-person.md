@@ -1,7 +1,11 @@
 ---
 classified: true
+content_checksum: 41e6324a433d0f26bc5ceb4a553e5fe9b5ab369c83ad4e69c4cc7c86bc2c6deb
 date: '2026-01-26T14:00:00+00:00'
-event_ids: []
+event_ids:
+- _events/2024-06-01-speaking-engagement-at-andersen-air-force-base.md
+- _events/2026-02-19-performance-on-caribbean-cruise.md
+events_extracted: true
 feed_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Winning the Military Child of the Year Award Made Me A Better Person</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-18T17:02:43+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <div id="attachment_89915" class="wp-caption aligncenter" style="width: 1043px"><img decoding="async" class="size-full wp-image-89915" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg.jpeg" alt="a man and a woman sitting together" width="1033" height="735" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg.jpeg 1033w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg-300x213.jpeg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg-1024x729.jpeg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg-768x546.jpeg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg-375x267.jpeg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg-750x534.jpeg 750w" sizes="(max-width: 1033px) 100vw, 1033px" /></p>
   <p class="wp-caption-text">The UW announced a foundational $10 million gift from philanthropists Charles and Lisa Simonyi to support work in artificial intelligence and emerging technologies.<span class="wp-media-credit">University of Washington</span></span></p>

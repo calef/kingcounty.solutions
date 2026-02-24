@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-03T16:12:45+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'For Immediate Release Contact: Cynthia SantanaCommunications Manager206-256-5219cynthia.santana@seattle.gov
   Seattle Office of Labor Standards Announces Settlement with Amazon Flex for Violations
   of Gig Worker and App-Based Worker Protections $3,777,924.10 Returned to 10,968

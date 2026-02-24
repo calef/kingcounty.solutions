@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-12T15:22:50+00:00'
 event_ids: []
+events_extracted: true
 feed_content: PMC will make major changes to our Article Dataset Distribution Services
   in 2026. In August 2026, you will need to access full text article data files through
   the PMC Cloud Service instead of the PMC FTP Service. This change will provide you with

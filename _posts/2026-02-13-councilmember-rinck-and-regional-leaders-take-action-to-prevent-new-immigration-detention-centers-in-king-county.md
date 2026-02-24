@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-13T17:15:34+00:00'
-event_ids: []
+event_ids:
+- _events/2024-02-24-seattle-city-council-vote-on-emergency-legislation.md
+events_extracted: true
 feed_content: |-
   <p>Emergency legislation to be heard by full Council February 24 Today Seattle City Councilmember Alexis Mercedes Rinck (Position 8), in partnership with King County Councilmember Teresa Mosqueda, Port of Seattle Commissioner Toshiko Hasegawa, and SeaTac Deputy Mayor Senayet Negusse announced support for emergency legislation in response to the Department of Homeland Security (DHS) potential moves...</p>
   <p>The post <a>Councilmember Rinck and regional leaders take action to prevent new immigration detention centers in King County</a> appeared first on <a>Seattle City Council Blog</a>.</p>

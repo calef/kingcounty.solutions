@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-30T18:22:39+00:00'
 event_ids: []
+events_extracted: true
 feed_content: From gallery exhibitions to grant workshops, thank you for being in
   community with us this year. As we look back at 2025, join us in celebrating a year
   of artist support! Keep reading to learn about some of our highlights and stay tuned

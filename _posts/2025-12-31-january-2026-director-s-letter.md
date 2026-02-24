@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: fd15ee478ea4e038d65742f366e4258ed5ffb102e33098510c307d45f986795d
 date: '2025-12-31T15:49:58+00:00'
 event_ids:
 - _events/2026-01-28-annual-member-meeting.md

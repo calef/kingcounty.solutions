@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 47e6c9adf3210128c92786d80f25fdd771e8a4b691d8ab8e4a216f7a6c55c956
 date: '2025-11-21T19:13:00+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-03-carepoint-blood-drive-2.md
+events_extracted: true
 feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          \n
   \           \n          \n            \n                \n                \n                \n

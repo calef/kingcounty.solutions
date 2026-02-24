@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-11T00:06:08+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Infant
   formula recalled because of possible link to infant botulism cases</span>\n\n            <div
   class=\"field field--name-field-date-and-time field--type-datetime field--label-hidden

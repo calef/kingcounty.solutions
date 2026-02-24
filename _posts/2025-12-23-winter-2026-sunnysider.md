@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-23T21:45:05+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <div>
   <object></object><a>Winter 2026 Sunnysider</a><a>Download</a>

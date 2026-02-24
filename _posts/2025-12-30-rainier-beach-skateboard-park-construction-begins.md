@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-12-30T20:49:47+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-01-construction-of-rainier-beach-skatepark.md
+- _events/2026-09-01-ribbon-cutting-ceremony-for-rainier-beach-skatepark.md
+events_extracted: true
 feed_content: Seattle Parks and Recreation(SPR), CHAMPS Resource and Service Center,
   and Parents for Skateparks are excited to announce the construction for the new
   Rainier Beach Skatepark begins in early January 2026. TERRA DYNAMICS INC. will mobilize

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-30T21:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Offering a home away from home</h2>
 

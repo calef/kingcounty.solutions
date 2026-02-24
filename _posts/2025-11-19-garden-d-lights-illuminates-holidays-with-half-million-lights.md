@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-11-19T16:07:47+00:00'
-event_ids: []
+event_ids:
+- _events/2023-11-29-garden-d-lights.md
+- _events/2023-12-01-special-admission-nights-for-garden-d-lights.md
+- _events/2023-12-08-special-admission-nights-for-garden-d-lights.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Garden
   d’Lights illuminates holidays with half million lights </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

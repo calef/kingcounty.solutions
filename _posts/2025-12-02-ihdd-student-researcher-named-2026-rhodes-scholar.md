@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-02T22:24:50+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
   \    js-master-row  mk-grid\">\r\n\t\t\t\t\r\n<div class=\"vc_col-sm-9 wpb_column

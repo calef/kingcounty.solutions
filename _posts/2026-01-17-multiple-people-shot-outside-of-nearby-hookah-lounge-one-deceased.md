@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-17T16:36:13+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Three men are shot and another man is deceased this morning following
   a shooting outside of a nearby hookah lounge in the International District.  Just
   before 5:00 a.m., patrol officers responded to a shooting in the 600 block of 8th

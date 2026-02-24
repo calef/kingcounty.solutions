@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-19T15:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2>A legendary celebration     </h2>
 

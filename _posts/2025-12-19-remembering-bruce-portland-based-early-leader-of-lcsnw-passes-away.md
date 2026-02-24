@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 01e1103fc5708bcf45fddb8d5e5850f7e395dea1ca69905b6b0e39f0cf3de569
 date: '2025-12-19T21:17:08+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-10-memorial-service-for-bruce-strade.md
+events_extracted: true
 feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\t<h1>Remembering
   Bruce: Portland-based early leader of LCSNW passes away</h1>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p><em>Photo:
   Bruce Strade (right) and Salah Ansary at LCSNW’s 2024 Faith Leaders breakfast in

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-03T15:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2>New research study uncovers gene for heart muscle disease</h2>
 

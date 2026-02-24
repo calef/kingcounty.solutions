@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-27T15:58:33+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'Are you a GenBank submitter? Do you use BankIt or the GenBank app in
   the NCBI Submission Portal to submit your sequences? Or do you split your data between
   the two systems?    Starting this spring, you will be able to complete all GenBank

@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: e161dfa7a3cab0eb467771d330ff35ab0eb4355c66ab607bdc58857d6bf55eed
 date: '2026-02-12T23:37:40+00:00'
 event_ids:
 - _events/2026-02-19-seminar-on-attention-and-speech-perception-in-autism-and-adhd.md

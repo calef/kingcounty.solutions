@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-12-14T20:10:25+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-14-yarrow-point-town-council-special-meeting.md
+- _events/2025-01-13-yarrow-point-town-council-regular-meeting.md
+events_extracted: true
 feed_content: |-
   <p><a>AGENDA</a></p>
   <p><strong>Join on computer, mobile app, or phone</strong></p>

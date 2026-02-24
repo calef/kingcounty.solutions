@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-08-26T20:49:00+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-06-moshier-holiday-pottery-sale.md
+events_extracted: true
 feed_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/Moshier%20Pottery%20Sale%202023%20featured%20event%20image.jpg)Find
   hundreds of items such as mugs, bowls, serving dishes, casseroles, garden art, jewelry,
   planters, and more at the annual Moshier Holiday Pottery Sale."

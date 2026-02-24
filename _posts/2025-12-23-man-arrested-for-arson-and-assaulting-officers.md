@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-23T19:59:05+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police arrested a 29-year-old man early Tuesday morning after
   he set a recycling dumpster on fire beneath an occupied apartment building and assaulted
   officers.    At 1:26 a.m., Tuesday morning, officers responded to an arson call

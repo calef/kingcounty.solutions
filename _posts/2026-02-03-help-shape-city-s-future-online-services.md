@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 1aa87f131c3903c7aff2c9260f0d4fcd7602bddc2608a509c497dbe384dcc456
 date: '2026-02-03T00:37:32+00:00'
-event_ids: []
+event_ids:
+- _events/2023-01-01-community-input-survey.md
+events_extracted: true
 feed_content: "<span>Help shape city’s future online services</span>\n<span><span>CIosso</span></span>\n<span><time>Mon,
   02/02/2026 - 16:37</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>The
   City of Bellevue is seeking to improve its delivery of online services to the community.

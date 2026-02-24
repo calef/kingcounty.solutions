@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-12-15T14:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-15-career-fair-in-newport-news.md
+- _events/2025-12-15-career-fair-in-norfolk.md
+events_extracted: true
 feed_content: |-
   <p>Editor’s note: This post contains links to jobs that are active at the time of publishing. Most job listings close 7–30 days after posting. The sharing of any non-VA information does not constitute an endorsement of products or services by VA. Veterans should verify all information with the organization offering the opportunity.</p>
 

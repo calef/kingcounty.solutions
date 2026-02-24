@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-11T20:05:41+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-16-ukrainian-folk-art-class-vytynanka.md
+events_extracted: true
 feed_content: |-
   <p>In this class we will explore one of the Ukrainian Folk Arts -paper cut named “Vytynanka”. Join instructor Nataliya Zigelboym to learn about paper cut art around the world  with focus on traditional and contemporary Ukrainian Vytynanka. We will create several artworks. This is a hands-on class. All the materials provided, no previous experience required.</p>
 

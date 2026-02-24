@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-11T22:39:16+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Cedar River Water and Sewer District has issued a 48-hour Precautionary
   Boil Water Advisory beginning on 12/11 for the east area of the Water District to
   include the area east of the Cedar River and south of Highway 18 while samples are

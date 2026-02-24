@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-27T21:19:51+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/01/22094004/glove_hero-1200x677.jpg"><figcaption>Inside the OpenTouch Glove (right) is a grid of wires (left) that allows the glove to sense the location and degree of any pressure applied to it. <span>Photo: University of Washington</span></figcaption></figure>
   <p><span>Yiyue Luo’s </span><a><span>Wearable Intelligence Lab</span></a><span> at the University of Washington is full of machinery that’s oddly cozy. Here, soft and pliable sensors are sewn, knit and glued directly into clothing to give everyday garments new capabilities. </span></p>

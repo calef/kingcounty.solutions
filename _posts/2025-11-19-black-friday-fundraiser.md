@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-19T00:00:00-08:00'
-event_ids: []
+event_ids:
+- _events/2023-11-24-rootstock-northwest-fundraiser.md
+events_extracted: true
 feed_content: <summary type="html"></summary>
 image_checksums: []
 images_extracted: true

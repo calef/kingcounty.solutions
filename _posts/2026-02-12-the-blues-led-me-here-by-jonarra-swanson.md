@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-12T17:55:26+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The Blues Led Me Here by Jonarra Swanson is a story of strength and
   community as we navigate grief. Through the intentional use of blue monochrome,
   she creates contemporary portraits that explore the depth and dignity of marginalized

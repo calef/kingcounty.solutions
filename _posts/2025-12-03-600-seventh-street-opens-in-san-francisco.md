@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-03T18:21:02+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>City leaders, housing advocates, and community members came together in SoMa to celebrate the opening of 600 Seventh, a landmark affordable housing development at 7th and Brannan Streets that redefines what inclusive urban living can look like.</p>
   <p>The eight-story building is designed to inspire connection and joy. Families enjoy two landscaped courtyards with play structures and seating areas, game rooms and study nooks on every floor, and a spacious community room for gatherings. Select apartments and shared spaces offer sweeping views of the Bay Bridge and city skyline. At street level, 4,000 sq<u>u</u>are feet of retail space will welcome community-serving businesses, adding energy and opportunity to the neighborhood.</p>

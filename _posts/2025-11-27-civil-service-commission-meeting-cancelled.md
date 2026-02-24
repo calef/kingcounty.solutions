@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-27T01:00:22+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-07-black-diamond-harvest-festival.md
+events_extracted: true
 feed_content: "<div class=\"field field-name-field-date-and-time field-type-datetime
   field-label-hidden\">\n  \n      \n    <span  property=\"dc:date\" datatype=\"xsd:dateTime\"
   content=\"2025-12-04T11:00:00-08:00\" class=\"date-display-single\">12/04/2025 -

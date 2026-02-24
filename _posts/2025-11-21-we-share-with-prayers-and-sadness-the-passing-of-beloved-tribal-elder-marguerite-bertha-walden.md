@@ -1,7 +1,12 @@
 ---
 classified: true
 date: '2025-11-21T21:13:26+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-22-beginning-beading-class.md
+- _events/2025-12-06-christmas-tree-thinning-gathering.md
+- _events/2025-12-13-tribal-christmas-party.md
+- _events/2025-12-24-holiday-break.md
+events_extracted: true
 feed_content: |-
   <p class="cvGsUA direction-ltr align-center para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">We share with prayers and sadness </span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">the passing of a beloved Tribal Elder</span></p>
   <h1><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Marguerite Bertha Walden</span></h1>

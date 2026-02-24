@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-15T21:46:02+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>SPOKANE, Wash. — <a>MultiCare Valley Hospital</a> has been recognized as a Top Hospital and given an “A” grade. Both awards were given by <a>The Leapfrog Group<span></span></a> in fall 2025, recognizing the highest commitment to patient safety and quality of care.</p>
   <p>Valley Hospital is the only hospital in the Inland Northwest region to receive this honor.</p>

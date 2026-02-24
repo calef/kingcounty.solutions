@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-20T21:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">AI voice tool quietly takes notes so providers can focus on you</h2>
 

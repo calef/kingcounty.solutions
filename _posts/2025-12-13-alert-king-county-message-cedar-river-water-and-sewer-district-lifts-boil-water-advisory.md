@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-13T17:50:52+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Cedar River Water and Sewer District (CRWSD) is lifting the Precautionary
   Boil Water Advisory for the east area of the district, including the area east of
   the Cedar River and south of Highway 18. All required water quality samples have

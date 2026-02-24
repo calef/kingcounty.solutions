@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-16T00:14:04+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p></p>
 

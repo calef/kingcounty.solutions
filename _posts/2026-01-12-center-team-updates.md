@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-12T23:20:15+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <a><p>We have a few staff updates to share with our members. </p>
 

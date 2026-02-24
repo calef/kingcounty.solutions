@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 62edd6b3ea3af52f9c5729d1baf2c8b4830f358aa21fb256da6eeadc521951b7
 date: '2025-12-20T00:05:38+00:00'
 event_ids: []
+events_extracted: true
 feed_content: What’s better than signing up for emergency alerts during a crisis?
   Signing up BEFORE the crisis, to ensure you get critical information to keep you
   and your family safe! Register for ALERT King County today if you haven’t yet. ALERT

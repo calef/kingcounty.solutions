@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-10T15:46:33+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-aaai-acm-conference-on-artificial-intelligence-ethics-and-society.md
+events_extracted: true
 feed_content: |-
   <div id="attachment_89411" class="wp-caption aligncenter" style="width: 1150px"><img loading="lazy" decoding="async" class="wp-image-89411 size-page" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-1140x655.jpg" alt="A person's hands type on a laptop." width="1140" height="655" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-1140x655.jpg 1140w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-300x172.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-1024x589.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-768x441.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-1536x883.jpg 1536w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-2048x1177.jpg 2048w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-375x216.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-750x431.jpg 750w" sizes="auto, (max-width: 1140px) 100vw, 1140px" /></p>
   <p class="wp-caption-text">In a new University of Washington study, 528 people worked with simulated LLMs to pick candidates for 16 different jobs, from computer systems analyst to nurse practitioner to housekeeper. The researchers simulated different levels of racial biases in LLM recommendations for resumes from equally qualified white, Black, Hispanic and Asian men.<span class="wp-media-credit">Delmaine Donson/iStock</span></span></p>

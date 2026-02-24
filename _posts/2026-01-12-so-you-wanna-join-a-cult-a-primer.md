@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-12T18:00:28+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Cult stories seem to be having a bit of a moment in our cultural consciousness (go figure), usually the weirder the better. From the ancient Greek Mysteries to Charles Manson to <a>Midsommar</a>, humanity’s cultural landscape is littered with cults. They equally fascinate and repel, highlighting how our deepest longings to belong can so easily be twisted into something horrifying and inhumane. The following books explore this tension, from the initial spark of curiosity to the inevitable tragic aftermath.</p>
   <p>Amanda Montell’s excellent cultural study, <a><strong>Cultish: The Language of Fanaticism</strong></a>, explores the language cults use to draw people in. Mixing journalism, personal history, interviews with former cult members, and anthropological analysis, Montell considers everything from Heaven’s Gate indoctrination methods to modern wellness influencers to the Peloton community to show the similarities in language and rhetoric used by each with the goal of helping readers “distinguish between benign and dangerous communities, and reduce the stigma that can further entrap people in cults” (Publisher’s Weekly).</p>

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-30T19:58:47+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2>Stay Informed and Get Registered to Vote</h2>
 

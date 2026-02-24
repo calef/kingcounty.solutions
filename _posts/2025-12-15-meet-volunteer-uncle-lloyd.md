@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-15T18:48:06+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<a><p>There are so many reasons to love spending time at The Center—but
   one of the best is the people you meet and the stories they share. Someone with
   great stories …</p></a>"

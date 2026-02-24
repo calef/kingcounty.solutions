@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-05T18:23:24+00:00'
-event_ids: []
+event_ids:
+- _events/2026-03-05-end-of-life-paperwork-community-event.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/Paperwork-x-791x1024.png"></figure>
 

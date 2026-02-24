@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-28T14:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>VA’s Office of Research and Development recently published three <a href="https://www.research.va.gov/news_briefs/default.cfm" rel="noopener">News Briefs</a> highlighting research finding on suicide prevention, blast exposure and a potential new lymphoma treatment.</p>
 

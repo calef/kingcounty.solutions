@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-19T21:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2025-02-01-st-patrick-s-day-festival.md
+events_extracted: true
 feed_content: |-
   <p>With almost a quarter of all Veterans in the United States residing in rural communities, ensuring they receive quality health care close to home is more important than ever. The Department of Veterans Affairs (VA) actively works to meet these Veterans in their own communities and promote opportunities to live happy and healthy lives. </p>
 

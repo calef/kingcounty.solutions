@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-12T23:23:46+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Like all of the Emerald City, The Seattle Public Library has been reveling in the Seahawks’ Super Bowl win — but in a very library-like way.</p>
 

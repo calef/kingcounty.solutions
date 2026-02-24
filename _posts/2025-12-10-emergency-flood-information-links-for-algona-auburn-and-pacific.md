@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-10T01:50:01+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Due to the current flooding situation and continuing weather event, emergency information is being shared by the cities of Algona, Auburn and Pacific.  Please use the links below for detailed information for your city.</p>
   <p>City of Algona Website: <a>https://www.algonawa.gov/news_detail_T2_R57.php</a></p>

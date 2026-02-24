@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-16T17:22:55+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "**Begins**\n\nBy Steven Schauer, Deputy Executive Director\n\nAs the
   rainy season returns to the Pacific Northwest, so does the risk of flooding. In
   King County, flood season runs from October through April, bringing with it the

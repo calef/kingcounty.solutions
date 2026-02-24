@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-13T23:43:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The City Council has decided to cancel the Fourth of July drone show
   at the Des Moines Marina and redirect those funds to support other community events. 
   This decision was based in part on feedback received through the recent Community

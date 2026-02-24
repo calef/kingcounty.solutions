@@ -1,7 +1,11 @@
 ---
 classified: true
+content_checksum: ec70163ae5965788c6974aed66506c21efb0a5df87ce8a9b6f62594b66cb4053
 date: '2026-02-13T19:45:02+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-10-normandy-park-city-council-meeting.md
+- _events/2026-02-19-citizen-satisfaction-survey.md
+events_extracted: true
 feed_content: On Tuesday, February 10th, the Normandy Park City Council held its regular
   monthly meeting. Below is a summary of key discussions and actions taken...
 feed_content_checksum: 254766b73cda384c5be82a1c88923386027fcc00

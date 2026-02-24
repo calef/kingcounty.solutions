@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-07T20:47:17+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-12-special-meeting-and-public-hearing-for-final-2026-budget.md
+events_extracted: true
 feed_content: |-
   [COMPLETE PACKET](https://yarrowpointwa.gov/wp-content/uploads/2025/11/COMPLETE-PACKET.pdf)
 

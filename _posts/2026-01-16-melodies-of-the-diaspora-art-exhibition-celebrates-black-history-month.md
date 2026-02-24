@@ -1,7 +1,11 @@
 ---
 classified: true
+content_checksum: 04e6a4bd6f0678ef4ce96b7122708ddb7c49fe5ed39a4631ae38f5d9e2597795
 date: '2026-01-16T22:07:31+00:00'
-event_ids: []
+event_ids:
+- _events/2024-02-01-melodies-of-the-diaspora-celebrating-100-years-of-black-history-month.md
+- _events/2024-02-01-opening-reception-for-melodies-of-the-diaspora.md
+events_extracted: true
 feed_content: "<span>‘Melodies of the Diaspora’ art exhibition celebrates Black History
   Month</span>\n<span><span>CIosso</span></span>\n<span><time>Fri, 01/16/2026 - 14:07</time>\n</span>\n
   \ <div>\n    <div>\n      \n\n            <div>    <div>\n    <div>\n      \n\n

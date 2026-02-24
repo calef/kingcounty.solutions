@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-15T07:13:01+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police officers arrested a 29-year-old man for destroying a
   hospital emergency room, lighting a fire, and attacking nurses and security guards
   this morning in Downtown Seattle. At 10:15 a.m., patrol officers responded to reports

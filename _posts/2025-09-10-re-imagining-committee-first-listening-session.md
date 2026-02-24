@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-09-10T23:58:31+00:00'
-event_ids: []
+event_ids:
+- _events/2025-09-10-first-listening-session.md
+- _events/2025-09-14-presentation-of-reimagining-ideas.md
+- _events/2025-10-05-second-listening-session.md
+events_extracted: true
 feed_content: "<section class=\"elementor-section elementor-top-section elementor-element
   elementor-element-a3ed10d ang-section-padding-no elementor-section-boxed elementor-section-height-default
   elementor-section-height-default elementor-repeater-item-none elementor-repeater-item-none_hover\"

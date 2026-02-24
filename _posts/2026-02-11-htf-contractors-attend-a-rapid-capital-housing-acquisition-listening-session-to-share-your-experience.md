@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: aa402d33eecb62c7a5071c514d73e8d964af94f4605dd743c52f69e82a14aba7
 date: '2026-02-11T00:40:59+00:00'
 event_ids:
 - _events/2026-02-19-rapid-capital-housing-acquisition-listening-session-2.md

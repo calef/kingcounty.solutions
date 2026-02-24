@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-29T19:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Small food choices can lead to significant health benefits. Whether you want to follow a strict vegetarian diet or add a few plant-based meals to your week, the benefits are undeniable.  </p>
 

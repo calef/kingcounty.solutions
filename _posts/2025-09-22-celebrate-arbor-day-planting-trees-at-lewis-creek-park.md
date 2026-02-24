@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-09-22T15:38:16+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-18-arbor-day-tree-planting.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Celebrate
   Arbor Day planting trees at Lewis Creek Park</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

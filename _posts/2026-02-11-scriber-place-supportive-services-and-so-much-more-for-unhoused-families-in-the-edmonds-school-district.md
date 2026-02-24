@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 7f640051e973fa2058ec26f8b54a57824f1783cc15dda6c68667152a429ba5c9
 date: '2026-02-11T00:53:36+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Shortly after students returned for the 2025-26 school year, Lynnwood housing advocates celebrated the groundbreaking of Scriber Place. Developed by Housing Hope in partnership with the Edmonds School District, this special property will serve as safe and affordable housing for previously unhoused families in the school district for years to come.</p>
 

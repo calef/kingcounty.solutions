@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-10T18:00:19+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Every family has its cracks – some small enough to laugh about, others deep enough to reshape a life. Fiction has always given us a safe way to explore the relationships that challenge us, comfort us, and occasionally derail the holiday dinner. These five novels from our new Lake City Branch display, <strong>Dysfunctional by Design – Because Every Family Is Messy</strong>, take readers inside households full of conflict, history, humor, and hope.</p>
   <p><img src="https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/2025-LCY-display.jpg?resize=768%2C1024&amp;ssl=1"></p>

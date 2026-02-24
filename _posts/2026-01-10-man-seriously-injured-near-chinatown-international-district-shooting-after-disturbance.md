@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-10T22:01:42+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Detectives are investigating a shooting early Saturday morning near
   Chinatown-International District neighborhood that left a 27-year-old man seriously
   injured. At about 2:45 a.m., dispatchers received reports of shots fired near 12th

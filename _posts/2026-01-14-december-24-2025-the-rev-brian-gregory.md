@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 8ae4b89989449649ec29ae1c87c86df3a555c7acd5fff983e9636bdc6cb2dc35
 date: '2026-01-14T00:33:30+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Christmas Eve in the Chapel Picture, for a moment, your ideal Christmas. The one that checks all the boxes of nostalgia, tradition, and meaning. Perhaps there is a well-trimmed tree, … <a>Read More</a></p>
   <p>The post <a>December 24, 2025 — The Rev Brian Gregory</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>

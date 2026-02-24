@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-13T16:37:17-08:00'
 event_ids: []
+events_extracted: true
 feed_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
   class="field-items"><div class="field-item even" property="content:encoded"><p><span><span><span>The
   City of Mercer Island recently wrapped up a four-year effort to modernize its water

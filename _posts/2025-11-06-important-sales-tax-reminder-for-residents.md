@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-06T19:42:36+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   Dear Yarrow Point Residents,
 

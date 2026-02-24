@@ -1,7 +1,12 @@
 ---
 classified: true
+content_checksum: 2ad4c4dd73f236d98d007aac17e5af0fb8fd1c576b985ab8cb756aac457dd2d8
 date: '2026-02-11T16:03:19+00:00'
-event_ids: []
+event_ids:
+- _events/2026-03-03-immersive-american-sign-language-asl-zone.md
+- _events/2026-03-26-dynamic-prosody.md
+- _events/2026-03-14-community-meet-ups.md
+events_extracted: true
 feed_content: |-
   <div><img src="https://www.cdhy.wa.gov/wp-content/uploads/2026/02/March-Offerings-from-CDHY-Interpreter-Hub-791x1024.png"></div>
   <h2>CDHY Interpreter Hub Monthly Offerings</h2>

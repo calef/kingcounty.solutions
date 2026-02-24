@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-17T20:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The Seattle Police Department is proud to highlight the great work of
   our officers who are working along the Aurora Avenue North corridor to deter people
   from sexual exploitation. Since October, SPD has had officers photographing the

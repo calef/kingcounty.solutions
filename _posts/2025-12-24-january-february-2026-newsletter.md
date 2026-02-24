@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-24T19:52:36+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <div>
   <object></object><a>26.j.f.newlsetter.ws</a><a>Download</a>

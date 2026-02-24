@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 220b64fc5f955b6a72a5a1dd6fe33e4f72171c058f3d9f27ee59e5b7a3385ad7
 date: '2025-12-16T16:21:17+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\t<h1>Thanks
   to a giving Tri-Cities community</h1>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p>The
   debut of the <a>Light the World Giving Machine</a> in the Tri-Cities was an incredible

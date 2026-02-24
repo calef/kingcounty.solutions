@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 8b9d30924d10ebb388bd1e5fe125e580d6e85224fd61051760917e4feb967f00
 date: '2026-02-06T17:48:27+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The Annual Citizen Satisfaction Survey is Live! It is that time of year!
   Time for the Third Annual Citizen Satisfaction Survey. The City Council and staff
   are committed to delivering high-quality services to our community. To better understand

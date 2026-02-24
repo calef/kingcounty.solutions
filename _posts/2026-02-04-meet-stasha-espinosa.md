@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 268fcc1bbf202a0da72ed24319c658c64d50faf7e8b865b9a96354d3ff791dbb
 date: '2026-02-04T23:24:16+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span><img
   src=\"https://inatai.org/wp-content/uploads/2026/02/Stasha-Espinosa_1200x628.jpg\"></span>\n\t\t\t</div>\n<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div><p><em>Policy
   &amp; Advocacy Deputy Director Stasha Espinosa</em></p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p><a>Stasha
