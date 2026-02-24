@@ -1,5 +1,6 @@
 ---
 address: 9021 Rainier Ave S, Seattle, WA 98118
+chio_website_id: _websites/019c5dc2-e70a-7c5a-8bcc-e2e62f72abcd.md
 email: info@rvfb.org
 news_rss_url: https://www.rvfb.org/blog?format=rss
 phone: 206-723-4105

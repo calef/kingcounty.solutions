@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-e373-7d25-b5a5-461b69e33543.md
 news_rss_url: https://www.residencexii.org/feed/
 phone: "(858) 363-8214"
 title: Residence XII

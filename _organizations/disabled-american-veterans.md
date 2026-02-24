@@ -1,5 +1,6 @@
 ---
 acronym: DAV
+chio_website_id: _websites/019c5dc2-6cb4-7913-a952-a3dc2104d5eb.md
 events_ical_url: https://www.dav.org/events-calendar/?ical=1
 news_rss_url: https://www.dav.org/feed/
 title: Disabled American Veterans

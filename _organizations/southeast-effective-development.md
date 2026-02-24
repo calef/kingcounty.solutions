@@ -1,5 +1,6 @@
 ---
 acronym: SEED
+chio_website_id: _websites/019c5dc2-f4a6-78c2-a977-73b52b8fdd17.md
 news_rss_url: https://www.seedseattle.org/feed/
 phone: 206-760-9843
 title: SouthEast Effective Development

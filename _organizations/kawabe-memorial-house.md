@@ -1,5 +1,6 @@
 ---
 address: 221 18th Ave South, Seattle, WA 98144
+chio_website_id: _websites/019c5dc1-cd8e-7375-a05c-88134ab553eb.md
 email: info@kawabehouse.org
 news_rss_url: https://kawabehouse.org/feed/
 phone: 206-322-4550

@@ -1,5 +1,6 @@
 ---
 address: 27034 SE Kent-Kangley Rd, Ravensdale, WA 98051
+chio_website_id: _websites/019c5dc2-2c65-76fa-86d2-67eb5bced675.md
 email: valleygirlsandguys@gmail.com
 events_ical_url: https://valleygirlsandguys.org/events/?ical=1
 news_rss_url: https://valleygirlsandguys.org/feed/

@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-af60-77eb-ad31-c78892bbea9d.md
 news_rss_url: https://lighthousenw.org/rss.xml
 title: Lighthouse NW
 topic_titles:

@@ -1,5 +1,6 @@
 ---
 address: 1521 Broadway, Suite A, Seattle, WA 98122
+chio_website_id: _websites/019c5dc1-bca4-70fc-b7bb-09159319a82f.md
 email: info@genprideseattle.org
 news_rss_url: https://genprideseattle.org/feed/
 phone: 206-393-3400

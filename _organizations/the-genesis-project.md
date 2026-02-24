@@ -1,6 +1,7 @@
 ---
 acronym: GP
 address: P.O. Box 6449 Kent, WA 98064
+chio_website_id: _websites/019c5dc1-bbcc-7888-af51-52ffa68a664a.md
 email: Info@GPSeattle.net
 phone: 206-592-2362
 title: The Genesis Project

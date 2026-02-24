@@ -1,5 +1,6 @@
 ---
 address: 26526 NE Cherry Valley Road, Duvall, WA 98019
+chio_website_id: _websites/019c5dc2-9010-75cd-a02a-a04578ded754.md
 email: pantry@holyinn.org
 news_rss_url: https://www.holyinn.org/feed/rss2
 phone: 425-788-1400

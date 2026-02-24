@@ -1,6 +1,7 @@
 ---
 acronym: PNA
 address: 6532 Phinney Ave N, Seattle, WA 98103
+chio_website_id: _websites/019c5dc2-d606-7c45-85a7-1395ba1b385a.md
 email: pna@phinneycenter.org
 events_ical_url: https://www.phinneycenter.org/eventscal/?ical=1
 news_rss_url: https://www.phinneycenter.org/feed/

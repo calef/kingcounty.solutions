@@ -1,6 +1,7 @@
 ---
 acronym: AEA
 address: 16305 NE 87th, Suite 110, Redmond, WA 98052
+chio_website_id: _websites/019c5dbb-abb6-7026-84df-f8a6df9abeff.md
 email: office.eastside@gmail.com
 events_ical_url:
 news_rss_url: https://allianceofeastsideagencies.org/feed/

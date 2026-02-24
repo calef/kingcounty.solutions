@@ -1,5 +1,6 @@
 ---
 address: 22818 SE 8th St, Sammamish, WA 98074, USA
+chio_website_id: _websites/019c5dc1-afe3-7285-9a73-aa1699bd538e.md
 email: info@eastsidefriendsofseniors.org
 news_rss_url: https://www.eastsidefriendsofseniors.org/blog-feed.xml
 phone: 425-369-9120

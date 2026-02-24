@@ -1,5 +1,6 @@
 ---
 address: 1419 SW 150th St, Burien, WA 98166
+chio_website_id: _websites/019c5dc1-c0e4-78d9-8667-ed6bda7704f5.md
 email: olivia@hospitalityhousesouthking.org
 events_ical_url: https://hospitalityhousesouthking.org/events/?ical=1
 news_rss_url: https://hospitalityhousesouthking.org/feed/

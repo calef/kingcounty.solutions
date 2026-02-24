@@ -1,5 +1,6 @@
 ---
 acronym: FOF
+chio_website_id: _websites/019c5dc2-881a-75a9-b455-c8c7338a9bef.md
 email: info@footprintsoffight.org
 news_rss_url: https://www.footprintsoffight.org/feed/
 title: Footprints of Fight

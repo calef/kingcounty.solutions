@@ -1,6 +1,7 @@
 ---
 acronym: MSC
 address: 1200 S 336th Street, Federal Way, WA 98003
+chio_website_id: _websites/019c5dc1-e530-7254-84e5-4c89905e574f.md
 email: info@mschelps.org
 news_rss_url: https://mschelps.org/feed/
 phone: 253-838-6810

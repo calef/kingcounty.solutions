@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc3-126b-705d-979e-6dc5e0b13903.md
 news_rss_url: https://thegivingroomseattle.org/feed/
 title: The Giving Room
 topic_titles:

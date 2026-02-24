@@ -1,5 +1,6 @@
 ---
 address: 35221 SE Douglas St, Snoqualmie, WA 98065
+chio_website_id: _websites/019c5dc2-5c04-71ab-9487-9f5c8f5575ec.md
 email: info@churchontheridge.org
 events_ical_url:
 news_rss_url: https://www.churchontheridge.org/feed/

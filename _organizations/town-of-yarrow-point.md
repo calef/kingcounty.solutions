@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc3-2f7d-768c-bf6b-cf1cbf5f3c9b.md
 news_rss_url: https://yarrowpointwa.gov/feed/
 title: Town of Yarrow Point
 type: Town

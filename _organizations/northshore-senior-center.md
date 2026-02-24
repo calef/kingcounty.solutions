@@ -1,5 +1,6 @@
 ---
 address: 10201 E. Riverside Drive, Bothell, WA 98011
+chio_website_id: _websites/019c5dc2-c79b-7a10-afce-92458927c54e.md
 email: information@mynorthshore.org
 news_rss_url: https://www.northshoreseniorcenter.org/feed/
 phone: 425-487-2441

@@ -1,5 +1,6 @@
 ---
 acronym: RP
+chio_website_id: _websites/019c5dc1-fc35-7b4f-ad32-9f74bf54bc60.md
 events_ical_url:
 news_rss_url: https://readingpartners.org/feed/
 title: Reading Partners

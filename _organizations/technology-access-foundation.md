@@ -1,6 +1,7 @@
 ---
 acronym: TAF
 address: 605 SW 108th Street, Seattle, WA 98146
+chio_website_id: _websites/019c5dc2-2050-7e02-862a-c255ddff1edf.md
 email: taf@techaccess.org
 news_rss_url: https://techaccess.org/feed/
 phone: 206-725-9095

@@ -1,5 +1,6 @@
 ---
 acronym: SSHA
+chio_website_id: _websites/019c5dc2-1a4c-7deb-99a7-02420976a277.md
 email: aallen@ststephenhousing.org
 events_ical_url:
 news_rss_url: https://ststephenhousing.org/feed/

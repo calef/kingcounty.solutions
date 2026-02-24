@@ -1,5 +1,6 @@
 ---
 address: 85 Pike Street, LaSalle Hotel building, Seattle, WA 98101
+chio_website_id: _websites/019c5dc2-d7cf-7120-a92a-5025688df722.md
 phone: 206-626-6462
 title: Pike Market Senior Center & Food Bank
 topic_titles:

@@ -1,5 +1,6 @@
 ---
 address: 4016 South 352nd Street in Auburn, WA 98001
+chio_website_id: _websites/019c5dc2-848c-7c2a-8162-d76d23119d9b.md
 events_ical_url: https://federalwayseniorcenter.org/events/?ical=1
 news_rss_url: https://federalwayseniorcenter.org/feed/
 title: Federal Way Senior Center

@@ -1,5 +1,6 @@
 ---
 acronym: POM
+chio_website_id: _websites/019c5dc2-d6e8-7003-b810-7f262a999b23.md
 news_rss_url: https://www.plateauoutreach.org/stories?format=rss
 title: Plateau Outreach Ministries
 topic_titles:

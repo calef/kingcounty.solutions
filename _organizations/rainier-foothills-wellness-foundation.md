@@ -1,6 +1,7 @@
 ---
 acronym: RFWF
 address: 1304 Griffin Avenue, Enumclaw, WA 98022
+chio_website_id: _websites/019c5dc2-03e1-7d6c-b0f7-81a7ff7f23b2.md
 events_ical_url:
 news_rss_url: https://rfwellnessfoundation.org/feed/
 phone: 360-802-3206

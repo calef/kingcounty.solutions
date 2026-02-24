@@ -1,5 +1,6 @@
 ---
 address: 180 Denny Way, Seattle, WA 98109
+chio_website_id: _websites/019c5dc1-b936-7de5-bac5-94282170b771.md
 email: Office@firstchurchseattle.org
 news_rss_url: https://firstchurchseattle.org/feed/
 phone: "(206) 622-7278"

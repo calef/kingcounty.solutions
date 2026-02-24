@@ -1,5 +1,6 @@
 ---
 address: 3620 SW Alaska Street, West Seattle, WA 98126
+chio_website_id: _websites/019c5dc2-3703-77fb-b6e5-9491d02cfdfa.md
 news_rss_url: https://westsideneighborsshelter.org/feed/
 title: Westside Neighbors Shelter
 topic_titles:

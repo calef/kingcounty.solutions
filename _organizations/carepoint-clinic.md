@@ -1,6 +1,7 @@
 ---
 acronym: CPC
 address: 36017 SE Fish Hatchery Rd, Fall City, WA 98024
+chio_website_id: _websites/019c5dc2-5424-7051-80b6-a66e6956763a.md
 email: info@carepointonline.org
 news_rss_url: https://www.carepointonline.org/news?format=rss
 phone: 425-478-6627

@@ -1,6 +1,7 @@
 ---
 acronym: LCSNW
 address: 2920 Cassia Street, Boise, ID 83705
+chio_website_id: _websites/019c5dc1-db0b-7c9a-980b-139721772d12.md
 email: info@lcsnw.org
 events_ical_url: https://lcsnw.org/events/?ical=1
 news_rss_url: https://lcsnw.org/feed/

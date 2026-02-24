@@ -1,5 +1,6 @@
 ---
 address: 720 2nd Ave, Seattle, WA 98104
+chio_website_id: _websites/019c5dc3-20ec-7c83-b75b-bbd65bd31f9c.md
 email: customerservice@uwkc.org
 events_ical_url: https://www.uwkc.org/events/?ical=1
 news_rss_url: https://www.uwkc.org/feed/
