@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: eda1338e3496da78cdb071565c92f68e88c4570493ac3d275ffe5bb879c8aee8
 end_date: '2026-04-24T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Joint Base
   Lewis-McChord Job Fair, April 23, 2026</h1> <div> <div><span>April 23</span></div>

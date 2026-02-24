@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 8ac1b05c214919acd59c571bc6fcbafeab728311543a4e084a2c15f8b2fdb5f8
 end_date: '2026-03-12T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Hood Job
   Fair, March 11, 2026</h1> <div> <div><span>March 11, 2026</span></div> </div> <div>

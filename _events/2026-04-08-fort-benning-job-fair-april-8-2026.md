@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 02ef50723533d4fa30e4b872d968369745996a47275fe1675405c456a16d63a1
 end_date: '2026-04-09T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Benning
   Job Fair, April 8, 2026</h1> <div> <div><span>April 8</span></div> </div> <div>

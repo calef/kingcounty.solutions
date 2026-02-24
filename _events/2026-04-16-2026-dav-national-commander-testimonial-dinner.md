@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 07d440dc65409277833f423b419a8909fab53acf48e203ff596ad81d93155b8a
 end_date: '2026-04-20T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>2026 DAV National
   Commander Testimonial Dinner</h1> <div> <div> <span>April 16</span> - <span>April
