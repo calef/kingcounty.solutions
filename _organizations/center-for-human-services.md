@@ -1,6 +1,7 @@
 ---
 acronym: CHS
 address: 17018 15th Ave NE, Shoreline, WA 98155
+chio_website_id: _websites/019c5dc2-5b1d-7b9a-a323-0873dc9b91bb.md
 news_rss_url: https://www.chs-nw.org/feed/
 phone: 206.362.7282
 title: Center for Human Services

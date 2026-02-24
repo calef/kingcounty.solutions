@@ -1,6 +1,7 @@
 ---
 acronym: EEU
 address: 1981 NE Columbia Road, Seattle, WA 98195
+chio_website_id: _websites/019c5dc1-b191-72da-b823-5d911b7baf60.md
 email: eeu-office@uw.edu
 news_rss_url: https://eeuschool.org/feed/
 parent_organization_title: University of Washington

@@ -1,6 +1,7 @@
 ---
 acronym: FCS
 address: 5740 Martin Luther King Jr Way S, Seattle, WA 98118, USA
+chio_website_id: _websites/019c5dc2-8651-7140-96cf-e8062c35e447.md
 news_rss_url: https://www.filcommsea.org/blog-feed.xml
 title: Filipino Community of Seattle
 topic_titles:

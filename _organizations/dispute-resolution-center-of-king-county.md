@@ -1,5 +1,6 @@
 ---
 acronym: KCDRC
+chio_website_id: _websites/019c5dc1-ce62-779d-9634-cf92e8c8e418.md
 email: jadab@kcdrc.org
 events_ical_url: https://kcdrc.org/events/?ical=1
 news_rss_url: https://kcdrc.org/feed/

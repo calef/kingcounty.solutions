@@ -1,6 +1,7 @@
 ---
 acronym: EACS
 address: 7050 32nd Ave, S., Seattle, WA 98118
+chio_website_id: _websites/019c5dc2-782f-7b01-ad00-b66102e3884e.md
 email: info@eastafricancs.org
 news_rss_url: https://www.eastafricancs.org/feed/
 phone: "(206) 721-1119"

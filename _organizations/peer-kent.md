@@ -1,5 +1,6 @@
 ---
 address: 216 W Gowe St, STE 300, Kent, WA 98032
+chio_website_id: _websites/019c5dc2-d353-7a7f-856b-6aae37622078.md
 email: sarah@peerkent.org
 news_rss_url: https://www.peerkent.org/blog-feed.xml
 parent_organization_title: Peer Washington

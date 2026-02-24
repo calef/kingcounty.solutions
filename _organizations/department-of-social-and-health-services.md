@@ -1,5 +1,6 @@
 ---
 acronym: DSHS
+chio_website_id: _websites/019c5dc2-7587-7ff2-b3c1-524b20d0653e.md
 parent_organization_title: State Executive Branch
 title: Department of Social and Health Services
 topic_titles:

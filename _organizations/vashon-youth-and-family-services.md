@@ -1,5 +1,6 @@
 ---
 acronym: VYFS
+chio_website_id: _websites/019c5dc2-2fe4-7dd0-be60-0a36098aa043.md
 email: vkadmin@vyfs.org
 phone: 206-463-5511
 title: Vashon Youth and Family Services

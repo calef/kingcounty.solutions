@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-4613-72b4-813f-cb403d260190.md
 events_ical_url: https://ballardseniorcenter.org/events/?ical=1
 news_rss_url: https://ballardseniorcenter.org/feed/
 title: Ballard Northwest Senior Center

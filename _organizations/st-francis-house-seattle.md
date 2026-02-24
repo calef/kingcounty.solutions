@@ -1,5 +1,6 @@
 ---
 address: 169 12th Ave, Seattle, WA 98122
+chio_website_id: _websites/019c5dc3-0c11-74fc-99a7-bc874ff5ce53.md
 email: info@stfrancishouseseattle.org
 phone: 206-268-0784
 title: St. Francis House Seattle

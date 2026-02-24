@@ -1,5 +1,6 @@
 ---
 acronym: CHA
+chio_website_id: _websites/019c5dc2-6686-7625-a7ed-ce8088045017.md
 news_rss_url: https://www.compasshousingalliance.org/feed/
 phone: "(206) 719-4352"
 title: Compass Housing Alliance

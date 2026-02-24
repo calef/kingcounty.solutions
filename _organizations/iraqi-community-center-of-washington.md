@@ -1,6 +1,7 @@
 ---
 acronym: IRCCW
 address: '24401 104th Ave SE #102, Kent, WA 98030'
+chio_website_id: _websites/019c5dc2-9ba8-793d-80ff-2064f2c0f88c.md
 email: info@irccw.org
 news_rss_url: https://www.irccw.org/blog-feed.xml
 phone: "(253)-243-774"

@@ -1,6 +1,7 @@
 ---
 acronym: LSC
-parent_organization_title: Federal Executive Branch
+chio_website_id: _websites/019c5dc2-b125-7086-bcf9-6ecb5d294184.md
+parent_organization_title: United States Federal Government
 title: Legal Services Corporation
 topic_titles:
 - Domestic Violence

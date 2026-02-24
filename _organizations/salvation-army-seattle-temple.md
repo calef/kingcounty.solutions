@@ -1,5 +1,6 @@
 ---
 address: 9501 Greenwood Avenue N, Seattle, WA 98103
+chio_website_id: _websites/019c5dc2-0d59-7738-86e4-efcb2d8c9746.md
 email: steve.pavlakis@usw.salvationarmy.org
 phone: 206-783-1225
 title: The Salvation Army Seattle Temple Corps

@@ -1,5 +1,6 @@
 ---
 acronym: TIPS
+chio_website_id: _websites/019c5dc3-1184-77a5-9f57-ecc0dcb97a5e.md
 news_rss_url: https://teensinpublicservice.org/tips-blog?format=rss
 title: Teens In Public Service
 topic_titles:

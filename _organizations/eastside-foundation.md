@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc1-ae2f-7106-91f4-dda817fd01ba.md
 news_rss_url: https://eastside-foundation.org/feed/
 title: Eastside Foundation
 topic_titles:

@@ -1,5 +1,6 @@
 ---
 address: 909 Fourth Ave, Seattle, WA 98104
+chio_website_id: _websites/019c5dc2-f3b8-7c3b-8d42-b3ec335186e0.md
 phone: 206-382-5022
 title: YMCA of Greater Seattle
 topic_titles:

@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-8d6a-76de-9891-d364e643f1ee.md
 news_rss_url: https://humanresources.highline.edu/feed/
 phone: 206-592-3000
 title: Highline College

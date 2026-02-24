@@ -1,6 +1,7 @@
 ---
 acronym: CHNW
 address: 1111 Third Ave Suite 400, Seattle, WA 98101
+chio_website_id: _websites/019c5dc1-a3f0-7cda-81e8-694ae6ca070b.md
 email: info@chnw.chpw.org
 news_rss_url: https://chnw.chpw.org/feed/
 phone: 1-866-907-1906

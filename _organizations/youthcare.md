@@ -1,5 +1,6 @@
 ---
 acronym: YC
+chio_website_id: _websites/019c5dc3-3065-7336-8044-83c225b91464.md
 events_ical_url: https://youthcare.org/events/?ical=1
 news_rss_url: https://youthcare.org/feed/
 phone: 800-495-7802

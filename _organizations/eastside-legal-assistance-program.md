@@ -1,6 +1,7 @@
 ---
 acronym: ELAP
 address: 10885 NE 4th St., Ste 710 (7th Floor), Bellevue, WA 98004
+chio_website_id: _websites/019c5dc1-b340-7544-a2cb-163b963dca68.md
 news_rss_url: https://elap.org/feed/
 title: Eastside Legal Assistance Program
 topic_titles:

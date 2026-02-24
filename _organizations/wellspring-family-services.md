@@ -1,5 +1,6 @@
 ---
 acronym: WFS
+chio_website_id: _websites/019c5dc2-3541-7d41-96f9-19542a3daad9.md
 email: donate@wellspringfs.org
 news_rss_url: https://wellspringfs.org/feed/
 phone: "(206) 787-8007"

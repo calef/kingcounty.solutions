@@ -1,5 +1,6 @@
 ---
 address: 804 9th Avenue, Seattle, WA 98104
+chio_website_id: _websites/019c5dc3-0cf5-7689-9ac3-4ba4ec06428f.md
 email: outreach@stjames-cathedral.org
 phone: 206-622-3559
 title: St. James Cathedral Social Outreach and Advocacy

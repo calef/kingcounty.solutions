@@ -1,6 +1,7 @@
 ---
 acronym: LL
 address: 3401 Rainier Avenue S, Suite A, Seattle, WA 98144
+chio_website_id: _websites/019c5dc1-da30-7879-a17b-4f6e4e513562.md
 email: enrollment@launchlearning.org
 news_rss_url: https://launchlearning.org/feed/
 phone: 206-726-7972

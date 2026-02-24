@@ -1,6 +1,7 @@
 ---
 acronym: KCRHA
 address: 400 Yesler Way, Suite 600, Seattle, WA 98104
+chio_website_id: _websites/019c5dc1-d0ec-7e06-a1fd-ce884f51ba5c.md
 email: info@kcrha.org
 news_rss_url: https://kcrha.org/feed/
 phone: "(206) 930-8846"

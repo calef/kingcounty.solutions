@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc1-d959-7f5d-a0c2-081b8ec95d90.md
 news_rss_url: https://lakesidemilam.com/feed/
 phone: "(800) 544-1211"
 title: Lakeside-Milam Recovery Centers
