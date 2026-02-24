@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc1-d29e-706c-a1e9-9b0956a42f8f.md
 events_ical_url: https://kidvantagenw.org/events/?ical=1
 news_rss_url: https://kidvantagenw.org/feed/
 title: KidVantage

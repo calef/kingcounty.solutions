@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-05T23:02:16+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <a href="https://wscenter.org/holiday-closure/"><p>We want to let our members know that we will be closed at the end of the month for a holiday break. Please mark your calendar!</p>
 

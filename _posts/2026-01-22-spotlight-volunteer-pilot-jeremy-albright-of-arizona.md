@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: '0998e5572a1ab355dca15a3ebdb8f5c85992873d8e83d3168e204c903a6a950f'
 date: '2026-01-22T17:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://angelflightwest.org/wp-content/uploads/2026/01/mission_photo_2025-12-02_Creighton_Albright_12930-1024x768.jpg"></figure>
 

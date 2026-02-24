@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-06T17:56:32+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Police arrest man following a stabbing early Tuesday morning in Capitol
   Hill neighborhood. At 5:01 a.m., dispatchers received reports of a stabbing near
   East Pike Street and 10th Avenue. Officers arrived and found a 30-year-old man with

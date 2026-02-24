@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: cc5320d4f06680cc805b4fb8584887190db4ab85d4720cb0dbe66c17e54a5e18
 date: '2026-01-24T02:34:04+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span>Expect travel delays during construction on Lake Hills Boulevard</span>\n<span><span>CIosso</span></span>\n<span><time>Fri,
   01/23/2026 - 18:34</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<article>\n
   \ \n        <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2026-01/uti-26-kelseycreekculvert.jpeg?h=76db62c6&amp;itok=-4z4feiW\">\n\n\n</div>\n

@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-11-18T22:27:36+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-grand-opening-of-amani-and-nia.md
+- _events/2026-02-19-groundbreaking-for-luca-and-cielo.md
+events_extracted: true
 feed_content: |-
   <p><!--StartFragment --></p>
   <p><strong><span class="cf0">The event also marked the groundbreaking of two additional buildings, creating another 184 affordable apartment homes</span></strong></p>

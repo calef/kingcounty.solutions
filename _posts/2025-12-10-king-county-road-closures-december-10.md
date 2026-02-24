@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-10T19:58:35+00:00'
 event_ids: []
+events_extracted: true
 feed_content: As of Wednesday morning, December 10, multiple roads are closed throughout
   Snoqualmie Valley, Skykomish, southeast King County, and in the cities. They are
   closed due to water over the roadway, debris on the road, or slides. For all road

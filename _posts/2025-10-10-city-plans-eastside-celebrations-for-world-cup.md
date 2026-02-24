@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-10-10T20:08:56+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-22-world-cup-celebration-planning-meeting.md
+- _events/2026-06-01-world-cup-activations.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   plans Eastside celebrations for World Cup</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-08T17:08:06+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-24-services-for-tribal-elder-karen-boney.md
+events_extracted: true
 feed_content: |-
   <p><span> Services will be held for</span></p>
   <h2><span>Tribal Elder Karen Boney</span></h2>

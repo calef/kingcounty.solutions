@@ -1,5 +1,6 @@
 ---
 address: 131 Steuart Street, Suite 202, San Francisco, CA 94105
+chio_website_id: _websites/019c5dc2-9f46-7c97-b971-cb90a70fd129.md
 email: meganh@juma.org
 events_ical_url: https://www.juma.org/events/?ical=1
 news_rss_url: https://www.juma.org/feed/

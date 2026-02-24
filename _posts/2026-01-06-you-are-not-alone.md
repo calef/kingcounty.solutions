@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-06T00:57:54-08:00'
 event_ids: []
+events_extracted: true
 feed_content: This season reminds us of a profound truth: we are not alone. At Christmas,
   we celebrate that God became flesh and chose to dwell among us, to step into our
   broken world and meet us in our suffering. The God of all creation did not remain

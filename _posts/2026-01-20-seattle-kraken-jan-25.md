@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-01-20T17:45:44+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-25-seattle-kraken-vs-new-jersey-devils.md
+- _events/2024-01-25-nfc-championship-game.md
+events_extracted: true
 feed_content: With the Seahawks hosting the NFC Championship game at Lumen Field next
   Sunday, Jan. 25 at 3:30 p.m., the Kraken vs. New Jersey Devils game has been moved
   up one hour to a 12 p.m. start time.

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-21T19:42:51+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-13-wrinkles-in-time.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/01/Wrinkle-in-Time-26-4-791x1024.png"></figure>
 

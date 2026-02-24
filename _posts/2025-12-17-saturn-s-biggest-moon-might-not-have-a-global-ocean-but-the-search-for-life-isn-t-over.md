@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-17T16:03:48+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <div>
   <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/12/16121125/TitanStarurn-750x596.jpg">

@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: aee6875d44351df349cf683ae2247275a776757d4b169cd451539d7f775f5316
 date: '2026-02-02T17:44:52+00:00'
-event_ids: []
+event_ids:
+- _events/2023-01-25-wednesday-night-dinner.md
+events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Grilled Chicken &amp; Spinach Salad, Rolls, Soup &amp; Fruit </p>
 

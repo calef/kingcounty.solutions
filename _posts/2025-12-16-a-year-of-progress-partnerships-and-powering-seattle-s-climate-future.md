@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-16T20:37:02+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Share OSE’s 2025 Wrapped series on social media:  From embarking on
   a new update to Seattle’s Climate Action Plan to investing millions into community
   organizations to reduce pollution and serving communities hit first and worst by

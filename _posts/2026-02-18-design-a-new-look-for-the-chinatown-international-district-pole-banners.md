@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2026-02-18T00:17:38+00:00'
-event_ids: []
+event_ids:
+- _events/2024-03-13-design-contest-for-new-pole-banners.md
+- _events/2024-03-18-community-voting-for-banner-designs.md
+- _events/2024-04-01-announcement-of-contest-winners.md
+events_extracted: true
 feed_content: 'Blog stats: 700 words | 4-minute read Additional Languages: Calling
   all local artists! Show your talent by entering the design contest for new pole
   banners in the Chinatown-International District (CID). This is your chance to showcase

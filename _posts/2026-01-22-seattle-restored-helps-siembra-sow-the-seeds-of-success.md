@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-22T17:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: When it came to building his business, Alex Dorros found his biggest
   challenge was finding affordable kitchen space. He even had to put his business
   Siembra, which sells Peruvian and Columbian food, on hold at one point because he

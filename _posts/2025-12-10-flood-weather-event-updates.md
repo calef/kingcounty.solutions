@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-10T00:37:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/Weather%20Update%20graphic.png">
 feed_content_checksum: c9ca033a33c7440819e15d91b35a7a158b19358f
 image_checksums: []

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-05T21:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2 class="wp-block-heading">Explore what VA can offer you today</h2>
 

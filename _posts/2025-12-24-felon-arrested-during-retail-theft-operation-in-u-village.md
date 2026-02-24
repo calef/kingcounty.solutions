@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-24T19:29:35+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police officers arrested a 28-year-old felon and two other shoplifters
   during a Retail Theft Operation in the University Village shopping center yesterday
   evening. On Dec. 23 at about 7:15 p.m., patrol officers conducting the operation

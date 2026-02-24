@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-13T19:22:11+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-15-winter-wonderland-acrylic-painting-workshop.md
+events_extracted: true
 feed_content: |-
   <p>Local artist Laura Brewer will lead you step-by-step through the process of painting your version of a winter wonderland scene. This class is in partnership with ShoreLake Arts. Call the Reception Desk to register.</p>
 

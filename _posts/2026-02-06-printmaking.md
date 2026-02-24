@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 17117b36d4fa387818e6fe395ad6d2e08104df802760cab9091e1072419842cf
 date: '2026-02-06T17:58:21+00:00'
-event_ids: []
+event_ids:
+- _events/2024-03-27-hands-on-printmaking-class.md
+events_extracted: true
 feed_content: |-
   <p>Join instructor Nataliya Zigelboym to learn about the history of printmaking, tools, and techniques. We will make the  artworks inspired by the Pacific North West flora. Additionally, each participant will create their own stamp. This is a hands-on class. All the materials provided, no previous experience required. </p>
 

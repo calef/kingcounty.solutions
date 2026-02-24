@@ -1,5 +1,6 @@
 ---
 acronym: UW
+chio_website_id: _websites/019c5dc3-2bd8-73b4-a2ac-99b6b073c208.md
 events_ical_url: https://www.trumba.com/calendars/sea_campus.ics
 news_rss_url: https://www.washington.edu/news/feed/
 title: University of Washington

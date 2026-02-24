@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-10T16:31:28+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-25-residential-permitting-expo.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Explore
   Bellevue’s permitting process at free expo</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

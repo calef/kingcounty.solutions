@@ -1,5 +1,6 @@
 ---
 address: 12509 27th Ave NE, Seattle, WA 98125
+chio_website_id: _websites/019c5dc1-d883-7ac6-9aea-f41c8f8a9ba2.md
 email: lakecityseniors@soundgenerations.org
 news_rss_url: https://lakecityseniors.org/feed/
 parent_organization_title: Sound Generations

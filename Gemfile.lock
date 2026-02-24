@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/calef/chio.git
-  revision: 24cad55da958d76e5e7fea42044319a198b65a0d
+  revision: 4a59381687bd3e09394df2c50ffe49562868e364
   specs:
-    chio (0.1.18)
+    chio (0.1.20)
       base64
       fmrepo
       mini_magick
@@ -17,9 +17,9 @@ GIT
 
 GIT
   remote: https://github.com/calef/hemingway.git
-  revision: 0f0afe0193c4b53109e7ecffa724137b2ff88db8
+  revision: feb9b3d9f151971777792c8698d5487e74d499d5
   specs:
-    hemingway (0.1.0)
+    hemingway (0.2.1)
       base64
       chio
       fmrepo
@@ -178,7 +178,7 @@ GEM
     parallel (1.27.0)
     parallel_tests (5.6.0)
       parallel
-    parser (3.3.10.1)
+    parser (3.3.10.2)
       ast (~> 2.4.1)
       racc
     pathutil (0.16.2)
@@ -232,7 +232,7 @@ GEM
     rubocop-ast (1.49.0)
       parser (>= 3.3.7.2)
       prism (~> 1.7)
-    rubocop-minitest (0.38.2)
+    rubocop-minitest (0.39.1)
       lint_roller (~> 1.1)
       rubocop (>= 1.75.0, < 2.0)
       rubocop-ast (>= 1.38.0, < 2.0)
@@ -310,4 +310,4 @@ DEPENDENCIES
   yaml
 
 BUNDLED WITH
-  4.0.3
+  4.0.6

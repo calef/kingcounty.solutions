@@ -1,5 +1,6 @@
 ---
 address: 317 17th Ave S, Seattle, WA 98144
+chio_website_id: _websites/019c5dc0-8e5f-7a40-a6f3-b42fa6faaec2.md
 email: facilities@casa-latina.org
 news_rss_url: https://casa-latina.org/feed/
 phone: 206.686.2639

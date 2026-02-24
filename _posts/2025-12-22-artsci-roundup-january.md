@@ -1,7 +1,14 @@
 ---
 classified: true
 date: '2025-12-22T19:39:22+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-01-free-concert-featuring-uw-school-of-music-students.md
+- _events/2024-01-01-lecture-on-educational-challenges-faced-by-migrant-children-in-china.md
+- _events/2024-01-01-exhibition-spirit-house.md
+- _events/2024-01-01-online-lectures-on-the-impact-of-a-second-trump-administration-and-pan-africanism-in-technology.md
+- _events/2024-01-01-performance-by-tenor-karim-sulayman-and-pianist-leif-ove-andsnes.md
+- _events/2024-01-31-new-translation-of-chekhovs-the-seagull.md
+events_extracted: true
 feed_content: |-
   <p><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1.jpg"></p>
   <p><strong>Come curious. Leave inspired.</strong></p>

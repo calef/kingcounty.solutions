@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-09T18:00:26+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>“Happy” “New” “Year”?</p>
 

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-04T00:30:17+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><iframe title="UW&#039;s 2025 video storytelling highlights" width="750" height="422" src="https://www.youtube.com/embed/hbmOw5OL_e8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
   <p><a href="https://youtu.be/iWtCmkQ5D_M">Click here to watch an audio described version of this video.</a></p>

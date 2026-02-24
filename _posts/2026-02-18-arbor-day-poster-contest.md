@@ -1,7 +1,11 @@
 ---
 classified: true
+content_checksum: a095904140002432f6ba00da2fe48cfcc89e4ce41355f157d3906f6bba0b534d
 date: '2026-02-18T02:19:00+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-01-arbor-day-art-poster-contest.md
+- _events/2026-04-25-arbor-day-celebration.md
+events_extracted: true
 feed_content: '<div> <div> <header> <div> <div> <div> <div> <span>Select Page</span>
   </div> </div> </div> </div> </header> <div> <div> <div> <div> <div> <article> <div>
   <div> <div> <div> <div> <div> <div> <div><p>Parks and Recreation Department</p></div>

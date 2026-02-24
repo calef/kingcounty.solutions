@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-05T22:51:56+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle’s unreinforced masonry (URM) buildings are an essential part
   of the city’s architectural heritage, and they are also among the most vulnerable
   structures during an earthquake. Over the last several years, the Seattle Department

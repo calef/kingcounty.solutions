@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-11T18:17:50+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><strong>CONTACT</strong>: <a>Daniel DeMay</a>, 206-265-9197</p>
 

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-11T21:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-13-wreaths-across-america.md
+events_extracted: true
 feed_content: |-
   <h2>A day of remembrance, unity and lasting traditions</h2>
 

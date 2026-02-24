@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-18T19:36:18+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-01-special-event.md
+events_extracted: true
 feed_content: "<div>\n  \n      \n    <span>01/01/2026 (All day)</span>\n      </div>"
 feed_content_checksum: 12fd907c574e4e3b0d6008d22f679bd97977a2a4
 image_checksums: []

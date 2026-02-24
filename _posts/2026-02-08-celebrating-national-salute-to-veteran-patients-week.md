@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-08T19:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-08-national-salute-to-veteran-patients-week.md
+events_extracted: true
 feed_content: |-
   <h2>Honoring heroes through volunteerism</h2>
 

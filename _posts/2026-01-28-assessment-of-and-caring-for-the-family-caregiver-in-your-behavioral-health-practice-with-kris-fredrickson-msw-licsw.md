@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 1cfdd2f35ed232fbfe3dd928e4a794f1e8db1ff9464a578d0d9448efaa19eb29
 date: '2026-01-28T21:44:28+00:00'
 event_ids:
 - _events/2026-03-25-workshop-on-supporting-family-caregivers.md

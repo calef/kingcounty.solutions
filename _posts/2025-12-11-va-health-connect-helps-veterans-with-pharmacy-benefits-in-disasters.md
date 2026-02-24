@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-11T15:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2>Program can help provide medications to Veterans via local pharmacy</h2>
 

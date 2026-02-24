@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-16T17:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Most of us take time in December to reflect and look back at the last
   year and seek some form of closure. The Public Art Division may look back and reflect
   on how our year went, but our projects don’t follow a fiscal year or Gregorian calendar.

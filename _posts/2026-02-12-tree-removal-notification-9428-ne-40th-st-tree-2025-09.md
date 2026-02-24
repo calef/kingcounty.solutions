@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-12T21:07:55+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><img src="https://yarrowpointwa.gov/wp-content/uploads/2026/02/9428-Tree-Removal-Notice-Tree-2025-09.jpg"></p>
   <p><img src="https://yarrowpointwa.gov/wp-content/uploads/2026/02/Pages-from-2025.12.17_Arborist-Report_9428-NE-40th-St_Yarrow-Pt_SitePlan_ApprovedPermit.jpg"></p>

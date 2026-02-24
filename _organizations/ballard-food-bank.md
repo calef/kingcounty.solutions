@@ -1,5 +1,6 @@
 ---
 address: 1400 NW Leary Way, Seattle, WA 98107
+chio_website_id: _websites/019c5dc2-4530-7897-acd2-6c25a546b072.md
 email: info@ballardfoodbank.org
 news_rss_url: https://www.ballardfoodbank.org/home?format=rss
 phone: 206-789-7800

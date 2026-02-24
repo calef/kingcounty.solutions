@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-07T18:00:03+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <a><img src="https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/blind.jpg?fit=264%2C400&amp;ssl=1"></a>
   <a><img src="https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/salad.jpg?fit=309%2C400&amp;ssl=1"></a>

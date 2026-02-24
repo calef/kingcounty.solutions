@@ -1,6 +1,7 @@
 ---
 acronym: WCFS
 address: 2402 NW 195th Place, Shoreline, WA 98177
+chio_website_id: _websites/019c5dc2-39ac-7e3e-a51d-9ac02feb7fd5.md
 email: info@nullwonderlandkids.org
 news_rss_url: https://wonderlandkids.org/feed/
 phone: 206-364-3777

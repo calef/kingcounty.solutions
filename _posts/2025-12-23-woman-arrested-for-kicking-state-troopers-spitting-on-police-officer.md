@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-23T19:35:16+00:00'
 event_ids: []
+events_extracted: true
 feed_content: A 28-year-old woman is behind bars following her arrest last night after
   she assaulted two WA State troopers and a Seattle police officer in Tukwila, WA.
   On Dec. 22 at about 5:45p.m., patrol officers responded to 10805 Pacific Highway

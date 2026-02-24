@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-04T21:44:04+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<p><a>SEPA 2025-10 MDNS Posting Notice and Notice of Application</a></p>"
 feed_content_checksum: 2bf731026592d43a2b213b6e3e7320842dc6876e
 image_checksums: []

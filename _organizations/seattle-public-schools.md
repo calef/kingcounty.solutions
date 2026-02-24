@@ -1,5 +1,6 @@
 ---
 acronym: SPS
+chio_website_id: _websites/019c5dc2-f2d6-724e-ad71-7c897234b937.md
 news_rss_url: https://www.seattleschools.org/feed/
 parent_organization_title: Puget Sound Educational Service District 121
 title: Seattle Public Schools

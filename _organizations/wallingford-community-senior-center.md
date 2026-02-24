@@ -1,5 +1,6 @@
 ---
 acronym: WCSC
+chio_website_id: _websites/019c5dc3-29ff-73c2-b141-222199ca1766.md
 news_rss_url: https://wallingfordseniors.org/feed/
 title: Wallingford Community Senior Center
 topic_titles:

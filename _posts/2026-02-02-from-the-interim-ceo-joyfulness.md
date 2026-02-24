@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-02T15:27:40+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Over the past seven years, I have centered my leadership and way of living around joy. I committed that no matter what happened in my life or around me, I am intentional about tapping into and staying connected to joy. I value being able to lead from that place and spark inspiration in others, so that they work to find the same. The current climate of our country makes it terribly challenging…</p>
   <p><a>Source</a></p>

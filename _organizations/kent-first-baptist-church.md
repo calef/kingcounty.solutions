@@ -1,5 +1,6 @@
 ---
 address: 11420 SE 248th St, Kent, WA 98030
+chio_website_id: _websites/019c5dc2-a57e-76c2-b12b-3e83ed9a8042.md
 news_rss_url: https://www.kentfirstbaptist.org/feed/
 title: Kent First Baptist Church
 topic_titles:

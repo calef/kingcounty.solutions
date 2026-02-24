@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc1-d1c3-7955-9323-d5c7d6213f40.md
 news_rss_url: https://kentmethodist.com/welcome?format=rss
 phone: 253-852-0993
 title: Kent United Methodist Church Assistance

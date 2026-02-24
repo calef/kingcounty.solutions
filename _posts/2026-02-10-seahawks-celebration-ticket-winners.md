@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-10T23:58:57+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-10-seahawks-celebration.md
+events_extracted: true
 feed_content: |-
   <p>The following Tribal Members will receive tickets to the suite during the Seahawks Celebration on Wednesday, February 11, 2026.</p>
   <p> </p>

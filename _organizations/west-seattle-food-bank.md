@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-3622-7bb5-b31b-43dce8cccd0a.md
 news_rss_url: https://westseattlefoodbank.org/feed/
 phone: 206-932-9023
 title: West Seattle Food Bank

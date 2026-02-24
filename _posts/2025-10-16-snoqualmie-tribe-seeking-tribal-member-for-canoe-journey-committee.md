@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-16T17:52:17+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "The Canoe Journey Committee will assist in the planning and execution
   for the annual Inter-Tribal Canoe Journey that takes place at varying hosting tribe
   locations each summer. Preparation for this event is year-round. A Committee Member

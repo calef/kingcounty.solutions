@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-07T18:14:07+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Two men were stabbed during a robbery early Wednesday morning in First
   Hill’s Freeway Park. At 6:30 a.m., dispatchers received reports of two victims stabbed
   in Freeway Park underpass near University Street and Hubbell Place. Officers arrived

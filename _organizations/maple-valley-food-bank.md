@@ -1,5 +1,6 @@
 ---
 address: 21415 Renton Maple Valley Rd SE, Maple Valley, WA 98038
+chio_website_id: _websites/019c5dc1-e01a-742c-bd4d-ef66eaed8183.md
 email: info@maplevalleyfoodbank.org
 events_ical_url: https://www.maplevalleyfoodbank.org/events/?ical=1
 news_rss_url: https://www.maplevalleyfoodbank.org/feed/

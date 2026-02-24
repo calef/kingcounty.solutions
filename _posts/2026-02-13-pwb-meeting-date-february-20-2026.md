@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 7b268617684d41563d0b36f7480c3be69304f30e9c9e04660a9e489dfbdd2898
 date: '2026-02-13T23:40:35+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-20-public-works-board-meeting.md
+events_extracted: true
 feed_content: |-
   <p>The Public Works Board’s next meeting is on February 20, 2026 from 8:30 a.m. – 12:30 p.m. This is a hybrid meeting with online Zoom and in-person participation options.</p>
 

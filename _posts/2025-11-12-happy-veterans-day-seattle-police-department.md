@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-12T01:30:16+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Today, we take time to honor the brave men and women who have served
   our country in uniform. To those of you who are veterans — and who continue to serve
   our community with the same integrity, dedication, honor, and courage — thank you.

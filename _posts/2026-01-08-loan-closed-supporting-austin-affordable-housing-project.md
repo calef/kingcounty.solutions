@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-08T17:23:52+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><!--StartFragment --></p>
   <p><span>In December, MCC financed Waverly North with a two</span><span>‑</span><span>note loan supporting 76 new LIHTC units affordable at 30</span><span>–80% AMI.</span><span> Located in Austin’s District 9, t</span><span>he development blends the restoration of two historic buildings with the construction of a new three</span><span>‑</span><span>story residential building. Backed by our Capital Magnet Funds award, MCC’s structure delivers comprehensive financing from predevelopment through permanent loan. The project’s walkable, transit</span><span>‑</span><span>oriented location offers residents easy access to daily essentials and community amenities.</span></p>

@@ -1,6 +1,7 @@
 ---
 acronym: SHAG
 address: 9240 2nd Ave SW, Suite 200, Seattle, WA 98106
+chio_website_id: _websites/019c5dc2-93a5-766c-9530-ab49b1556e45.md
 news_rss_url: https://housing4seniors.com/feed/
 phone: 844-592-SHAG (7424)
 title: SHAG Senior Living

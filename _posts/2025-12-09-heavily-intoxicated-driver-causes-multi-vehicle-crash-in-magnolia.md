@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-09T01:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police arrested a 25-year-old man for Driving Under the Influence
   (DUI) and Reckless Driving after he crashed into two cars in the Magnolia neighborhood
   Saturday night. On Dec. 6 at about 11:40 p.m., patrol officers responded to a vehicle

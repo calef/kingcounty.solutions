@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-13T16:37:17-08:00'
-event_ids: []
+event_ids:
+- _events/2026-01-13-utility-board-regular-meeting.md
+events_extracted: true
 feed_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><span><span><span>Notice is hereby given that the Utility Board Regular Meetings of November 11 and December 9,  2025, are canceled. The Utility Board meets on the <strong>second Tuesday of each month at 5:00 pm. </strong>The next Regular Meeting is scheduled for January 13, 2026.</span></span></span></p>
   <p> </p>

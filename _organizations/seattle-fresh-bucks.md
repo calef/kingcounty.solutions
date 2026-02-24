@@ -1,5 +1,6 @@
 ---
 address: PO Box 94729, Seattle, WA 98124
+chio_website_id: _websites/019c5dc2-f02a-7425-aa33-63289a908930.md
 email: freshbucks@seattle.gov
 news_rss_url: https://www.seattlefreshbucks.org/feed/
 parent_organization_title: City of Seattle

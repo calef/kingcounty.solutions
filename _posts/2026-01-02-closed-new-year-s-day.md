@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: d2fe6635f6157a9ea8960f8ff886a31fd29ccd0f922db8f01c5c37b2f3685196
 date: '2026-01-02T17:42:28+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Husky Health is closed on Wednesday, December 31 beginning at 3:00pm and all of Thursday, January 1st, 2026 in observance of New Year’s Day. See you next year!</p>
   <p><a>Source</a></p>

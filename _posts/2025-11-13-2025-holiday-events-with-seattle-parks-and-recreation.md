@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-11-13T18:53:57+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-05-community-holiday-party.md
+- _events/2023-12-06-winter-tot-carnival.md
+- _events/2023-12-13-pathway-of-lights.md
+events_extracted: true
 feed_content: The holiday season is upon us, and Seattle is buzzing with festive FREE
   or LOW-COST events for all ages! From community center celebrations to magical park
   experiences, there’s something for everyone to enjoy. Check out the lineup of activities

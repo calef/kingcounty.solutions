@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-02-12T18:25:39+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-floral-design-workshops.md
+- _events/2026-02-19-rmc-floral-designs-pop-up-shop.md
+events_extracted: true
 feed_content: Valentine’s Day is a busy time for Rosa María Cisneros Andrade. As the
   owner of RMC Floral Designs, she’s preparing for lots of orders. “Oh my gosh! I’m
   busy here with lots of red roses, white roses, plant, orchids, balloons, cards,

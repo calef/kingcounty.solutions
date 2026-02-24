@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-11T18:00:19+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Happy Lunar New Year! February 17th marks the start of the Year of the Horse and kicks off dayslong festivities in different communities. Everyone has their own cultural and familial traditions when it comes to celebrating this time of year, and what better way to celebrate anything than with food?</p>
 

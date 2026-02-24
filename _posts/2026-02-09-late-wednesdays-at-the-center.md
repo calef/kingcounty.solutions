@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-09T16:43:57+00:00'
-event_ids: []
+event_ids:
+- _events/2024-03-01-late-wednesdays.md
+events_extracted: true
 feed_content: |-
   <a><p>Something new is brewing on Wednesday afternoons at The Center! </p>
 

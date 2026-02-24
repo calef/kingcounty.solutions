@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-05T14:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>As a Veteran or service member, your <a>VA home loan</a> is one of the most powerful benefits you’ve earned. If you have a VA home loan, you have probably received unsolicited offers to refinance your mortgage that may sound too good to be true.</p>
 

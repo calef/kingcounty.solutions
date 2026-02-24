@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-13T17:54:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Lately, I’ve been running across books that instruct by example how to eke out survival while making a comfortable home. Cozy survival, if you will. In January, my apartment had a gas leak that caused a lapse in hot water and heating. Winter suddenly became very wintry. Luckily, I felt more prepared to weather the discomfort graciously after reading several books that center on cozy survival.</p>
   <p>A subgenre that cropped up several times in my January reading is that of fiercely independent Scandinavian women living on islands, navigating the tension and crucial cooperation between the natural world and their human communities. Tove Jansson is the GOAT in this category. Her novel <strong><a>The Summer Book</a> </strong>is a beautiful (and funny) portrait of a relationship between grandmother and child and the seasonal cycles that govern life on a tiny island off the coast of Finland.</p>

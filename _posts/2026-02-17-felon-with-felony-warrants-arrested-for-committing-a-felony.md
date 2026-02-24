@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-17T09:40:33+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police officers arrested a 48-year-old felon with active felony
   warrants after breaking into a safe with a crowbar, taking a gun, and running from
   the cops. On Feb.16, at about 1:50 p.m., patrol officers responded to a weapons

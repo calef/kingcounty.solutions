@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-12-27T05:22:17+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-03-joint-services-for-tribal-elder-mary-anne-hinzman-and-tribal-member-kara-ann-hinzman.md
+- _events/2026-01-03-lunch-and-celebration.md
+events_extracted: true
 feed_content: |-
   <p><span>Joint Services will be held for</span></p>
   <h2><span>Tribal Elder Mary Anne Hinzman</span></h2>

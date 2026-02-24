@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 3a2a61962d7f10afd68cfc133d729245456f7f45b2f46e59dc79667d9f533aae
 date: '2025-12-04T19:24:11+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>By Steven Schauer, Deputy Executive Director</p>
 

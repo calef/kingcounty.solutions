@@ -1,6 +1,7 @@
 ---
 acronym: WCB
 address: 2117 O Ave, Anacortes, WA 98221-2567
+chio_website_id: _websites/019c5dc2-3294-7bca-b763-303bc16051dc.md
 email: treasurerWCB@gmail.com
 news_rss_url: https://wcbinfo.org/feed/
 parent_organization_title: American Council of the Blind

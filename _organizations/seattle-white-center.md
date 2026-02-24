@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc2-0e33-7042-975b-5490dae13422.md
 parent_organization_title: The Salvation Army
 title: Seattle White Center
 topic_titles:

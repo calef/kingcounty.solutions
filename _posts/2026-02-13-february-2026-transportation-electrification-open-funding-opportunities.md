@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 06dcddd56aaa90c5f515e20edfa6631556794c2c82ba2ef673ec480c8ac5d555
 date: '2026-02-13T19:14:23+00:00'
 event_ids:
 - _events/2026-04-23-zero-emission-school-bus-and-fleet-transition-grant-program-application-deadline.md

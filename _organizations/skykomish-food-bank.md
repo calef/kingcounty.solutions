@@ -1,5 +1,6 @@
 ---
 acronym: SFB
+chio_website_id: _websites/019c5dc2-fcbe-74b6-a971-2ea451465643.md
 news_rss_url: https://skykomishfoodbank.org/feed
 title: Skykomish Food Bank
 topic_titles:

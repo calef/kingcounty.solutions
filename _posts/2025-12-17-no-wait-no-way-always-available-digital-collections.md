@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-17T20:13:34+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>One of the library’s best kept secrets is our collection of always available digital books and audiobooks. They can be checked out simultaneously, and checkouts are unlimited. Perfect for book groups or reconnecting with a personal favorite, these collections provide 24/7 access to timeless classics alongside brand new releases.</p>
   <p>The library just added <strong>“<a>Mysteries and Thrillers Without the Wait</a>,” </strong>a collection of nearly 500 mystery and suspense ebooks. From cozy corners of the English countryside to high-stakes legal showdowns, this collection has something for every fan of the genre. Stick with a classic from authors such as Margery Allingham, Agatha Christie, John Dickson Carr, Graham Greene, Ruth Rendell, and Anne Perry, or discovery something new.</p>

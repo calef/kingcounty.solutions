@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-12T19:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <h2>Revolutionizing care</h2>
 

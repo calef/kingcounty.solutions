@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-12T05:04:55+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Hello, This message is for residents and businesses near S. 277th St.
   and Auburn Way North. Due to flooding at the gas station at S. 277th St. and Auburn
   Way North, fuel entered floodwater in the area. A licensed contractor is actively

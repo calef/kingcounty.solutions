@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-04T20:53:53+00:00'
 event_ids: []
+events_extracted: true
 feed_content: When the call came that Seattle Restored had an opening in its new commercial
   kitchen space in Lake City, Jonathan Hudson said it was “a no brainer.” “It was
   the perfect timing,” said Hudson, owner of Mama Row’s Caramel. “It opened up a lot

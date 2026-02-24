@@ -1,4 +1,5 @@
 ---
+chio_website_id: _websites/019c5dc1-c88f-7b25-b011-af583dd0e819.md
 email: sponsorships@inatai.org
 news_rss_url: https://inatai.org/feed/
 title: Inatai Foundation

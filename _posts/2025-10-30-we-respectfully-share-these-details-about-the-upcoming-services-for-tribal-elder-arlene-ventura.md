@@ -1,7 +1,12 @@
 ---
 classified: true
 date: '2025-10-30T23:03:50+00:00'
-event_ids: []
+event_ids:
+- _events/2023-11-05-viewing-and-memorial-tribute-for-arlene-ventura.md
+- _events/2023-11-06-funeral-service-for-arlene-ventura.md
+- _events/2023-11-06-graveside-service-for-arlene-ventura.md
+- _events/2023-11-06-community-meal-and-remembrance-program-for-arlene-ventura.md
+events_extracted: true
 feed_content: "Service Details for Arlene Ventura\n\nWednesday, November 5th  \nFlintoft’s
   Funeral Home Issaquah, WA  \n4pm-7pm Viewing  \n5pm-Memorial Tribute Speaking will
   be open\n\nThursday, November 6th  \n10am Funeral Service, Snoqualmie Casino & Hotel

@@ -1,5 +1,6 @@
 ---
 address: 4634 E Marginal Way S, Suite C200, Seattle, WA 98134
+chio_website_id: _websites/019c5dc2-ae7f-7362-b72e-9b03f49a6749.md
 email: info@lifelong.org
 news_rss_url: https://www.lifelong.org/home?format=rss
 phone: 206-957-1600

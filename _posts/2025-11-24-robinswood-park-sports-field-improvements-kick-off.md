@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 013434e6d2bedfea5658686fed7a78049904f5d477ae004cd4045a7594bf5d5c
 date: '2025-11-24T17:25:47+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Robinswood
   Park sports field improvements kick off</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/lmilstead\"

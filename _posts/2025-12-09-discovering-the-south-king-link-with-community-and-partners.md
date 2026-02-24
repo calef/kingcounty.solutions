@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-09T15:00:00-08:00'
-event_ids: []
+event_ids:
+- _events/2023-12-06-1-line-extension-opening-day.md
+events_extracted: true
 feed_content: |-
   <div>
   <p>The opening day celebration for the 1 Line extension to Federal Way on Saturday, Dec. 6, was a full-day event!</p>

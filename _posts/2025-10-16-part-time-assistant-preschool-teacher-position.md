@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-16T21:44:41+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The City of Normandy Park is looking for an experienced early childhood
   instructor to teach our PRE-K Class. The head teacher is responsible for planning,
   presenting...

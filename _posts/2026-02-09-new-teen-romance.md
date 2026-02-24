@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-09T18:00:01+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><span>Romance sells a lot of books, especially around Valentine’s Day. Here are some of the best new teen romance titles released in the past year.  </span><span> </span></p>
   <p><span>In Trung Le Nguyen’s latest graphic novel <a><strong>Angelica and the Bear Princ</strong>e</a>, Angelica is grieving and dealing with burnout. When she receives messages of support from a bear, or rather, the person performing as the theater mascot, she gets a job at the theater to learn who is the person behind the mask. GN</span></p>

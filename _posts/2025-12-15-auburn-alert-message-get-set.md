@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-15T01:32:47+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The City of Auburn Emergency Management issued a Level 2 (Get Set) notice
   on Sunday, December 14 for residents on the west side of Green River, south of 24th
   St. NE east of M St. NE and north of 4th St. NE and surrounding neighborhoods. And,

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-09-22T17:28:18+00:00'
 event_ids: []
+events_extracted: true
 feed_content: '<p class="">Recipe shared in partnership with <a href="https://thepantryseattle.com/"
   target="_blank">the Pantry</a>.&nbsp;</p><p class="">Recipe adapted from Marie Rutherford</p><p
   class="">Yield: 4 servings </p><p data-rte-preserve-empty="true" class=""></p><h3>Ingredients

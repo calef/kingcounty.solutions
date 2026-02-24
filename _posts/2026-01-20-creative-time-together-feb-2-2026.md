@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-20T22:06:58+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-02-creative-time-together.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/01/Creative-Time-Together-26-1-791x1024.png"></figure>
 

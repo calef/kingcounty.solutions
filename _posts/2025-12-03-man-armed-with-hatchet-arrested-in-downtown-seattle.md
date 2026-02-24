@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-03T19:59:12+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police officers arrested a 33-year-old man, armed with a knife
   and a hatchet, in possession of Meth and Cocaine in Downtown Seattle last night.
   On Dec. 2, at about 6:20 p.m., officers proactively patrolling an alleyway behind

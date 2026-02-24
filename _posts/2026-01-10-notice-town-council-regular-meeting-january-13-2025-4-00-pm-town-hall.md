@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-10T01:00:10+00:00'
-event_ids: []
+event_ids:
+- _events/2025-01-13-town-council-regular-meeting.md
+events_extracted: true
 feed_content: |-
   <p><a>COMPLETE-PACKET</a></p>
   <p>Please join us for Tuesday night’s Town Council meeting.</p>

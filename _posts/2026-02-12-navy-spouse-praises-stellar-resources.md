@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 991cc4d16bcb905ad984fed6db1d809e4ee54fe8066ddaf1b8f7dcbe34b059a2
 date: '2026-02-12T14:00:00+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-operation-homefront-star-spangled-babies-shower.md
+events_extracted: true
 feed_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong> Navy Spouse Praises Stellar Resources at Star-Spangled Babies Shower</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 

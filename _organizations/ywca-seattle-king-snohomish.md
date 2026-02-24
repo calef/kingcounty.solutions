@@ -1,5 +1,6 @@
 ---
 address: 1118 Fifth Ave, Seattle, WA 98101
+chio_website_id: _websites/019c5dc3-3235-7fcf-af62-2a0f834e21d9.md
 phone: 206-461-4888
 title: YWCA Seattle | King | Snohomish
 topic_titles:

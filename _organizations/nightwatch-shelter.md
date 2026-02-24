@@ -1,5 +1,6 @@
 ---
 address: 302 14th Ave S, Seattle, WA 98144
+chio_website_id: _websites/019c5dc2-f1f1-73ec-b3b2-8c9a1dcdbd80.md
 email: info@seattlenightwatch.org
 news_rss_url: https://www.seattlenightwatch.org/feed/
 phone: 206-323-4359

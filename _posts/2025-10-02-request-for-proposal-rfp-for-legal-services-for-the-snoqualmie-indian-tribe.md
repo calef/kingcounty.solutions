@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-02T21:50:56+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "The Tribe seeks to retain the services of an experienced law firm to
   provide legal services for a three-year term.\n\nThe successful respondent will,
   in accordance with the highest legal, ethical and professional standards, at the

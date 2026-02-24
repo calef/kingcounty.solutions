@@ -2,6 +2,7 @@
 classified: true
 date: '2025-09-30T15:50:23+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   One year ago, Engine 338 and Aid 331 responded to an unforgettable call along Highway 167. A mother en route to the hospital found herself welcoming her baby boy sooner than expected. Our crews were happy to assist and welcome him safely into the world, where King County Medics then transported baby and mom to the hospital.
 

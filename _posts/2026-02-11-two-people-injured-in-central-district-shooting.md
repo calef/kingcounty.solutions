@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-11T01:07:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police detectives are investigating a shooting that injured
   two people in the Central District this afternoon.  At about 2:45 p.m., patrol officers
   responded to a shooting in the 2000 block of South Jackson Street. There, they found

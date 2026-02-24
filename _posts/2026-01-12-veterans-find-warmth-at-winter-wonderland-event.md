@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-12T15:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-01-winter-wonderland-holiday-event.md
+events_extracted: true
 feed_content: |-
   <h2>A festive day of fun, connection, and holiday spirit</h2>
 

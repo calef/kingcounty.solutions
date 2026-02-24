@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-22T19:50:12+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Today we are pleased to release an Updated 2020-2032 Strategic Plan—our
   vision for a healthy, thriving, and vibrant park and recreation system—as well as
   a new 2025-2028 Action Plan. Check them out here.  Updated 2020-2032 Strategic Plan 

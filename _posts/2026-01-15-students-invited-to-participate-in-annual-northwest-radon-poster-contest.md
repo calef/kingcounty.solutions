@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-01-15T19:03:42+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-01-2026-northwest-radon-poster-contest.md
+- _events/2026-03-31-winners-announcement-for-2026-northwest-radon-poster-contest.md
+events_extracted: true
 feed_content: "<span>Students invited to participate in annual Northwest Radon Poster
   Contest</span>\n\n            <div>\n<time>January 15, 2026 - 10:57am</time>\n</div>\n
   \     <span><span>stevie.mathieu…</span></span>\n<span><time>January 15, 2026 -

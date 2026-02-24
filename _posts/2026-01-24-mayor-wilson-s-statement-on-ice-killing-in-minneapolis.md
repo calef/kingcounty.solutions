@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-24T23:16:22+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Mayor Katie B. Wilson released the following statement on the killing of Alex Pretti: “I’m horrified by the news this morning out of Minneapolis. I mourn for the victim, their family and friends, and for all of the families being torn apart every day by immigration agents.   I’m also inspired by the ferocity of the community response there. Tens of thousands […]</p>
   <p>The post <a>Mayor Wilson’s Statement on ICE Killing in Minneapolis</a> appeared first on <a>Office of the Mayor</a>.</p>

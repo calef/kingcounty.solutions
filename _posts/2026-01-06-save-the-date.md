@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 1e0c5a9b7e4892703f93815b98c54cf0ccfd4dd09b969c35af76bccb18395809
 date: '2026-01-06T16:34:49+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://hospitalityhousesouthking.org/wp-content/uploads/2026/01/ACTUAL-Virtual-Save-the-Date-1-1024x732.png"></figure>
 

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-05T19:03:23+00:00'
-event_ids: []
+event_ids:
+- _events/2026-03-10-qigong-class.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/Qigong-Class-26-4-783x1024.png"></figure>
 

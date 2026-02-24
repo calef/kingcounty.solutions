@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-13T01:12:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'Pictured: Marshall Foster, Photo by: Janet Chapman Links below will
   open new windows. Deputy Director Diamatris Winston Named Seattle Center Acting
   Director, Effective Jan. 17, 2026 SEATTLE – Seattle Center announced today that

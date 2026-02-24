@@ -1,6 +1,7 @@
 ---
 acronym: UCCWA
 address: 13470 Martin Luther King Jr Way S, Seattle, WA, United States
+chio_website_id: _websites/019c5dc3-1a91-7086-9b6b-726aef7a2f29.md
 phone: "(425) 430-8229"
 title: Ukrainian Community Center of Washington
 topic_titles:

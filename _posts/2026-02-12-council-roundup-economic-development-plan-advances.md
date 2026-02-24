@@ -1,7 +1,12 @@
 ---
 classified: true
+content_checksum: 0170574631ae1cc4fbc85e12b1b10a910055678e57b3613ff3037fc780baa279
 date: '2026-02-12T22:36:44+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-city-council-meeting.md
+- _events/2026-02-19-lunar-new-year-week.md
+- _events/2026-02-19-day-of-action-and-remembrance-for-japanese-americans.md
+events_extracted: true
 feed_content: "<span>Council Roundup: Economic Development plan advances</span>\n<span><span>CIosso</span></span>\n<span><time>Thu,
   02/12/2026 - 14:36</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>
   \   <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2026-02/cdd-26-economicdevelopmentplan26.JPG?h=56d0ca2e&amp;itok=Q5opY3RF\">\n\n\n</div>\n

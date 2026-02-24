@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-19T23:00:00+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-23-holiday-lunch.md
+events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Chicken Philly Sandwich, Soup, Salad &amp; Fruit</p>
 

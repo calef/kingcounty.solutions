@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 80e22a16af4bd15a9c8ed290d225dbee34ec77deaa69a3463be5ea9b41f798db
 date: '2026-02-09T23:27:24+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span>State revokes, suspends licenses, certifications, registrations
   of health care providers (02-09-2026)</span>\n\n            <div>\n<time>February
   9, 2026 - 3:20pm</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>February

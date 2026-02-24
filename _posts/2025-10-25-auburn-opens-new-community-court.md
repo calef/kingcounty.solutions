@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-10-25T00:11:00+00:00'
-event_ids: []
+event_ids:
+- _events/2021-06-01-auburn-farmers-market.md
+- _events/2021-05-27-community-court-opening.md
+events_extracted: true
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/City%20Hall/Legal/cc%20news%20icon.jpg"
   />
 image_checksums: []

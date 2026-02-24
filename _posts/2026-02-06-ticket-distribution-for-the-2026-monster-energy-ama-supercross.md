@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-06T21:36:12+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-14-2026-monster-energy-ama-supercross.md
+events_extracted: true
 feed_content: |-
   <p>The following Tribal Members will receive tickets to the 2026 Monster Energy AMA Supercross at Lumen Field.</p>
   <p>All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your game or you cannot locate your tickets, then please email <b>tcr@snoqualmietribe.us </b> for assistance.</p>

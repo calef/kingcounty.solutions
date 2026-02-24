@@ -2,6 +2,7 @@
 classified: true
 date: '2025-09-24T20:52:07+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div class=\"et_pb_section et_pb_section_9 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_row et_pb_row_18\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
   et_pb_column_18  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div

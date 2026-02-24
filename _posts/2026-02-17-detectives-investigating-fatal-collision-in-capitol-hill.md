@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-17T07:05:15+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police detectives are investigating a traffic crash that killed
   a 27-year-old woman in Capitol Hill this evening.  At 8:00 p.m., officers responded
   to a pedestrian collision on Bellevue Avenue East and East Pine Street. There, they

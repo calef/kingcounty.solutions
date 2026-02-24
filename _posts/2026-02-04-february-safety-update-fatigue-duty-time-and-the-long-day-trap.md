@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 83338f0dd22dff16f981e728c81737e5657735d58b2eeebfe63137dd01c33547
 date: '2026-02-04T17:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Flying for Angel Flight West (AFW), or any philanthropic flying, is among the most meaningful work a general aviation pilot can do. Volunteer pilots, Earth Angels and all AFW staff and volunteers bring skill and compassion together in service to others. But these missions also introduce a unique set of risks – many of which are subtle, cumulative, and easy to underestimate.</p>
 

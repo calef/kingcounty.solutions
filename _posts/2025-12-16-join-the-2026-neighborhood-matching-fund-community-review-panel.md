@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-16T21:59:35+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The Neighborhood Matching Fund (NMF) is currently seeking 7-9 dedicated
   individuals to join our Community Review Panel for the 2026 grant cycle. As a community
   reviewer, you will play a crucial role in making funding recommendations that directly

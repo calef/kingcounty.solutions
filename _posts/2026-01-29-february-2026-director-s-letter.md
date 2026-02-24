@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 956e6ba288f4bb4b4dbf8859755d5c16961ada2322064bedea861b7f1236456a
 date: '2026-01-29T19:30:18+00:00'
 event_ids:
 - _events/2026-03-28-spring-dinner-and-dessert-auction.md

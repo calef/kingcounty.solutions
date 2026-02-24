@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-21T17:13:20+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <style>
   .wp-video { margin-top: -20px; margin-bottom: 5px; }

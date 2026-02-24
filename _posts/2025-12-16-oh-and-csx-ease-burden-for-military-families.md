@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-16T18:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><strong><strong><strong><em>Rolling Out Relief</em>: Operation Homefront and CSX Ease Transportation and Housing Burden for Military Families Across 26 States</strong></strong></strong></p>
 

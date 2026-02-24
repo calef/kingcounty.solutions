@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-16T18:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Science and Speculative Fiction has long been a way to explore other ways of existence, as well as a way to think about current moments through alternative lenses. In 2021 AK press, a worker-run, collectively managed anarchist small press that aims to “expand minds and change worlds,” launched Black Dawn, a series of speculative fiction titles with the publication of adrienne maree brown’s first fiction title, <a><strong>Grievers</strong></a>. First in a trilogy, <em>Grievers</em>, is set in a near-future Detroit devastated by a mysterious illness that puts people into a coma-like state from which they never recover, eventually known as Syndrome H-8. Over the course of the three novels, Dune, a young woman whose mother is patient zero for the mysterious syndrome, navigates a city crippled with grief for all that has been lost, the emergence of community and hope amidst the ruins (<a><strong>Maroons</strong></a><strong>, </strong>2023), and an eventual flourishing that grapples with the tension between shelter and freedom (<a><strong>Ancestors</strong></a><strong>, </strong>2025).</p>
 

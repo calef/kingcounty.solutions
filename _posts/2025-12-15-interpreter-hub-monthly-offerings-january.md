@@ -1,7 +1,11 @@
 ---
 classified: true
+content_checksum: 4780f9cf5ae00cd39d3d2dfd6e619309c99e81931d665bbc5493b4c165e8106c
 date: '2025-12-15T21:32:55+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-28-intentional-seeing-meaning-beneath-the-words.md
+- _events/2026-01-12-open-house-at-eipa-and-casli-testing-site.md
+events_extracted: true
 feed_content: |-
   <p><img src="https://www.cdhy.wa.gov/wp-content/uploads/2025/12/January-Offerings-from-CDHY-Interpreter-Hub-791x1024.png"></p>
   <h2>CDHY Interpreter Hub Monthly Offerings</h2>

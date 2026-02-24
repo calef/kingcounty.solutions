@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-05T18:59:43+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-astronomical-journey-at-uw-planetarium.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/UW-Planetarium-791x1024.png"></figure>
 

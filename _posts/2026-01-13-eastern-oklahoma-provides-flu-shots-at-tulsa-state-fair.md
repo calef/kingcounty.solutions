@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-13T15:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2025-09-25-flu-shot-and-health-resources-event.md
+events_extracted: true
 feed_content: |-
   <h2>Supporting Veterans</h2>
 

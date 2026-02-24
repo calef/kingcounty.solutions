@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-25T21:58:04+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-26-general-welfare-posthumous-internment-and-headstone-benefit-policy-comment-period.md
+events_extracted: true
 feed_content: |-
   <p>Dear Tribal Member,</p>
   <p>The Tribal Council directed the General Resources Department and legal counsel to develop a draft policy to fulfill the motion below.</p>

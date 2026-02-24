@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-09-02T20:49:52-07:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-lighthouse-northwest-celebration-event.md
+events_extracted: true
 feed_content: 'Registration is now open for Lighthouse''s 9th Annual Celebrate Event  Online
   Auction!Date: Saturday, October 18th  6:00–8:30 PMLocation: Des Moines Beach Park
   AuditoriumTickets: $40Join us for an inspiring evening of hope, transformation,

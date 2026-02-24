@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-12-15T21:21:36+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-12-las-posadas-and-christmas-market.md
+- _events/2026-02-19-annual-toy-drive.md
+events_extracted: true
 feed_content: |-
   <div><div>
   <div>

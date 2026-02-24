@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-02T21:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>As a Health Coach, I know what is most important to clients by simply looking at their calendars. Appointments, kids’ activities, church functions—these all tell me what really matters in their lives. As we work together, they begin to add health and well-being goals to the schedule.</p>
 

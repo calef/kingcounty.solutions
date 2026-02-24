@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: c809c37ee42bbb8a07486ada4a13f2ce79a73dd4d1a9cf0491152e9bc827d818
 date: '2026-02-03T00:59:24+00:00'
 event_ids:
 - _events/2026-02-27-human-services-funding-application-deadline.md

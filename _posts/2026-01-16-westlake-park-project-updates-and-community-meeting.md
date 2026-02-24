@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-16T22:32:39+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-21-public-meeting-for-westlake-park-project-updates.md
+events_extracted: true
 feed_content: Westlake Park is at the heart of Seattle’s downtown core and is an important
   gateway to the city. Seattle Parks and Recreation (SPR) and Seattle Parks Foundation
   (SPF) are working collaboratively to update the space by Spring 2026. Join SPR and

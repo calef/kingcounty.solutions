@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-04T18:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Each year we ask our staff across the library for their favorite books published in the current year. Featured below are some of the nonfiction books that multiple staff loved! Find the full list of staff faves in our catalog: <a href="https://seattle.bibliocommons.com/v2/list/display/117997230/2898608967">Seattle Staff Faves 2025: Nonfiction</a>.</p>
   <p><a href="https://seattle.bibliocommons.com/v2/record/S30C4013517"><strong>One Day, Everyone Will Have Always Been Against This </strong></a>by Omar el-Akkad<br />

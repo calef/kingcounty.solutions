@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-11T17:01:56+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Download release 19.0 of the NCBI protein profile Hidden Markov models
   (HMMs) used by the Prokaryotic Genome Annotation Pipeline (PGAP). You can search
   this collection against your favorite prokaryotic proteins to identify their function

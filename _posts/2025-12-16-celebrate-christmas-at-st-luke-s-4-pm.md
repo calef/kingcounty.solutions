@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 5808960b1f16316397800723e77b9cc6ca6ea1d8f5e88b1a51032e6eae558143
 date: '2025-12-16T23:21:46+00:00'
-event_ids: []
+event_ids:
+- _events/2023-12-24-christmas-eve-celebration.md
+events_extracted: true
 feed_content: |-
   <p>Christmas Eve Pop-Up Pageant for all ages at 4 pm Come celebrate Christmas at St. Luke’s Episcopal Church! We offer two services on Christmas Eve. The early evening is family … <a>Read More</a></p>
   <p>The post <a>Celebrate Christmas at St Luke’s 4 pm</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>

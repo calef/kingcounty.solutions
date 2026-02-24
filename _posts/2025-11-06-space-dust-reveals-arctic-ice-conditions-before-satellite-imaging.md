@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-06T19:00:47+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>&nbsp;</p>
   <div id="attachment_89813" class="wp-caption aligncenter" style="width: 760px"><img loading="lazy" decoding="async" class="wp-image-89813 size-full-content" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/05131803/BLight00193297340-750x499.jpg" alt="Large chunks of ice floating in the Arctic Sea." width="750" height="499" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/05131803/BLight00193297340-750x499.jpg 750w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/05131803/BLight00193297340-300x199.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/05131803/BLight00193297340-1024x681.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/05131803/BLight00193297340-768x511.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/05131803/BLight00193297340-1536x1021.jpg 1536w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/05131803/BLight00193297340-2048x1362.jpg 2048w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/05131803/BLight00193297340-375x249.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/05131803/BLight00193297340-1140x758.jpg 1140w" sizes="auto, (max-width: 750px) 100vw, 750px" /></p>

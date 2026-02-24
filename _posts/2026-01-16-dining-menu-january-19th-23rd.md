@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-16T23:00:00+00:00'
-event_ids: []
+event_ids:
+- _events/2023-01-18-wednesday-night-dinner.md
+events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Martin Luther King Jr. Day–center is closed.</p>
 

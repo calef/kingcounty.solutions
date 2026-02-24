@@ -2,6 +2,7 @@
 classified: true
 date: '2025-09-22T09:25:40-04:00'
 event_ids: []
+events_extracted: true
 feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Mon, 22 Sep 2025 04:26:19
   -0400</p><p>title: New Agents’ and Brokers’ Guide to Plan Year 2026 Marketplace
   Registration and Training</p><p>topic: Registration and Training</p>"

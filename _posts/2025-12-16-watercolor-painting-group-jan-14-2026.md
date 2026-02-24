@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-12-16T21:06:05+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-11-watercolor-painting-sessions.md
+- _events/2023-10-25-watercolor-painting-sessions.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2025/12/Water-color-26-Barb-1-791x1024.png"></figure>
 

@@ -1,5 +1,6 @@
 ---
 acronym: PIM
+chio_website_id: _websites/019c5dc1-f3a4-7563-831f-958b1452b45e.md
 email: vita@pimsavvy.com
 news_rss_url: https://pimsavvy.com/feed/
 title: PIM Savvy

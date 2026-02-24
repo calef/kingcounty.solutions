@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-08T16:23:09+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Contact information: <a>davelcarlton@gmail.com</a></p>
   <p>Location: Pinellas Park, Florida</p>

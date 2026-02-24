@@ -1,7 +1,11 @@
 ---
 classified: true
+content_checksum: 58600e15a222a0e1ddada72799ac9cc28f0550c2d23d46c5efe2f8b8ff2ee48c
 date: '2026-02-09T22:48:01+00:00'
-event_ids: []
+event_ids:
+- _events/2024-02-23-human-services-commission-application-deadline.md
+- _events/2026-02-19-human-services-commission-meetings.md
+events_extracted: true
 feed_content: "<span>Opening on Human Services Commission</span>\n<span><span>CIosso</span></span>\n<span><time>Mon,
   02/09/2026 - 14:48</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>\n<p>The
   City Council is accepting applications to fill a vacancy on the Human Services Commission.

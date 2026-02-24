@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-24T22:41:57+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-joint-study-session-on-telecommunications-regulations.md
+events_extracted: true
 feed_content: 'Improving Cell Service in Normandy Park: City Council and Planning
   Commission to Review the Relevant Code. On Tuesday, October 28th at 7:00 p.m., the
   Normandy Park City Council and Planning Commission will hold a joint study session

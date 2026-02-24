@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 0ab8d61e04f33b35c217f1b07b133cea92a585f0ce8c7f7870a8cbb7737f4b88
 date: '2025-12-04T21:40:31+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">How
   to report graffiti on non-city property</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/arich\"

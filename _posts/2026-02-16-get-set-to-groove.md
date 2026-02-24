@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-16T23:46:43+00:00'
-event_ids: []
+event_ids:
+- _events/2024-03-26-retro-night-dance-party.md
+events_extracted: true
 feed_content: |-
   <a><p>Join us for a night of retro fun with live DJ music and dancing. Beer, wine, non-alcoholic drinks and retro snacks available for purchase.</p>
 

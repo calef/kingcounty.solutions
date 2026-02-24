@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-23T23:31:31+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The National Weather Service in Seattle has forecast the potential for
   a major windstorm for the Puget Sound region on December 24. Winds gusts potentially
   exceeding 60 miles per hour may blow through King County, which could damage trees

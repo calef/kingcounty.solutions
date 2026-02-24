@@ -1,6 +1,7 @@
 ---
 acronym: EGH
 address: 1604 NE 50th St, Seattle, WA 98105
+chio_website_id: _websites/019c5dc1-b267-764b-b3c0-f5031d272ce3.md
 email: acollinsworth@eghseattle.org
 news_rss_url: https://eghseattle.org/feed/
 title: Elizabeth Gregory Home

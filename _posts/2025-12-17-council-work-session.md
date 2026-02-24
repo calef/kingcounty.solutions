@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-17T16:58:33+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-08-city-council-meeting.md
+events_extracted: true
 feed_content: "<div>\n  \n      \n    <span>01/08/2026 - 6:00pm</span>\n      </div>\n\n<div>\n
   \ \n      \n    <p>For City Council Meeting Agendas <a>PLEASE CLICK HERE</a></p>\n
   \     </div>"

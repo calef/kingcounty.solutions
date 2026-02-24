@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 2fdb633ebbf3793f0e8e99d5be6f2f7da15bd8a0c4af6fa8317abd9b5f2269ad
 date: '2025-11-25T20:17:00+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-01-light-the-world-giving-machines-installation.md
+events_extracted: true
 feed_content: "<p>What a beautiful morning celebrating the installation of this year’s
   <a><strong>Light The World Giving Machines</strong></a> at South Hill Mall!</p><p>You
   can find us in Giving Machines at South Hill Mall in Puyallup and at the Alderwood

@@ -1,7 +1,11 @@
 ---
 classified: true
+content_checksum: f832349384cb56bdb87b7401b41e571209a9e4025106b16b6a90217c6f7206f1
 date: '2026-01-23T23:00:00+00:00'
-event_ids: []
+event_ids:
+- _events/2024-01-26-ballard-senior-center-dining-menu.md
+- _events/2024-01-29-special-wednesday-night-dinner.md
+events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Grilled Pastrami &amp; Swiss Sandwich, Citrus Slaw, Potato Soup &amp; Fruit</p>
 

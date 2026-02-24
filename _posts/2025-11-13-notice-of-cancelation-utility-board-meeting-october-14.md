@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-13T16:37:17-08:00'
-event_ids: []
+event_ids:
+- _events/2025-10-28-utility-board-special-hybrid-meeting.md
+events_extracted: true
 feed_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div>
   <p><span><span><span>Notice is hereby given that the Utility Board Regular Meeting of October 14, 2025, is canceled. The Utility Board meets on the <strong>second Tuesday of each month at 5:00 pm. </strong>A special hybrid meeting is scheduled for October 28, 2025, at MICEC.</span></span></span></p>

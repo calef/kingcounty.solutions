@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-04T14:30:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Some stories don’t just show us what service looks like, they show us what endurance looks like, too. Take this month’s “From Uniform to Unforgettable” spotlight, a celebration of the life and service of Marine Corps Veteran Benjamin Summers, Jr.</p>
 
