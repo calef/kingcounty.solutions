@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 4241dbef9d87d2f118a79dd716a72995aad956d26b14167edfc9ee41e32d467a
 end_date: '2026-05-16T14:00:00-07:00'
 feed_content: "<section> <div> <p> <a> « All Events</a></p> <h1>Touch-a-Truck</h1>
   <div> <div> <span>May 16 @ 11:00 am</span> - <span>2:00 pm</span> </div> <span>Free</span>

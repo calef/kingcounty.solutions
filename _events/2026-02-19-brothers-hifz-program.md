@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: e794cb5b2727b9b360e2252acc704e3745486d1e06887ea5cb1a7663ac17b33f
 end_date: '2026-02-19T20:00:00+00:00'
 feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>Brothers
   Hifz Program</h1> <div> <span>Recurring event</span> <a> see all </a> </div> <div>

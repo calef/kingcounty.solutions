@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: d6e39db924e6ea65bcb0fe58e2f74da169848eaaf06f3b6b067ba8c2e12a5123
 end_date: '2026-04-26T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Puerto Rico
   Department Convention</h1> <div> <div> <span>April 24</span> - <span>April 25</span>

@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: cd367658fd99ce78128535cfb1d5860cff492d94d89daf1ad727d59ddc66dacb
 end_date: '2026-04-10T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Charlotte Job
   Fair, April 16, 2026</h1> <div> <div><span>April 9</span></div> </div> <div> <div>

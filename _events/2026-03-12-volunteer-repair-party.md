@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 06c8b5ff02b0f4a0bec9030b49b7a7eba5ebe509e07cb9cc3722186f76429960
 end_date: '2026-03-12T21:00:00-07:00'
 feed_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events </a></p>
   <div> <span> Event Series: </span> <a> <span> Volunteer Repair Party </span> </a>

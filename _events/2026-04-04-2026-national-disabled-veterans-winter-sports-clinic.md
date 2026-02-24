@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 7a0d1a4c8efd00da937c59d73c3967ecc19a6606199c86989863be1456620cb3
 end_date: '2026-04-12T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>2026 National
   Disabled Veterans Winter Sports Clinic</h1> <div> <div> <span>April 4</span> - <span>April

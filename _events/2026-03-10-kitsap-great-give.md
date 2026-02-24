@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 95d49201eeb66a300224dde6dca20299a4d922d6df7770255401cfab8173af49
 end_date: '2026-03-11T00:00:00-07:00'
 feed_content: "<section> <div> <p> <a> « All Events</a> </p> <h1>Kitsap Great Give</h1>
   <div> <h2><span>March 10</span></h2> </div> <div> <div> <p><strong>The Kitsap Great
