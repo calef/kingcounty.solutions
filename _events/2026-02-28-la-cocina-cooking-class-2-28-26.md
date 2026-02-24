@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 89596d9feebc687135ee5a350a648bad6b30c88990613c71461b2c7cecfa96f9
 end_date: '2026-02-28T15:00:00-08:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>La
   Cocina Cooking Class – 2/28/26</h1> <div> <div><p> <span> February 28 </span> <span>

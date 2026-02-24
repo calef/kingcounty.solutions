@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 7cea28dd528d3244afa625ae76fa84caa3d2cb442b6b66517806a7a3daa22c55
 end_date: '2026-03-27T17:00:00-07:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>Community
   Vaccine Clinic</h1> <div> <div><p> <span> March 27 </span> <span> @ </span> <span>

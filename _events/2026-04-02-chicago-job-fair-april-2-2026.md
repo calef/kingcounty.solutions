@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: e9602d7f54ebeb6ac8ec2f5093c9f86cdb5543afb81c71aea82d51b15a466410
 end_date: '2026-04-03T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Chicago Job
   Fair, April 2, 2026</h1> <div> <div><span>April 2</span></div> </div> <div> <div>

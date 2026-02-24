@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 4d3679c8f0a93fa6f22b9e2b6db7fad0648dde3ded125a5ae482001337e1d7cd
 end_date: '2026-02-19T14:30:00+00:00'
 feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>MCRC
   Seattle Office Hours</h1> <div> <span>Recurring event</span> <a> see all </a> </div>

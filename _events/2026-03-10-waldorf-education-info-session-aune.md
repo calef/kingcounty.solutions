@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 49bc03794c80b3094f0ade2bc5a0e0ac6c69a6b64114016bd1368868b139e6e8
 end_date: '2026-03-10T19:00:00-04:00'
 feed_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li><a>Request
   Info</a></li> <li><a>Visit</a></li> <li><a>Apply</a></li> <li><a>Employment</a></li>
