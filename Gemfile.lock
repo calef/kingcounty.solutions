@@ -1,8 +1,33 @@
 GIT
+  remote: https://github.com/calef/chio.git
+  revision: 24cad55da958d76e5e7fea42044319a198b65a0d
+  specs:
+    chio (0.1.18)
+      base64
+      fmrepo
+      mini_magick
+      nokogiri
+      seldon
+
+GIT
   remote: https://github.com/calef/fmrepo.git
   revision: 68da2e9d9c44de7b92c09b1f2c39b13bac01ea1e
   specs:
     fmrepo (0.2.12)
+
+GIT
+  remote: https://github.com/calef/hemingway.git
+  revision: 0f0afe0193c4b53109e7ecffa724137b2ff88db8
+  specs:
+    hemingway (0.1.0)
+      base64
+      chio
+      fmrepo
+      icalendar
+      nokogiri
+      rss
+      ruby-openai
+      seldon
 
 GIT
   remote: https://github.com/calef/seldon.git
@@ -250,10 +275,12 @@ PLATFORMS
 
 DEPENDENCIES
   base64
+  chio!
   digest
   faraday
   fileutils
   fmrepo!
+  hemingway!
   html5_validator
   icalendar
   jekyll

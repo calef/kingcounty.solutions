@@ -2,10 +2,12 @@
 
 source 'https://rubygems.org'
 gem 'base64'
+gem 'chio', github: 'calef/chio'
 gem 'digest'
 gem 'faraday'
 gem 'fileutils'
 gem 'fmrepo', github: 'calef/fmrepo'
+gem 'hemingway', github: 'calef/hemingway'
 gem 'icalendar'
 gem 'jekyll'
 group :jekyll_plugins do
