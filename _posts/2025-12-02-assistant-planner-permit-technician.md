@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-02T20:16:19+00:00'
 event_ids: []
+events_extracted: true
 feed_content: This position is responsible for professional-level urban planning and
   assistance with a variety of tasks in day-to-day operations of the Community Development
   Department. Work involves activities in support of major planning projects, such

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-16T16:05:48+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n

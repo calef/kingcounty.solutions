@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-26T18:12:47+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Kevin Morehart began his fire service career in April 1994 with the Auburn Fire Department, now the Valley Regional Fire Authority, after working as a social worker and pawnbroker.</p>
   <p>Initially drawn to law enforcement, Morehart found his passion volunteering in the fire service. The camaraderie, excitement, and hands-on work helped him feel at home, and he enjoyed working alongside fellow firefighters, who always made the job enjoyable.</p>

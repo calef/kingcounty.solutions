@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-08-26T23:11:07+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-bellevue-international-festival.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Safer
   Signals on Lake to Lake</span>\n<span class=\"field field--name-uid field--type-entity-reference
   field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\"

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-10T19:40:41+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-31-new-years-eve-celebration.md
+events_extracted: true
 feed_content: 'Note: Links below will open new windows. New Year’s Eve at the CenterPresented
   by Alaska AirlinesA Night of Music, Light, Comedy, and Fireworks December 31, 2025
   Seattle Center Armory, International Fountain, and Campus Grounds Join us for a

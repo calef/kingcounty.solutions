@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-03T18:28:25+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p class="has-medium-font-size">Arnold was a senior policy advisor on broadband in the Biden Administration</p>
 

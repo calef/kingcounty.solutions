@@ -1,7 +1,14 @@
 ---
 classified: true
 date: '2025-11-23T17:00:00+00:00'
-event_ids: []
+event_ids:
+- _events/2023-11-29-small-business-saturday.md
+- _events/2026-02-19-30th-annual-magic-in-the-market.md
+- _events/2026-02-19-c-id-small-business-saturday-food-walk.md
+- _events/2026-02-19-meet-the-maker-holiday-market.md
+- _events/2026-02-19-holiday-happening.md
+- _events/2023-12-01-annual-ornament-scavenger-hunt.md
+events_extracted: true
 feed_content: Support small businesses this Small Business Saturday Small businesses
   are what makes Seattle’s economy great. They showcase the creative energy, diverse
   culture, and entrepreneurial drive that makes our city one of a kind. Small Business

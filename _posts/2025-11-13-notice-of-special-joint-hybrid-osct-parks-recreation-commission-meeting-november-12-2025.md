@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-13T16:37:17-08:00'
-event_ids: []
+event_ids:
+- _events/2025-11-12-special-joint-hybrid-meeting-of-the-mercer-island-open-space-conservancy-trust-and-parks-and-recreation-commission.md
+events_extracted: true
 feed_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
   class="field-items"><div class="field-item even" property="content:encoded"><p><span><span><strong>October
   28 -</strong> Notice is hereby given that the Mercer Island Open Space Conservancy

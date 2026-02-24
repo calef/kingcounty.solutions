@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-11T22:04:08+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Today at 1pm, staff from Seattle Public Utilities, King County Local
   Services, Roads Division and the King County Flood Warning Center departed from
   the King County Office of Emergency Management landing zone aboard Guardian 2, the

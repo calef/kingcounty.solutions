@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-21T19:49:17+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-28-community-input-meeting-on-park-improvement-projects.md
+events_extracted: true
 feed_content: Please Join Us! Wednesday, January 28, 2026! Seattle Parks and Recreation
   (SPR) invites community members to share input on two upcoming local park improvement
   projects at the Highland Park Action Coalition January meeting. Please join us on

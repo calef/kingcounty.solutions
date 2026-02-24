@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-12T17:51:20+00:00'
-event_ids: []
+event_ids:
+- _events/2026-03-18-tech-workshop-on-cloud-storage.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2026/02/Tech-workshopcloud-5-791x1024.png"></figure>
 

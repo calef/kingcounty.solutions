@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-02T18:00:26+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><b><span data-contrast="none">KIDS CHAPTER BOOKS</span></b><span data-ccp-props="{}"> </span></p>
   <p><a href="https://seattle.bibliocommons.com/v2/record/S30C4062250"><span data-contrast="none">Benny on the Case</span></a><span data-contrast="none"> by Wesley King is a </span><span data-contrast="auto">heartfelt character-driven mystery featuring a neurodivergent male protagonist that explores friendship, belonging, and family. [-School Library Journal]</span><span data-ccp-props="{}"> </span></p>

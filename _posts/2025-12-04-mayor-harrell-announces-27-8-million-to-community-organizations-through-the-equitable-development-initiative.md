@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-04T19:38:18+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Today, Mayor Bruce Harrell announced $27.8 million in awards to 33 projects
   through the Equitable Development Initiative (EDI), part of the City’s effort to
   support property ownership among Seattle’s diverse communities in neighborhoods

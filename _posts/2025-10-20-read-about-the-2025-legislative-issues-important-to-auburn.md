@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 85cf05c8ccf978c77f4a9fd96d03bcf9ee48c63f6274204f5db0c467dbdeb3ae
 date: '2025-10-20T18:50:00+00:00'
 event_ids: []
 events_extracted: true

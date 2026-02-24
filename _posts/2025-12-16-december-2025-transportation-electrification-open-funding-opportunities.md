@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-12-16T17:31:06+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-washington-ev-charging-program-2.md
+- _events/2026-02-19-rails-keels-and-wheels-program.md
+- _events/2026-02-19-zero-emission-vehicle-infrastructure-partnership-grant.md
+events_extracted: true
 feed_content: |-
   <p><a>U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program</a></p>
 

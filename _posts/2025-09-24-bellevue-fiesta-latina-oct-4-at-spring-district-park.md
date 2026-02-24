@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-09-24T21:43:30+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-04-bellevue-fiesta-latina.md
+- _events/2023-10-04-celebrating-latin-america-concert.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   Fiesta Latina Oct. 4 at Spring District Park</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

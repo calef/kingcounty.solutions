@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-10-10T20:15:36+00:00'
-event_ids: []
+event_ids:
+- _events/2025-10-14-town-council-regular-meeting.md
+- _events/2025-10-14-public-hearing-on-tax-levy-increases.md
+events_extracted: true
 feed_content: |-
   [COMPLETE PACKET](https://yarrowpointwa.gov/wp-content/uploads/2025/10/COMPLETE-PACKET.pdf)
 

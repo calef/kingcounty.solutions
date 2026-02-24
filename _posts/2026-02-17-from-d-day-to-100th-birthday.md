@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-02-17T15:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-29-100th-birthday-celebration-of-navy-veteran-jl-stevens.md
+events_extracted: true
 feed_content: |-
   <h2>Big Spring honors the remarkable life of Navy Veteran JL Stevens</h2>
 

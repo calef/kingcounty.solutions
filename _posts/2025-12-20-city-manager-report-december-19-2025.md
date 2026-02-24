@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: a2bb6a6aed7c1a4c3420fe780aa6b2d849fddeee5f282d7f1f3ab2b755e7657b
 date: '2025-12-20T01:18:51+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 2025 City Council Wrap-Up. The last City Council meeting of 2025 was
   held on Tuesday, December 9th. 2025 was a good year for the City, and I wanted to
   take this opportunity to highlight some of our successes that will benefit residents

@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: f318b394ea985791ae66d7d0a2e96b1a876e4fcae8b23c137c71ef1c0d066b9b
 date: '2026-02-10T23:15:46+00:00'
 event_ids: []
+events_extracted: true
 feed_content: It is that time of year! Time for the Third Annual Citizen Satisfaction
   Survey. The City Council and staff are committed to delivering high-quality services
   to our community. To better understand...

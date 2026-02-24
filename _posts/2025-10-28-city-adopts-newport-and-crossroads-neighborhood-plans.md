@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-28T20:43:32+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   adopts Newport and Crossroads neighborhood plans</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

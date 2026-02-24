@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-17T17:00:16+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police officers arrested armed, convicted murderer on active
   Department of Corrections (DOC) Supervision sleeping next to bottle of liquor in
   South Lake Union. On Nov. 13, at about 8:43 a.m., patrol officers responded to reports

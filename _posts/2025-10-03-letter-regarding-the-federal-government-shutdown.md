@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-03T20:59:43+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   The following letter is being sent to all Tribal Members, however we have opted to also post it to the website to ensure members have access to it as quickly as possible amid USPS slowdowns and the ongoing postal strike in Canada. It will be mailed to all Tribal Members as soon as possible.
 

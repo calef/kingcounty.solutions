@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-19T17:30:40+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Perhaps you are enjoying the new television series <em>Heated Rivalry</em>. Maybe you have watched every episode as it has been released, read <a>this interview</a> with the actors and <a>this one too</a>. You probably found <a>this interview with Chala Hunter</a>, the intimacy coordinator for the series, fascinating. Perchance you even started learning Russian for free with your library card and <a>Mango Languages</a> so you can understand the conversations between Ilya and his father. If so, there is a strong possibility that you are also one of the over 500 people with the eBook of <strong><a>Heated Rivalry</a></strong> by Rachel Reid on hold, wondering what you could possibly read while waiting for the full story of Scott, Shane, Ilya, and other players to be named later. The Seattle Public Library is here to support you during this difficult time.</p>
   <ul>

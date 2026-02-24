@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-24T17:58:29+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p class="cvGsUA direction-ltr align-center para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">We share with prayers and sadness </span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">the passing of a beloved Tribal Elder</span></p>
   <h1><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Irene Daniels</span></h1>

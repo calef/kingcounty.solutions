@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-06T19:09:03+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Today City Councilmember Maritza Rivera (District 4) released this statement on the recent directive from new City Attorney Erika Evans about public drug use cases. “I found yesterday’s news coming out of City Attorney Erica Evan’s office concerning. I am going to watch the impact of the City Attorney’s decision very closely. In the last two years, we...</p>
   <p>The post <a>Councilmember Rivera statement on new City Attorney directive around public drug use cases</a> appeared first on <a>Seattle City Council Blog</a>.</p>

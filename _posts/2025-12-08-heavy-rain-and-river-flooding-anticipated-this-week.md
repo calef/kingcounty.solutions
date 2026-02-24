@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-08T18:13:42+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The Puget Sound region is bracing for intense rain this week, formerly
   known as a “Pineapple Express.” Now called “atmospheric rivers, ” these are long,
   narrow bands of moisture from the tropics filling area rivers, which have and may

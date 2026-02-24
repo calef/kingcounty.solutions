@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-16T21:01:23+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-09-trivia-event.md
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2025/12/Trivia-jan-26-783x1024.png"></figure>
 

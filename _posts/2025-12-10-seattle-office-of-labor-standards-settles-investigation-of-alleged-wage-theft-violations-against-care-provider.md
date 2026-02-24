@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-10T16:14:14+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'For Immediate Release Contact: Cynthia Santana/Communications Manager206-256-5219cynthia.santana@seattle.gov
   Seattle Office of Labor Standards Settles Investigation of Alleged Wage Theft Violations
   Against Care Provider Seattle, WA (December 10, 2025) – The Office of Labor Standards

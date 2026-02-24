@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-09T00:48:12+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-13-douglass-truth-branch-50th-anniversary-celebration.md
+events_extracted: true
 feed_content: |-
   <p>On Saturday, Dec. 13, 2025, the Douglass-Truth Branch was jamming. Neighbors, families, community leaders, elders, and library staff filled every corner of the branch at 2300 E. Yesler Way to <a>celebrate the 50th anniversary</a> of its community-chosen name.</p>
 

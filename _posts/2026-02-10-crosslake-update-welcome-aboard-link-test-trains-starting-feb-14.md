@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-02-10T14:17:52-08:00'
-event_ids: []
+event_ids:
+- _events/2024-02-14-test-trains-on-link-1-and-2-lines.md
+- _events/2024-03-28-crosslake-connection-opening.md
+events_extracted: true
 feed_content: "<div><div><p>This Valentine’s Day, Sound Transit will channel its primary
   love language (acts of service, of course) to celebrate the impending union between
   the region’s hottest couple: the Link 1 and 2 Lines. </p></div></div>"

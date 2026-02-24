@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-15T19:46:56+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Councilmember Maritza Rivera (District 4) released the following statement after the incidents at Brown University in Rhode Island and at Bondi Beach in Australia. The events at Brown University and Bondi Beach have left me, and I’m sure many of you, shaken, upset and unsettled, with the continued antisemitism and gun violence against our youth...</p>
   <p>The post <a>Councilmember Rivera’s statement on this weekend’s tragic events</a> appeared first on <a>Seattle City Council Blog</a>.</p>

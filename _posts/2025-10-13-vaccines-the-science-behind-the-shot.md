@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-13T18:08:08+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Join UW Pharmacist Abby Winter for a discussion on vaccines for older adults, and their importance in maintaining health and preventing serious illness as we age. We will dive into vaccine history and development, discuss how common vaccines work, and touch on what it means for a vaccine to be “effective.”</p>
 

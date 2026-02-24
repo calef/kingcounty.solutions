@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-04T17:23:37+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-01-2025-christmas-ships-and-bonfires.md
+events_extracted: true
 feed_content: The Argosy Christmas Ships are an annual Seattle tradition. As part
   of the festivities, a parade of brightly-lighted boats will cruise from Puget Sound
   to Lake Union and out to Lake Washington. Stopping at pre-planned locations, the

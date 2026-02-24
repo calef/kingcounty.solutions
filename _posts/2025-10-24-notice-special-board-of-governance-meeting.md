@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-24T13:42:16+00:00'
-event_ids: []
+event_ids:
+- _events/2025-10-28-board-of-governance-meeting.md
+events_extracted: true
 feed_content: |-
   **NOTICE OF AVAILABILITY OF 2025 PRELIMINARY BUDGETS**
 

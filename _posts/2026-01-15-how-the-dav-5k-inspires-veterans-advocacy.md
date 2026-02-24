@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-15T15:40:53+00:00'
-event_ids: []
+event_ids:
+- _events/2025-00-00-2025-dav-5k.md
+events_extracted: true
 feed_content: "<div>\n\n    \n    <figure><img src=\"https://www.dav.org/wp-content/uploads/Sue_Davis.jpg\"><figcaption>Sue
   Davis celebrates after completing the 2025 DAV 5K, proudly displaying her finisher’s
   medal. Davis, who was the top group fundraiser for the 2024 event, continues to

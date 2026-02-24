@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-06T21:23:46+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-01-people-s-project-idea-submission.md
+events_extracted: true
 feed_content: |-
   ![](https://www.tukwilawa.gov/wp-content/uploads/Mayor-PeoplesPledgeBG-300x200.png)
 

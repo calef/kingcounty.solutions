@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 5409ecf1812b7eb318544f909907205e2351b6dcb9ab003bc11d881d53e3cd31
 date: '2026-01-30T04:01:46+00:00'
 event_ids:
 - _events/2026-02-27-application-deadline-for-after-school-drop-in-services-funding.md

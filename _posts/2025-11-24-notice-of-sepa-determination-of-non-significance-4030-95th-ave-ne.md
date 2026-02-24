@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-11-24T20:47:05+00:00'
-event_ids: []
+event_ids:
+- _events/2025-11-20-town-council-special-meeting.md
+- _events/2025-11-19-town-park-commission-special-meeting.md
+- _events/2025-11-18-cancellation-of-town-planning-commission-regular-meeting.md
+events_extracted: true
 feed_content: '<p><img fetchpriority="high" decoding="async" class="alignnone size-full
   wp-image-8117" src="https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002.jpg"
   alt="" width="1700" height="2200" srcset="https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002.jpg

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-12T13:41:38-08:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <div><div>
   <p>When passengers talk about what matters most onboard Link light rail, one theme consistently rises to the top: clean, comfortable places to sit. </p>

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-23T18:14:20+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'The start of a new year serves as both a time of reflection and an
   opportunity to set goals and plan for the future. As we look back on the past three
   years at Seattle Department of Neighborhoods (DON), one word rises above all others:

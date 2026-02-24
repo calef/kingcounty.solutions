@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-22T19:32:00+00:00'
-event_ids: []
+event_ids:
+- _events/2023-06-01-auburn-farmers-market-6.md
+events_extracted: true
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/measles.jpg">Information
   about the measles outbreak and vaccine resources.
 feed_content_checksum: 39c84a41aa9d37193c5f49c1e931d2c52eb6c518

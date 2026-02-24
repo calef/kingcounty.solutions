@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-04T21:14:52+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   > “As a consumer-owned utility, the PUD has limited experience filing tax returns. The CETCAP program has provided valuable support in bridging this expertise, helping the PUD to maximize potential project tax benefits and minimize tax preparation costs.”
 

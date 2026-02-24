@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-07T00:40:51+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Husky Health Center is closed on Tuesday, November 11th in observation of Veterans Day. HHC will resume regular business hours on Wednesday…</p>
   <p><a>Source</a></p>

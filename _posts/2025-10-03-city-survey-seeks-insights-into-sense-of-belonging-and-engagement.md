@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2025-10-03T16:06:25+00:00'
-event_ids: []
+event_ids:
+- _events/2023-10-01-community-survey-on-living-in-bellevue.md
+- _events/2023-10-01-survey-on-city-s-brand-identity-and-communication-methods.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   survey seeks insights into sense of belonging and engagement</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-24T00:57:12+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Happy National Handwriting Day! SMA holds many handwritten records, from individual letters and petitions to large, heavy volumes documenting official actions and reports. All of them give us valuable insights into the workings of city government over time and the issues that were important to Seattle. We’ve recently digitized two collections of early handwritten records […]</p>
   <p>The post <a>Handwritten Records in the Archives</a> appeared first on <a>Primary Sources</a>.</p>

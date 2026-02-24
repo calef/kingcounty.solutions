@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 976d1eb82db4c657b270b99742a459a5649e85257da58ec6dd45fb94885dec15
 date: '2025-12-28T20:30:32+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-virtual-town-hall-meeting.md
+events_extracted: true
 feed_content: |-
   <div>
   <div>

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-08T16:15:15+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-15-public-hearing-on-the-villages-mpd-amendment.md
+events_extracted: true
 feed_content: "<div>\n  \n      \n    <span>12/15/2025 - 6:00am</span>\n      </div>\n\n<div>\n
   \ \n      \n    <p>Notice of Public Hearing - The Villages Master Planned Development
   (MPD) - Major Amendment to the MPD Permit and Development Agreement.  Public Hearing

@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-10-24T17:21:50+00:00'
-event_ids: []
+event_ids:
+- _events/2025-10-28-town-park-commission-regular-meeting.md
+events_extracted: true
 feed_content: |-
   [COMPLETE PACKET](https://yarrowpointwa.gov/wp-content/uploads/2025/10/08-October-28-2025-Regular-Meeting.pdf)
 

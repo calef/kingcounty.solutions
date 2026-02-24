@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-17T21:38:19+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2025/12/Stop-the-Bleed-Course-791x1024.png"></figure>
 

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-22T14:17:59+00:00'
 event_ids: []
+events_extracted: true
 feed_content: GenBank release 269.0 (12/16/2025) is now available on the NCBI FTP
   site. This release has 49.73 trillion bases and 6.03 billion records. The current
   release has:  259,677,058 traditional records containing 6,651,459,875,408 base

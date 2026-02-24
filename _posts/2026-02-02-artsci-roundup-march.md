@@ -1,7 +1,15 @@
 ---
 classified: true
 date: '2026-02-02T22:13:36+00:00'
-event_ids: []
+event_ids:
+- _events/2023-02-01-artsci-on-your-own-time-exhibition.md
+- _events/2023-02-01-2026-history-lecture-series.md
+- _events/2023-02-01-living-breath-of-w-b-altx-indigenous-foods-symposium.md
+- _events/2023-02-01-book-club-discussion-on-wole-soyinkas-novel.md
+- _events/2023-02-01-considering-matthew-shepard-performance.md
+- _events/2023-02-01-concert-by-augustin-hadelich-and-francesco-piemontesi.md
+- _events/2023-02-01-online-lectures-on-u-s-foreign-policy-and-world-war-i.md
+events_extracted: true
 feed_content: |-
   <p><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/01/30150014/ArtSciRoundup-1200x400-1.jpg"></p>
   <p><strong>Come curious. Leave inspired.</strong></p>

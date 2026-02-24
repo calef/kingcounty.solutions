@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: 2e003822e31251ad2f9705117ee77846fd26748d7d93a9eaa9084b75e64c319a
 date: '2026-02-09T19:03:06+00:00'
-event_ids: []
+event_ids:
+- _events/2023-02-13-wednesday-night-dinner.md
+events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Open Face Hot Turkey w/Mashed Potatoes, Buttered Green Beans &amp; Fruit</p>
 

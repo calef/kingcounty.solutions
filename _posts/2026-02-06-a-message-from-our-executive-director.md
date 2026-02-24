@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: e7cbda86dfa9c541a368b0fba5bc31677ea5d95a6f11f680d2b821b689b9d732
 date: '2026-02-06T09:00:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Solidarity with immigrant, refugee, and BIPOC communities   *NWIRP, WAISN, OneAmerica, Childrens Thrive Action Network, Protecting Immigrant Families, National Day Laborer Organizing Network, ACLU of Washington </p>
   <p>The post <a>A Message From our Executive Director</a> appeared first on <a>Neighborhood House</a>.</p>

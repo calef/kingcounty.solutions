@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-28T00:27:45+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>“We are created to be one human family. We are created to live in harmony and peace. This is ultimately what every human person longs for. It is time for us to abandon allegiance to agendas and political parties and rediscover basic human decency, truth, integrity and charity. Essentially, we are called, all of us, to serve the common good for the good of each and everyone.”</p>
 

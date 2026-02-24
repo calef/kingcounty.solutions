@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-31T18:00:30+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>We’re adding ten new books to Peak Picks in January!</p>
 

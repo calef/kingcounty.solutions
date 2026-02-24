@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-17T16:52:49+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-01-city-of-black-diamond-event.md
+events_extracted: true
 feed_content: "<div>\n  \n      \n    <span>01/01/2026 - 11:00am</span>\n      </div>\n\n<div>\n
   \ \n      \n    <p><a>Notice</a></p>\n      </div>"
 feed_content_checksum: b17eb19321ea4c2962c35ef8fa13accae52a6ffb

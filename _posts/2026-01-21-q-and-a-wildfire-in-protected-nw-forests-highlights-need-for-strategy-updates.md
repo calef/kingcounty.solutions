@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-21T17:05:39+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <figure><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2026/01/20162251/JollyMountain-scaled-e1768962032506-1200x671.jpg"><figcaption>University of Washington environmental and forest scientists evaluate fire effects from the 2017 Jolly Mountain fire, which occurred in the Wenatchee National Forest, an area managed under the Northwest Forest Plan. From left to right: Deborah Nemens, Gina Cova and Susan Prichard. <span>Photo: Susan Prichard</span></figcaption></figure>
   <p>The <a>Northwest Forest Plan</a>, adopted in 1994, helped quell mounting tensions between timber companies and environmentalists. It protected large swaths of old-growth forest in Washington, Oregon and California to preserve habitat for endangered species, including the <a>Northern spotted owl</a> and <a>marbled murrelet</a>.</p>

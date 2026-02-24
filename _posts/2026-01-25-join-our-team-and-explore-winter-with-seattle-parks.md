@@ -1,7 +1,12 @@
 ---
 classified: true
 date: '2026-01-25T22:26:47+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-tidepooling-after-dark.md
+- _events/2026-02-19-the-medicine-of-winter.md
+- _events/2026-02-19-nature-escape-room.md
+- _events/2026-02-19-quiet-beauty-plants-in-winter.md
+events_extracted: true
 feed_content: 'Do you love connecting people with nature? Are you looking for ways
   to embrace the outdoors this winter? The Seattle Parks Environmental Education Team
   has exciting news on two fronts: we are expanding our staff, and our calendar is

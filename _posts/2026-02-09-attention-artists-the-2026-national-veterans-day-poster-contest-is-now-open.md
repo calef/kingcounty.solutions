@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-02-09T14:30:00+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-01-2026-veterans-day-poster-contest.md
+- _events/2026-11-11-veterans-day-national-observance.md
+events_extracted: true
 feed_content: |-
   <p>Here’s your chance to showcase your creativity and honor America’s Veterans through art. The Department of Veterans Affairs (VA) and the Veterans Day National Committee are now accepting submissions for the 2026 Veterans Day Poster Contest.</p>
 

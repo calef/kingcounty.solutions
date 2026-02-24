@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-17T17:15:48+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'Blog stats: 600 words | 3-minute read We recently finished repainting
   work on the historic Dr. Jose Rizal Bridge between Chinatown-International District
   and Beacon Hill. Unlike previous painting and maintenance efforts, this is the first

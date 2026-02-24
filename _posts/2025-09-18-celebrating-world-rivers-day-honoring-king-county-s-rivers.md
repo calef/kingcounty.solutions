@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-09-18T16:25:15+00:00'
-event_ids: []
+event_ids:
+- _events/2025-09-28-world-rivers-day-celebration.md
+events_extracted: true
 feed_content: |-
   By Steven Schauer, Deputy Executive Director
 

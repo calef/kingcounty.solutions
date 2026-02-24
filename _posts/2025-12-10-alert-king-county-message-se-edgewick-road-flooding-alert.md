@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-10T02:09:47+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Due to severe weather conditions and damage to the roads, as of today,
   Dec. 9, the SE Edgewick Road at 453rd Avenue SE will be restricted to one lane.
   The road may need to be closed completely. Crews will work on the road beginning

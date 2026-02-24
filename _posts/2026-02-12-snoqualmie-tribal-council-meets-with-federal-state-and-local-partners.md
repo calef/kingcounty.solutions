@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-12T21:00:13+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>In recent months, the Snoqualmie Tribal Council has met with federal, state, and local partners to discuss priorities and advance relationships to better serve the communities for which we carry the tremendous weight of responsibility.</p>
   <p>In meetings with U.S. Treasurer Beach at the National Congress of American Indians Annual Conference, the Tribe emphasized the need for parity and clarity related to federal Indian tax regulations to advance tribal self-determination and fairness when it comes to tribal enterprises.</p>

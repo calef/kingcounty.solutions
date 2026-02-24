@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-21T00:41:34+00:00'
 event_ids: []
+events_extracted: true
 feed_content: This is a blog post from the Waterfront Seattle Program. The Waterfront
   Seattle Program is a collaboration between the Office of the Waterfront, Civic Projects,
   and Sound Transit, and other Seattle departments including the Mayor’s Office, Pa...

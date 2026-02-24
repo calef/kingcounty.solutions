@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-18T16:50:06+00:00'
 event_ids: []
+events_extracted: true
 feed_content: Seattle police officers arrested a 12-year-old boy after he assaulted
   a woman with a screwdriver and stole her handbag in the Central District. On Jan.
   17, at about 6:50 p.m., patrol officers responded to a robbery near 23rd Avenue

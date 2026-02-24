@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 9e77f92f6c0a7f476f275cc6f502f2ba6c9fb832929f9c6a7710134c3ac8c3af
 date: '2026-02-13T19:54:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<span>State disciplines health care providers (02-13-2026)</span>\n\n
   \           <div>\n<time>February 13, 2026 - 11:46am</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>February
   13, 2026 - 11:54am</time>\n</span>\n\n  <div>\n    <div>News Category</div>\n          <div>\n

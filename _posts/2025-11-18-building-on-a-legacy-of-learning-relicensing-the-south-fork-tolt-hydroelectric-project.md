@@ -2,6 +2,7 @@
 classified: true
 date: '2025-11-18T00:25:40+00:00'
 event_ids: []
+events_extracted: true
 feed_content: The Cascade foothills are home to the small but important South Fork
   Tolt Hydroelectric Project. We are currently in the process of renewing the project’s
   license with the Federal Energy Regulatory Commission (FERC). This process takes

@@ -1,7 +1,19 @@
 ---
 classified: true
 date: '2025-11-19T22:08:05+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-03-torrent-vs-new-york-sirens.md
+- _events/2025-12-17-torrent-vs-ottawa-charge.md
+- _events/2025-12-23-torrent-vs-montreal-victoire.md
+- _events/2026-01-18-torrent-vs-boston-fleet.md
+- _events/2026-02-27-torrent-vs-toronto-sceptres.md
+- _events/2026-03-11-torrent-vs-boston-fleet.md
+- _events/2026-04-18-torrent-vs-vancouver-goldeneyes.md
+- _events/2026-04-25-torrent-vs-montreal-victoire.md
+- _events/2025-12-19-seattle-u-vs-uw.md
+- _events/2025-12-30-seattle-u-vs-wsu.md
+- _events/2026-01-17-seattle-u-vs-gonzaga.md
+events_extracted: true
 feed_content: |-
   <p>The following Tribal Members will receive tickets to PWHL &amp; Seattle U Basketball al Games at Climate Pledge Arena</p>
   <p>All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your game please email <strong>TCR@snoqualmietribe.us</strong> at your earliest convenience.</p>

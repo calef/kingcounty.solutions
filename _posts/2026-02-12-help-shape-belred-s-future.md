@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: b52d20cdef0ff1cc1448863630967634b67389bb92c03562d488ee2945597fcd
 date: '2026-02-12T16:49:21+00:00'
-event_ids: []
+event_ids:
+- _events/2024-02-23-belred-neighborhood-land-use-code-updates-open-house.md
+events_extracted: true
 feed_content: "<span>Help shape BelRed’s future </span>\n<span><span>CIosso</span></span>\n<span><time>Thu,
   02/12/2026 - 08:49</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>
   \   <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-09/belred-mural.jpg?h=2b2bab1b&amp;itok=ofeeGmto\">\n\n\n</div>\n

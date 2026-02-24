@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: dcf77efc7c6243cfa99d0ba93f9021fff18af293d1ad770da60bb7e75e858e40
 date: '2025-12-23T19:00:43+00:00'
 event_ids: []
+events_extracted: true
 feed_content: King County’s Flood Patrol has provided on-the-ground monitoring night
   and day throughout the historic flood, coordinating with partner agencies to reinforce
   levees before they break and mobilize rapid repairs if they breach. Watch a new

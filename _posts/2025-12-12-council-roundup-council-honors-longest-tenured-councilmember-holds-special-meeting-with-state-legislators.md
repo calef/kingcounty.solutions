@@ -1,7 +1,11 @@
 ---
 classified: true
+content_checksum: 9b59c5faeaff43007998ca8b9b7a6f82d9211e029e639833c09a5f1246aaf26c
 date: '2025-12-12T19:41:09+00:00'
-event_ids: []
+event_ids:
+- _events/2023-01-12-special-meeting-with-state-legislators.md
+- _events/2024-01-06-city-council-meeting.md
+events_extracted: true
 feed_content: "<span>Council Roundup: Council honors longest-tenured councilmember,
   holds special meeting with state legislators</span>\n<span><span>CIosso</span></span>\n<span><time>Fri,
   12/12/2025 - 11:41</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>

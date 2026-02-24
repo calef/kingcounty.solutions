@@ -1,7 +1,14 @@
 ---
 classified: true
 date: '2025-10-09T20:08:34+00:00'
-event_ids: []
+event_ids:
+- _events/2025-10-01-kaytranada-x-justice-tour.md
+- _events/2025-10-15-lord-huron.md
+- _events/2025-10-20-lorde-ultrasound.md
+- _events/2025-11-05-nba-youngboy-masa-tour.md
+- _events/2025-11-15-zach-top.md
+- _events/2025-12-20-trans-siberian-orchestra-ghosts-of-christmas-eve.md
+events_extracted: true
 feed_content: |-
   The following Tribal Members will receive tickets to these supplemental events in Q4 2025 at Climate Pledge Arena.
 

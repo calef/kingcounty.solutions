@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-12-18T18:56:55+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-25-christmas-celebration.md
+events_extracted: true
 feed_content: "<div>\n  \n      \n    <span>12/25/2025 (All day)</span>\n      </div>"
 feed_content_checksum: 4a89806ff6457f6d4bb4b2342f5938b15dbb5c78
 image_checksums: []

@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: d4187e1ee4f0847f9d4ade20aca0cb63e16dd01c183b83a8e815a7c16cbb3e06
 date: '2026-01-27T22:37:24+00:00'
-event_ids: []
+event_ids:
+- _events/2024-02-23-weekly-book-group.md
+events_extracted: true
 feed_content: |-
   <p>Mondays at 4 pm, February 23 – March 30 For Such a Time as This: An Emergency Devotional, by Hanna Reichel Everyone is invited to attend a weekly book group … <a>Read More</a></p>
   <p>The post <a>Lenten Book Group</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>

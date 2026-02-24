@@ -2,6 +2,7 @@
 classified: true
 date: '2026-02-17T22:13:07+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>In late 2024, when <a>Komal Kashiramka</a> decided to “take the plunge” to leave a corporate job and start a business in the food industry, she sought out helpful (and low cost) resources for entrepreneurs. The Seattle Public Library was not one of the places she originally thought to look. But the <a>business research tools</a> she found have turned out to be crucial resources for growing her business.</p>
 

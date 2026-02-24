@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-14T18:22:03+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Happy 2026! It is a new year, and as usual, it’s when many either set intentions for the next twelve months or start on the path to meeting annual goals. I try to break those goals down into short, medium, and long-term objectives so that I can achieve some wins along the way. I also use the start of the year to create clarity for the year. In addition to goals, I focus on how I…</p>
   <p><a>Source</a></p>

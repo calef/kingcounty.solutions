@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-03T18:00:44+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><span data-contrast="none">As the year draws to a close, we enjoy asking staff from across the library system to share their favorite Kids books of the year.  From picture books to chapter books, and from graphic novels to nonfiction – below are just a few of the Kids books published in 2025 that our SPL staff loved!</span><span data-ccp-props="{}"> </span></p>
   <p><i><span data-contrast="none">(Annotations are by staff or adapted from review sources as noted.)</span></i></p>

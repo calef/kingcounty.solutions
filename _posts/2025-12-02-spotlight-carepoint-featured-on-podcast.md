@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: cf31b2454c307e417e61e2cea31115bb0ff79c6f1af31467b865cbd65655cff5
 date: '2025-12-02T18:36:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<figure>\n          \n        \n        \n\n        \n          <a>\n
   \           \n          \n            \n                \n                \n                \n
   \               \n                \n                \n                \n                <img

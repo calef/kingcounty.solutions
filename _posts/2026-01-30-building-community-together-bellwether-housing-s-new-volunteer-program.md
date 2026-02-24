@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: aaa5257e168b22f54e2d6bf98668d706bb2796a66738fbfc43fb05a9a5b240a3
 date: '2026-01-30T14:49:43+00:00'
 event_ids: []
+events_extracted: true
 feed_content: At the heart of every thriving neighborhood are the people who show
   up for one another. That’s exactly the spirit behind our new  volunteer program
   . A way to strengthen connections and support residents across Bellwether communities.

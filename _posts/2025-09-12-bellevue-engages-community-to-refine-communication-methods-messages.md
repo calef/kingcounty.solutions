@@ -1,7 +1,11 @@
 ---
 classified: true
 date: '2025-09-12T00:55:15+00:00'
-event_ids: []
+event_ids:
+- _events/2023-09-25-exploring-bellevue-s-identity-together.md
+- _events/2023-09-15-online-survey.md
+- _events/2023-09-30-related-survey-launch.md
+events_extracted: true
 feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   engages community to refine communication methods, messages </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"

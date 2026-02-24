@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-13T19:40:01+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p><a><strong>WA Dept. of Ecology – Rails, Keels and Wheels</strong></a></p>
 

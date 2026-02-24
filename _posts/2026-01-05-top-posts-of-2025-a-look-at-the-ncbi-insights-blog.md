@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-05T16:13:19+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'As we begin a new year, let’s look back at the top viewed NCBI Insights
   Blog posts of 2025!    In case you missed any of these, check them out: Learn more 
   The NCBI Insights Blog is intended to help you better understand NCBI and our resources,

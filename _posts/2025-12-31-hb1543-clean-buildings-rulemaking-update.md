@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-31T00:56:21+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Thank you for your interest and participating in the rulemaking process. The rulemaking workshops concluded in September, and we received a substantial amount of feedback. We review and consider the questions and concerns raised by stakeholders. Some questions require in-depth discussion with experts, internal staff and the Assistant Attorney General.</p>
 

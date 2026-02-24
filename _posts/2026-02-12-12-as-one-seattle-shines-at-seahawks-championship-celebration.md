@@ -1,7 +1,10 @@
 ---
 classified: true
 date: '2026-02-12T00:59:00+00:00'
-event_ids: []
+event_ids:
+- _events/2026-02-12-seahawks-championship-victory-parade.md
+- _events/2026-06-01-upcoming-world-cup-events.md
+events_extracted: true
 feed_content: |-
   <img src="https://wilson.seattle.gov/wp-content/uploads/sites/43/2026/02/DSC2901-150x150.jpg"><p>What a day! Seattleites, you know how to show out and support the Seahawks. As fans from across the region filled the streets of downtown Seattle and cheered on our talented athletes and coaches, City staff and community partners were hard at work making sure the day was safe and joyful. I want to personally thank everyone who attended today’s parade for bringing […]</p>
   <p>The post <a>12 As One: Seattle Shines at Seahawks Championship Celebration</a> appeared first on <a>Office of the Mayor</a>.</p>

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-06T15:09:38+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "![](https://yarrowpointwa.gov/wp-content/uploads/2025/10/Halloween-recycling-tips-scaled.jpg)"
 image_checksums: []
 images_extracted: true

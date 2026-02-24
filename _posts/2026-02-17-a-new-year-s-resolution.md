@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: bf1db6625b9e7dd174a32ab51e57247ab3ec3d34274ed18235a36d8037accb94
 date: '2026-02-17T16:52:36+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/uploads/PPP_Feb2026-300x258.jpg\">Starting
   an estate plan is a responsible New Year’s resolution that provides peace of mind
   and protects you and your loved ones. Through DAV’s partnership with FreeWill, you

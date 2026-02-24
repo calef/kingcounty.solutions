@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-13T16:37:16-08:00'
-event_ids: []
+event_ids:
+- _events/2025-08-06-medina-days-2025.md
+events_extracted: true
 feed_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Thanks to all our patrons for another wonderful community event! <a href="https://checkout.square.site/merchant/GMXPY3Y7V9JVK/checkout/BL3KRNI3VDX3LIGWAP3GFKMP">Donations are welcome!</a> See you next year!</p>
   </div></div></div>

@@ -2,6 +2,7 @@
 classified: true
 date: '2025-10-20T16:18:17+00:00'
 event_ids: []
+events_extracted: true
 feed_content: "The Department of Commerce is seeking feedback as it finalizes guidance
   designed to help communities plan for the impacts of climate change.  \n  \nCommerce
   will accept public comment on the final [Climate Element Planning Guidance document

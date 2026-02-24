@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-23T17:30:57+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>As the holiday season lights up Seattle once again, we’re turning the spotlight back to Seattle City Light’s holiday lighting recommendations from the early 1960s. In our Digital Collections, you’ll find both a short promotional video and a brochure that showcases how SCL encouraged customers to brighten their homes for the winter holidays with style […]</p>
   <p>The post <a>“Make Your Whole House a Glowing Christmas Card”: Seattle City Light’s Holiday Lighting Tips from the 1960s </a> appeared first on <a>Primary Sources</a>.</p>

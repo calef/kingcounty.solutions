@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2026-01-21T23:41:51+00:00'
-event_ids: []
+event_ids:
+- _events/2026-01-22-town-parks-commission-special-meeting.md
+events_extracted: true
 feed_content: |-
   <p><a>AGENDA</a></p>
   <p>Notice is hereby given that on Thursday, January 22, 2026, the Town Parks Commission will hold a special meeting at Town Hall at 7:00 PM. The agenda is attached</p>

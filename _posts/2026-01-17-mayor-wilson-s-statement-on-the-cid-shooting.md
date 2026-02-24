@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-17T20:44:25+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Mayor Katie B. Wilson released the following statement: “My heart goes out to the victims of last night’s shooting, their families, and to the entire CID community, which has experienced far too many of these tragedies in recent years. I know the police will investigate this shooting with every available tool, and I also know we need to do more to improve the City’s […]</p>
   <p>The post <a>Mayor Wilson’s Statement on the CID Shooting</a> appeared first on <a>Office of the Mayor</a>.</p>

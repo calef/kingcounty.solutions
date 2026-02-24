@@ -1,7 +1,9 @@
 ---
 classified: true
 date: '2025-11-11T17:53:58+00:00'
-event_ids: []
+event_ids:
+- _events/2025-12-23-holiday-party-and-cookie-exchange.md
+events_extracted: true
 feed_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/cookie-exchange-2-791x1024.png" alt="" class="wp-image-3611"/></figure>
 

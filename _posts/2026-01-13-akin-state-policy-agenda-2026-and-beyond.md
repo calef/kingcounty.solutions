@@ -1,7 +1,9 @@
 ---
 classified: true
+content_checksum: 6d24c8cb7ddc9a57957eb12976000118f3cd06f8202e9d8c0f0e75d8efe47ea0
 date: '2026-01-13T21:51:03+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>Learn more about Akin’s state policy priorities.</p>
   <p><a>Akin State Policy Agenda: 2026 and beyond</a></p>

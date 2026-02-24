@@ -1,7 +1,10 @@
 ---
 classified: true
+content_checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 date: '2026-01-14T00:00:00-08:00'
-event_ids: []
+event_ids:
+- _events/2026-02-19-zylberschteins-fundraiser.md
+events_extracted: true
 feed_content: "<summary></summary>"
 feed_content_checksum: d0f1dd469c5e48feec2db9ef84a98e143212f574
 image_checksums: []

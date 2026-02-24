@@ -2,6 +2,7 @@
 classified: true
 date: '2026-01-16T12:56:06+00:00'
 event_ids: []
+events_extracted: true
 feed_content: A suspect is seriously injured and in police custody this morning after
   breaking into a home in North Seattle and attacking the 61-year-old homeowner. Seattle
   police officers responded to an in-progress residential burglary in the 6100 block

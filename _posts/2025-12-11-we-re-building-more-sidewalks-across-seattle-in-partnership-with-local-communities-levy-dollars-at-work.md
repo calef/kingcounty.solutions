@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-11T20:16:49+00:00'
 event_ids: []
+events_extracted: true
 feed_content: 'Blog stats: 700 words | 4-minute read This year, we’ve been walking
   the walk by hosting neighborhood “walkshops” with residents to co-create sidewalk
   and walkway plans across Seattle. Together with community members, we’ve been listening,

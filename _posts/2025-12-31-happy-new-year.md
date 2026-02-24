@@ -2,6 +2,7 @@
 classified: true
 date: '2025-12-31T06:43:00+00:00'
 event_ids: []
+events_extracted: true
 feed_content: |-
   <p>We asked our children to help us express what a “helping hand” signifies to them, and this beautiful art was the result.</p>
 
