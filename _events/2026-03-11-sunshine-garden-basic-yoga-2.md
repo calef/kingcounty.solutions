@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 8e7974f3a03bf012b4c04af37dffb6c61a6e88b42edc0b0f5a981ae23f6cfad9
 end_date: '2026-03-11T11:30:00-07:00'
 feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </p>
   <div> <span> Event Series: </span> <a> <span> Sunshine Garden: Basic Yoga </span>

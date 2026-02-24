@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 81e050982e42911bfacbf82bd4a58f13018c4c22ca7d260de41f3dbc4d16b3c0
 end_date: '2026-03-05T09:30:00-08:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <h1>Café
   con El Centro de la Raza Tour</h1> <div><div> <span>March 5 @ 8:30 am</span> - <span>9:30

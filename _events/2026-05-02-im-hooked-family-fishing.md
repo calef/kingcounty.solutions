@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 9aa4d3fbc7181b7a0d0d54e632262e458447427c60c6570cd7ffb5791112d3fe
 end_date: '2026-05-02T13:00:00-07:00'
 feed_content: "<section> <div> <p> <a> « All Events</a></p> <h1>I’m Hooked Family
   Fishing</h1> <div> <div> <span>May 2 @ 7:00 am</span> - <span>1:00 pm</span> </div>

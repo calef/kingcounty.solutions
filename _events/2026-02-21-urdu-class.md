@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 843da492c3f7940b7bab325a4d4f215f0cc6e39efd23c1e0bdefdaa860cc7347
 end_date: '2026-02-21T12:30:00+00:00'
 feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>Urdu
   Class</h1> <div> <span>Recurring Event</span> <a> see all </a> </div> <div> <div>

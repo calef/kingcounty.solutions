@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: fe225e2bf103d423bff423fda0fb3a03ec3ee4e6f77b087b08afd0c25b45a82f
 end_date: '2026-04-19T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Rhode Island
   Department Convention</h1> <div> <div> <span>April 17</span> - <span>April 18</span>

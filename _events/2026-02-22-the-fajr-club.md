@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 2e5f6acfaec05e7850fe9c2a017573f9cc31ebb4ad65a86a8518fb6abdd37c55
 end_date: '2026-02-22T08:00:00+00:00'
 feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>The
   Fajr Club</h1> <div> <span>Recurring event</span> <a> see all </a> </div> <div>

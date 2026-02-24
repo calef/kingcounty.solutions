@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: c28f3726ba83896d84954452ba8be94f8881fb857378bd5202ba07f01c7d377b
 end_date: '2026-03-27T21:00:00-07:00'
 feed_content: "<section> <div> <p> <a> « All Events</a> </p> <h1>Take a Chance for
   Kids</h1> <div> <h2> <span>March 27 @ 6:30 pm</span> - <span>9:00 pm</span> </h2>

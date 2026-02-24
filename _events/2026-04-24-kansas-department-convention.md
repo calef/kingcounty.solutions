@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: dc073b16d7abeb3ac26aea669656f84ec699bcbec491aa1a6d4bea1fa130140e
 end_date: '2026-04-27T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Kansas Department
   Convention</h1> <div> <div> <span>April 24</span> - <span>April 26</span> </div>
