@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 6030a568530ac80955db833ab1b144cbe2e62a0cb6036e0e21a726254b7bec79
 end_date: '2026-03-12T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>San Diego Job
   Fair, March 11, 2026</h1> <div> <div><span>March 11, 2026</span></div> </div> <div>

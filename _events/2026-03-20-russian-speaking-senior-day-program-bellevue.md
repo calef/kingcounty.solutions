@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 1bbde7ff9690a244ad6ce495ceec82d5a1a42b7a56fe75a11ff1ba2709225e82
 end_date: '2026-03-20T14:00:00-07:00'
 feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </p>
   <div> <span> Event Series: </span> <a> <span> Russian-Speaking Senior Day Program

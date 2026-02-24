@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 30c01487bb512e5299b50b8d8a8386fab3342fdbbc1371f1e89c9a089c8bd75f
 end_date: '2026-02-19T18:00:00-08:00'
 feed_content: '<a>Skip to content</a> <header> <a> <div> <div> <div> <p>Our Wallingford
   Food Bank has moved to a temporary location. Learn more →</p> </div> </div> </div>

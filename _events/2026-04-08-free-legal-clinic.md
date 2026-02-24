@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 6332f506f2dc6dfc392279e89975fa6414dfb0e61a338b2fcf3d5bacf790e215
 end_date: '2026-04-08T20:00:00-07:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>Free
   Legal Clinic</h1> <div> <div> <span> Event Series </span> <a> <span> (See All) </span>

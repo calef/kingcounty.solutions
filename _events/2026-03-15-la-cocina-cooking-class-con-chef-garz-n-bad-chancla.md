@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: c8ea5255d907bef5fb26c4f6ee59eb3592774398f5cf43d15802afe199a9d464
 end_date: '2026-03-15T14:00:00-07:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>La
   Cocina Cooking Class con Chef Garzón (Bad Chancla)</h1> <div> <div><p> <span> March

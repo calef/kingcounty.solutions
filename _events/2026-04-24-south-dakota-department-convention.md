@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 3b717fb422ef7d7de30d7fcb502da4aa976e78f570dfd2187dcaa685ddb40302
 end_date: '2026-04-26T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>South Dakota
   Department Convention</h1> <div> <div> <span>April 24</span> - <span>April 25</span>

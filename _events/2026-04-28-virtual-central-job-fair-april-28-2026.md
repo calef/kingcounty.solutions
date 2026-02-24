@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: b1ffb338cbc7da3b5cc0a34867ef0382305240141582155bab6b6582d1b3392b
 end_date: '2026-04-29T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Virtual (Central)
   Job Fair, April 28, 2026</h1> <div> <div><span>April 28</span></div> </div> <div>

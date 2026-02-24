@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 37b2142730772f4a4207d7ffbd35ec81d629951965fb450c5b265f2a93ceaa47
 end_date: '2026-03-19T00:00:00-07:00'
 feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>Fort Campbell
   Job Fair, March 18, 2026</h1> <div> <div><span>March 18, 2026</span></div> </div>

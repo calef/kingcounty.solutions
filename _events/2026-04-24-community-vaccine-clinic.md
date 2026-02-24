@@ -1,5 +1,6 @@
 ---
 classified: true
+content_checksum: 54d64f9c6815b81ce289cb84f3591dcdefd519fa048217f7f266e05128e686bc
 end_date: '2026-04-24T14:00:00-07:00'
 feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>Community
   Vaccine Clinic</h1> <div> <div><p> <span> April 24 </span> <span> @ </span> <span>
