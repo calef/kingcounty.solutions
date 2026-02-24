@@ -28,6 +28,11 @@ gem 'time'
 gem 'uri'
 gem 'yaml'
 
+group :automation do
+  gem 'chio', github: 'calef/chio'
+  gem 'hemingway', github: 'calef/hemingway'
+end
+
 group :development, :test do
   gem 'html5_validator'
   gem 'parallel_tests'
