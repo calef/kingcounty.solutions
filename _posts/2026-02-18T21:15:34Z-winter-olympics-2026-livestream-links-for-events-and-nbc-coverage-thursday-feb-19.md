@@ -76,14 +76,9 @@ topic_titles: []
 The Milan Cortina Winter Olympics 2026 will feature significant events on Thursday, February 19, including the women's hockey gold medal game between the U.S. and Canada, and the women's figure skating free skate. This day marks the 13th day of competition, with medals awarded in ski mountaineering, freestyle skiing, Nordic combined, speed skating, and women's hockey.
 
 New Olympic events debuting include ski mountaineering, with men's and women's sprints scheduled. Livestreams for many events will be available on NBC, Peacock, and nbcolympics.com, although viewers will need cable or satellite authentication.
-<<<<<<< HEAD
 
 Key events and their scheduled times in Eastern Time include:
 
-=======
-
-Key events and their scheduled times in Eastern Time include:
->>>>>>> import-new-content
 - Women's Free Skate at 1 p.m.
 - Women's Hockey Gold Final at 1:10 p.m.
 - Men's 1,500 meters speed skating at 10:30 a.m.
