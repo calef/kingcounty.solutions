@@ -25,6 +25,10 @@ module Mayhem
         self['date']
       end
 
+      def alt_text
+        self['alt_text']
+      end
+
       def image_url
         self['image_url']
       end

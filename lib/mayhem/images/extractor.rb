@@ -198,6 +198,7 @@ module Mayhem
           'title' => title,
           'date' => resolve_date(source_record)
         }
+        front_matter['alt_text'] = alt.to_s.strip unless alt.to_s.strip.empty?
         front_matter['organization_title'] = organization_title unless organization_title.to_s.strip.empty?
 
         Mayhem::Models::Image.create!(front_matter, body: '')
