@@ -17,12 +17,10 @@ module Mayhem
         "_locations/#{slug}.md"
       end
 
+      attribute :parent_location_title
+
       def location_type
         self['type']
-      end
-
-      def parent_location_title
-        self['parent_location_title']
       end
 
       # Returns the parent Location record.
