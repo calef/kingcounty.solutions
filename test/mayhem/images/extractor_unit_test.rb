@@ -60,6 +60,20 @@ class ImageExtractorUnitTest < Minitest::Test
     assert_equal original_url, image.source_url
     assert_equal 'Alt', image.title
     assert_equal frontmatter['organization_title'], image.organization_title
+    assert_equal 'Alt', image.alt_text
+  end
+
+  def test_ensure_image_record_omits_alt_text_when_blank
+    frontmatter = { 'title' => 'Post', 'organization_title' => 'Test', 'date' => '2025-01-01' }
+    checksum = 'deadbeef02'
+    filename = 'deadbeef02.webp'
+    original_url = 'https://example.com/img2.png'
+
+    @extractor.send(:ensure_image_record, checksum, '', filename, frontmatter, original_url)
+
+    image = Mayhem::Models::Image.find_by(checksum: checksum)
+    assert_nil image.alt_text
+    assert_equal 'Image', image.title
   end
 
   def test_ensure_image_record_prefers_start_date_when_date_missing

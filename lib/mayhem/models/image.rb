@@ -17,17 +17,7 @@ module Mayhem
         "_images/#{checksum}.md"
       end
 
-      def checksum
-        self['checksum']
-      end
-
-      def date
-        self['date']
-      end
-
-      def image_url
-        self['image_url']
-      end
+      attribute :alt_text, :checksum, :date, :image_url
 
       def news
         require_relative 'news'

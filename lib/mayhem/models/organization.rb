@@ -21,21 +21,10 @@ module Mayhem
         "#{COLLECTION_DIR}/#{slug}.md"
       end
 
-      def acronym
-        self['acronym']
-      end
-
-      def address
-        self['address']
-      end
-
-      def email
-        self['email']
-      end
-
-      def events_ical_url
-        self['events_ical_url']
-      end
+      attribute :acronym, :address, :email, :events_ical_url
+      attribute :news_rss_url, :parent_organization_title, :phone
+      attribute :type, :website_url
+      attribute :website_xml_sitemap_urls, default: []
 
       def news
         require_relative 'news'
@@ -52,14 +41,6 @@ module Mayhem
         find_related_records(Mayhem::Models::Image, match_key: :title, target_field: :organization_title, array_field: false)
       end
 
-      def news_rss_url
-        self['news_rss_url']
-      end
-
-      def parent_organization_title
-        self['parent_organization_title']
-      end
-
       # Returns the parent Organization record.
       # Returns nil if no parent is configured or the parent cannot be found.
       def parent_organization
@@ -70,22 +51,6 @@ module Mayhem
 
       def parent_organization?
         !parent_organization.nil?
-      end
-
-      def phone
-        self['phone']
-      end
-
-      def type
-        self['type']
-      end
-
-      def website_url
-        self['website_url']
-      end
-
-      def website_xml_sitemap_urls
-        self['website_xml_sitemap_urls'] || []
       end
     end
   end
