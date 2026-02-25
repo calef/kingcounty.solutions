@@ -52,7 +52,6 @@ module Mayhem
       def parent_organization?
         !parent_organization.nil?
       end
-
     end
   end
 end
