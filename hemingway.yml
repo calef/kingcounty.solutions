@@ -31,5 +31,9 @@ voice:
 publishing:
   image_min_dimension: 300
 
+crawl:
+  from_email: chris@crickertech.com
+  max_content_age_days: 180
+
 concurrency:
   max_threads: 6
