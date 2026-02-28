@@ -17,7 +17,7 @@ module Mayhem
 
       PERMITTED_CLASSES = [Date, Time].freeze
 
-      ParseResult = Struct.new(:front_matter, :body, :raw, keyword_init: true)
+      ParseResult = Struct.new(:front_matter, :body, :raw)
 
       LOCK_KEY = 'locked'
 
