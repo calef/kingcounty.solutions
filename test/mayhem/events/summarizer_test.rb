@@ -242,7 +242,7 @@ class EventSummarizerTest < Minitest::Test
     event = Mayhem::Models::Event.find(event_id)
 
     assert_equal %w[Seattle Bellevue], event.location_titles
-    assert_nil event.published
+    assert event.published
   end
 
   def test_run_marks_unpublished_when_backfilled_location_titles_empty

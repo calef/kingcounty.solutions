@@ -82,8 +82,8 @@ module Mayhem
       def filter_to_highest_level(titles, locations)
         return titles if titles.empty?
 
-        title_to_location = locations.each_with_object({}) do |loc, hash|
-          hash[loc[:title]] = loc
+        title_to_location = locations.to_h do |loc|
+          [loc[:title], loc]
         end
 
         titles.reject do |title|
