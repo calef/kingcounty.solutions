@@ -17,9 +17,9 @@ GIT
 
 GIT
   remote: https://github.com/calef/hemingway.git
-  revision: 68737c9f3b7370687ea8eb033858b47166cc3f17
+  revision: 9f1077d2a941d0a4d41df3b682a70df77ee4f0a0
   specs:
-    hemingway (0.3.1)
+    hemingway (0.3.2)
       base64
       chio
       fmrepo
